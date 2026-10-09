@@ -1,0 +1,4781 @@
+{
+ "entries": [
+  {
+   "id": "termeszeti-kornyezet",
+   "term": "természeti környezet",
+   "aliases": [],
+   "sourceLabels": [
+    "természeti környezet"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A Föld természetes elemeinek (kőzetburok, légkör, vízburok, talaj, élővilág) összessége, amelyek egymással kölcsönhatásban állnak. Nem az ember hozta létre, de az ember tevékenysége átalakíthatja.",
+   "example": "Az Aggteleki-karszt barlangjai, a Tisza vize vagy a Mátra erdői a természeti környezet részei.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt",
+    "magyarorszag--egyeb-tajak-teruletek--matra"
+   ],
+   "related": [
+    "tarsadalmi-kornyezet",
+    "foldrajzi-kornyezet"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tarsadalmi-kornyezet",
+   "term": "társadalmi környezet",
+   "aliases": [],
+   "sourceLabels": [
+    "társadalmi környezet"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Az ember által létrehozott elemek (települések, közlekedési hálózat, gazdasági létesítmények) és a társadalmi kapcsolatok, intézmények összessége.",
+   "example": "Budapest épületei, útjai, gyárai és intézményei a társadalmi környezetet alkotják.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "termeszeti-kornyezet",
+    "foldrajzi-kornyezet"
+   ],
+   "tags": [
+    "társadalom",
+    "település",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldrajzi-kornyezet",
+   "term": "földrajzi környezet",
+   "aliases": [],
+   "sourceLabels": [
+    "földrajzi környezet"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A természeti és a társadalmi környezet egysége: a Föld felszínének az a része, amellyel az emberi társadalom kapcsolatba kerül, és amelyet átalakít. Elemei kölcsönösen hatnak egymásra.",
+   "example": "A Tisza szabályozása a természeti környezetet (folyó) a társadalom igényei szerint alakította át.",
+   "examplePlaces": [
+    "magyarorszag--vizrajz--tisza"
+   ],
+   "related": [
+    "termeszeti-kornyezet",
+    "tarsadalmi-kornyezet"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "társadalom",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "terkep",
+   "term": "térkép",
+   "aliases": [],
+   "sourceLabels": [
+    "térkép"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A Föld felszínének (vagy egy részének) felülnézeti, síkba tett, kicsinyített és általánosított (generalizált) ábrázolása, amely jelek, színek és feliratok segítségével közöl információkat.",
+   "example": "Egy turistatérkép a Mátra utait, csúcsait és forrásait mutatja be.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--matra"
+   ],
+   "related": [
+    "foldgomb",
+    "meretarany",
+    "jelkulcs",
+    "vetulet"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldgomb",
+   "term": "földgömb",
+   "aliases": [],
+   "sourceLabels": [
+    "földgömb"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A Föld kicsinyített, gömb alakú modellje. Mivel alakja hasonló a Földéhez, a szögeket, távolságokat és területeket arányosan, torzítás nélkül mutatja, de csak kis méretarányú, kevés részletet ábrázolhat.",
+   "example": "A földgömbön jól látszik, hogy a hosszúsági körök a sarkokon találkoznak.",
+   "related": [
+    "terkep",
+    "vetulet",
+    "foldrajzi-fokhalozat"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "meretarany",
+   "term": "méretarány",
+   "aliases": [],
+   "sourceLabels": [
+    "méretarány"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Megmutatja, hányszorosára kicsinyítették a valóságot a térképen: a térképi és a valódi távolság aránya (pl. 1:100 000). Minél kisebb a méretarányszám, annál nagyobb a méretarány és annál részletesebb a térkép.",
+   "example": "1:100 000-es méretarányú térképen 1 cm a valóságban 100 000 cm = 1 km.",
+   "related": [
+    "vonalas-aranymertek",
+    "meretarany-szerinti-terkepek"
+   ],
+   "tags": [
+    "térkép",
+    "számolás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vonalas-aranymertek",
+   "term": "vonalas aránymérték",
+   "aliases": [],
+   "sourceLabels": [
+    "vonalas aránymérték"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A méretarány grafikus megjelenítése: egy beosztott szakasz, amelyről közvetlenül leolvasható, hogy a térképi távolság a valóságban mekkora távolságnak felel meg. Előnye, hogy a térkép nagyítása vagy kicsinyítése után is helyes marad.",
+   "example": "Ha a vonalas aránymérték 2 cm-es szakasza 10 km-t jelöl, akkor 1 cm = 5 km, azaz a méretarány 1:500 000.",
+   "related": [
+    "meretarany"
+   ],
+   "tags": [
+    "térkép",
+    "számolás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jelkulcs",
+   "term": "jelkulcs",
+   "aliases": [],
+   "sourceLabels": [
+    "jelkulcs"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A térképen alkalmazott jelek, színek, vonalak és rövidítések magyarázata, általában a térkép szélén. Segítségével a térkép tartalma értelmezhető.",
+   "example": "A jelkulcs szerint a kék vonal folyót, a fekete háromszög hegycsúcsot jelöl.",
+   "related": [
+    "terkep",
+    "atlasz",
+    "magassagi-szam"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "terkeptipusok-tartalom-szerint",
+   "term": "topográfiai, földrajzi és tematikus térkép",
+   "aliases": [],
+   "sourceLabels": [
+    "topográfiai",
+    "földrajzi és tematikus térkép"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A térképek tartalmuk szerinti fő típusai: a topográfiai térkép a terep pontos, részletes ábrázolása, az általános földrajzi térkép a természeti és társadalmi elemeket együtt mutatja, a tematikus térkép egy kiválasztott témát emel ki.",
+   "example": "Az atlaszban Európa domborzati térképe általános földrajzi, népsűrűségi térképe tematikus térkép.",
+   "related": [
+    "topografiai-terkep",
+    "foldrajzi-terkep",
+    "tematikus-terkep",
+    "atlasz"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "topografiai-terkep",
+   "term": "topográfiai térkép",
+   "aliases": [
+    "topográfiai térkép"
+   ],
+   "sourceLabels": [],
+   "parent": "terkeptipusok-tartalom-szerint",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Nagy méretarányú, a terep minden fontos elemét (domborzat, vízrajz, települések, utak, növényzet) pontosan és részletesen ábrázoló térkép. Tájékozódásra, tervezésre, katonai célokra használják.",
+   "example": "Egy 1:25 000-es topográfiai térképen egy falu egyes utcái és dűlőútjai is megjelennek.",
+   "related": [
+    "terkeptipusok-tartalom-szerint",
+    "szintvonalas-abrazolas"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldrajzi-terkep",
+   "term": "földrajzi térkép",
+   "aliases": [
+    "általános földrajzi térkép"
+   ],
+   "sourceLabels": [],
+   "parent": "terkeptipusok-tartalom-szerint",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Általános földrajzi térkép: a természeti (domborzat, vízrajz) és a társadalmi (települések, határok, közlekedés) elemeket együtt, áttekintően ábrázolja, általában közepes vagy kis méretarányban.",
+   "example": "Magyarország domborzati térképe az atlaszban az Alföldet és a középhegységeket is mutatja.",
+   "related": [
+    "terkeptipusok-tartalom-szerint",
+    "tematikus-terkep"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tematikus-terkep",
+   "term": "tematikus térkép",
+   "aliases": [
+    "szaktérkép"
+   ],
+   "sourceLabels": [],
+   "parent": "terkeptipusok-tartalom-szerint",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Egy kiválasztott témát (pl. éghajlat, népsűrűség, ipar, talaj) ábrázoló térkép, amelyen az alaptérkép csak a tájékozódást segíti.",
+   "example": "Az évi csapadékmennyiséget vagy a népsűrűséget bemutató térkép tematikus térkép.",
+   "related": [
+    "terkeptipusok-tartalom-szerint",
+    "foldrajzi-terkep"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "atlasz",
+   "term": "atlasz",
+   "aliases": [],
+   "sourceLabels": [
+    "atlasz"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Különböző méretarányú és tartalmú térképek rendszerezett, könyv alakú gyűjteménye, egységes jelkulccsal és névmutatóval.",
+   "example": "A középiskolai földrajzi atlasz általános földrajzi és tematikus térképeket egyaránt tartalmaz.",
+   "related": [
+    "terkep",
+    "jelkulcs",
+    "keresohalozat"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "meretarany-szerinti-terkepek",
+   "term": "kis, közepes és nagy méretarányú térkép",
+   "aliases": [],
+   "sourceLabels": [
+    "kis",
+    "közepes és nagy méretarányú térkép"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A térképek méretarány szerinti csoportjai. Minél nagyobb a méretarány, annál kisebb területet ábrázol a térkép, de annál részletesebben.",
+   "example": "A világtérkép kis, Magyarország autóstérképe közepes, egy város térképe nagy méretarányú.",
+   "related": [
+    "meretarany",
+    "kis-meretaranyu-terkep",
+    "kozepes-meretaranyu-terkep",
+    "nagy-meretaranyu-terkep"
+   ],
+   "tags": [
+    "térkép",
+    "számolás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kis-meretaranyu-terkep",
+   "term": "kis méretarányú térkép",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "meretarany-szerinti-terkepek",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Az 1:1 000 000-nél kisebb méretarányú térkép. Nagy területet (országcsoportot, földrészt, az egész Földet) ábrázol, kevés részlettel, erős általánosítással.",
+   "example": "Európa 1:15 000 000-es térképe az atlaszban.",
+   "examplePlaces": [
+    "fold--foldreszek--europa"
+   ],
+   "related": [
+    "meretarany-szerinti-terkepek",
+    "meretarany"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kozepes-meretaranyu-terkep",
+   "term": "közepes méretarányú térkép",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "meretarany-szerinti-terkepek",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Az 1:200 000 és 1:1 000 000 közötti méretarányú térkép, amely egy országot vagy nagyobb tájat ábrázol közepes részletességgel.",
+   "example": "Magyarország 1:500 000-es autóstérképe.",
+   "related": [
+    "meretarany-szerinti-terkepek",
+    "meretarany"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nagy-meretaranyu-terkep",
+   "term": "nagy méretarányú térkép",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "meretarany-szerinti-terkepek",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "Az 1:200 000-nél nagyobb méretarányú térkép. Kis területet ábrázol nagyon részletesen, kevés általánosítással.",
+   "example": "Egy 1:10 000-es várostérkép vagy egy 1:40 000-es turistatérkép.",
+   "related": [
+    "meretarany-szerinti-terkepek",
+    "topografiai-terkep"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "domborzatabrazolas",
+   "term": "szintvonalas, színfokozatos és árnyékolásos domborzatábrázolás",
+   "aliases": [],
+   "sourceLabels": [
+    "szintvonalas",
+    "színfokozatos",
+    "árnyékolásos domborzatábrázolás"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A felszín magassági viszonyainak síkbeli megjelenítési módszerei a térképen. A gyakorlatban gyakran kombinálják őket, pl. a színfokozatos ábrázolást árnyékolással.",
+   "example": "Az atlasz domborzati térképei színfokozatosak és árnyékoltak, a turistatérképek szintvonalasak.",
+   "related": [
+    "szintvonalas-abrazolas",
+    "szinfokozatos-abrazolas",
+    "arnyekolasos-abrazolas",
+    "domborzatrajz"
+   ],
+   "tags": [
+    "térkép",
+    "felszínformálás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szintvonalas-abrazolas",
+   "term": "szintvonalas domborzatábrázolás",
+   "aliases": [
+    "szintvonal"
+   ],
+   "sourceLabels": [],
+   "parent": "domborzatabrazolas",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A szintvonal az azonos tengerszint feletti magasságú pontokat összekötő vonal. Ahol a szintvonalak sűrűn futnak, ott meredek, ahol ritkán, ott lankás a lejtő; a zárt, befelé emelkedő szintvonalak csúcsot jeleznek.",
+   "example": "A Kékes környékén a turistatérkép szintvonalai sűrűn futnak, mert a lejtők meredekek.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--kekes"
+   ],
+   "related": [
+    "domborzatabrazolas",
+    "tengerszint-feletti-magassag",
+    "topografiai-terkep"
+   ],
+   "tags": [
+    "térkép",
+    "felszínformálás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szinfokozatos-abrazolas",
+   "term": "színfokozatos domborzatábrázolás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "domborzatabrazolas",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A magassági övezeteket a szintvonalak közötti területek eltérő színezésével ábrázolja: az alföldek zöldek, a magasabb területek sárgák, majd egyre sötétebb barnák, a vízmélységet kék árnyalatok jelzik.",
+   "example": "Az atlaszban az Alföld zöld, az Északi-középhegység barna színnel jelenik meg.",
+   "examplePlaces": [
+    "magyarorszag--fo-tajegysegek--alfold"
+   ],
+   "related": [
+    "domborzatabrazolas",
+    "abszolut-es-relativ-magassag"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "arnyekolasos-abrazolas",
+   "term": "árnyékolásos domborzatábrázolás",
+   "aliases": [
+    "domborzatárnyékolás"
+   ],
+   "sourceLabels": [],
+   "parent": "domborzatabrazolas",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "kozep",
+   "definition": "A domborzatot úgy ábrázolja, mintha a felszínt oldalról (hagyományosan északnyugat felől) világítanák meg; a fénytől elforduló lejtők sötétebbek. Plasztikus, térhatású képet ad, de magasság nem olvasható le róla.",
+   "example": "A hegységek árnyékolása miatt a Kárpátok íve az atlaszban szinte kiemelkedik a lapból.",
+   "related": [
+    "domborzatabrazolas",
+    "szinfokozatos-abrazolas"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vetulet",
+   "term": "sík-, henger- és kúpvetület",
+   "aliases": [
+    "vetület",
+    "térképi vetület"
+   ],
+   "sourceLabels": [
+    "sík-",
+    "henger- és kúpvetület"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "emelt",
+   "definition": "A vetület a gömbfelület (a fokhálózat) síkba tételének matematikai módszere. Mivel a gömbfelület torzulás nélkül nem teríthető síkba, minden vetület torzít (szöget, távolságot vagy területet); a vetítési felület szerint sík-, henger- és kúpvetületet különböztetünk meg.",
+   "example": "A sarkvidékek térképe síkvetületű, Európáé gyakran kúpvetületű, a világtérkép sokszor hengervetületű.",
+   "related": [
+    "sikvetulet",
+    "hengervetulet",
+    "kupvetulet",
+    "foldgomb",
+    "terkep"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sikvetulet",
+   "term": "síkvetület",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vetulet",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "emelt",
+   "definition": "A fokhálózatot egy, a gömböt egy pontban érintő síkra vetítik. Az érintési pont környékén pontos, attól távolodva egyre jobban torzít; a sarki síkvetületen a szélességi körök koncentrikus körök, a hosszúsági körök sugarak.",
+   "example": "Az Északi-sarkvidék térképe általában síkvetületű.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--eszaki-sark"
+   ],
+   "related": [
+    "vetulet",
+    "hengervetulet",
+    "kupvetulet"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hengervetulet",
+   "term": "hengervetület",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vetulet",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "emelt",
+   "definition": "A fokhálózatot a gömböt (általában az Egyenlítő mentén) érintő henger palástjára vetítik, majd kiterítik. A hosszúsági és szélességi körök egymásra merőleges egyenesek; az Egyenlítő közelében pontos, a sarkok felé a területek erősen nagyobbnak látszanak.",
+   "example": "A Mercator-féle hengervetületű világtérképen Grönland nagyobbnak tűnik Afrikánál, pedig sokkal kisebb.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito"
+   ],
+   "related": [
+    "vetulet",
+    "sikvetulet",
+    "kupvetulet"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kupvetulet",
+   "term": "kúpvetület",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vetulet",
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "emelt",
+   "definition": "A fokhálózatot egy, a gömböt valamely szélességi kör mentén érintő kúp palástjára vetítik. Az érintő szélességi kör környezetében a legpontosabb, ezért a mérsékelt övezet kelet–nyugati irányban elnyúló területeinek ábrázolására alkalmas.",
+   "example": "Európa és Magyarország térképei gyakran kúpvetületben készülnek.",
+   "examplePlaces": [
+    "fold--foldreszek--europa"
+   ],
+   "related": [
+    "vetulet",
+    "sikvetulet",
+    "hengervetulet"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sikrajz",
+   "term": "síkrajz",
+   "aliases": [],
+   "sourceLabels": [
+    "síkrajz"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "emelt",
+   "definition": "A térkép tartalmi eleme, amely a felszín vízszintes kiterjedésű tárgyait és jelenségeit ábrázolja felülnézetben: vízrajz, települések, közlekedési vonalak, határok, növényzet.",
+   "example": "A Balaton partvonala, a környező települések és az utak a térkép síkrajzához tartoznak.",
+   "examplePlaces": [
+    "magyarorszag--vizrajz--balaton"
+   ],
+   "related": [
+    "domborzatrajz",
+    "nevrajz",
+    "jelkulcs"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "domborzatrajz",
+   "term": "domborzatrajz",
+   "aliases": [],
+   "sourceLabels": [
+    "domborzatrajz"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "emelt",
+   "definition": "A térkép tartalmi eleme, amely a felszín függőleges tagoltságát, magassági viszonyait ábrázolja (szintvonalakkal, színfokozatokkal, árnyékolással, magassági számokkal).",
+   "example": "A Mátra szintvonalai és a Kékes magassági száma a domborzatrajz része.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--matra"
+   ],
+   "related": [
+    "sikrajz",
+    "nevrajz",
+    "domborzatabrazolas"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nevrajz",
+   "term": "névrajz",
+   "aliases": [],
+   "sourceLabels": [
+    "névrajz"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "level": "emelt",
+   "definition": "A térkép tartalmi eleme, amely a térképen szereplő földrajzi neveket és egyéb feliratokat foglalja magában. A betűk típusa, mérete és színe is információt hordoz (pl. a vízrajzi nevek kékek).",
+   "example": "A „Tisza” kék, dőlt betűs felirata a névrajz része.",
+   "examplePlaces": [
+    "magyarorszag--vizrajz--tisza"
+   ],
+   "related": [
+    "sikrajz",
+    "domborzatrajz"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldrajzi-fekves",
+   "term": "tényleges és viszonylagos földrajzi fekvés",
+   "aliases": [],
+   "sourceLabels": [
+    "tényleges és viszonylagos földrajzi fekvés"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Egy földrajzi hely elhelyezkedésének kétféle meghatározása: fokhálózati adatokkal (tényleges) vagy más földrajzi objektumokhoz viszonyítva (viszonylagos).",
+   "example": "Budapest tényleges fekvése kb. é. sz. 47,5°, k. h. 19°; viszonylagos fekvése: a Duna két partján, az Alföld és a Dunántúli-középhegység találkozásánál.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "tenyleges-fekves",
+    "viszonylagos-fekves",
+    "foldrajzi-fokhalozat"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tenyleges-fekves",
+   "term": "tényleges földrajzi fekvés",
+   "aliases": [
+    "abszolút földrajzi fekvés",
+    "csillagászati földrajzi fekvés"
+   ],
+   "sourceLabels": [],
+   "parent": "foldrajzi-fekves",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Egy pont helyzetének megadása a földrajzi fokhálózat segítségével, földrajzi szélességgel és földrajzi hosszúsággal. Egyértelmű, de önmagában keveset mond a hely környezetéről.",
+   "example": "A greenwichi kezdő délkör és az Egyenlítő metszéspontja: 0° szélesség, 0° hosszúság.",
+   "related": [
+    "foldrajzi-fekves",
+    "viszonylagos-fekves",
+    "szelessegi-kor",
+    "hosszusagi-kor"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "viszonylagos-fekves",
+   "term": "viszonylagos földrajzi fekvés",
+   "aliases": [
+    "relatív földrajzi fekvés"
+   ],
+   "sourceLabels": [],
+   "parent": "foldrajzi-fekves",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Egy hely helyzetének megadása más földrajzi objektumokhoz (folyókhoz, hegységekhez, tengerekhez, városokhoz, országokhoz) viszonyítva. Gyakran a hely gazdasági, közlekedési előnyeit is megmagyarázza.",
+   "example": "Szeged a Tisza és a Maros összefolyásánál, az ország déli határa közelében fekszik.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--szeged"
+   ],
+   "related": [
+    "foldrajzi-fekves",
+    "tenyleges-fekves"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tengerszint-feletti-magassag",
+   "term": "tengerszint feletti magasság",
+   "aliases": [],
+   "sourceLabels": [
+    "tengerszint feletti magasság"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Egy pont függőleges távolsága a középtengerszinttől (az átlagos tengerszinttől). Magyarországon a Balti-tenger középszintjéhez viszonyítunk (balti alapszint).",
+   "example": "A Kékes tengerszint feletti magassága 1014 m, a Holt-tenger partja a tengerszint alatt fekszik.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--kekes",
+    "azsia--vizrajz--holt-tenger"
+   ],
+   "related": [
+    "abszolut-es-relativ-magassag",
+    "magassagi-szam",
+    "szintvonalas-abrazolas"
+   ],
+   "tags": [
+    "térkép",
+    "Magyarország",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "magassagi-szam",
+   "term": "magassági szám",
+   "aliases": [],
+   "sourceLabels": [
+    "magassági szám"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A térképen egy pont (pl. hegycsúcs, nyereg) tengerszint feletti magasságát méterben megadó szám. A tengerek, tavak mélységét kék mélységi számok jelzik.",
+   "example": "A térképen a Kékes mellett álló „1014” magassági szám.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--kekes"
+   ],
+   "related": [
+    "tengerszint-feletti-magassag",
+    "jelkulcs",
+    "domborzatrajz"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "abszolut-es-relativ-magassag",
+   "term": "abszolút és relatív magasság",
+   "aliases": [],
+   "sourceLabels": [
+    "abszolút és relatív magasság"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A magasság kétféle megadása: az abszolút magasság a tengerszinthez, a relatív magasság egy másik ponthoz viszonyított magasság.",
+   "example": "A Mount Everest abszolút magassága kb. 8849 m, a Tibeti-fennsík felől mért relatív magassága ennél jóval kisebb.",
+   "examplePlaces": [
+    "azsia--tajak--csomolungma-mt-everest"
+   ],
+   "related": [
+    "abszolut-magassag",
+    "relativ-magassag",
+    "tengerszint-feletti-magassag"
+   ],
+   "tags": [
+    "térkép",
+    "számolás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "abszolut-magassag",
+   "term": "abszolút magasság",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "abszolut-es-relativ-magassag",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Egy pont tengerszinttől mért függőleges magassága, azaz a tengerszint feletti magasság.",
+   "example": "A Kékes abszolút magassága 1014 m.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--kekes"
+   ],
+   "related": [
+    "abszolut-es-relativ-magassag",
+    "relativ-magassag",
+    "tengerszint-feletti-magassag"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "relativ-magassag",
+   "term": "relatív magasság",
+   "aliases": [
+    "viszonylagos magasság"
+   ],
+   "sourceLabels": [],
+   "parent": "abszolut-es-relativ-magassag",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Két pont tengerszint feletti magasságának különbsége, azaz egy pont magassága egy másik ponthoz (pl. a környező síksághoz, völgytalphoz) viszonyítva. Kiszámítása: a magasabb pont abszolút magasságából kivonjuk az alacsonyabbét.",
+   "example": "Ha egy 1014 m-es csúcs lábánál a völgy 300 m magasan fekszik, a csúcs relatív magassága 714 m.",
+   "related": [
+    "abszolut-es-relativ-magassag",
+    "abszolut-magassag"
+   ],
+   "tags": [
+    "térkép",
+    "számolás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldrajzi-fokhalozat",
+   "term": "földrajzi fokhálózat",
+   "aliases": [
+    "fokhálózat"
+   ],
+   "sourceLabels": [
+    "földrajzi fokhálózat"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A Földre képzeletben ráhúzott szélességi és hosszúsági körök rendszere, amelynek segítségével bármely pont helye földrajzi szélességgel és földrajzi hosszúsággal megadható. A szélességet az Egyenlítőtől, a hosszúságot a greenwichi kezdő délkörtől mérjük fokokban.",
+   "example": "Az Egyenlítő mentén 1° hosszúságkülönbség kb. 111 km-nek felel meg (40 000 km : 360°).",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito",
+    "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor"
+   ],
+   "related": [
+    "szelessegi-kor",
+    "hosszusagi-kor",
+    "felgombok",
+    "greenwich",
+    "tenyleges-fekves"
+   ],
+   "tags": [
+    "térkép",
+    "számolás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szelessegi-kor",
+   "term": "szélességi kör",
+   "aliases": [
+    "földrajzi szélesség",
+    "parallelkör"
+   ],
+   "sourceLabels": [
+    "szélességi kör"
+   ],
+   "parent": "foldrajzi-fokhalozat",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Az Egyenlítővel párhuzamos, a Földet kelet–nyugati irányban körülölelő kör. A leghosszabb az Egyenlítő (0°), a sarkok felé egyre rövidebbek; a sarkok (90°) már csak pontok. A földrajzi szélesség az Egyenlítőtől északra vagy délre 0–90°-ig mérhető.",
+   "example": "Nevezetes szélességi körök: Egyenlítő, Ráktérítő, Baktérítő, Északi és Déli sarkkör.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito",
+    "fold--foldrajzi-fokhalozat--rakterito",
+    "fold--foldrajzi-fokhalozat--bakterito",
+    "fold--foldrajzi-fokhalozat--eszaki-sarkkor"
+   ],
+   "related": [
+    "hosszusagi-kor",
+    "foldrajzi-fokhalozat",
+    "felgombok"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hosszusagi-kor",
+   "term": "hosszúsági kör",
+   "aliases": [
+    "délkör",
+    "meridián",
+    "földrajzi hosszúság"
+   ],
+   "sourceLabels": [
+    "hosszúsági kör"
+   ],
+   "parent": "foldrajzi-fokhalozat",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Az Északi- és a Déli-sarkot összekötő, az Egyenlítőre merőleges félkör (délkör). Mindegyik egyforma hosszú (kb. 20 000 km). A földrajzi hosszúságot a greenwichi kezdő hosszúsági körtől keletre vagy nyugatra 0–180°-ig mérjük.",
+   "example": "Magyarország nagyjából a k. h. 16° és 23° között fekszik; az egy hosszúsági körön fekvő helyeken azonos a helyi idő.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor"
+   ],
+   "related": [
+    "szelessegi-kor",
+    "foldrajzi-fokhalozat",
+    "greenwich",
+    "helyi-ido"
+   ],
+   "tags": [
+    "térkép",
+    "Föld-mozgásai",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "felgombok",
+   "term": "északi, déli, keleti és nyugati félgömb",
+   "aliases": [],
+   "sourceLabels": [
+    "északi",
+    "déli",
+    "keleti és nyugati félgömb"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A Föld felosztása félgömbökre: az Egyenlítő az északi és a déli, a kezdő (0°) és a 180°-os hosszúsági kör a keleti és a nyugati félgömböt választja el.",
+   "example": "Magyarország az északi és a keleti félgömbön, Brazília nagyobb része a déli és a nyugati félgömbön fekszik.",
+   "related": [
+    "eszaki-es-deli-felgomb",
+    "keleti-es-nyugati-felgomb",
+    "foldrajzi-fokhalozat"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eszaki-es-deli-felgomb",
+   "term": "északi és déli félgömb",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "felgombok",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "Az Egyenlítő által elválasztott két félgömb. Az északin a földrajzi szélesség északi (é. sz.), a délin déli (d. sz.); az évszakok a két félgömbön ellentétesek.",
+   "example": "Amikor Magyarországon nyár van, Új-Zélandon tél.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito",
+    "ausztralia-es-oceania--orszagok--uj-zeland"
+   ],
+   "related": [
+    "felgombok",
+    "szelessegi-kor",
+    "csillagaszati-evszakok"
+   ],
+   "tags": [
+    "térkép",
+    "Föld-mozgásai",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "keleti-es-nyugati-felgomb",
+   "term": "keleti és nyugati félgömb",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "felgombok",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A kezdő (0°-os, greenwichi) és a 180°-os hosszúsági kör által elválasztott két félgömb. A keleti félgömbön keleti (k. h.), a nyugatin nyugati (ny. h.) hosszúságot mérünk.",
+   "example": "Európa nagy része a keleti, Amerika a nyugati félgömbön fekszik.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor"
+   ],
+   "related": [
+    "felgombok",
+    "hosszusagi-kor",
+    "greenwich"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "keresohalozat",
+   "term": "keresőhálózat",
+   "aliases": [],
+   "sourceLabels": [
+    "keresőhálózat"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A térképre rajzolt, betűkkel és számokkal jelölt négyzethálózat, amely a névmutatóval együtt a keresett hely gyors megtalálását segíti. Nem azonos a földrajzi fokhálózattal.",
+   "example": "A várostérkép névmutatójában az utca mellett álló „C4” jelzés a keresőhálózat egy négyzetét adja meg.",
+   "related": [
+    "atlasz",
+    "foldrajzi-fokhalozat"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilagtajak",
+   "term": "fő- és mellékvilágtájak",
+   "aliases": [],
+   "sourceLabels": [
+    "fő- és mellékvilágtájak"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A tájékozódás alapirányai. A négy fővilágtáj az észak, kelet, dél és nyugat; a közöttük lévő mellékvilágtájak az északkelet, délkelet, délnyugat és északnyugat.",
+   "example": "A Duna Budapesttől délre, a Balaton Budapesttől délnyugatra található.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest",
+    "magyarorszag--vizrajz--balaton"
+   ],
+   "related": [
+    "fovilagtajak",
+    "mellekvilagtajak",
+    "eszaki-irany"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fovilagtajak",
+   "term": "fővilágtájak",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vilagtajak",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A négy alapirány: észak (É), kelet (K), dél (D) és nyugat (Ny). Az észak–déli irány a hosszúsági körök, a kelet–nyugati a szélességi körök irányába mutat; a térképeken általában észak van felül.",
+   "example": "Napkeltekor a Nap nagyjából keleten, delelésekor (az északi félgömbön) délen áll.",
+   "related": [
+    "vilagtajak",
+    "mellekvilagtajak"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mellekvilagtajak",
+   "term": "mellékvilágtájak",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vilagtajak",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "kozep",
+   "definition": "A fővilágtájak közé eső irányok: északkelet (ÉK), délkelet (DK), délnyugat (DNy) és északnyugat (ÉNy).",
+   "example": "Magyarországon az uralkodó szélirány északnyugati.",
+   "related": [
+    "vilagtajak",
+    "fovilagtajak"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eszaki-irany",
+   "term": "földrajzi (csillagászati) és mágneses északi irány",
+   "aliases": [],
+   "sourceLabels": [
+    "földrajzi (csillagászati) és mágneses északi irány"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "emelt",
+   "definition": "Az északi irány kétféle értelmezése: a földrajzi északi irány az Északi-sark, a mágneses északi irány az északi mágneses pólus felé mutat. A kettő nem esik egybe, eltérésük a mágneses deklináció.",
+   "example": "Éjszaka a Sarkcsillag a földrajzi, az iránytű tűje a mágneses északi irányt mutatja.",
+   "related": [
+    "foldrajzi-eszaki-irany",
+    "magneses-eszaki-irany",
+    "magneses-deklinacio",
+    "sarkcsillag"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldrajzi-eszaki-irany",
+   "term": "földrajzi (csillagászati) északi irány",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "eszaki-irany",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "emelt",
+   "definition": "A hosszúsági kör mentén a földrajzi Északi-sark (a forgástengely északi végpontja) felé mutató irány. Csillagászati módszerrel, pl. a Sarkcsillag segítségével határozható meg.",
+   "example": "A Sarkcsillag felé nézve – kis eltéréssel – a földrajzi észak felé nézünk.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--eszaki-sark"
+   ],
+   "related": [
+    "eszaki-irany",
+    "magneses-eszaki-irany",
+    "sarkcsillag",
+    "hosszusagi-kor"
+   ],
+   "tags": [
+    "térkép",
+    "csillagászat",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "magneses-eszaki-irany",
+   "term": "mágneses északi irány",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "eszaki-irany",
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "emelt",
+   "definition": "Az iránytű mágnestűje által mutatott irány, amely az északi mágneses pólus felé mutat. A mágneses pólus nem esik egybe a földrajzi sarkkal, és helye lassan vándorol.",
+   "example": "Túrázáskor az iránytűvel a mágneses északot határozzuk meg, majd a deklinációval korrigálunk.",
+   "related": [
+    "eszaki-irany",
+    "foldrajzi-eszaki-irany",
+    "magneses-deklinacio"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "magneses-deklinacio",
+   "term": "mágneses deklináció",
+   "aliases": [
+    "elhajlás"
+   ],
+   "sourceLabels": [
+    "mágneses deklináció"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "level": "emelt",
+   "definition": "A földrajzi és a mágneses északi irány által bezárt szög. Értéke helyről helyre és időben is változik, keleti vagy nyugati lehet; a pontos tájékozódáshoz az iránytűvel mért irányt ennyivel kell korrigálni.",
+   "example": "Magyarországon a mágneses deklináció kicsi, néhány fokos, keleti irányú.",
+   "related": [
+    "eszaki-irany",
+    "magneses-eszaki-irany",
+    "foldrajzi-eszaki-irany"
+   ],
+   "tags": [
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "taverzekeles",
+   "term": "távérzékelés",
+   "aliases": [],
+   "sourceLabels": [
+    "távérzékelés"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "kozep",
+   "definition": "Tárgyakról, jelenségekről közvetlen érintkezés nélkül, az általuk kibocsátott vagy visszavert elektromágneses sugárzás érzékelésével történő adatgyűjtés, általában repülőgépről vagy műholdról.",
+   "example": "Műholdfelvételekkel követhető a Tisza árvizeinek kiterjedése vagy az erdőirtás az Amazonas-medencében.",
+   "examplePlaces": [
+    "magyarorszag--vizrajz--tisza"
+   ],
+   "related": [
+    "legi-es-urfelvetel",
+    "muhold",
+    "passziv-es-aktiv-taverzekeles",
+    "felbontokepesseg"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "legi-es-urfelvetel",
+   "term": "légi és űrfelvétel",
+   "aliases": [],
+   "sourceLabels": [
+    "légi és űrfelvétel"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "kozep",
+   "definition": "A távérzékelés felvételtípusai a felvevőeszköz helye szerint: a légifelvételt repülőgépről vagy drónról, az űrfelvételt műholdról vagy űreszközről készítik.",
+   "example": "A Balatonról készült légifelvételen egyes épületek is látszanak, az űrfelvételen a tó egésze és környéke.",
+   "examplePlaces": [
+    "magyarorszag--vizrajz--balaton"
+   ],
+   "related": [
+    "legifelvetel",
+    "urfelvetel",
+    "taverzekeles"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "legifelvetel",
+   "term": "légifelvétel",
+   "aliases": [
+    "légi felvétel"
+   ],
+   "sourceLabels": [],
+   "parent": "legi-es-urfelvetel",
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "kozep",
+   "definition": "Repülőgépről, helikopterről vagy drónról, viszonylag kis magasságból készült felvétel. Kisebb területet, de nagy részletességgel ábrázol; térképkészítéshez, településtervezéshez, mezőgazdasági felméréshez használják.",
+   "example": "Egy település légifelvételén az egyes telkek és házak is megkülönböztethetők.",
+   "related": [
+    "legi-es-urfelvetel",
+    "urfelvetel",
+    "felbontokepesseg"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urfelvetel",
+   "term": "űrfelvétel",
+   "aliases": [
+    "műholdfelvétel",
+    "műholdkép"
+   ],
+   "sourceLabels": [],
+   "parent": "legi-es-urfelvetel",
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "kozep",
+   "definition": "Műholdról vagy más űreszközről készült felvétel. Nagy területről, rendszeresen ismételve készül, ezért alkalmas változások (árvíz, erdőirtás, városnövekedés, időjárás) nyomon követésére.",
+   "example": "A meteorológiai műholdak űrfelvételein egy ciklon felhőzetének mozgása követhető.",
+   "related": [
+    "legi-es-urfelvetel",
+    "legifelvetel",
+    "muhold"
+   ],
+   "tags": [
+    "távérzékelés",
+    "űrkutatás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "muhold",
+   "term": "műhold",
+   "aliases": [
+    "mesterséges hold"
+   ],
+   "sourceLabels": [
+    "műhold"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "kozep",
+   "definition": "A Föld (vagy más égitest) körül pályán keringő, ember által felbocsátott mesterséges égitest. Feladata szerint lehet távközlési, meteorológiai, navigációs, földmegfigyelő vagy tudományos műhold.",
+   "example": "A GPS-műholdak a helymeghatározást, a meteorológiai műholdak az időjárás-előrejelzést segítik.",
+   "related": [
+    "gps",
+    "urfelvetel",
+    "taverzekeles",
+    "urszemet"
+   ],
+   "tags": [
+    "távérzékelés",
+    "űrkutatás",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gps",
+   "term": "globális helymeghatározó rendszer (GPS)",
+   "aliases": [
+    "GPS",
+    "műholdas helymeghatározás"
+   ],
+   "sourceLabels": [
+    "globális helymeghatározó rendszer (GPS)"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "kozep",
+   "definition": "Műholdas navigációs rendszer, amelyben a vevőkészülék több műhold jelének futási idejéből kiszámítja a műholdaktól mért távolságát, és ebből saját helyzetét (földrajzi szélesség, hosszúság, magasság). A pontos helymeghatározáshoz legalább négy műhold jele szükséges.",
+   "example": "A telefon GPS-e alapján a térképes alkalmazás megmutatja, hol vagyunk egy erdei turistaúton; hasonló rendszer az európai Galileo.",
+   "related": [
+    "muhold",
+    "gis",
+    "tenyleges-fekves"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "passziv-es-aktiv-taverzekeles",
+   "term": "passzív és aktív távérzékelés",
+   "aliases": [],
+   "sourceLabels": [
+    "passzív és aktív távérzékelés"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "A távérzékelés két módja a sugárforrás szerint: a passzív érzékelő a természetes (a felszín által visszavert napfény vagy kibocsátott hő-) sugárzást rögzíti, az aktív eszköz maga bocsát ki sugárzást, és annak visszaverődését méri.",
+   "example": "A hagyományos műholdkamera passzív, a radaros felszínfelmérés aktív távérzékelés.",
+   "related": [
+    "passziv-taverzekeles",
+    "aktiv-taverzekeles",
+    "taverzekeles"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "passziv-taverzekeles",
+   "term": "passzív távérzékelés",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "passziv-es-aktiv-taverzekeles",
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "A felszín által visszavert napsugárzást vagy kibocsátott hősugárzást érzékeli, saját sugárforrás nélkül. A látható tartományban felhős időben és éjszaka nem használható.",
+   "example": "Egy felhőmentes nyári napon készült valós színes műholdkép a Balatonról.",
+   "related": [
+    "passziv-es-aktiv-taverzekeles",
+    "aktiv-taverzekeles",
+    "valos-es-hamis-szines-felvetel"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "aktiv-taverzekeles",
+   "term": "aktív távérzékelés",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "passziv-es-aktiv-taverzekeles",
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "Az eszköz saját sugárzást (pl. radarhullámot, lézert) bocsát ki, és a felszínről visszaverődő jelet érzékeli. Napszaktól és többnyire felhőzettől függetlenül működik.",
+   "example": "Radaros műholdfelvételekkel felhős időben is feltérképezhető az elöntött terület egy árvíz idején.",
+   "related": [
+    "passziv-es-aktiv-taverzekeles",
+    "passziv-taverzekeles"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "valos-es-hamis-szines-felvetel",
+   "term": "valós színes és hamis színes felvétel",
+   "aliases": [],
+   "sourceLabels": [
+    "valós színes és hamis színes felvétel"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "A műholdfelvételek megjelenítési módjai: a valós színes felvétel a szemünk számára természetes színeket mutat, a hamis színes felvétel a nem látható tartományokat (pl. infravörös) is felhasználja, és mesterséges színekkel jeleníti meg.",
+   "example": "Ugyanaz a mezőgazdasági táj a valós színes képen zöld, a hamis színesen vörös árnyalatú.",
+   "related": [
+    "valos-szines-felvetel",
+    "hamis-szines-felvetel",
+    "taverzekeles"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "valos-szines-felvetel",
+   "term": "valós színes felvétel",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "valos-es-hamis-szines-felvetel",
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "A látható fény vörös, zöld és kék tartományában készült felvételek saját színükkel való egyesítése, így a kép olyan, mintha szemmel néznénk: a növényzet zöld, a víz kék vagy sötét.",
+   "example": "A Duna-delta valós színes űrfelvételén a mocsarak zöldek, a Fekete-tenger sötétkék.",
+   "examplePlaces": [
+    "europa--tajak--duna-delta"
+   ],
+   "related": [
+    "valos-es-hamis-szines-felvetel",
+    "hamis-szines-felvetel"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hamis-szines-felvetel",
+   "term": "hamis színes felvétel",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "valos-es-hamis-szines-felvetel",
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "Olyan felvétel, amelyen a szem számára láthatatlan tartományokban (pl. közeli infravörösben) rögzített adatokat látható színekkel jelenítik meg. A növényzet állapota, a vízfelületek, a beépített területek így jobban elkülöníthetők.",
+   "example": "A szokásos infravörös hamis színes képen az egészséges növényzet élénkvörös.",
+   "related": [
+    "valos-es-hamis-szines-felvetel",
+    "valos-szines-felvetel"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "felbontokepesseg",
+   "term": "felbontóképesség",
+   "aliases": [
+    "felbontás"
+   ],
+   "sourceLabels": [
+    "felbontóképesség"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "Megmutatja, mekkora a felvételen még különállóként felismerhető legkisebb tárgy, azaz egy képpont (pixel) a valóságban mekkora területnek felel meg. Minél kisebb ez a méret, annál részletesebb a felvétel.",
+   "example": "Egy 30 m-es felbontású képen a szántóföldek látszanak, a 0,5 m-es felbontásún az autók is.",
+   "related": [
+    "taverzekeles",
+    "legifelvetel",
+    "urfelvetel"
+   ],
+   "tags": [
+    "távérzékelés",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gis",
+   "term": "földrajzi információs rendszer (GIS)",
+   "aliases": [
+    "GIS",
+    "térinformatikai rendszer"
+   ],
+   "sourceLabels": [
+    "földrajzi információs rendszer (GIS)"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "level": "emelt",
+   "definition": "Helyhez kötött (térképre vetíthető) adatok gyűjtésére, tárolására, elemzésére és megjelenítésére szolgáló számítógépes rendszer. Az adatokat egymásra helyezhető rétegekben kezeli, így összefüggéseik vizsgálhatók.",
+   "example": "GIS-ben a Tisza-völgy domborzati, talaj- és településrétegét egymásra vetítve lehatárolhatók az árvízveszélyes területek.",
+   "examplePlaces": [
+    "magyarorszag--vizrajz--tisza"
+   ],
+   "related": [
+    "gps",
+    "taverzekeles",
+    "terkep"
+   ],
+   "tags": [
+    "távérzékelés",
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "greenwich",
+   "term": "Greenwich",
+   "aliases": [],
+   "sourceLabels": [
+    "Greenwich"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "Az 1. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "London egyik kerülete a Temze partján, a Királyi Csillagvizsgáló helye. Az ezen áthaladó hosszúsági kör a kezdő (0°-os) hosszúsági kör, ennek középnapideje a világidő alapja.",
+   "example": "A greenwichi kezdő délkörtől keletre fekvő Budapest helyi ideje kb. 1 óra 16 perccel jár előbb a greenwichinél.",
+   "examplePlaces": [
+    "europa--varosok--london",
+    "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor"
+   ],
+   "related": [
+    "hosszusagi-kor",
+    "vilagido",
+    "keleti-es-nyugati-felgomb",
+    "helyi-ido"
+   ],
+   "tags": [
+    "térkép",
+    "Föld-mozgásai",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sarkcsillag",
+   "term": "Sarkcsillag",
+   "aliases": [],
+   "sourceLabels": [
+    "Sarkcsillag"
+   ],
+   "parent": null,
+   "topicNo": 1,
+   "subtopic": "Az 1. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Kis Göncöl rúdjának végén álló, a Kis Medve csillagkép legfényesebb csillaga. Közel van az északi égi pólushoz, ezért látszólag egy helyben áll, és az északi irányt mutatja; horizont feletti magassága megközelítőleg egyenlő a megfigyelési hely földrajzi szélességével.",
+   "example": "Budapestről a Sarkcsillag kb. 47,5°-os magasságban látszik az északi égbolton.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "kis-goncol",
+    "nagy-goncol",
+    "foldrajzi-eszaki-irany",
+    "csillag"
+   ],
+   "tags": [
+    "csillagászat",
+    "térkép",
+    "1-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fenyev",
+   "term": "fényév",
+   "aliases": [],
+   "sourceLabels": [
+    "fényév"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "kozep",
+   "definition": "Csillagászati távolságegység: az a távolság, amelyet a fény egy év alatt légüres térben megtesz, kb. 9,5 billió km. Távolságot és nem időt mér!",
+   "example": "A Naphoz legközelebbi csillag, a Proxima Centauri kb. 4,2 fényévre van; a Tejútrendszer átmérője kb. 100 000 fényév.",
+   "related": [
+    "csillagaszati-egyseg",
+    "tejutrendszer",
+    "csillag"
+   ],
+   "tags": [
+    "csillagászat",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillagaszati-egyseg",
+   "term": "csillagászati egység (CSE)",
+   "aliases": [
+    "CSE",
+    "csillagászati egység"
+   ],
+   "sourceLabels": [
+    "csillagászati egység (CSE)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "kozep",
+   "definition": "A Föld és a Nap átlagos távolsága, kb. 150 millió km. Főleg a Naprendszeren belüli távolságok kifejezésére használjuk.",
+   "example": "A Jupiter kb. 5,2, a Neptunusz kb. 30 CSE-re kering a Naptól.",
+   "related": [
+    "fenyev",
+    "naprendszer",
+    "nap-koruli-keringes"
+   ],
+   "tags": [
+    "csillagászat",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillag",
+   "term": "csillag",
+   "aliases": [],
+   "sourceLabels": [
+    "csillag"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "kozep",
+   "definition": "Saját fénnyel rendelkező, forró, plazmaállapotú gázgömb, amelynek belsejében magfúzió termel energiát. A csillagok gravitációjuk révén bolygókat és más égitesteket tarthatnak maguk körül.",
+   "example": "A Nap egy középméretű, sárga csillag.",
+   "related": [
+    "bolygo",
+    "nap-csillag",
+    "magfuzio",
+    "galaxis"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "bolygo",
+   "term": "bolygó",
+   "aliases": [],
+   "sourceLabels": [
+    "bolygó"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "kozep",
+   "definition": "Csillag körül keringő, saját fénnyel nem rendelkező égitest, amely a csillag fényét veri vissza. Tömege elég nagy ahhoz, hogy közel gömb alakú legyen, és pályája környezetét megtisztítsa a kisebb égitestektől.",
+   "example": "A Föld a Nap körül keringő bolygó; a Vénusz fényes „csillagként” azért látszik, mert sok napfényt ver vissza.",
+   "related": [
+    "csillag",
+    "nagybolygo",
+    "torpebolygo",
+    "exobolygo"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "galaxis",
+   "term": "csillagrendszer (galaxis)",
+   "aliases": [
+    "galaxis",
+    "csillagrendszer"
+   ],
+   "sourceLabels": [
+    "csillagrendszer (galaxis)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "kozep",
+   "definition": "Csillagok, csillagközi gáz és por gravitáció által összetartott, hatalmas rendszere, amely sok milliárd csillagot tartalmazhat. Alakjuk szerint lehetnek spirális, elliptikus és szabálytalan galaxisok.",
+   "example": "Galaxisunk a Tejútrendszer; legközelebbi nagy szomszédja az Androméda-köd.",
+   "related": [
+    "tejutrendszer",
+    "vilagegyetem",
+    "csillag"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillagkep",
+   "term": "csillagkép",
+   "aliases": [],
+   "sourceLabels": [
+    "csillagkép"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "kozep",
+   "definition": "Az égbolt csillagainak a Földről látszó, egy alakzattá összekapcsolt csoportja és az ehhez tartozó égterület. A csoportosítás látszólagos: a csillagok egymástól és tőlünk is nagyon különböző távolságban vannak.",
+   "example": "Az Orion vagy a Nagy Medve csillagkép; a Nagy Göncöl a Nagy Medve része.",
+   "related": [
+    "nagy-goncol",
+    "kis-goncol",
+    "csillag"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "osrobbanas",
+   "term": "ősrobbanás",
+   "aliases": [
+    "Big Bang"
+   ],
+   "sourceLabels": [
+    "ősrobbanás"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "emelt",
+   "definition": "A Világegyetem keletkezésének legszélesebb körben elfogadott elmélete: a Világegyetem kb. 13,8 milliárd éve egy rendkívül forró, sűrű állapotból tágulni kezdett, és azóta is tágul és hűl. Bizonyítéka a galaxisok távolodása (vöröseltolódás) és a kozmikus háttérsugárzás.",
+   "example": "Minél távolabbi egy galaxis, annál gyorsabban távolodik tőlünk – ez a tágulás jele.",
+   "related": [
+    "vilagegyetem",
+    "galaxis"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "bolygok-mozgastorvenyei",
+   "term": "a bolygók mozgástörvényei",
+   "aliases": [
+    "Kepler-törvények"
+   ],
+   "sourceLabels": [
+    "a bolygók mozgástörvényei"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "level": "emelt",
+   "definition": "Kepler három törvénye: 1. a bolygók ellipszis alakú pályán keringenek, amelynek egyik gyújtópontjában a Nap áll; 2. a Naptól a bolygóhoz húzott vezérsugár egyenlő idők alatt egyenlő területeket súrol, ezért napközelben gyorsabban kering a bolygó; 3. a keringési idők négyzetei úgy aránylanak egymáshoz, mint a pályák fél nagytengelyeinek köbei.",
+   "example": "A Föld január elején van napközelben, ezért ekkor kering a leggyorsabban; így az északi félgömb téli félévé néhány nappal rövidebb a nyárinál.",
+   "related": [
+    "kepler",
+    "nap-koruli-keringes",
+    "bolygo"
+   ],
+   "tags": [
+    "csillagászat",
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nap-es-holdfogyatkozas",
+   "term": "nap- és holdfogyatkozás",
+   "aliases": [],
+   "sourceLabels": [
+    "nap- és holdfogyatkozás"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Fogyatkozás akkor jön létre, amikor a Nap, a Föld és a Hold egy egyenesbe esik, és az egyik égitest árnyéka a másikra vetül. Nem minden hónapban következik be, mert a Hold pályasíkja kb. 5°-kal hajlik a Föld pályasíkjához.",
+   "example": "Napfogyatkozás csak újholdkor, holdfogyatkozás csak teliholdkor lehet.",
+   "related": [
+    "napfogyatkozas",
+    "holdfogyatkozas",
+    "holdfazisok"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napfogyatkozas",
+   "term": "napfogyatkozás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "nap-es-holdfogyatkozas",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Újholdkor a Hold a Nap és a Föld közé kerül, és árnyéka a Földre vetül, így eltakarja előlünk a Napot. Lehet teljes, részleges vagy gyűrűs; teljes napfogyatkozás egyszerre csak egy keskeny sávból látható.",
+   "example": "Magyarországon 1999. augusztus 11-én volt teljes napfogyatkozás.",
+   "related": [
+    "nap-es-holdfogyatkozas",
+    "holdfogyatkozas",
+    "ujhold"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "holdfogyatkozas",
+   "term": "holdfogyatkozás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "nap-es-holdfogyatkozas",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Teliholdkor a Föld a Nap és a Hold közé kerül, és a Hold a Föld árnyékába lép. A Föld éjszakai félgömbjének minden pontjáról látható; teljes fogyatkozáskor a Hold vöröses színű, mert a Föld légköre a vörös fényt az árnyékba téríti.",
+   "example": "Teljes holdfogyatkozáskor a „vérvörös Hold” egész Európából megfigyelhető lehet.",
+   "related": [
+    "nap-es-holdfogyatkozas",
+    "napfogyatkozas",
+    "holdtolte"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "holdfazisok",
+   "term": "holdfázisok",
+   "aliases": [
+    "holdfázis"
+   ],
+   "sourceLabels": [
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Hold Földről látható, a Nap által megvilágított részének változó alakjai, amelyek a Hold Föld körüli keringése miatt alakulnak ki. A fázisok kb. 29,5 naponként ismétlődnek (szinodikus hónap).",
+   "example": "Az északi félgömbön: ha a Hold „D” alakú, akkor Dagad (növekszik), ha „C” alakú, akkor Csökken.",
+   "related": [
+    "ujhold",
+    "elso-negyed",
+    "holdtolte",
+    "utolso-negyed",
+    "hold"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ujhold",
+   "term": "újhold",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "holdfazisok",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Hold a Nap és a Föld között áll, megvilágított oldala a Nappal néz szembe, ezért a Földről nem látszik. Ilyenkor lehet napfogyatkozás.",
+   "example": "Újholdkor a Hold a Nappal együtt kel és nyugszik, ezért nem látjuk.",
+   "related": [
+    "holdfazisok",
+    "elso-negyed",
+    "napfogyatkozas"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "elso-negyed",
+   "term": "első negyed",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "holdfazisok",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Az újhold után kb. egy héttel a Hold korongjának jobb oldali fele (az északi félgömbről nézve) világos; a Hold „dagad”.",
+   "example": "Első negyedkor a Hold délben kel, napnyugta körül delel, éjfél körül nyugszik.",
+   "related": [
+    "holdfazisok",
+    "ujhold",
+    "holdtolte"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "holdtolte",
+   "term": "holdtölte (telihold)",
+   "aliases": [
+    "telihold",
+    "holdtölte"
+   ],
+   "sourceLabels": [],
+   "parent": "holdfazisok",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Föld a Nap és a Hold között áll, így a Hold teljes megvilágított korongját látjuk. Ilyenkor lehet holdfogyatkozás.",
+   "example": "Teliholdkor a Hold napnyugtakor kel és egész éjjel látható.",
+   "related": [
+    "holdfazisok",
+    "holdfogyatkozas",
+    "utolso-negyed"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "utolso-negyed",
+   "term": "utolsó negyed",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "holdfazisok",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A telihold után kb. egy héttel a Hold korongjának bal oldali fele (az északi félgömbről nézve) világos, „C” alakú; a Hold „csökken”, majd újra újhold következik.",
+   "example": "Utolsó negyedkor a Hold éjfél körül kel, és napkelte körül delel a déli égen.",
+   "related": [
+    "holdfazisok",
+    "holdtolte",
+    "ujhold"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nagybolygo",
+   "term": "nagybolygó",
+   "aliases": [],
+   "sourceLabels": [
+    "nagybolygó"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Nap körül keringő nyolc bolygó (Merkúr, Vénusz, Föld, Mars, Jupiter, Szaturnusz, Uránusz, Neptunusz), amelyek gömb alakúak és pályájuk környezetét megtisztították. Felépítésük alapján kőzetbolygókra és gázbolygókra oszthatók.",
+   "example": "Sorrend a Naptól: Merkúr, Vénusz, Föld, Mars, Jupiter, Szaturnusz, Uránusz, Neptunusz.",
+   "related": [
+    "bolygo",
+    "kozetbolygo",
+    "gazbolygo",
+    "torpebolygo"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kozetbolygo",
+   "term": "kőzetbolygó (Föld-típusú bolygó)",
+   "aliases": [
+    "Föld-típusú bolygó",
+    "belső bolygó"
+   ],
+   "sourceLabels": [
+    "kőzetbolygó (Föld-típusú bolygó)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Naphoz közelebbi négy bolygó: Merkúr, Vénusz, Föld, Mars. Kis méretűek, nagy sűrűségűek, szilárd kőzetből álló felszínük és fémes (vas) magjuk van; holdjuk kevés vagy nincs, gyűrűjük nincs.",
+   "example": "A Föld a legnagyobb kőzetbolygó; a Mars felszínén vulkánok és kiszáradt mederek láthatók.",
+   "related": [
+    "gazbolygo",
+    "nagybolygo",
+    "merkur",
+    "venusz",
+    "fold-bolygo",
+    "mars"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazbolygo",
+   "term": "gázbolygó (Jupiter-típusú bolygó)",
+   "aliases": [
+    "Jupiter-típusú bolygó",
+    "óriásbolygó",
+    "külső bolygó"
+   ],
+   "sourceLabels": [
+    "gázbolygó (Jupiter-típusú bolygó)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Naptól távolabbi négy bolygó: Jupiter, Szaturnusz, Uránusz, Neptunusz. Nagy méretűek és tömegűek, de kis sűrűségűek, főleg hidrogénből és héliumból állnak, gyorsan forognak, sok holdjuk és gyűrűrendszerük van.",
+   "example": "A Szaturnusz átlagos sűrűsége a víznél is kisebb.",
+   "related": [
+    "kozetbolygo",
+    "nagybolygo",
+    "gyururendszer",
+    "jupiter",
+    "szaturnusz"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gyururendszer",
+   "term": "gyűrűrendszer",
+   "aliases": [],
+   "sourceLabels": [
+    "gyűrűrendszer"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Bolygó körül, annak egyenlítői síkjában keringő jég- és kőzetdarabokból, porból álló, vékony, lapos korongszerű képződmény. Mind a négy gázbolygónak van gyűrűrendszere.",
+   "example": "A legfeltűnőbb, kis távcsővel is látható gyűrűrendszere a Szaturnusznak van.",
+   "related": [
+    "gazbolygo",
+    "szaturnusz"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "termeszetes-hold",
+   "term": "hold",
+   "aliases": [
+    "természetes hold",
+    "bolygókísérő"
+   ],
+   "sourceLabels": [
+    "hold"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Bolygó, törpebolygó vagy kisbolygó körül keringő természetes kísérő égitest, amely saját fénnyel nem rendelkezik.",
+   "example": "A Föld kísérője a Hold, a Marsé a Phobos és a Deimos, a Jupiter legnagyobb holdjai a Galilei-holdak.",
+   "related": [
+    "hold",
+    "bolygo",
+    "muhold"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "torpebolygo",
+   "term": "törpebolygó",
+   "aliases": [],
+   "sourceLabels": [
+    "törpebolygó"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Nap körül keringő, közel gömb alakú égitest, amely nem hold, de – a nagybolygókkal ellentétben – nem tisztította meg pályája környezetét más égitestektől.",
+   "example": "A Plútó, az Eris és a kisbolygóövben keringő Ceres törpebolygó.",
+   "related": [
+    "pluto",
+    "nagybolygo",
+    "kisbolygo"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kisbolygo",
+   "term": "kisbolygó (aszteroida)",
+   "aliases": [
+    "aszteroida"
+   ],
+   "sourceLabels": [
+    "kisbolygó (aszteroida)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Nap körül keringő, a bolygóknál jóval kisebb, többnyire szabálytalan alakú kőzet- vagy fémes égitest. Többségük a Mars és a Jupiter pályája közötti kisbolygóövben található.",
+   "example": "A kisbolygóövben keringő égitestek; a Földet keresztező pályájú kisbolygókat külön figyelik.",
+   "related": [
+    "torpebolygo",
+    "meteoroid",
+    "ustokos"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ustokos",
+   "term": "üstökös",
+   "aliases": [],
+   "sourceLabels": [
+    "üstökös"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Jégből, fagyott gázokból, porból és kőzetdarabokból álló kis égitest, amely többnyire erősen elnyúlt ellipszis pályán kering a Nap körül. A Nap közelébe érve anyaga párologni kezd, és kialakul a kóma és a csóva.",
+   "example": "A Halley-üstökös kb. 76 évente tér vissza a Nap közelébe.",
+   "related": [
+    "ustokos-reszei",
+    "kisbolygo",
+    "napszel"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "meteoroid",
+   "term": "meteoroid",
+   "aliases": [],
+   "sourceLabels": [
+    "meteoroid"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A bolygóközi térben keringő, a kisbolygóknál jóval kisebb, porszemcsényi és kb. méteres nagyság közötti szilárd test. Gyakran üstökösök vagy kisbolygók törmeléke.",
+   "example": "Az augusztusi Perseidák meteoroidjai egy üstökös pályája mentén szétszóródott porszemcsék.",
+   "related": [
+    "meteor",
+    "meteorit",
+    "kisbolygo"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "meteor",
+   "term": "meteor",
+   "aliases": [
+    "hullócsillag"
+   ],
+   "sourceLabels": [
+    "meteor"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "Fényjelenség: a Föld légkörébe nagy sebességgel belépő meteoroid a légkörrel súrlódva felizzik, és többnyire elég. Köznapi neve „hullócsillag”.",
+   "example": "Augusztus közepén, a Perseidák idején óránként sok meteor látható.",
+   "related": [
+    "meteoroid",
+    "meteorit"
+   ],
+   "tags": [
+    "csillagászat",
+    "légkör",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "meteorit",
+   "term": "meteorit",
+   "aliases": [],
+   "sourceLabels": [
+    "meteorit"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A meteoroid azon része, amely a légkörön áthaladva nem ég el teljesen, és eléri a Föld felszínét. Anyaga szerint lehet kő-, vas- vagy kő-vas meteorit.",
+   "example": "A múzeumokban kiállított vasmeteoritok a Naprendszer keletkezésének idejéből származnak.",
+   "related": [
+    "meteoroid",
+    "meteor",
+    "meteoritkrater"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "bolygokozi-anyag",
+   "term": "bolygóközi anyag",
+   "aliases": [],
+   "sourceLabels": [
+    "bolygóközi anyag"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "kozep",
+   "definition": "A Naprendszer égitestei közötti térben található igen ritka gáz (főként a napszél töltött részecskéi) és por.",
+   "example": "A bolygóközi porszemcséken szóródó napfény okozza a halvány állatövi fényt.",
+   "related": [
+    "napszel",
+    "meteoroid",
+    "naprendszer"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nap-gombhejai",
+   "term": "a Nap gömbhéjai",
+   "aliases": [
+    "a Nap szerkezete"
+   ],
+   "sourceLabels": [
+    "a Nap gömbhéjai (mag, sugárzási öv, áramlási öv, fotoszféra, kromoszféra, napkorona)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap belülről kifelé: mag, sugárzási öv, áramlási öv (ez a belső szerkezet), majd a légkört alkotó fotoszféra, kromoszféra és napkorona. A magban termelődő energia sugárzással, majd áramlással jut a felszínre.",
+   "example": "A napfoltok a fotoszférában, a napkitörések a kromoszférában és a koronában figyelhetők meg.",
+   "related": [
+    "nap-mag",
+    "sugarzasi-ov",
+    "aramlasi-ov",
+    "fotoszfera",
+    "kromoszfera",
+    "napkorona",
+    "nap-csillag"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nap-mag",
+   "term": "a Nap magja",
+   "aliases": [
+    "mag"
+   ],
+   "sourceLabels": [],
+   "parent": "nap-gombhejai",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap legbelső, legforróbb és legsűrűbb része (kb. 15 millió °C), ahol a magfúzió során hidrogénből hélium keletkezik, és felszabadul a Nap energiája.",
+   "example": "A Napot működtető „atomreaktor” a magban van.",
+   "related": [
+    "nap-gombhejai",
+    "magfuzio",
+    "sugarzasi-ov"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sugarzasi-ov",
+   "term": "sugárzási öv",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "nap-gombhejai",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A magot körülvevő gömbhéj, amelyben az energia sugárzás formájában, a részecskéken sokszor elnyelődve és újra kisugárzódva, nagyon lassan jut kifelé.",
+   "example": "Egy energiaadag a sugárzási övön való áthaladáshoz rendkívül hosszú időt igényel.",
+   "related": [
+    "nap-gombhejai",
+    "nap-mag",
+    "aramlasi-ov"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "aramlasi-ov",
+   "term": "áramlási öv",
+   "aliases": [
+    "konvektív zóna"
+   ],
+   "sourceLabels": [],
+   "parent": "nap-gombhejai",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap belsejének külső része, ahol az energia a forró plazma fel- és a lehűlt plazma leáramlásával (konvekcióval) szállítódik a felszín felé.",
+   "example": "Az áramlások felső végei a fotoszférán szemcsés mintázatként (granuláció) látszanak.",
+   "related": [
+    "nap-gombhejai",
+    "sugarzasi-ov",
+    "fotoszfera"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fotoszfera",
+   "term": "fotoszféra",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "nap-gombhejai",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap látható „felszíne”, légkörének legalsó rétege, hőmérséklete kb. 5500–6000 °C. Innen származik a hozzánk érkező fény nagy része; itt jelennek meg a napfoltok.",
+   "example": "A távcsővel (szűrővel) megfigyelt napkorong a fotoszféra.",
+   "related": [
+    "nap-gombhejai",
+    "napfolt",
+    "kromoszfera"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kromoszfera",
+   "term": "kromoszféra",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "nap-gombhejai",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A fotoszféra feletti vékony, ritka, vöröses színű légköri réteg; felfelé haladva hőmérséklete emelkedik. Teljes napfogyatkozáskor vöröses gyűrűként látható.",
+   "example": "A kromoszférából törnek ki a napkitörések és a protuberanciák.",
+   "related": [
+    "nap-gombhejai",
+    "fotoszfera",
+    "napkorona",
+    "napkitores"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napkorona",
+   "term": "napkorona",
+   "aliases": [
+    "korona"
+   ],
+   "sourceLabels": [],
+   "parent": "nap-gombhejai",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap légkörének legkülső, nagyon ritka, de rendkívül forró (millió °C nagyságrendű) rétege, amely fokozatosan megy át a napszélbe. Szabad szemmel csak teljes napfogyatkozáskor látható.",
+   "example": "Teljes napfogyatkozáskor a Hold korongja körül gyöngyházfényű koszorúként tűnik fel.",
+   "related": [
+    "nap-gombhejai",
+    "kromoszfera",
+    "napszel"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "plazma",
+   "term": "plazma",
+   "aliases": [],
+   "sourceLabels": [
+    "plazma"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "Az anyag negyedik halmazállapota: nagyon magas hőmérsékletű, ionizált gáz, amely szabad elektronokból és pozitív ionokból áll, ezért elektromosan vezető. A Nap és a csillagok anyaga plazma.",
+   "example": "A Nap anyaga és a napszél is plazma; a Földön a villám csatornájában is létrejön.",
+   "related": [
+    "nap-csillag",
+    "napszel",
+    "magfuzio"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "magfuzio",
+   "term": "magfúzió (termonukleáris folyamat)",
+   "aliases": [
+    "magfúzió",
+    "termonukleáris folyamat",
+    "fúzió"
+   ],
+   "sourceLabels": [
+    "magfúzió (termonukleáris folyamat)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "Olyan magreakció, amelyben rendkívül magas hőmérsékleten és nyomáson könnyű atommagok nehezebb atommaggá egyesülnek, miközben a tömegcsökkenésnek megfelelő óriási energia szabadul fel. A Nap magjában hidrogénből hélium keletkezik.",
+   "example": "A Nap sugárzásának energiaforrása a magjában zajló hidrogén–hélium fúzió.",
+   "related": [
+    "nap-mag",
+    "csillag",
+    "plazma"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napkitores",
+   "term": "napkitörés",
+   "aliases": [],
+   "sourceLabels": [
+    "napkitörés"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap légkörében, többnyire napfoltok környezetében hirtelen bekövetkező, nagy energiájú robbanásszerű folyamat, amely erős sugárzást és nagy tömegű plazmát juttat a világűrbe. A Földön mágneses viharokat, rádió- és műholdzavarokat, erős sarki fényt okozhat.",
+   "example": "Erős napkitörések után a sarki fény akár Magyarországról is látható.",
+   "related": [
+    "napfolt",
+    "naptevekenyseg",
+    "napszel",
+    "sarki-feny"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napszel",
+   "term": "napszél",
+   "aliases": [],
+   "sourceLabels": [
+    "napszél"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A napkoronából folyamatosan kiáramló töltött részecskék (főleg protonok és elektronok) plazmaárama a bolygóközi térben. A Föld mágneses tere a nagy részét eltéríti; a napszél fújja el az üstökösök csóváját a Nappal ellentétes irányba.",
+   "example": "A napszél részecskéi a sarkvidékeken sarki fényt keltenek.",
+   "related": [
+    "napkorona",
+    "sarki-feny",
+    "csova",
+    "bolygokozi-anyag"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napfolt",
+   "term": "napfolt",
+   "aliases": [],
+   "sourceLabels": [
+    "napfolt"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A fotoszféra környezeténél hűvösebb, ezért sötétebbnek látszó területe, ahol erős mágneses tér gátolja a forró anyag feláramlását. Számuk kb. 11 éves ciklusban változik, a naptevékenység jelzői.",
+   "example": "Napfoltok idején gyakoribbak a napkitörések.",
+   "related": [
+    "fotoszfera",
+    "naptevekenyseg",
+    "napkitores"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sarki-feny",
+   "term": "sarki fény",
+   "aliases": [
+    "aurora",
+    "északi fény"
+   ],
+   "sourceLabels": [
+    "sarki fény"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A napszél töltött részecskéit a Föld mágneses tere a sarkvidékek felé tereli, ahol a felső légkör gázait fénylésre gerjesztik. Többnyire zöld vagy vörös, függönyszerűen hullámzó fényjelenség.",
+   "example": "Norvégia északi részén télen gyakran látható sarki fény.",
+   "examplePlaces": [
+    "europa--orszagok--norvegia",
+    "fold--foldrajzi-fokhalozat--eszaki-sarkkor"
+   ],
+   "related": [
+    "napszel",
+    "napkitores",
+    "naptevekenyseg"
+   ],
+   "tags": [
+    "csillagászat",
+    "légkör",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "naptevekenyseg",
+   "term": "naptevékenység",
+   "aliases": [],
+   "sourceLabels": [
+    "naptevékenység"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap mágneses terével összefüggő, időben változó jelenségek (napfoltok, napkitörések, a napszél erősödése) összessége. Kb. 11 éves ciklusban erősödik és gyengül.",
+   "example": "Naptevékenységi maximum idején gyakoribbak a műholdakat és az áramhálózatokat zavaró mágneses viharok.",
+   "related": [
+    "napfolt",
+    "napkitores",
+    "napszel",
+    "sarki-feny"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "holdtenger",
+   "term": "holdtenger",
+   "aliases": [],
+   "sourceLabels": [
+    "holdtenger"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Hold felszínének sötét, sík, kráterekben szegényebb medencéi, amelyeket hajdani óriási becsapódások után kiömlő bazaltláva töltött fel. Víz nincs bennük, csak a régi csillagászok gondolták őket tengereknek.",
+   "example": "A Nyugalom tengere, ahol 1969-ben az Apollo–11 leszállt.",
+   "related": [
+    "hold",
+    "meteoritkrater",
+    "armstrong"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "meteoritkrater",
+   "term": "meteoritkráter",
+   "aliases": [
+    "becsapódási kráter"
+   ],
+   "sourceLabels": [
+    "meteoritkráter"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "Meteorit becsapódásakor keletkező, kör alakú, sánccal övezett mélyedés. A Holdon és a Merkúron igen sok van, mert légkör hiányában a meteoroidok nem égnek el, és a kráterek nem pusztulnak le.",
+   "example": "Az arizonai Meteor-kráter a Föld egyik legépebb becsapódási krátere.",
+   "related": [
+    "meteorit",
+    "hold",
+    "holdtenger",
+    "merkur"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ustokos-reszei",
+   "term": "az üstökös részei",
+   "aliases": [],
+   "sourceLabels": [
+    "az üstökös részei (mag, kóma, csóva)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "Az üstökös fő részei: a szilárd mag, az azt körülvevő gáz- és porfelhő, a kóma, valamint a Nappal ellentétes irányba mutató csóva. A kóma és a csóva csak a Nap közelében alakul ki.",
+   "example": "A Halley-üstökös csóvája napközelben látványosan megnyúlik.",
+   "related": [
+    "ustokos",
+    "ustokos-mag",
+    "koma",
+    "csova"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ustokos-mag",
+   "term": "az üstökös magja",
+   "aliases": [
+    "mag"
+   ],
+   "sourceLabels": [],
+   "parent": "ustokos-reszei",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "Az üstökös néhány km-es, szilárd része: jég, fagyott gázok, por és kőzetdarabok keveréke („piszkos hógolyó”). Csak ez létezik a Naptól távol is.",
+   "example": "A Rosetta-űrszonda közelről fényképezte egy üstökös magját.",
+   "related": [
+    "ustokos-reszei",
+    "koma"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "koma",
+   "term": "kóma",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ustokos-reszei",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A Nap közelében a mag anyagának párolgásából keletkező, a magot körülvevő ritka gáz- és porfelhő; a mag és a kóma együtt az üstökös feje.",
+   "example": "Távcsőben az üstökös feje ködös foltként látszik – ez a kóma.",
+   "related": [
+    "ustokos-reszei",
+    "ustokos-mag",
+    "csova"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csova",
+   "term": "csóva",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ustokos-reszei",
+   "topicNo": 2,
+   "subtopic": "2.2 A Nap és kísérői",
+   "level": "emelt",
+   "definition": "A kómából a napszél és a Nap sugárnyomása által kifújt gáz és por hosszú, fénylő nyúlványa. Mindig a Nappal ellentétes irányba mutat, ezért távolodáskor az üstökös „előtt” halad.",
+   "example": "Egy fényes üstökös csóvája az égbolton akár több tíz fok hosszúnak is látszhat.",
+   "related": [
+    "ustokos-reszei",
+    "koma",
+    "napszel"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tengely-koruli-forgas",
+   "term": "tengely körüli forgás",
+   "aliases": [
+    "forgás"
+   ],
+   "sourceLabels": [
+    "tengely körüli forgás"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld nyugatról kelet felé forog a forgástengelye körül, egy teljes fordulat kb. 24 óra (a Naphoz viszonyítva). Következménye a nappalok és éjszakák váltakozása, az égitestek látszólagos kelet–nyugati járása, az eltérítő erő és a Föld sarki lapultsága.",
+   "example": "Mivel a Föld nyugatról keletre forog, Debrecenben korábban kel fel a Nap, mint Sopronban.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--debrecen",
+    "magyarorszag--telepulesek--sopron"
+   ],
+   "related": [
+    "coriolis",
+    "nap-idoegyseg",
+    "napszakok",
+    "forgasi-ellipszoid",
+    "helyi-ido"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "coriolis",
+   "term": "eltérítő erő (Coriolis-erő)",
+   "aliases": [
+    "Coriolis-erő",
+    "eltérítő erő"
+   ],
+   "sourceLabels": [
+    "eltérítő erő (Coriolis-erő)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld forgása miatt a felszínen mozgó testeket (szelet, tengeráramlást) az északi félgömbön mozgásirányukhoz képest jobbra, a délin balra téríti el. Hatása az Egyenlítőn nincs, a sarkok felé erősödik.",
+   "example": "Az északi félgömbön a passzát szél emiatt északkeleti, a ciklonok az óramutató járásával ellentétesen forognak.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito"
+   ],
+   "related": [
+    "tengely-koruli-forgas"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "légkörzés",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nap-koruli-keringes",
+   "term": "Nap körüli keringés",
+   "aliases": [
+    "keringés"
+   ],
+   "sourceLabels": [
+    "Nap körüli keringés"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld kb. 365,25 nap alatt kering egyszer a Nap körül, nyugatról keletre, enyhén elnyúlt ellipszis pályán, átlagosan kb. 150 millió km távolságban. Napközelben január elején, naptávolban július elején van; forgástengelye keringés közben megtartja ferde helyzetét.",
+   "example": "A keringés és a tengelyferdeség együtt okozza az évszakok váltakozását.",
+   "related": [
+    "ekliptika",
+    "tengelyferdeseg",
+    "napev",
+    "csillagaszati-evszakok",
+    "bolygok-mozgastorvenyei"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nap-idoegyseg",
+   "term": "nap",
+   "aliases": [
+    "csillagászati nap",
+    "szoláris nap"
+   ],
+   "sourceLabels": [
+    "nap"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld tengely körüli forgásához kötött időegység: két egymást követő delelés között eltelt idő, átlagosan 24 óra. Egy napon belül váltakozik a nappal és az éjszaka.",
+   "example": "Egy nap 24 óra = 1440 perc; ennyi idő alatt a Föld 360°-ot fordul, azaz 1° 4 perc alatt.",
+   "related": [
+    "tengely-koruli-forgas",
+    "napszakok",
+    "kozepnapido",
+    "helyi-ido"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napszakok",
+   "term": "napszakok",
+   "aliases": [],
+   "sourceLabels": [
+    "napszakok"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A nap részei a Nap égbolton elfoglalt látszólagos helyzete szerint: reggel, délelőtt, dél (delelés), délután, este, éjszaka (éjfél). A tengely körüli forgás következményei.",
+   "example": "Délben a Nap az északi félgömb mérsékelt övéből nézve délen delel.",
+   "related": [
+    "nap-idoegyseg",
+    "tengely-koruli-forgas",
+    "helyi-ido"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ev",
+   "term": "év",
+   "aliases": [],
+   "sourceLabels": [
+    "év"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld Nap körüli keringéséhez kötött időegység: egy teljes keringés ideje, kb. 365,25 nap. Gyakorlati használatban egész napokból álló naptári évet alkalmazunk.",
+   "example": "Egy év alatt egyszer követik egymást a csillagászati évszakok.",
+   "related": [
+    "napev",
+    "naptari-ev",
+    "nap-koruli-keringes",
+    "szokoev"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napi-es-evi-idoszamitas",
+   "term": "napi és évi időszámítás",
+   "aliases": [],
+   "sourceLabels": [
+    "napi és évi időszámítás"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az időszámítás két alapja a Föld két mozgása: a napi időszámítás a tengely körüli forgáshoz, az évi időszámítás a Nap körüli keringéshez igazodik.",
+   "example": "A napot és az órát a forgás, az évet és az évszakokat a keringés határozza meg.",
+   "related": [
+    "napi-idoszamitas",
+    "evi-idoszamitas"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napi-idoszamitas",
+   "term": "napi időszámítás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "napi-es-evi-idoszamitas",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld tengely körüli forgásán alapuló időszámítás: a nap és részei (óra, perc), a helyi idő, a zónaidő és a világidő.",
+   "example": "Az órák a napi időszámítás szerint, zónaidőben járnak.",
+   "related": [
+    "napi-es-evi-idoszamitas",
+    "helyi-ido",
+    "zonaido",
+    "vilagido"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "evi-idoszamitas",
+   "term": "évi időszámítás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "napi-es-evi-idoszamitas",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld Nap körüli keringésén alapuló időszámítás: az év, az évszakok és a naptár, amely a napév és a naptári év különbségét szökőévekkel egyenlíti ki.",
+   "example": "A Gergely-naptár az évi időszámítás ma használt rendszere.",
+   "related": [
+    "napi-es-evi-idoszamitas",
+    "napev",
+    "naptari-ev",
+    "gergely-naptar"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "helyi-ido",
+   "term": "helyi idő",
+   "aliases": [],
+   "sourceLabels": [
+    "helyi idő"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az adott hosszúsági körre jellemző idő, amely szerint a Nap delelésekor 12 óra van. Az azonos hosszúsági körön fekvő helyek helyi ideje megegyezik; 1° hosszúságkülönbség 4 perc, 15° 1 óra időeltérést jelent, keletebbre később van.",
+   "example": "Budapest (k. h. 19°) helyi ideje 16 perccel jár előbb, mint a k. h. 15°-é.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "zonaido",
+    "hosszusagi-kor",
+    "valodi-napido",
+    "tengely-koruli-forgas"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "zonaido",
+   "term": "zónaidő",
+   "aliases": [
+    "közép-európai idő"
+   ],
+   "sourceLabels": [
+    "zónaidő"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Egy időzónán belül egységesen használt idő, amely a zóna középső (15-tel osztható fokú) hosszúsági körének helyi ideje. A szomszédos zónák zónaideje általában egy egész órával tér el.",
+   "example": "Magyarország a közép-európai időt (a k. h. 15° helyi idejét, UTC+1) használja, nyáron a nyári időszámítást (UTC+2).",
+   "related": [
+    "idozona",
+    "helyi-ido",
+    "vilagido",
+    "datumvalaszto-vonal"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "idozona",
+   "term": "időzóna",
+   "aliases": [],
+   "sourceLabels": [
+    "időzóna"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld felszínének nagyjából 15° széles, a sarkoktól a sarkokig húzódó sávja, amelyen belül egységes zónaidőt használnak. Határai a gyakorlatban az ország- és közigazgatási határokhoz igazodnak.",
+   "example": "Oroszország területe több időzónára terjed ki, Kína viszont egyetlen zónaidőt használ.",
+   "related": [
+    "zonaido",
+    "hosszusagi-kor",
+    "datumvalaszto-vonal"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napev",
+   "term": "napév",
+   "aliases": [
+    "tropikus év"
+   ],
+   "sourceLabels": [
+    "napév"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Két egymást követő tavaszi nap-éj egyenlőség között eltelt idő, kb. 365 nap 5 óra 49 perc (≈365,24 nap). Az évszakok ehhez igazodnak.",
+   "example": "A napév kb. negyed nappal hosszabb a 365 napos naptári évnél, ezért kell szökőév.",
+   "related": [
+    "naptari-ev",
+    "szokoev",
+    "ev",
+    "nap-ej-egyenloseg"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "naptari-ev",
+   "term": "naptári év",
+   "aliases": [],
+   "sourceLabels": [
+    "naptári év"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A mindennapi életben használt, egész napokból álló év: 365 nap, szökőévben 366 nap. Január 1-jétől december 31-ig tart.",
+   "example": "A 2025-ös naptári év 365 napos volt.",
+   "related": [
+    "napev",
+    "szokoev",
+    "gergely-naptar"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szokoev",
+   "term": "szökőév",
+   "aliases": [],
+   "sourceLabels": [
+    "szökőév"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "366 napos naptári év, amelyben a február 29 napos; a napév és a naptári év különbségét egyenlíti ki. A Gergely-naptárban a néggyel osztható évek szökőévek, kivéve a százzal oszthatókat, hacsak nem oszthatók négyszázzal is.",
+   "example": "A 2000. és a 2024. év szökőév volt, az 1900. nem.",
+   "related": [
+    "napev",
+    "naptari-ev",
+    "gergely-naptar",
+    "julianus-naptar"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ekliptika",
+   "term": "ekliptika",
+   "aliases": [
+    "ekliptika síkja"
+   ],
+   "sourceLabels": [
+    "ekliptika"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Nap látszólagos évi útja az égbolton a csillagok között, amely a Föld keringési pályasíkjának az égboltra vetülete. Síkja kb. 23,5°-os szöget zár be az égi egyenlítővel.",
+   "example": "Az állatövi csillagképek az ekliptika mentén helyezkednek el.",
+   "related": [
+    "nap-koruli-keringes",
+    "tengelyferdeseg"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tengelyferdeseg",
+   "term": "tengelyferdeség",
+   "aliases": [
+    "a forgástengely ferdesége"
+   ],
+   "sourceLabels": [
+    "tengelyferdeség"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld forgástengelye nem merőleges a keringési pálya síkjára: azzal kb. 66,5°-os szöget zár be (a merőlegestől kb. 23,5°-kal tér el), és iránya keringés közben változatlan. Ennek következménye az évszakok váltakozása és a nappalok hosszának változása.",
+   "example": "A tengelyferdeség miatt a térítők a 23,5°, a sarkkörök a 66,5° szélességen húzódnak.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--rakterito",
+    "fold--foldrajzi-fokhalozat--bakterito",
+    "fold--foldrajzi-fokhalozat--eszaki-sarkkor",
+    "fold--foldrajzi-fokhalozat--deli-sarkkor"
+   ],
+   "related": [
+    "nap-koruli-keringes",
+    "csillagaszati-evszakok",
+    "napfordulo",
+    "ekliptika"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nap-ej-egyenloseg",
+   "term": "tavaszi és őszi nap-éj egyenlőség",
+   "aliases": [
+    "napéjegyenlőség",
+    "equinoctium"
+   ],
+   "sourceLabels": [
+    "tavaszi és őszi nap-éj egyenlőség"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az év két napja, amikor a Nap delelési pontja az Egyenlítő felett van, sugarai ott merőlegesen esnek be. Ekkor a Föld minden pontján (a sarkok kivételével) 12 órás a nappal és az éjszaka.",
+   "example": "Ilyenkor Budapesten a Nap delelési magassága kb. 42,5°.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito"
+   ],
+   "related": [
+    "tavaszi-nap-ej-egyenloseg",
+    "oszi-nap-ej-egyenloseg",
+    "napfordulo",
+    "delelesi-magassag"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tavaszi-nap-ej-egyenloseg",
+   "term": "tavaszi nap-éj egyenlőség",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "nap-ej-egyenloseg",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Március 21. körül; a Nap delelési pontja az Egyenlítőt délről északra lépi át. Az északi félgömbön a csillagászati tavasz kezdete.",
+   "example": "Március 21-én Quitóban (Ecuador) délben a Nap a zenitben áll.",
+   "examplePlaces": [
+    "amerika--orszagok--ecuador"
+   ],
+   "related": [
+    "nap-ej-egyenloseg",
+    "oszi-nap-ej-egyenloseg",
+    "csillagaszati-evszakok"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oszi-nap-ej-egyenloseg",
+   "term": "őszi nap-éj egyenlőség",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "nap-ej-egyenloseg",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Szeptember 23. körül; a Nap delelési pontja az Egyenlítőt északról délre lépi át. Az északi félgömbön a csillagászati ősz kezdete.",
+   "example": "Szeptember 23. után az északi félgömbön az éjszakák hosszabbak a nappaloknál.",
+   "related": [
+    "nap-ej-egyenloseg",
+    "tavaszi-nap-ej-egyenloseg",
+    "csillagaszati-evszakok"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "napfordulo",
+   "term": "nyári és téli napforduló",
+   "aliases": [],
+   "sourceLabels": [
+    "nyári és téli napforduló"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az év két napja, amikor a Nap delelési pontja a legészakabbra (Ráktérítő) vagy a legdélebbre (Baktérítő) jut, és onnan „visszafordul”. Ekkor a legnagyobb a nappalok és éjszakák hosszának különbsége.",
+   "example": "Az elnevezés az északi félgömbre vonatkozik: a déli félgömbön június 21. körül van a téli napforduló.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--rakterito",
+    "fold--foldrajzi-fokhalozat--bakterito"
+   ],
+   "related": [
+    "nyari-napfordulo",
+    "teli-napfordulo",
+    "nap-ej-egyenloseg",
+    "tengelyferdeseg"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nyari-napfordulo",
+   "term": "nyári napforduló",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "napfordulo",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Június 21–22. körül; a Nap a Ráktérítő felett delel merőlegesen. Az északi félgömbön ekkor a leghosszabb a nappal, az Északi sarkkörtől északra a Nap nem nyugszik le.",
+   "example": "Ilyenkor Budapesten a Nap delelési magassága kb. 66°.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--rakterito",
+    "fold--foldrajzi-fokhalozat--eszaki-sarkkor"
+   ],
+   "related": [
+    "napfordulo",
+    "teli-napfordulo",
+    "delelesi-magassag"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "teli-napfordulo",
+   "term": "téli napforduló",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "napfordulo",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "December 21–22. körül; a Nap a Baktérítő felett delel merőlegesen. Az északi félgömbön ekkor a legrövidebb a nappal, az Északi sarkkörtől északra a Nap fel sem kel (sarki éjszaka).",
+   "example": "Ilyenkor Budapesten a Nap delelési magassága csak kb. 19°.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--bakterito",
+    "fold--foldrajzi-fokhalozat--eszaki-sarkkor"
+   ],
+   "related": [
+    "napfordulo",
+    "nyari-napfordulo",
+    "delelesi-magassag"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillagaszati-evszakok",
+   "term": "csillagászati évszakok",
+   "aliases": [
+    "évszakok"
+   ],
+   "sourceLabels": [
+    "csillagászati évszakok (tavasz, nyár, ősz, tél)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "A Föld keringése és tengelyferdesége miatt kialakuló, a napfordulók és nap-éj egyenlőségek által határolt időszakok. Az északi és a déli félgömbön ellentétesek.",
+   "example": "Az északi félgömbön a csillagászati nyár június 21-től szeptember 23-ig tart, ekkor Ausztráliában tél van.",
+   "related": [
+    "csillagaszati-tavasz",
+    "csillagaszati-nyar",
+    "csillagaszati-osz",
+    "csillagaszati-tel",
+    "tengelyferdeseg"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillagaszati-tavasz",
+   "term": "csillagászati tavasz",
+   "aliases": [
+    "tavasz"
+   ],
+   "sourceLabels": [],
+   "parent": "csillagaszati-evszakok",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az északi félgömbön a tavaszi nap-éj egyenlőségtől (márc. 21.) a nyári napfordulóig (jún. 21.) tart; a nappalok hosszabbak az éjszakáknál, és tovább nőnek.",
+   "example": "Márciustól júniusig a Nap delelési magassága Magyarországon napról napra nő.",
+   "related": [
+    "csillagaszati-evszakok",
+    "tavaszi-nap-ej-egyenloseg",
+    "nyari-napfordulo"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillagaszati-nyar",
+   "term": "csillagászati nyár",
+   "aliases": [
+    "nyár"
+   ],
+   "sourceLabels": [],
+   "parent": "csillagaszati-evszakok",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az északi félgömbön a nyári napfordulótól (jún. 21.) az őszi nap-éj egyenlőségig (szept. 23.) tart; a nappalok hosszabbak, de rövidülnek.",
+   "example": "Júliusban Magyarországon még hosszabbak a nappalok, mint az éjszakák, de már fogynak.",
+   "related": [
+    "csillagaszati-evszakok",
+    "nyari-napfordulo",
+    "oszi-nap-ej-egyenloseg"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillagaszati-osz",
+   "term": "csillagászati ősz",
+   "aliases": [
+    "ősz"
+   ],
+   "sourceLabels": [],
+   "parent": "csillagaszati-evszakok",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az északi félgömbön az őszi nap-éj egyenlőségtől (szept. 23.) a téli napfordulóig (dec. 21.) tart; az éjszakák hosszabbak a nappaloknál, és tovább nőnek.",
+   "example": "Októberben Magyarországon a nappalok már rövidebbek 12 óránál.",
+   "related": [
+    "csillagaszati-evszakok",
+    "oszi-nap-ej-egyenloseg",
+    "teli-napfordulo"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csillagaszati-tel",
+   "term": "csillagászati tél",
+   "aliases": [
+    "tél"
+   ],
+   "sourceLabels": [],
+   "parent": "csillagaszati-evszakok",
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "kozep",
+   "definition": "Az északi félgömbön a téli napfordulótól (dec. 21.) a tavaszi nap-éj egyenlőségig (márc. 21.) tart; az éjszakák hosszabbak, de rövidülnek.",
+   "example": "Januárban Magyarországon a Nap alacsonyan delel, de a nappalok már hosszabbodnak.",
+   "related": [
+    "csillagaszati-evszakok",
+    "teli-napfordulo",
+    "tavaszi-nap-ej-egyenloseg"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "forgasi-ellipszoid",
+   "term": "forgási ellipszoid",
+   "aliases": [],
+   "sourceLabels": [
+    "forgási ellipszoid"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "A Föld alakját jól közelítő matematikai test, amely egy ellipszis kistengelye körüli forgatásával jön létre. A Föld a tengely körüli forgás miatt a sarkoknál lapult, az Egyenlítőnél kidudorodó: egyenlítői sugara (kb. 6378 km) mintegy 21 km-rel nagyobb a sarki sugaránál (kb. 6357 km).",
+   "example": "Az Egyenlítő hossza kb. 40 000 km.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito"
+   ],
+   "related": [
+    "geoid",
+    "tengely-koruli-forgas"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "kőzetburok",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "geoid",
+   "term": "földalak (geoid)",
+   "aliases": [
+    "geoid",
+    "földalak"
+   ],
+   "sourceLabels": [
+    "földalak (geoid)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "A Föld valódi, szabálytalan alakja: a nyugalomban lévő középtengerszint által kijelölt, a szárazföldek alatt képzeletben folytatott felület, amely mindenütt merőleges a nehézségi erő irányára. A tömegeloszlás egyenetlenségei miatt kissé eltér a forgási ellipszoidtól.",
+   "example": "A tengerszint feletti magasságokat a geoidhoz viszonyítva adjuk meg.",
+   "related": [
+    "forgasi-ellipszoid",
+    "tengerszint-feletti-magassag"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "kőzetburok",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "zenit",
+   "term": "zenit",
+   "aliases": [
+    "tetőpont"
+   ],
+   "sourceLabels": [
+    "zenit"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "Az égboltnak a megfigyelő feje feletti, a függőleges meghosszabbításába eső pontja (tetőpont). Ha a Nap a zenitben delel, sugarai merőlegesen érik a felszínt, delelési magassága 90°.",
+   "example": "A Nap csak a két térítő között delelhet a zenitben, Magyarországon soha.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--rakterito",
+    "fold--foldrajzi-fokhalozat--bakterito"
+   ],
+   "related": [
+    "delelesi-magassag",
+    "napfordulo"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "valodi-napido",
+   "term": "valódi napidő",
+   "aliases": [],
+   "sourceLabels": [
+    "valódi napidő"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "A Nap tényleges, látszólagos égi járásához igazodó helyi idő: a Nap valódi delelésekor 12 óra. Mivel a Föld pályája ellipszis és tengelye ferde, a valódi napok hossza az év során kissé változik, ezért mindennapi időmérésre nem alkalmas.",
+   "example": "A napóra a valódi napidőt mutatja.",
+   "related": [
+    "kozepnapido",
+    "helyi-ido"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kozepnapido",
+   "term": "középnapidő",
+   "aliases": [],
+   "sourceLabels": [
+    "középnapidő"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "Egy képzeletbeli, az égi egyenlítőn egyenletesen haladó „középnap” járásához igazított, egyenletes idő; napjai pontosan 24 órásak. A valódi napidőtől az év során néhány perccel eltérhet; az órák a középnapidőn alapuló zónaidőt mutatják.",
+   "example": "A greenwichi középnapidő a világidő.",
+   "related": [
+    "valodi-napido",
+    "vilagido",
+    "zonaido"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilagido",
+   "term": "világidő",
+   "aliases": [
+    "UTC",
+    "greenwichi idő"
+   ],
+   "sourceLabels": [
+    "világidő"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "A kezdő (0°-os, greenwichi) hosszúsági kör középnapideje (UT, a gyakorlatban UTC). A Föld zónaidőit ehhez viszonyítva adják meg (pl. UTC+1).",
+   "example": "Ha a világidő 10 óra, a közép-európai idő szerint 11 óra van.",
+   "examplePlaces": [
+    "europa--varosok--london"
+   ],
+   "related": [
+    "greenwich",
+    "zonaido",
+    "kozepnapido"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "delelesi-magassag",
+   "term": "delelési magasság",
+   "aliases": [],
+   "sourceLabels": [
+    "delelési magasság"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "A delelő égitest (főleg a Nap) és a horizont síkja által bezárt szög. Értéke a földrajzi szélességtől és a Nap merőleges sugarainak aktuális helyétől függ: 90° − (a két szélesség különbsége), ha azonos félgömbön vannak; ellentétes félgömbnél a két szélességet összeadjuk.",
+   "example": "Budapesten (é. sz. 47,5°) nap-éj egyenlőségkor 90° − 47,5° = 42,5°, nyári napfordulókor 90° − (47,5° − 23,5°) = 66°, télin 90° − (47,5° + 23,5°) = 19°.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "zenit",
+    "napfordulo",
+    "nap-ej-egyenloseg",
+    "szelessegi-kor"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "datumvalaszto-vonal",
+   "term": "dátumválasztó vonal",
+   "aliases": [],
+   "sourceLabels": [
+    "dátumválasztó vonal"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.3 A Föld és mozgásai",
+   "level": "emelt",
+   "definition": "Nagyjából a 180°-os hosszúsági kör mentén, a szárazföldeket és szigetcsoportokat elkerülve húzódó vonal, ahol a naptári dátum megváltozik. Nyugatról kelet felé átlépve egy napot vissza kell lépni (a dátum ismétlődik), keletről nyugat felé egy napot előre kell ugrani.",
+   "example": "Aki hétfőn Ázsiából átkel a Bering-szoroson Alaszkába, ott ismét vasárnapot talál.",
+   "examplePlaces": [
+    "azsia--vizrajz--bering-szoros"
+   ],
+   "related": [
+    "zonaido",
+    "idozona",
+    "hosszusagi-kor"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "számolás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urallomas",
+   "term": "űrállomás",
+   "aliases": [],
+   "sourceLabels": [
+    "űrállomás"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "level": "emelt",
+   "definition": "Föld körüli pályán hosszabb ideig működő, emberek huzamos tartózkodására alkalmas űreszköz. Súlytalansági kísérleteket, orvosi, anyagtudományi és földmegfigyelési kutatásokat végeznek rajta.",
+   "example": "A Nemzetközi Űrállomás (ISS); korábban a szovjet Szaljut- és Mir-állomások.",
+   "related": [
+    "urhajo",
+    "farkas-bertalan",
+    "muhold"
+   ],
+   "tags": [
+    "űrkutatás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urszonda",
+   "term": "űrszonda",
+   "aliases": [],
+   "sourceLabels": [
+    "űrszonda"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "level": "emelt",
+   "definition": "Ember nélküli, automatikus űreszköz, amely a Föld körüli pályát elhagyva más égitesteket vizsgál: elrepül mellettük, körülöttük kering vagy leszáll rájuk. Méréseit rádión küldi a Földre.",
+   "example": "A Voyager-szondák a gázbolygókat kutatták, a New Horizons a Plútót fényképezte.",
+   "related": [
+    "urtavcso",
+    "urhajo",
+    "pluto"
+   ],
+   "tags": [
+    "űrkutatás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urtavcso",
+   "term": "űrtávcső",
+   "aliases": [],
+   "sourceLabels": [
+    "űrtávcső"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "level": "emelt",
+   "definition": "A világűrben keringő csillagászati távcső, amely a légkör zavaró hatása nélkül, olyan hullámhossz-tartományokban (pl. ultraibolya, röntgen, infravörös) is észlelhet, amelyeket a légkör elnyel.",
+   "example": "A Hubble- és a James Webb-űrtávcső távoli galaxisokat és exobolygókat vizsgál.",
+   "related": [
+    "urszonda",
+    "exobolygo",
+    "galaxis"
+   ],
+   "tags": [
+    "űrkutatás",
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urhajo",
+   "term": "űrhajó",
+   "aliases": [],
+   "sourceLabels": [
+    "űrhajó"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "level": "emelt",
+   "definition": "Emberek (űrhajósok) szállítására alkalmas, irányítható űreszköz, amely rakétával jut a világűrbe, és a legénységet visszahozza a Földre.",
+   "example": "Gagarin a Vosztok–1, Armstrong az Apollo–11 űrhajóval repült.",
+   "related": [
+    "gagarin",
+    "armstrong",
+    "ursiklo",
+    "urallomas"
+   ],
+   "tags": [
+    "űrkutatás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ursiklo",
+   "term": "űrrepülőgép (űrsikló)",
+   "aliases": [
+    "űrsikló",
+    "űrrepülőgép"
+   ],
+   "sourceLabels": [
+    "űrrepülőgép (űrsikló)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "level": "emelt",
+   "definition": "Többször felhasználható űreszköz, amely rakétaként függőlegesen indul, a világűrben űrhajóként működik, visszatéréskor pedig repülőgépként, kifutópályára siklik le.",
+   "example": "Az amerikai Space Shuttle űrsiklók 1981 és 2011 között repültek.",
+   "related": [
+    "urhajo",
+    "urallomas"
+   ],
+   "tags": [
+    "űrkutatás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urszemet",
+   "term": "űrszemét",
+   "aliases": [],
+   "sourceLabels": [
+    "űrszemét"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "level": "emelt",
+   "definition": "A Föld körüli pályán keringő, már nem működő, ember alkotta tárgyak és darabjaik (kiégett rakétafokozatok, elhasznált műholdak, ütközések törmelékei). Nagy sebességük miatt veszélyeztetik a működő műholdakat és űrállomásokat.",
+   "example": "A Nemzetközi Űrállomásnak időnként pályát kell módosítania egy közeledő űrszemét miatt.",
+   "related": [
+    "muhold",
+    "urallomas"
+   ],
+   "tags": [
+    "űrkutatás",
+    "környezetvédelem",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "exobolygo",
+   "term": "exobolygó",
+   "aliases": [],
+   "sourceLabels": [
+    "exobolygó"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "level": "emelt",
+   "definition": "A Naprendszeren kívüli, más csillag körül keringő bolygó. Többnyire közvetett módszerekkel mutatják ki, pl. abból, hogy a bolygó elhaladásakor csillaga fénye kissé elhalványul.",
+   "example": "A Kepler-űrtávcső több ezer exobolygót fedezett fel.",
+   "related": [
+    "bolygo",
+    "urtavcso",
+    "csillag"
+   ],
+   "tags": [
+    "űrkutatás",
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilagegyetem",
+   "term": "Világegyetem (Univerzum)",
+   "aliases": [
+    "Univerzum",
+    "Világmindenség"
+   ],
+   "sourceLabels": [
+    "Világegyetem (Univerzum)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A tér, az idő, valamint az összes anyag és energia összessége, benne a galaxisok milliárdjaival. Kb. 13,8 milliárd éve az ősrobbanással keletkezett, és azóta is tágul.",
+   "example": "A Világegyetem egyik galaxisa a Tejútrendszer, benne a Naprendszerrel.",
+   "related": [
+    "osrobbanas",
+    "galaxis",
+    "tejutrendszer"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tejutrendszer",
+   "term": "Tejútrendszer (Galaktika, Galaxis)",
+   "aliases": [
+    "Galaktika",
+    "Galaxis"
+   ],
+   "sourceLabels": [
+    "Tejútrendszer (Galaktika, Galaxis)"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "Az a csillagrendszer (galaxis), amelynek a Naprendszer is tagja: lapos korong alakú, küllős spirálgalaxis, átmérője kb. 100 000 fényév, több száz milliárd csillaggal. A Nap a középponttól távol, a korong síkjában, egy spirálkarban helyezkedik el.",
+   "example": "Tiszta, sötét éjszakán a Tejútrendszer korongja halvány fénysávként, „Tejútként” látszik az égen.",
+   "related": [
+    "galaxis",
+    "naprendszer",
+    "fenyev",
+    "vilagegyetem"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "naprendszer",
+   "term": "Naprendszer",
+   "aliases": [],
+   "sourceLabels": [
+    "Naprendszer"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Nap és a gravitációja által hozzá kötött égitestek rendszere: a nyolc nagybolygó és holdjaik, a törpebolygók, kisbolygók, üstökösök, meteoroidok és a bolygóközi anyag. Kb. 4,6 milliárd éve keletkezett; tömegének több mint 99%-a a Napban összpontosul.",
+   "example": "A Naprendszer a Tejútrendszer egyik spirálkarjában kering a galaxis középpontja körül.",
+   "related": [
+    "nap-csillag",
+    "nagybolygo",
+    "torpebolygo",
+    "kisbolygo",
+    "ustokos"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nap-csillag",
+   "term": "Nap",
+   "aliases": [],
+   "sourceLabels": [
+    "Nap"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naprendszer központi csillaga: középméretű, sárga csillag, átmérője kb. 1,4 millió km (kb. 109-szerese a Földének), a Földtől kb. 150 millió km-re van. Tömegének kb. háromnegyede hidrogén, egynegyede hélium; felszíne kb. 6000 °C, magja kb. 15 millió °C.",
+   "example": "A Nap fénye kb. 8 perc alatt ér a Földre; sugárzása tartja fenn a földi életet, a légkör és a víz körforgását.",
+   "related": [
+    "nap-gombhejai",
+    "csillag",
+    "magfuzio",
+    "naprendszer"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hold",
+   "term": "Hold",
+   "aliases": [],
+   "sourceLabels": [
+    "Hold"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Föld egyetlen természetes kísérője, átlagosan kb. 384 000 km-re kering. Kötött tengelyforgású (ugyanannyi idő alatt fordul meg a tengelye körül, mint ahogy a Föld körül kering), ezért mindig ugyanazt az oldalát látjuk. Légköre nincs, ezért nagy a napi hőingás, az égbolt fekete, és megmaradnak a becsapódási kráterek.",
+   "example": "A Hold sötét foltjai a holdtengerek, világos részei a kráterekkel borított felföldek.",
+   "related": [
+    "termeszetes-hold",
+    "holdfazisok",
+    "holdtenger",
+    "meteoritkrater",
+    "nap-es-holdfogyatkozas"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "merkur",
+   "term": "Merkúr",
+   "aliases": [],
+   "sourceLabels": [
+    "Merkúr"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naphoz legközelebbi és a legkisebb nagybolygó, kőzetbolygó. Számottevő légköre nincs, ezért felszíne kráterekkel borított, és a nappali és éjszakai hőmérséklet között rendkívül nagy a különbség; holdja nincs.",
+   "example": "A Merkúr felszíne a Holdéhoz hasonló, sűrűn kráterezett.",
+   "related": [
+    "kozetbolygo",
+    "venusz",
+    "meteoritkrater"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "venusz",
+   "term": "Vénusz",
+   "aliases": [
+    "Esthajnalcsillag"
+   ],
+   "sourceLabels": [
+    "Vénusz"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naptól a második, méretében a Földhöz hasonló kőzetbolygó. Sűrű, szén-dioxidban gazdag légköre és kénsavfelhői miatt erős az üvegházhatás, így a legforróbb felszínű bolygó; tengelye körül lassan és a többi bolygóval ellentétes irányban forog, holdja nincs.",
+   "example": "Esthajnalcsillagként a Hold után a legfényesebb égitest az éjszakai égen.",
+   "related": [
+    "kozetbolygo",
+    "merkur",
+    "fold-bolygo"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fold-bolygo",
+   "term": "Föld",
+   "aliases": [],
+   "sourceLabels": [
+    "Föld"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naptól a harmadik, a legnagyobb kőzetbolygó, egy holddal. Az egyetlen ismert égitest, amelynek felszínén tartósan folyékony víz és élet van; nitrogénből és oxigénből álló légköre és mágneses tere véd a káros sugárzásoktól. Közepes sugara kb. 6370 km, az Egyenlítő hossza kb. 40 000 km.",
+   "example": "A Föld kb. 150 millió km-re (1 CSE) kering a Naptól.",
+   "examplePlaces": [
+    "fold--foldrajzi-fokhalozat--egyenlito"
+   ],
+   "related": [
+    "kozetbolygo",
+    "hold",
+    "forgasi-ellipszoid",
+    "nap-koruli-keringes"
+   ],
+   "tags": [
+    "csillagászat",
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mars",
+   "term": "Mars",
+   "aliases": [],
+   "sourceLabels": [
+    "Mars"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naptól a negyedik kőzetbolygó, a „vörös bolygó”: felszínének színét a vas-oxid adja. Ritka, szén-dioxidos légköre, sarki jégsapkái, kiszáradt folyómedrei és két kis holdja (Phobos, Deimos) van; itt található a Naprendszer legmagasabb vulkánja, az Olympus Mons.",
+   "example": "A Mars felszínét marsjáró robotok (pl. Curiosity, Perseverance) vizsgálják.",
+   "related": [
+    "kozetbolygo",
+    "jupiter",
+    "urszonda"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jupiter",
+   "term": "Jupiter",
+   "aliases": [],
+   "sourceLabels": [
+    "Jupiter"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naprendszer legnagyobb bolygója, gázbolygó, főleg hidrogénből és héliumból áll. Gyorsan forog, felhősávjai és a Nagy Vörös Folt nevű óriási vihar jellemzik; sok holdja van (a legnagyobbak a Galilei-holdak), és halvány gyűrűrendszere.",
+   "example": "Az Io, az Europa, a Ganymedes és a Callisto kis távcsővel is látható Galilei-holdak.",
+   "related": [
+    "gazbolygo",
+    "szaturnusz",
+    "termeszetes-hold"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szaturnusz",
+   "term": "Szaturnusz",
+   "aliases": [],
+   "sourceLabels": [
+    "Szaturnusz"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naptól a hatodik, második legnagyobb bolygó, gázbolygó. Feltűnő, széles gyűrűrendszere van, átlagos sűrűsége a legkisebb a bolygók között (kisebb a vízénél); sok holdja közül a Titánnak sűrű légköre van.",
+   "example": "Kis távcsővel is jól látható a Szaturnusz gyűrűje.",
+   "related": [
+    "gazbolygo",
+    "gyururendszer",
+    "jupiter"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "uranusz",
+   "term": "Uránusz",
+   "aliases": [],
+   "sourceLabels": [
+    "Uránusz"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naptól a hetedik, kékeszöld színű gázbolygó (színét a légkör metánja adja). Forgástengelye majdnem a keringési pálya síkjában fekszik, így szinte „oldalán gurulva” kering; vékony gyűrűi és több holdja van.",
+   "example": "Az első távcsővel felfedezett bolygó (1781, William Herschel).",
+   "related": [
+    "gazbolygo",
+    "neptunusz",
+    "tengelyferdeseg"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "neptunusz",
+   "term": "Neptunusz",
+   "aliases": [],
+   "sourceLabels": [
+    "Neptunusz"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Naptól legtávolabbi (kb. 30 CSE) nagybolygó, kék színű gázbolygó, légkörében a Naprendszer legerősebb szelei fújnak. Létezését más bolygók pályazavaraiból számítással jósolták meg, mielőtt távcsővel megtalálták.",
+   "example": "Legnagyobb holdja a Triton.",
+   "related": [
+    "gazbolygo",
+    "uranusz",
+    "csillagaszati-egyseg",
+    "pluto"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "pluto",
+   "term": "Plútó",
+   "aliases": [],
+   "sourceLabels": [
+    "Plútó"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Neptunuszon túl, a Kuiper-övben keringő törpebolygó; 2006 óta nem sorolják a nagybolygók közé. Pályája erősen elnyúlt és hajlott, felszíne jeges; legnagyobb holdja a Charon.",
+   "example": "A New Horizons űrszonda 2015-ben készített közeli felvételeket a Plútóról.",
+   "related": [
+    "torpebolygo",
+    "neptunusz",
+    "urszonda"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nagy-goncol",
+   "term": "Nagy Göncöl",
+   "aliases": [],
+   "sourceLabels": [
+    "Nagy Göncöl"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Nagy Medve csillagkép hét fényes csillagából álló, szekérre emlékeztető csillagcsoport. Magyarországról egész évben látható; „hátsó kerekének” két csillagát összekötő vonalat kb. ötszörösen meghosszabbítva a Sarkcsillagot találjuk.",
+   "example": "Esténként az északi égbolton a Nagy Göncöl segítségével kereshetjük meg az északi irányt.",
+   "related": [
+    "kis-goncol",
+    "sarkcsillag",
+    "csillagkep"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kis-goncol",
+   "term": "Kis Göncöl",
+   "aliases": [],
+   "sourceLabels": [
+    "Kis Göncöl"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "kozep",
+   "definition": "A Kis Medve csillagkép fő csillagaiból álló, a Nagy Göncölhöz hasonló, de kisebb és halványabb csillagcsoport. Rúdjának végén áll a Sarkcsillag.",
+   "example": "Városi fényszennyezésben a Kis Göncölből gyakran csak a Sarkcsillag látszik.",
+   "related": [
+    "nagy-goncol",
+    "sarkcsillag",
+    "csillagkep"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kepler",
+   "term": "Johannes Kepler",
+   "aliases": [],
+   "sourceLabels": [
+    "Johannes Kepler"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "emelt",
+   "definition": "Német csillagász (1571–1630), aki Tycho Brahe pontos megfigyelései alapján megfogalmazta a bolygók mozgásának három törvényét, és ezzel igazolta a Nap-középpontú világkép helyességét.",
+   "example": "Kepler I. törvénye szerint a Föld pályája ellipszis, amelynek egyik gyújtópontjában a Nap áll.",
+   "related": [
+    "bolygok-mozgastorvenyei",
+    "nap-koruli-keringes"
+   ],
+   "tags": [
+    "csillagászat",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gagarin",
+   "term": "Jurij Gagarin",
+   "aliases": [],
+   "sourceLabels": [
+    "Jurij Gagarin"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "emelt",
+   "definition": "Szovjet űrhajós, az első ember a világűrben: 1961. április 12-én a Vosztok–1 űrhajóval egyszer megkerülte a Földet.",
+   "example": "Április 12-e Gagarin repülése óta az emberes űrrepülés napja.",
+   "related": [
+    "urhajo",
+    "armstrong",
+    "farkas-bertalan"
+   ],
+   "tags": [
+    "űrkutatás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "armstrong",
+   "term": "Neil Armstrong",
+   "aliases": [],
+   "sourceLabels": [
+    "Neil Armstrong"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "emelt",
+   "definition": "Amerikai űrhajós, az Apollo–11 parancsnoka, az első ember, aki a Holdra lépett (1969. július).",
+   "example": "Armstrong és Aldrin a Nyugalom tengerén szállt le.",
+   "related": [
+    "hold",
+    "holdtenger",
+    "gagarin",
+    "urhajo"
+   ],
+   "tags": [
+    "űrkutatás",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "bay-zoltan",
+   "term": "Bay Zoltán",
+   "aliases": [],
+   "sourceLabels": [
+    "Bay Zoltán"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "emelt",
+   "definition": "Magyar fizikus, aki 1946-ban – az amerikai kísérlettel közel egy időben, attól függetlenül – a Holdról visszavert radarjelet mutatott ki (holdradar-kísérlet). A gyenge jelek kimutatására kidolgozott jelösszegző módszere később az űrkutatásban is fontossá vált.",
+   "example": "A holdradar-kísérlet az első lépések egyike volt a radarcsillagászatban.",
+   "related": [
+    "hold",
+    "farkas-bertalan"
+   ],
+   "tags": [
+    "űrkutatás",
+    "Magyarország",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "farkas-bertalan",
+   "term": "Farkas Bertalan",
+   "aliases": [],
+   "sourceLabels": [
+    "Farkas Bertalan"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "emelt",
+   "definition": "Az első magyar űrhajós, aki 1980-ban az Interkozmosz-program keretében a Szojuz–36 űrhajóval a Szaljut–6 űrállomásra repült, és ott kísérleteket végzett.",
+   "example": "A második magyar űrhajós, Kapu Tibor 2025-ben a Nemzetközi Űrállomáson dolgozott.",
+   "related": [
+    "urallomas",
+    "urhajo",
+    "bay-zoltan",
+    "gagarin"
+   ],
+   "tags": [
+    "űrkutatás",
+    "Magyarország",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "julianus-naptar",
+   "term": "Juliánus-naptár",
+   "aliases": [],
+   "sourceLabels": [
+    "Juliánus-naptár"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "emelt",
+   "definition": "Julius Caesar által Kr. e. 46-ban bevezetett naptár, amelyben minden negyedik év szökőév, így az átlagos év 365,25 nap. Mivel ez kb. 11 perccel hosszabb a napévnél, a naptár évszázadok alatt eltolódott az évszakokhoz képest.",
+   "example": "A 16. századra a tavaszi nap-éj egyenlőség már kb. 10 nappal március 21. elé került.",
+   "related": [
+    "gergely-naptar",
+    "szokoev",
+    "napev"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gergely-naptar",
+   "term": "Gergely-naptár",
+   "aliases": [],
+   "sourceLabels": [
+    "Gergely-naptár"
+   ],
+   "parent": null,
+   "topicNo": 2,
+   "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+   "level": "emelt",
+   "definition": "XIII. Gergely pápa által 1582-ben bevezetett, ma használt naptár. A felgyűlt eltérés megszüntetésére 10 napot kihagytak, és módosították a szökőévszabályt: a százzal osztható évek csak akkor szökőévek, ha négyszázzal is oszthatók.",
+   "example": "1582-ben október 4. után október 15. következett; Magyarországon 1587-ben vezették be.",
+   "related": [
+    "julianus-naptar",
+    "szokoev",
+    "naptari-ev"
+   ],
+   "tags": [
+    "Föld-mozgásai",
+    "2-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

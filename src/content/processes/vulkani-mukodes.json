@@ -1,0 +1,68 @@
+{
+  "id": "vulkani-mukodes",
+  "title": "Vulkáni működés: rétegvulkán, pajzsvulkán, hasadékvulkán",
+  "summary": "Vulkáni működés során a magma a felszínre jut, és lávaként, vulkáni hamuként, gázként távozik. A vulkán alakját és a kitörés jellegét főként a magma összetétele, gáztartalma és folyékonysága határozza meg.",
+  "causes": [
+    "A magma a lemezszegélyeken (távolodó lemezszegély, alábukási övezet) és a forró pontok fölött keletkezik.",
+    "A környezeténél kisebb sűrűségű magma felfelé nyomul, és a földkéregben magmakamrában gyűlik össze.",
+    "A magmában oldott gázok nyomása a felszín közelében megnő, ez hajtja a kitörést."
+  ],
+  "course": [
+    "A magma a kürtőn át jut a felszínre, a kürtő végén kráter alakul ki; a felszínre jutott magma a láva.",
+    "A savanyú, sok kovasavat tartalmazó magma sűrűn folyó és gázdús, ezért robbanásos kitörést okoz: sok vulkáni hamu és törmelék szóródik szét.",
+    "A bázisos (bazaltos) magma hígan folyó, a gázok könnyen távoznak, ezért csendes lávaömlés jellemző.",
+    "A kitörések után a vulkán utóműködése még hosszú ideig tarthat."
+  ],
+  "consequences": [
+    "Rétegvulkán épül fel váltakozó láva- és hamurétegekből, meredek lejtőjű kúppal.",
+    "Pajzsvulkán vagy hasadék menti kiömléskor bazaltfennsík jön létre lankás lejtőkkel.",
+    "A robbanásos kitörések, piroklasztár és iszapár súlyos veszélyt jelentenek, a vulkáni hamu a légi közlekedést és az éghajlatot is befolyásolhatja.",
+    "A vulkáni talajok termékenyek, az utóműködés (termálvíz, gőz) energiaforrás és gyógyvíz."
+  ],
+  "steps": [
+    { "title": "Magmakamra és kürtő", "caption": "A felnyomuló magma a kéregben magmakamrában gyűlik össze, onnan a kürtőn át jut a felszínre. A kürtő tölcsérszerű nyílása a kráter.", "icon": "flame" },
+    { "title": "Rétegvulkán: savanyú, sűrűn folyó magma, robbanásos kitörés", "caption": "A gázdús, sűrűn folyó magma eltömi a kürtőt, majd robbanásszerűen tör ki. Láva- és hamurétegek váltakozásából meredek kúp épül, főként alábukási övezetekben.", "icon": "alert-triangle" },
+    { "title": "Pajzsvulkán: bázisos, hígan folyó láva, csendes kiömlés", "caption": "A híg bazaltláva messzire folyik, ezért lapos, széles, pajzs alakú vulkán épül. Forró pontok fölött és távolodó lemezszegélyen jellemző.", "icon": "mountain" },
+    { "title": "Hasadékvulkán: lávaömlés hosszú hasadék mentén", "caption": "A híg láva nem egy kürtőből, hanem hosszú repedés mentén ömlik ki. Ismételt kiömlésekből kiterjedt bazaltfennsík alakulhat ki.", "icon": "layers" },
+    { "title": "Utóműködés: gejzír, fumarola, szolfatára, mofetta", "caption": "A kihűlő magma még sokáig hőt és gázokat ad le. A gejzír időszakosan feltörő forró víz, a fumarola forró vízgőz és gázok, a szolfatára kénes gázok, a mofetta szén-dioxid kiáramlása.", "icon": "droplets" }
+  ],
+  "examples": [
+    { "text": "Rétegvulkánok alábukási övezetben: a Vezúv, a Fuji és a Mount St. Helens, amelynek 1980-as kitörése robbanásos jellegű volt.", "places": ["europa--tajak--vezuv", "azsia--tajak--fuji-fudzsi", "amerika--tajak--mount-st-helens"] },
+    { "text": "Pajzsvulkánok és hasadékvulkánok: a Hawaii-szigetek vulkánjai, valamint Izland hasadékai mentén ömlő bazaltláva; Izlandon gejzírek is működnek.", "places": ["amerika--tajak--hawaii-szigetek", "europa--tajak--izland"] },
+    { "text": "Az Etna Európa legaktívabb vulkánja Szicíliában, termékeny lejtőin szőlő- és gyümölcstermesztés folyik.", "places": ["europa--tajak--etna", "europa--tajak--szicilia"] },
+    { "text": "Hazánkban a Mátra egykori andezit-rétegvulkán, a Tapolcai-medence tanúhegyei (pl. Badacsony) bazaltvulkánosság emlékei.", "places": ["magyarorszag--egyeb-tajak-teruletek--matra", "magyarorszag--egyeb-tajak-teruletek--tapolcai-medence", "magyarorszag--egyeb-tajak-teruletek--badacsony"] }
+  ],
+  "concepts": [
+    "magma",
+    "felszíni vulkánosság",
+    "magmakamra",
+    "kürtő",
+    "kráter",
+    "láva",
+    "vulkáni hamu",
+    "rétegvulkán",
+    "csatornás (kürtős) vulkán",
+    "hasadékvulkán",
+    "pajzsvulkán",
+    "bazaltfennsík",
+    "vulkáni utóműködés",
+    "gejzír",
+    "fumarola",
+    "szolfatára",
+    "mofetta"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el, mitől függ a vulkáni kitörés jellege! Hasonlítsd össze a rétegvulkánt, a pajzsvulkánt és a hasadékvulkánt, és mutasd be a vulkáni utóműködést!",
+    "elements": [
+      { "text": "A magma a magmakamrából a kürtőn át jut a felszínre; a kitörés jellegét a magma összetétele, folyékonysága és gáztartalma határozza meg.", "points": 2 },
+      { "text": "Rétegvulkán: savanyú, sűrűn folyó, gázdús magma, robbanásos kitörés, láva- és hamurétegek, meredek kúp.", "points": 2 },
+      { "text": "Pajzsvulkán: bázisos, hígan folyó láva, csendes kiömlés, lapos lejtők.", "points": 2 },
+      { "text": "Hasadékvulkán: láva hosszú hasadék mentén ömlik ki, bazaltfennsík alakulhat ki.", "points": 1 },
+      { "text": "Utóműködés: gejzír, fumarola, szolfatára, mofetta.", "points": 2 },
+      { "text": "Helyes példák (pl. Vezúv/Fuji – rétegvulkán; Hawaii – pajzsvulkán; Izland – hasadékvulkán).", "points": 1 }
+    ],
+    "modelAnswer": "A magma a magmakamrából a kürtőn át jut a felszínre, és a kitörés jellegét elsősorban összetétele, folyékonysága és gáztartalma határozza meg. A savanyú, sűrűn folyó, gázdús magma robbanásos kitörést okoz, ilyenkor láva- és hamurétegek váltakozásából meredek lejtőjű rétegvulkán épül, például a Vezúv vagy a Fuji. A bázisos, hígan folyó láva csendesen ömlik ki és messzire folyik, így lapos pajzsvulkán jön létre, mint a Hawaii-szigeteken. Hasadékvulkánnál a láva hosszú repedés mentén ömlik ki, és kiterjedt bazaltfennsíkot építhet, erre Izland a példa. A kitörések után az utóműködés folytatódik: a gejzír időszakosan feltörő forró víz, a fumarola forró gőz és gázok, a szolfatára kénes gázok, a mofetta szén-dioxid kiáramlása."
+  },
+  "generated": true,
+  "reviewed": false
+}

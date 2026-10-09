@@ -1,0 +1,3113 @@
+{
+ "cards": [
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k1",
+   "explanation": "A Föld népessége évezredeken át nagyon lassan nőtt, mert a magas születésszámot a magas halálozás (járványok, éhínség, háborúk) szinte kiegyenlítette. Az ipari forradalom után Európában, a 20. század közepétől pedig a fejlődő országokban gyorsult fel a növekedés: ez a népességrobbanás.\n\nAz ok mindig ugyanaz: a halálozás hamarabb csökken (orvoslás, védőoltások, tiszta ivóvíz, jobb élelmezés), mint a születésszám.\n\nTerületi különbségek ma:\n- gyors növekedés: Afrika Szaharától délre eső része, Dél- és Nyugat-Ázsia egyes országai;\n- lassú növekedés vagy stagnálás: Kelet-Ázsia, Amerika nagy része;\n- természetes fogyás, népességfogyás: Európa sok országa (köztük Magyarország), Japán.\n\nKövetkezmények: a gyorsan növő országokban élelmezési, oktatási, munkahely- és környezeti gondok, valamint elvándorlás; a fogyó országokban öregedés, munkaerőhiány és a nyugdíjrendszer terhelése.\n\nNe feledd: a népességszám változása = természetes szaporodás (vagy fogyás) + vándorlási egyenleg.",
+   "diagram": "demographic",
+   "concepts": [
+    "népességrobbanás",
+    "természetes szaporodás",
+    "természetes fogyás",
+    "népességfogyás"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Gyakori hiba, hogy a népességrobbanást a születésszám növekedésével magyarázzák. A fő ok a halálozás gyors csökkenése, miközben a születésszám még magas marad.",
+   "selfCheck": [
+    {
+     "q": "Miért gyorsult fel a fejlődő országok népességnövekedése a 20. század közepén?",
+     "a": "Az orvosi ellátás, a védőoltások és a jobb higiénia miatt gyorsan csökkent a halálozás, a születésszám viszont magas maradt."
+    },
+    {
+     "q": "Melyik földrészen jellemző ma leginkább a természetes fogyás?",
+     "a": "Európában (és például Japánban is)."
+    },
+    {
+     "q": "Milyen két összetevőből áll egy ország népességszám-változása?",
+     "a": "A természetes szaporodásból/fogyásból és a vándorlási egyenlegből."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egy ország népessége természetes fogyás mellett is nőhet, ha elég nagy a bevándorlás.",
+     "true": true
+    },
+    {
+     "statement": "A népességrobbanás fő oka a születésszám hirtelen megugrása volt.",
+     "true": false,
+     "correction": "A fő ok a halálozás gyors csökkenése volt, miközben a születésszám tartósan magas maradt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k2",
+   "explanation": "A népesedési (demográfiai) átmenet azt írja le, hogyan jut el egy társadalom a magas születési és halálozási arányszámoktól az alacsonyakig. A két görbe közötti rés adja a természetes szaporodást.\n\n- 1. szakasz: magas születés és magas halálozás, a népesség alig nő (hagyományos, agrár társadalmak).\n- 2. szakasz: a halálozás gyorsan csökken, a születés magas marad – a szaporodás nagyon gyors (népességrobbanás).\n- 3. szakasz: a születésszám is csökkenni kezd (városodás, nők iskolázottsága, családtervezés), a növekedés lassul.\n- 4. szakasz: mindkét arányszám alacsony, a népesség stagnál.\n- Egyes modellekben 5. szakasz: a halálozás meghaladja a születést, természetes fogyás lép fel.\n\nA fejlett országok ezt az utat lassan, évszázadok alatt járták végig; a fejlődő országokban a halálozás sokkal gyorsabban esett, ezért erősebb a népességrobbanás. Ma Afrika Szaharától délre eső országainak nagy része a 2–3., Európa a 4–5. szakaszban jár.",
+   "diagram": "demographic",
+   "concepts": [
+    "népesedési átmenet (demográfiai átmenet)",
+    "népességrobbanás",
+    "természetes szaporodás",
+    "természetes fogyás"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Az ábrán a szaporodás mértékét a két görbe távolsága mutatja, nem a görbék magassága. A legnagyobb rés a 2. szakasz végén van.",
+   "selfCheck": [
+    {
+     "q": "Melyik szakaszban a leggyorsabb a népességnövekedés, és miért?",
+     "a": "A 2. szakaszban, mert a halálozás már csökken, a születés még magas."
+    },
+    {
+     "q": "Mi indítja el a 3. szakaszt?",
+     "a": "A születésszám csökkenése: városodás, iskolázottság, a nők munkavállalása, családtervezés."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A 4. szakaszban a születési és a halálozási arányszám is alacsony, a népesség közel állandó.",
+     "true": true
+    },
+    {
+     "statement": "Az átmenet 1. szakaszában a halálozás alacsony, ezért a népesség gyorsan nő.",
+     "true": false,
+     "correction": "Az 1. szakaszban a halálozás magas, és mivel a születést szinte kiegyenlíti, a népesség alig nő."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k3",
+   "explanation": "A korfa a népesség kor és nem szerinti összetételét mutatja.\n\n- Függőleges tengely: korcsoportok (általában 5 éves), alul a legfiatalabbak.\n- Vízszintes tengely: az egyes korcsoportok létszáma vagy aránya.\n- Bal oldalon jellemzően a férfiak, jobb oldalon a nők.\n\nMit olvass le?\n- A 0–14, a 15–64 és a 65 év felettiek arányát: ebből látszik, hogy fiatal vagy idős-e a népesség.\n- A nemek arányát: születéskor kissé több a fiú, idős korban viszont nőtöbblet van, mert a nők átlagosan tovább élnek.\n- A kiugrásokat és bevágásokat: egy szűkebb sáv kis létszámú, egy kiszélesedő sáv népes születési évjáratot jelez.\n\nFigyelj arra, hogy egy sáv mindig egy születési évjáratot jelent. Ha tudod, melyik évből származik az ábra, ki tudod számolni, mikor születtek az ott látható csoportok – így köthetők az eltérések eseményekhez.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "korfa",
+    "öregedő és fiatalodó társadalom",
+    "születéskor várható átlagos élettartam"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Leolvasásnál mindig ellenőrizd, hogy a tengelyen abszolút szám (ezer fő) vagy százalék szerepel – a két korfa csak arányokkal hasonlítható össze korrekten.",
+   "selfCheck": [
+    {
+     "q": "Mit mutat a korfa egy vízszintes sávja?",
+     "a": "Egy korcsoport (egy születési évjárat-csoport) létszámát vagy arányát, nemenként."
+    },
+    {
+     "q": "Miért van idős korban nőtöbblet?",
+     "a": "Mert a nők születéskor várható átlagos élettartama hosszabb, mint a férfiaké."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A korfa egy beszűkülő sávja kis létszámú születési évjáratot jelez.",
+     "true": true
+    },
+    {
+     "statement": "A korfán a függőleges tengelyen a létszámot, a vízszintesen a kort ábrázolják.",
+     "true": false,
+     "correction": "Fordítva: a függőleges tengelyen a korcsoportok, a vízszintesen a létszám vagy arány szerepel."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k4",
+   "explanation": "A korfa alakjából gyorsan következtethetsz a népesség helyzetére.\n\n- Piramis (széles alap, gyorsan keskenyedő csúcs): sok gyerek, magas születésszám, viszonylag magas halálozás, rövidebb élettartam. Fiatalodó, gyorsan növő népesség – jellemzően fejlődő ország (pl. Niger, Nigéria).\n- Harang (a fiatal és középkorú sávok közel egyformák, felül szűkül): mérsékelt születésszám, alacsony halálozás, stagnáló népesség.\n- Urna vagy hagyma (az alap keskenyebb a középső korosztályoknál): kevés születés, sok idős, hosszú élettartam. Öregedő, fogyó népesség – pl. Japán, Németország, Magyarország.\n\nA korfából a jövőre is következtethetsz: ha az alap keskeny, néhány évtized múlva kevesebb lesz a szülőképes korú nő, így a születések száma tovább csökkenhet. Széles alapnál viszont a népesség akkor is nőni fog, ha a gyermekvállalás csökken – ezt nevezik a népességnövekedés lendületének.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "korfa",
+    "öregedő és fiatalodó társadalom",
+    "természetes szaporodás",
+    "természetes fogyás"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Az alakot mindig indokold is: ne csak azt írd, hogy „urna alakú”, hanem hogy kevés a gyerek és nagy az idősek aránya, ezért öregedő a népesség.",
+   "selfCheck": [
+    {
+     "q": "Milyen népességre utal a piramis alakú korfa?",
+     "a": "Fiatalodó, gyorsan növő népességre, magas születésszámmal."
+    },
+    {
+     "q": "Mire következtetsz, ha a korfa alapja keskenyebb, mint a középső része?",
+     "a": "Csökkenő születésszámra, öregedő és várhatóan fogyó népességre."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az urna alakú korfa öregedő, fogyó népességre jellemző.",
+     "true": true
+    },
+    {
+     "statement": "A harang alakú korfa a gyorsan növő fejlődő országok jellemzője.",
+     "true": false,
+     "correction": "A gyorsan növő népesség korfája piramis alakú; a harang alak stagnáló népességre utal."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k5",
+   "explanation": "Fiatalodó társadalom:\n- magas a gyermekkorúak (0–14 év) aránya, alacsony az időseké;\n- magas születési és termékenységi arány, gyors természetes szaporodás;\n- alacsonyabb születéskor várható átlagos élettartam, gyakran magasabb csecsemőhalandóság;\n- piramis alakú korfa; jellemzően fejlődő országok, főleg Afrika Szaharától délre.\n\nÖregedő társadalom:\n- magas a 65 év felettiek aránya, kevés a gyerek;\n- alacsony születésszám, természetes fogyás vagy stagnálás;\n- hosszú várható élettartam, magas átlagéletkor;\n- urna alakú korfa; jellemzően fejlett országok, pl. Japán, Olaszország, Németország, Magyarország.\n\nA különbség mögött a fejlettség áll: a városi életmód, a nők magasabb iskolázottsága és munkavállalása, a nyugdíjrendszer és a fogamzásgátlás elterjedése csökkenti a gyermekvállalást. A mezőgazdasági, hagyományos társadalmakban viszont a gyerek munkaerő és az idős kori gondoskodás biztosítéka.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "öregedő és fiatalodó társadalom",
+    "korfa",
+    "születéskor várható átlagos élettartam",
+    "természetes szaporodás",
+    "természetes fogyás"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Összehasonlításnál mindig párban fogalmazz (pl. „magas – alacsony gyermekarány”). A táblázatos vagy párhuzamos felsorolás jól pontozható.",
+   "selfCheck": [
+    {
+     "q": "Melyik korcsoport aránya magas az öregedő társadalomban?",
+     "a": "A 65 év felettieké."
+    },
+    {
+     "q": "Miért vállalnak több gyereket a hagyományos agrártársadalmakban?",
+     "a": "A gyerek munkaerő és az idős szülők gondoskodásának biztosítéka, és gyakran magasabb a csecsemőhalandóság is."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az öregedő társadalmakban jellemzően magas a születéskor várható átlagos élettartam.",
+     "true": true
+    },
+    {
+     "statement": "A fiatalodó társadalmakra a magas átlagéletkor jellemző.",
+     "true": false,
+     "correction": "A fiatalodó társadalmakban alacsony az átlagéletkor, mert magas a gyermekek aránya."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k6",
+   "explanation": "A korösszetétel meghatározza, hogy mire kell költenie a társadalomnak.\n\nFiatalodó társadalom következményei:\n- sok iskola, tanár, gyermekorvos kell, az oktatás nehezen tart lépést;\n- évente sok fiatal lép a munkaerőpiacra – ha nincs elég munkahely, magas a munkanélküliség;\n- élelmezési gondok, lakáshiány, gyorsuló városodás, nyomornegyedek;\n- erős elvándorlási nyomás;\n- ugyanakkor bőséges, olcsó munkaerő.\n\nÖregedő társadalom következményei:\n- egyre kevesebb aktív kereső tart el egyre több nyugdíjast, terhelt a nyugdíjrendszer;\n- nőnek az egészségügyi és idősgondozási kiadások;\n- munkaerőhiány, ami bevándorlást vagy automatizálást (robotizáció) ösztönöz;\n- iskolák bezárása, elöregedő falvak.\n\nVálaszlépések: fiatalodó országokban oktatás és születésszabályozás; öregedőknél családtámogatás, a nyugdíjkorhatár emelése, bevándorlás, az idősek foglalkoztatása.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "öregedő és fiatalodó társadalom",
+    "eltartott",
+    "aktív kereső",
+    "születésszabályozás"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Esszében kapcsold össze a korcsoportot és a kiadási tételt: gyerek – oktatás, munkaképes korú – munkahely, idős – nyugdíj és egészségügy.",
+   "selfCheck": [
+    {
+     "q": "Miért kerül nehéz helyzetbe a nyugdíjrendszer egy öregedő társadalomban?",
+     "a": "Mert egyre kevesebb aktív kereső fizet járulékot egyre több nyugdíjas ellátására."
+    },
+    {
+     "q": "Milyen munkaerő-piaci gond jellemző a fiatalodó társadalmakra?",
+     "a": "Sok fiatal lép munkába, kevés a munkahely, ezért magas a munkanélküliség."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az öregedő társadalmakban a munkaerőhiány a bevándorlást ösztönözheti.",
+     "true": true
+    },
+    {
+     "statement": "A fiatalodó társadalmakban az egészségügyi kiadások legnagyobb tétele az idősgondozás.",
+     "true": false,
+     "correction": "Fiatalodó társadalomban kevés az idős; a nagy terhet az oktatás, a gyermekegészségügy és a munkahelyteremtés jelenti."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k7",
+   "explanation": "A demográfiai mutatókat ezrelékben (‰) adjuk meg: 1000 lakosra vetítjük.\n\n- Születési arányszám = élveszületések száma / népesség × 1000\n- Halálozási arányszám = halálozások száma / népesség × 1000\n- Természetes szaporodás = születési − halálozási arányszám\n- Népességváltozás = természetes szaporodás + vándorlási egyenleg\n- Népsűrűség = népesség / terület (fő/km²)\n\nPélda: egy 10 millió fős országban egy év alatt 90 000 gyermek születik és 130 000 ember hal meg.\n- Születési arányszám: 90 000 / 10 000 000 × 1000 = 9 ‰\n- Halálozási arányszám: 13 ‰\n- Természetes szaporodás: 9 − 13 = −4 ‰, tehát természetes fogyás van (évi 40 000 fő).\n\nHa ugyanebben az évben 25 000 fővel többen vándorolnak be, mint ki, a népesség „csak” 15 000 fővel csökken.\n\nAz eredményből mindig vonj le következtetést: a negatív érték öregedő népességre, a magas pozitív érték (pl. 25–30 ‰) a népesedési átmenet 2. szakaszára utal.",
+   "diagram": null,
+   "concepts": [
+    "természetes szaporodás",
+    "természetes fogyás",
+    "népsűrűség",
+    "vándorlási egyenleg"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Figyelj a mértékegységre: ‰ és % nem keverhető. A népességszámot számolás előtt hozd azonos egységre (pl. millió fő → fő).",
+   "selfCheck": [
+    {
+     "q": "Egy 5 millió fős országban 60 000 születés és 45 000 halálozás volt. Mennyi a természetes szaporodás?",
+     "a": "15 000 fő, azaz 15 000 / 5 000 000 × 1000 = 3 ‰."
+    },
+    {
+     "q": "Hogyan számolod a népsűrűséget?",
+     "a": "A népességszámot elosztod a terület nagyságával (fő/km²)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ha a halálozási arányszám nagyobb a születésinél, a természetes szaporodás értéke negatív.",
+     "true": true
+    },
+    {
+     "statement": "A természetes szaporodás értéke a bevándorlók számával együtt adja meg a születések számát.",
+     "true": false,
+     "correction": "A természetes szaporodás a születések és halálozások különbsége; a vándorlási egyenleggel együtt a teljes népességváltozást adja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k8",
+   "explanation": "A népesség nagyon egyenlőtlenül oszlik el a Földön. Az eloszlást két tényezőcsoport alakítja.\n\nTermészeti tényezők:\n- éghajlat (a túl hideg és a túl száraz terület kedvezőtlen);\n- domborzat (a síkságok, folyóvölgyek, tengerpartok vonzók, a magashegységek nem);\n- vízellátás és termékeny talaj.\n\nTársadalmi-gazdasági tényezők:\n- a történelmi múlt, a földművelés régisége;\n- iparosodás, városodás, munkahelyek;\n- közlekedési kapcsolatok, kikötők;\n- politikai döntések, telepítések.\n\nRitkán lakott vagy lakatlan területek: az Antarktisz, Grönland, a Szahara, Ausztrália belseje, Szibéria, az Amazonas-medence esőerdői, a Tibeti-fennsík.\n\nSűrűn lakott területek: Kelet-Ázsia (Kínai-alföld, Japán), Dél-Ázsia (Gangesz-síkság), Jáva szigete, Nyugat-Európa, az USA északkeleti partvidéke, a Nílus völgye és deltája.\n\nA népesség nagyobb része az északi félgömbön, a mérsékelt és trópusi övben, a tengerpartokhoz közel él.",
+   "diagram": null,
+   "concepts": [
+    "népsűrűség",
+    "népességtömörülés (népességkoncentráció)"
+   ],
+   "processes": [],
+   "examTip": "A Nílus völgye jó példa arra, hogy a sivatagban is lehet nagyon sűrű a népesség, ha van víz. Ilyenkor a víz a döntő telepítő tényező.",
+   "selfCheck": [
+    {
+     "q": "Nevezz meg két természeti tényezőt, amely ritkán lakottá tesz egy területet!",
+     "a": "Például a szélsőségesen hideg vagy száraz éghajlat, illetve a magashegységi domborzat."
+    },
+    {
+     "q": "Miért sűrűn lakott a Nílus völgye a sivatag közepén?",
+     "a": "Mert a folyó vize öntözést és termékeny hordalékos talajt biztosít."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Amazonas-medence esőerdei a ritkán lakott területek közé tartoznak.",
+     "true": true
+    },
+    {
+     "statement": "A Föld népességének nagyobb része a déli félgömbön él.",
+     "true": false,
+     "correction": "A népesség túlnyomó része az északi félgömbön él, ahol a szárazföldek nagyobb része is található."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k9",
+   "explanation": "A Föld legnagyobb népességtömörülései (ezeket térképen is meg kell tudnod mutatni):\n\n- Kelet-Ázsia: a Kínai-alföld, a Jangce és a Huang He völgye, Japán és Korea partvidéke.\n- Dél-Ázsia: az Indus–Gangesz-síkság, Banglades (Gangesz–Brahmaputra-delta).\n- Délkelet-Ázsia: Jáva, a folyódelták (Mekong, Vörös-folyó).\n- Európa: a nyugati és középső területek, a Londontól az Alpokig húzódó sáv.\n- Észak-Amerika: az USA északkeleti partvidéke és a Nagy-tavak környéke.\n\nKialakulásuk okai eltérők:\n- A monszun-Ázsiában a csapadékos, meleg éghajlat és a folyók öntözővize lehetővé tette az évezredes, munkaigényes rizstermesztést, amely sok embert tart el kis területen.\n- Európában és Észak-Amerikában az iparosodás és a városodás koncentrálta a népességet.\n\nKisebb tömörülések: a Nílus völgye, a Guineai-öböl partvidéke (Nigéria), Délkelet-Brazília.",
+   "diagram": null,
+   "concepts": [
+    "népességtömörülés (népességkoncentráció)",
+    "népsűrűség",
+    "városfejlődés (urbanizáció)"
+   ],
+   "processes": [],
+   "examTip": "Jegyezd meg a kétféle okot: Ázsiában főként az ősi mezőgazdaság (rizs), Európában és Észak-Amerikában az ipar és a városodás hozta létre a tömörülést.",
+   "selfCheck": [
+    {
+     "q": "Miért él ilyen sok ember a monszun-Ázsia folyóvölgyeiben?",
+     "a": "A meleg, csapadékos éghajlat és az öntözés lehetővé teszi a nagy hozamú, évente akár többszöri rizstermesztést."
+    },
+    {
+     "q": "Nevezz meg két népességtömörülést Ázsián kívül!",
+     "a": "Pl. Nyugat-Európa és az USA északkeleti partvidéke."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az európai népességtömörülés kialakulásában az iparosodásnak és a városodásnak kiemelt szerepe volt.",
+     "true": true
+    },
+    {
+     "statement": "A Föld legnagyobb népességtömörülései a sivatagos és hegyvidéki területeken alakultak ki.",
+     "true": false,
+     "correction": "A legnagyobb tömörülések síkságokon, folyóvölgyekben és tengerpartokon vannak, a sivatagok és hegyvidékek ritkán lakottak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k10",
+   "explanation": "Az egyenlőtlen elrendeződés mindkét végletnek megvannak a gondjai.\n\nA túlzsúfolt területeken:\n- a népesség megközelíti vagy meghaladja a terület eltartóképességét (élelmezési gondok, túlnépesedés);\n- erős a környezetterhelés: levegő- és vízszennyezés, hulladék, talajpusztulás;\n- lakáshiány, nyomornegyedek, túlterhelt közlekedés és közművek;\n- járványok gyorsabb terjedése;\n- erős az elvándorlási nyomás.\n\nA ritkán lakott területeken:\n- drága az infrastruktúra (utak, vezetékek) kiépítése, egy főre vetítve sokba kerül;\n- nehéz megszervezni az oktatást, egészségügyi ellátást;\n- a természeti erőforrások kiaknázásához (pl. szibériai kőolaj, földgáz) hiányzik a munkaerő;\n- elvándorlás, elöregedés.\n\nAz egyenlőtlenség tehát vándorlást indít el a sűrűn és szegényen lakott területekről a gazdagabb, munkát kínáló térségek felé.",
+   "diagram": null,
+   "concepts": [
+    "népsűrűség",
+    "túlnépesedés",
+    "eltartóképesség",
+    "népességmozgás (migráció)"
+   ],
+   "processes": [],
+   "examTip": "A túlnépesedés nem csak a népsűrűségen múlik: Hollandia sűrűn lakott, mégsem túlnépesedett, mert gazdasága eltartja népességét. Mindig a terület eltartóképességéhez viszonyíts.",
+   "selfCheck": [
+    {
+     "q": "Miért drága az ellátás a ritkán lakott területeken?",
+     "a": "Mert az infrastruktúra kiépítése és fenntartása kevés felhasználóra jut, nagy távolságokat kell áthidalni."
+    },
+    {
+     "q": "Mit jelent az eltartóképesség?",
+     "a": "Azt, hogy egy terület erőforrásai tartósan hány embert tudnak ellátni."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A sűrűn lakott területeken a környezetterhelés általában nagyobb.",
+     "true": true
+    },
+    {
+     "statement": "A magas népsűrűség minden esetben túlnépesedést jelent.",
+     "true": false,
+     "correction": "A túlnépesedés azt jelenti, hogy a népesség meghaladja a terület eltartóképességét; egy fejlett, sűrűn lakott ország nem feltétlenül túlnépesedett."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k11",
+   "explanation": "A népességmozgás (migráció) az emberek lakóhely-változtatása. Fő típusai és példái:\n\n- Belföldi vándorlás (országon belül): falusiak költözése városba, pl. Kínában a belső tartományokból a keleti part városaiba; Magyarországon Kelet-Magyarországról a Budapest környéki és nyugati térségekbe.\n- Nemzetközi vándorlás (országhatáron át): pl. Mexikóból és Közép-Amerikából az USA-ba, Észak-Afrikából és a Közel-Keletről Európába.\n- Kivándorlás és bevándorlás: ugyanaz a mozgás a kibocsátó, illetve a fogadó ország szemszögéből.\n- Időszakos és állandó: a vendégmunkás néhány évre megy (pl. dél-ázsiaiak a Perzsa-öböl olajországaiba), a letelepedő végleg.\n- Ingázás: rendszeres (napi vagy heti) utazás a lakóhely és a munkahely/iskola között, pl. az agglomerációból Budapestre.\n- Kényszervándorlás: menekültek háború vagy üldöztetés elől (pl. a szíriai polgárháború idején).\n\nFigyelj: az ingázás nem jár lakóhely-változtatással, mégis a népességmozgások közé soroljuk.",
+   "diagram": null,
+   "concepts": [
+    "népességmozgás (migráció)",
+    "belföldi és nemzetközi vándorlás",
+    "ki- és bevándorlás",
+    "ingázás",
+    "vendégmunkás",
+    "menekült"
+   ],
+   "processes": [],
+   "examTip": "Példánál mindig nevezd meg a kibocsátó és a fogadó területet is, valamint a típus (belföldi/nemzetközi, időszakos/állandó) jellemzőit.",
+   "selfCheck": [
+    {
+     "q": "Miben különbözik az ingázás a többi népességmozgástól?",
+     "a": "Nem jár lakóhely-változtatással: rendszeres utazás a lakóhely és a munkahely vagy iskola között."
+    },
+    {
+     "q": "Mondj példát időszakos nemzetközi vándorlásra!",
+     "a": "Dél-ázsiai vendégmunkások a Perzsa-öböl olajtermelő országaiban."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A falvakból városokba irányuló országon belüli költözés belföldi vándorlás.",
+     "true": true
+    },
+    {
+     "statement": "A menekültek önkéntes, gazdasági okból vándorló csoportot alkotnak.",
+     "true": false,
+     "correction": "A menekültek kényszervándorlók: háború, üldöztetés vagy katasztrófa elől kényszerülnek elhagyni lakóhelyüket."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k12",
+   "explanation": "- Állam: meghatározott területtel, az ott élő népességgel és önálló (szuverén) közhatalommal rendelkező politikai szervezet.\n- Nemzet: olyan közösség, amelyet a közös történelem, kultúra, többnyire a közös nyelv és a nemzeti azonosságtudat (identitás) köt össze. A nemzet határai nem mindig esnek egybe az állam határaival.\n- Nemzetállam: olyan állam, amelynek népessége túlnyomórészt egy nemzethez tartozik (pl. Lengyelország, Portugália, Izland).\n- Többnemzetiségű állam: több nemzet vagy nemzetiség él benne jelentős arányban (pl. Svájc, Belgium, Oroszország, India).\n- Nemzetiség: egy állam területén élő, a többségtől eltérő nyelvű, kultúrájú és azonosságtudatú közösség, amely egy másik nemzet része (nemzeti kisebbség). Pl. a szlovákiai, romániai vagy szerbiai magyarok.\n\nAz etnikum tágabb fogalom: közös nyelvű, kultúrájú népcsoport, amelynek nincs feltétlenül anyaországa (pl. a romák vagy a kurdok).",
+   "diagram": null,
+   "concepts": [
+    "állam",
+    "nemzet",
+    "nemzetállam",
+    "többnemzetiségű állam",
+    "nemzetiség",
+    "nemzeti azonosságtudat (identitás)"
+   ],
+   "processes": [],
+   "examTip": "Ne keverd a nemzetiséget és az állampolgárságot: egy szlovákiai magyar állampolgársága szlovák, nemzetisége magyar.",
+   "selfCheck": [
+    {
+     "q": "Mi az állam három alapvető eleme?",
+     "a": "Terület, népesség és önálló (szuverén) közhatalom."
+    },
+    {
+     "q": "Mondj példát többnemzetiségű államra!",
+     "a": "Pl. Svájc, Belgium vagy Oroszország."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A nemzet határai nem feltétlenül esnek egybe egy állam határaival.",
+     "true": true
+    },
+    {
+     "statement": "A nemzetállam olyan állam, ahol több, közel egyenlő arányú nemzet él együtt.",
+     "true": false,
+     "correction": "Ez a többnemzetiségű állam. A nemzetállam népessége túlnyomórészt egyetlen nemzethez tartozik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--k13",
+   "explanation": "Az öt világvallás és fő jellemzőik:\n\n- Kereszténység: egyistenhit, Jézus Krisztus tanításai, szent könyve a Biblia. A legtöbb hívővel rendelkező vallás. Fő ágai: katolikus (központ: Róma, Vatikán), ortodox (történelmi központ: Konstantinápoly, ma Isztambul), protestáns. Szent hely: Jeruzsálem.\n- Iszlám: egyistenhit (Allah), próféta Mohamed, szent könyve a Korán. Központjai: Mekka és Medina. Ágai: szunnita és síita.\n- Zsidó vallás: a legrégebbi egyistenhívő világvallás, szent irata a Tóra (Ószövetség). Központja Jeruzsálem.\n- Hinduizmus: sok istenséget tisztel, nincs egyetlen alapítója; jellemzői a lélekvándorlás és a hagyományos kasztrendszer. Szent folyója a Gangesz, szent városa Váránaszi (Benáresz).\n- Buddhizmus: alapítója Sziddhártha Gautama (Buddha), célja a szenvedéstől megszabadulás, a nirvána. Kiemelt helye Bódh-Gaja, a tibeti buddhizmusé Lhásza.\n\nA kereszténység, a zsidó vallás és az iszlám közös gyökerű, ábrahámi vallás.",
+   "diagram": null,
+   "concepts": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "processes": [],
+   "examTip": "Tipikus párosító feladat: vallás – központ – szent könyv. Jeruzsálem három vallásnak (zsidó, keresztény, iszlám) is szent városa.",
+   "selfCheck": [
+    {
+     "q": "Melyik vallás központja Mekka?",
+     "a": "Az iszlámé."
+    },
+    {
+     "q": "Melyik világvallásra jellemző a lélekvándorlás és a kasztrendszer?",
+     "a": "A hinduizmusra."
+    },
+    {
+     "q": "Melyik a legrégebbi egyistenhívő világvallás?",
+     "a": "A zsidó vallás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Jeruzsálem a zsidó, a keresztény és az iszlám vallás számára is szent város.",
+     "true": true
+    },
+    {
+     "statement": "A buddhizmus szent könyve a Korán.",
+     "true": false,
+     "correction": "A Korán az iszlám szent könyve; a buddhizmus Buddha (Sziddhártha Gautama) tanításaira épül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e1",
+   "explanation": "A korfa „emlékezik”: a történelmi események évtizedekig látszanak rajta.\n\n- Háborúk: a harcokban elesettek miatt a megfelelő korosztályokban férfihiány alakul ki, a háború alatt pedig kevés gyerek születik – ez bevágásként jelenik meg. Kb. 20–30 évvel később újabb, kisebb bevágás jön, mert a „hiányzó” évjárat kevesebb gyermeket szül.\n- Háború utáni születési hullám (baby boom): kiszélesedő sáv.\n- Magyarországon az 1950-es évek elején a Ratkó-korszak (abortusztilalom, gyermektelenségi adó) népes évjáratokat hozott; az ő gyermekeik az 1970-es évek közepén újabb hullámot alkotnak.\n- A rendszerváltás utáni gazdasági bizonytalanság és életmódváltás csökkentette a születésszámot.\n- Kína egykepolitikája szűkülő alapot és fiútöbbletet eredményezett.\n- A Perzsa-öböl olajállamaiban a munkaképes korban erős férfitöbblet van a vendégmunkások miatt.\n\nTársadalmi-gazdasági hatás: a népes évjáratok egymás után terhelik az óvodákat, iskolákat, a lakáspiacot, végül a nyugdíjrendszert.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "korfa",
+    "vendégmunkás",
+    "születésszabályozás",
+    "öregedő és fiatalodó társadalom"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Számolj vissza: ha a 2020-as korfán a 65–69 évesek sávja kiugró, akkor ők 1951–1955 körül születtek – ez Magyarországon a Ratkó-korszak.",
+   "selfCheck": [
+    {
+     "q": "Miért jelenik meg egy háborús bevágás kb. egy generációval később is a korfán?",
+     "a": "Mert a kis létszámú évjáratból kevesebb szülő lesz, így kevesebb gyermek születik."
+    },
+    {
+     "q": "Mi okoz férfitöbbletet az Öböl-államok korfáján?",
+     "a": "A nagy számú, többségében férfi vendégmunkás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Kína egykepolitikája a korfa alapjának szűkülését okozta.",
+     "true": true
+    },
+    {
+     "statement": "A Ratkó-korszak alacsony születésszámú évjáratokat eredményezett Magyarországon.",
+     "true": false,
+     "correction": "A Ratkó-korszak (az 1950-es évek eleje) az abortusztilalom miatt kiugróan népes évjáratokat hozott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e2",
+   "explanation": "A népesedési átmenet minden szakaszához jellegzetes korfaalak tartozik.\n\n- 1. szakasz (magas születés, magas halálozás): széles alap, de felfelé meredeken keskenyedik, mert a halandóság minden korban magas; kevés az idős. Alacsony, „lapos” piramis.\n- 2. szakasz (csökkenő halálozás, magas születés): a legszélesebb alapú, szabályos piramis; egyre több gyerek éri meg a felnőttkort, a népesség gyorsan fiatalodik.\n- 3. szakasz (csökkenő születés): az alap keskenyedni kezd, a középső korosztályok kiszélesednek, a piramis harang felé alakul.\n- 4. szakasz (alacsony születés és halálozás): harang alak, a korcsoportok közel egyforma szélesek, felül lassan szűkül.\n- 5. szakasz (természetes fogyás): urna (hagyma) alak, az alap keskenyebb a közepénél, sok az idős.\n\nAz összefüggés logikája: a születési arány az alap szélességét, a halálozás és a várható élettartam a korfa „magasságát” és felső részét határozza meg.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "népesedési átmenet (demográfiai átmenet)",
+    "korfa",
+    "öregedő és fiatalodó társadalom",
+    "születéskor várható átlagos élettartam"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Gyakori feladat: a demográfiai átmenet görbéje mellé kell párosítani a korfákat. Az alap szélessége a születésre, a csúcs vastagsága a halálozásra utal.",
+   "selfCheck": [
+    {
+     "q": "Melyik szakaszhoz tartozik az urna alakú korfa?",
+     "a": "Az 5. szakaszhoz (természetes fogyás)."
+    },
+    {
+     "q": "Miben különbözik az 1. és a 2. szakasz piramisa?",
+     "a": "Az 1. szakaszban a halandóság miatt meredeken szűkül, a 2.-ban egyre több gyerek éri meg a felnőttkort, így szabályosabb, magasabb piramis."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A korfa alapjának szélessége elsősorban a születési arányszámtól függ.",
+     "true": true
+    },
+    {
+     "statement": "A 4. szakaszt széles alapú piramis jellemzi.",
+     "true": false,
+     "correction": "A 4. szakaszban alacsony a születésszám, ezért a korfa harang alakú."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e3",
+   "explanation": "A vándorlást taszító (kibocsátó területen ható) és vonzó (fogadó területen ható) tényezők együtt indítják el.\n\nOkok:\n- gazdasági: munkanélküliség, alacsony bérek – jobb kereset, munkalehetőség;\n- politikai: háború, üldöztetés, diktatúra – biztonság, szabadság;\n- környezeti: aszály, elsivatagosodás, árvizek, tengerszint-emelkedés;\n- társadalmi: tanulás, családegyesítés, jobb ellátás.\n\nHatások a kibocsátó országban:\n- csökken a munkanélküliség, de elvándorolnak a fiatalok és a képzettek (agyelszívás (brain drain));\n- öregedés, elnéptelenedő vidékek;\n- a kivándorlók hazautalásai fontos bevételt jelentenek.\n\nHatások a fogadó országban:\n- munkaerőhiány enyhülése, fiatalabb népesség, a nyugdíjrendszer tehermentesítése;\n- kulturális sokszínűség;\n- de beilleszkedési (integrációs) gondok, szegregáció, társadalmi feszültség, terhelt szociális rendszer.\n\nA menekült nemzetközi védelemre jogosult, a vendégmunkás munkavállalási céllal, többnyire időszakosan érkezik.",
+   "diagram": null,
+   "concepts": [
+    "népességmozgás (migráció)",
+    "agyelszívás (brain drain)",
+    "menekült",
+    "vendégmunkás",
+    "időszakos és állandó népességmozgás"
+   ],
+   "processes": [],
+   "examTip": "Esszében mindig mindkét oldalt (kibocsátó és fogadó) és mindkét előjelet (előny, hátrány) mutasd be – így teljes a pontszám.",
+   "selfCheck": [
+    {
+     "q": "Mit jelent az agyelszívás?",
+     "a": "A képzett szakemberek (orvosok, mérnökök, kutatók) elvándorlását a fejlettebb országokba."
+    },
+    {
+     "q": "Mondj egy kedvező hatást a kibocsátó ország számára!",
+     "a": "A kivándorlók hazautalásai, illetve a munkanélküliség enyhülése."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A bevándorlás enyhítheti a fogadó ország öregedéséből adódó munkaerőhiányt.",
+     "true": true
+    },
+    {
+     "statement": "A migráció kizárólag gazdasági okokra vezethető vissza.",
+     "true": false,
+     "correction": "Politikai (háború, üldöztetés), környezeti és társadalmi (tanulás, családegyesítés) okok is szerepet játszanak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e4",
+   "explanation": "Migrációs térképek és ábrák elemzésekor haladj sorban:\n\n1. Olvasd el a címet, a jelmagyarázatot és az időszakot.\n2. Irány: honnan hová mutatnak a nyilak (kibocsátó és fogadó térségek)?\n3. Nagyság: a nyíl vastagsága vagy a színezés mutatja az áramlás mértékét.\n4. Vándorlási egyenleg: a bevándorlók és kivándorlók különbsége. Pozitív egyenleg = befogadó, negatív = kibocsátó terület.\n5. Változás: hogyan alakult az áramlás időben?\n6. Magyarázat: kapcsold az okokhoz (fejlettségi különbség, háború, földrajzi közelség, közös nyelv, gyarmati múlt).\n\nGyakori nagy irányok:\n- Latin-Amerikából az USA-ba;\n- Afrikából és a Közel-Keletről Európába (gyakran a volt gyarmattartó országba, a közös nyelv miatt);\n- Dél- és Délkelet-Ázsiából a Perzsa-öböl országaiba;\n- Kelet-Közép-Európából Nyugat-Európába.\n\nAz interkontinentális vándorlás földrészek között zajlik; a térképen ezek a leghosszabb nyilak.",
+   "diagram": null,
+   "concepts": [
+    "vándorlási egyenleg",
+    "interkontinentális vándorlás",
+    "népességmozgás (migráció)",
+    "ki- és bevándorlás"
+   ],
+   "processes": [],
+   "examTip": "Ha a válaszban azt írod, hogy „sokan mennek”, az kevés: nevezd meg a konkrét kibocsátó és fogadó térséget, és indokold az irányt.",
+   "selfCheck": [
+    {
+     "q": "Mit jelent a negatív vándorlási egyenleg?",
+     "a": "Többen vándorolnak ki, mint be – a terület kibocsátó."
+    },
+    {
+     "q": "Miért vándorolnak sokan a volt gyarmatokról a gyarmattartó országokba?",
+     "a": "Közös nyelv, kulturális és történelmi kapcsolatok, meglévő közösségek miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A migrációs térképen a nyíl vastagsága általában az áramlás nagyságát jelzi.",
+     "true": true
+    },
+    {
+     "statement": "A Perzsa-öböl olajtermelő országai jellemzően nagy kibocsátó területek.",
+     "true": false,
+     "correction": "Ezek az országok befogadók: sok vendégmunkás érkezik ide Dél- és Délkelet-Ázsiából."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e5",
+   "explanation": "Az államforma azt mutatja meg, hogyan választják vagy jelölik ki az államfőt.\n\nKöztársaság: az államfőt (elnököt) meghatározott időre választják, közvetlenül vagy a parlament által.\n- Központi irányítású (egységes) köztársaság: egy központi kormány irányít, a területi egységek nem önálló államok (pl. Magyarország, Franciaország).\n- Szövetségi köztársaság: a tagállamok saját alkotmánnyal, törvényhozással, kormánnyal rendelkeznek, a szövetségi szint bizonyos ügyekben dönt (pl. USA, Németország, Ausztria, Brazília).\n\nMonarchia: az uralkodó (király, császár, emír) tisztsége öröklődik.\n- Abszolút monarchia: az uralkodó gyakorlatilag korlátlan hatalommal rendelkezik (pl. Szaúd-Arábia).\n- Alkotmányos monarchia: az uralkodó hatalmát alkotmány korlátozza, többnyire jelképes szerepű, a tényleges hatalom a parlamenté és a kormányé (pl. Egyesült Királyság, Spanyolország, Svédország, Japán).\n\nNe keverd: az államforma a hatalom formáját, nem pedig a fejlettséget vagy a demokrácia szintjét jelzi.",
+   "diagram": null,
+   "concepts": [
+    "államforma",
+    "köztársaság",
+    "monarchia",
+    "abszolút monarchia",
+    "alkotmányos monarchia",
+    "szövetségi köztársaság"
+   ],
+   "processes": [],
+   "examTip": "Az Egyesült Királyság alkotmányos monarchia, nem köztársaság; Németország és Ausztria szövetségi köztársaság. Ezek kedvelt vizsgapéldák.",
+   "selfCheck": [
+    {
+     "q": "Mi a fő különbség a köztársaság és a monarchia között?",
+     "a": "Köztársaságban az államfőt választják, monarchiában az uralkodói tisztség öröklődik."
+    },
+    {
+     "q": "Mondj példát szövetségi köztársaságra!",
+     "a": "Pl. Németország, USA, Ausztria."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Spanyolország alkotmányos monarchia.",
+     "true": true
+    },
+    {
+     "statement": "Magyarország szövetségi köztársaság.",
+     "true": false,
+     "correction": "Magyarország központi irányítású (egységes) köztársaság; a megyék nem önálló tagállamok."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e6",
+   "explanation": "A nagyrasszok (emberfajták) öröklött külső testi jegyek (bőrszín, haj, szemforma, testalkat) alapján elkülönített nagy embercsoportok. Ezek a jegyek a környezethez való alkalmazkodás során alakultak ki; a rassz semmit nem mond az ember képességeiről vagy értékéről.\n\n- Europid: Európa, Észak-Afrika, Délnyugat-Ázsia, India nagy része. A gyarmatosítás és kivándorlás révén ma Észak- és Dél-Amerikában, Ausztráliában is meghatározó.\n- Mongolid: Kelet-, Közép- és Délkelet-Ázsia, Szibéria; ide sorolják Amerika őslakóit (indiánok, inuitok) is.\n- Negrid: Afrika Szaharától délre eső része; a rabszolga-kereskedelem miatt Amerikában (pl. Brazília, USA, Karib-térség) is jelentős.\n- Veddo-ausztralid: Ausztrália őslakói, valamint Dél-Ázsia és Óceánia egyes kisebb csoportjai.\n\nKeveréknépek: a nagyrasszok keveredéséből jöttek létre, főként Latin-Amerikában (meszticek: europid és indián, mulattok: europid és negrid ősökkel).",
+   "diagram": null,
+   "concepts": [
+    "europid",
+    "mongolid",
+    "negrid",
+    "veddo-ausztralid nagyrassz",
+    "keveréknépek"
+   ],
+   "processes": [],
+   "examTip": "Térképes feladatnál a mai elterjedésben ne feledd a népességmozgások (gyarmatosítás, rabszolga-kereskedelem) hatását Amerikában és Ausztráliában.",
+   "selfCheck": [
+    {
+     "q": "Melyik nagyrasszhoz sorolják Amerika őslakóit?",
+     "a": "A mongolidhoz."
+    },
+    {
+     "q": "Hogyan került nagyszámú negrid népesség Amerikába?",
+     "a": "A 16–19. századi rabszolga-kereskedelem révén."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A keveréknépek aránya Latin-Amerikában különösen magas.",
+     "true": true
+    },
+    {
+     "statement": "A veddo-ausztralid nagyrassz fő elterjedési területe Észak-Afrika.",
+     "true": false,
+     "correction": "Észak-Afrikában az europid nagyrassz él; a veddo-ausztralidok főként Ausztrália őslakói és dél-ázsiai, óceániai kisebb csoportok."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e7",
+   "explanation": "Elterjedés:\n- Kereszténység: Európa, Észak- és Dél-Amerika, Ausztrália, Afrika Szaharától délre eső részének nagy része; Fülöp-szigetek.\n- Iszlám: Észak-Afrika, Délnyugat- és Közép-Ázsia, Pakisztán, Banglades, valamint Indonézia, a legnépesebb muszlim ország.\n- Hinduizmus: India, Nepál.\n- Buddhizmus: Délkelet-Ázsia (Thaiföld, Mianmar), Srí Lanka, Tibet, Mongólia, Kelet-Ázsiában más hagyományokkal keveredve.\n- Zsidó vallás: Izrael, illetve szórványban (pl. USA).\n\nA vallás szerepe a társadalomban és gazdaságban:\n- étkezési szabályok: a muszlimok és zsidók nem esznek sertéshúst, a hinduk a szarvasmarhát szentnek tartják – ez befolyásolja az állattartást;\n- a születésszámot is befolyásolja (a családtervezéshez való viszony);\n- a hagyományos kasztrendszer a foglalkozásokat is meghatározta;\n- az iszlám tiltja a kamatot – ez sajátos bankrendszert hozott létre;\n- zarándokturizmus (Mekka, Jeruzsálem, Váránaszi);\n- vallási ellentétek konfliktusokat is okoznak (pl. India és Pakisztán, a Közel-Kelet).",
+   "diagram": null,
+   "concepts": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+    "természeti vallás",
+    "kulturális régió"
+   ],
+   "processes": [],
+   "examTip": "Indonézia a legnépesebb muszlim ország, nem egy arab állam – ez gyakori csapda. Az iszlám nem azonos az arab világgal.",
+   "selfCheck": [
+    {
+     "q": "Miért nem fogyasztanak marhahúst a hinduk többsége?",
+     "a": "Mert a szarvasmarhát szent állatnak tartják."
+    },
+    {
+     "q": "Melyik a legnépesebb muszlim többségű ország?",
+     "a": "Indonézia."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A vallási előírások befolyásolhatják egy térség mezőgazdaságát és élelmiszer-fogyasztását.",
+     "true": true
+    },
+    {
+     "statement": "A buddhizmus fő elterjedési területe Észak-Afrika.",
+     "true": false,
+     "correction": "Észak-Afrikában az iszlám az uralkodó; a buddhizmus Délkelet- és Kelet-Ázsiában, Srí Lankán, Tibetben jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-1-a-nepesseg-foldrajzi-jellemzoi--e8",
+   "explanation": "A kulturális régió olyan nagy térség, amelynek népességét közös vagy rokon nyelv, vallás, írás, hagyományok, értékrend és történelmi múlt köti össze. A régiók határa nem éles, és a felosztás szerzőnként eltér. Gyakran elkülönítettek:\n\n- Nyugati (európai–észak-amerikai): keresztény gyökerek, latin írás, demokratikus és piacgazdasági hagyomány, magas fejlettség.\n- Kelet-európai (ortodox): ortodox kereszténység, részben cirill írás, központja Oroszország.\n- Latin-amerikai: katolikus vallás, spanyol és portugál nyelv, keveredő népesség.\n- Arab–iszlám (észak-afrikai és délnyugat-ázsiai): iszlám, arab nyelv és írás.\n- Afrikai (Szaharától délre): sokféle nyelv és törzsi hagyomány, keresztény, iszlám és természeti vallások.\n- Indiai (dél-ázsiai): hinduizmus, kasztrendszer hagyománya, sok nyelv.\n- Kelet-ázsiai (kínai–japán): konfuciánus erkölcs, buddhizmus, írásjegyes írás.\n- Délkelet-ázsiai: buddhista, iszlám és keresztény területek mozaikja.\n\nA régiókat a nyelvcsaládok (pl. indoeurópai, sémi, sino-tibeti) elterjedése is tükrözi.",
+   "diagram": null,
+   "concepts": [
+    "kulturális régió",
+    "nyelvcsalád",
+    "világnyelv",
+    "természeti vallás",
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "processes": [],
+   "examTip": "Egy régió jellemzésénél legalább három elemet nevezz meg: vallás, nyelv/írás, hagyományok vagy társadalmi berendezkedés.",
+   "selfCheck": [
+    {
+     "q": "Mi alapján határoljuk el a kulturális régiókat?",
+     "a": "Közös vagy rokon nyelv, vallás, írás, hagyomány, értékrend és történelmi múlt alapján."
+    },
+    {
+     "q": "Milyen vallás és nyelvek jellemzik a latin-amerikai kulturális régiót?",
+     "a": "Katolikus kereszténység, spanyol és portugál nyelv."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A kulturális régiók határai nem élesek, átmeneti sávok vannak közöttük.",
+     "true": true
+    },
+    {
+     "statement": "A kelet-ázsiai kulturális régióban a latin betűs írás és a protestáns vallás az uralkodó.",
+     "true": false,
+     "correction": "Kelet-Ázsiában az írásjegyes írás, a konfuciánus erkölcs és a buddhizmus a meghatározó."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--k1",
+   "explanation": "A településeket több szempont szerint csoportosíthatod.\n\nÁllandóság szerint:\n- ideiglenes település: a lakók időszakosan vagy vándorolva használják (pl. nomád pásztorok jurtái, sátortáborai);\n- állandó település: tartós lakóhely.\n\nBeépítés szerint:\n- szórványtelepülés: egymástól távol álló, magányos lakóhelyek (tanya, farm);\n- csoportos település: az épületek egy tömbben, egymás közelében állnak (falu, város).\n\nA falu alaprajza:\n- szabálytalan alaprajzú falu (halmazfalu): szervesen, terv nélkül nőtt, görbe utcák;\n- útifalu: egy út mentén elnyúló, egyutcás falu;\n- szabályos alaprajzú falu: tervezett, sakktáblás utcahálózat (pl. az Alföld 18. századi telepített falvai).\n\nA város a falunál nagyobb, népesebb, és központi szerepköröket lát el a környéke számára (közigazgatás, oktatás, egészségügy, kereskedelem). Fejlettebb az infrastruktúrája, lakói többsége nem a mezőgazdaságban dolgozik.\n\nA városokat méretük szerint is rangsorolhatod: kisváros, nagyváros, óriásváros (megapolisz), világváros.",
+   "diagram": null,
+   "concepts": [
+    "ideiglenes és állandó település",
+    "szórványtelepülés",
+    "csoportos település",
+    "szabálytalan alaprajzú falu (halmazfalu)",
+    "útifalu",
+    "szabályos alaprajzú falu"
+   ],
+   "processes": [],
+   "examTip": "A várost nem a lakosságszám, hanem elsősorban a központi szerepkör (funkció) különbözteti meg a falutól. Egy nagy alföldi falu lehet népesebb egy kisvárosnál.",
+   "selfCheck": [
+    {
+     "q": "Mi a különbség a szórvány- és a csoportos település között?",
+     "a": "A szórványtelepülés lakóhelyei egymástól távol, magányosan állnak; a csoportosé egy tömbben."
+    },
+    {
+     "q": "Milyen alaprajz jellemző a telepített falvakra?",
+     "a": "Szabályos, sakktáblás utcahálózat."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A nomád pásztorok jurtatábora ideiglenes település.",
+     "true": true
+    },
+    {
+     "statement": "A halmazfalu tervezett, sakktábla alaprajzú falu.",
+     "true": false,
+     "correction": "A halmazfalu szabálytalan alaprajzú, terv nélkül nőtt falu; a sakktáblás alaprajz a szabályos (telepített) falvakra jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--k2",
+   "explanation": "A városok eltérő szerepköröket (funkciókat) töltenek be:\n\n- közigazgatási: fővárosok, megyeszékhelyek (pl. Brasília, Canberra – tervezett fővárosok);\n- ipari: Detroit (autóipar), a Ruhr-vidék városai, Győr;\n- kereskedelmi és kikötői: Rotterdam, Hamburg, Szingapúr;\n- közlekedési csomópont: Chicago, Záhony;\n- pénzügyi: London City, Frankfurt, New York;\n- egyetemi, tudományos: Oxford, Cambridge, Szeged, Debrecen;\n- üdülő, fürdő: Hévíz, Karlovy Vary, Siófok;\n- vallási, zarándok: Mekka, Vatikán, Lourdes;\n- technopolisz: a csúcstechnológia és a K+F központja (pl. a Szilícium-völgy városai, Bangalore).\n\nA szerepkörök átalakulnak:\n- a bánya- és kohóvárosok a válságágazatok hanyatlásával munkahelyet vesztettek (pl. Ózd, Komló, Detroit), a Ruhr-vidék szolgáltató, kulturális központtá alakult;\n- a falvak egy része a mezőgazdasági szerepből lakó- vagy idegenforgalmi szerepkörbe vált (pl. Hollókő).\n\nA nagyvárosok többfunkciósak; a kisebb városoknál gyakran egy szerepkör a meghatározó.",
+   "diagram": null,
+   "concepts": [
+    "központi szerepkör (központi funkció)",
+    "technopolisz",
+    "város",
+    "világváros (globális város)"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Szerepkör-átalakulásnál írd le az okot is (pl. a szénbányászat válsága) és az új szerepet (pl. szolgáltatás, turizmus).",
+   "selfCheck": [
+    {
+     "q": "Mi a technopolisz?",
+     "a": "Csúcstechnológiai ipar és K+F tevékenység köré szerveződött város vagy városrész."
+    },
+    {
+     "q": "Mondj példát egy szerepkörét elvesztő ipari városra!",
+     "a": "Pl. Detroit vagy Ózd."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Brasília és Canberra tervezett fővárosok, közigazgatási szerepkörrel.",
+     "true": true
+    },
+    {
+     "statement": "A városok szerepköre a kialakulásuk után már nem változik.",
+     "true": false,
+     "correction": "A szerepkörök átalakulnak: pl. a bányavárosok szolgáltató vagy turisztikai központtá válhatnak, mások hanyatlanak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--k3",
+   "explanation": "Mindkettő mezőgazdasági szórványtelepülés, de eredetük és működésük eltér.\n\nTanya (Magyarország, főleg az Alföld):\n- a török hódoltság után a mezővárosok hatalmas határában jött létre;\n- eredetileg időszakos szállás volt (állattartás, nyári munkák), később állandó lakóhellyé vált;\n- gazdája sokáig a városhoz is kötődött (kettős település);\n- elhelyezkedés szerint: bokortanya (csoportosan), sortanya (út vagy csatorna mentén), szórt tanya (szétszórtan);\n- ma sok tanya elnéptelenedik: gyenge az infrastruktúra, nehéz az ellátás, de egyesek turisztikai vagy lakófunkciót kapnak.\n\nFarm (Észak-Amerika, Ausztrália):\n- a gyarmatosítás és a földosztás (pl. az USA-ban a 19. századi telepestörvény) révén jött létre;\n- eleve állandó lakóhely és önálló gazdasági egység;\n- nagy kiterjedésű, gépesített, szakosodott, piacra termel;\n- kiépült az infrastruktúrája.\n\nKözös vonás: családi gazdaság, a lakóhely a földterületen áll.",
+   "diagram": null,
+   "concepts": [
+    "tanya",
+    "farm",
+    "szórványtelepülés",
+    "bokor-",
+    "sor- és szórt tanya"
+   ],
+   "processes": [],
+   "examTip": "Az összehasonlításban szerepeljen az eredet (hódoltság utáni mezőváros, illetve telepítés), a funkció (időszakos majd állandó, illetve eleve állandó) és a gazdálkodás jellege.",
+   "selfCheck": [
+    {
+     "q": "Miért jöttek létre a tanyák az Alföldön?",
+     "a": "A török hódoltság után a mezővárosok nagy határának megművelésére, állattartásra, eleinte időszakos szállásként."
+    },
+    {
+     "q": "Mi jellemző a farmok gazdálkodására?",
+     "a": "Nagy kiterjedés, gépesítés, szakosodás, piacra termelés."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A tanya és a farm egyaránt szórványtelepülés.",
+     "true": true
+    },
+    {
+     "statement": "A farm eredetileg időszakos szállás volt, amely a mezőváros része maradt.",
+     "true": false,
+     "correction": "Ez a tanyára igaz; a farm eleve állandó lakóhelyként és önálló gazdasági egységként jött létre."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--k4",
+   "explanation": "A két fogalom gyakran együtt szerepel, de mást jelent.\n\nVárosodás (mennyiségi változás):\n- nő a városok száma és mérete;\n- nő a városi népesség aránya az összes népességen belül.\n\nVárosiasodás (minőségi változás):\n- terjed a városi életmód, életforma;\n- kiépül a városi infrastruktúra (víz, csatorna, közlekedés) és a szolgáltatások;\n- ez a falvakat is elérheti.\n\nA kettő nem mindig jár együtt:\n- a fejlődő országokban a városodás sokkal gyorsabb a városiasodásnál: tömegek költöznek a városokba, de nem jut nekik lakás, munka, közmű – így nyomornegyedek nőnek;\n- a fejlett országokban a városiasodás már a falvakat is elérte, a falusi életmód is városias lett.\n\nA kettő együtt alkotja a városfejlődést (urbanizációt).",
+   "diagram": "urbanization",
+   "concepts": [
+    "városodás",
+    "városiasodás",
+    "városfejlődés (urbanizáció)",
+    "nyomornegyed",
+    "infrastruktúra"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "Jó emlékeztető: városodás = „több város, több városlakó”; városiasodás = „városias életforma”. A fejlődő világ nyomornegyedei a kettő eltérésének eredményei.",
+   "selfCheck": [
+    {
+     "q": "Melyik fogalom jelent mennyiségi változást?",
+     "a": "A városodás."
+    },
+    {
+     "q": "Miért alakulnak ki nyomornegyedek a fejlődő országok városaiban?",
+     "a": "Mert a városodás gyorsabb a városiasodásnál: a beköltözőknek nem jut lakás, munka és infrastruktúra."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A városiasodás a falvakban is végbemehet.",
+     "true": true
+    },
+    {
+     "statement": "A városodás a városi életmód és infrastruktúra terjedését jelenti.",
+     "true": false,
+     "correction": "Ez a városiasodás; a városodás a városok számának, méretének és a városi népesség arányának növekedése."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--k5",
+   "explanation": "A nagyvárosok belülről kifelé jellegzetes övezetekre tagolódnak.\n\n- Belső munkahelyöv (city): üzleti negyed, bankok, irodák, minisztériumok, áruházak, szállodák. Nagyon drága a telek, ezért magas, sűrű a beépítés (felhőkarcolók). Nappal zsúfolt, éjszakára kiürül. Pl. a londoni City, Budapest V. kerülete.\n- Belső lakóhelyöv: a citytől kifelé, régi, sűrűn beépített bérházas negyedek. Lehet leromló (slumosodó) vagy városrehabilitációval felújított, felértékelődő.\n- Külső munkahelyöv: gyárak, raktárak, vasútállomások, logisztikai és ipari parkok, bevásárlóközpontok. Itt nagy területekre van szükség, olcsóbb a telek, jók a közlekedési kapcsolatok.\n- Külső lakóhelyöv: kertvárosok, családi házak, lakótelepek, zöldövezet; laza beépítés.\n\nFelismerés képen: felhőkarcolók és üvegpaloták = city; zártsorú bérházak = belső lakóhelyöv; csarnokok, sínek = külső munkahelyöv; kertes házak = külső lakóhelyöv.",
+   "diagram": "city-zones",
+   "concepts": [
+    "belső munkahelyöv (city)",
+    "belső lakóhelyöv",
+    "külső munkahelyöv",
+    "külső lakóhelyöv",
+    "városrehabilitáció"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "Indokold az övezetet a telekárral: a központ felé nő a telekár, ezért ott a legsűrűbb és legmagasabb a beépítés.",
+   "selfCheck": [
+    {
+     "q": "Melyik övezet népessége csökken drasztikusan éjszakára?",
+     "a": "A belső munkahelyöv (city)."
+    },
+    {
+     "q": "Miért a város szélén van a külső munkahelyöv?",
+     "a": "Mert nagy területet igényel, olcsóbb a telek, és jók a közlekedési (vasúti, közúti) kapcsolatok."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A külső lakóhelyövben laza beépítésű kertvárosok és lakótelepek találhatók.",
+     "true": true
+    },
+    {
+     "statement": "A cityben a legalacsonyabbak a telekárak.",
+     "true": false,
+     "correction": "A cityben a legmagasabbak a telekárak, ezért sűrű és magas a beépítés."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--k6",
+   "explanation": "Az agglomeráció (településhalmaz) egy központi nagyvárosból és a vele szoros kapcsolatban álló, beépítettségben gyakran összenövő környező településekből áll.\n\nA kapcsolat elemei:\n- ingázás: az elővárosokban lakók nagy része a nagyvárosba jár dolgozni, tanulni;\n- közös közlekedési hálózat (elővárosi vasút, HÉV, buszok, autópályák);\n- közös közművek, hulladékkezelés;\n- a nagyváros szolgáltatásai (kórház, egyetem, színház) az egész térséget ellátják;\n- a nagyvárosból kiköltöző lakosság és vállalkozások az agglomerációt erősítik.\n\nTípusai:\n- egyközpontú agglomeráció: egyetlen domináns nagyváros körül (pl. Budapest – Érd, Budaörs, Szentendre, Gödöllő; Párizs; London);\n- sokközpontú agglomeráció: több, hasonló súlyú város nő össze (pl. a Ruhr-vidék, a holland Randstad).\n\nHa több agglomeráció is összenő, mamutváros (megalopolisz) jön létre, pl. BosWash az USA keleti partján vagy Tokaido Japánban.",
+   "diagram": "city-zones",
+   "concepts": [
+    "településhalmaz (agglomeráció)",
+    "ingázás",
+    "egyközpontú és sokközpontú agglomeráció",
+    "mamutváros (megalopolisz)",
+    "BosWash",
+    "Randstad"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "Ne keverd az óriásvárost (megapolisz: nagyon népes egyedi város) és a mamutvárost (megalopolisz: összenőtt agglomerációk sora).",
+   "selfCheck": [
+    {
+     "q": "Mi köti össze leginkább az agglomeráció településeit a központtal?",
+     "a": "Az ingázás, a közös közlekedési hálózat és a nagyváros szolgáltatásai."
+    },
+    {
+     "q": "Mondj példát sokközpontú agglomerációra!",
+     "a": "A Ruhr-vidék vagy a Randstad."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A budapesti agglomeráció egyközpontú.",
+     "true": true
+    },
+    {
+     "statement": "A BosWash egyetlen, egyközpontú agglomeráció.",
+     "true": false,
+     "correction": "A BosWash mamutváros (megalopolisz): Bostontól Washingtonig több nagyváros agglomerációja nőtt össze."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--k7",
+   "explanation": "A nagyvárosi élet gondjait urbanizációs ártalmaknak nevezzük.\n\nKörnyezeti problémák:\n- légszennyezés, szmog (közlekedés, fűtés, ipar) – pl. Delhi, Peking;\n- zaj, hulladék, szennyvíz;\n- városklíma: hősziget, a város melegebb a környezeténél;\n- burkolt felületek, kevés zöldterület, villámárvizek.\n\nTársadalmi problémák:\n- zsúfoltság, forgalmi dugók;\n- lakáshiány, drága lakhatás, nyomornegyedek (főleg a fejlődő világban);\n- szegregáció, gettósodás, bűnözés;\n- elidegenedés, stressz.\n\nMegoldási lehetőségek:\n- a tömegközlekedés fejlesztése, kerékpárutak, P+R parkolók, behajtási díj (pl. London), alacsony kibocsátású zónák;\n- zöldfelületek, parkok, zöldtetők;\n- városrehabilitáció (leromlott negyedek felújítása);\n- szelektív hulladékgyűjtés, szennyvíztisztítás;\n- szociális lakásprogramok, a nyomornegyedek közművesítése.",
+   "diagram": null,
+   "concepts": [
+    "urbanizációs ártalmak",
+    "városklíma",
+    "nyomornegyed",
+    "városrehabilitáció",
+    "szelektív hulladékgyűjtés"
+   ],
+   "processes": [],
+   "examTip": "A vizsgán problémát és hozzá illő megoldást párban kérnek. Ne általánosságot írj („védjük a környezetet”), hanem konkrét intézkedést.",
+   "selfCheck": [
+    {
+     "q": "Mit jelent a városi hősziget?",
+     "a": "A város melegebb a környékénél a burkolt felületek, az épületek és a kibocsátott hő miatt."
+    },
+    {
+     "q": "Mondj két megoldást a közlekedési zsúfoltságra!",
+     "a": "Pl. a tömegközlekedés fejlesztése, P+R parkolók, behajtási díj, kerékpárutak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A városrehabilitáció a leromlott városrészek felújítását jelenti.",
+     "true": true
+    },
+    {
+     "statement": "Az urbanizációs ártalmak csak a fejlődő országok városaiban jelentkeznek.",
+     "true": false,
+     "correction": "Fejlett országokban is jelentkeznek (szmog, zaj, dugók, szegregáció); a nyomornegyedek tömeges kialakulása viszont főleg a fejlődő világra jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--e1",
+   "explanation": "A falvak átalakulása:\n- hagyományos falu: lakói a helyben folyó mezőgazdaságból élnek, zárt közösség, kevés szolgáltatás;\n- átalakult falu: a mezőgazdaság gépesítése miatt kevesebb a helyi munka, sokan ingáznak a városba, vegyes a foglalkozási szerkezet;\n- városias (modern) falu: a nagyvárosok agglomerációjában vagy turisztikai térségben kiépül a városi infrastruktúra, a lakók többsége városban dolgozik (alvófalu), új lakóparkok épülnek.\n\nA periférián, aprófalvas térségekben (pl. az Ormánság vagy a Cserehát) elvándorlás és elöregedés, a szolgáltatások megszűnése a jellemző.\n\nA városok átalakulása:\n- az ipari szerep csökken, a szolgáltató és kvaterner szerep nő;\n- a régi gyárterületekből barnamezős területek lesznek, ezeket irodává, lakóparkká, kulturális központtá alakítják;\n- a tehetősebbek kiköltöznek az elővárosokba (szuburbanizáció);\n- később a felújított belvárosok újra vonzóvá válnak (reurbanizáció).\n\nForráselemzésnél (térkép, adatsor, kép) keresd: népességváltozás, ingázás, foglalkozási szerkezet, új funkciók.",
+   "diagram": "urbanization",
+   "concepts": [
+    "hagyományos",
+    "átalakult és városias/modern falu",
+    "elővárosodás (szuburbanizáció)",
+    "reurbanizáció",
+    "városrehabilitáció"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "A falutípusokat mindig a lakók megélhetése és a településen belüli szolgáltatások alapján különítsd el – ezek a legjobban pontozható jegyek.",
+   "selfCheck": [
+    {
+     "q": "Mi jellemzi a városias (modern) falut?",
+     "a": "Kiépült városi infrastruktúra, a lakók többsége a városba ingázik, új lakóparkok."
+    },
+    {
+     "q": "Mi történik a megszűnt gyárak területével?",
+     "a": "Barnamezős területként felújítják és új funkciót kap: iroda, lakás, kulturális központ."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az agglomerációs falvak népessége a szuburbanizáció miatt gyakran nő.",
+     "true": true
+    },
+    {
+     "statement": "A hagyományos falu lakóinak többsége a városba ingázik.",
+     "true": false,
+     "correction": "A hagyományos falu lakói helyben, a mezőgazdaságból élnek; az ingázás az átalakult és a városias falvakra jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--e2",
+   "explanation": "Az eltérő történelmi múlt eltérő városszerkezetet hozott létre.\n\nEurópai város:\n- középkori óváros szűk, szabálytalan utcákkal, főtérrel, templommal, gyakran városfal nyomával;\n- körutak, sugárutak, történelmi belváros; erős tömegközlekedés;\n- a belváros nagyrészt lakott, a felújított negyedek keresettek.\n\nÉszak-amerikai város:\n- sakktábla alaprajz; a központban felhőkarcolós üzleti negyed (CBD);\n- óriási, autóközpontú kertvárosi övezet;\n- a belső lakóhelyövben gyakran leromló, szegény negyedek, gettók.\n\nLatin-amerikai város:\n- spanyol gyarmati alaprajz: központi tér (plaza), katedrális, sakktábla;\n- a módosak a központ közelében vagy őrzött negyedekben élnek;\n- a peremen hatalmas nyomornegyedek (favellák).\n\nIszlám (keleti) város:\n- medina: szűk, kanyargós sikátorok, belső udvaros házak, mecset, fedett bazár (szuk).\n\nAfrikai és dél-ázsiai város:\n- gyarmati, modern központ és hagyományos negyedek kettőssége; gyorsan növő slumok.",
+   "diagram": "city-zones",
+   "concepts": [
+    "slum",
+    "gettó",
+    "nyomornegyed",
+    "belső munkahelyöv (city)"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "Képfelismerésnél: felhőkarcolók + sakktábla + kertváros = észak-amerikai; óváros + templom + főtér = európai; bazár + sikátor = iszlám medina.",
+   "selfCheck": [
+    {
+     "q": "Hol élnek jellemzően a szegények az észak-amerikai és hol a latin-amerikai városokban?",
+     "a": "Észak-Amerikában inkább a belső, leromló negyedekben; Latin-Amerikában a város peremén, nyomornegyedekben."
+    },
+    {
+     "q": "Mi a medina?",
+     "a": "Az iszlám városok óvárosa szűk sikátorokkal, mecsettel és bazárral."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az észak-amerikai városokra a kiterjedt, autóközpontú kertvárosi övezet jellemző.",
+     "true": true
+    },
+    {
+     "statement": "A latin-amerikai városokban a nyomornegyedek elsősorban a történelmi belvárosban találhatók.",
+     "true": false,
+     "correction": "A latin-amerikai nyomornegyedek (favellák) főként a város peremén, gyakran meredek lejtőkön nőttek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--e3",
+   "explanation": "A városfejlődés (urbanizáció) jellegzetes szakaszokon halad át:\n\n1. Városodás (koncentráció): a falvakból tömegesen költöznek a városokba az ipari munkahelyek miatt; a városok népessége gyorsan nő, az agglomeráció kialakul.\n2. Elővárosodás (szuburbanizáció): a jobb módúak a zsúfolt, szennyezett városmagból a zöldövezeti elővárosokba költöznek (autó, jobb közlekedés); a központ népessége csökken, az agglomeráció gyűrűje nő.\n3. Ellenvárosodás (dezurbanizáció): az egész nagyvárosi térség népessége csökken; a lakosság és a munkahelyek a kisebb városokba, falvakba települnek át.\n4. Reurbanizáció: a felújított belvárosok (városrehabilitáció) újra vonzók lesznek, főként a fiatal, képzett rétegek számára; nő a városmag népessége.\n\nA fejlett országok többsége a 2–4. szakaszban, a fejlődő országok jellemzően még az 1. szakaszban járnak. A szakaszok nem mindenhol egyformán jelentkeznek.",
+   "diagram": "urbanization",
+   "concepts": [
+    "városfejlődés (urbanizáció)",
+    "városodás",
+    "elővárosodás (szuburbanizáció)",
+    "ellenvárosodás (dezurbanizáció)",
+    "reurbanizáció",
+    "városrehabilitáció"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "A szakaszokat a városmag és az elővárosok népességváltozásával azonosítsd. Szuburbanizáció: mag csökken, gyűrű nő; dezurbanizáció: mindkettő csökken.",
+   "selfCheck": [
+    {
+     "q": "Mi jellemzi az elővárosodás szakaszát?",
+     "a": "A lakosság a városmagból az elővárosokba költözik, a mag népessége csökken, a gyűrűé nő."
+    },
+    {
+     "q": "Mi indítja el a reurbanizációt?",
+     "a": "A belvárosok felújítása (városrehabilitáció), amitől újra vonzóvá válnak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az ellenvárosodás során a teljes nagyvárosi térség népessége csökken.",
+     "true": true
+    },
+    {
+     "statement": "A reurbanizáció a falvakból városokba irányuló első tömeges beköltözés.",
+     "true": false,
+     "correction": "Az első tömeges beköltözés a városodás szakasza; a reurbanizáció a felújított belvárosokba való visszaköltözés."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "5-2-telepulestipusok-urbanizacio--e4",
+   "explanation": "Fejlett világ:\n- az urbanizáció az ipari forradalommal, a 19. században kezdődött, viszonylag lassan, az iparosodással párhuzamosan zajlott;\n- a városodás és a városiasodás nagyjából együtt haladt;\n- ma magas a városi népesség aránya, a növekedés lassú;\n- jellemző folyamatok: szuburbanizáció, dezurbanizáció, reurbanizáció, városrehabilitáció.\n\nFejlődő világ:\n- főként a 20. század második felétől, robbanásszerűen zajlik;\n- hajtóereje a vidéki népességrobbanás és a falusi szegénység (taszító tényezők), nem elsősorban az ipari munkahelyek;\n- a városodás gyorsabb a városiasodásnál: hiányzik a lakás, a közmű, a munka, hatalmas nyomornegyedek nőnek, sokan az informális szektorban dolgoznak;\n- óriásvárosok (megapoliszok) alakulnak ki (pl. Lagos, Kinshasa, Dakka, Mumbai);\n- gyakran egyetlen nagyváros (sokszor a főváros) uralja az ország gazdaságát.\n\nA világ népességének már több mint fele városlakó, és a városi népesség növekedése ma főként a fejlődő országokban zajlik.",
+   "diagram": "urbanization",
+   "concepts": [
+    "városfejlődés (urbanizáció)",
+    "városodás",
+    "városiasodás",
+    "óriásváros (megapolisz)",
+    "nyomornegyed",
+    "népességrobbanás"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "Az összehasonlítás kulcsszava: a fejlődő világban a városodás „elszakad” a városiasodástól és az iparosodástól.",
+   "selfCheck": [
+    {
+     "q": "Mi a fejlődő országok urbanizációjának fő hajtóereje?",
+     "a": "A vidéki népességrobbanás és szegénység, amely a városokba taszítja az embereket."
+    },
+    {
+     "q": "Milyen szakaszok jellemzők ma a fejlett országokra?",
+     "a": "Szuburbanizáció, dezurbanizáció, reurbanizáció."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A városi népesség növekedése ma főként a fejlődő országokban zajlik.",
+     "true": true
+    },
+    {
+     "statement": "A fejlődő világban az urbanizáció lassú és szorosan követi az iparosodást.",
+     "true": false,
+     "correction": "A fejlődő világban robbanásszerű, és gyorsabb az iparosodásnál és a városiasodásnál, ezért alakulnak ki nyomornegyedek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k1",
+   "explanation": "A piacgazdaságban a termelésről és a fogyasztásról nem központi terv, hanem a piac dönt.\n\nAlapelvek:\n- magántulajdon: a vállalkozások többsége magánkézben van;\n- kereslet és kínálat: a vevők szándéka (kereslet) és az eladók kínálata a piacon találkozik;\n- ár: a kereslet és a kínálat viszonya alakítja. Ha a kereslet nagyobb a kínálatnál, az ár emelkedik; ha a kínálat nagyobb, az ár csökken;\n- haszon (profit): a vállalkozó célja, hogy bevétele meghaladja a költségeit;\n- piaci verseny: a cégek a vevőkért versenyeznek, ez jobb minőségre, alacsonyabb árra, innovációra ösztönöz;\n- szabad vállalkozás és szabad fogyasztói döntés.\n\nPélda: ha egy rossz termés miatt kevés a burgonya, de a kereslet változatlan, az ára emelkedik. A magas ár a következő évben több termelőt csábít a burgonyatermesztésre, így a kínálat nő, az ár pedig csökken.\n\nEllentéte a tervutasításos gazdaság, ahol az állam határozza meg, mit, mennyit és milyen áron termeljenek (pl. a volt szocialista országok).",
+   "diagram": null,
+   "concepts": [
+    "piacgazdaság",
+    "kereslet",
+    "kínálat",
+    "ár",
+    "piaci verseny",
+    "haszon (profit)"
+   ],
+   "processes": [],
+   "examTip": "Árváltozásos feladatnál mindig írd le a láncot: kereslet/kínálat változik → ár változik → a termelők és a vevők reagálnak.",
+   "selfCheck": [
+    {
+     "q": "Mi történik az árral, ha a kereslet nagyobb a kínálatnál?",
+     "a": "Az ár emelkedik."
+    },
+    {
+     "q": "Miért kedvező a fogyasztók számára a piaci verseny?",
+     "a": "Mert a cégek jobb minőséggel, alacsonyabb árral, újításokkal próbálják megnyerni a vevőket."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A piacgazdaságban az árakat a kereslet és a kínálat viszonya alakítja.",
+     "true": true
+    },
+    {
+     "statement": "A piacgazdaságban az állam tervben határozza meg a termelés mennyiségét.",
+     "true": false,
+     "correction": "Ez a tervutasításos gazdaság jellemzője; a piacgazdaságban a vállalkozások a piaci jelzések alapján döntenek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k2",
+   "explanation": "A piac önmagában nem old meg mindent, ezért az állam a piacgazdaságban is fontos szereplő.\n\nAz állam feladatai:\n- szabályozó: törvényekkel kijelöli a gazdálkodás kereteit, védi a tulajdont, a szerződéseket, a fogyasztókat;\n- a verseny védelme: fellép a monopóliumok, kartellek ellen;\n- adók beszedése: ebből finanszírozza a közkiadásokat;\n- közszolgáltatások biztosítása: oktatás, egészségügy, közbiztonság, honvédelem, igazságszolgáltatás;\n- infrastruktúra építése: utak, vasutak, közművek;\n- újraelosztás: nyugdíj, segélyek, családtámogatás – ez a szociális háló;\n- környezetvédelem: szabályokkal, bírságokkal kezeli a piaci kudarcokat (pl. szennyezés);\n- gazdaságpolitika: válságban élénkítő intézkedések, beruházások, támogatások;\n- tulajdonos: állami vállalatok (pl. közlekedés, energetika).\n\nA jóléti állam (pl. a skandináv országok) magas adókat szed, de kiterjedt szociális ellátást nyújt. Az állami szerepvállalás mértéke országonként eltér.",
+   "diagram": null,
+   "concepts": [
+    "piacgazdaság",
+    "adó",
+    "állami",
+    "jóléti állam",
+    "szociális háló"
+   ],
+   "processes": [],
+   "examTip": "Gyakori kérdés: miért nem bízható minden a piacra? Válasz: a közjavak (pl. honvédelem), a szegények ellátása és a környezetvédelem piaci alapon nem működne kielégítően.",
+   "selfCheck": [
+    {
+     "q": "Miből finanszírozza az állam a közszolgáltatásokat?",
+     "a": "Főként az adókból és járulékokból."
+    },
+    {
+     "q": "Mi a jóléti állam lényege?",
+     "a": "Magas adók mellett kiterjedt szociális ellátás (egészségügy, oktatás, nyugdíj, segélyek)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az állam a versenyszabályozással a monopóliumok kialakulása ellen léphet fel.",
+     "true": true
+    },
+    {
+     "statement": "Piacgazdaságban az államnak nincs gazdasági szerepe.",
+     "true": false,
+     "correction": "Az állam szabályoz, adót szed, közszolgáltatásokat és infrastruktúrát biztosít, újraeloszt, sőt tulajdonos is lehet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k3",
+   "explanation": "A gazdasági fejlettség fő mutatói:\n\n- Bruttó hazai termék (GDP): egy ország területén egy év alatt előállított végső termékek és szolgáltatások piaci értéke – mindegy, hogy hazai vagy külföldi tulajdonú cég termelte.\n- Bruttó nemzeti jövedelem (GNI): az ország lakóinak és vállalatainak jövedelme, bárhol keletkezett. Közelítőleg: GNI = GDP + külföldről beérkező jövedelem − külföldre kiáramló jövedelem.\n- Összehasonlításra az egy főre jutó értéket használd: GDP / népesség. Példa: 200 milliárd dollár GDP és 10 millió lakos esetén 20 000 dollár/fő.\n- A vásárlóerő-paritáson (PPP) számolt érték figyelembe veszi, hogy országonként mennyit ér a pénz.\n\nEgyéb jelzőszámok: a foglalkoztatási és gazdasági szerkezet, egy főre jutó energiafogyasztás, gépkocsi- és internet-ellátottság, export szerkezete.\n\nAdatsorok összevetésekor nézd meg: a GDP > GNI eltérés sok külföldi tőkére és profitkivitelre utal (pl. Írország, Magyarország); a GNI > GDP azt jelzi, hogy az ország vállalatai és lakói külföldön is sok jövedelmet szereznek.",
+   "diagram": null,
+   "concepts": [
+    "bruttó hazai termék (GDP)",
+    "bruttó nemzeti jövedelem (GNI)",
+    "gazdasági fejlettség",
+    "életszínvonal",
+    "gazdasági növekedés"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Országok összehasonlításánál soha ne a teljes GDP-t, hanem az egy főre jutó értéket vesd össze. A teljes GDP a gazdaság méretét, nem a fejlettségét mutatja.",
+   "selfCheck": [
+    {
+     "q": "Mi a különbség a GDP és a GNI között?",
+     "a": "A GDP az ország területén, a GNI az ország lakói és vállalatai által (bárhol) megtermelt érték, illetve jövedelem."
+    },
+    {
+     "q": "Mire utal, ha egy ország GDP-je jóval nagyobb a GNI-jénél?",
+     "a": "Sok külföldi tulajdonú vállalat működik ott, és a profit jelentős része külföldre áramlik."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A fejlettség összehasonlításához az egy főre jutó GDP alkalmasabb, mint a teljes GDP.",
+     "true": true
+    },
+    {
+     "statement": "A GDP-be csak a hazai tulajdonú vállalatok termelése számít bele.",
+     "true": false,
+     "correction": "A GDP az ország területén működő minden (hazai és külföldi tulajdonú) gazdasági szereplő termelését tartalmazza."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k4",
+   "explanation": "A Világbank az egy főre jutó GNI alapján alacsony, közepes és magas jövedelmű országokat különít el. A térképen jól látható az Észak–Dél ellentét: a gazdag országok főként az északi félgömb mérsékelt övében vannak (kivétel pl. Ausztrália, Új-Zéland).\n\nPéldák (a besorolás idővel változhat):\n- Magas jövedelmű, fejlett országok: USA, Kanada, Németország, Svájc, Norvégia, Japán, Ausztrália; ide tartoznak a kőolajban gazdag Perzsa-öböl menti államok is (pl. Katar, Egyesült Arab Emírségek).\n- Közepes jövedelmű, felzárkózó országok: Brazília, Mexikó, Törökország, Kína, Dél-Afrika, Indonézia.\n- Alacsony jövedelmű, legkevésbé fejlett országok: főként Afrika Szaharától délre (pl. Niger, Csád, Mozambik), valamint pl. Afganisztán.\n\nA fejlett és fejlődő ország megkülönböztetése nem csak jövedelmi kérdés: számít a gazdasági szerkezet, az életminőség, az infrastruktúra és az iskolázottság is. Egy ország gazdag lehet egyetlen nyersanyagból, miközben gazdasága egyoldalú marad.",
+   "diagram": null,
+   "concepts": [
+    "alacsony",
+    "közepes és magas jövedelmű ország",
+    "fejlett és fejlődő ország",
+    "gazdasági fejlettség",
+    "bruttó nemzeti jövedelem (GNI)"
+   ],
+   "processes": [],
+   "examTip": "Térképes feladatnál a kontinensen belüli különbségeket is ismerd: Afrikában pl. Dél-Afrika közepes jövedelmű, míg a Száhel-övezet országai alacsony jövedelműek.",
+   "selfCheck": [
+    {
+     "q": "Milyen mutató alapján sorolja be a Világbank az országokat?",
+     "a": "Az egy főre jutó bruttó nemzeti jövedelem (GNI) alapján."
+    },
+    {
+     "q": "Melyik térségben van a legtöbb alacsony jövedelmű ország?",
+     "a": "Afrikában, a Szaharától délre."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Perzsa-öböl kőolajtermelő államai közül többen magas jövedelműek.",
+     "true": true
+    },
+    {
+     "statement": "Brazília a világ alacsony jövedelmű országai közé tartozik.",
+     "true": false,
+     "correction": "Brazília közepes jövedelmű, felzárkózó ország (a BRICS-országok egyike)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k5",
+   "explanation": "A telepítő tényezők azok a feltételek, amelyek miatt egy gazdasági tevékenység egy adott helyre települ.\n\nTermészeti tényezők:\n- nyersanyag- és energiahordozó-lelőhelyek;\n- víz, éghajlat, talaj, domborzat.\n\nTársadalmi-gazdasági tényezők:\n- munkaerő: mennyiség, képzettség, bérszínvonal;\n- piac, vagyis a fogyasztók közelsége;\n- közlekedés, infrastruktúra, ipari parkok;\n- tőke, K+F, egyetemek közelsége;\n- adókedvezmények, állami támogatás, politikai stabilitás;\n- környezetvédelmi szabályok szigora.\n\nA tényezők szerepe átalakult:\n- A 19. században a nyersanyag volt a döntő: a vaskohászat a szénbányák mellé települt (Ruhr-vidék, Miskolc–Ózd).\n- Később, az olcsó tengeri szállítás miatt a kohók a tengerpartra kerültek, az importált érchez és szénhez (pl. Dunkerque, Taranto).\n- Ma a feldolgozóiparban a munkaerő ára és a piac, a csúcstechnológiában a képzett munkaerő és a kutatóhelyek (pl. Szilícium-völgy) számítanak a legtöbbet.\n- A tömegtermelés az olcsó munkaerejű országokba (pl. Kelet- és Délkelet-Ázsia) települt át.",
+   "diagram": null,
+   "concepts": [
+    "telepítő tényező",
+    "természeti erőforrás",
+    "társadalmi (humán) erőforrás",
+    "ipari park",
+    "kutatás-fejlesztés (K+F tevékenység)"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "A telepítő tényezőket mindig az adott ágazathoz kösd: a cementgyárnak a nyersanyag, a szoftvercégnek a képzett munkaerő, a sörgyárnak a piac közelsége számít.",
+   "selfCheck": [
+    {
+     "q": "Miért települt a kohászat a tengerpartra?",
+     "a": "Mert az olcsó tengeri szállítással érkező importált érc és szén a kikötőben a legolcsóbb."
+    },
+    {
+     "q": "Mi a döntő telepítő tényező a csúcstechnológiai iparban?",
+     "a": "A képzett munkaerő, az egyetemek és kutatóhelyek közelsége."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A 19. században a vaskohászat jellemzően a szénbányák közelébe települt.",
+     "true": true
+    },
+    {
+     "statement": "Napjainkban a nyersanyag-lelőhely minden iparág legfontosabb telepítő tényezője.",
+     "true": false,
+     "correction": "Ma a legtöbb iparágban a munkaerő, a piac, a közlekedés és a tudás fontosabb; a nyersanyag szerepe csökkent."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k6",
+   "explanation": "Gazdasági ágak és ágazatok:\n- három fő gazdasági ág van: mezőgazdaság, ipar, szolgáltatások;\n- ezeken belül ágazatokat különítünk el: pl. az iparon belül bányászat, energiaipar, gépipar, vegyipar, élelmiszeripar; a szolgáltatásokon belül kereskedelem, közlekedés, turizmus, pénzügyek.\n\nGazdasági szektorok (a tevékenység jellege szerint):\n- primer szektor: a természetből közvetlenül nyer javakat – mezőgazdaság, erdőgazdálkodás, halászat (egyes felosztások a bányászatot is ide sorolják);\n- szekunder szektor: feldolgozás – ipar és építőipar;\n- tercier szektor: hagyományos szolgáltatások – kereskedelem, közlekedés, vendéglátás, turizmus, pénzügyek, egészségügy;\n- kvaterner szektor: tudásalapú szolgáltatások – kutatás-fejlesztés, oktatás, informatika, tanácsadás, irányítás.\n\nA szektorok jellemzői: a primerben kicsi a hozzáadott érték és a termelékenység, erősen függ a természettől; a szekunderben nagy a tőkeigény; a tercier és kvaterner a legdinamikusabb, a kvaterner a legtöbb tudást igényli.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "gazdasági ág és ágazat",
+    "gazdasági szektor",
+    "primer",
+    "szekunder",
+    "tercier és kvaterner szektor",
+    "mezőgazdaság"
+   ],
+   "processes": [],
+   "examTip": "Besorolós feladatnál figyelj: a kutatóintézet és a szoftverfejlesztés kvaterner, a bolt és a szálloda tercier, az építőipar szekunder.",
+   "selfCheck": [
+    {
+     "q": "Melyik szektorba tartozik egy egyetemi kutatólaboratórium?",
+     "a": "A kvaterner szektorba."
+    },
+    {
+     "q": "Melyik az a három gazdasági ág?",
+     "a": "Mezőgazdaság, ipar, szolgáltatások."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az építőipar a szekunder szektor része.",
+     "true": true
+    },
+    {
+     "statement": "A turizmus a primer szektorba tartozik.",
+     "true": false,
+     "correction": "A turizmus szolgáltatás, a tercier szektor része."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k7",
+   "explanation": "A népességet gazdasági aktivitás szerint csoportosítjuk:\n\n- Aktív kereső (foglalkoztatott): dolgozik, munkájából jövedelme van.\n- Munkanélküli: nincs munkája, de aktívan keres, és munkába tudna állni.\n- Inaktív kereső: nem dolgozik, de rendszeres jövedelme van (pl. nyugdíjas, gyermekgondozási ellátáson lévő).\n- Eltartott: nincs saját jövedelme, mások tartják el (pl. gyermek, tanuló, háztartásbeli).\n\nAz aktív keresők és a munkanélküliek együtt alkotják a gazdaságilag aktív népességet (munkaerő).\n\nMunkanélküliségi ráta = munkanélküliek / gazdaságilag aktívak × 100.\nPélda: 4 500 000 foglalkoztatott és 250 000 munkanélküli esetén: 250 000 / 4 750 000 × 100 ≈ 5,3%.\n\nElemzésnél vizsgáld: hány eltartott jut egy aktív keresőre, mekkora a nők és az idősek foglalkoztatása. Fiatalodó országban a sok gyermek, öregedő országban a sok nyugdíjas növeli az aktívakra jutó terhet.",
+   "diagram": null,
+   "concepts": [
+    "aktív kereső",
+    "eltartott",
+    "munkanélküli",
+    "öregedő és fiatalodó társadalom"
+   ],
+   "processes": [],
+   "examTip": "A munkanélküliségi rátát nem az összes lakosra, hanem csak a gazdaságilag aktívakra (foglalkoztatott + munkanélküli) vetítjük – ez gyakori számítási hiba.",
+   "selfCheck": [
+    {
+     "q": "Munkanélkülinek számít-e egy nappali tagozatos egyetemista?",
+     "a": "Nem, ő eltartott (inaktív), mert nem keres munkát."
+    },
+    {
+     "q": "Mi a gazdaságilag aktív népesség?",
+     "a": "A foglalkoztatottak és a munkanélküliek együtt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A nyugdíjas inaktív kereső, mert nem dolgozik, de rendszeres jövedelme van.",
+     "true": true
+    },
+    {
+     "statement": "A munkanélküliségi rátát a teljes népességre vetítve számoljuk.",
+     "true": false,
+     "correction": "A munkanélküliek számát a gazdaságilag aktív népességhez (foglalkoztatottak + munkanélküliek) viszonyítjuk."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k8",
+   "explanation": "A fejlődés során a gazdaság szerkezete jellegzetes utat jár be (gazdasági szerkezetváltás):\n\n- Agrárország: a mezőgazdaság adja a termelés és a foglalkoztatás nagy részét.\n- Ipari (indusztriális) társadalom: az ipari forradalom után az ipar lesz a vezető ág, tömegtermelés.\n- Ipar utáni (posztindusztriális) társadalom: a 20. század második felétől a szolgáltatások válnak meghatározóvá.\n- Információs társadalom és gazdaság: a tudás, az információ és a kvaterner szektor a fő hajtóerő.\n\nAz ágak és ágazatok szerepe változik:\n- Húzóágazat: gyorsan fejlődő, a gazdaság többi részét is magával húzó ágazat. Ma pl. elektronika, informatika, gyógyszeripar, járműipar, megújuló energia.\n- Válságágazat: csökkenő kereslet, túlkínálat vagy olcsóbb külföldi verseny miatt hanyatlik. A fejlett országokban pl. szénbányászat, vaskohászat, textilipar, hajógyártás.\n\nPélda: a Ruhr-vidék a szén és acél központjából szolgáltató, kulturális és logisztikai térséggé alakult. A szerkezetváltás munkanélküliséggel és átképzési igénnyel jár.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "gazdasági szerkezetváltás",
+    "húzóágazat",
+    "válságágazat",
+    "agrárország",
+    "ipari (indusztriális) társadalom",
+    "ipar utáni (posztindusztriális) társadalom"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Ugyanaz az ágazat lehet egyik országban válság-, a másikban húzóágazat: a textilipar Nyugat-Európában hanyatlik, Bangladesben a gazdaság egyik motorja.",
+   "selfCheck": [
+    {
+     "q": "Mi a húzóágazat?",
+     "a": "Gyorsan fejlődő ágazat, amely más ágazatok fejlődését is ösztönzi."
+    },
+    {
+     "q": "Miért vált válságágazattá a szénbányászat Nyugat-Európában?",
+     "a": "A kőolaj és földgáz térnyerése, az olcsóbb importszén és a környezetvédelmi szempontok miatt csökkent a kereslet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A posztindusztriális társadalomban a szolgáltatások a meghatározóak.",
+     "true": true
+    },
+    {
+     "statement": "A fejlődés során a mezőgazdaság részesedése a foglalkoztatásban folyamatosan nő.",
+     "true": false,
+     "correction": "A mezőgazdaság részesedése csökken, először az ipar, majd a szolgáltatások javára."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k9",
+   "explanation": "A foglalkoztatási szerkezet megmutatja, hogyan oszlanak meg az aktív keresők a gazdasági ágak, illetve szektorok között.\n\nA foglalkozási átrétegződés két hulláma:\n1. A mezőgazdaság gépesítése felszabadítja a munkaerőt, amely az iparba áramlik (iparosodás).\n2. Az ipar automatizálása, robotizációja és termelésének áttelepülése után a szolgáltatások veszik fel a munkaerőt.\n\nOkok: a termelékenység emelkedése (kevesebb ember is elég ugyanannyi termeléshez), a kereslet szerkezetének változása (a gazdagabb emberek többet költenek szolgáltatásra), a tudásigény növekedése.\n\nMai kép:\n- fejlett országokban a foglalkoztatottak többsége a szolgáltatásokban dolgozik, a mezőgazdaságban csak kis hányaduk;\n- a felzárkózó országokban (pl. Kína) magas az ipar aránya;\n- a legkevésbé fejlett országokban a mezőgazdaság foglalkoztatja a legtöbb embert.\n\nMagyarországon a 20. század elején még a népesség többsége a mezőgazdaságból élt, ma a szolgáltatások dominálnak.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "foglalkoztatási szerkezet",
+    "foglalkozási átrétegződés",
+    "termelékenység",
+    "robotizáció",
+    "információs társadalom"
+   ],
+   "processes": [],
+   "examTip": "Ha az átrétegződés okát kérdezik, a kulcsszó a termelékenység növekedése: gépesítés, automatizálás.",
+   "selfCheck": [
+    {
+     "q": "Melyik ágban dolgozik a legtöbb ember a fejlett országokban?",
+     "a": "A szolgáltatásokban."
+    },
+    {
+     "q": "Mi indítja el a foglalkozási átrétegződés első hullámát?",
+     "a": "A mezőgazdaság gépesítése, amely munkaerőt szabadít fel az ipar számára."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A legkevésbé fejlett országokban a mezőgazdaságban dolgozók aránya magas.",
+     "true": true
+    },
+    {
+     "statement": "A foglalkozási átrétegződés során a munkaerő a szolgáltatásokból a mezőgazdaságba áramlik.",
+     "true": false,
+     "correction": "Az irány fordított: a mezőgazdaságból az iparba, majd az iparból a szolgáltatásokba."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k10",
+   "explanation": "A gazdasági szerkezetet (melyik ág mennyit ad a GDP-ből) és a foglalkoztatási szerkezetet (hányan dolgoznak az egyes ágakban) gyakran kör-, oszlop- vagy háromszögdiagramon ábrázolják.\n\nA háromszögdiagram olvasása:\n- a három oldal a három ág (mezőgazdaság, ipar, szolgáltatás) százalékos arányát mutatja, a három érték összege 100%;\n- egy pont egy ország; a beosztásokat a megfelelő segédvonalak mentén olvasd le;\n- a mezőgazdasági csúcs közeli pontok fejletlen agrárországok, a szolgáltatási csúcshoz közeliek fejlett országok.\n\nA két szerkezet összevetése a termelékenységről árulkodik. Példa: ha egy országban a mezőgazdaság a foglalkoztatottak 40%-át adja, de csak a GDP 15%-át, akkor ott alacsony a termelékenység. Fejlett országban a két arány közel van egymáshoz.\n\nIdősoroknál figyeld a trendet: csökkenő mezőgazdasági, eleinte növekvő majd csökkenő ipari és folyamatosan növekvő szolgáltatási arány – ez a gazdasági szerkezetváltás képe.\n\nA duális gazdasági szerkezetben egy modern, exportra termelő szektor és egy elmaradott, hagyományos szektor él egymás mellett.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "gazdasági szerkezet",
+    "foglalkoztatási szerkezet",
+    "termelékenység",
+    "duális gazdasági szerkezet",
+    "gazdasági szerkezetváltás"
+   ],
+   "processes": [],
+   "examTip": "Háromszögdiagramnál először azt nézd meg, melyik oldalon melyik irányban nő a skála – sok hiba abból adódik, hogy rossz segédvonalat követnek.",
+   "selfCheck": [
+    {
+     "q": "Mire utal, ha a mezőgazdaság foglalkoztatási aránya sokkal nagyobb, mint GDP-aránya?",
+     "a": "Alacsony mezőgazdasági termelékenységre."
+    },
+    {
+     "q": "Mennyi a háromszögdiagramon egy pont három értékének összege?",
+     "a": "100%."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A háromszögdiagramon a szolgáltatási csúcshoz közeli pontok fejlett országokat jelölnek.",
+     "true": true
+    },
+    {
+     "statement": "A gazdasági szerkezet azt mutatja meg, hogy hányan dolgoznak az egyes gazdasági ágakban.",
+     "true": false,
+     "correction": "Ez a foglalkoztatási szerkezet; a gazdasági szerkezet az ágak részesedése a GDP-ből (a megtermelt értékből)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k11",
+   "explanation": "A világgazdaság térségei szerepük szerint három csoportba sorolhatók.\n\nCentrum (világgazdasági pólus):\n- magas jövedelem és termelékenység, fejlett infrastruktúra;\n- itt vannak a TNC-k központjai, a K+F, a tőzsdék és bankok;\n- tőkét, technológiát, magas hozzáadott értékű termékeket és szolgáltatásokat exportál;\n- meghatározza a világgazdaság szabályait.\n\nFélperiféria:\n- közepes fejlettség, gyorsan fejlődő feldolgozóipar;\n- sok külföldi működőtőkét fogad, egyre több saját vállalata is van;\n- felzárkózó, átmeneti helyzet (pl. Kelet-Közép-Európa, Mexikó, Brazília, Törökország).\n\nPeriféria:\n- alacsony jövedelem, egyoldalú gazdasági szerkezet;\n- nyersanyagokat, mezőgazdasági termékeket exportál, késztermékeket importál;\n- gyenge infrastruktúra, eladósodás, függés a centrumtól (pl. Afrika Szaharától délre).\n\nA centrum a világgazdasági erőtér középpontja; a félperiféria és a periféria hozzá kapcsolódva, tőle függve működik.",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági pólus (centrum térség)",
+    "félperiféria térség",
+    "periféria térség",
+    "világgazdasági erőtér",
+    "nemzetközi munkamegosztás"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Összehasonlításnál ugyanazokat a szempontokat vedd sorra mindhárom térségnél: jövedelem, gazdasági szerkezet, export–import jellege, tőkeáramlás iránya.",
+   "selfCheck": [
+    {
+     "q": "Mit exportál jellemzően a periféria?",
+     "a": "Nyersanyagokat és mezőgazdasági termékeket."
+    },
+    {
+     "q": "Melyik térségben vannak a TNC-k központjai?",
+     "a": "A centrumban (világgazdasági pólusokban)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A félperiféria országai sok külföldi működőtőkét fogadnak.",
+     "true": true
+    },
+    {
+     "statement": "A periféria országaiból áramlik a legtöbb tőke és technológia a centrum felé.",
+     "true": false,
+     "correction": "A tőke és a technológia fő iránya a centrumból a félperiféria és a periféria felé mutat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k12",
+   "explanation": "A világgazdasági pólusok (térképen is mutasd meg):\n\n- Észak-Amerika: vezető ország az USA; Kanada és Mexikó is szorosan kapcsolódik hozzá.\n- Európai Unió: vezető országai Németország és Franciaország, további fontos tagjai pl. Olaszország, Hollandia; ide kapcsolódik az Egyesült Királyság és Svájc is.\n- Kelet-Ázsia: hagyományosan Japán, ma egyre inkább Kína; mellettük Dél-Korea és Tajvan.\n\nA klasszikus hármas pólusrendszert Triádnak nevezik (USA, Nyugat-Európa, Japán). Kína felemelkedésével a kelet-ázsiai pólus súlypontja áthelyeződött. A gyorsan növő nagy gazdaságok csoportja a BRICS (Brazília, Oroszország, India, Kína, Dél-Afrika).\n\nPeriféria országok térségenként:\n- Afrika: a Száhel-övezet (Mali, Niger, Csád), Közép-Afrika (pl. Kongói Demokratikus Köztársaság), Kelet-Afrika (pl. Szomália);\n- Ázsia: pl. Afganisztán, Jemen, Nepál;\n- Latin-Amerika: pl. Haiti;\n- Óceánia: egyes kis szigetországok.",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági pólus (centrum térség)",
+    "Triád",
+    "BRICS országok",
+    "periféria térség",
+    "Európai Unió"
+   ],
+   "processes": [],
+   "examTip": "Haiti a nyugati félteke legszegényebb országa – kedvelt példa annak bemutatására, hogy a periféria nem csak Afrikában található.",
+   "selfCheck": [
+    {
+     "q": "Melyik három térség alkotja a Triádot?",
+     "a": "Az USA (Észak-Amerika), Nyugat-Európa (EU) és Japán."
+    },
+    {
+     "q": "Nevezz meg két afrikai periféria országot!",
+     "a": "Pl. Niger és Csád."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A kelet-ázsiai pólusban Kína szerepe egyre meghatározóbb.",
+     "true": true
+    },
+    {
+     "statement": "A Triád tagja Brazília, India és Dél-Afrika.",
+     "true": false,
+     "correction": "Ezek a BRICS országok közé tartoznak; a Triád az USA, Nyugat-Európa és Japán."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k13",
+   "explanation": "A pólusok világgazdasági súlyát adatsorokból és diagramokból úgy igazolhatod, hogy a részesedésüket összeveted a népességi arányukkal.\n\nVizsgálható mutatók:\n- a világ GDP-jéből való részesedés;\n- a világkereskedelemből (export, import) való részesedés;\n- a kiáramló és beáramló működőtőke aránya;\n- a legnagyobb TNC-k székhelyeinek megoszlása;\n- a K+F-kiadások és a szabadalmak aránya;\n- a nagy tőzsdék és pénzügyi központok (New York, London, Tokió, Sanghaj).\n\nA tipikus kép: a pólusok a világ népességének csak kisebb hányadát adják, mégis a világ GDP-jének, kereskedelmének, tőkeáramlásainak és kutatásainak nagyobb része itt összpontosul. Ebből következik a magas egy főre jutó jövedelem és a világpiaci befolyás.\n\nIdősoroknál látható az átrendeződés: Kelet-Ázsia (főként Kína) részesedése az utóbbi évtizedekben gyorsan nőtt, az USA-é és Európáé arányaiban csökkent, bár abszolút értékben ők is nőttek.\n\nFigyelj a külkereskedelmi áruszerkezetre is: a pólusok főleg nagy értékű feldolgozott termékeket és szolgáltatásokat exportálnak.",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági pólus (centrum térség)",
+    "Triád",
+    "világpiac",
+    "külkereskedelmi áruszerkezet"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Gyakori hiba, hogy a csökkenő részesedést csökkenő termelésnek értelmezik. Ha a világgazdaság gyorsabban nő, a részesedés úgy is csökkenhet, hogy a termelés nő.",
+   "selfCheck": [
+    {
+     "q": "Hogyan igazolod adatokkal, hogy egy pólus kiemelkedő súlyú?",
+     "a": "Összeveted a GDP-, kereskedelmi és tőkeáramlási részesedését a népességi részesedésével."
+    },
+    {
+     "q": "Melyik térség részesedése nőtt leggyorsabban az utóbbi évtizedekben?",
+     "a": "Kelet-Ázsiáé, főként Kínáé."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A világgazdasági pólusok a világ GDP-jéből nagyobb arányban részesednek, mint a népességből.",
+     "true": true
+    },
+    {
+     "statement": "Ha egy pólus részesedése a világ GDP-jéből csökken, akkor a termelése is biztosan csökken.",
+     "true": false,
+     "correction": "A részesedés akkor is csökkenhet, ha a termelés nő, csak a világ többi része gyorsabban növekszik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e1",
+   "explanation": "Az életszínvonal az anyagi javakkal (jövedelem, fogyasztás) való ellátottságot jelenti. Az életminőség ennél tágabb: azt is mutatja, mennyire egészséges, biztonságos, tartalmas és elégedett az emberek élete.\n\nAz életminőség mérésére alkalmas mutatók:\n- születéskor várható átlagos élettartam;\n- csecsemő- és gyermekhalandóság;\n- írni-olvasni tudás, iskolázottság, iskolában töltött évek;\n- egészségügyi ellátottság (pl. orvosok száma 1000 lakosra);\n- egészséges ivóvízhez, csatornázáshoz, áramhoz való hozzáférés;\n- táplálkozás (kalóriabevitel, alultápláltság aránya);\n- jövedelmi egyenlőtlenség;\n- környezet állapota, közbiztonság, szabadidő;\n- összetett mutatók: emberi fejlettség indexe (HDI), boldogság- vagy elégedettségi felmérések.\n\nAz egyes mutatók együtt adnak reális képet. Egy magas jövedelmű ország életminősége is lehet gyengébb, ha a jövedelem nagyon egyenlőtlenül oszlik el, vagy rossz a környezet állapota.",
+   "diagram": null,
+   "concepts": [
+    "életminőség",
+    "életszínvonal",
+    "emberi fejlettség indexe (HDI)",
+    "születéskor várható átlagos élettartam"
+   ],
+   "processes": [],
+   "examTip": "Az életszínvonal és az életminőség nem szinonimák: az életszínvonal főként anyagi, az életminőség társadalmi, egészségügyi és környezeti szempontokat is magában foglal.",
+   "selfCheck": [
+    {
+     "q": "Nevezz meg három életminőség-mutatót!",
+     "a": "Pl. születéskor várható élettartam, csecsemőhalandóság, írni-olvasni tudás aránya."
+    },
+    {
+     "q": "Miben különbözik az életminőség az életszínvonaltól?",
+     "a": "Tágabb fogalom: az anyagi helyzet mellett az egészséget, oktatást, környezetet, biztonságot is figyelembe veszi."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A csecsemőhalandóság az életminőség egyik fontos mutatója.",
+     "true": true
+    },
+    {
+     "statement": "Az egy főre jutó GDP önmagában pontosan méri az életminőséget.",
+     "true": false,
+     "correction": "Az egy főre jutó GDP csak a gazdasági teljesítményt mutatja; nem veszi figyelembe az egészséget, az oktatást, az egyenlőtlenséget és a környezetet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e2",
+   "explanation": "Az emberi fejlettség indexét (HDI) az ENSZ Fejlesztési Programja vezette be az 1990-es évek elején, mert a GDP és a GNI csak a gazdasági teljesítményt mutatja.\n\nA HDI három dimenziót foglal össze:\n- hosszú és egészséges élet: születéskor várható átlagos élettartam;\n- tudás: az iskolában várhatóan és átlagosan eltöltött évek;\n- tisztes életszínvonal: egy főre jutó GNI (vásárlóerő-paritáson).\n\nÉrtéke 0 és 1 között van; minél közelebb esik 1-hez, annál fejlettebb az ország.\n\nÖsszehasonlítás:\n- a GDP egy ország területén megtermelt értéket, a GNI az ország lakóinak jövedelmét méri – egyik sem mond semmit az egészségről, oktatásról;\n- a HDI a GNI-t is tartalmazza, de az egészség és a tudás is beleszámít, így a társadalmi fejlettséget is tükrözi.\n\nEzért egy ország HDI-rangsora eltérhet a jövedelmi rangsorától: a nyersanyagexportból meggazdagodott országoknál a jövedelem előrébb, egy jó egészségügyi és oktatási rendszerrel rendelkező, de szerényebb jövedelmű országnál a HDI kerülhet előrébb.",
+   "diagram": null,
+   "concepts": [
+    "emberi fejlettség indexe (HDI)",
+    "bruttó hazai termék (GDP)",
+    "bruttó nemzeti jövedelem (GNI)",
+    "életminőség",
+    "születéskor várható átlagos élettartam"
+   ],
+   "processes": [],
+   "examTip": "Jegyezd meg a HDI három pillérét: egészség (élettartam), tudás (iskolázottság), életszínvonal (GNI/fő). Ezt szinte mindig kérdezik.",
+   "selfCheck": [
+    {
+     "q": "Melyik három dimenzió alkotja a HDI-t?",
+     "a": "Az egészség (várható élettartam), a tudás (iskolázottság) és az életszínvonal (egy főre jutó GNI)."
+    },
+    {
+     "q": "Milyen értékek között mozog a HDI?",
+     "a": "0 és 1 között."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A HDI a jövedelem mellett az egészséget és az oktatást is figyelembe veszi.",
+     "true": true
+    },
+    {
+     "statement": "A HDI kizárólag az egy főre jutó GDP alapján rangsorolja az országokat.",
+     "true": false,
+     "correction": "A HDI összetett mutató: az egy főre jutó GNI mellett a várható élettartam és az iskolázottság is benne van."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e3",
+   "explanation": "Hagyományos szerep:\n- a nemzetgazdaság egy állam határain belül működő gazdaság, amelyet az állam irányít és véd;\n- az állam vámokkal, kvótákkal, saját valutával szabályozza a külkereskedelmet (protekcionizmus);\n- a vállalatok többsége hazai tulajdonú, a termelés nagyrészt a belső piacra irányul;\n- a nemzetgazdaságok a világpiacon áruval kereskednek, de viszonylag önállóak.\n\nA globális világgazdaságban:\n- a határok átjárhatóvá váltak: szabadkereskedelem, szabad tőkeáramlás, nemzetközi szervezetek (WTO) és integrációk (EU) szabályai;\n- a transznacionális vállalatok több országra kiterjedő termelési láncokat szerveznek, egy termék részei sok országban készülnek;\n- a nemzetközi munkamegosztásban az országok egy-egy feladatra szakosodnak;\n- az állam szerepe átalakul: a befektetőkért versenyez (adókedvezmény, infrastruktúra), gazdaságpolitikai mozgástere szűkül;\n- a nemzetgazdaságok kölcsönösen függnek egymástól: egy válság gyorsan továbbterjed (pl. a 2008-as pénzügyi válság).",
+   "diagram": null,
+   "concepts": [
+    "nemzetgazdaság",
+    "globális világgazdaság",
+    "protekcionizmus",
+    "szabadkereskedelem",
+    "nemzetközi munkamegosztás",
+    "vám"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "A kulcsgondolat: a nemzetgazdaság nem szűnt meg, de az állam irányító szerepe gyengült, a nemzetgazdaságok egymásra utaltsága pedig nőtt.",
+   "selfCheck": [
+    {
+     "q": "Mi a protekcionizmus?",
+     "a": "A hazai termelés védelme a külföldi versennyel szemben vámokkal, kvótákkal, támogatásokkal."
+    },
+    {
+     "q": "Hogyan változik az állam szerepe a globális világgazdaságban?",
+     "a": "Gazdaságpolitikai mozgástere szűkül, a befektetőkért versenyez, a nemzetközi szabályokhoz kell igazodnia."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A globális világgazdaságban egy ország pénzügyi válsága gyorsan átterjedhet más országokra.",
+     "true": true
+    },
+    {
+     "statement": "A globalizáció korában a nemzetgazdaságok egymástól egyre függetlenebbek.",
+     "true": false,
+     "correction": "A nemzetgazdaságok kölcsönös függése nő a kereskedelem, a tőkeáramlás és a TNC-k termelési láncai miatt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e4",
+   "explanation": "A világgazdasági pólusok kialakulása és átrendeződése:\n\n- 18–19. század: az ipari forradalom Nagy-Britanniában indul, majd Nyugat-Európára terjed; a „világ műhelye” Anglia, a világgazdaság súlypontja az Atlanti-óceán európai partja.\n- 19. század vége – 20. század eleje: az USA gyors iparosodással a világ vezető gazdaságává válik.\n- A II. világháború után: az USA egyeduralma; Nyugat-Európa az integrációval, Japán exportorientált fejlődéssel felzárkózik. Az 1970–80-as évekre kialakul a Triád (USA, Nyugat-Európa, Japán).\n- A 20. század utolsó harmadától: az újonnan iparosodott országok (Dél-Korea, Tajvan, Szingapúr, Hongkong – „kis tigrisek”) felemelkedése.\n- Az 1980-as évektől Kína reformjai, majd rohamos fejlődése; a BRICS országok előretörése.\n\nAz átrendeződés lényege: a világgazdaság súlypontja az atlanti térségből fokozatosan a csendes-óceáni térség, főként Kelet-Ázsia felé tolódik. Okai: olcsó és később képzett munkaerő, exportorientált gazdaságpolitika, működőtőke-beáramlás, technológiai felzárkózás.",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági pólus (centrum térség)",
+    "Triád",
+    "újonnan iparosodott országok",
+    "BRICS országok",
+    "világgazdasági korszakváltás"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Időrendi feladatnál a sorrend: Nagy-Britannia → USA → Triád → kelet-ázsiai „kis tigrisek” → Kína és BRICS.",
+   "selfCheck": [
+    {
+     "q": "Mely országokat nevezik „kis tigriseknek”?",
+     "a": "Dél-Koreát, Tajvant, Szingapúrt és Hongkongot."
+    },
+    {
+     "q": "Merre tolódott a világgazdaság súlypontja az utóbbi évtizedekben?",
+     "a": "Az atlanti térségből a csendes-óceáni térség, főként Kelet-Ázsia felé."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az ipari forradalom Nagy-Britanniából indult.",
+     "true": true
+    },
+    {
+     "statement": "Japán a 19. század közepén a világ vezető gazdasági hatalma volt.",
+     "true": false,
+     "correction": "A 19. század közepén Nagy-Britannia vezetett; Japán főként a II. világháború után vált világgazdasági pólussá."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e5",
+   "explanation": "A periféria térségek kialakulásának gyökerei a gyarmatosításig nyúlnak vissza.\n\nA gyarmati korszak öröksége:\n- a gyarmatok nyersanyag- és élelmiszer-szállítók lettek, ültetvényes monokultúrák alakultak ki (kávé, kakaó, gyapot, cukornád);\n- az infrastruktúra a nyersanyagot a kikötőkbe szállította, a belső területek összekapcsolatlanok maradtak;\n- a feldolgozóipar a gyarmattartó országban működött;\n- a mesterséges határok sok etnikai konfliktust okoztak.\n\nA függetlenné válás utáni problémák:\n- egyoldalú, kevés exportcikkre épülő gazdaság, amely a világpiaci árak ingadozásának kiszolgáltatott;\n- cserearányromlás: a nyersanyagok ára lassabban nő, mint az importált késztermékeké;\n- népességrobbanás, a gazdasági növekedést „felemeli” a népességnövekedés;\n- duális gazdaság: kis modern exportszektor és hatalmas hagyományos, önellátó szektor;\n- politikai instabilitás, korrupció, polgárháborúk;\n- az 1970–80-as évek eladósodása;\n- alacsony iskolázottság, gyenge egészségügy.\n\nEzek együtt a periférikus helyzet önmagát erősítő ördögi körét hozzák létre.",
+   "diagram": null,
+   "concepts": [
+    "periféria térség",
+    "duális gazdasági szerkezet",
+    "cserearányromlás",
+    "eladósodás",
+    "népességrobbanás"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Az esszében választd szét a történelmi (gyarmati) és a mai okokat, és mutasd meg, hogyan erősítik egymást.",
+   "selfCheck": [
+    {
+     "q": "Mit jelent a cserearányromlás?",
+     "a": "Az exportált termékek (pl. nyersanyagok) ára lassabban nő vagy jobban csökken, mint az importált termékeké, így ugyanannyi exportért kevesebb import kapható."
+    },
+    {
+     "q": "Milyen gazdasági szerkezetet hagyott a gyarmatosítás?",
+     "a": "Egyoldalú, nyersanyag- és ültetvénytermék-exportra épülő, monokultúrás szerkezetet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A gyarmati infrastruktúra elsősorban a nyersanyagok kikötőkbe szállítását szolgálta.",
+     "true": true
+    },
+    {
+     "statement": "A periféria országai a függetlenné válás után azonnal változatos, feldolgozóipari szerkezetet alakítottak ki.",
+     "true": false,
+     "correction": "Többségük megőrizte az egyoldalú, nyersanyag- és agrárexportra épülő szerkezetet, ami tartós függőséget okozott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e6",
+   "explanation": "A centrum és a periféria kapcsolata kölcsönös, de egyenlőtlen.\n\nA centrumból a periféria felé áramlik:\n- működőtőke és hitel;\n- technológia, késztermékek, gépek;\n- segélyek, fejlesztési támogatások;\n- fogyasztási minták, kulturális hatások.\n\nA perifériáról a centrum felé áramlik:\n- nyersanyagok, energiahordozók, trópusi mezőgazdasági termékek;\n- olcsó munkaerővel előállított tömegáruk;\n- a befektetések profitja és a hitelek kamatai;\n- képzett munkaerő (agyelszívás) és vendégmunkások.\n\nAz egyenlőtlenség forrásai:\n- a periféria alacsony, a centrum magas hozzáadott értékű tevékenységekre szakosodik a nemzetközi munkamegosztásban;\n- cserearányromlás;\n- az eladósodás miatt a hitelezők (és az IMF) feltételeket szabhatnak;\n- a döntések (TNC-központok, tőzsdék) a centrumban születnek.\n\nA félperiféria közvetítő helyzetű: maga is tőkét fogad, de egyre inkább befektet a periférián (pl. Kína afrikai beruházásai).",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági pólus (centrum térség)",
+    "periféria térség",
+    "nemzetközi munkamegosztás",
+    "cserearányromlás",
+    "agyelszívás (brain drain)",
+    "működőtőke"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Rajzold fel magadnak két oszlopban, mi áramlik a centrumból és mi a perifériáról – ez az esszé vázlata is lehet.",
+   "selfCheck": [
+    {
+     "q": "Milyen javak áramlanak a perifériáról a centrumba?",
+     "a": "Nyersanyag, energiahordozó, trópusi termék, olcsó tömegáru, profit és kamat, képzett munkaerő."
+    },
+    {
+     "q": "Miért egyenlőtlen a kapcsolat?",
+     "a": "A periféria alacsony hozzáadott értékű tevékenységekre szakosodik, eladósodott, és a döntések a centrumban születnek."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A befektetések profitja jellemzően a perifériáról a centrum felé áramlik.",
+     "true": true
+    },
+    {
+     "statement": "A centrum és a periféria kapcsolatában a periféria a technológia fő exportőre.",
+     "true": false,
+     "correction": "A technológia elsősorban a centrumból áramlik a periféria felé; a periféria főleg nyersanyagot és olcsó munkaerőt kínál."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-2-integracios-folyamatok--k1",
+   "explanation": "Az integráció országok gazdasági (és gyakran politikai) együttműködése, összefonódása. Kialakulását több tényező segíti:\n\n- földrajzi közelség: a szomszédos országok között olcsóbb a szállítás, régóta élénk a kereskedelem;\n- hasonló gazdasági fejlettség és gazdasági szerkezet: a hasonló szintű országok könnyebben nyitják meg egymás előtt a piacaikat;\n- közös történelmi múlt, kulturális és nyelvi rokonság;\n- közös gazdasági érdek: nagyobb piac, a méretgazdaságosság kihasználása, versenyképesség a nagy világgazdasági pólusokkal szemben;\n- politikai és biztonsági érdek: a béke megőrzése, közös fellépés (az európai integráció a II. világháború után éppen a francia–német megbékélést szolgálta);\n- közös problémák kezelése: környezetvédelem, közlekedés, vízgazdálkodás, határ menti fejlesztések.\n\nAz együttműködés lehet regionális (pl. Visegrádi Együttműködés (V4), eurorégiók) vagy kontinentális, sőt földrészeken átnyúló (pl. APEC).",
+   "diagram": "integration",
+   "concepts": [
+    "integráció",
+    "regionális együttműködés",
+    "Európai Unió",
+    "Visegrádi Együttműködés (V4)",
+    "eurorégió"
+   ],
+   "processes": [],
+   "examTip": "Az integráció okainál mindig írj gazdasági és politikai tényezőt is – az európai integrációnál a békeszándék a kiindulópont.",
+   "selfCheck": [
+    {
+     "q": "Miért segíti a földrajzi közelség az integrációt?",
+     "a": "Mert olcsóbb a szállítás, sűrűbbek a kereskedelmi és emberi kapcsolatok."
+    },
+    {
+     "q": "Milyen politikai cél állt az európai integráció kezdeteinél?",
+     "a": "A tartós béke biztosítása, főként a francia–német megbékélés."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A hasonló gazdasági fejlettség megkönnyíti az integrációt.",
+     "true": true
+    },
+    {
+     "statement": "Integráció csak azonos nyelvű országok között jöhet létre.",
+     "true": false,
+     "correction": "A közös nyelv segíthet, de nem feltétel: az EU tagjai is sokféle nyelvet beszélnek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-2-integracios-folyamatok--k2",
+   "explanation": "Az integráció egymásra épülő szintekben mélyül:\n\n1. Kedvezményes (preferenciális) kereskedelmi övezet: a tagok egymás áruira csökkentett vámot alkalmaznak.\n2. Szabadkereskedelmi övezet: a tagok egymás között eltörlik a vámokat és kvótákat, de a külső országokkal szemben mindegyik saját vámot alkalmaz.\n3. Vámunió: a belső vámok eltörlése mellett közös külső vámot vezetnek be.\n4. Közös piac: az áruk mellett a szolgáltatások, a tőke és a munkaerő is szabadon mozoghat (négy szabadság).\n5. Gazdasági unió: a tagok összehangolják gazdaságpolitikájukat (pl. adózás, agrárpolitika, regionális politika).\n6. Pénzügyi (monetáris) unió: közös valuta és közös központi bank (pl. az euróövezet és az Európai Központi Bank).\n7. Politikai unió: közös kül-, biztonság- és belpolitika – az EU részben ebbe az irányba halad, de teljesen nem érte el.\n\nMinden szint tartalmazza az előzők elemeit; a magasabb szint több szuverenitás átadásával jár.",
+   "diagram": "integration",
+   "concepts": [
+    "szabadkereskedelmi övezet",
+    "vámunió",
+    "közös piac",
+    "gazdasági unió",
+    "pénzügyi (monetáris) unió",
+    "politikai unió"
+   ],
+   "processes": [],
+   "examTip": "A szabadkereskedelmi övezet és a vámunió közötti különbség a közös külső vám – ezt szinte minden feladat kérdezi.",
+   "selfCheck": [
+    {
+     "q": "Mi a négy szabadság a közös piacon?",
+     "a": "Az áruk, a szolgáltatások, a tőke és a munkaerő (személyek) szabad mozgása."
+    },
+    {
+     "q": "Mi jellemzi a monetáris uniót?",
+     "a": "Közös valuta és közös központi bank."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A vámunióban a tagok közös külső vámot alkalmaznak.",
+     "true": true
+    },
+    {
+     "statement": "A szabadkereskedelmi övezetben a munkaerő is szabadon áramlik a tagok között.",
+     "true": false,
+     "correction": "A munkaerő szabad mozgása a közös piac szintjén jelenik meg; a szabadkereskedelmi övezet csak a belső vámokat és kvótákat törli el."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-2-integracios-folyamatok--e1",
+   "explanation": "Az integrációk szintjük és típusuk szerint is különböznek.\n\nGazdasági integrációk különböző szinteken:\n- Európai Unió: a legmagasabb szintű integráció – közös piac, gazdasági unió, a tagok egy részében pénzügyi (monetáris) unió (euró), politikai elemekkel.\n- Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA): szabadkereskedelmi övezet (a korábbi NAFTA utódja).\n- Délkelet-ázsiai Nemzetek Szövetsége (ASEAN): szabadkereskedelmi övezet, politikai együttműködéssel.\n- Dél-amerikai Közös Piac (MERCOSUR): nevével szemben ténylegesen hiányos vámunió.\n- Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC): laza gazdasági együttműködési fórum, kötelező vámunió nélkül.\n\nMás típusú együttműködések:\n- katonai-védelmi: Észak-atlanti Szerződés Szervezete (NATO);\n- nyersanyag-termelői: Kőolaj-exportáló Országok Szervezete (OPEC);\n- regionális, határ menti: Visegrádi Együttműködés (V4), Kárpátok Eurorégió;\n- emberi jogi, kulturális: Európa Tanács.",
+   "diagram": "integration",
+   "concepts": [
+    "Európai Unió",
+    "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)",
+    "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)",
+    "Dél-amerikai Közös Piac (MERCOSUR)",
+    "Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC)",
+    "Észak-atlanti Szerződés Szervezete (NATO)"
+   ],
+   "processes": [],
+   "examTip": "Ne keverd az Európa Tanácsot (az EU-tól független emberi jogi szervezet), az Európai Tanácsot (az EU állam- és kormányfőinek testülete) és az Európai Unió Tanácsát (miniszterek).",
+   "selfCheck": [
+    {
+     "q": "Milyen szintű integráció az USMCA?",
+     "a": "Szabadkereskedelmi övezet."
+    },
+    {
+     "q": "Milyen típusú együttműködés a NATO?",
+     "a": "Katonai-védelmi szövetség."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az EU egyes tagállamai pénzügyi (monetáris) uniót alkotnak az euró révén.",
+     "true": true
+    },
+    {
+     "statement": "Az APEC a világ legszorosabb, közös valutát használó integrációja.",
+     "true": false,
+     "correction": "Az APEC laza gazdasági együttműködési fórum; közös valutája nincs. A legmagasabb szintű integráció az EU."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--k1",
+   "explanation": "A globalizáció a világ országainak és társadalmainak egyre szorosabb gazdasági, politikai, kulturális és kommunikációs összefonódása, amelynek eredményeként egységes világgazdaság és egymásra utalt világ jön létre.\n\nElőzménye a világgazdasági korszakváltás az 1970-es években:\n- a kőolajár-robbanás (1973) megdrágította az energiát;\n- a fejlett országokban túltermelési válság alakult ki a hagyományos ágazatokban;\n- a tömegáru-termelés az olcsó munkaerejű országokba települt át;\n- a tudományos-technikai forradalom (mikroelektronika, informatika) új húzóágazatokat hozott.\n\nA globalizáció motorjai:\n- a közlekedés olcsóbbá és gyorsabbá válása (konténeres szállítás, légi közlekedés);\n- az info-kommunikációs forradalom (internet, mobiltelefon);\n- a kereskedelmi és tőkeáramlási korlátok lebontása;\n- a transznacionális vállalatok (TNC-k) terjeszkedése.\n\nA globalizáció nem csak gazdasági jelenség: kultúra, fogyasztási szokások, járványok, környezeti problémák is világméretűvé váltak.",
+   "diagram": null,
+   "concepts": [
+    "globalizáció",
+    "világgazdasági korszakváltás",
+    "kőolajár-robbanás",
+    "tudományos-technikai forradalom",
+    "túltermelési válság",
+    "globális világgazdaság"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "A globalizáció definíciójában szerepeljen a „világméretű összefonódás” és a „kölcsönös függés” – ezek a pontot érő kulcsszavak.",
+   "selfCheck": [
+    {
+     "q": "Milyen esemény indította el az 1970-es évek világgazdasági korszakváltását?",
+     "a": "Az 1973-as kőolajár-robbanás, amely túltermelési válsággal párosult."
+    },
+    {
+     "q": "Nevezz meg két technikai feltételt, amely lehetővé tette a globalizációt!",
+     "a": "Pl. a konténeres szállítás és az internet (info-kommunikációs forradalom)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A globalizációt a közlekedés és a hírközlés fejlődése tette lehetővé.",
+     "true": true
+    },
+    {
+     "statement": "A globalizáció kizárólag gazdasági folyamat.",
+     "true": false,
+     "correction": "A globalizáció kulturális, politikai, társadalmi és környezeti folyamatokat is magában foglal."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--k2",
+   "explanation": "A globalizációt hírekben, leírásokban az alábbi jelekről ismerheted fel:\n\n- egy termék sok ország munkájával készül (pl. a telefont az USA-ban tervezik, Kelet-Ázsiában gyártják az alkatrészeit, Kínában vagy Vietnamban szerelik össze);\n- egy cég termelését olcsóbb munkaerejű országba helyezi át;\n- külföldi vállalat gyárat épít (pl. ázsiai akkumulátor- és autógyárak Magyarországon);\n- egy távoli esemény hatása gyorsan elér hozzánk: a koronavírus-járvány idején a chiphiány miatt európai autógyárak álltak le, egy tőzsdei esés pillanatok alatt világszerte érződik;\n- ugyanaz a termék, márka, film vagy sorozat egyszerre jelenik meg sok országban (világtermék);\n- a kőolaj világpiaci ára a hazai benzinárat is befolyásolja;\n- a nemzetközi szervezetek (WTO, IMF) vagy integrációk döntései a nemzeti gazdaságpolitikát formálják.\n\nKérdezd meg magadtól: van-e a hírben határokon átnyúló kapcsolat, kölcsönös függés, gyors terjedés, nemzetközi vállalat? Ha igen, globalizációs jelenségről van szó.",
+   "diagram": null,
+   "concepts": [
+    "globalizáció",
+    "világtermék",
+    "transznacionális vállalat (TNC)",
+    "globális világgazdaság"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Hírelemzésnél ne csak megállapítsd, hogy „ez globalizáció”, hanem nevezd meg a konkrét jelenséget (pl. termelés-áthelyezés, ellátási lánc, világtermék).",
+   "selfCheck": [
+    {
+     "q": "Miért globalizációs jelenség, hogy egy ázsiai chiphiány miatt leáll egy európai autógyár?",
+     "a": "Mert a termelés világméretű ellátási láncokra épül, az országok gazdasága kölcsönösen függ egymástól."
+    },
+    {
+     "q": "Mondj egy példát a termelés áthelyezésére!",
+     "a": "Pl. ruházati cégek a varrodákat olcsó munkaerejű ázsiai országokba (pl. Banglades, Vietnam) helyezik."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A kőolaj világpiaci árának változása a hazai üzemanyagárakban is megjelenik – ez a globalizáció egyik jele.",
+     "true": true
+    },
+    {
+     "statement": "Ha egy falusi pékség helyi lisztből a helyi lakosoknak süt, az a globalizáció tipikus példája.",
+     "true": false,
+     "correction": "Ez helyi gazdasági tevékenység; a globalizációra a határokon átnyúló termelési és kereskedelmi kapcsolatok jellemzők."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--k3",
+   "explanation": "A globalizáció a mindennapjaidban is ott van.\n\nKedvező hatások:\n- a boltokban a világ minden tájáról kapható termék (trópusi gyümölcs télen is);\n- sok termék olcsóbb lett a tömegtermelés és a verseny miatt;\n- az internet és a közösségi média révén azonnal elérhető az információ, kapcsolatot tarthatsz bárkivel;\n- olcsóbb utazás, külföldi tanulás és munkavállalás lehetősége;\n- nemzetközi cégeknél munkahelyek.\n\nKedvezőtlen hatások:\n- a kultúra egységesülése: ugyanazok a gyorséttermi láncok, filmek, divat mindenhol, a helyi hagyományok háttérbe szorulnak;\n- az angol világnyelvként egyre több területen kiszorítja a helyi nyelveket;\n- a távoli válságok (pl. pénzügyi válság, járvány, háború) gyorsan érintik az árakat, a munkahelyeket;\n- a fogyasztói társadalom terjedése: túlfogyasztás, sok hulladék;\n- a járványok gyors terjedése (pl. a koronavírus-járvány).\n\nA válaszban mindig kapcsold össze a hatást egy konkrét, hétköznapi példával.",
+   "diagram": null,
+   "concepts": [
+    "globalizáció",
+    "világtermék",
+    "világnyelv",
+    "fogyasztói társadalom",
+    "túlfogyasztás"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Ha „mindennapi” hatást kérnek, ne világgazdasági szinten fogalmazz, hanem a saját életedből vett példával (vásárlás, internet, utazás, árak).",
+   "selfCheck": [
+    {
+     "q": "Mondj egy kulturális hatást!",
+     "a": "A kultúra egységesülése: ugyanazok a márkák, filmek, gyorséttermek terjednek el mindenhol."
+    },
+    {
+     "q": "Miért kaphatók télen is trópusi gyümölcsök?",
+     "a": "A globális kereskedelem és az olcsó szállítás miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A globalizáció hozzájárult a járványok gyorsabb terjedéséhez.",
+     "true": true
+    },
+    {
+     "statement": "A globalizáció hatására a helyi nyelvek és hagyományok jelentősége világszerte nő.",
+     "true": false,
+     "correction": "A kulturális egységesülés miatt a helyi nyelvek és hagyományok inkább háttérbe szorulnak, az angol világnyelvként terjed."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--k4",
+   "explanation": "A világtermék olyan termék, amelyet a világ szinte minden táján egységes formában, azonos márkanéven és arculattal árusítanak. Többnyire transznacionális vállalat állítja elő tömegtermeléssel, és világméretű reklámmal népszerűsíti.\n\nJellemzői:\n- egységes minőség, megjelenés, márka;\n- az alkatrészek vagy összetevők gyakran sok országból származnak;\n- a gyártás ott folyik, ahol a legkedvezőbb (olcsó munkaerő, közeli piac);\n- a márka értéke gyakran nagyobb, mint a termék előállítási költsége.\n\nPéldák:\n- üdítőitalok (pl. Coca-Cola), gyorséttermi termékek (pl. McDonald's hamburgere);\n- okostelefonok (pl. iPhone, Samsung Galaxy);\n- sportcipők, ruházat (pl. Nike, Adidas);\n- szoftverek (pl. Windows), közösségi platformok;\n- bútorok (pl. IKEA).\n\nAz egységesség nem teljes: a cégek gyakran igazodnak a helyi ízléshez (pl. a gyorséttermek országonként eltérő kínálata).",
+   "diagram": null,
+   "concepts": [
+    "világtermék",
+    "transznacionális vállalat (TNC)",
+    "tömegáru-termelés",
+    "globalizáció"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "A világtermék nem azonos azzal, hogy „sok országba exportálják”. A lényeg az egységes márka és arculat világszerte, globális marketinggel.",
+   "selfCheck": [
+    {
+     "q": "Mi teszi a terméket világtermékké?",
+     "a": "A világszerte egységes forma, márka és arculat, a globális értékesítés és reklám."
+    },
+    {
+     "q": "Mondj két világterméket!",
+     "a": "Pl. Coca-Cola és iPhone."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A világtermékek nagy részét transznacionális vállalatok állítják elő.",
+     "true": true
+    },
+    {
+     "statement": "A világtermék minden alkatrésze ugyanabban az országban készül.",
+     "true": false,
+     "correction": "A világtermékek alkatrészei gyakran sok országban készülnek, a TNC-k globális termelési láncában."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--k5",
+   "explanation": "A transznacionális vállalat (TNC) olyan cég, amely több országban végez termelő vagy szolgáltató tevékenységet, és ezeket egységes stratégia szerint irányítja.\n\nFelépítése:\n- anyavállalat: a székhely, többnyire egy fejlett országban; itt születnek a stratégiai döntések, itt folyik a K+F, a tervezés és a pénzügyi irányítás;\n- leányvállalatok: a különböző országokban működő gyárak, kereskedelmi és szolgáltató egységek.\n\nMűködési elve:\n- minden tevékenységet oda telepít, ahol az a legkedvezőbb: olcsó vagy képzett munkaerő, nyersanyag, nagy piac, adókedvezmény, kedvező szabályozás;\n- a vállalaton belüli kereskedelem (alkatrészek a leányvállalatok között) a világkereskedelem jelentős része;\n- a profit nagy része az anyavállalathoz áramlik;\n- működőtőke-befektetéssel terjeszkedik (új gyár építése vagy meglévő cég felvásárlása).\n\nA legnagyobb TNC-k árbevétele sok ország GDP-jével vetekszik, ezért jelentős gazdasági és politikai befolyásuk van.",
+   "diagram": null,
+   "concepts": [
+    "transznacionális vállalat (TNC)",
+    "anyavállalat",
+    "leányvállalat",
+    "multinacionális vállalat",
+    "működőtőke-befektetés"
+   ],
+   "processes": [
+    "globalizacio",
+    "toke-aramlasa"
+   ],
+   "examTip": "Az anyavállalat–leányvállalat munkamegosztását mindig fejtsd ki: a magas hozzáadott értékű feladatok (irányítás, K+F) a centrumban maradnak.",
+   "selfCheck": [
+    {
+     "q": "Hol működik jellemzően egy TNC anyavállalata, és mit végez?",
+     "a": "Egy fejlett országban; itt van a stratégiai irányítás, a K+F és a pénzügyi döntéshozatal."
+    },
+    {
+     "q": "Milyen szempontok szerint választ telephelyet egy TNC?",
+     "a": "Munkaerő ára és képzettsége, piac, nyersanyag, adókedvezmény, szabályozás, infrastruktúra."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A TNC-k leányvállalatai több országban működnek.",
+     "true": true
+    },
+    {
+     "statement": "A TNC-k a profitjukat jellemzően teljes egészében a leányvállalat országában fektetik be.",
+     "true": false,
+     "correction": "A profit jelentős része az anyavállalathoz, többnyire a fejlett székhelyországba áramlik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--k6",
+   "explanation": "A világgazdaságban meghatározó TNC-ket érdemes ágazatok szerint megjegyezni (a rangsorok évről évre változnak):\n\n- Informatika, elektronika: Apple, Microsoft, Alphabet (Google), Amazon, Meta – USA; Samsung – Dél-Korea; Sony – Japán.\n- Járműipar: Toyota – Japán; Volkswagen-csoport (benne az Audi), Mercedes-Benz, BMW – Németország; Stellantis – Hollandia székhelyű, francia–olasz gyökerű; Hyundai – Dél-Korea.\n- Energia, kőolaj: Saudi Aramco – Szaúd-Arábia; ExxonMobil – USA; Shell – Egyesült Királyság; kínai állami olajtársaságok.\n- Kiskereskedelem: Walmart – USA; IKEA – Svédország eredetű.\n- Élelmiszer, ital: Nestlé – Svájc; Coca-Cola, PepsiCo – USA.\n- Gyógyszeripar: Pfizer – USA; Roche, Novartis – Svájc.\n\nMagyarországon is sok TNC működik, pl. az Audi Győrben, a Mercedes Kecskeméten, a BMW Debrecenben, a Suzuki Esztergomban. Magyar központú, regionálisan terjeszkedő vállalat például a MOL, az OTP és a Richter Gedeon.\n\nA székhelyek többsége az USA-ban, Nyugat-Európában, Japánban és egyre inkább Kínában van.",
+   "diagram": null,
+   "concepts": [
+    "transznacionális vállalat (TNC)",
+    "anyavállalat",
+    "leányvállalat",
+    "Triád"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Ha TNC-t kell megnevezned, mondd meg a székhelyországot és az ágazatot is – és lehetőleg hozz egy magyarországi leányvállalatot is.",
+   "selfCheck": [
+    {
+     "q": "Melyik ország vállalata a Toyota, és milyen ágazatban működik?",
+     "a": "Japán, járműipar."
+    },
+    {
+     "q": "Nevezz meg két Magyarországon működő külföldi autóipari TNC-t és a telephelyüket!",
+     "a": "Pl. Audi – Győr, Mercedes – Kecskemét (BMW – Debrecen, Suzuki – Esztergom)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nestlé svájci székhelyű élelmiszeripari TNC.",
+     "true": true
+    },
+    {
+     "statement": "A Samsung japán székhelyű járműipari vállalat.",
+     "true": false,
+     "correction": "A Samsung dél-koreai székhelyű, elsősorban elektronikai vállalat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--k7",
+   "explanation": "A világpolitika és a világgazdaság fontos szervezetei:\n\n- Egyesült Nemzetek Szervezete (ENSZ): 1945-ben alakult, székhelye New York. Célja a béke és a nemzetközi biztonság megőrzése, az együttműködés elősegítése. Kiemelt szerve a Biztonsági Tanács.\n- UNESCO (az ENSZ Nevelésügyi, Tudományos és Kulturális Szervezete): székhelye Párizs; oktatás, tudomány, kultúra, a világörökség védelme.\n- Egészségügyi Világszervezet (WHO): székhelye Genf; járványok elleni küzdelem, egészségügyi programok.\n- Észak-atlanti Szerződés Szervezete (NATO): 1949-ben alakult katonai-védelmi szövetség, központja Brüsszel; a tagok kölcsönös védelmet vállalnak.\n- Kőolaj-exportáló Országok Szervezete (OPEC): kőolajtermelő országok szervezete, székhelye Bécs; a kitermelés összehangolásával befolyásolja a világpiaci árat.\n- Világkereskedelmi Szervezet (WTO): Genf; a nemzetközi kereskedelem szabályai, a vámok csökkentése, viták rendezése.\n- További fontos szervezetek: OECD (fejlett piacgazdaságok), IMF és Világbank (pénzügy), G7/G20 (vezető gazdaságok egyeztető fóruma).",
+   "diagram": null,
+   "concepts": [
+    "Egyesült Nemzetek Szervezete (ENSZ)",
+    "Tudományos és Kulturális Szervezete (UNESCO)",
+    "Egészségügyi Világszervezet (WHO)",
+    "Észak-atlanti Szerződés Szervezete (NATO)",
+    "Kőolaj-exportáló Országok Szervezete (OPEC)",
+    "Világkereskedelmi Szervezet (WTO)"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Párosító feladatoknál a székhely és a feladat a kulcs: ENSZ – New York, UNESCO – Párizs, WHO és WTO – Genf, NATO – Brüsszel, OPEC – Bécs.",
+   "selfCheck": [
+    {
+     "q": "Melyik szervezet foglalkozik a világörökség védelmével?",
+     "a": "Az UNESCO."
+    },
+    {
+     "q": "Hogyan befolyásolja az OPEC a kőolaj árát?",
+     "a": "A tagországok kitermelésének összehangolásával (kvótákkal)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A NATO katonai-védelmi szövetség.",
+     "true": true
+    },
+    {
+     "statement": "A WTO elsődleges feladata a járványok elleni küzdelem.",
+     "true": false,
+     "correction": "Ez a WHO feladata; a WTO a nemzetközi kereskedelem szabályozásával és a kereskedelmi korlátok lebontásával foglalkozik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--e1",
+   "explanation": "A globális világgazdaság jellemzői:\n- a termelés világméretű értékláncokba szerveződik: egy termék tervezése, alkatrészgyártása, összeszerelése és értékesítése más-más országban történik;\n- a TNC-k a világkereskedelem és a tőkeáramlás meghatározó szereplői;\n- a pénzügyi piacok összekapcsolódtak, a tőke valós időben, a nap 24 órájában mozog;\n- a nemzetközi munkamegosztás új formája: nem országok, hanem tevékenységek szakosodnak;\n- a világvárosok (pl. New York, London, Tokió) irányító központok;\n- erősödik a verseny a befektetésekért, a szolgáltatások és a tudás szerepe nő.\n\nA világméretű szerveződést lehetővé tevő feltételek:\n- közlekedési forradalom: konténerizáció, óriás teherhajók, olcsó légi szállítás;\n- info-kommunikációs forradalom: számítógép, internet, műholdak;\n- liberalizáció: a vámok csökkentése (GATT, majd WTO), a tőkeáramlás korlátainak lebontása;\n- a szocialista tömb felbomlása (1989–91) után a piacgazdaság szinte mindenhol elterjedt;\n- egységes szabványok, az angol mint közvetítőnyelv.",
+   "diagram": null,
+   "concepts": [
+    "globális világgazdaság",
+    "nemzetközi munkamegosztás",
+    "transznacionális vállalat (TNC)",
+    "szabadkereskedelem",
+    "nemzetközi tőkeáramlás",
+    "információs gazdaság"
+   ],
+   "processes": [
+    "globalizacio",
+    "toke-aramlasa"
+   ],
+   "examTip": "Esszében válaszd szét a jellemzőket (mi történik) és a feltételeket (mi tette lehetővé) – a kettő keverése pontvesztést okoz.",
+   "selfCheck": [
+    {
+     "q": "Miért fontos a konténerizáció a globalizáció szempontjából?",
+     "a": "Mert drasztikusan csökkentette a tengeri szállítás költségét és idejét, így a távoli termelés is kifizetődő lett."
+    },
+    {
+     "q": "Milyen politikai változás bővítette a globális piacot az 1990-es évek elején?",
+     "a": "A szocialista tömb felbomlása, a piacgazdaság elterjedése."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A vámok és a tőkeáramlási korlátok lebontása a globalizáció egyik feltétele volt.",
+     "true": true
+    },
+    {
+     "statement": "A globális világgazdaságban a pénzügyi piacok egymástól elszigetelten működnek.",
+     "true": false,
+     "correction": "A pénzügyi piacok szorosan összekapcsolódtak, a tőke valós időben mozog közöttük."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--e2",
+   "explanation": "A globalizáció előnyeit nem egyformán tudják kihasználni az országok: minél fejlettebb egy ország, annál inkább a nyertesek közé tartozik.\n\nA fejlett országok (centrum):\n- itt vannak a TNC-k központjai, a K+F, a márkák és a pénzügyi központok;\n- a legnagyobb hozzáadott értékű tevékenységeket végzik (tervezés, innováció, marketing);\n- a profit és a szabadalmi díjak hozzájuk áramlanak.\n\nA felzárkózó országok (félperiféria):\n- működőtőkét vonzanak, exportorientált iparosodással gyorsan fejlődnek (pl. Dél-Korea, Tajvan, később Kína);\n- az összeszereléstől fokozatosan a magasabb értékű tevékenységek felé lépnek.\n\nA legkevésbé fejlett országok (periféria):\n- gyenge infrastruktúra, képzetlen munkaerő, instabilitás miatt kevés befektetést vonzanak;\n- nyersanyagszállítók vagy alacsony bérű összeszerelők maradnak, kevés hozzáadott értékkel;\n- kiszolgáltatottak a világpiaci áringadozásnak.\n\nÍgy a globalizáció a világ egészében növelte a termelést, de a társadalmi-gazdasági egyenlőtlenség sok tekintetben nőtt.",
+   "diagram": null,
+   "concepts": [
+    "társadalmi-gazdasági egyenlőtlenség",
+    "globalizáció",
+    "újonnan iparosodott országok",
+    "működőtőke-befektetés",
+    "kutatás-fejlesztés (K+F tevékenység)"
+   ],
+   "processes": [
+    "globalizacio",
+    "toke-aramlasa"
+   ],
+   "examTip": "Igazoló feladatnál hozz konkrét példát mindhárom csoportra (pl. USA – Dél-Korea – egy száhel-övezeti ország), és mutasd meg a hozzáadott érték különbségét.",
+   "selfCheck": [
+    {
+     "q": "Miért húznak nagyobb hasznot a globalizációból a fejlett országok?",
+     "a": "Náluk vannak a TNC-központok, a K+F és a márkák, azaz a legnagyobb hozzáadott értékű tevékenységek, és oda áramlik a profit."
+    },
+    {
+     "q": "Mondj példát olyan országra, amely a globalizációt kihasználva felzárkózott!",
+     "a": "Pl. Dél-Korea vagy Tajvan (később Kína)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A legkevésbé fejlett országok gyakran csak nyersanyag-szállítóként vagy alacsony bérű összeszerelőként kapcsolódnak a világgazdasághoz.",
+     "true": true
+    },
+    {
+     "statement": "A globalizáció minden országban egyforma mértékben növelte a jólétet.",
+     "true": false,
+     "correction": "A haszon egyenlőtlenül oszlik meg: a fejlettebb országok nagyobb mértékben profitálnak, az egyenlőtlenségek sok tekintetben nőttek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--e3",
+   "explanation": "A globalizáció hatásai összetettek; értékelésnél mindig mérlegeld az előnyöket és a hátrányokat.\n\nGazdasági hatások:\n- + nagyobb piac, hatékonyabb termelés, olcsóbb termékek;\n- + tőke és technológia jut a fejlődő országokba, munkahelyek jönnek létre;\n- − a válságok gyorsan terjednek (pl. a 2008-as pénzügyi válság);\n- − a termelés áttelepülése munkahelyeket szüntet meg a fejlett országokban;\n- − kiszolgáltatottság a TNC-knek, nő az egyenlőtlenség.\n\nTársadalmi hatások:\n- + információhoz jutás, mobilitás, tanulási lehetőségek;\n- − a kultúra egységesülése, a helyi hagyományok háttérbe szorulása;\n- − rossz munkakörülmények, gyermekmunka egyes beszállítóknál.\n\nKörnyezeti hatások:\n- − a hosszú szállítási láncok miatt nő az energiafelhasználás és a kibocsátás;\n- − a szennyező iparágak a laza környezetvédelmi szabályozású országokba települnek;\n- − a fogyasztói társadalom terjedése túlfogyasztáshoz és hulladékhegyekhez vezet;\n- + a környezetbarát technológiák gyorsan terjednek, nemzetközi egyezmények születnek (pl. klímavédelem).",
+   "diagram": null,
+   "concepts": [
+    "globalizáció",
+    "társadalmi-gazdasági egyenlőtlenség",
+    "környezetkárosítás",
+    "túlfogyasztás",
+    "fogyasztói társadalom"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Értékelő feladatnál a „mérlegelés” a lényeg: legalább egy előnyt és egy hátrányt minden szempontnál (gazdasági, társadalmi, környezeti) meg kell nevezni.",
+   "selfCheck": [
+    {
+     "q": "Miért vándorolnak a szennyező iparágak a fejlődő országokba?",
+     "a": "Mert ott lazábbak a környezetvédelmi előírások és olcsóbb a termelés."
+    },
+    {
+     "q": "Mondj egy kedvező környezeti hatást!",
+     "a": "A környezetbarát technológiák gyors terjedése, nemzetközi környezetvédelmi egyezmények."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A globalizáció miatt a gazdasági válságok gyorsabban terjednek az országok között.",
+     "true": true
+    },
+    {
+     "statement": "A globalizáció kizárólag kedvező hatással van a környezetre, mert csökkenti a szállítást.",
+     "true": false,
+     "correction": "A hosszú ellátási láncok növelik a szállítást és a kibocsátást; a környezeti hatások összességében vegyesek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--e4",
+   "explanation": "A TNC-k a termelést a teljes értékláncra kiterjedő, világméretű hálózatként szervezik.\n\nSajátosságok:\n- a termelési folyamatot szakaszokra bontják (tervezés, alkatrészgyártás, összeszerelés, értékesítés), és minden szakaszt a legkedvezőbb helyre telepítenek;\n- az irányítás, a K+F és a tervezés az anyavállalatnál, a centrumban marad;\n- a munkaigényes összeszerelés olcsó munkaerejű országokba kerül;\n- kiszervezés (outsourcing): egyes feladatokat külső beszállítókra bíznak;\n- beszállítói hálózat épül ki a gyárak körül, sokszor ipari parkokban;\n- készletszegény (just-in-time) termelés: az alkatrész pontosan akkor érkezik, amikor szükség van rá – hatékony, de érzékeny a szállítási zavarokra;\n- egységes világtermék, de a helyi piachoz igazított változatokkal.\n\nPélda: egy okostelefont az USA-ban terveznek, a kijelző Dél-Koreában, a chipek Tajvanon készülnek, az összeszerelés Kínában vagy Indiában folyik, a terméket világszerte értékesítik. A legnagyobb haszon a tervezésnél és a márkánál marad, nem az összeszerelésnél.",
+   "diagram": null,
+   "concepts": [
+    "transznacionális vállalat (TNC)",
+    "anyavállalat",
+    "leányvállalat",
+    "nemzetközi munkamegosztás",
+    "ipari park",
+    "világtermék"
+   ],
+   "processes": [
+    "globalizacio",
+    "telephelyvalasztas"
+   ],
+   "examTip": "Vizsgán gyakran kérik, hogy egy ábrán (termékút térképen) azonosítsd, melyik tevékenység melyik országban folyik, és miért ott.",
+   "selfCheck": [
+    {
+     "q": "Mi a just-in-time termelés lényege, és mi a kockázata?",
+     "a": "Az alkatrészek épp a felhasználáskor érkeznek, így kicsi a raktárkészlet; a szállítási zavarok viszont gyorsan leállíthatják a termelést."
+    },
+    {
+     "q": "Hová telepítik a TNC-k a munkaigényes összeszerelést?",
+     "a": "Olcsó munkaerejű országokba."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A TNC-k termelésében a legnagyobb haszon jellemzően a tervezésnél és a márkánál keletkezik.",
+     "true": true
+    },
+    {
+     "statement": "A TNC-k a termelés minden szakaszát az anyavállalat országában végzik.",
+     "true": false,
+     "correction": "A szakaszokat a legkedvezőbb helyekre telepítik szét; a centrumban jellemzően csak az irányítás, a K+F és a tervezés marad."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-3-a-globalizacio--e5",
+   "explanation": "A TNC-k nemcsak az iparban, hanem a szolgáltatásokban is meghatározók.\n\nTercier szektor:\n- kereskedelmi láncok (pl. Walmart, IKEA, Lidl), gyorséttermi láncok (pl. McDonald's);\n- szállodaláncok, légitársaságok, utazási irodák;\n- logisztika és csomagszállítás (pl. DHL);\n- bankok, biztosítók;\n- a TNC-k egységes színvonalat, franchise-rendszert, globális hálózatot visznek a szolgáltatásokba.\n\nKvaterner szektor:\n- a TNC-k költik a világ K+F-kiadásainak jelentős részét, innovációk nagy része tőlük származik;\n- szoftverfejlesztés, felhőszolgáltatás, digitális platformok (pl. Google, Microsoft, Amazon);\n- tanácsadó, könyvvizsgáló cégek;\n- szolgáltatóközpontok (pl. Budapesten sok TNC könyvelési, informatikai, ügyfélszolgálati központja működik).\n\nKövetkezmény: a TNC-k terjesztik a tudásalapú szolgáltatásokat a félperiféria felé is, munkahelyeket és tudást hoznak, de a legértékesebb kutatási tevékenység általában a székhely közelében marad.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "tercier és kvaterner szektor",
+    "transznacionális vállalat (TNC)",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "innováció",
+    "információs gazdaság"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Igazolásnál ne csak cégneveket sorolj: írd le, mit tesznek hozzá a szektorhoz (pl. K+F-kiadás, egységes szolgáltatási színvonal, munkahelyek, tudástranszfer).",
+   "selfCheck": [
+    {
+     "q": "Mondj két tercier szektorbeli TNC-típust!",
+     "a": "Pl. kereskedelmi láncok és szállodaláncok (vagy bankok, logisztikai cégek)."
+    },
+    {
+     "q": "Hogyan járulnak hozzá a TNC-k a kvaterner szektor fejlődéséhez?",
+     "a": "Óriási K+F-kiadásaikkal, innovációikkal, szoftver- és digitális szolgáltatásaikkal, szolgáltatóközpontjaikkal."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A TNC-k a világ K+F-kiadásainak jelentős részét adják.",
+     "true": true
+    },
+    {
+     "statement": "A TNC-k kizárólag a feldolgozóiparban működnek.",
+     "true": false,
+     "correction": "A TNC-k a szolgáltatásokban (kereskedelem, pénzügy, logisztika, informatika, kutatás) is meghatározók."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--k1",
+   "explanation": "A pénz általánosan elfogadott csere- és fizetési eszköz. Funkciói: értékmérő, forgalmi (csere-) eszköz, fizetési eszköz, felhalmozási (megtakarítási) eszköz, illetve a nemzetközi forgalomban világpénz.\n\nA pénz fejlődése:\n- árucsere (barter): áru áruért, pénz nélkül;\n- árupénz: általánosan keresett áru (só, kagyló, állat) tölti be a pénz szerepét;\n- fémpénz (érme): nemesfémből, majd olcsóbb fémből;\n- papírpénz (bankjegy): értékét a kibocsátó jegybankba vetett bizalom adja;\n- bankszámlapénz: a bankszámlán nyilvántartott, kártyával, átutalással mozgatható pénz – ma a pénzforgalom legnagyobb része ilyen.\n\nFontos fogalmak:\n- készpénz: bankjegy és érme;\n- valuta: külföldi pénz készpénz formájában (pl. a pénztárcádban lévő euró);\n- deviza: külföldi pénzre szóló követelés, számlapénz (pl. euróban vezetett bankszámla, külföldi átutalás);\n- konvertibilitás: egy pénz szabadon átváltható más pénznemekre.",
+   "diagram": null,
+   "concepts": [
+    "pénz",
+    "készpénz",
+    "bankszámlapénz",
+    "valuta",
+    "deviza",
+    "konvertibilitás"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "A valuta és a deviza különbsége kedvelt kérdés: valuta = külföldi készpénz, deviza = külföldi pénzre szóló számlapénz vagy követelés.",
+   "selfCheck": [
+    {
+     "q": "Mi a különbség a valuta és a deviza között?",
+     "a": "A valuta külföldi készpénz, a deviza külföldi pénzre szóló számlapénz vagy követelés."
+    },
+    {
+     "q": "Mit jelent a konvertibilitás?",
+     "a": "Azt, hogy egy pénz szabadon átváltható más pénznemekre."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ma a pénzforgalom legnagyobb része bankszámlapénzzel zajlik.",
+     "true": true
+    },
+    {
+     "statement": "Az árucsere (barter) során az árukat bankjegyekért cserélik.",
+     "true": false,
+     "correction": "A barter közvetlen áru–áru csere, pénz közbeiktatása nélkül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--k2",
+   "explanation": "A mindennapi pénzügyeid nagy része bankokon keresztül zajlik.\n\nA kereskedelmi bankok szolgáltatásai:\n- folyószámla (bankszámla): ide érkezik a fizetés, innen fizetsz kártyával, átutalással, csoportos beszedéssel (pl. rezsi);\n- bankkártya, netbank, mobilbank, azonnali átutalás;\n- betét: a megtakarításodat a bank kamatért cserébe használja;\n- hitel: a bank kölcsönt ad, amit kamattal együtt kell visszafizetni;\n- befektetési szolgáltatások: értékpapírok (állampapír, kötvény, részvény) vásárlása.\n\nA bank működésének lényege: a betétesek pénzét hitelként kihelyezi; a hitelek kamata magasabb, mint amit a betétekre fizet, a különbözet (és a díjak) a bank bevétele.\n\nA jegybank (Magyarországon a Magyar Nemzeti Bank): bocsátja ki a forintot, az alapkamattal befolyásolja a hitelek és betétek kamatait, felügyeli a bankrendszert, és az infláció alacsonyan tartására törekszik.\n\nAz egyéb pénzügyi szolgáltatók közé tartoznak a biztosítók, a befektetési alapok és a nyugdíjpénztárak.",
+   "diagram": null,
+   "concepts": [
+    "folyószámla",
+    "bankszámlapénz",
+    "kamat",
+    "hozam",
+    "értékpapírok (állampapír, kötvény, részvény)",
+    "hitelképesség"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Fontos különbség: a kereskedelmi bank betétet gyűjt és hitelez; a jegybank pénzt bocsát ki és kamatpolitikát folytat – lakossági számlát nem vezet.",
+   "selfCheck": [
+    {
+     "q": "Miből származik a kereskedelmi bankok bevétele?",
+     "a": "A hitelkamat és a betéti kamat különbözetéből, valamint a díjakból."
+    },
+    {
+     "q": "Mi a jegybank két fő feladata?",
+     "a": "Pl. a pénzkibocsátás és az infláció kezelése az alapkamattal (a bankrendszer felügyelete mellett)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A banki betét után a bank kamatot fizet az ügyfélnek.",
+     "true": true
+    },
+    {
+     "statement": "A lakossági folyószámlákat a jegybank vezeti.",
+     "true": false,
+     "correction": "A lakossági folyószámlákat a kereskedelmi bankok vezetik; a jegybank a bankok bankja, pénzt bocsát ki és kamatpolitikát folytat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--k3",
+   "explanation": "A gazdasági hírek értelmezéséhez néhány alapösszefüggést kell ismerned.\n\n- „A jegybank emelte az alapkamatot”: drágulnak a hitelek, nőnek a betéti kamatok, csökken a fogyasztás és a beruházás, így mérséklődik az infláció; a hazai valuta általában erősödik.\n- „Gyengült a forint”: több forint kell egy euróért. Drágul az import és a külföldi utazás, az exportőrök viszont több forintot kapnak – javul az export versenyképessége.\n- „Az infláció 5%”: az árszínvonal egy év alatt átlagosan 5%-kal nőtt.\n- „Emelkedett a BUX-index”: a budapesti tőzsde legfontosabb részvényeinek ára átlagosan nőtt. A Dow Jones-index a New York-i tőzsde nagyvállalataira vonatkozik.\n- „Nőtt a GDP”: gazdasági növekedés; ha csökken, gazdasági visszaesés.\n- „Hiányos a költségvetés”: az állam többet költ, mint amennyi bevétele van.\n\nAdatoknál figyelj: százalékos változásról vagy százalékpontról van-e szó, és mihez viszonyítanak (előző hónap, előző év azonos időszaka).",
+   "diagram": null,
+   "concepts": [
+    "tőzsdeindex",
+    "BUX-index",
+    "Dow Jones-index",
+    "infláció",
+    "valutaárfolyam",
+    "kamat"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Ha egy hírben árfolyam-változás szerepel, mindig gondold végig, ki jár jól (exportőr vagy importőr, belföldi vagy külföldi utazó) és ki rosszul.",
+   "selfCheck": [
+    {
+     "q": "Mi történik a hitelek kamatával, ha a jegybank emeli az alapkamatot?",
+     "a": "A hitelek kamata is emelkedik, a hitelfelvétel drágul."
+    },
+    {
+     "q": "Mit jelez a BUX-index emelkedése?",
+     "a": "A budapesti tőzsde legfontosabb részvényeinek ára átlagosan nőtt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A forint gyengülése drágítja az importtermékeket.",
+     "true": true
+    },
+    {
+     "statement": "Az alapkamat emelése általában gyorsítja az inflációt.",
+     "true": false,
+     "correction": "Az alapkamat emelése drágítja a hitelt, mérsékli a keresletet, így az infláció lassítását szolgálja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--k4",
+   "explanation": "A valutaárfolyam megmutatja, hány egység hazai pénzt kell adni egy egység külföldi pénzért (pl. 1 EUR = 400 Ft – a példák számai kitaláltak).\n\nA bank két árfolyamot használ:\n- vételi árfolyam (alacsonyabb): ezen vásárolja meg tőled a valutát;\n- eladási árfolyam (magasabb): ezen adja el neked a valutát.\n\nSzámolás:\n- forintból valutába: forintösszeg ÷ eladási árfolyam. Pl. 82 000 Ft ÷ 410 Ft/EUR = 200 EUR.\n- valutából forintba: valutaösszeg × vételi árfolyam. Pl. 200 EUR × 390 Ft/EUR = 78 000 Ft.\n- A két árfolyam különbsége a bank haszna: az oda-vissza váltással itt 4000 Ft-ot vesztettél.\n\nAz árfolyam változásának következményei:\n- a forint gyengül (pl. 400-ról 440 Ft/EUR-ra): drágul az import, a külföldi nyaralás, a devizahitel törlesztése; az exportőrök és a hozzánk érkező külföldi turisták járnak jól;\n- a forint erősödik (pl. 400-ról 370 Ft/EUR-ra): olcsóbb az import és a külföldi utazás, de romlik az export versenyképessége.",
+   "diagram": null,
+   "concepts": [
+    "valutaárfolyam",
+    "valuta",
+    "deviza",
+    "konvertibilitás"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Ellenőrizd az eredményt józan ésszel: euróból mindig sokkal több forint lesz, forintból sokkal kevesebb euró. Ha fordítva jött ki, rossz műveletet választottál.",
+   "selfCheck": [
+    {
+     "q": "Hány eurót kapsz 120 000 Ft-ért 400 Ft/EUR eladási árfolyamon?",
+     "a": "120 000 ÷ 400 = 300 EUR."
+    },
+    {
+     "q": "Ki jár jól a forint gyengülésével?",
+     "a": "Az exportőrök és a Magyarországra érkező külföldi turisták."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ha egy euró 400 Ft helyett 440 Ft-ba kerül, a forint gyengült.",
+     "true": true
+    },
+    {
+     "statement": "Valuta vásárlásakor a bank a vételi árfolyamot alkalmazza.",
+     "true": false,
+     "correction": "Ha te veszel valutát, a bank eladja – ilyenkor a magasabb eladási árfolyamot alkalmazza."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--k5",
+   "explanation": "Az infláció az általános árszínvonal tartós emelkedése, vagyis a pénz vásárlóerejének csökkenése. Mértékét általában az egy évvel korábbi árszínvonalhoz viszonyítva, százalékban adják meg.\n\nKialakulásának okai:\n- keresleti infláció: a kereslet gyorsabban nő, mint a kínálat (pl. a pénzmennyiség túl gyors növekedése, olcsó hitelek, nagy állami költekezés);\n- költséginfláció: drágul az energia, a nyersanyag vagy a munkaerő, a cégek ezt beépítik az árakba;\n- importált infláció: a hazai valuta gyengülése drágítja az importot;\n- inflációs várakozások: ha mindenki áremelkedésre számít, ez önmagát gerjeszti.\n\nKövetkezményei:\n- ha a bérek lassabban nőnek az árnál, csökken a reálbér;\n- a megtakarítások értéke csökken, ha a kamat kisebb az inflációnál. Reálkamat ≈ kamat − infláció. Pl. 4%-os betéti kamat és 7%-os infláció mellett a reálkamat kb. −3%;\n- a fix kamatozású adósok számára kedvező, a hitelezőknek kedvezőtlen;\n- a bizonytalanság visszafogja a beruházásokat.\n\nA nagyon gyors infláció a hiperinfláció (pl. a pengő 1946-ban). Ellene a jegybank főként kamatemeléssel lép fel.",
+   "diagram": null,
+   "concepts": [
+    "infláció",
+    "kamat",
+    "pénz",
+    "hozam"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "A reálkamat (kamat − infláció) számolása gyakori: ha negatív, a megtakarítás vásárlóereje csökken, még akkor is, ha a számlán nő az összeg.",
+   "selfCheck": [
+    {
+     "q": "Mekkora a reálkamat 6%-os kamat és 9%-os infláció mellett?",
+     "a": "Kb. −3%: a megtakarítás vásárlóereje csökken."
+    },
+    {
+     "q": "Mi a költséginfláció?",
+     "a": "Az energia, a nyersanyag vagy a bérek drágulása miatti áremelkedés."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Infláció idején a fix kamatozású hitelek adósai reálértékben kevesebbet fizetnek vissza.",
+     "true": true
+    },
+    {
+     "statement": "Az infláció a pénz vásárlóerejének növekedését jelenti.",
+     "true": false,
+     "correction": "Az infláció az árszínvonal emelkedése, vagyis a pénz vásárlóerejének csökkenése."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--k6",
+   "explanation": "A hitel olyan pénzösszeg, amelyet a bank meghatározott időre kölcsönad, és amelyet kamattal együtt kell visszafizetni.\n\nTípusai:\n- lejárat szerint: rövid lejáratú (pl. folyószámlahitel, hitelkártya) és hosszú lejáratú (pl. lakáshitel, akár 20–30 év);\n- kamatozás szerint: rögzített (fix) kamatozású – a törlesztő kiszámítható; változó kamatozású – a kamat a piaci kamatokkal együtt változik;\n- devizanem szerint: forinthitel vagy devizahitel (pl. euróban, svájci frankban).\n\nLehetőségek: a hitel segítségével korábban juthatsz lakáshoz, autóhoz, tanulhatsz; léteznek állami kamattámogatott hitelek is. A felvétel feltétele a hitelképesség (rendszeres jövedelem, megfelelő adósságterhelés) és gyakran önerő.\n\nKockázatok:\n- kamatemelkedés változó kamatnál;\n- árfolyamkockázat devizahitelnél: ha a forint gyengül, nő a törlesztő (Magyarországon a 2008-as válság után sok svájcifrank-hiteles adós került bajba);\n- jövedelemkiesés (munkanélküliség, betegség);\n- túlzott eladósodás, adósságspirál.\n\nAz ajánlatokat a THM (teljes hiteldíj mutató) alapján hasonlítsd össze: ez a kamat mellett a díjakat is tartalmazza.",
+   "diagram": null,
+   "concepts": [
+    "rövid és hosszú lejáratú hitel",
+    "rögzített (fix) és változó kamatozású hitel",
+    "devizahitel",
+    "hitelképesség",
+    "THM",
+    "önerő"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Hitelajánlatok összevetésénél mindig a THM-et nézd, ne csak a kamatot: a THM tartalmazza a díjakat és költségeket is.",
+   "selfCheck": [
+    {
+     "q": "Miért kockázatos a devizahitel?",
+     "a": "Mert ha a hazai valuta gyengül, a törlesztőrészlet forintban megnő."
+    },
+    {
+     "q": "Mit mutat a THM?",
+     "a": "A hitel teljes költségét (kamat és díjak) éves százalékban."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Rögzített kamatozású hitelnél a kamatláb a futamidő (vagy a kamatperiódus) alatt nem változik.",
+     "true": true
+    },
+    {
+     "statement": "A változó kamatozású hitel törlesztőrészlete a teljes futamidő alatt biztosan ugyanannyi.",
+     "true": false,
+     "correction": "Változó kamatozásnál a törlesztő a piaci kamatokkal együtt nőhet vagy csökkenhet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--k7",
+   "explanation": "A nemzetközi tőkeáramlás két fő formája:\n\nMűködőtőke (közvetlen tőkebefektetés):\n- vállalat alapítása, gyár építése vagy meglévő cég többségi megszerzése, tartós irányítási szándékkal;\n- formái: zöldmezős beruházás (új telephely a semmiből) és barnamezős beruházás (meglévő telep átvétele, felújítása);\n- hosszú távú, lassan mozgó, munkahelyet és technológiát hoz.\n\nPénztőke:\n- hitelek, betétek, értékpapírok (állampapír, kötvény, kisebb részvénycsomag) vásárlása, irányítási szándék nélkül;\n- célja a hozam; gyorsan mozog, könnyen kivonható, ezért spekulációra is alkalmas, válságot is gerjeszthet.\n\nBefektetési típusok magánszemélyként:\n- bankbetét: biztonságos, alacsony hozam;\n- állampapír: biztonságos, közepes hozam;\n- kötvény: vállalati hitelpapír;\n- részvény: tulajdonrész egy vállalatban; nagyobb hozam, nagyobb kockázat (értéke a tőzsdén változik);\n- befektetési alap, ingatlan, arany.\n\nAlapszabály: minél nagyobb a várható hozam, annál nagyobb a kockázat; a hosszabb lekötöttség általában magasabb hozammal jár.",
+   "diagram": null,
+   "concepts": [
+    "pénztőke",
+    "működőtőke",
+    "nemzetközi tőkeáramlás",
+    "értékpapír-befektetés",
+    "működőtőke-befektetés",
+    "értékpapírok (állampapír, kötvény, részvény)"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "A működőtőke és a pénztőke különbsége az irányítási szándék és az időtáv: a gyár építése működőtőke, a részvények rövid távú adásvétele pénztőke.",
+   "selfCheck": [
+    {
+     "q": "Mi a különbség a zöldmezős és a barnamezős beruházás között?",
+     "a": "A zöldmezős teljesen új telephelyen, a barnamezős meglévő (gyakran felhagyott) telephely felhasználásával valósul meg."
+    },
+    {
+     "q": "Miért kockázatosabb a részvény a bankbetétnél?",
+     "a": "Mert az árfolyama a tőzsdén ingadozik, akár veszteség is érhet, cserébe nagyobb hozamot ígér."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A pénztőke gyorsabban mozog a nemzetközi piacokon, mint a működőtőke.",
+     "true": true
+    },
+    {
+     "statement": "Ha egy külföldi cég új autógyárat épít Magyarországon, az pénztőke-befektetés.",
+     "true": false,
+     "correction": "Ez működőtőke-befektetés (zöldmezős beruházás), mert tartós irányítási szándékkal, termelő kapacitást hoz létre."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e1",
+   "explanation": "A megtakarítás vagy hitel értékét a kamat és az árfolyam együtt alakítja. Nézz egy példát (kitalált számokkal)!\n\n1 000 000 Ft-od van egy évre. Két lehetőség:\n- Forintbetét 6%-os kamattal: egy év múlva 1 060 000 Ft.\n- Eurobetét 2%-os kamattal: 400 Ft/EUR árfolyamon 2500 EUR, egy év múlva 2550 EUR.\n\nAz eurobetét forintértéke az év végi árfolyamtól függ:\n- 420 Ft/EUR (forint gyengült): 2550 × 420 = 1 071 000 Ft – jobban jártál, mint a forintbetéttel;\n- 380 Ft/EUR (forint erősödött): 2550 × 380 = 969 000 Ft – veszteség, pedig volt kamat!\n\nTanulság: néhány százalékos árfolyam-változás felülírhatja a kamatkülönbséget.\n\nHitelnél ugyanez fordítva: a devizahitel alacsonyabb kamata csábító, de ha a hazai valuta gyengül, a tartozás forintban megnő. Pl. 10 000 CHF hitel 200 Ft/CHF árfolyamon 2 000 000 Ft; 250 Ft/CHF-nél már 2 500 000 Ft (+25%), kamat nélkül is.",
+   "diagram": null,
+   "concepts": [
+    "valutaárfolyam",
+    "kamat",
+    "devizahitel",
+    "hozam"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Számolj lépésenként: 1) váltás a kiinduló árfolyamon, 2) kamat a devizában, 3) visszaváltás a záró árfolyamon, 4) összevetés a forintos alternatívával.",
+   "selfCheck": [
+    {
+     "q": "500 000 Ft-ot 3%-os forintbetétbe teszel egy évre. Mennyi lesz?",
+     "a": "515 000 Ft."
+    },
+    {
+     "q": "Miért kockázatos az alacsony kamatú devizahitel?",
+     "a": "Mert a hazai valuta gyengülésekor forintban nő a tartozás és a törlesztő, ami felülírhatja a kamatelőnyt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egy devizabetét forintban számolt hozama negatív is lehet, ha a forint jelentősen erősödik.",
+     "true": true
+    },
+    {
+     "statement": "A magasabb kamatú befektetés mindig nagyobb forintbeli nyereséget hoz, függetlenül az árfolyamtól.",
+     "true": false,
+     "correction": "Az árfolyam-változás felülírhatja a kamatkülönbséget; ezért a devizában tartott pénz forintértéke a záró árfolyamtól is függ."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e2",
+   "explanation": "Az államháztartás az állam gazdasági tevékenységét lebonyolító pénzügyi rendszer. Magyarországon fő alrendszerei: a központi alrendszer (központi költségvetés, társadalombiztosítási alapok – nyugdíj- és egészségbiztosítás –, elkülönített állami pénzalapok) és a helyi önkormányzatok alrendszere.\n\nA költségvetés az állam egy évre szóló bevételi és kiadási terve, amelyet törvényként az Országgyűlés fogad el.\n\nFő bevételek:\n- adók: személyi jövedelemadó, általános forgalmi adó (áfa), társasági adó, jövedéki adó;\n- járulékok (nyugdíj-, egészségbiztosítási);\n- uniós támogatások, állami vagyon hozama, illetékek, bírságok.\n\nFő kiadások:\n- nyugdíjak, egészségügy, oktatás;\n- szociális juttatások, családtámogatás;\n- honvédelem, rendvédelem, igazságszolgáltatás;\n- infrastruktúra, gazdaságfejlesztés, állami támogatások;\n- az államadósság kamatai.\n\nAz egyenleg alapján: ha a kiadás nagyobb, mérleghiány (deficit), ha a bevétel nagyobb, mérlegtöbblet (szufficit) keletkezik; a kettő egyezése a költségvetési egyensúly.",
+   "diagram": null,
+   "concepts": [
+    "államháztartás",
+    "költségvetés",
+    "költségvetési egyensúly",
+    "mérleghiány (deficit)",
+    "mérlegtöbblet (szufficit)",
+    "adó"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Gyakori feladat: tételeket kell bevételre és kiadásra sorolni. Az áfa és a járulék bevétel, az adósság kamata kiadás.",
+   "selfCheck": [
+    {
+     "q": "Mi a költségvetési hiány (deficit)?",
+     "a": "Az az állapot, amikor az állam kiadásai meghaladják a bevételeit."
+    },
+    {
+     "q": "Nevezz meg két adóbevételt!",
+     "a": "Pl. személyi jövedelemadó és általános forgalmi adó (áfa)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az államadósság kamatai a költségvetés kiadási oldalán jelennek meg.",
+     "true": true
+    },
+    {
+     "statement": "A költségvetést a jegybank fogadja el.",
+     "true": false,
+     "correction": "A költségvetést a kormány készíti elő, és az Országgyűlés fogadja el törvényként."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e3",
+   "explanation": "Költségvetési hiány akkor keletkezik, ha a kiadások nőnek vagy a bevételek csökkennek. Ezt kiváltó folyamatok:\n\nA bevételeket csökkentő tényezők:\n- gazdasági visszaesés: kisebb a fogyasztás és a profit, így kevesebb az adó; több a munkanélküli, ami járulékkiesést okoz;\n- adócsökkentések, kedvezmények;\n- adóelkerülés, feketegazdaság, a profit adóparadicsomokba vagy offshore cégekbe mentése.\n\nA kiadásokat növelő tényezők:\n- a társadalom öregedése: több nyugdíj, nagyobb egészségügyi kiadás;\n- növekvő államadósság és kamatszint: nő a kamatkiadás;\n- válságkezelés: bankmentés (2008), járvány idején mentőcsomagok, energiaár-támogatás;\n- természeti katasztrófák utáni helyreállítás;\n- háború, növekvő katonai kiadások;\n- nagy állami beruházások, veszteséges állami vállalatok;\n- választások előtti juttatások.\n\nA tartós hiányt az állam hitelből finanszírozza, ezért nő az államadósság – és vele a jövőbeli kamatkiadás, ami újabb hiányt gerjeszthet.",
+   "diagram": null,
+   "concepts": [
+    "mérleghiány (deficit)",
+    "költségvetés",
+    "gazdasági visszaesés",
+    "adósság",
+    "adóparadicsom"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "A gazdasági visszaesés kettős csapás: egyszerre csökkenti a bevételeket és növeli a kiadásokat (munkanélküli-ellátás). Ezt érdemes kiemelni.",
+   "selfCheck": [
+    {
+     "q": "Miért növeli a társadalom öregedése a költségvetési hiányt?",
+     "a": "Mert nő a nyugdíj- és egészségügyi kiadás, miközben kevesebb az aktív kereső, aki adót és járulékot fizet."
+    },
+    {
+     "q": "Hogyan gerjeszti önmagát a hiány?",
+     "a": "A hiányt hitelből fedezik, nő az adósság és a kamatkiadás, ami újabb hiányt okoz."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A gazdasági visszaesés csökkenti az állam adóbevételeit.",
+     "true": true
+    },
+    {
+     "statement": "Az adóelkerülés növeli a költségvetés bevételeit.",
+     "true": false,
+     "correction": "Az adóelkerülés csökkenti a bevételeket, így növeli a hiányt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e4",
+   "explanation": "A működőtőke (közvetlen külföldi befektetés) a fogadó ország fejlődésére kedvező és kedvezőtlen hatást is gyakorol.\n\nKedvező hatások:\n- új munkahelyek, a munkanélküliség csökkenése;\n- korszerű technológia, menedzsmenttudás, szakképzés érkezik;\n- nő a termelés és az export, javul a külkereskedelmi mérleg;\n- beszállítói lehetőségek a hazai cégeknek;\n- adóbevétel, infrastruktúra-fejlesztés a telephely körül;\n- a gazdasági szerkezetváltás gyorsulása (pl. Kelet-Közép-Európa a rendszerváltás után, a privatizáció során).\n\nKedvezőtlen hatások:\n- a profit jelentős része külföldre áramlik (ezért nagyobb lehet a GDP, mint a GNI);\n- duális gazdasági szerkezet: modern, exportáló külföldi szektor és gyengébb hazai vállalatok;\n- gyakran alacsony hozzáadott értékű összeszerelés, a K+F külföldön marad;\n- az állam adókedvezményekkel, támogatásokkal versenyez a befektetőkért;\n- a tőke kivonulhat, ha máshol kedvezőbbek a feltételek;\n- környezetterhelés.\n\nA zöldmezős beruházás új kapacitást teremt; a barnamezős meglévő üzemet újít fel, kevesebb új munkahellyel, de kisebb területigénnyel.",
+   "diagram": null,
+   "concepts": [
+    "működőtőke",
+    "működőtőke-befektetés",
+    "barnamezős (rekonstrukciós) és zöldmezős beruházás",
+    "duális gazdasági szerkezet",
+    "privatizáció"
+   ],
+   "processes": [
+    "toke-aramlasa",
+    "telephelyvalasztas"
+   ],
+   "examTip": "Magyarország jó példa: a rendszerváltás utáni működőtőke-beáramlás modernizálta az ipart (pl. autóipar), de a profit egy része külföldre áramlik.",
+   "selfCheck": [
+    {
+     "q": "Miért lehet egy ország GDP-je nagyobb a GNI-jénél, ha sok működőtőkét fogad?",
+     "a": "Mert a külföldi cégek által megtermelt érték a GDP-ben benne van, de a profit kivitele csökkenti a nemzeti jövedelmet."
+    },
+    {
+     "q": "Mondj két kedvező hatást!",
+     "a": "Pl. munkahelyteremtés és korszerű technológia beáramlása."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A működőtőke beáramlása új munkahelyeket és technológiát hozhat.",
+     "true": true
+    },
+    {
+     "statement": "A működőtőke-befektetések profitja mindig a fogadó országban marad.",
+     "true": false,
+     "correction": "A profit jelentős része jellemzően a befektető anyavállalat országába áramlik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e5",
+   "explanation": "A nemzetgazdaságok (államok) hitelfelvétele önmagában nem rossz – a felhasználás és a mérték dönt.\n\nKedvező következmények:\n- olyan beruházások finanszírozása, amelyek később növekedést hoznak (utak, vasutak, energetika, oktatás);\n- válság idején a gazdaság élénkítése, munkahelyek megőrzése;\n- a rendkívüli helyzetek (katasztrófa, járvány) kezelése;\n- a terhek időben szétterítése.\n\nKedvezőtlen következmények:\n- nő az adósság és a kamatteher, ami a jövő költségvetését terheli (kevesebb pénz jut oktatásra, egészségügyre);\n- ha a hitelt fogyasztásra fordítják, nem termel bevételt a visszafizetéshez;\n- a külső (külföldi hitelezőknek járó) adósság miatt nő a kiszolgáltatottság; a devizában felvett hitel árfolyamkockázattal jár;\n- romlik a hitelminősítés, drágul az új hitel;\n- adósságcsapda: új hitelt kell felvenni a régi kamatainak fizetésére;\n- végül megszorítások, adóemelés válhat szükségessé.\n\nAz adósság lehet belső (hazai hitelezők, pl. lakossági állampapír) és külső adósság; a belső adósság kevésbé teszi kiszolgáltatottá az országot.",
+   "diagram": null,
+   "concepts": [
+    "adósság",
+    "eladósodás",
+    "külső és belső adósságállomány",
+    "adósságcsapda",
+    "államháztartás",
+    "kamat"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "A kulcsszó a hitel felhasználása: ha megtérülő beruházásra fordítják, a növekedés fedezheti a törlesztést; ha fogyasztásra, az eladósodáshoz vezet.",
+   "selfCheck": [
+    {
+     "q": "Miért kedvezőbb a belső, mint a külső adósság?",
+     "a": "Mert a kamat hazai szereplőkhöz áramlik, és kisebb az árfolyamkockázat és a külső kiszolgáltatottság."
+    },
+    {
+     "q": "Mi az adósságcsapda?",
+     "a": "Az a helyzet, amikor egy ország új hitelt vesz fel a régi hitelek kamatainak és törlesztésének fizetésére, így adóssága tovább nő."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A megtérülő infrastrukturális beruházásokra felvett hitel elősegítheti a gazdasági növekedést.",
+     "true": true
+    },
+    {
+     "statement": "Az állami hitelfelvétel nem terheli a jövő költségvetését.",
+     "true": false,
+     "correction": "A kamatokat és a törlesztést a jövőbeli költségvetésekből kell kifizetni, ami más kiadások elől veszi el a forrást."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e6",
+   "explanation": "Az eladósodásból a következő láncon át alakulhat ki adósságválság:\n\n1. Az ország tartósan többet költ, mint amennyit megtermel; a hiányt hitelből finanszírozza.\n2. A hitelt gyakran nem megtérülő beruházásra, hanem fogyasztásra vagy presztízsberuházásra fordítják.\n3. Külső sokk éri a gazdaságot: emelkednek a nemzetközi kamatok, csökken az exportcikkek (pl. nyersanyagok) ára, vagy gyengül a hazai valuta – a devizában felvett adósság hazai pénzben számolva megnő.\n4. A kamatfizetés egyre nagyobb részét viszi el a bevételeknek; új hitel kell a régi törlesztéséhez – ez az adósságcsapda.\n5. A hitelezők elveszítik a bizalmukat, a kamatok tovább nőnek, végül az ország fizetésképtelenné válik: kitör az adósságválság.\n\nKezelése: átütemezés (a törlesztés elhalasztása), adósságelengedés, a Nemzetközi Valutaalap (IMF) mentőhitele, amelyet szigorú feltételekhez (megszorítás, reformok) kötnek.\n\nPéldák: a latin-amerikai adósságválság az 1980-as években (Mexikó, 1982), Argentína 2001-ben, Görögország a 2010-es évek elején.",
+   "diagram": null,
+   "concepts": [
+    "eladósodás",
+    "adósságcsapda",
+    "adósságválság",
+    "átütemezés",
+    "Nemzetközi Valutaalap (IMF)",
+    "cserearányromlás"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Az esszében a folyamat lépései (okok – lefolyás – következmények) sorrendben jelenjenek meg; a külső sokk (kamatemelkedés, nyersanyagár-esés) a fordulópont.",
+   "selfCheck": [
+    {
+     "q": "Hogyan súlyosbítja a valuta gyengülése az adósságválságot?",
+     "a": "A devizában felvett adósság hazai pénzben megnő, így nehezebb törleszteni."
+    },
+    {
+     "q": "Mit jelent az átütemezés?",
+     "a": "Az adósság törlesztésének elhalasztását, a futamidő meghosszabbítását a hitelezőkkel kötött megállapodás alapján."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az 1980-as évek latin-amerikai adósságválsága Mexikó fizetésképtelenségével kezdődött.",
+     "true": true
+    },
+    {
+     "statement": "Az IMF mentőhitele feltételek nélkül, ajándékként jár az adósságválságba került országoknak.",
+     "true": false,
+     "correction": "Az IMF hitelt nyújt, amelyet vissza kell fizetni, és szigorú gazdaságpolitikai feltételekhez (megszorítás, reformok) köt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e7",
+   "explanation": "A nemzetközi pénzügyi szervezetek a világgazdaság stabilitását és a fejlődést szolgálják.\n\n- Nemzetközi Valutaalap (IMF): 1944-ben, a Bretton Woods-i konferencián hozták létre, székhelye Washington. Feladata a nemzetközi pénzügyi rendszer stabilitásának megőrzése: figyeli a tagországok gazdaságpolitikáját, és fizetésimérleg-gondok vagy adósságválság esetén rövid-közép lejáratú hitelt nyújt – szigorú feltételekhez kötve.\n- Világbank: szintén Bretton Woods-i intézmény, washingtoni székhellyel. Hosszú lejáratú, kedvezményes fejlesztési hiteleket és támogatást nyújt elsősorban a fejlődő országoknak (infrastruktúra, oktatás, egészségügy, szegénységcsökkentés).\n- Európai Újjáépítési és Fejlesztési Bank (EBRD): London; a volt szocialista országok piacgazdasági átalakulását segítette.\n- Európai Beruházási Bank: az EU bankja, uniós fejlesztéseket finanszíroz.\n- Európai Központi Bank: Frankfurt am Main; az euróövezet közös monetáris politikáját irányítja, fő célja az árstabilitás.\n\nEzek a szervezetek a monetáris világgazdaság szabályozói, de bírálják is őket, mert feltételeik gyakran fájdalmas megszorításokkal járnak.",
+   "diagram": null,
+   "concepts": [
+    "Nemzetközi Valutaalap (IMF)",
+    "Európai Központi Bank",
+    "monetáris világgazdaság",
+    "adósságválság"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "IMF vs. Világbank: az IMF a pénzügyi stabilitásért, rövidebb távú válságkezelésért felel; a Világbank hosszú távú fejlesztési projekteket finanszíroz.",
+   "selfCheck": [
+    {
+     "q": "Mi az IMF fő feladata?",
+     "a": "A nemzetközi pénzügyi stabilitás megőrzése, válság esetén feltételekhez kötött hitel nyújtása."
+    },
+    {
+     "q": "Hol van az Európai Központi Bank székhelye, és mi a fő célja?",
+     "a": "Frankfurt am Mainban; fő célja az euróövezet árstabilitása."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Világbank hosszú lejáratú fejlesztési hiteleket nyújt a fejlődő országoknak.",
+     "true": true
+    },
+    {
+     "statement": "Az Európai Központi Bank az összes EU-tagállam saját valutájának árfolyamát határozza meg.",
+     "true": false,
+     "correction": "Az EKB az euróövezet közös monetáris politikáját irányítja; az eurót nem használó tagállamoknak saját jegybankjuk van."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "6-4-a-monetaris-vilag--e8",
+   "explanation": "A problémamegoldó feladatok több pénzügyi fogalmat kapcsolnak össze. Ezeket a módszereket kell biztosan tudnod:\n\n- Kamatos kamat: a kamat a tőkéhez adódik, és a következő évben az is kamatozik. Végösszeg = tőke × (1 + kamatláb)^év. Pl. 1 000 000 Ft 5%-on 2 évre: 1 000 000 × 1,05 × 1,05 = 1 102 500 Ft.\n- Reálhozam ≈ kamatláb − infláció. Pl. 5%-os kamat és 3%-os infláció mellett kb. 2%.\n- Betétek összevetése: az EBKM (egységesített betéti kamatláb mutató) teszi összehasonlíthatóvá a betéteket.\n- Hitelek összevetése: a THM tartalmazza a kamaton kívüli díjakat is.\n- Lekötöttség (likviditás): a lekötött pénzhez idő előtt csak veszteséggel férsz hozzá; a hosszabb lekötés általában magasabb hozammal jár.\n- Árfolyamszámítás: devizába váltás osztással, vissza szorzással.\n\nMegoldási lépések: 1) gyűjtsd ki az adatokat, 2) döntsd el, milyen műveletek kellenek, 3) számolj lépésenként, mértékegységgel, 4) ellenőrizd az eredmény nagyságrendjét, 5) válaszolj a feltett kérdésre szöveggel is (pl. melyik ajánlat a jobb és miért).",
+   "diagram": null,
+   "concepts": [
+    "EBKM",
+    "THM",
+    "kamat",
+    "hozam",
+    "infláció",
+    "lekötöttség (likviditás)"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "A kamatos kamatnál ne add össze egyszerűen az éves kamatokat (2 × 5% = 10%), mert a második évben már a megnövelt tőke kamatozik.",
+   "selfCheck": [
+    {
+     "q": "Mennyi lesz 200 000 Ft 10%-os éves kamattal 2 év múlva, kamatos kamattal?",
+     "a": "200 000 × 1,1 × 1,1 = 242 000 Ft."
+    },
+    {
+     "q": "Melyik mutatóval hasonlítasz össze betétajánlatokat?",
+     "a": "Az EBKM-mel."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ha a betéti kamat kisebb az inflációnál, a megtakarítás reálértéke csökken.",
+     "true": true
+    },
+    {
+     "statement": "A THM a betétek hozamának összehasonlítására szolgáló mutató.",
+     "true": false,
+     "correction": "A THM a hitelek teljes költségét mutatja; betétek összehasonlítására az EBKM szolgál."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

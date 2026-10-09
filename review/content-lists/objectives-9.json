@@ -1,0 +1,579 @@
+[
+ {
+  "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe",
+  "title": "9.1. A kontinensek általános természet- és társadalomföldrajzi képe",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k1",
+    "level": "kozep",
+    "text": "Mutassa meg térképen, nevezze meg kontúrtérképen és jellemezze a kontinensek nagytájait, folyóit, tavait, jellegzetes térségeit, a résztémakörökben nevesített országcsoportokat, országokat, azok fővárosát és egyéb gazdasági központjait."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k2",
+    "level": "kozep",
+    "text": "Mondjon példákat a kontinensek fő erőforrásaira."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k3",
+    "level": "kozep",
+    "text": "Elemezze tematikus térképek alapján a geológiai szerkezet és az ásványkincsek összefüggéseit."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k4",
+    "level": "kozep",
+    "text": "Mutassa be a kontinensek természetföldrajzi adottságait éghajlati, növényzeti és talajtérképek összehasonlító elemzésével."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k5",
+    "level": "kozep",
+    "text": "Ismerje fel képek, ábrák, leírások és tematikus térképek alapján a földrajzi öveket, a kontinensek jellemző területeit, tipikus tájait."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k6",
+    "level": "kozep",
+    "text": "Ismertesse a népességkoncentrációk kialakulását, jellemzőit, a népesség egyenlőtlen elhelyezkedésének okait és következményeit."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k7",
+    "level": "kozep",
+    "text": "Mutassa be a kontinensek világgazdasági szerepét, annak változásait."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k8",
+    "level": "kozep",
+    "text": "Magyarázza meg a kontinensek országcsoportjainak eltérő ütemű gazdasági fejlődését, a területi fejlettségi különbségeket."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k9",
+    "level": "kozep",
+    "text": "Ismertesse a mezőgazdasági termelés egyes kontinenseken jellemző típusait és azok fontosabb terményeit."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k10",
+    "level": "kozep",
+    "text": "Sorolja fel a résztémakörökben nevesített országcsoportok, országok jellegzetes ásványkincseit, illetve tipikus gazdasági ágazatait."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k11",
+    "level": "kozep",
+    "text": "Mondjon példákat a földrészekről az emberi beavatkozás környezetkárosító hatásaira és ezek következményeire, a károsítás mérséklésének lehetőségeire."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e1",
+    "level": "emelt",
+    "text": "Ismertesse a kontinensek felépítésének lemeztektonikai hátterét."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e2",
+    "level": "emelt",
+    "text": "Elemezzen keresztmetszetet a kontinensek természeti adottságairól."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e3",
+    "level": "emelt",
+    "text": "Nevezzen meg sajátos kulturális értékeket az egyes országokban, országcsoportokban."
+   },
+   {
+    "id": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e4",
+    "level": "emelt",
+    "text": "Mutassa be a centrum, félperiféria és periféria térségek kapcsolatrendszerét."
+   }
+  ]
+ },
+ {
+  "id": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi",
+  "title": "9.2.1. Ázsia általános földrajzi jellemzői",
+  "parents": [
+   "9.2. Ázsia földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k1",
+    "level": "kozep",
+    "text": "Ismertesse az ázsiai nagy sivatagok kialakulásának okait."
+   },
+   {
+    "id": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k2",
+    "level": "kozep",
+    "text": "Mutassa be példák alapján a monszun szerepét a gazdasági élet jellemzőinek kialakulásában."
+   },
+   {
+    "id": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k3",
+    "level": "kozep",
+    "text": "Ismertesse a kontinens természeti jellemzőiből adódó veszélyhelyzeteket, a védekezés lehetőségeit."
+   },
+   {
+    "id": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k4",
+    "level": "kozep",
+    "text": "Mutassa be az ázsiai népességrobbanást statisztikai adatok segítségével, mondjon példákat a következményeire és az azok megoldására tett lépésekre."
+   },
+   {
+    "id": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--e1",
+    "level": "emelt",
+    "text": "Ismertesse példák segítségével az ősi kultúrák, a világvallások társadalmat, gazdaságot, környezetet befolyásoló szerepét."
+   },
+   {
+    "id": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--e2",
+    "level": "emelt",
+    "text": "Elemezze az élelmezési problémák kialakulásának okait, ismertesse a megoldásukra tett lépéseket."
+   }
+  ]
+ },
+ {
+  "id": "kina",
+  "title": "Kína",
+  "parents": [
+   "9.2. Ázsia földrajza",
+   "9.2.2. Ázsia regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "kina--k1",
+    "level": "kozep",
+    "text": "Ismertesse a népességszám növekedésének időbeli változásait diagramok alapján."
+   },
+   {
+    "id": "kina--k2",
+    "level": "kozep",
+    "text": "Magyarázza meg, hogyan lett Kína a világ meghatározó gazdasága."
+   },
+   {
+    "id": "kina--k3",
+    "level": "kozep",
+    "text": "Jellemezze a gazdasági fejlődés és a környezetátalakítás kapcsolatát, az ebből adódó környezeti veszélyeket."
+   },
+   {
+    "id": "kina--e1",
+    "level": "emelt",
+    "text": "Ismertesse a társadalmi-gazdasági fejlődés sajátos történelmi vonásait."
+   },
+   {
+    "id": "kina--e2",
+    "level": "emelt",
+    "text": "Értékelje források felhasználásával Kína népességpolitikáját."
+   },
+   {
+    "id": "kina--e3",
+    "level": "emelt",
+    "text": "Hasonlítsa össze Kelet- és Nyugat-Kína mezőgazdaságát."
+   },
+   {
+    "id": "kina--e4",
+    "level": "emelt",
+    "text": "Tárja fel a tengerparti és a belső területek fejlettségkülönbségének természeti alapjait, ennek következményeit."
+   }
+  ]
+ },
+ {
+  "id": "japan",
+  "title": "Japán",
+  "parents": [
+   "9.2. Ázsia földrajza",
+   "9.2.2. Ázsia regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "japan--k1",
+    "level": "kozep",
+    "text": "Mutassa be a szigethelyzet és a természeti erőforrások szűkösségének következményeit a gazdasági fejlődésben."
+   },
+   {
+    "id": "japan--k2",
+    "level": "kozep",
+    "text": "Támassza alá tényekkel Japán szerepét Ázsia gazdasági fejlődésében."
+   },
+   {
+    "id": "japan--e1",
+    "level": "emelt",
+    "text": "Ismertesse a társadalmi-gazdaság fejlődés sajátos történelmi vonásait."
+   },
+   {
+    "id": "japan--e2",
+    "level": "emelt",
+    "text": "Bizonyítsa a világpiac igényeihez való alkalmazkodás szerepét a gazdaság fejlődésében."
+   }
+  ]
+ },
+ {
+  "id": "india",
+  "title": "India",
+  "parents": [
+   "9.2. Ázsia földrajza",
+   "9.2.2. Ázsia regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "india--k1",
+    "level": "kozep",
+    "text": "Ismertesse az ország népesedési folyamatait és ezek összefüggését az élelmezéssel."
+   },
+   {
+    "id": "india--k2",
+    "level": "kozep",
+    "text": "Jellemezze a természeti adottságokhoz igazodó indiai mezőgazdaságot, nevezze meg fő terményeit."
+   },
+   {
+    "id": "india--k3",
+    "level": "kozep",
+    "text": "Mutassa be a duális gazdasági szerkezet sajátosságait."
+   },
+   {
+    "id": "india--e1",
+    "level": "emelt",
+    "text": "Ismertesse a társadalmi-gazdaság fejlődés sajátos történelmi vonásait."
+   },
+   {
+    "id": "india--e2",
+    "level": "emelt",
+    "text": "Támassza alá példákkal a társadalmi, vallási hagyományok szerepét India gazdasági életében."
+   },
+   {
+    "id": "india--e3",
+    "level": "emelt",
+    "text": "Értelmezze az ország szolgáltatás-kereskedelemben betöltött szerepét."
+   }
+  ]
+ },
+ {
+  "id": "delkelet-azsia",
+  "title": "Délkelet-Ázsia",
+  "parents": [
+   "9.2. Ázsia földrajza",
+   "9.2.2. Ázsia regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "delkelet-azsia--k1",
+    "level": "kozep",
+    "text": "Nevezze meg a térséghez tartozó országokat."
+   },
+   {
+    "id": "delkelet-azsia--k2",
+    "level": "kozep",
+    "text": "Mutassa be a térség országainak sajátos társadalmi-gazdasági fejlődését, azok természeti és társadalmi hátterét."
+   },
+   {
+    "id": "delkelet-azsia--k3",
+    "level": "kozep",
+    "text": "Értelmezze a térség világgazdasági jelentőségét."
+   }
+  ]
+ },
+ {
+  "id": "delnyugat-azsia",
+  "title": "Délnyugat-Ázsia",
+  "parents": [
+   "9.2. Ázsia földrajza",
+   "9.2.2. Ázsia regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "delnyugat-azsia--k1",
+    "level": "kozep",
+    "text": "Mutassa be a terület kőolajgazdagságának világgazdasági jelentőségét."
+   },
+   {
+    "id": "delnyugat-azsia--k2",
+    "level": "kozep",
+    "text": "Ismertesse példák alapján a kőolaj szerepét a térség országainak társadalmi-gazdasági életében."
+   },
+   {
+    "id": "delnyugat-azsia--k3",
+    "level": "kozep",
+    "text": "Értékelje a térség idegenforgalmi adottságait."
+   },
+   {
+    "id": "delnyugat-azsia--e1",
+    "level": "emelt",
+    "text": "Mutassa be a vallás meghatározó szerepét a társadalmi-gazdasági életben."
+   },
+   {
+    "id": "delnyugat-azsia--e2",
+    "level": "emelt",
+    "text": "Nevezze meg a török és az izraeli gazdaság jellemző vonásait és termékeit."
+   },
+   {
+    "id": "delnyugat-azsia--e3",
+    "level": "emelt",
+    "text": "Értelmezze Törökország kultúrák és kontinensek között betöltött híd szerepét."
+   },
+   {
+    "id": "delnyugat-azsia--e4",
+    "level": "emelt",
+    "text": "Ismertesse Izrael sajátos társadalmi-gazdasági fejlődését."
+   }
+  ]
+ },
+ {
+  "id": "9-3-ausztralia-es-oceania-foldrajza",
+  "title": "9.3. Ausztrália és Óceánia földrajza",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "9-3-ausztralia-es-oceania-foldrajza--k1",
+    "level": "kozep",
+    "text": "Jellemezze Ausztrália sajátos természeti adottságait, erőforrásait és mutassa be példák alapján ezek hatását a társadalmi-gazdasági életre."
+   },
+   {
+    "id": "9-3-ausztralia-es-oceania-foldrajza--e1",
+    "level": "emelt",
+    "text": "Ismertesse Óceánia fő földrajzi sajátosságait, a térség természeti és társadalmi-gazdasági jellemzőit."
+   }
+  ]
+ },
+ {
+  "id": "9-4-a-sarkvidekek-foldrajza",
+  "title": "9.4. A sarkvidékek földrajza",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "9-4-a-sarkvidekek-foldrajza--k1",
+    "level": "kozep",
+    "text": "Hasonlítsa össze a két sarkvidék földrajzi adottságait."
+   },
+   {
+    "id": "9-4-a-sarkvidekek-foldrajza--k2",
+    "level": "kozep",
+    "text": "Mutassa be az éghajlatváltozás térségre gyakorolt következményeit."
+   },
+   {
+    "id": "9-4-a-sarkvidekek-foldrajza--e1",
+    "level": "emelt",
+    "text": "Ismertesse az Antarktikán működő kutatóállomások jelentőségét."
+   }
+  ]
+ },
+ {
+  "id": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi",
+  "title": "9.5.1. Afrika általános földrajzi jellemzői",
+  "parents": [
+   "9.5. Afrika földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k1",
+    "level": "kozep",
+    "text": "Ismertesse a népességrobbanás következményeit a kontinensen."
+   },
+   {
+    "id": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k2",
+    "level": "kozep",
+    "text": "Elemezze a gazdasági fejlődést nehezítő tényezőket, a felzárkózás lehetőségeit."
+   },
+   {
+    "id": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k3",
+    "level": "kozep",
+    "text": "Mondjon példákat a gazdaságilag fejlett és elmaradott területekre, országokra, jellemző gazdasági ágazatokra."
+   },
+   {
+    "id": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k4",
+    "level": "kozep",
+    "text": "Mutassa be a trópusi mezőgazdaság jellemző formáit és az azokhoz kötődő életmódok különbségeit."
+   },
+   {
+    "id": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--e1",
+    "level": "emelt",
+    "text": "Ismertesse a népek és kultúrák találkozásából adódó problémákat példák alapján."
+   }
+  ]
+ },
+ {
+  "id": "9-5-2-afrika-regionalis-foldrajza",
+  "title": "9.5.2. Afrika regionális földrajza",
+  "parents": [
+   "9.5. Afrika földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "9-5-2-afrika-regionalis-foldrajza--k1",
+    "level": "kozep",
+    "text": "Hasonlítsa össze Észak-Afrika és Trópusi-Afrika (szubszaharai Afrika) földrajzi adottságait."
+   },
+   {
+    "id": "9-5-2-afrika-regionalis-foldrajza--k2",
+    "level": "kozep",
+    "text": "Ismertesse a Száhel-öv környezeti problémáit, az ezek kialakulásában szerepet játszó tényezőket."
+   },
+   {
+    "id": "9-5-2-afrika-regionalis-foldrajza--e1",
+    "level": "emelt",
+    "text": "Magyarázza meg az ősi kultúra és a globalizáció sajátos kapcsolódását Egyiptom példáján."
+   },
+   {
+    "id": "9-5-2-afrika-regionalis-foldrajza--e2",
+    "level": "emelt",
+    "text": "Igazolja források felhasználásával, hogy a Dél-afrikai Köztársaság a kontinens meghatározó gazdasági központja."
+   }
+  ]
+ },
+ {
+  "id": "9-6-1-amerika-altalanos-foldrajza",
+  "title": "9.6.1. Amerika általános földrajza",
+  "parents": [
+   "9.6. Amerika földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "9-6-1-amerika-altalanos-foldrajza--k1",
+    "level": "kozep",
+    "text": "Hasonlítsa össze Észak-, Közép- és Dél-Amerika természeti adottságait, erőforrásait."
+   },
+   {
+    "id": "9-6-1-amerika-altalanos-foldrajza--k2",
+    "level": "kozep",
+    "text": "Igazolja példákkal az észak-déli nyitottság és a kelet-nyugati zártság éghajlati következményeit, veszélyhelyzeteit Észak-Amerikában."
+   },
+   {
+    "id": "9-6-1-amerika-altalanos-foldrajza--k3",
+    "level": "kozep",
+    "text": "Mutassa be a kontinens társadalmi-kulturális alapon történő felosztásának jellemzőit, a népességkeveredés következményeit."
+   },
+   {
+    "id": "9-6-1-amerika-altalanos-foldrajza--k4",
+    "level": "kozep",
+    "text": "Jellemezze az ültetvényeken és a farmokon folyó termelést."
+   },
+   {
+    "id": "9-6-1-amerika-altalanos-foldrajza--e1",
+    "level": "emelt",
+    "text": "Ismertesse az urbanizáció kontinensrészenként eltérő vonásait, nevezzen meg agglomerálódó térségeket."
+   },
+   {
+    "id": "9-6-1-amerika-altalanos-foldrajza--e2",
+    "level": "emelt",
+    "text": "Mutassa be amerikai példák alapján a népesség városba áramlásának okait és jellemzőit."
+   },
+   {
+    "id": "9-6-1-amerika-altalanos-foldrajza--e3",
+    "level": "emelt",
+    "text": "Fejtse ki a kvaterner szektor szerepét a modern amerikai gazdaság fejlődésében."
+   }
+  ]
+ },
+ {
+  "id": "amerikai-egyesult-allamok",
+  "title": "Amerikai Egyesült Államok",
+  "parents": [
+   "9.6. Amerika földrajza",
+   "9.6.2. Amerika regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "amerikai-egyesult-allamok--k1",
+    "level": "kozep",
+    "text": "Mutassa be az USA világgazdasági vezető szerepét és annak kialakulását."
+   },
+   {
+    "id": "amerikai-egyesult-allamok--k2",
+    "level": "kozep",
+    "text": "Jellemezze az ország gazdaságát, a gazdaság térbeli elrendeződésének és szerkezetének átalakulását."
+   },
+   {
+    "id": "amerikai-egyesult-allamok--k3",
+    "level": "kozep",
+    "text": "Mondjon példákat az amerikai TNC-k világgazdasági szerepére."
+   },
+   {
+    "id": "amerikai-egyesult-allamok--e1",
+    "level": "emelt",
+    "text": "Ismertesse a népesség összetételének változásait, a bevándorlás szerepét az USA társadalmi-gazdasági fejlődésében."
+   }
+  ]
+ },
+ {
+  "id": "kanada",
+  "title": "Kanada",
+  "parents": [
+   "9.6. Amerika földrajza",
+   "9.6.2. Amerika regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "kanada--e1",
+    "level": "emelt",
+    "text": "Jellemezze az USA-val kialakult szoros gazdasági együttműködés földrajzi alapjait, ismertesse az ország USMCA-ban betöltött szerepét."
+   }
+  ]
+ },
+ {
+  "id": "latin-amerika",
+  "title": "Latin-Amerika",
+  "parents": [
+   "9.6. Amerika földrajza",
+   "9.6.2. Amerika regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "latin-amerika--k1",
+    "level": "kozep",
+    "text": "Ismertesse a Latin-Amerika gazdasági fejlődését befolyásoló tényezőket."
+   },
+   {
+    "id": "latin-amerika--e1",
+    "level": "emelt",
+    "text": "Ismerje fel a latin-amerikai gazdasági fejlődés történelmi összefüggéseit."
+   }
+  ]
+ },
+ {
+  "id": "mexiko",
+  "title": "Mexikó",
+  "parents": [
+   "9.6. Amerika földrajza",
+   "9.6.2. Amerika regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "mexiko--e1",
+    "level": "emelt",
+    "text": "Ismertesse az USA és Mexikó határán kialakult gazdasági övezet jellemzőit, az ország USMCA-ban betöltött szerepét."
+   }
+  ]
+ },
+ {
+  "id": "brazilia",
+  "title": "Brazília",
+  "parents": [
+   "9.6. Amerika földrajza",
+   "9.6.2. Amerika regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "brazilia--e1",
+    "level": "emelt",
+    "text": "Igazolja, hogy Brazília a feltörekvő nagygazdaságok csoportjába tartozik."
+   }
+  ]
+ },
+ {
+  "id": "banankoztarsasagok-adoparadicsomok",
+  "title": "„Banánköztársaságok”, adóparadicsomok",
+  "parents": [
+   "9.6. Amerika földrajza",
+   "9.6.2. Amerika regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "banankoztarsasagok-adoparadicsomok--e1",
+    "level": "emelt",
+    "text": "Mondjon példát ún. „banánköztársaságra”."
+   },
+   {
+    "id": "banankoztarsasagok-adoparadicsomok--e2",
+    "level": "emelt",
+    "text": "Ismertesse a „banánköztársaságok” gazdasági sebezhetőségének okait és annak következményeit, értelmezze világgazdasági szerepüket."
+   },
+   {
+    "id": "banankoztarsasagok-adoparadicsomok--e3",
+    "level": "emelt",
+    "text": "Nevezzen meg adóparadicsomokat a közép-amerikai térségben."
+   },
+   {
+    "id": "banankoztarsasagok-adoparadicsomok--e4",
+    "level": "emelt",
+    "text": "Fogalmazza meg az adóparadicsomok gazdasági jellemzőit, ismertesse világgazdasági szerepüket."
+   }
+  ]
+ }
+]

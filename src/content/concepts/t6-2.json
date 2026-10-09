@@ -1,0 +1,4751 @@
+{
+  "entries": [
+    {
+      "id": "integracio",
+      "term": "integráció",
+      "aliases": [
+        "gazdasági integráció"
+      ],
+      "sourceLabels": [
+        "integráció"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Országok gazdasági (és politikai) összefonódása, együttműködése, amelyben a tagok közös szabályokat fogadnak el és fokozatosan lebontják az egymás közötti korlátokat. Szintjei egymásra épülnek: kedvezményes kereskedelmi övezet → szabadkereskedelmi övezet → vámunió → közös piac → gazdasági unió → pénzügyi (monetáris) unió → politikai unió.",
+      "example": "Az Európai Unió a legmagasabb szintre jutott regionális integráció: közös piac, és a tagállamok egy része közös pénzt (eurót) használ.",
+      "related": [
+        "kedvezmenyes-kereskedelmi-ovezet",
+        "szabadkereskedelmi-ovezet",
+        "vamunio",
+        "kozos-piac",
+        "gazdasagi-unio",
+        "penzugyi-unio",
+        "politikai-unio",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kedvezmenyes-kereskedelmi-ovezet",
+      "term": "kedvezményes (preferenciális) kereskedelmi övezet",
+      "aliases": [
+        "preferenciális kereskedelmi övezet",
+        "kedvezményes kereskedelmi övezet"
+      ],
+      "sourceLabels": [
+        "kedvezményes (preferenciális) kereskedelmi övezet"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Az integráció legalacsonyabb szintje: a tagországok egymás termékeire csökkentett vámokat (vámkedvezményt) alkalmaznak, de a vámokat nem szüntetik meg teljesen.",
+      "example": "Figyelj arra, hogy itt a vámok csak csökkennek, a szabadkereskedelmi övezetben viszont megszűnnek.",
+      "related": [
+        "integracio",
+        "szabadkereskedelmi-ovezet"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szabadkereskedelmi-ovezet",
+      "term": "szabadkereskedelmi övezet",
+      "sourceLabels": [
+        "szabadkereskedelmi övezet"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Olyan integrációs szint, amelyben a tagországok egymás között megszüntetik a vámokat és a mennyiségi korlátozásokat, de a kívülálló országokkal szemben mindegyik saját vámpolitikát folytat.",
+      "example": "Az USA, Mexikó és Kanada egyezménye (USMCA) szabadkereskedelmi övezetet hozott létre.",
+      "examplePlaces": [
+        "amerika--orszagok--amerikai-egyesult-allamok",
+        "amerika--orszagok--mexiko",
+        "amerika--orszagok--kanada"
+      ],
+      "related": [
+        "integracio",
+        "vamunio",
+        "usmca"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vamunio",
+      "term": "vámunió",
+      "sourceLabels": [
+        "vámunió"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "A szabadkereskedelmi övezetnél magasabb szint: a tagok között nincs vám, és a külső országokkal szemben közös külső vámot (egységes vámpolitikát) alkalmaznak.",
+      "example": "Az Európai Unió tagállamai vámuniót alkotnak: egy kínai termékre ugyanaz a vám vonatkozik, akár Rotterdamban, akár Hamburgban lép be.",
+      "related": [
+        "szabadkereskedelmi-ovezet",
+        "kozos-piac",
+        "europai-unio",
+        "mercosur"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozos-piac",
+      "term": "közös piac",
+      "aliases": [
+        "egységes belső piac"
+      ],
+      "sourceLabels": [
+        "közös piac"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "A vámunión túl a tagországok között megvalósul a négy alapszabadság: az áruk, a szolgáltatások, a tőke és a munkaerő (személyek) szabad áramlása.",
+      "example": "Az EU egységes belső piacán egy magyar orvos szabadon vállalhat munkát Ausztriában.",
+      "related": [
+        "vamunio",
+        "gazdasagi-unio",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gazdasagi-unio",
+      "term": "gazdasági unió",
+      "sourceLabels": [
+        "gazdasági unió"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "A közös piacra épülő szint, amelyben a tagállamok összehangolják gazdaságpolitikájukat (pl. adó-, költségvetési, mezőgazdasági, regionális politikájukat), és közös gazdaságpolitikai döntéseket hoznak.",
+      "example": "Az EU közös agrárpolitikája és regionális politikája a gazdasági unió elemei.",
+      "related": [
+        "kozos-piac",
+        "penzugyi-unio",
+        "regionalis-politika"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "penzugyi-unio",
+      "term": "pénzügyi (monetáris) unió",
+      "aliases": [
+        "monetáris unió",
+        "gazdasági és monetáris unió"
+      ],
+      "sourceLabels": [
+        "pénzügyi (monetáris) unió"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Olyan integrációs szint, amelyben a tagok közös pénzt vezetnek be, és a monetáris politikát (pl. az alapkamat meghatározását) egy közös központi bank irányítja.",
+      "example": "Az euróövezet az EU tagállamainak egy része; monetáris politikáját az Európai Központi Bank irányítja Frankfurt am Mainban. Magyarország EU-tag, de nem vezette be az eurót.",
+      "examplePlaces": [
+        "europa--varosok--frankfurt-am-main"
+      ],
+      "related": [
+        "gazdasagi-unio",
+        "politikai-unio",
+        "europai-kozponti-bank"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "politikai-unio",
+      "term": "politikai unió",
+      "sourceLabels": [
+        "politikai unió"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Az integráció legmagasabb szintje, amelyben a tagállamok közös kül-, biztonság- és védelempolitikát folytatnak, és szuverenitásuk jelentős részét közös intézményekre ruházzák.",
+      "example": "Az EU közös kül- és biztonságpolitikája a politikai unió felé mutat, de teljes politikai unió még nem jött létre.",
+      "related": [
+        "penzugyi-unio",
+        "integracio",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "regionalis-egyuttmukodes",
+      "term": "regionális együttműködés",
+      "sourceLabels": [
+        "regionális együttműködés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Földrajzilag egymáshoz közel fekvő országok (vagy országrészek) gazdasági, politikai, kulturális együttműködése közös érdekeik alapján. Kialakulását a földrajzi közelség, a hasonló fejlettség, a közös történelem és a kiegészítő gazdasági szerkezet segíti.",
+      "example": "A Visegrádi Együttműködés (V4) Közép-Európa négy országának regionális együttműködése.",
+      "related": [
+        "integracio",
+        "visegradi-egyuttmukodes",
+        "asean",
+        "euroregio"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "regionalis-politika",
+      "term": "regionális politika",
+      "aliases": [
+        "kohéziós politika"
+      ],
+      "sourceLabels": [
+        "regionális politika"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Az a politika, amely a régiók közötti társadalmi-gazdasági fejlettségbeli különbségek mérséklésére törekszik, elsősorban az elmaradott térségek támogatásával. Az EU-ban a kohéziós (felzárkóztatási) politika, amely a közös költségvetésből finanszíroz fejlesztéseket.",
+      "example": "Uniós forrásból épült utak, szennyvíztisztítók Magyarország kevésbé fejlett régióiban.",
+      "related": [
+        "regio",
+        "europai-unio",
+        "eu-tamogatas",
+        "tarsadalmi-gazdasagi-egyenlotlenseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "regio",
+      "term": "régió",
+      "sourceLabels": [
+        "régió"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Valamilyen szempontból (természeti, gazdasági, társadalmi, közigazgatási) egységes, a környezetétől elkülöníthető terület. Az EU-ban a statisztikai-tervezési régiók a regionális politika és a támogatások elosztásának területi egységei.",
+      "example": "Magyarország statisztikai régiói közé tartozik a Budapest régió.",
+      "examplePlaces": [
+        "magyarorszag--nagyregiok-regiok--budapest-regio"
+      ],
+      "related": [
+        "regionalis-politika",
+        "euroregio"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "EU",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "euroregio",
+      "term": "eurorégió",
+      "sourceLabels": [
+        "eurorégió"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.2. Integrációs folyamatok",
+      "level": "kozep",
+      "definition": "Országhatárokon átnyúló, szomszédos országok határ menti területeinek (megyék, városok, régiók) együttműködése a közös gazdasági, közlekedési, környezetvédelmi és kulturális problémák megoldására.",
+      "example": "A Kárpátok Eurorégió magyar, szlovák, lengyel, ukrán és román határ menti területeket kapcsol össze.",
+      "examplePlaces": [
+        "europa--tajak--karpatok"
+      ],
+      "related": [
+        "karpatok-euroregio",
+        "regio",
+        "regionalis-egyuttmukodes"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "Európa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "koolajar-robbanas",
+      "term": "kőolajár-robbanás",
+      "aliases": [
+        "olajválság",
+        "olajárrobbanás"
+      ],
+      "sourceLabels": [
+        "kőolajár-robbanás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "A kőolaj világpiaci árának hirtelen, többszörösére emelkedése az 1970-es években (1973, 1979), amelyet az OPEC-országok kitermelés-korlátozása és áremelése váltott ki. Hatására energiaválság, gazdasági visszaesés, majd világgazdasági korszakváltás következett.",
+      "example": "Az 1973-as olajválság után a fejlett országokban takarékosabb autók és energiatakarékos technológiák terjedtek el.",
+      "examplePlaces": [
+        "azsia--orszagok--szaud-arabia"
+      ],
+      "related": [
+        "opec",
+        "vilaggazdasagi-korszakvaltas",
+        "energiavalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság",
+        "ásványkincsek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "turtermelesi-valsag",
+      "term": "túltermelési válság",
+      "sourceLabels": [
+        "túltermelési válság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "Gazdasági válság, amelyben a megtermelt áruk mennyisége meghaladja a fizetőképes keresletet: az áruk eladhatatlanná válnak, az árak esnek, a termelés visszaesik, nő a munkanélküliség.",
+      "example": "Az 1929–1933-as nagy gazdasági világválság klasszikus túltermelési válság volt.",
+      "related": [
+        "tomegaru-termeles",
+        "elelmiszer-turtermeles"
+      ],
+      "tags": [
+        "6-témakör",
+        "gazdaság",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tomegaru-termeles",
+      "term": "tömegáru-termelés",
+      "aliases": [
+        "tömegtermelés"
+      ],
+      "sourceLabels": [
+        "tömegáru-termelés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "Egységes (szabványosított) termékek nagy sorozatban, futószalagon, olcsón történő előállítása. A 20. század első felében terjedt el, és a fogyasztói társadalom kialakulásának alapja lett.",
+      "example": "Ford T-modellje az első futószalagon gyártott tömegautó volt.",
+      "related": [
+        "turtermelesi-valsag",
+        "fogyasztoi-tarsadalom",
+        "tudomanyos-technikai-forradalom"
+      ],
+      "tags": [
+        "6-témakör",
+        "ipar",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tudomanyos-technikai-forradalom",
+      "term": "tudományos-technikai forradalom",
+      "sourceLabels": [
+        "tudományos-technikai forradalom"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "A 20. század közepétől kibontakozó folyamat, amelyben a tudomány közvetlen termelőerővé vált: a kutatási eredmények gyorsan beépülnek a termelésbe. Jellemző területei az elektronika, a számítástechnika, az automatizálás, az atomenergia, az űrkutatás és a biotechnológia.",
+      "example": "A Szilícium-völgy a mikroelektronika és az informatika K+F-központjaként a tudományos-technikai forradalom jelképe.",
+      "examplePlaces": [
+        "amerika--tajak--szilicium-volgy"
+      ],
+      "related": [
+        "vilaggazdasagi-korszakvaltas",
+        "globalizacio",
+        "tomegaru-termeles"
+      ],
+      "tags": [
+        "6-témakör",
+        "gazdaság",
+        "ipar",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "globalizacio",
+      "term": "globalizáció",
+      "sourceLabels": [
+        "globalizáció"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "A gazdasági, politikai, kulturális és információs kapcsolatok világméretűvé válása, amelynek során a nemzetgazdaságok egyre szorosabban összefonódnak, és egységes, egymástól kölcsönösen függő világgazdaság jön létre. Fő mozgatói a transznacionális vállalatok, a nemzetközi tőkeáramlás, a közlekedés és az infokommunikáció fejlődése.",
+      "example": "Egy okostelefont az USA-ban terveznek, alkatrészeit több ázsiai országban gyártják, Kínában szerelik össze, és világszerte értékesítik.",
+      "related": [
+        "globalis-vilaggazdasag",
+        "transznacionalis-vallalat",
+        "vilagtermek",
+        "nemzetkozi-tokearamlas",
+        "tarsadalmi-gazdasagi-egyenlotlenseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vilaggazdasagi-korszakvaltas",
+      "term": "világgazdasági korszakváltás",
+      "sourceLabels": [
+        "világgazdasági korszakváltás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "Az 1970-es évek kőolajár-robbanásai után bekövetkezett szerkezeti átalakulás: az energia- és nyersanyagigényes, tömegtermelésre épülő ipari fejlődést a tudás- és tőkeigényes, korszerű technológiájú ágazatok és a szolgáltatások térnyerése váltotta fel. A hagyományos iparvidékek hanyatlottak, a TNC-k és a globalizáció szerepe megnőtt.",
+      "example": "A Ruhr-vidék szén- és acélipara válságba került, helyét fokozatosan szolgáltatások és új iparágak vették át.",
+      "examplePlaces": [
+        "europa--iparvidekek--ruhr-videk"
+      ],
+      "related": [
+        "koolajar-robbanas",
+        "tudomanyos-technikai-forradalom",
+        "globalis-vilaggazdasag"
+      ],
+      "tags": [
+        "6-témakör",
+        "gazdaság",
+        "globalizáció",
+        "ipar"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "globalis-vilaggazdasag",
+      "term": "globális világgazdaság",
+      "sourceLabels": [
+        "globális világgazdaság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "A globalizáció eredményeként kialakult, egységes világméretű gazdasági rendszer, amelyben a termelés, a kereskedelem és a pénzügyek országhatároktól függetlenül, hálózatszerűen szerveződnek. Meghatározó szereplői a TNC-k, a nemzetközi pénzügyi központok és a nemzetközi szervezetek.",
+      "example": "Egy New York-i tőzsdei esés órákon belül hatással van a tokiói és londoni piacokra is.",
+      "examplePlaces": [
+        "amerika--varosok--new-york",
+        "europa--varosok--london",
+        "azsia--varosok--tokio"
+      ],
+      "related": [
+        "globalizacio",
+        "transznacionalis-vallalat",
+        "monetaris-vilaggazdasag",
+        "wto"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "transznacionalis-vallalat",
+      "term": "transznacionális vállalat (TNC)",
+      "aliases": [
+        "TNC",
+        "transznacionális vállalat"
+      ],
+      "sourceLabels": [
+        "transznacionális vállalat (TNC)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "Világméretekben szervezett nagyvállalat, amely termelését és szolgáltatásait országhatárokon átnyúlóan, a telepítő tényezők (olcsó munkaerő, piac, nyersanyag, adókedvezmény) kihasználásával osztja el. Egy központ (anyavállalat) irányítja a sok országban működő leányvállalatokat.",
+      "example": "Az autóipari, olajipari és informatikai óriáscégek (pl. a Toyota, a Shell, a Microsoft) TNC-k; Magyarországon is számos leányvállalatuk működik.",
+      "related": [
+        "anyavallalat",
+        "leanyvallalat",
+        "multinacionalis-vallalat",
+        "globalizacio",
+        "mukodotoke-befektetes"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "anyavallalat",
+      "term": "anyavállalat",
+      "sourceLabels": [
+        "anyavállalat"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "A transznacionális vállalat irányító központja, amely a stratégiai döntéseket hozza, a kutatás-fejlesztést, a pénzügyeket és a marketinget irányítja, és a leányvállalatok tulajdonosa. Rendszerint fejlett (centrum) országban, a cég eredeti hazájában működik.",
+      "example": "A Volkswagen anyavállalata Németországban (Wolfsburgban) van.",
+      "examplePlaces": [
+        "europa--orszagok--nemetorszag"
+      ],
+      "related": [
+        "transznacionalis-vallalat",
+        "leanyvallalat"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "leanyvallalat",
+      "term": "leányvállalat",
+      "sourceLabels": [
+        "leányvállalat"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "Az anyavállalat (részben vagy egészben) tulajdonában álló, annak irányítása alatt működő, de jogilag önálló vállalat, gyakran más országban. Feladata többnyire a termelés, összeszerelés vagy a helyi piac kiszolgálása.",
+      "example": "A németországi autógyárak magyarországi gyárai leányvállalatként működnek.",
+      "related": [
+        "anyavallalat",
+        "transznacionalis-vallalat",
+        "mukodotoke-befektetes"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tarsadalmi-gazdasagi-egyenlotlenseg",
+      "term": "társadalmi-gazdasági egyenlőtlenség",
+      "sourceLabels": [
+        "társadalmi-gazdasági egyenlőtlenség"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "Országok, térségek vagy társadalmi csoportok közötti különbség a jövedelem, a vagyon, az életkörülmények, az egészségügyi ellátás és a művelődési lehetőségek terén. A globalizáció előnyeit főként a fejlett országok tudják kihasználni, ezért a centrum és a periféria közötti szakadék sokszor nő.",
+      "example": "Az egy főre jutó GDP és a várható élettartam is többszörös különbséget mutat Nyugat-Európa és a Szahel-övezet országai között.",
+      "related": [
+        "globalizacio",
+        "regionalis-politika",
+        "ehsegovezet"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "társadalom",
+        "globális-problémák"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vilagtermek",
+      "term": "világtermék",
+      "sourceLabels": [
+        "világtermék"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "kozep",
+      "definition": "Olyan termék, amelyet világszerte azonos márkanéven és minőségben, egységes arculattal forgalmaznak, és amelynek előállításában gyakran több ország vesz részt.",
+      "example": "A Coca-Cola, a McDonald's hamburgere vagy egy ismert márkájú okostelefon világtermék.",
+      "related": [
+        "globalizacio",
+        "transznacionalis-vallalat"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "multinacionalis-vallalat",
+      "term": "multinacionális vállalat",
+      "sourceLabels": [
+        "multinacionális vállalat"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.3. A globalizáció",
+      "level": "emelt",
+      "definition": "Több országban telephellyel (leányvállalattal) rendelkező nagyvállalat. A magyar tankönyvek egy része így nevezi a több ország tőkéjének összefonódásával létrejött vállalatot; a köznyelvben gyakran a TNC szinonimája.",
+      "example": "A holland–brit tőke összefonódásával létrejött Unilever multinacionális vállalatként jött létre.",
+      "related": [
+        "transznacionalis-vallalat",
+        "anyavallalat",
+        "leanyvallalat"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "penz",
+      "term": "pénz",
+      "sourceLabels": [
+        "pénz"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Általánosan elfogadott csereeszköz, amely értékmérő, forgalmi (csere)eszköz, fizetési eszköz és felhalmozási eszköz szerepet tölt be. Története az árucserétől az árupénzen, a fém- és papírpénzen át a bankszámlapénzig vezet.",
+      "example": "A forint Magyarország törvényes fizetőeszköze.",
+      "related": [
+        "arucsere",
+        "arupenz",
+        "keszpenz",
+        "bankszamlapenz"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "keszpenz",
+      "term": "készpénz",
+      "sourceLabels": [
+        "készpénz"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "A pénz kézzel fogható formája: a papírpénz (bankjegy) és a fémpénz (érme). Kibocsátója a jegybank.",
+      "example": "Forint bankjegyeket és érméket a Magyar Nemzeti Bank bocsát ki.",
+      "related": [
+        "papirpenz",
+        "femperz",
+        "bankszamlapenz",
+        "penz"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "papirpenz",
+      "term": "papírpénz (bankjegy)",
+      "aliases": [
+        "papírpénz",
+        "bankjegy"
+      ],
+      "sourceLabels": [
+        "papírpénz (bankjegy)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Papírból (ma gyakran polimerből) készült, hamisítás elleni védelemmel ellátott készpénz, amelyet a jegybank bocsát ki; értékét nem az anyaga, hanem az állam és a jegybank iránti bizalom adja.",
+      "example": "Az euróbankjegyek kibocsátását az Európai Központi Bank engedélyezi.",
+      "related": [
+        "keszpenz",
+        "femperz",
+        "penz"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "femperz",
+      "term": "fémpénz (érme)",
+      "aliases": [
+        "fémpénz",
+        "érme"
+      ],
+      "sourceLabels": [
+        "fémpénz (érme)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Fémből vert készpénz. Régen nemesfémből készült, és értékét a fém értéke adta; ma váltópénz, amelynek névértéke jóval nagyobb, mint anyagának értéke.",
+      "example": "A forintérmék kisebb összegű fizetésekre szolgálnak.",
+      "related": [
+        "keszpenz",
+        "papirpenz",
+        "arupenz"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bankszamlapenz",
+      "term": "bankszámlapénz",
+      "aliases": [
+        "számlapénz"
+      ],
+      "sourceLabels": [
+        "bankszámlapénz"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Bankszámlán nyilvántartott, készpénzzé nem alakított pénz (számlapénz), amellyel átutalással, bankkártyával vagy mobilfizetéssel lehet fizetni. Ma a pénzforgalom döntő része ebben a formában zajlik.",
+      "example": "A fizetésed a munkáltatótól átutalással érkezik a bankszámládra.",
+      "related": [
+        "folyoszamla",
+        "keszpenz",
+        "deviza"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "folyoszamla",
+      "term": "folyószámla",
+      "aliases": [
+        "bankszámla"
+      ],
+      "sourceLabels": [
+        "folyószámla"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Banknál vezetett számla, amelyen a tulajdonos pénzét tartja, és amelyről a mindennapi fizetéseit (átutalás, kártyás fizetés, csoportos beszedés) bonyolítja; jóváírásokat és terheléseket folyamatosan rögzítik rajta.",
+      "example": "A rezsiszámlák csoportos beszedéssel a folyószámláról is kiegyenlíthetők.",
+      "related": [
+        "bankszamlapenz",
+        "kamat"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "valuta",
+      "term": "valuta",
+      "sourceLabels": [
+        "valuta"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Külföldi fizetőeszköz készpénz (bankjegy, érme) formájában.",
+      "example": "A horvátországi nyaraláshoz pénzváltóban vásárolt eurobankjegy valuta.",
+      "related": [
+        "deviza",
+        "valutaarfolyam",
+        "konvertibilitas"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "deviza",
+      "term": "deviza",
+      "sourceLabels": [
+        "deviza"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Külföldi fizetőeszköz nem készpénz, hanem számlapénz formájában (pl. devizaszámlán lévő összeg, átutalás, külföldi pénzre szóló követelés).",
+      "example": "Figyelj arra: a pénztárcádban lévő euró valuta, a bankszámládon lévő euró deviza.",
+      "related": [
+        "valuta",
+        "devizahitel",
+        "valutaarfolyam"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "konvertibilitas",
+      "term": "konvertibilitás",
+      "sourceLabels": [
+        "konvertibilitás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Egy pénznem szabad átválthatósága más pénznemekre. Teljesen konvertibilis az a valuta, amely korlátozás nélkül, piaci árfolyamon átváltható.",
+      "example": "A forint ma szabadon átváltható pénznem, ami a külföldi befektetések egyik feltétele.",
+      "related": [
+        "valuta",
+        "valutaarfolyam",
+        "nemzetkozi-tokearamlas"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "valutaarfolyam",
+      "term": "valutaárfolyam",
+      "aliases": [
+        "árfolyam",
+        "devizaárfolyam"
+      ],
+      "sourceLabels": [
+        "valutaárfolyam"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Két pénznem egymáshoz viszonyított értéke: megmutatja, hogy egy egység külföldi pénz hány egység hazai pénzért vásárolható meg. Kialakulását a kereslet és kínálat, valamint a jegybank politikája befolyásolja.",
+      "example": "Ha a forint gyengül az euróval szemben, drágul a külföldi nyaralás, de jövedelmezőbb lesz az export.",
+      "related": [
+        "valuta",
+        "deviza",
+        "konvertibilitas",
+        "devizahitel"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ertekpapirok",
+      "term": "értékpapírok",
+      "aliases": [
+        "értékpapír"
+      ],
+      "sourceLabels": [
+        "értékpapírok (állampapír, kötvény, részvény)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Pénzügyi követelést vagy tulajdonjogot megtestesítő okiratok (ma többnyire elektronikus formában), amelyek adhatók-vehetők. Fő típusaik az állampapír, a kötvény és a részvény.",
+      "example": "A lakossági állampapírok és a tőzsdén forgó részvények is értékpapírok.",
+      "related": [
+        "allampapir",
+        "kotveny",
+        "reszveny",
+        "ertekpapir-befektetes",
+        "ertek-es-arutozsde"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "allampapir",
+      "term": "állampapír",
+      "sourceLabels": [],
+      "parent": "ertekpapirok",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Az állam által kibocsátott hitelviszonyt megtestesítő értékpapír: az állam kölcsönt vesz fel a vásárlóktól, és lejáratkor kamattal együtt visszafizeti. A költségvetési hiány finanszírozására szolgál.",
+      "example": "A magyar háztartások jelentős összegeket fektetnek lakossági állampapírokba.",
+      "related": [
+        "ertekpapirok",
+        "kotveny",
+        "koltsegvetes",
+        "adossag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kotveny",
+      "term": "kötvény",
+      "sourceLabels": [],
+      "parent": "ertekpapirok",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Hitelviszonyt megtestesítő értékpapír: kibocsátója (állam, önkormányzat, vállalat) kölcsönt vesz fel, és vállalja, hogy a kölcsönt meghatározott időpontban kamattal együtt visszafizeti. Tulajdonosa hitelező, nem tulajdonos.",
+      "example": "Egy vállalat kötvényt bocsát ki új gyára építésének finanszírozására.",
+      "related": [
+        "ertekpapirok",
+        "allampapir",
+        "reszveny",
+        "kamat"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "reszveny",
+      "term": "részvény",
+      "sourceLabels": [],
+      "parent": "ertekpapirok",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Tulajdonviszonyt megtestesítő értékpapír: a részvénytársaság alaptőkéjének egy részét testesíti meg. Tulajdonosa résztulajdonos, aki osztalékra és szavazati jogra jogosult; értéke a tőzsdén változik.",
+      "example": "A Budapesti Értéktőzsdén forgó vállalatok részvényeinek árfolyamából számítják a BUX-indexet.",
+      "related": [
+        "ertekpapirok",
+        "kotveny",
+        "ertektozsde",
+        "bux-index",
+        "tozsdeindex"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hitel-lejarat",
+      "term": "rövid és hosszú lejáratú hitel",
+      "sourceLabels": [
+        "rövid és hosszú lejáratú hitel"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "A hiteleket a visszafizetés időtartama (lejárata) szerint csoportosítjuk. A rövid lejáratú hitelt rövid időn belül (jellemzően egy éven belül), a hosszú lejáratút több év vagy évtizedek alatt kell visszafizetni.",
+      "example": "A folyószámlahitel rövid, a lakáshitel hosszú lejáratú.",
+      "related": [
+        "rovid-lejaratu-hitel",
+        "hosszu-lejaratu-hitel",
+        "kamat",
+        "hitelkepesseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rovid-lejaratu-hitel",
+      "term": "rövid lejáratú hitel",
+      "sourceLabels": [],
+      "parent": "hitel-lejarat",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Rövid időre (jellemzően legfeljebb egy évre) felvett hitel, amely átmeneti pénzhiány áthidalására szolgál.",
+      "example": "A hitelkártya-tartozás vagy a folyószámlahitel rövid lejáratú hitel.",
+      "related": [
+        "hitel-lejarat",
+        "hosszu-lejaratu-hitel"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hosszu-lejaratu-hitel",
+      "term": "hosszú lejáratú hitel",
+      "sourceLabels": [],
+      "parent": "hitel-lejarat",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Több évre vagy évtizedekre felvett hitel, amelyet nagy összegű beruházásokra (lakás, gyár, infrastruktúra) vesznek fel; a hosszú futamidő alatt a kamatkockázat is nagyobb.",
+      "example": "Egy 20 éves lakáshitel hosszú lejáratú hitel.",
+      "related": [
+        "hitel-lejarat",
+        "rovid-lejaratu-hitel",
+        "thm"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hitel-kamatozas",
+      "term": "rögzített (fix) és változó kamatozású hitel",
+      "aliases": [
+        "fix és változó kamatozású hitel"
+      ],
+      "sourceLabels": [
+        "rögzített (fix) és változó kamatozású hitel"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "A hiteleket a kamat alakulása szerint csoportosítjuk: a rögzített kamatozású hitel kamata a futamidő (vagy egy kamatperiódus) alatt nem változik, a változó kamatozásúé a piaci kamatszinthez igazodva módosulhat.",
+      "example": "Figyelj arra: a fix kamat kiszámíthatóbb törlesztőrészletet ad, a változó kamatnál a törlesztő nőhet is.",
+      "related": [
+        "rogzitett-kamatozasu-hitel",
+        "valtozo-kamatozasu-hitel",
+        "kamat"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rogzitett-kamatozasu-hitel",
+      "term": "rögzített (fix) kamatozású hitel",
+      "aliases": [
+        "fix kamatozású hitel"
+      ],
+      "sourceLabels": [],
+      "parent": "hitel-kamatozas",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Olyan hitel, amelynek kamata a teljes futamidőre vagy egy megadott kamatperiódusra előre rögzített, így a törlesztőrészlet kiszámítható.",
+      "example": "Egy 10 évre fixált kamatozású lakáshitel törlesztője az alapkamat emelkedésekor sem nő.",
+      "related": [
+        "hitel-kamatozas",
+        "valtozo-kamatozasu-hitel"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "valtozo-kamatozasu-hitel",
+      "term": "változó kamatozású hitel",
+      "sourceLabels": [],
+      "parent": "hitel-kamatozas",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Olyan hitel, amelynek kamata a futamidő alatt a piaci kamatszint (referencia-kamatláb) változását követve módosul; kezdetben gyakran olcsóbb, de nagyobb a kockázata.",
+      "example": "Ha a jegybank emeli az alapkamatot, a változó kamatozású hitel törlesztőrészlete is nőhet.",
+      "related": [
+        "hitel-kamatozas",
+        "rogzitett-kamatozasu-hitel",
+        "kamat"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "devizahitel",
+      "term": "devizahitel",
+      "sourceLabels": [
+        "devizahitel"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Külföldi pénznemben nyilvántartott (vagy ahhoz kötött) hitel. A kamata kezdetben alacsonyabb lehet, de az adós viseli az árfolyamkockázatot: ha a hazai pénz gyengül, forintban számolva nő a tartozás és a törlesztőrészlet.",
+      "example": "A 2000-es években Magyarországon sokan vettek fel svájcifrank-alapú lakáshitelt; a forint gyengülésekor a törlesztők jelentősen megemelkedtek.",
+      "examplePlaces": [
+        "europa--orszagok--svajc"
+      ],
+      "related": [
+        "deviza",
+        "valutaarfolyam",
+        "kamat",
+        "eladosodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kamat",
+      "term": "kamat",
+      "aliases": [
+        "kamatláb"
+      ],
+      "sourceLabels": [
+        "kamat"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "A pénz kölcsönadásának ára: a hitelfelvevő által a kölcsönzött összegen felül fizetett díj, illetve a betétesnek a pénze rendelkezésre bocsátásáért járó ellenérték. Általában a tőkeösszeg évi százalékában (kamatláb) adják meg.",
+      "example": "Ha 100 000 Ft-ot évi 5%-os kamatra helyezel betétbe, egy év múlva 5000 Ft kamatot kapsz.",
+      "related": [
+        "hozam",
+        "thm",
+        "ebkm",
+        "hitel-kamatozas",
+        "inflacio"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hozam",
+      "term": "hozam",
+      "sourceLabels": [
+        "hozam"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Egy befektetés által adott időszak alatt elért jövedelem (kamat, osztalék, árfolyamnyereség), rendszerint a befektetett összeg százalékában kifejezve. A nagyobb hozam általában nagyobb kockázattal jár.",
+      "example": "Egy részvény hozama az osztalékból és az árfolyam emelkedéséből tevődik össze.",
+      "related": [
+        "kamat",
+        "ertekpapirok",
+        "ebkm",
+        "lekotottseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hitelkepesseg",
+      "term": "hitelképesség",
+      "sourceLabels": [
+        "hitelképesség"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Az adós (személy, vállalat, állam) képessége arra, hogy a felvett hitelt kamataival együtt határidőre visszafizesse. A bank a jövedelem, a meglévő tartozások, a vagyon és a fedezet alapján vizsgálja.",
+      "example": "Rendszeres, igazolt jövedelem nélkül nehéz lakáshitelt kapni, mert a bank nem ítél hitelképesnek.",
+      "related": [
+        "kamat",
+        "onero",
+        "eladosodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "inflacio",
+      "term": "infláció",
+      "sourceLabels": [
+        "infláció"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Az árszínvonal általános, tartós emelkedése, amely a pénz vásárlóerejének csökkenését jelenti. Mértékét az éves fogyasztóiár-index (százalékban) fejezi ki.",
+      "example": "Ha az infláció nagyobb, mint a betéted kamata, a megtakarításod reálértéke csökken.",
+      "related": [
+        "kamat",
+        "penz",
+        "europai-kozponti-bank"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ertek-es-arutozsde",
+      "term": "érték- és árutőzsde",
+      "aliases": [
+        "tőzsde"
+      ],
+      "sourceLabels": [
+        "érték- és árutőzsde"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "A tőzsde szabályozott, koncentrált piac, ahol szabványosított termékekkel kereskednek, és a kereslet-kínálat alapján alakulnak ki az árfolyamok. Az értéktőzsdén értékpapírokkal, az árutőzsdén nyersanyagokkal és mezőgazdasági termékekkel kereskednek.",
+      "example": "A New York-i értéktőzsde (Wall Street) a világ legnagyobb tőzsdéi közé tartozik.",
+      "examplePlaces": [
+        "amerika--varosok--new-york"
+      ],
+      "related": [
+        "ertektozsde",
+        "arutozsde",
+        "tozsdeindex",
+        "ertekpapirok"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "szolgáltatás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ertektozsde",
+      "term": "értéktőzsde",
+      "sourceLabels": [],
+      "parent": "ertek-es-arutozsde",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Olyan tőzsde, ahol értékpapírokkal (részvényekkel, kötvényekkel, állampapírokkal) kereskednek; a vállalatok itt juthatnak tőkéhez, a befektetők itt vásárolhatnak és adhatnak el értékpapírokat.",
+      "example": "A Budapesti Értéktőzsde Magyarország értéktőzsdéje.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "ertek-es-arutozsde",
+        "reszveny",
+        "bux-index",
+        "dow-jones-index"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "arutozsde",
+      "term": "árutőzsde",
+      "sourceLabels": [],
+      "parent": "ertek-es-arutozsde",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Olyan tőzsde, ahol szabványosított minőségű, nagy tételű árukkal (pl. gabona, kőolaj, fémek, kávé) vagy azokra szóló határidős ügyletekkel kereskednek; árai a világpiaci árak alakulását mutatják.",
+      "example": "A chicagói árutőzsde gabonaárai az egész világ búzapiacát befolyásolják.",
+      "related": [
+        "ertek-es-arutozsde",
+        "ertektozsde"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "mezőgazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "penztoke",
+      "term": "pénztőke",
+      "sourceLabels": [
+        "pénztőke"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Pénz formájában lévő tőke, amelyet tulajdonosa hozam reményében hitelként, betétként vagy értékpapír-vásárlásra helyez ki, de közvetlenül nem vesz részt vele a termelésben.",
+      "example": "A külföldi befektetők által vásárolt magyar állampapír pénztőke beáramlását jelenti.",
+      "related": [
+        "mukodotoke",
+        "ertekpapir-befektetes",
+        "nemzetkozi-tokearamlas"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mukodotoke",
+      "term": "működőtőke",
+      "sourceLabels": [
+        "működőtőke"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "A termelésben, szolgáltatásban közvetlenül működő tőke: gyárak, gépek, épületek, vállalatok formájában ölt testet, és tulajdonosának irányítási jogot ad.",
+      "example": "Egy külföldi cég által Magyarországon épített autógyár működőtőke.",
+      "related": [
+        "penztoke",
+        "mukodotoke-befektetes",
+        "transznacionalis-vallalat"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nemzetkozi-tokearamlas",
+      "term": "nemzetközi tőkeáramlás",
+      "sourceLabels": [
+        "nemzetközi tőkeáramlás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "A tőke országhatárokon átnyúló mozgása működőtőke-befektetés (gyárak, vállalatok) vagy pénztőke (hitelek, értékpapír-befektetések) formájában. A tőke oda áramlik, ahol nagyobb hozamot vagy kisebb kockázatot remél.",
+      "example": "A rendszerváltás után Közép-Európába jelentős nyugati működőtőke áramlott.",
+      "related": [
+        "penztoke",
+        "mukodotoke",
+        "ertekpapir-befektetes",
+        "mukodotoke-befektetes",
+        "globalizacio"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ertekpapir-befektetes",
+      "term": "értékpapír-befektetés",
+      "aliases": [
+        "portfólióbefektetés"
+      ],
+      "sourceLabels": [
+        "értékpapír-befektetés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Pénztőke befektetése értékpapírokba (állampapír, kötvény, kisebb részvénycsomag) hozam reményében, a vállalat irányításának megszerzése nélkül (portfólióbefektetés). Gyorsan kivonható, ezért válság idején hirtelen tőkemenekülést okozhat.",
+      "example": "Egy amerikai befektetési alap magyar állampapírokat vásárol.",
+      "related": [
+        "ertekpapirok",
+        "penztoke",
+        "mukodotoke-befektetes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mukodotoke-befektetes",
+      "term": "működőtőke-befektetés",
+      "aliases": [
+        "közvetlen külföldi tőkebefektetés",
+        "FDI"
+      ],
+      "sourceLabels": [
+        "működőtőke-befektetés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "kozep",
+      "definition": "Olyan befektetés, amellyel a befektető tartós érdekeltséget és irányítási jogot szerez egy külföldi vállalatban: új üzemet létesít vagy meglévő céget vásárol. Munkahelyet, technológiát, exportképességet hozhat a fogadó országnak.",
+      "example": "Egy dél-koreai akkumulátorgyár felépítése Magyarországon működőtőke-befektetés.",
+      "related": [
+        "mukodotoke",
+        "zoldmezos-beruhazas",
+        "barnamezos-beruhazas",
+        "transznacionalis-vallalat"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "arucsere",
+      "term": "árucsere (barter)",
+      "aliases": [
+        "barter",
+        "árucsere"
+      ],
+      "sourceLabels": [
+        "árucsere (barter)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Pénz közvetítése nélküli csere, amelyben árut közvetlenül árura cserélnek. A pénz megjelenése előtt általános volt; ma főként válságok idején és egyes nemzetközi ügyletekben fordul elő.",
+      "example": "Gabonát cserélnek szerszámra pénz használata nélkül.",
+      "related": [
+        "arupenz",
+        "penz"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "arupenz",
+      "term": "árupénz",
+      "sourceLabels": [
+        "árupénz"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Olyan áru, amelyet egy közösségben általánosan elfogadott csereeszközként (pénzként) használtak, és amelynek önmagában is használati értéke volt.",
+      "example": "Árupénz volt a só, a kagyló, az állat (pl. szarvasmarha) vagy a nemesfém.",
+      "related": [
+        "arucsere",
+        "penz",
+        "femperz"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tozsdeindex",
+      "term": "tőzsdeindex",
+      "sourceLabels": [
+        "tőzsdeindex"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Egy tőzsde meghatározott (általában legjelentősebb) részvényeinek árfolyamából számított mutatószám, amely a piac egészének alakulását tükrözi.",
+      "example": "A Dow Jones-index a New York-i, a BUX-index a budapesti tőzsde mutatója.",
+      "related": [
+        "dow-jones-index",
+        "bux-index",
+        "reszveny",
+        "ertektozsde"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "allamhaztartas",
+      "term": "államháztartás",
+      "sourceLabels": [
+        "államháztartás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az állam gazdálkodásának rendszere: a központi költségvetés, a társadalombiztosítás alapjai és az önkormányzatok bevételei és kiadásai összesen. Bevételei főként adók és járulékok, kiadásai az oktatás, egészségügy, nyugdíj, védelem, infrastruktúra stb.",
+      "example": "Az államháztartásból fizetik a nyugdíjakat és a közoktatás költségeit.",
+      "related": [
+        "koltsegvetes",
+        "koltsegvetesi-egyensuly",
+        "adossag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "koltsegvetes",
+      "term": "költségvetés",
+      "sourceLabels": [
+        "költségvetés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Egy gazdálkodó egység (állam, önkormányzat, vállalat, háztartás) adott időszakra tervezett bevételeinek és kiadásainak részletes terve. Az állami költségvetést évente törvényben fogadja el az Országgyűlés.",
+      "example": "Az EU-nak is van saját, többéves keretre épülő költségvetése.",
+      "related": [
+        "allamhaztartas",
+        "koltsegvetesi-egyensuly",
+        "merleghiany",
+        "merlegtobblet"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "koltsegvetesi-egyensuly",
+      "term": "költségvetési egyensúly",
+      "sourceLabels": [
+        "költségvetési egyensúly"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az az állapot, amikor a költségvetés bevételei és kiadásai megegyeznek. Ha a kiadás nagyobb, hiány (deficit), ha a bevétel nagyobb, többlet (szufficit) keletkezik.",
+      "example": "Az EU előírja, hogy a tagállamok költségvetési hiánya ne lépje túl a GDP 3%-át.",
+      "related": [
+        "merleghiany",
+        "merlegtobblet",
+        "koltsegvetes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "merleghiany",
+      "term": "mérleghiány (deficit)",
+      "aliases": [
+        "deficit",
+        "mérleghiány"
+      ],
+      "sourceLabels": [
+        "mérleghiány (deficit)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor egy mérlegben (költségvetés, külkereskedelmi vagy fizetési mérleg) a kiadások (import) meghaladják a bevételeket (exportot). A hiányt hitelfelvétellel kell finanszírozni, ami növeli az adósságot.",
+      "example": "Ha egy ország többet importál, mint amennyit exportál, külkereskedelmi mérlege hiányos.",
+      "related": [
+        "merlegtobblet",
+        "koltsegvetesi-egyensuly",
+        "adossag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "merlegtobblet",
+      "term": "mérlegtöbblet (szufficit)",
+      "aliases": [
+        "szufficit",
+        "mérlegtöbblet"
+      ],
+      "sourceLabels": [
+        "mérlegtöbblet (szufficit)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor egy mérlegben a bevételek (export) meghaladják a kiadásokat (importot).",
+      "example": "Németország és Kína hosszú ideje jelentős külkereskedelmi többletet ér el.",
+      "examplePlaces": [
+        "europa--orszagok--nemetorszag",
+        "azsia--orszagok--kina"
+      ],
+      "related": [
+        "merleghiany",
+        "koltsegvetesi-egyensuly"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "beruhazas-tipusok",
+      "term": "barnamezős (rekonstrukciós) és zöldmezős beruházás",
+      "sourceLabels": [
+        "barnamezős (rekonstrukciós) és zöldmezős beruházás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "A beruházásokat aszerint különböztetjük meg, hogy korábban már használt ipari területen (barnamezős) vagy addig beépítetlen, többnyire mezőgazdasági területen (zöldmezős) valósulnak meg.",
+      "example": "A rendszerváltás után a külföldi tőke Magyarországon régi gyárakat is felvásárolt, és új gyárakat is épített.",
+      "related": [
+        "barnamezos-beruhazas",
+        "zoldmezos-beruhazas",
+        "mukodotoke-befektetes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "ipar"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "barnamezos-beruhazas",
+      "term": "barnamezős (rekonstrukciós) beruházás",
+      "aliases": [
+        "barnamezős beruházás",
+        "rekonstrukciós beruházás"
+      ],
+      "sourceLabels": [],
+      "parent": "beruhazas-tipusok",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Korábban már hasznosított, gyakran elhagyott vagy leromlott ipari, katonai stb. területen, meglévő épületek, infrastruktúra felújításával megvalósuló beruházás. Csökkenti a zöldterületek beépítését, de a kármentesítés költséges lehet.",
+      "example": "Egy bezárt gyár csarnokaiban kialakított logisztikai központ vagy irodaház.",
+      "related": [
+        "beruhazas-tipusok",
+        "zoldmezos-beruhazas"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "ipar"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zoldmezos-beruhazas",
+      "term": "zöldmezős beruházás",
+      "sourceLabels": [],
+      "parent": "beruhazas-tipusok",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Korábban beépítetlen (többnyire mezőgazdasági) területen, a semmiből felépülő új létesítmény. Gyorsan, korszerű technológiával megvalósítható, de termőföldet és zöldterületet vesz el.",
+      "example": "A Kecskemét melletti szántóföldön felépült autógyár zöldmezős beruházás volt.",
+      "related": [
+        "beruhazas-tipusok",
+        "barnamezos-beruhazas",
+        "mukodotoke-befektetes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "ipar"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "adossag",
+      "term": "adósság",
+      "sourceLabels": [
+        "adósság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Egy személy, vállalat vagy állam által felvett, még vissza nem fizetett kölcsön (tartozás) a kamatokkal együtt. Az államadósságot gyakran a GDP százalékában adják meg.",
+      "example": "Az állam állampapírok kibocsátásával vesz fel hitelt, ami növeli az államadósságot.",
+      "related": [
+        "eladosodas",
+        "adossagallomany",
+        "adossagcsapda",
+        "adossagvalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eladosodas",
+      "term": "eladósodás",
+      "sourceLabels": [
+        "eladósodás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az a folyamat, amelynek során egy adós tartozása tartósan és gyorsabban nő, mint jövedelme, így egyre nehezebben tudja azt törleszteni.",
+      "example": "Az 1970–80-as években sok latin-amerikai és afrikai ország gyorsan eladósodott.",
+      "related": [
+        "adossag",
+        "adossagcsapda",
+        "adossagvalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globális-problémák"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "adossagallomany",
+      "term": "külső és belső adósságállomány",
+      "aliases": [
+        "adósságállomány"
+      ],
+      "sourceLabels": [
+        "külső és belső adósságállomány"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az adósságállomány egy adott időpontban fennálló összes tartozás. Aszerint, hogy kinek tartozik az ország, megkülönböztetünk külső (külföldi hitelezők felé fennálló) és belső (hazai hitelezők felé fennálló) adósságot.",
+      "example": "Ha a magyar állampapírokat főleg hazai háztartások vásárolják, a belső adósság aránya nő, a külső csökken.",
+      "related": [
+        "kulso-adossagallomany",
+        "belso-adossagallomany",
+        "adossag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kulso-adossagallomany",
+      "term": "külső adósságállomány",
+      "aliases": [
+        "külső adósság"
+      ],
+      "sourceLabels": [],
+      "parent": "adossagallomany",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Egy ország (állam, vállalatok, háztartások) külföldi hitelezőkkel szemben fennálló tartozása; törlesztése devizában történik, ezért érzékeny az árfolyam változására.",
+      "example": "Egy IMF-hitel vagy külföldi bankoknál felvett kölcsön a külső adósságot növeli.",
+      "related": [
+        "adossagallomany",
+        "belso-adossagallomany",
+        "imf"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belso-adossagallomany",
+      "term": "belső adósságállomány",
+      "aliases": [
+        "belső adósság"
+      ],
+      "sourceLabels": [],
+      "parent": "adossagallomany",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az állam hazai hitelezőkkel (hazai bankokkal, vállalatokkal, háztartásokkal) szemben fennálló tartozása, többnyire hazai pénznemben.",
+      "example": "A lakosság által vásárolt forintos állampapírok a belső adósság részei.",
+      "related": [
+        "adossagallomany",
+        "kulso-adossagallomany",
+        "allampapir"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "atutemezes",
+      "term": "átütemezés",
+      "sourceLabels": [
+        "átütemezés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az adósság visszafizetési feltételeinek módosítása a hitelező és az adós megállapodásával: a futamidő meghosszabbítása, a törlesztés elhalasztása, esetleg a kamat csökkentése. Fizetésképtelenség elkerülésére szolgál.",
+      "example": "Sok eladósodott fejlődő ország az IMF és a Világbank közreműködésével ütemezte át adósságát.",
+      "related": [
+        "adossagcsapda",
+        "adossagvalsag",
+        "imf"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "adossagcsapda",
+      "term": "adósságcsapda",
+      "sourceLabels": [
+        "adósságcsapda"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor az adós a korábbi hitelek kamatait és törlesztőrészleteit már csak újabb hitelek felvételével tudja fizetni, így adóssága egyre nő, és önerőből nem tud kikerülni belőle.",
+      "example": "Számos szubszaharai afrikai ország a 20. század végén adósságcsapdába került.",
+      "related": [
+        "eladosodas",
+        "adossagvalsag",
+        "atutemezes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globális-problémák"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "adossagvalsag",
+      "term": "adósságválság",
+      "sourceLabels": [
+        "adósságválság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor egy ország (vagy országcsoport) nem képes adósságát a megállapodás szerint törleszteni, és fizetésképtelenség fenyegeti; súlyos gazdasági visszaeséssel, megszorításokkal jár.",
+      "example": "A 2010-es évek elején Görögország adósságválságát az EU és az IMF mentőcsomagjai kezelték.",
+      "examplePlaces": [
+        "europa--orszagok--gorogorszag"
+      ],
+      "related": [
+        "adossagcsapda",
+        "eladosodas",
+        "imf",
+        "atutemezes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lekotottseg",
+      "term": "lekötöttség (likviditás)",
+      "aliases": [
+        "likviditás",
+        "lekötöttség"
+      ],
+      "sourceLabels": [
+        "lekötöttség (likviditás)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "A befektetett pénz hozzáférhetőségét kifejező jellemző. A likviditás azt mutatja, milyen gyorsan és veszteség nélkül alakítható a befektetés készpénzzé; a lekötöttség az az időtartam, amíg a pénz nem vehető fel szabadon. Hosszabb lekötésért általában magasabb kamat jár.",
+      "example": "A folyószámlán lévő pénz azonnal elérhető (nagy likviditás), az egyéves lekötött betét kevésbé.",
+      "related": [
+        "hozam",
+        "kamat",
+        "ebkm"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "thm",
+      "term": "THM",
+      "aliases": [
+        "teljes hiteldíj mutató"
+      ],
+      "sourceLabels": [
+        "THM"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Teljes hiteldíj mutató: a hitel összes költségét (kamat, kezelési költség, díjak) a hitelösszeg éves százalékában kifejező mutató. Segítségével különböző hitelajánlatok összehasonlíthatók.",
+      "example": "Két azonos kamatú hitel közül az olcsóbb az, amelyiknek alacsonyabb a THM-je.",
+      "related": [
+        "kamat",
+        "ebkm",
+        "hitel-lejarat"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ebkm",
+      "term": "EBKM",
+      "aliases": [
+        "egységesített betéti kamatláb mutató"
+      ],
+      "sourceLabels": [
+        "EBKM"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Egységesített betéti kamatláb mutató: a betét éves hozamát egységes módszerrel, százalékban kifejező mutató, amely lehetővé teszi a különböző betéti ajánlatok összehasonlítását.",
+      "example": "Két bank lekötött betétje közül az a kedvezőbb, amelyiknek magasabb az EBKM-je.",
+      "related": [
+        "thm",
+        "kamat",
+        "hozam",
+        "lekotottseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "allami-es-eu-tamogatas",
+      "term": "állami és EU-támogatás",
+      "sourceLabels": [
+        "állami és EU-támogatás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az állam vagy az Európai Unió által meghatározott célokra (pl. lakhatás, vállalkozásfejlesztés, mezőgazdaság, infrastruktúra, felzárkóztatás) nyújtott vissza nem térítendő vagy kedvezményes pénzügyi segítség.",
+      "example": "Egy vidéki vállalkozás uniós pályázaton nyert pénzből vásárol új gépeket.",
+      "related": [
+        "allami-tamogatas",
+        "eu-tamogatas",
+        "tamogatott-hitel",
+        "onero"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "allami-tamogatas",
+      "term": "állami támogatás",
+      "sourceLabels": [],
+      "parent": "allami-es-eu-tamogatas",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "A nemzeti költségvetésből nyújtott pénzügyi segítség (támogatás, adókedvezmény, kamattámogatás) a kormány által fontosnak tartott célokra.",
+      "example": "Családok lakásvásárlását segítő állami támogatások.",
+      "related": [
+        "allami-es-eu-tamogatas",
+        "eu-tamogatas",
+        "koltsegvetes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eu-tamogatas",
+      "term": "EU-támogatás",
+      "aliases": [
+        "uniós támogatás"
+      ],
+      "sourceLabels": [],
+      "parent": "allami-es-eu-tamogatas",
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Az Európai Unió közös költségvetéséből, főként a kohéziós (regionális) politika és a közös agrárpolitika keretében nyújtott támogatás. Igénybevételéhez rendszerint pályázat és önerő szükséges.",
+      "example": "Magyarországon sok út, szennyvíztisztító és iskolafelújítás valósult meg uniós támogatásból.",
+      "related": [
+        "allami-es-eu-tamogatas",
+        "regionalis-politika",
+        "onero",
+        "europai-bizottsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "EU"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tamogatott-hitel",
+      "term": "támogatott hitel",
+      "sourceLabels": [
+        "támogatott hitel"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Olyan hitel, amelynek kamatát vagy egyéb költségeit az állam (vagy más szervezet) részben átvállalja, ezért a hitelfelvevő a piaci feltételeknél kedvezőbben jut kölcsönhöz.",
+      "example": "Az államilag kamattámogatott lakáshitel olcsóbb a piaci hitelnél.",
+      "related": [
+        "allami-es-eu-tamogatas",
+        "kamat",
+        "thm"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "onero",
+      "term": "önerő",
+      "sourceLabels": [
+        "önerő"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Egy beruházás, vásárlás vagy pályázat költségének az a része, amelyet a hitelfelvevő vagy pályázó saját forrásból fizet.",
+      "example": "Lakáshitelnél a bank gyakran előírja, hogy a vételár egy részét önerőből fizesd.",
+      "related": [
+        "hitelkepesseg",
+        "allami-es-eu-tamogatas",
+        "tamogatott-hitel"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "monetaris-vilaggazdasag",
+      "term": "monetáris világgazdaság",
+      "sourceLabels": [
+        "monetáris világgazdaság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "A világgazdaság pénzügyi szférája: a pénz-, tőke- és devizapiacok, valamint az ezeken zajló nemzetközi pénz- és tőkeáramlás rendszere. A pénzügyi folyamatok volumene sokszorosan meghaladja az áru- és szolgáltatáskereskedelemét, és jórészt elszakadt a reálgazdaságtól.",
+      "example": "London, New York és Tokió a monetáris világgazdaság legfontosabb pénzügyi központjai közé tartozik.",
+      "examplePlaces": [
+        "europa--varosok--london",
+        "amerika--varosok--new-york",
+        "azsia--varosok--tokio"
+      ],
+      "related": [
+        "nemzetkozi-tokearamlas",
+        "globalis-vilaggazdasag",
+        "imf",
+        "ertek-es-arutozsde"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "adoparadicsom",
+      "term": "adóparadicsom",
+      "sourceLabels": [
+        "adóparadicsom"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Olyan ország vagy terület, amely nagyon alacsony (vagy nulla) adókat, banktitkot és egyszerű cégalapítást kínál a külföldi vállalatoknak és befektetőknek, ezért a tőke jelentős részét magához vonzza.",
+      "example": "Adóparadicsomként ismertek például a Kajmán-szigetek, a Bahama-szigetek vagy Monaco.",
+      "examplePlaces": [
+        "amerika--tajak--bahama-szigetek",
+        "europa--orszagok--monaco"
+      ],
+      "related": [
+        "offshore-ceg",
+        "monetaris-vilaggazdasag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "offshore-ceg",
+      "term": "offshore cég",
+      "sourceLabels": [
+        "offshore cég"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "6.4. A monetáris világ",
+      "level": "emelt",
+      "definition": "Adóparadicsomban bejegyzett vállalat, amely a bejegyzés helyén tényleges gazdasági tevékenységet nem (vagy alig) folytat, célja elsősorban az adóteher csökkentése és a tulajdonosok elrejtése.",
+      "example": "Egy európai vállalkozó a Bahama-szigeteken jegyeztet be céget, hogy kevesebb adót fizessen.",
+      "related": [
+        "adoparadicsom",
+        "monetaris-vilaggazdasag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "triad",
+      "term": "Triád",
+      "sourceLabels": [
+        "Triád"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A világgazdaság három fő pólusa (erőközpontja): Észak-Amerika (az USA vezetésével), az Európai Unió és Japán (Kelet-Ázsia fejlett része). Itt összpontosul a világ termelésének, kereskedelmének és tőkéjének nagy része, itt van a legtöbb TNC központja.",
+      "example": "New York, London és Tokió a Triád pénzügyi központjai.",
+      "examplePlaces": [
+        "amerika--orszagok--amerikai-egyesult-allamok",
+        "azsia--orszagok--japan"
+      ],
+      "related": [
+        "brics",
+        "ujonnan-iparosodott-orszagok",
+        "europai-unio",
+        "transznacionalis-vallalat"
+      ],
+      "tags": [
+        "6-témakör",
+        "gazdaság",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "brics",
+      "term": "BRICS országok",
+      "aliases": [
+        "BRICS"
+      ],
+      "sourceLabels": [
+        "BRICS országok"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Gyors gazdasági növekedésű, nagy népességű és kiterjedt feltörekvő országok csoportja és laza együttműködése; nevét az alapító tagok kezdőbetűiből kapta: Brazília, Oroszország, India, Kína, Dél-afrikai Köztársaság. Az utóbbi években további országokkal bővült.",
+      "example": "Kína és India ma a világgazdaság meghatározó szereplői, gyorsan növő ipari termeléssel.",
+      "examplePlaces": [
+        "amerika--orszagok--brazilia",
+        "europa--orszagok--oroszorszag",
+        "azsia--orszagok--india",
+        "azsia--orszagok--kina",
+        "afrika--orszagok--del-afrikai-koztarsasag"
+      ],
+      "related": [
+        "triad",
+        "ujonnan-iparosodott-orszagok",
+        "globalizacio"
+      ],
+      "tags": [
+        "6-témakör",
+        "gazdaság",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ujonnan-iparosodott-orszagok",
+      "term": "újonnan iparosodott országok",
+      "aliases": [
+        "NIC-országok",
+        "kis tigrisek"
+      ],
+      "sourceLabels": [
+        "újonnan iparosodott országok"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Azok az országok (NIC-országok), amelyek a 20. század második felében exportorientált iparosítással, külföldi tőke bevonásával gyorsan felzárkóztak. Első nemzedékük a „kis tigrisek”: Dél-Korea, Tajvan, Hongkong és Szingapúr; később délkelet-ázsiai és latin-amerikai országok követték őket.",
+      "example": "Dél-Korea elektronikai és autóipari nagyhatalommá vált.",
+      "examplePlaces": [
+        "azsia--orszagok--del-korea-koreai-koztarsasag",
+        "azsia--tajak--tajvan",
+        "azsia--varosok--hongkong",
+        "azsia--orszagok--szingapur"
+      ],
+      "related": [
+        "triad",
+        "brics",
+        "globalizacio"
+      ],
+      "tags": [
+        "6-témakör",
+        "gazdaság",
+        "ipar",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europai-unio",
+      "term": "Európai Unió",
+      "aliases": [
+        "EU"
+      ],
+      "sourceLabels": [
+        "Európai Unió"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Európai államok gazdasági és politikai integrációja, amely az 1950-es években induló európai közösségekből jött létre (a Maastrichti Szerződés 1993-as hatálybalépésével). Közös piac és vámunió, tagjainak egy része monetáris uniót (euróövezet) alkot; Magyarország 2004 óta tag.",
+      "example": "Az EU fő intézményei Brüsszelben, Strasbourgban, Luxembourgban és Frankfurt am Mainban működnek.",
+      "examplePlaces": [
+        "europa--varosok--brusszel"
+      ],
+      "related": [
+        "europai-parlament",
+        "europai-unio-tanacsa",
+        "europai-bizottsag",
+        "europai-tanacs",
+        "europai-kozponti-bank",
+        "europai-unio-birosaga",
+        "integracio"
+      ],
+      "tags": [
+        "6-témakör",
+        "EU",
+        "integráció",
+        "Európa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europai-parlament",
+      "term": "Európai Parlament",
+      "sourceLabels": [
+        "Európai Parlament"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az EU polgárai által ötévente közvetlenül választott képviselőkből álló testület. Az Európai Unió Tanácsával együtt hozza a jogszabályokat és fogadja el a költségvetést, valamint ellenőrzi az Európai Bizottságot (jóváhagyja megbízatását).",
+      "example": "Plenáris üléseit főként Strasbourgban tartja, bizottságai Brüsszelben üléseznek.",
+      "examplePlaces": [
+        "europa--varosok--strasbourg",
+        "europa--varosok--brusszel"
+      ],
+      "related": [
+        "europai-unio-tanacsa",
+        "europai-bizottsag",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "EU",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europai-unio-tanacsa",
+      "term": "Európai Unió Tanácsa",
+      "aliases": [
+        "Tanács",
+        "Miniszterek Tanácsa"
+      ],
+      "sourceLabels": [
+        "Európai Unió Tanácsa"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A tagállamok kormányainak szakminisztereiből álló testület (köznapi nevén Miniszterek Tanácsa), amelynek összetétele a tárgyalt szakterülettől függ. Az Európai Parlamenttel együtt fogadja el a jogszabályokat és a költségvetést, és összehangolja a tagállamok politikáját.",
+      "example": "Ha mezőgazdasági kérdésről döntenek, a tagállamok agrárminiszterei ülnek össze Brüsszelben. Figyelj: ne keverd az Európai Tanáccsal és az Európa Tanáccsal!",
+      "examplePlaces": [
+        "europa--varosok--brusszel"
+      ],
+      "related": [
+        "europai-parlament",
+        "europai-tanacs",
+        "europa-tanacs",
+        "europai-bizottsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "EU",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europai-bizottsag",
+      "term": "Európai Bizottság",
+      "sourceLabels": [
+        "Európai Bizottság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az EU végrehajtó szerve, amelyben minden tagállamnak egy biztosa van, akik az unió egészének érdekét képviselik. Jogszabályokat kezdeményez, végrehajtja a döntéseket és a költségvetést, valamint őrködik a szerződések betartása felett.",
+      "example": "Székhelye Brüsszel; ha egy tagállam megsérti az uniós jogot, a Bizottság eljárást indíthat ellene.",
+      "examplePlaces": [
+        "europa--varosok--brusszel"
+      ],
+      "related": [
+        "europai-parlament",
+        "europai-unio-tanacsa",
+        "europai-unio-birosaga"
+      ],
+      "tags": [
+        "6-témakör",
+        "EU",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europai-tanacs",
+      "term": "Európai Tanács",
+      "sourceLabels": [
+        "Európai Tanács"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A tagállamok állam- vagy kormányfőiből, saját elnökéből és az Európai Bizottság elnökéből álló testület. Az EU általános politikai irányvonalát és prioritásait határozza meg; jogszabályokat nem alkot.",
+      "example": "Az uniós csúcstalálkozókat Brüsszelben tartják. Figyelj: nem azonos az Európai Unió Tanácsával és az Európa Tanáccsal!",
+      "examplePlaces": [
+        "europa--varosok--brusszel"
+      ],
+      "related": [
+        "europai-unio-tanacsa",
+        "europa-tanacs",
+        "europai-bizottsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "EU",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europai-kozponti-bank",
+      "term": "Európai Központi Bank",
+      "aliases": [
+        "EKB"
+      ],
+      "sourceLabels": [
+        "Európai Központi Bank"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az euróövezet központi bankja: irányítja az euró monetáris politikáját (pl. meghatározza az irányadó kamatlábakat), elsődleges célja az árstabilitás fenntartása, és engedélyezi az euróbankjegyek kibocsátását.",
+      "example": "Székhelye Frankfurt am Main; ha az infláció tartósan magas, kamatemeléssel próbálja mérsékelni.",
+      "examplePlaces": [
+        "europa--varosok--frankfurt-am-main"
+      ],
+      "related": [
+        "penzugyi-unio",
+        "inflacio",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "EU",
+        "pénzügyek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europai-unio-birosaga",
+      "term": "Európai Unió Bírósága",
+      "sourceLabels": [
+        "Európai Unió Bírósága"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az EU igazságszolgáltatási intézménye, amely biztosítja, hogy az uniós jogot minden tagállamban egységesen értelmezzék és alkalmazzák, és dönt a tagállamok és az uniós intézmények közötti jogvitákban.",
+      "example": "Székhelye Luxembourg. Ne keverd a strasbourgi Emberi Jogok Európai Bíróságával, amely az Európa Tanácshoz tartozik!",
+      "examplePlaces": [
+        "europa--varosok--luxembourg"
+      ],
+      "related": [
+        "europai-bizottsag",
+        "europa-tanacs",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "EU",
+        "integráció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "enszt",
+      "term": "Egyesült Nemzetek Szervezete (ENSZ)",
+      "aliases": [
+        "ENSZ"
+      ],
+      "sourceLabels": [
+        "Egyesült Nemzetek Szervezete (ENSZ)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A második világháború után, 1945-ben létrehozott, a világ szinte minden államát tömörítő nemzetközi szervezet. Fő célja a nemzetközi béke és biztonság fenntartása, az emberi jogok védelme és a nemzetközi együttműködés elősegítése; szakosított intézményei (pl. UNESCO, WHO) egy-egy területtel foglalkoznak.",
+      "example": "Székhelye New York; a Biztonsági Tanács öt állandó tagja az USA, Oroszország, Kína, az Egyesült Királyság és Franciaország.",
+      "examplePlaces": [
+        "amerika--varosok--new-york"
+      ],
+      "related": [
+        "unesco",
+        "who",
+        "imf",
+        "vilagbank",
+        "nato"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "társadalom"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "unesco",
+      "term": "az ENSZ Nevelésügyi, Tudományos és Kulturális Szervezete (UNESCO)",
+      "aliases": [
+        "UNESCO"
+      ],
+      "sourceLabels": [
+        "az ENSZ Nevelésügyi",
+        "Tudományos és Kulturális Szervezete (UNESCO)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az ENSZ szakosított intézménye, amely az oktatás, a tudomány, a kultúra és a kommunikáció terén segíti a nemzetközi együttműködést. Gondozza a világörökség listáját és a bioszféra-rezervátumok hálózatát.",
+      "example": "Székhelye Párizs; a Hortobágy és Hollókő is felkerült a világörökség listájára.",
+      "examplePlaces": [
+        "europa--varosok--parizs",
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--holloko"
+      ],
+      "related": [
+        "enszt",
+        "vilagorokseg",
+        "bioszfera-rezervatum"
+      ],
+      "tags": [
+        "6-témakör",
+        "társadalom",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "who",
+      "term": "Egészségügyi Világszervezet (WHO)",
+      "aliases": [
+        "WHO"
+      ],
+      "sourceLabels": [
+        "Egészségügyi Világszervezet (WHO)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az ENSZ egészségügyi szakosított intézménye, amely a világ népességének egészségi állapotát javító nemzetközi együttműködést irányítja: figyeli és segít leküzdeni a járványokat, oltási programokat szervez, egészségügyi ajánlásokat ad ki.",
+      "example": "Székhelye Genf; a COVID-19 járványt 2020-ban világjárványnak (pandémiának) nyilvánította.",
+      "examplePlaces": [
+        "europa--varosok--genf"
+      ],
+      "related": [
+        "enszt",
+        "jarvany",
+        "alultaplaltsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "társadalom",
+        "globális-problémák"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nato",
+      "term": "Észak-atlanti Szerződés Szervezete (NATO)",
+      "aliases": [
+        "NATO"
+      ],
+      "sourceLabels": [
+        "Észak-atlanti Szerződés Szervezete (NATO)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az 1949-ben létrejött katonai-politikai szövetség észak-amerikai és európai államok részvételével. Alapelve a kollektív védelem: egy tagállam elleni támadást valamennyi tag elleni támadásnak tekintenek. Magyarország 1999 óta tagja.",
+      "example": "Központja Brüsszel.",
+      "examplePlaces": [
+        "europa--varosok--brusszel"
+      ],
+      "related": [
+        "enszt",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "társadalom",
+        "Európa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "opec",
+      "term": "Kőolaj-exportáló Országok Szervezete (OPEC)",
+      "aliases": [
+        "OPEC"
+      ],
+      "sourceLabels": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az 1960-ban alapított, nagy kőolaj-exportőr (főként közel-keleti, afrikai és latin-amerikai) fejlődő országokat tömörítő szervezet, amely a kitermelési kvóták összehangolásával befolyásolja a kőolaj világpiaci árát. Alapítói: Irán, Irak, Kuvait, Szaúd-Arábia és Venezuela.",
+      "example": "Az OPEC-országok 1973-as kitermelés-korlátozása kőolajár-robbanáshoz vezetett. Székhelye Bécs.",
+      "examplePlaces": [
+        "azsia--orszagok--szaud-arabia",
+        "azsia--orszagok--kuvait",
+        "azsia--orszagok--iran",
+        "amerika--orszagok--venezuela",
+        "europa--varosok--becs"
+      ],
+      "related": [
+        "koolajar-robbanas",
+        "energiavalsag",
+        "nyersanyag-es-energiavalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "ásványkincsek",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "visegradi-egyuttmukodes",
+      "term": "Visegrádi Együttműködés (V4)",
+      "aliases": [
+        "V4",
+        "visegrádi négyek"
+      ],
+      "sourceLabels": [
+        "Visegrádi Együttműködés (V4)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Magyarország, Lengyelország, Csehország és Szlovákia regionális politikai, gazdasági és kulturális együttműködése, amely 1991-ben Visegrádon jött létre (akkor még Csehszlovákia részvételével). Eredeti célja az euroatlanti integráció (EU- és NATO-csatlakozás) közös előmozdítása volt.",
+      "example": "A V4-országok közösen lobbiznak például közlekedési, energetikai fejlesztésekért.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--visegrad",
+        "europa--orszagok--lengyelorszag",
+        "europa--orszagok--csehorszag",
+        "europa--orszagok--szlovakia"
+      ],
+      "related": [
+        "regionalis-egyuttmukodes",
+        "europai-unio",
+        "karpatok-euroregio"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "Európa",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "karpatok-euroregio",
+      "term": "Kárpátok Eurorégió",
+      "sourceLabels": [
+        "Kárpátok Eurorégió helyi"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az 1993-ban alapított, a Kárpátok térségében fekvő szomszédos országok (Magyarország, Lengyelország, Szlovákia, Ukrajna, Románia) határ menti közigazgatási egységeit összekapcsoló eurorégió. Célja a határon átnyúló gazdasági, közlekedési, kulturális és környezetvédelmi együttműködés.",
+      "example": "Magyar részről északkeleti megyék, ukrán részről például Kárpátalja tartozik hozzá.",
+      "examplePlaces": [
+        "europa--tajak--karpatok",
+        "europa--tortenelmi-tajnevek--karpatalja"
+      ],
+      "related": [
+        "euroregio",
+        "regionalis-egyuttmukodes",
+        "visegradi-egyuttmukodes"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "Európa",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "helyi-regionalis-globalis-problema",
+      "term": "helyi, regionális és globális probléma",
+      "sourceLabels": [
+        "Kárpátok Eurorégió helyi",
+        "regionális és globális probléma"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A környezeti és társadalmi problémák kiterjedésük szerint lehetnek helyi (egy településre, kisebb területre korlátozódó), regionális (egy nagyobb térséget, akár több országot érintő) és globális (az egész Földet érintő) problémák. A helyi problémák összeadódva regionális és globális következményekkel járhatnak.",
+      "example": "Egy illegális hulladéklerakó helyi, a savas eső regionális, a klímaváltozás globális probléma.",
+      "related": [
+        "helyi-problema",
+        "regionalis-problema",
+        "globalis-problema",
+        "kornyezeti-valsag",
+        "klimavalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "helyi-problema",
+      "term": "helyi probléma",
+      "aliases": [
+        "lokális probléma"
+      ],
+      "sourceLabels": [],
+      "parent": "helyi-regionalis-globalis-problema",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Egy település vagy kisebb terület lakóit érintő környezeti vagy társadalmi probléma, amely többnyire helyi összefogással kezelhető.",
+      "example": "Egy gyár szennyvize szennyezi a mellette folyó patakot.",
+      "related": [
+        "helyi-regionalis-globalis-problema",
+        "regionalis-problema"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "regionalis-problema",
+      "term": "regionális probléma",
+      "sourceLabels": [],
+      "parent": "helyi-regionalis-globalis-problema",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Egy nagyobb térséget, gyakran több országot érintő probléma, amelynek megoldása az érintett országok együttműködését kívánja.",
+      "example": "Az Aral-tó kiszáradása Közép-Ázsia több országát érinti.",
+      "examplePlaces": [
+        "azsia--vizrajz--aral-to"
+      ],
+      "related": [
+        "helyi-regionalis-globalis-problema",
+        "globalis-problema"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "globalis-problema",
+      "term": "globális probléma",
+      "sourceLabels": [],
+      "parent": "helyi-regionalis-globalis-problema",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az egész Földet, az emberiség egészét érintő probléma, amely csak nemzetközi összefogással kezelhető.",
+      "example": "A klímaváltozás, a biodiverzitás csökkenése és az élelmezési válság globális problémák.",
+      "related": [
+        "helyi-regionalis-globalis-problema",
+        "klimavalsag",
+        "biodiverzitas-csokkenese"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kornyezeti-katasztrofa",
+      "term": "környezeti katasztrófa",
+      "sourceLabels": [
+        "környezeti katasztrófa"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Hirtelen bekövetkező vagy hosszú idő alatt kialakuló, nagy kiterjedésű és súlyos környezetkárosodás, amely az élővilágot és az emberek életkörülményeit tartósan rontja, és helyreállítása nagyon nehéz vagy lehetetlen.",
+      "example": "Az 1986-os csernobili atomerőmű-baleset és az Aral-tó kiszáradása környezeti katasztrófa.",
+      "examplePlaces": [
+        "europa--varosok--csernobil",
+        "azsia--vizrajz--aral-to"
+      ],
+      "related": [
+        "kornyezetkarositas",
+        "kornyezeti-valsag",
+        "helyi-regionalis-globalis-problema"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kornyezetkarositas",
+      "term": "környezetkárosítás",
+      "sourceLabels": [
+        "környezetkárosítás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az emberi tevékenység következtében a környezet (levegő, víz, talaj, élővilág, táj) állapotának romlása, például szennyezés, túlzott igénybevétel vagy élőhelyek pusztítása révén.",
+      "example": "Az esőerdők irtása az Amazonas-medencében súlyos környezetkárosítás.",
+      "examplePlaces": [
+        "amerika--tajak--amazonas-medence"
+      ],
+      "related": [
+        "kornyezeti-katasztrofa",
+        "veszelyeztetett-elohely",
+        "kornyezet-es-termeszetvedelem"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eletkozosseg",
+      "term": "természetes és mesterséges életközösség",
+      "sourceLabels": [
+        "természetes és mesterséges életközösség"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az életközösség (biocönózis) egy adott élőhelyen együtt élő, egymással kölcsönhatásban álló élőlények összessége. Aszerint, hogy emberi beavatkozás nélkül alakult-e ki, megkülönböztetünk természetes és mesterséges életközösséget.",
+      "example": "Egy érintetlen tölgyes természetes, egy búzatábla mesterséges életközösség.",
+      "related": [
+        "termeszetes-eletkozosseg",
+        "mesterseges-eletkozosseg",
+        "biodiverzitas-csokkenese"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "övezetesség",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "termeszetes-eletkozosseg",
+      "term": "természetes életközösség",
+      "sourceLabels": [],
+      "parent": "eletkozosseg",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Emberi beavatkozás nélkül, a természetes környezeti feltételekhez alkalmazkodva kialakult, nagy fajgazdagságú, önfenntartó és viszonylag stabil életközösség.",
+      "example": "A Nagy-korallzátony és a trópusi esőerdők természetes életközösségek.",
+      "examplePlaces": [
+        "ausztralia-es-oceania--tajak--nagy-korallzatony"
+      ],
+      "related": [
+        "eletkozosseg",
+        "mesterseges-eletkozosseg",
+        "veszelyeztetett-elohely"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mesterseges-eletkozosseg",
+      "term": "mesterséges életközösség",
+      "sourceLabels": [],
+      "parent": "eletkozosseg",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az ember által létrehozott és fenntartott, kevés fajból álló életközösség, amely folyamatos emberi beavatkozás (vetés, gyomirtás, trágyázás) nélkül átalakulna.",
+      "example": "Egy kukoricatábla, gyümölcsös vagy telepített fenyves mesterséges életközösség.",
+      "related": [
+        "eletkozosseg",
+        "termeszetes-eletkozosseg",
+        "biogazdalkodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "mezőgazdaság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "veszelyeztetett-elohely",
+      "term": "veszélyeztetett élőhely",
+      "sourceLabels": [
+        "veszélyeztetett élőhely"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Olyan élőhely, amelynek kiterjedése vagy állapota emberi tevékenység (erdőirtás, lecsapolás, beépítés, szennyezés) vagy éghajlatváltozás miatt gyorsan romlik, ezért fennmaradása és a benne élő fajok veszélyben vannak.",
+      "example": "A trópusi esőerdők, a korallzátonyok és a vizes élőhelyek (lápok, mocsarak) veszélyeztetett élőhelyek.",
+      "examplePlaces": [
+        "amerika--tajak--amazonas-medence",
+        "ausztralia-es-oceania--tajak--nagy-korallzatony"
+      ],
+      "related": [
+        "biodiverzitas-csokkenese",
+        "termeszetes-eletkozosseg",
+        "natura-2000"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "biodiverzitas-csokkenese",
+      "term": "a biológiai sokféleség (biodiverzitás) csökkenése",
+      "aliases": [
+        "biodiverzitás csökkenése",
+        "biológiai sokféleség csökkenése"
+      ],
+      "sourceLabels": [
+        "a biológiai sokféleség (biodiverzitás) csökkenése"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A Föld élővilága változatosságának (fajok, génállomány, életközösségek sokféleségének) gyors, főként emberi tevékenység okozta csökkenése. Fő okai az élőhelyek pusztítása, a túlhasznosítás, a szennyezés, az idegenhonos fajok terjedése és a klímaváltozás.",
+      "example": "Az amazóniai esőerdő irtásával olyan fajok tűnhetnek el, amelyeket még le sem írtak.",
+      "examplePlaces": [
+        "amerika--tajak--amazonas-medence"
+      ],
+      "related": [
+        "veszelyeztetett-elohely",
+        "eletkozosseg",
+        "kornyezet-es-termeszetvedelem",
+        "bioszfera-rezervatum"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eltartokepesseg",
+      "term": "eltartóképesség",
+      "sourceLabels": [
+        "eltartóképesség"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az a legnagyobb népességszám, amelyet egy terület (vagy a Föld) természeti erőforrásai – a környezet tartós károsodása nélkül – hosszú távon el tudnak tartani. Függ a természeti adottságoktól, a technológiától és a fogyasztás mértékétől.",
+      "example": "A Szahel-övezetben a túllegeltetés és a népességnövekedés túllépte a terület eltartóképességét, ami elsivatagosodáshoz vezetett.",
+      "related": [
+        "tulnepesedes",
+        "okologiai-labnyom",
+        "fenntarthatosag"
+      ],
+      "tags": [
+        "6-témakör",
+        "népesség",
+        "fenntarthatóság",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tulnepesedes",
+      "term": "túlnépesedés",
+      "sourceLabels": [
+        "túlnépesedés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az az állapot, amikor egy terület népessége meghaladja annak eltartóképességét, vagyis a rendelkezésre álló erőforrások (élelmiszer, víz, munkahely, lakás) nem elegendők a lakosság megfelelő ellátásához.",
+      "example": "Banglades sűrűn lakott, gyorsan növő népessége súlyos élelmezési és környezeti gondokkal küzd.",
+      "examplePlaces": [
+        "azsia--orszagok--banglades"
+      ],
+      "related": [
+        "eltartokepesseg",
+        "szuletesszabalyozas",
+        "ehinseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "népesség",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szuletesszabalyozas",
+      "term": "születésszabályozás",
+      "sourceLabels": [
+        "születésszabályozás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A születések számának tudatos befolyásolása egyéni (családtervezés, fogamzásgátlás) vagy állami szinten (népesedéspolitika). Célja lehet a népességrobbanás mérséklése vagy éppen a születésszám növelése.",
+      "example": "Kína 1980 körül bevezetett, 2015-ben megszüntetett „egykepolitikája” szigorú állami születésszabályozás volt.",
+      "examplePlaces": [
+        "azsia--orszagok--kina"
+      ],
+      "related": [
+        "tulnepesedes",
+        "eltartokepesseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "népesség",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "elelmiszer-turtermeles",
+      "term": "élelmiszer-túltermelés",
+      "sourceLabels": [
+        "élelmiszer-túltermelés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az az állapot, amikor egy térségben több élelmiszert termelnek, mint amennyit a fizetőképes kereslet felvesz. Főként a fejlett országokra jellemző a mezőgazdaság támogatása és intenzív gépesítése miatt; eközben a Föld más részein éhínség van.",
+      "example": "Az 1980-as években az Európai Közösség vaj- és gabonafeleslegeket halmozott fel.",
+      "related": [
+        "turtermelesi-valsag",
+        "ehinseg",
+        "elelmezesi-valsag",
+        "tulfogyasztas"
+      ],
+      "tags": [
+        "6-témakör",
+        "mezőgazdaság",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tulfogyasztas",
+      "term": "túlfogyasztás",
+      "sourceLabels": [
+        "túlfogyasztás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A valódi szükségleteket meghaladó, pazarló fogyasztás, amely túlzott nyersanyag- és energiafelhasználással, sok hulladékkal és környezetterheléssel jár. Elsősorban a fejlett országok fogyasztói társadalmaira jellemző.",
+      "example": "A gyorsan cserélt divatruhák és elektronikai eszközök túlfogyasztás jelei.",
+      "related": [
+        "fogyasztoi-tarsadalom",
+        "okologiai-labnyom",
+        "tudatos-fogyasztoi-kozosseg",
+        "hulladekgazdalkodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "fenntarthatóság",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ehinseg",
+      "term": "éhínség",
+      "sourceLabels": [
+        "éhínség"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Egy térség lakosságának jelentős részét érintő, súlyos élelmiszerhiány, amely tömeges alultápláltsághoz, betegségekhez és halálesetekhez vezet. Kiváltója lehet aszály, háború, gazdasági válság vagy rossz kormányzás.",
+      "example": "Az 1980-as évek közepén Etiópiában pusztító éhínség volt.",
+      "examplePlaces": [
+        "afrika--orszagok--etiopia"
+      ],
+      "related": [
+        "ehsegovezet",
+        "alultaplaltsag",
+        "elelmezesi-valsag",
+        "mennyisegi-es-minosegi-ehezes"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "egyoldalu-taplalkozas",
+      "term": "egyoldalú táplálkozás",
+      "sourceLabels": [
+        "egyoldalú táplálkozás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Olyan táplálkozás, amelyből hiányoznak bizonyos fontos tápanyagok (fehérje, vitaminok, ásványi anyagok), mert az étrend kevés féle (gyakran főként szénhidrátban gazdag) élelmiszerből áll. A minőségi éhezés egyik formája.",
+      "example": "A szegény trópusi országokban a főként maniókán vagy rizsen alapuló étrend fehérjehiányt okozhat.",
+      "related": [
+        "alultaplaltsag",
+        "minosegi-ehezes",
+        "mennyisegi-es-minosegi-ehezes"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ehsegovezet",
+      "term": "éhségövezet",
+      "sourceLabels": [
+        "éhségövezet"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az a földrajzi térség, ahol a lakosság jelentős része tartósan éhezik vagy alultáplált. Főként a trópusi és a térítői övezet fejlődő országait (Afrika Szaharától délre eső részét, Dél-Ázsia egyes területeit) foglalja magába.",
+      "example": "A Szahel-övezet és Afrika szarva (pl. Etiópia, Szomália) az éhségövezet része.",
+      "examplePlaces": [
+        "afrika--orszagok--etiopia"
+      ],
+      "related": [
+        "ehinseg",
+        "alultaplaltsag",
+        "elelmezesi-valsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "alultaplaltsag",
+      "term": "alultápláltság",
+      "sourceLabels": [
+        "alultápláltság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A szervezet tartósan kevesebb energiát és/vagy tápanyagot kap, mint amennyire szüksége van. Következménye a testi és szellemi fejlődés lelassulása, a csökkent munkaképesség és a fertőzésekkel szembeni gyengébb ellenállás.",
+      "example": "Az alultáplált gyerekek körében a hasmenéses betegségek és a malária is gyakrabban halálos.",
+      "related": [
+        "ehinseg",
+        "egyoldalu-taplalkozas",
+        "mennyisegi-es-minosegi-ehezes",
+        "who"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "jarvany",
+      "term": "járvány",
+      "aliases": [
+        "epidémia",
+        "világjárvány",
+        "pandémia"
+      ],
+      "sourceLabels": [
+        "járvány"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Egy fertőző betegség rövid idő alatt sok emberre kiterjedő, a megszokottnál jóval gyakoribb előfordulása egy térségben. Ha több kontinensre, az egész világra kiterjed, világjárványról (pandémiáról) beszélünk.",
+      "example": "A COVID-19 világjárvány a globalizált közlekedés miatt hetek alatt az egész Földön elterjedt.",
+      "related": [
+        "who",
+        "alultaplaltsag",
+        "globalizacio"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "népesség",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hulladekgazdalkodas",
+      "term": "hulladékgazdálkodás",
+      "sourceLabels": [
+        "hulladékgazdálkodás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A hulladékok keletkezésének megelőzésére, gyűjtésére, szállítására, újrahasznosítására, energetikai hasznosítására és ártalmatlanítására irányuló tevékenységek rendszere. Fontossági sorrendje: megelőzés, újrahasználat, újrahasznosítás, energetikai hasznosítás, lerakás.",
+      "example": "A budapesti hulladékhasznosító mű a vegyes hulladék elégetésével energiát termel.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "szelektiv-hulladekgyujtes",
+        "tulfogyasztas",
+        "kornyezetgazdalkodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szelektiv-hulladekgyujtes",
+      "term": "szelektív hulladékgyűjtés",
+      "sourceLabels": [
+        "szelektív hulladékgyűjtés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A hulladékok anyaguk szerinti (papír, műanyag, fém, üveg, bio stb.) elkülönített gyűjtése, amely az újrahasznosítás feltétele, és csökkenti a lerakókra kerülő hulladék mennyiségét.",
+      "example": "A sárga kukába a műanyag- és fémhulladék, a kékbe a papír kerül.",
+      "related": [
+        "hulladekgazdalkodas",
+        "tudatos-fogyasztoi-kozosseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fogyasztoi-tarsadalom",
+      "term": "fogyasztói társadalom",
+      "sourceLabels": [
+        "fogyasztói társadalom"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Olyan társadalom, amelyben az életvitel és a társadalmi megbecsülés középpontjában az áruk és szolgáltatások egyre nagyobb mértékű fogyasztása áll; a gazdaság a folyamatosan növekvő fogyasztásra épül, amit a reklám és a tömegtermelés ösztönöz.",
+      "example": "A fejlett országokban sok, még használható terméket dobnak ki, mert divatjamúlt lett.",
+      "related": [
+        "tulfogyasztas",
+        "tudatos-fogyasztoi-kozosseg",
+        "tomegaru-termeles",
+        "okologiai-labnyom"
+      ],
+      "tags": [
+        "6-témakör",
+        "társadalom",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tudatos-fogyasztoi-kozosseg",
+      "term": "tudatos fogyasztói közösség",
+      "sourceLabels": [
+        "tudatos fogyasztói közösség"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Olyan fogyasztókból álló közösség, amelynek tagjai vásárlásaikkor figyelembe veszik a termék környezeti és társadalmi hatásait: mértékletesen fogyasztanak, helyi és környezetbarát termékeket választanak, kerülik a pazarlást.",
+      "example": "Egy lakóközösség helyi termelői piacon vásárol, és cserebörzét szervez.",
+      "related": [
+        "fogyasztoi-tarsadalom",
+        "tulfogyasztas",
+        "fenntarthatosag",
+        "fogyasztovedelem"
+      ],
+      "tags": [
+        "6-témakör",
+        "fenntarthatóság",
+        "társadalom",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fenntarthatosag",
+      "term": "fenntarthatóság",
+      "aliases": [
+        "fenntartható fejlődés"
+      ],
+      "sourceLabels": [
+        "fenntarthatóság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Olyan fejlődés és gazdálkodás, amely kielégíti a jelen nemzedékek szükségleteit anélkül, hogy veszélyeztetné a jövő nemzedékek lehetőségét saját szükségleteik kielégítésére. Egyensúlyt keres a környezeti, a társadalmi és a gazdasági szempontok között.",
+      "example": "A megújuló energiaforrások használata és a hulladék újrahasznosítása a fenntarthatóságot szolgálja.",
+      "related": [
+        "okologiai-labnyom",
+        "energiaforrasok",
+        "kornyezetgazdalkodas",
+        "tudatos-fogyasztoi-kozosseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "fenntarthatóság",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "okologiai-labnyom",
+      "term": "ökológiai lábnyom",
+      "sourceLabels": [
+        "ökológiai lábnyom"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az a biológiailag termékeny terület (földterület és vízfelület), amely egy ember, ország vagy az emberiség fogyasztásának megtermeléséhez és hulladékainak (pl. a kibocsátott szén-dioxidnak) elnyeléséhez szükséges. Globális hektárban fejezik ki.",
+      "example": "Egy átlagos észak-amerikai lakos ökológiai lábnyoma többszöröse egy afrikai lakosénak.",
+      "related": [
+        "vizlabnyom",
+        "eltartokepesseg",
+        "tulfogyasztas",
+        "fenntarthatosag"
+      ],
+      "tags": [
+        "6-témakör",
+        "fenntarthatóság",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "energiaforrasok",
+      "term": "megújuló és nem megújuló energiaforrások",
+      "sourceLabels": [
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az energiaforrásokat aszerint csoportosítjuk, hogy emberi időléptékben újratermelődnek-e. A megújulók a felhasználással nem fogynak el, a nem megújulók készlete véges.",
+      "example": "A napenergia megújuló, a kőszén nem megújuló energiaforrás.",
+      "related": [
+        "megujulo-energiaforras",
+        "nem-megujulo-energiaforras",
+        "energiahatekonysag",
+        "fenntarthatosag"
+      ],
+      "tags": [
+        "6-témakör",
+        "fenntarthatóság",
+        "ásványkincsek",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "megujulo-energiaforras",
+      "term": "megújuló energiaforrások",
+      "aliases": [
+        "megújuló energiaforrás"
+      ],
+      "sourceLabels": [],
+      "parent": "energiaforrasok",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Olyan energiaforrások, amelyek a természetben folyamatosan újratermelődnek, ezért felhasználásukkal nem fogynak el: nap-, szél-, víz-, geotermikus energia, biomassza, árapály-energia. Használatuk általában kevesebb üvegházhatású gázt bocsát ki.",
+      "example": "Magyarországon a napelemes kiserőművek és a geotermikus energia (hévizek) hasznosítása terjed.",
+      "related": [
+        "energiaforrasok",
+        "nem-megujulo-energiaforras",
+        "klimavalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nem-megujulo-energiaforras",
+      "term": "nem megújuló energiaforrások",
+      "aliases": [
+        "nem megújuló energiaforrás"
+      ],
+      "sourceLabels": [],
+      "parent": "energiaforrasok",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Olyan energiaforrások, amelyek készlete véges, mert keletkezésük földtörténeti időket vett igénybe: kőszén, kőolaj, földgáz és az atomenergia alapjául szolgáló urán. A fosszilis energiahordozók elégetése szén-dioxid-kibocsátással jár.",
+      "example": "A Perzsa-öböl térségének kőolajkészlete nem megújuló energiaforrás.",
+      "related": [
+        "energiaforrasok",
+        "megujulo-energiaforras",
+        "nyersanyag-es-energiavalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "ásványkincsek",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kornyezet-es-termeszetvedelem",
+      "term": "környezet- és természetvédelem",
+      "sourceLabels": [
+        "környezet- és természetvédelem"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az ember és környezete védelmére irányuló tevékenységek összessége. A környezetvédelem az élettelen és élő környezet elemeit (levegő, víz, talaj) védi a szennyezéstől, a természetvédelem pedig az élővilág, az élőhelyek, a tájak és a földtani értékek megőrzésére irányul.",
+      "example": "A szennyvíztisztítás környezetvédelem, egy nemzeti park kijelölése természetvédelem.",
+      "related": [
+        "kornyezetvedelem",
+        "termeszetvedelem",
+        "nemzeti-park",
+        "kornyezetgazdalkodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kornyezetvedelem",
+      "term": "környezetvédelem",
+      "sourceLabels": [],
+      "parent": "kornyezet-es-termeszetvedelem",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Azoknak a tevékenységeknek az összessége, amelyek a környezet elemeit (levegő, víz, talaj, élővilág, épített környezet) a szennyezéstől és a károsodástól óvják, illetve a már bekövetkezett károkat csökkentik.",
+      "example": "A gépjárművek kibocsátási határértékei és a szennyvíztisztítók építése környezetvédelmi intézkedések.",
+      "related": [
+        "kornyezet-es-termeszetvedelem",
+        "termeszetvedelem",
+        "hulladekgazdalkodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "termeszetvedelem",
+      "term": "természetvédelem",
+      "sourceLabels": [],
+      "parent": "kornyezet-es-termeszetvedelem",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A természeti értékek – fajok, életközösségek, élőhelyek, tájak, földtani és felszínalaktani értékek – megőrzésére irányuló tevékenység, elsősorban védett területek kijelölésével és kezelésével.",
+      "example": "A hazai nemzeti parkok, tájvédelmi körzetek és természetvédelmi területek a természetvédelmet szolgálják.",
+      "related": [
+        "kornyezet-es-termeszetvedelem",
+        "nemzeti-park",
+        "tajvedelmi-korzet",
+        "termeszetvedelmi-terulet"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nemzeti-park",
+      "term": "nemzeti park",
+      "sourceLabels": [
+        "nemzeti park"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "A legmagasabb szintű védelemben részesülő, viszonylag nagy kiterjedésű terület, ahol a természetes vagy kevéssé átalakított életközösségek, tájak, földtani értékek megőrzése mellett a kutatás, az oktatás és a szabályozott turizmus is helyet kap.",
+      "example": "Magyarország első nemzeti parkja az 1973-ban alapított Hortobágyi Nemzeti Park.",
+      "examplePlaces": [
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagyi-nemzeti-park",
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--aggteleki-nemzeti-park"
+      ],
+      "related": [
+        "termeszetvedelem",
+        "tajvedelmi-korzet",
+        "vilagorokseg",
+        "bioszfera-rezervatum"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "Magyarország",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vilagorokseg",
+      "term": "világörökség",
+      "sourceLabels": [
+        "világörökség"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "kozep",
+      "definition": "Az UNESCO világörökség-listájára felvett, az egész emberiség számára kiemelkedő egyetemes értéket képviselő kulturális vagy természeti helyszín, amelynek megőrzése nemzetközi kötelesség.",
+      "example": "Magyar világörökségi helyszín például Hollókő ófalu, a Hortobágy és Tokaj-Hegyalja borvidéke.",
+      "examplePlaces": [
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--holloko",
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagy",
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--tokaj-hegyalja-borvideke"
+      ],
+      "related": [
+        "unesco",
+        "nemzeti-park"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "társadalom",
+        "Magyarország",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "europa-tanacs",
+      "term": "Európa Tanács",
+      "sourceLabels": [
+        "Európa Tanács"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az 1949-ben alapított, az EU-tól független nemzetközi szervezet, amely az emberi jogok, a demokrácia és a jogállamiság védelmét szolgálja Európában; szinte minden európai állam tagja. Hozzá kapcsolódik az Emberi Jogok Európai Bírósága.",
+      "example": "Székhelye Strasbourg. Figyelj: nem uniós intézmény, ne keverd az Európai Tanáccsal!",
+      "examplePlaces": [
+        "europa--varosok--strasbourg"
+      ],
+      "related": [
+        "europai-tanacs",
+        "europai-unio-tanacsa",
+        "europai-unio-birosaga"
+      ],
+      "tags": [
+        "6-témakör",
+        "Európa",
+        "társadalom"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "usmca",
+      "term": "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)",
+      "aliases": [
+        "USMCA",
+        "NAFTA"
+      ],
+      "sourceLabels": [
+        "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az USA, Mexikó és Kanada szabadkereskedelmi egyezménye, amely 2020-ban a NAFTA (Észak-amerikai Szabadkereskedelmi Megállapodás) helyébe lépett. A tagok közötti vámmentes kereskedelmet biztosítja, közös külső vám nélkül.",
+      "example": "Az amerikai autógyárak mexikói összeszerelő üzemei a térség szabadkereskedelmét használják ki.",
+      "examplePlaces": [
+        "amerika--orszagok--amerikai-egyesult-allamok",
+        "amerika--orszagok--mexiko",
+        "amerika--orszagok--kanada"
+      ],
+      "related": [
+        "szabadkereskedelmi-ovezet",
+        "mercosur",
+        "apec"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "apec",
+      "term": "Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC)",
+      "aliases": [
+        "APEC"
+      ],
+      "sourceLabels": [
+        "Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A Csendes-óceán partvidékén fekvő ázsiai, amerikai és óceániai országok laza gazdasági együttműködési fóruma (1989), amely a kereskedelem és a befektetések liberalizálását segíti; tagjai között van az USA, Kína, Japán, Oroszország és Ausztrália is.",
+      "example": "Az APEC-országok adják a világ termelésének és kereskedelmének jelentős részét.",
+      "related": [
+        "asean",
+        "usmca",
+        "regionalis-egyuttmukodes"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "asean",
+      "term": "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)",
+      "aliases": [
+        "ASEAN"
+      ],
+      "sourceLabels": [
+        "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az 1967-ben alapított délkelet-ázsiai regionális együttműködés, amelynek célja a térség gazdasági növekedésének, politikai stabilitásának és kereskedelmének elősegítése; tagjai között szabadkereskedelmi övezetet hoztak létre.",
+      "example": "Tagja többek között Indonézia, Malajzia, Thaiföld, a Fülöp-szigetek és Szingapúr.",
+      "examplePlaces": [
+        "azsia--a-foldresz-reszei--delkelet-azsia",
+        "azsia--orszagok--indonezia",
+        "azsia--orszagok--malajzia",
+        "azsia--orszagok--thaifold",
+        "azsia--orszagok--szingapur"
+      ],
+      "related": [
+        "apec",
+        "regionalis-egyuttmukodes",
+        "szabadkereskedelmi-ovezet"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mercosur",
+      "term": "Dél-amerikai Közös Piac (MERCOSUR)",
+      "aliases": [
+        "MERCOSUR"
+      ],
+      "sourceLabels": [
+        "Dél-amerikai Közös Piac (MERCOSUR)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az 1991-ben Brazília, Argentína, Uruguay és Paraguay által létrehozott dél-amerikai integráció, amely (még nem teljes) vámunióként működik, és közös piac kialakítására törekszik.",
+      "example": "Brazília és Argentína a MERCOSUR két legnagyobb gazdasága.",
+      "examplePlaces": [
+        "amerika--orszagok--brazilia",
+        "amerika--orszagok--argentina"
+      ],
+      "related": [
+        "vamunio",
+        "kozos-piac",
+        "usmca"
+      ],
+      "tags": [
+        "6-témakör",
+        "integráció",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oecd",
+      "term": "Gazdasági Együttműködési és Fejlesztési Szervezet (OECD)",
+      "aliases": [
+        "OECD"
+      ],
+      "sourceLabels": [
+        "Gazdasági Együttműködési és Fejlesztési Szervezet (OECD)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Főként fejlett piacgazdaságú, demokratikus államokat tömörítő nemzetközi szervezet, amely a tagországok gazdaságpolitikájának összehangolását, elemzéseket, ajánlásokat és összehasonlító statisztikákat (pl. a PISA-felmérést) készít. Magyarország 1996 óta tagja.",
+      "example": "Székhelye Párizs.",
+      "examplePlaces": [
+        "europa--varosok--parizs"
+      ],
+      "related": [
+        "g8",
+        "wto",
+        "imf"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "g8",
+      "term": "G8",
+      "aliases": [
+        "G7",
+        "nyolcak csoportja"
+      ],
+      "sourceLabels": [
+        "G8"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A legfejlettebb ipari országok (USA, Japán, Németország, Egyesült Királyság, Franciaország, Olaszország, Kanada – a G7) és Oroszország állam- és kormányfőinek rendszeres csúcstalálkozója a világgazdasági és világpolitikai kérdések egyeztetésére. Oroszország részvételét 2014-ben felfüggesztették, azóta ismét G7-ként működik.",
+      "example": "A G7-csúcsokon a világgazdaság, a klímavédelem és a nemzetközi konfliktusok kérdéseit tárgyalják.",
+      "related": [
+        "triad",
+        "oecd",
+        "imf"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "wto",
+      "term": "Világkereskedelmi Szervezet (WTO)",
+      "aliases": [
+        "WTO"
+      ],
+      "sourceLabels": [
+        "Világkereskedelmi Szervezet (WTO)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az 1995-ben a GATT (Általános Vám- és Kereskedelmi Egyezmény) utódjaként létrejött nemzetközi szervezet, amely a világkereskedelem szabályait alkotja és felügyeli, elősegíti a vámok és kereskedelmi akadályok lebontását, és rendezi a tagok kereskedelmi vitáit.",
+      "example": "Székhelye Genf; Kína 2001-es csatlakozása felgyorsította világkereskedelmi térnyerését.",
+      "examplePlaces": [
+        "europa--varosok--genf"
+      ],
+      "related": [
+        "globalis-vilaggazdasag",
+        "imf",
+        "vilagbank",
+        "szabadkereskedelmi-ovezet"
+      ],
+      "tags": [
+        "6-témakör",
+        "globalizáció",
+        "szolgáltatás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "dow-jones-index",
+      "term": "Dow Jones-index",
+      "aliases": [
+        "Dow Jones"
+      ],
+      "sourceLabels": [
+        "Dow Jones-index"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A New York-i értéktőzsde egyik legrégebbi és legismertebb tőzsdeindexe, amely 30 nagy amerikai vállalat részvényárfolyamából számítva az amerikai (és a világ) részvénypiacának hangulatát jelzi.",
+      "example": "A Dow Jones-index 2008-as zuhanása jól mutatta a világméretű pénzügyi válság súlyosságát.",
+      "examplePlaces": [
+        "amerika--varosok--new-york"
+      ],
+      "related": [
+        "tozsdeindex",
+        "bux-index",
+        "ertektozsde"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bux-index",
+      "term": "BUX-index",
+      "aliases": [
+        "BUX"
+      ],
+      "sourceLabels": [
+        "BUX-index"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A Budapesti Értéktőzsde hivatalos részvényindexe, amely a tőzsdén forgó legnagyobb és legtöbbet kereskedett magyar vállalatok részvényárfolyamának változását mutatja.",
+      "example": "A BUX-index alakulását leginkább a legnagyobb hazai bank, olaj- és gyógyszeripari cég árfolyama befolyásolja.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "tozsdeindex",
+        "dow-jones-index",
+        "ertektozsde"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "imf",
+      "term": "Nemzetközi Valutaalap (IMF)",
+      "aliases": [
+        "IMF"
+      ],
+      "sourceLabels": [
+        "Nemzetközi Valutaalap (IMF)"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az 1944-es Bretton Woods-i konferencián létrehozott nemzetközi pénzügyi szervezet, amely a nemzetközi pénzügyi rendszer stabilitását őrzi: fizetési nehézségekkel küzdő tagállamainak rövid és középtávú hitelt nyújt, általában gazdaságpolitikai feltételekhez (pl. költségvetési kiigazításhoz) kötve.",
+      "example": "Székhelye Washington; 2008-ban Magyarország is IMF-hitelt vett fel a pénzügyi válság idején.",
+      "examplePlaces": [
+        "amerika--varosok--washington"
+      ],
+      "related": [
+        "vilagbank",
+        "adossagvalsag",
+        "atutemezes",
+        "monetaris-vilaggazdasag"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vilagbank",
+      "term": "Világbank",
+      "sourceLabels": [
+        "Világbank környezeti válság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az IMF-fel együtt, a Bretton Woods-i konferencián létrehozott nemzetközi pénzintézet-csoport, amely hosszú lejáratú, kedvezményes hiteleket és támogatásokat nyújt elsősorban fejlődő országok fejlesztési programjaira (infrastruktúra, oktatás, egészségügy, szegénység csökkentése).",
+      "example": "Székhelye Washington; világbanki hitelből épülhet például egy afrikai ország öntözőrendszere vagy erőműve.",
+      "examplePlaces": [
+        "amerika--varosok--washington"
+      ],
+      "related": [
+        "imf",
+        "adossag",
+        "atutemezes"
+      ],
+      "tags": [
+        "6-témakör",
+        "pénzügyek",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kornyezeti-valsag",
+      "term": "környezeti válság",
+      "sourceLabels": [
+        "Világbank környezeti válság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A természeti környezet állapotának az emberi tevékenység miatti, nagy területre (akár az egész Földre) kiterjedő, súlyos és nehezen visszafordítható romlása, amely a természeti rendszerek működését és az emberiség életfeltételeit is veszélyezteti. Okai a népességnövekedés, a túlfogyasztás, a nem fenntartható termelés és a szennyezés.",
+      "example": "A klímaváltozás, a biodiverzitás csökkenése és a talajpusztulás együtt a globális környezeti válság jelei.",
+      "related": [
+        "klimavalsag",
+        "kornyezeti-katasztrofa",
+        "biodiverzitas-csokkenese",
+        "helyi-regionalis-globalis-problema"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "klimavalsag",
+      "term": "klímaválság",
+      "aliases": [
+        "éghajlati válság",
+        "klímaváltozás"
+      ],
+      "sourceLabels": [
+        "klímaválság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az emberi tevékenység (főként a fosszilis energiahordozók elégetése és az erdőirtás) által kibocsátott üvegházhatású gázok okozta gyors globális felmelegedés és annak súlyos következményei: szélsőséges időjárási események, tengerszint-emelkedés, aszályok, élőhelyek pusztulása.",
+      "example": "A tengerszint emelkedése veszélyezteti Banglades alacsonyan fekvő, sűrűn lakott partvidékét.",
+      "examplePlaces": [
+        "azsia--orszagok--banglades"
+      ],
+      "related": [
+        "kornyezeti-valsag",
+        "megujulo-energiaforras",
+        "energiahatekonysag",
+        "globalis-problema"
+      ],
+      "tags": [
+        "6-témakör",
+        "éghajlat",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "elelmezesi-valsag",
+      "term": "élelmezési válság",
+      "sourceLabels": [
+        "élelmezési válság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor a Föld egyes térségeiben az élelmiszer-termelés és -elosztás nem tudja biztosítani a népesség megfelelő élelmezését. Okai között szerepel a gyors népességnövekedés, a szegénység, az aszály és talajpusztulás, a háborúk, valamint a termelés és a fogyasztás területi elkülönülése.",
+      "example": "Miközben a fejlett országokban élelmiszer-túltermelés van, a Szahel-övezetben milliók éheznek.",
+      "related": [
+        "ehinseg",
+        "elelmiszer-turtermeles",
+        "mennyisegi-es-minosegi-ehezes",
+        "ehsegovezet",
+        "gmo"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "mezőgazdaság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mennyisegi-es-minosegi-ehezes",
+      "term": "mennyiségi és minőségi éhezés",
+      "sourceLabels": [
+        "mennyiségi és minőségi éhezés"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az éhezés két formája: a mennyiségi éhezésnél a táplálék energiatartalma kevés, a minőségi éhezésnél az energiabevitel elegendő lehet, de hiányoznak fontos tápanyagok (fehérje, vitaminok, ásványi anyagok).",
+      "example": "Figyelj: aki elég kalóriát kap, de csak rizst eszik, minőségileg éhezik.",
+      "related": [
+        "mennyisegi-ehezes",
+        "minosegi-ehezes",
+        "alultaplaltsag",
+        "ehinseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mennyisegi-ehezes",
+      "term": "mennyiségi éhezés",
+      "sourceLabels": [],
+      "parent": "mennyisegi-es-minosegi-ehezes",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor az elfogyasztott táplálék energiatartalma (kalóriamennyisége) tartósan kevesebb a szervezet szükségleténél.",
+      "example": "Az éhínség sújtotta területeken a lakosság mennyiségileg éhezik.",
+      "related": [
+        "mennyisegi-es-minosegi-ehezes",
+        "minosegi-ehezes",
+        "ehinseg"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "minosegi-ehezes",
+      "term": "minőségi éhezés",
+      "sourceLabels": [],
+      "parent": "mennyisegi-es-minosegi-ehezes",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor a táplálék energiatartalma elegendő lehet, de összetétele egyoldalú, ezért hiányoznak belőle fontos tápanyagok (főleg fehérje, vitaminok, ásványi anyagok), ami hiánybetegségekhez vezet.",
+      "example": "A főleg maniókán élő trópusi falvakban gyakori a fehérjehiány.",
+      "related": [
+        "mennyisegi-es-minosegi-ehezes",
+        "egyoldalu-taplalkozas",
+        "mennyisegi-ehezes"
+      ],
+      "tags": [
+        "6-témakör",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "biogazdalkodas",
+      "term": "biogazdálkodás",
+      "aliases": [
+        "ökológiai gazdálkodás",
+        "organikus gazdálkodás"
+      ],
+      "sourceLabels": [
+        "biogazdálkodás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Környezetkímélő mezőgazdasági termelés, amely lemond a műtrágyák, a szintetikus növényvédő szerek és a GMO-k használatáról; vetésforgóval, szerves trágyával, biológiai növényvédelemmel és az állatok természetes tartásával dolgozik. Termékei drágábbak, hozamai kisebbek, de kíméli a talajt és az élővilágot.",
+      "example": "Az Őrségben több biogazdaság is működik, termékeiket „bio” minősítéssel értékesítik.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--orseg"
+      ],
+      "related": [
+        "gmo",
+        "mesterseges-eletkozosseg",
+        "kornyezetgazdalkodas"
+      ],
+      "tags": [
+        "6-témakör",
+        "mezőgazdaság",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gmo",
+      "term": "GMO",
+      "aliases": [
+        "genetikailag módosított szervezet"
+      ],
+      "sourceLabels": [
+        "GMO"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Genetikailag módosított szervezet: olyan élőlény, amelynek génállományát géntechnológiai módszerekkel, a természetes szaporodás során nem bekövetkező módon megváltoztatták (pl. kártevő- vagy gyomirtószer-tűrővé tették). Alkalmazásuk növelheti a hozamokat, de ökológiai és egészségügyi kockázatai vitatottak.",
+      "example": "Az USA-ban és Brazíliában nagy területen termesztenek GM-szóját és -kukoricát; Magyarországon GMO-növények termesztése tilos.",
+      "examplePlaces": [
+        "amerika--orszagok--amerikai-egyesult-allamok",
+        "amerika--orszagok--brazilia"
+      ],
+      "related": [
+        "biogazdalkodas",
+        "elelmezesi-valsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "mezőgazdaság",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizlabnyom",
+      "term": "vízlábnyom",
+      "sourceLabels": [
+        "vízlábnyom"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az a teljes (közvetlen és közvetett) édesvízmennyiség, amelyet egy termék előállítása, illetve egy ember, ország vagy vállalat fogyasztása igényel. Megmutatja, hogy fogyasztásunk mennyi vizet használ fel a világ különböző pontjain.",
+      "example": "Egy kilogramm marhahús vízlábnyoma sokszorosa egy kilogramm gabonáénak.",
+      "related": [
+        "okologiai-labnyom",
+        "fenntarthatosag",
+        "tulfogyasztas"
+      ],
+      "tags": [
+        "6-témakör",
+        "vízgazdálkodás",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nyersanyag-es-energiavalsag",
+      "term": "nyersanyag- és energiaválság",
+      "sourceLabels": [
+        "nyersanyag- és energiaválság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az a helyzet, amikor a nyersanyagok, illetve az energiahordozók iránti kereslet tartósan meghaladja a hozzáférhető kínálatot, vagy a kínálat politikai, gazdasági okokból hirtelen csökken, ezért áruk ugrásszerűen emelkedik, ami gazdasági visszaesést okoz.",
+      "example": "Az 1970-es évek kőolajár-robbanásai energiaválságot idéztek elő a fejlett országokban.",
+      "related": [
+        "nyersanyagvalsag",
+        "energiavalsag",
+        "koolajar-robbanas",
+        "energiahatekonysag"
+      ],
+      "tags": [
+        "6-témakör",
+        "ásványkincsek",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nyersanyagvalsag",
+      "term": "nyersanyagválság",
+      "sourceLabels": [],
+      "parent": "nyersanyag-es-energiavalsag",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Egy vagy több fontos nyersanyag (pl. érc, ritkaföldfém, mezőgazdasági nyersanyag) hiánya vagy hirtelen drágulása, amely az azt felhasználó iparágak termelését veszélyezteti.",
+      "example": "Ha néhány ország korlátozza a ritkaföldfémek exportját, az elektronikai ipar nyersanyagválságba kerülhet.",
+      "related": [
+        "nyersanyag-es-energiavalsag",
+        "energiavalsag"
+      ],
+      "tags": [
+        "6-témakör",
+        "ásványkincsek",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "energiavalsag",
+      "term": "energiaválság",
+      "sourceLabels": [],
+      "parent": "nyersanyag-es-energiavalsag",
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az energiahordozók (kőolaj, földgáz, villamos energia) hiánya vagy hirtelen drágulása, amely a gazdaság egészét és a háztartásokat is súlyosan érinti.",
+      "example": "Az 1973-as olajválság idején Európa egyes országaiban autómentes vasárnapokat vezettek be.",
+      "related": [
+        "nyersanyag-es-energiavalsag",
+        "koolajar-robbanas",
+        "opec",
+        "energiahatekonysag"
+      ],
+      "tags": [
+        "6-témakör",
+        "ásványkincsek",
+        "globális-problémák",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "energiahatekonysag",
+      "term": "energiahatékonyság",
+      "sourceLabels": [
+        "energiahatékonyság"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A hasznos teljesítmény (termék, szolgáltatás, kényelem) és az ehhez felhasznált energia aránya. Növelése azt jelenti, hogy ugyanazt kevesebb energiával érjük el, ami csökkenti a költségeket és a környezetterhelést.",
+      "example": "A ház hőszigetelése és a LED-izzók használata növeli az energiahatékonyságot.",
+      "related": [
+        "energiaforrasok",
+        "klimavalsag",
+        "nyersanyag-es-energiavalsag",
+        "fenntarthatosag"
+      ],
+      "tags": [
+        "6-témakör",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fogyasztovedelem",
+      "term": "fogyasztóvédelem",
+      "sourceLabels": [
+        "fogyasztóvédelem"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A fogyasztók egészségének, biztonságának és gazdasági érdekeinek védelmére irányuló jogszabályok, intézmények és tevékenységek összessége: a termékek minőségének ellenőrzése, a megtévesztő reklámok tiltása, a tájékoztatáshoz és a panasztételhez való jog biztosítása.",
+      "example": "Ha hibás terméket vásárolsz, a garancia és a szavatosság alapján kérheted a javítást vagy cserét.",
+      "related": [
+        "tudatos-fogyasztoi-kozosseg",
+        "fogyasztoi-tarsadalom",
+        "thm"
+      ],
+      "tags": [
+        "6-témakör",
+        "társadalom",
+        "szolgáltatás",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kornyezetgazdalkodas",
+      "term": "környezetgazdálkodás",
+      "sourceLabels": [
+        "környezetgazdálkodás"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "A természeti erőforrások és a környezet tervszerű, takarékos és fenntartható hasznosítását célzó tevékenység, amely a gazdasági döntésekbe beépíti a környezeti szempontokat (pl. szennyezés megelőzése, hulladékgazdálkodás, a „szennyező fizet” elv).",
+      "example": "Egy település összehangolja vízgazdálkodását, hulladékkezelését és zöldterület-fejlesztését.",
+      "related": [
+        "hulladekgazdalkodas",
+        "fenntarthatosag",
+        "kornyezet-es-termeszetvedelem"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "termeszetvedelmi-terulet",
+      "term": "természetvédelmi terület",
+      "sourceLabels": [
+        "természetvédelmi terület"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Kisebb kiterjedésű védett terület, amelyet egy-egy jellegzetes, különleges természeti érték (ritka faj, életközösség, földtani képződmény) megóvására jelölnek ki. Magyarországon a nemzeti park és a tájvédelmi körzet mellett az országos jelentőségű védett területek egyik kategóriája.",
+      "example": "Egy ritka orchideafaj élőhelyéül szolgáló láprét természetvédelmi területként védett.",
+      "related": [
+        "termeszetvedelem",
+        "tajvedelmi-korzet",
+        "nemzeti-park",
+        "naturpark"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "Magyarország",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tajvedelmi-korzet",
+      "term": "tájvédelmi körzet",
+      "sourceLabels": [
+        "tájvédelmi körzet"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Nagyobb kiterjedésű védett terület, amelynek célja a jellegzetes tájképi, természeti és kultúrtörténeti értékek megőrzése; a hagyományos, tájba illő gazdálkodás folytatható benne.",
+      "example": "Hazai példa a Mátrai Tájvédelmi Körzet.",
+      "related": [
+        "termeszetvedelmi-terulet",
+        "nemzeti-park",
+        "naturpark"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "Magyarország",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bioszfera-rezervatum",
+      "term": "bioszféra rezervátum",
+      "aliases": [
+        "bioszféra-rezervátum"
+      ],
+      "sourceLabels": [
+        "bioszféra rezervátum"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az UNESCO Ember és Bioszféra (MAB) programja keretében kijelölt terület, amely a természet védelmét, a fenntartható gazdálkodást és a kutatást egyesíti. Szigorúan védett magterületből, pufferzónából és a fenntartható gazdálkodást szolgáló átmeneti zónából áll.",
+      "example": "Magyarországon bioszféra rezervátum például a Hortobágy és a Kiskunság.",
+      "examplePlaces": [
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagyi-nemzeti-park",
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--kiskunsagi-nemzeti-park"
+      ],
+      "related": [
+        "unesco",
+        "nemzeti-park",
+        "biodiverzitas-csokkenese"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "fenntarthatóság",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "naturpark",
+      "term": "natúrpark",
+      "sourceLabels": [
+        "natúrpark"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Nagyobb, egységes tájképi és természeti értékekben gazdag terület, ahol a természeti és kulturális örökség megőrzését a helyi közösségek fejlődésével, a szelíd turizmussal és a környezeti neveléssel kapcsolják össze. Nem feltétlenül védett terület, a helyi közösségek együttműködésén alapul.",
+      "example": "Magyarországon például az Írottkő és a Vértes térségében működik natúrpark.",
+      "related": [
+        "tajvedelmi-korzet",
+        "termeszetvedelmi-terulet",
+        "fenntarthatosag"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "Magyarország",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "natura-2000",
+      "term": "Natura 2000",
+      "sourceLabels": [
+        "Natura 2000"
+      ],
+      "parent": null,
+      "topicNo": 6,
+      "subtopic": "A 6. témakörhöz tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az Európai Unió egységes ökológiai hálózata, amely a madárvédelmi és az élőhelyvédelmi irányelv alapján kijelölt területekből áll. Célja a közösségi szinten veszélyeztetett fajok és élőhelytípusok megőrzése; a területeken a gazdálkodás folytatható, de a természeti értékeket nem károsíthatja.",
+      "example": "Magyarország területének jelentős része Natura 2000 terület, például a Fertő–Hanság térsége.",
+      "examplePlaces": [
+        "magyarorszag--nemzeti-parkok-vilagoroksegek--ferto-hansag-nemzeti-park"
+      ],
+      "related": [
+        "veszelyeztetett-elohely",
+        "termeszetvedelem",
+        "europai-unio"
+      ],
+      "tags": [
+        "6-témakör",
+        "környezetvédelem",
+        "EU",
+        "10-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  ]
+}

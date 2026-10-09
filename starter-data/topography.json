@@ -1,0 +1,6426 @@
+{
+ "_source": "Földrajz részletes érettségi vizsgakövetelmény (2024-től), Oktatási Hivatal",
+ "levels": {
+  "kozep": "középszint",
+  "emelt": "emelt szint (csak emelten kell)"
+ },
+ "count": 802,
+ "items": [
+  {
+   "id": "fold--foldrajzi-fokhalozat--bakterito",
+   "name": "Baktérítő",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldrajzi-fokhalozat--deli-sark",
+   "name": "Déli-sark",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldrajzi-fokhalozat--deli-sarkkor",
+   "name": "Déli sarkkör",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldrajzi-fokhalozat--egyenlito",
+   "name": "Egyenlítő",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldrajzi-fokhalozat--eszaki-sark",
+   "name": "Északi-sark",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldrajzi-fokhalozat--eszaki-sarkkor",
+   "name": "Északi sarkkör",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldrajzi-fokhalozat--rakterito",
+   "name": "Ráktérítő",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor",
+   "name": "kezdő hosszúsági kör (greenwichi délkör)",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrajzi fokhálózat",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldreszek--afrika",
+   "name": "Afrika",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrészek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldreszek--amerika",
+   "name": "Amerika",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrészek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldreszek--antarktika",
+   "name": "Antarktika",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrészek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldreszek--ausztralia",
+   "name": "Ausztrália",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrészek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldreszek--azsia",
+   "name": "Ázsia",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrészek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldreszek--europa",
+   "name": "Európa",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrészek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--foldreszek--eurazsia",
+   "name": "Eurázsia",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Földrészek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--oceanok--atlanti-ocean",
+   "name": "Atlanti-óceán",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Óceánok",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--oceanok--csendes-ocean",
+   "name": "Csendes-óceán",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Óceánok",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--oceanok--deli-ocean",
+   "name": "Déli-óceán",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Óceánok",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--oceanok--indiai-ocean",
+   "name": "Indiai-óceán",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Óceánok",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--oceanok--jeges-ocean-jeges-tenger",
+   "name": "Jeges-óceán (Jeges-tenger)",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Óceánok",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--afrikai-lemez",
+   "name": "Afrikai-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--antarktiszi-lemez",
+   "name": "Antarktiszi-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--arab-lemez",
+   "name": "Arab-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--ausztral-indiai-lemez",
+   "name": "Ausztrál–Indiai-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--csendes-oceani-lemez",
+   "name": "Csendes-óceáni-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--del-amerikai-lemez",
+   "name": "Dél-amerikai-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--eszak-amerikai-lemez",
+   "name": "Észak-amerikai-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--eurazsiai-lemez",
+   "name": "Eurázsiai-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--fulop-lemez-filippino-lemez",
+   "name": "Fülöp-lemez (Filippínó-lemez)",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--kozetlemezek--nazca-lemez",
+   "name": "Nazca-lemez",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Kőzetlemezek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--afrikai-osfold",
+   "name": "Afrikai-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--angara-osfold",
+   "name": "Angara-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--antarktiszi-osfold",
+   "name": "Antarktiszi-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--arab-osfold",
+   "name": "Arab-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--balti-osfold",
+   "name": "Balti-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--brazil-osfold",
+   "name": "Brazil-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--dekkan-osfold",
+   "name": "Dekkán-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--guyanai-osfold",
+   "name": "Guyanai-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--kanadai-osfold",
+   "name": "Kanadai-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--kinai-osfold",
+   "name": "Kínai-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold",
+   "name": "Nyugat-ausztráliai-ősföld",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer",
+   "name": "Eurázsiai-hegységrendszer",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--kaledoniai-hegysegrendszer",
+   "name": "Kaledóniai-hegységrendszer",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--pacifikus-hegysegrendszer",
+   "name": "Pacifikus-hegységrendszer",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--variszkuszi-hegysegrendszer",
+   "name": "Variszkuszi-hegységrendszer",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--japan-arok",
+   "name": "Japán-árok",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--nagyszerkezeti-egysegek--mariana-arok",
+   "name": "Mariana-árok",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Nagyszerkezeti egységek",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--tengeraramlasok--eszak-atlanti-aramlas",
+   "name": "Észak-atlanti-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--tengeraramlasok--golf-aramlas",
+   "name": "Golf-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--tengeraramlasok--kanari-aramlas",
+   "name": "Kanári-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--tengeraramlasok--labrador-aramlas",
+   "name": "Labrador-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--tengeraramlasok--nyugati-szel-aramlas",
+   "name": "Nyugati-szél-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--tengeraramlasok--benguela-aramlas",
+   "name": "Benguela-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "emelt"
+  },
+  {
+   "id": "fold--tengeraramlasok--braziliai-aramlas",
+   "name": "Brazíliai-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "emelt"
+  },
+  {
+   "id": "fold--tengeraramlasok--del-egyenlitoi-aramlas",
+   "name": "Dél-egyenlítői-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "emelt"
+  },
+  {
+   "id": "fold--tengeraramlasok--eszak-egyenlitoi-aramlas",
+   "name": "Észak-egyenlítői-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "emelt"
+  },
+  {
+   "id": "fold--tengeraramlasok--humboldt-aramlas",
+   "name": "Humboldt-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "emelt"
+  },
+  {
+   "id": "fold--tengeraramlasok--kuro-shio-aramlas",
+   "name": "Kuro-shio-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "emelt"
+  },
+  {
+   "id": "fold--tengeraramlasok--oja-shio-aramlas",
+   "name": "Oja-shio-áramlás",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Tengeráramlások",
+   "level": "emelt"
+  },
+  {
+   "id": "fold--egyeb--deli-sarkvidek-antarktisz",
+   "name": "Déli-sarkvidék (Antarktisz)",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Egyéb",
+   "level": "kozep"
+  },
+  {
+   "id": "fold--egyeb--eszaki-sarkvidek-arktisz",
+   "name": "Északi-sarkvidék (Arktisz)",
+   "region": "Föld",
+   "regionNo": 1,
+   "category": "Egyéb",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--a-foldresz-reszei--eszak-afrika",
+   "name": "Észak-Afrika",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--a-foldresz-reszei--tropusi-afrika-szubszaharai-afrika",
+   "name": "Trópusi-Afrika (szubszaharai Afrika)",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--afrikai-arokrendszer",
+   "name": "Afrikai-árokrendszer",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--atlasz",
+   "name": "Atlasz",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--del-afrikai-magasfold",
+   "name": "Dél-afrikai-magasföld",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--etiop-magasfold",
+   "name": "Etióp-magasföld",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--kelet-afrikai-magasfold",
+   "name": "Kelet-afrikai-magasföld",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--kilimandzsaro-kilimandzsaro-csoport",
+   "name": "Kilimandzsáró (Kilimandzsáró-csoport)",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--kongo-medence",
+   "name": "Kongó-medence",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--madagaszkar",
+   "name": "Madagaszkár",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--szahara",
+   "name": "Szahara",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--szudan",
+   "name": "Szudán",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--szahel-szahel-ov",
+   "name": "Száhel (Száhel-öv)",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--tajak--kalahari-medence",
+   "name": "Kalahári-medence",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--tajak--kanari-szigetek",
+   "name": "Kanári-szigetek",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--tajak--namib-sivatag",
+   "name": "Namib-sivatag",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--tajak--teleki-vulkan",
+   "name": "Teleki-vulkán",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--vizrajz--gibraltari-szoros",
+   "name": "Gibraltári-szoros",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--guineai-obol",
+   "name": "Guineai-öböl",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--kongo",
+   "name": "Kongó",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--nilus",
+   "name": "Nílus",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--szuezi-csatorna",
+   "name": "Szuezi-csatorna",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--tanganyika-to",
+   "name": "Tanganyika-tó",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--viktoria-to",
+   "name": "Viktória-tó",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--voros-tenger",
+   "name": "Vörös-tenger",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--asszuani-gat-asszuani-nagy-gat",
+   "name": "Asszuáni-gát (asszuáni Nagy-gát)",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--vizrajz--csad-to",
+   "name": "Csád-tó",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--vizrajz--niger",
+   "name": "Niger",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--vizrajz--zambezi",
+   "name": "Zambézi",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--orszagok--del-afrikai-koztarsasag",
+   "name": "Dél-afrikai Köztársaság",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--orszagok--egyiptom",
+   "name": "Egyiptom",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--orszagok--kenya",
+   "name": "Kenya",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--orszagok--libia",
+   "name": "Líbia",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--orszagok--niger",
+   "name": "Niger",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--orszagok--nigeria",
+   "name": "Nigéria",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--orszagok--tunezia",
+   "name": "Tunézia",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--orszagok--algeria",
+   "name": "Algéria",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--orszagok--csad",
+   "name": "Csád",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--orszagok--etiopia",
+   "name": "Etiópia",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--orszagok--liberia",
+   "name": "Libéria",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--orszagok--marokko",
+   "name": "Marokkó",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--orszagok--seychelle-szigetek",
+   "name": "Seychelle-szigetek",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--varosok--abuja",
+   "name": "Abuja",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--varosok--kairo",
+   "name": "Kairó",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--varosok--pretoria",
+   "name": "Pretoria",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "afrika--varosok--alexandria",
+   "name": "Alexandria",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--varosok--fokvaros",
+   "name": "Fokváros",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--varosok--johannesburg",
+   "name": "Johannesburg",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "afrika--varosok--lagos",
+   "name": "Lagos",
+   "region": "Afrika",
+   "regionNo": 2,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--a-foldresz-reszei--eszak-amerika",
+   "name": "Észak-Amerika",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--a-foldresz-reszei--del-amerika",
+   "name": "Dél-Amerika",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--a-foldresz-reszei--kozep-amerika",
+   "name": "Közép-Amerika",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--a-foldresz-reszei--latin-amerika",
+   "name": "Latin-Amerika",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--alaszka",
+   "name": "Alaszka",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--amazonas-medence",
+   "name": "Amazonas-medence",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--andok",
+   "name": "Andok",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--antillak",
+   "name": "Antillák",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--appalache-hegyseg-appalache",
+   "name": "Appalache-hegység (Appalache)",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--brazil-felfold",
+   "name": "Brazil-felföld",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--floridai-felsziget",
+   "name": "Floridai-félsziget",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--gronland",
+   "name": "Grönland",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--guyanai-hegyvidek",
+   "name": "Guyanai-hegyvidék",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--hawaii-szigetek",
+   "name": "Hawaii-szigetek",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--kaliforniai-felsziget",
+   "name": "Kaliforniai-félsziget",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--kordillerak",
+   "name": "Kordillerák",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--labrador-felsziget",
+   "name": "Labrador-félsziget",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--mexikoi-fennsik",
+   "name": "Mexikói-fennsík",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--mississippi-alfold",
+   "name": "Mississippi-alföld",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--mount-st-helens",
+   "name": "Mount St. Helens",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--parana-alfold",
+   "name": "Paraná-alföld",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--preri",
+   "name": "Préri",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--sziklas-hegyseg",
+   "name": "Sziklás-hegység",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--szilicium-volgy",
+   "name": "Szilícium-völgy",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--tajak--atacama-sivatag",
+   "name": "Atacama-sivatag",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--tajak--bahama-szigetek",
+   "name": "Bahama-szigetek",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--tajak--orinoco-medence",
+   "name": "Orinoco-medence",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--tajak--popocatepetl",
+   "name": "Popocatépetl",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--tajak--yellowstone-nemzeti-park",
+   "name": "Yellowstone Nemzeti Park",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--vizrajz--amazonas",
+   "name": "Amazonas",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--colorado",
+   "name": "Colorado",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--karib-antilla-tenger",
+   "name": "Karib (Antilla)-tenger",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--mexikoi-obol",
+   "name": "Mexikói-öböl",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--mississippi",
+   "name": "Mississippi",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--nagy-tavak-erie-felso-huron-michigan-ontario-to",
+   "name": "Nagy-tavak (Erie-, Felső-, Huron-, Michigan-, Ontario-tó)",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--niagara-vizeses",
+   "name": "Niagara-vízesés",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--panama-csatorna",
+   "name": "Panama-csatorna",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--parana",
+   "name": "Paraná",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--szent-lorinc-folyo",
+   "name": "Szent Lőrinc-folyó",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--vizrajz--hudson-obol",
+   "name": "Hudson-öböl",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--vizrajz--itaipu-gat",
+   "name": "Itaipu-gát",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--vizrajz--krater-to",
+   "name": "Kráter-tó",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--vizrajz--la-plata",
+   "name": "La Plata",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--vizrajz--orinoco",
+   "name": "Orinoco",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--orszagok--amerikai-egyesult-allamok",
+   "name": "Amerikai Egyesült Államok",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--orszagok--argentina",
+   "name": "Argentína",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--orszagok--brazilia",
+   "name": "Brazília",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--orszagok--costa-rica",
+   "name": "Costa Rica",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--orszagok--kanada",
+   "name": "Kanada",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--orszagok--mexiko",
+   "name": "Mexikó",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--orszagok--venezuela",
+   "name": "Venezuela",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--orszagok--bolivia",
+   "name": "Bolívia",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--orszagok--chile",
+   "name": "Chile",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--orszagok--dominikai-koztarsasag",
+   "name": "Dominikai Köztársaság",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--orszagok--ecuador",
+   "name": "Ecuador",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--orszagok--kolumbia",
+   "name": "Kolumbia",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--orszagok--kuba",
+   "name": "Kuba",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--orszagok--panama",
+   "name": "Panama",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--atlanta",
+   "name": "Atlanta",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--braziliavaros",
+   "name": "Brazíliaváros",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--buenos-aires",
+   "name": "Buenos Aires",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--caracas",
+   "name": "Caracas",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--chicago",
+   "name": "Chicago",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--dallas",
+   "name": "Dallas",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--houston",
+   "name": "Houston",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--los-angeles",
+   "name": "Los Angeles",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--mexikovaros",
+   "name": "Mexikóváros",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--new-orleans",
+   "name": "New Orleans",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--new-york",
+   "name": "New York",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--ottawa",
+   "name": "Ottawa",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--rio-de-janeiro",
+   "name": "Rio de Janeiro",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--san-francisco",
+   "name": "San Francisco",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--seattle",
+   "name": "Seattle",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--washington",
+   "name": "Washington",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "amerika--varosok--boston",
+   "name": "Boston",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--detroit",
+   "name": "Detroit",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--havanna",
+   "name": "Havanna",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--miami",
+   "name": "Miami",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--montreal",
+   "name": "Montréal",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--santiago",
+   "name": "Santiago",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--s-o-paulo",
+   "name": "São Paulo",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--toronto",
+   "name": "Toronto",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "amerika--varosok--vancouver",
+   "name": "Vancouver",
+   "region": "Amerika",
+   "regionNo": 3,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--ausztraliai-alfold",
+   "name": "Ausztráliai-alföld",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--nagy-artezi-medence",
+   "name": "Nagy-Artézi-medence",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--nagy-korallzatony",
+   "name": "Nagy-korallzátony",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--nagy-vizvalaszto-hegyseg",
+   "name": "Nagy-Vízválasztó-hegység",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--melanezia",
+   "name": "Melanézia",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--mikronezia",
+   "name": "Mikronézia",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--polinezia",
+   "name": "Polinézia",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--tasmania",
+   "name": "Tasmánia",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "ausztralia-es-oceania--tajak--uj-guinea",
+   "name": "Új-Guinea",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "ausztralia-es-oceania--vizrajz--murray",
+   "name": "Murray",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--orszagok--ausztralia",
+   "name": "Ausztrália",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--orszagok--uj-zeland",
+   "name": "Új-Zéland",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "ausztralia-es-oceania--varosok--canberra",
+   "name": "Canberra",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--varosok--melbourne",
+   "name": "Melbourne",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--varosok--sydney",
+   "name": "Sydney",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "ausztralia-es-oceania--varosok--wellington",
+   "name": "Wellington",
+   "region": "Ausztrália és Óceánia",
+   "regionNo": 4,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--del-azsia",
+   "name": "Dél-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--delkelet-azsia",
+   "name": "Délkelet-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--delnyugat-azsia",
+   "name": "Délnyugat-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--eszak-azsia",
+   "name": "Észak-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--kelet-azsia",
+   "name": "Kelet-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--kozep-azsia",
+   "name": "Közép-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--belso-azsia",
+   "name": "Belső-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--a-foldresz-reszei--kozel-kelet",
+   "name": "Közel-Kelet",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--arab-felsziget",
+   "name": "Arab-félsziget",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--csomolungma-mt-everest",
+   "name": "Csomolungma (Mt. Everest)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--dekkan-fennsik",
+   "name": "Dekkán-fennsík",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--del-kinai-hegyvidek",
+   "name": "Dél-kínai-hegyvidék",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--fuji-fudzsi",
+   "name": "Fuji (Fudzsi)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--fulop-szigetek",
+   "name": "Fülöp-szigetek",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--gobi",
+   "name": "Góbi",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--himalaja",
+   "name": "Himalája",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--hindusztani-alfold",
+   "name": "Hindusztáni-alföld",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--hindusztani-felsziget",
+   "name": "Hindusztáni-félsziget",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--indokinai-felsziget",
+   "name": "Indokínai-félsziget",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--indonez-szigetvilag",
+   "name": "Indonéz-szigetvilág",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--japan-szigetek",
+   "name": "Japán-szigetek",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--java",
+   "name": "Jáva",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--kamcsatka-felsziget",
+   "name": "Kamcsatka-félsziget",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--kaszpi-melyfold",
+   "name": "Kaszpi-mélyföld",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--kaukazus",
+   "name": "Kaukázus",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--kinai-alfold",
+   "name": "Kínai-alföld",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--kis-azsia",
+   "name": "Kis-Ázsia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--koreai-felsziget",
+   "name": "Koreai-félsziget",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--kozep-sziberiai-fennsik",
+   "name": "Közép-szibériai-fennsík",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--mezopotamia",
+   "name": "Mezopotámia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--nyugat-sziberiai-alfold",
+   "name": "Nyugat-szibériai-alföld",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--pamir",
+   "name": "Pamír",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--sziberia",
+   "name": "Szibéria",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--tajvan",
+   "name": "Tajvan",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--takla-makan",
+   "name": "Takla-Makán",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--tibet",
+   "name": "Tibet",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--tajak--irani-felfold",
+   "name": "Iráni-felföld",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--tajak--krakatau",
+   "name": "Krakatau",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--tajak--tien-san",
+   "name": "Tien-san",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--tajak--turani-alfold",
+   "name": "Turáni-alföld",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--vizrajz--aral-to",
+   "name": "Aral-tó",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--bajkal-to",
+   "name": "Bajkál-tó",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--bering-szoros",
+   "name": "Bering-szoros",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--boszporusz",
+   "name": "Boszporusz",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--eufratesz",
+   "name": "Eufrátesz",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--gangesz",
+   "name": "Gangesz",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--holt-tenger",
+   "name": "Holt-tenger",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--indus",
+   "name": "Indus",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--jangce",
+   "name": "Jangce",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--japan-keleti-tenger",
+   "name": "Japán (Keleti)-tenger",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--jenyiszej",
+   "name": "Jenyiszej",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--kaszpi-tenger",
+   "name": "Kaszpi-tenger",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--lena",
+   "name": "Léna",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--ob",
+   "name": "Ob",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--perzsa-arab-obol",
+   "name": "Perzsa (Arab)-öböl",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--sarga-folyo",
+   "name": "Sárga-folyó",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--tigris",
+   "name": "Tigris",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--harom-szurdok-gat",
+   "name": "Három-szurdok-gát",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--vizrajz--bengali-obol",
+   "name": "Bengáli-öböl",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--vizrajz--brahmaputra",
+   "name": "Brahmaputra",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--vizrajz--dardanellak",
+   "name": "Dardanellák",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--vizrajz--mekong",
+   "name": "Mekong",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--orszagok--egyesult-arab-emirsegek",
+   "name": "Egyesült Arab Emírségek",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--del-korea-koreai-koztarsasag",
+   "name": "Dél-Korea (Koreai Köztársaság)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--fulop-szigetek",
+   "name": "Fülöp-szigetek",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--india",
+   "name": "India",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--indonezia",
+   "name": "Indonézia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--irak",
+   "name": "Irak",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--iran",
+   "name": "Irán",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--izrael",
+   "name": "Izrael",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--japan",
+   "name": "Japán",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--kina",
+   "name": "Kína",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--malajzia",
+   "name": "Malajzia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--szaud-arabia",
+   "name": "Szaúd-Arábia",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--szingapur",
+   "name": "Szingapúr",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--thaifold",
+   "name": "Thaiföld",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--torokorszag",
+   "name": "Törökország",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--orszagok--afganisztan",
+   "name": "Afganisztán",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--orszagok--banglades",
+   "name": "Banglades",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--orszagok--eszak-korea-koreai-nepi-demokratikus-koztarsasag",
+   "name": "Észak-Korea (Koreai Népi Demokratikus Köztársaság)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--orszagok--kazahsztan",
+   "name": "Kazahsztán",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--orszagok--kuvait",
+   "name": "Kuvait",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--orszagok--pakisztan",
+   "name": "Pakisztán",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--ankara",
+   "name": "Ankara",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--bagdad",
+   "name": "Bagdad",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--bangkok",
+   "name": "Bangkok",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--bengaluru-bangalore",
+   "name": "Bengaluru (Bangalore)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--hongkong",
+   "name": "Hongkong",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--isztambul",
+   "name": "Isztambul",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--jakarta",
+   "name": "Jakarta",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--jekatyerinburg",
+   "name": "Jekatyerinburg",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--jeruzsalem",
+   "name": "Jeruzsálem",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--jokohama-yokohama",
+   "name": "Jokohama (Yokohama)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--kanton",
+   "name": "Kanton",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--kolkata-calcutta",
+   "name": "Kolkata (Calcutta)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--manila",
+   "name": "Manila",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--mekka",
+   "name": "Mekka",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--mumbai-bombay",
+   "name": "Mumbai (Bombay)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--oszaka-osaka",
+   "name": "Oszaka (Osaka)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--peking",
+   "name": "Peking",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--rijad",
+   "name": "Rijád",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--sanghaj",
+   "name": "Sanghaj",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--szoul",
+   "name": "Szöul",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--teheran",
+   "name": "Teherán",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--tokio",
+   "name": "Tokió",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--ujdelhi",
+   "name": "Újdelhi",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--varanaszi-benares",
+   "name": "Váránaszi (Benares)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--vlagyivosztok",
+   "name": "Vlagyivosztok",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--vuhan",
+   "name": "Vuhan",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--dubaj",
+   "name": "Dubaj",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "azsia--varosok--cseljabinszk",
+   "name": "Cseljabinszk",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--csennai-madras",
+   "name": "Csennai (Madras)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--kioto-kyoto",
+   "name": "Kiotó (Kyoto)",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--krasznojarszk",
+   "name": "Krasznojarszk",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--novoszibirszk",
+   "name": "Novoszibirszk",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--sencsen",
+   "name": "Sencsen",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--tel-aviv-jaffa",
+   "name": "Tel Aviv-Jaffa",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "azsia--varosok--tiencsin",
+   "name": "Tiencsin",
+   "region": "Ázsia",
+   "regionNo": 5,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--a-foldresz-reszei--del-europa",
+   "name": "Dél-Európa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--a-foldresz-reszei--eszak-europa",
+   "name": "Észak-Európa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--a-foldresz-reszei--kelet-europa",
+   "name": "Kelet-Európa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--a-foldresz-reszei--kelet-kozep-europa",
+   "name": "Kelet-Közép-Európa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--a-foldresz-reszei--kozep-europa",
+   "name": "Közép-Európa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--a-foldresz-reszei--nyugat-europa",
+   "name": "Nyugat-Európa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "A földrész részei",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--alpok",
+   "name": "Alpok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--appenninek",
+   "name": "Appenninek",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--appennini-felsziget",
+   "name": "Appennini-félsziget",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--balkan-felsziget",
+   "name": "Balkán-félsziget",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--balkan-hegyseg",
+   "name": "Balkán-hegység",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--becsi-medence",
+   "name": "Bécsi-medence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--brit-szigetek",
+   "name": "Brit-szigetek",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--ciprus",
+   "name": "Ciprus",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--csallokoz",
+   "name": "Csallóköz",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--cseh-medence",
+   "name": "Cseh-medence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--dalmacia",
+   "name": "Dalmácia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--deli-karpatok",
+   "name": "Déli-Kárpátok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--dinari-hegyseg",
+   "name": "Dinári-hegység",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--duna-delta",
+   "name": "Duna-delta",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--erdelyi-medence",
+   "name": "Erdélyi-medence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--erdelyi-szigethegyseg-erdelyi-kozephegyseg",
+   "name": "Erdélyi-szigethegység (Erdélyi-középhegység)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--etna",
+   "name": "Etna",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--eszakkeleti-karpatok",
+   "name": "Északkeleti-Kárpátok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--eszaknyugati-karpatok",
+   "name": "Északnyugati-Kárpátok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--finn-tovidek",
+   "name": "Finn-tóvidék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--francia-kozephegyseg",
+   "name": "Francia-középhegység",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--german-alfold",
+   "name": "Germán-alföld",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--hargita",
+   "name": "Hargita",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--holland-melyfold",
+   "name": "Holland-mélyföld",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--izland",
+   "name": "Izland",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--karpat-medence-pannon-medence",
+   "name": "Kárpát-medence (Pannon-medence)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--karpatok",
+   "name": "Kárpátok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--kelet-europai-siksag",
+   "name": "Kelet-európai-síkság",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--keleti-alpok",
+   "name": "Keleti-Alpok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--keleti-karpatok",
+   "name": "Keleti-Kárpátok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--kreta",
+   "name": "Kréta",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--krim-felsziget",
+   "name": "Krím-félsziget",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--lengyel-alfold",
+   "name": "Lengyel-alföld",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--lengyel-kozephegyseg",
+   "name": "Lengyel-középhegység",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--lengyel-tohatsag",
+   "name": "Lengyel-tóhátság",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--londoni-medence",
+   "name": "Londoni-medence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--magas-tatra",
+   "name": "Magas-Tátra",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--mont-blanc",
+   "name": "Mont Blanc",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--morva-medence",
+   "name": "Morva-medence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--nemet-kozephegyseg",
+   "name": "Német-középhegység",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--nyugati-alpok",
+   "name": "Nyugati-Alpok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--parizsi-medence",
+   "name": "Párizsi-medence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--pennine-hegyseg-pennine",
+   "name": "Pennine-hegység (Pennine)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--pireneusi-iberiai-felsziget",
+   "name": "Pireneusi (Ibériai)-félsziget",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--pireneusok",
+   "name": "Pireneusok",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--po-alfold",
+   "name": "Pó-alföld",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--roman-alfold",
+   "name": "Román-alföld",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--skandinav-felsziget",
+   "name": "Skandináv-félsziget",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--skandinav-hegyseg",
+   "name": "Skandináv-hegység",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--szicilia",
+   "name": "Szicília",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--szilezia",
+   "name": "Szilézia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--szudetak",
+   "name": "Szudéták",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--ural",
+   "name": "Urál",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--vezuv",
+   "name": "Vezúv",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tajak--ardennek",
+   "name": "Ardennek",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--tajak--korzika",
+   "name": "Korzika",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--tajak--stromboli",
+   "name": "Stromboli",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--tajak--szardinia",
+   "name": "Szardínia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--tajak--szent-gotthard-hago",
+   "name": "Szent Gotthárd-hágó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--tajak--vaskapu",
+   "name": "Vaskapu",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--tajak--vereckei-hago",
+   "name": "Vereckei-hágó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Tájak",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--vizrajz--adriai-tenger",
+   "name": "Adriai-tenger",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--balti-tenger",
+   "name": "Balti-tenger",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--boden-to",
+   "name": "Boden-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--dnyeper",
+   "name": "Dnyeper",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--don",
+   "name": "Don",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--duna",
+   "name": "Duna",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--duna-majna-rajna-vizi-ut",
+   "name": "Duna–Majna–Rajna vízi út",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--elba",
+   "name": "Elba",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--egei-tenger",
+   "name": "Égei-tenger",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--eszaki-tenger",
+   "name": "Északi-tenger",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--fekete-tenger",
+   "name": "Fekete-tenger",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--foldkozi-tenger",
+   "name": "Földközi-tenger",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--garda-to",
+   "name": "Garda-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--genfi-to",
+   "name": "Genfi-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--gyilkos-to",
+   "name": "Gyilkos-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--la-manche",
+   "name": "La Manche",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--ladoga-to",
+   "name": "Ladoga-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--odera",
+   "name": "Odera",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--olt",
+   "name": "Olt",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--po",
+   "name": "Pó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--rajna",
+   "name": "Rajna",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--rh-ne",
+   "name": "Rhône",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--szajna",
+   "name": "Szajna",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--szava",
+   "name": "Száva",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--szent-anna-to",
+   "name": "Szent Anna-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--tajo-tejo",
+   "name": "Tajo (Tejo)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--temze",
+   "name": "Temze",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--ural-folyo",
+   "name": "Urál (folyó)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--vag",
+   "name": "Vág",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--visztula",
+   "name": "Visztula",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--volga",
+   "name": "Volga",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--vizrajz--botteni-obol",
+   "name": "Botteni-öböl",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--vizrajz--ebro",
+   "name": "Ebro",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--vizrajz--ijssel-to",
+   "name": "IJssel-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--vizrajz--loire",
+   "name": "Loire",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--vizrajz--ohridi-to",
+   "name": "Ohridi-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--vizrajz--popradi-to",
+   "name": "Poprádi-tó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Vízrajz",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--orszagok--ausztria",
+   "name": "Ausztria",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--belgium",
+   "name": "Belgium",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--bosznia-hercegovina",
+   "name": "Bosznia-Hercegovina",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--bulgaria",
+   "name": "Bulgária",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--csehorszag",
+   "name": "Csehország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--dania",
+   "name": "Dánia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--eszak-macedonia",
+   "name": "Észak-Macedónia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--esztorszag",
+   "name": "Észtország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--finnorszag",
+   "name": "Finnország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--franciaorszag",
+   "name": "Franciaország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--gorogorszag",
+   "name": "Görögország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--hollandia",
+   "name": "Hollandia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--horvatorszag",
+   "name": "Horvátország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--irorszag",
+   "name": "Írország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--koszovo",
+   "name": "Koszovó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--lengyelorszag",
+   "name": "Lengyelország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--lettorszag",
+   "name": "Lettország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--litvania",
+   "name": "Litvánia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--luxemburg",
+   "name": "Luxemburg",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--malta",
+   "name": "Málta",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--montenegro",
+   "name": "Montenegró",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--nagy-britannia-anglia-skocia-wales-es-eszak-irorszag-egyesult-kiralysaga",
+   "name": "Nagy-Britannia (Anglia, Skócia, Wales) és Észak-Írország Egyesült Királysága",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--nemetorszag",
+   "name": "Németország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--norvegia",
+   "name": "Norvégia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--olaszorszag",
+   "name": "Olaszország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--oroszorszag",
+   "name": "Oroszország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--portugalia",
+   "name": "Portugália",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--romania",
+   "name": "Románia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--spanyolorszag",
+   "name": "Spanyolország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--svajc",
+   "name": "Svájc",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--svedorszag",
+   "name": "Svédország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--szerbia",
+   "name": "Szerbia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--szlovakia",
+   "name": "Szlovákia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--szlovenia",
+   "name": "Szlovénia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--ukrajna",
+   "name": "Ukrajna",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--vatikan",
+   "name": "Vatikán",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--orszagok--albania",
+   "name": "Albánia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--orszagok--feheroroszorszag",
+   "name": "Fehéroroszország",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--orszagok--moldova",
+   "name": "Moldova",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--orszagok--monaco",
+   "name": "Monaco",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Országok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--burgenland-orvidek",
+   "name": "Burgenland (Őrvidék)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--delvidek",
+   "name": "Délvidék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--erdely",
+   "name": "Erdély",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--felvidek",
+   "name": "Felvidék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--karpatalja",
+   "name": "Kárpátalja",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--muravidek",
+   "name": "Muravidék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--partium",
+   "name": "Partium",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--szekelyfold",
+   "name": "Székelyföld",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--tortenelmi-tajnevek--vajdasag",
+   "name": "Vajdaság",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Történelmi tájnevek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--amszterdam",
+   "name": "Amszterdam",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--arad",
+   "name": "Arad",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--athen",
+   "name": "Athén",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--barcelona",
+   "name": "Barcelona",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--belgrad",
+   "name": "Belgrád",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--beregszasz",
+   "name": "Beregszász",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--berlin",
+   "name": "Berlin",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--bern",
+   "name": "Bern",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--becs",
+   "name": "Bécs",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--birmingham",
+   "name": "Birmingham",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--brasso",
+   "name": "Brassó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--brema",
+   "name": "Bréma",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--brno",
+   "name": "Brno",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--brusszel",
+   "name": "Brüsszel",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--bukarest",
+   "name": "Bukarest",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--constan-a",
+   "name": "Constanţa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--csernobil",
+   "name": "Csernobil",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--csikszereda",
+   "name": "Csíkszereda",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--doneck",
+   "name": "Doneck",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--dortmund",
+   "name": "Dortmund",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--drezda",
+   "name": "Drezda",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--dublin",
+   "name": "Dublin",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--dubrovnik",
+   "name": "Dubrovnik",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--duisburg",
+   "name": "Duisburg",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--eszek",
+   "name": "Eszék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--fiume-rijeka",
+   "name": "Fiume (Rijeka)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--frankfurt-am-main",
+   "name": "Frankfurt am Main",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--gda-sk",
+   "name": "Gdańsk",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--genf",
+   "name": "Genf",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--genova",
+   "name": "Genova",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--gibraltar",
+   "name": "Gibraltár",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--glasgow",
+   "name": "Glasgow",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--graz",
+   "name": "Graz",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--hamburg",
+   "name": "Hamburg",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--helsinki",
+   "name": "Helsinki",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--karlovy-vary",
+   "name": "Karlovy Vary",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--kassa",
+   "name": "Kassa",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--katowice",
+   "name": "Katowice",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--kijev",
+   "name": "Kijev",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--kolozsvar",
+   "name": "Kolozsvár",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--koppenhaga",
+   "name": "Koppenhága",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--koln",
+   "name": "Köln",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--krakko",
+   "name": "Krakkó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--linz",
+   "name": "Linz",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--lipcse",
+   "name": "Lipcse",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--lisszabon",
+   "name": "Lisszabon",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--liverpool",
+   "name": "Liverpool",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--ljubljana",
+   "name": "Ljubljana",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--london",
+   "name": "London",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--luxembourg",
+   "name": "Luxembourg",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--lyon",
+   "name": "Lyon",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--madrid",
+   "name": "Madrid",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--manchester",
+   "name": "Manchester",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--marosvasarhely",
+   "name": "Marosvásárhely",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--marseille",
+   "name": "Marseille",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--milano",
+   "name": "Milánó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--moszkva",
+   "name": "Moszkva",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--munkacs",
+   "name": "Munkács",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--murmanszk",
+   "name": "Murmanszk",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--munchen",
+   "name": "München",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--nagyvarad",
+   "name": "Nagyvárad",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--napoly",
+   "name": "Nápoly",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--odessza",
+   "name": "Odessza",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--oslo",
+   "name": "Oslo",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--ostrava",
+   "name": "Ostrava",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--parizs",
+   "name": "Párizs",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--ploie-ti",
+   "name": "Ploieşti",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--plze",
+   "name": "Plzeň",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--podgorica",
+   "name": "Podgorica",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--pozsony",
+   "name": "Pozsony",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--praga",
+   "name": "Prága",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--pri-tina",
+   "name": "Priština",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--reykjavik",
+   "name": "Reykjavík",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--revkomarom",
+   "name": "Révkomárom",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--riga",
+   "name": "Riga",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--rostock",
+   "name": "Rostock",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--rotterdam",
+   "name": "Rotterdam",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--roma",
+   "name": "Róma",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--salzburg",
+   "name": "Salzburg",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--skopje-szkopje",
+   "name": "Skopje (Szkopje)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--split",
+   "name": "Split",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--stockholm",
+   "name": "Stockholm",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--strasbourg",
+   "name": "Strasbourg",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--stuttgart",
+   "name": "Stuttgart",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--szabadka",
+   "name": "Szabadka",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--szarajevo",
+   "name": "Szarajevó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--szentpetervar",
+   "name": "Szentpétervár",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--szekelyudvarhely",
+   "name": "Székelyudvarhely",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--szofia",
+   "name": "Szófia",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--tallinn",
+   "name": "Tallinn",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--temesvar",
+   "name": "Temesvár",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--torino",
+   "name": "Torino",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--trieszt",
+   "name": "Trieszt",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--ujvidek",
+   "name": "Újvidék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--ungvar",
+   "name": "Ungvár",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--varso",
+   "name": "Varsó",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--velence",
+   "name": "Velence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--vilnius",
+   "name": "Vilnius",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--volgograd",
+   "name": "Volgográd",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--zagrab",
+   "name": "Zágráb",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--zurich",
+   "name": "Zürich",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--varosok--antwerpen",
+   "name": "Antwerpen",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--bilbao",
+   "name": "Bilbao",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--chi-in-u",
+   "name": "Chișinău",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--goteborg",
+   "name": "Göteborg",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--haga",
+   "name": "Hága",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--minszk",
+   "name": "Minszk",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--nyizsnyij-novgorod",
+   "name": "Nyizsnyij Novgorod",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--sevilla",
+   "name": "Sevilla",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--thesszaloniki-szaloniki",
+   "name": "Thesszaloniki (Szaloniki)",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--varosok--tirana",
+   "name": "Tirana",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Városok",
+   "level": "emelt"
+  },
+  {
+   "id": "europa--iparvidekek--donyec-medence",
+   "name": "Donyec-medence",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Iparvidékek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--iparvidekek--kozep-angliai-iparvidek",
+   "name": "Közép-angliai iparvidék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Iparvidékek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--iparvidekek--olasz-ipari-haromszog",
+   "name": "Olasz ipari háromszög",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Iparvidékek",
+   "level": "kozep"
+  },
+  {
+   "id": "europa--iparvidekek--ruhr-videk",
+   "name": "Ruhr-vidék",
+   "region": "Európa",
+   "regionNo": 6,
+   "category": "Iparvidékek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--fo-tajegysegek--alfold",
+   "name": "Alföld",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Fő tájegységek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--fo-tajegysegek--alpokalja",
+   "name": "Alpokalja",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Fő tájegységek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--fo-tajegysegek--dunantuli-dombvidek",
+   "name": "Dunántúli-dombvidék",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Fő tájegységek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--fo-tajegysegek--dunantuli-kozephegyseg",
+   "name": "Dunántúli-középhegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Fő tájegységek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--fo-tajegysegek--eszaki-kozephegyseg",
+   "name": "Északi-középhegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Fő tájegységek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--fo-tajegysegek--kisalfold",
+   "name": "Kisalföld",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Fő tájegységek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt",
+   "name": "Aggteleki-karszt",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--badacsony",
+   "name": "Badacsony",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--bakony",
+   "name": "Bakony",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--balaton-felvidek",
+   "name": "Balaton-felvidék",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--baradla-barlang",
+   "name": "Baradla-barlang",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--baranyai-dombsag",
+   "name": "Baranyai-dombság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--belso-somogy",
+   "name": "Belső-Somogy",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--bodrogkoz",
+   "name": "Bodrogköz",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--borsodi-medence",
+   "name": "Borsodi-medence",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--borzsony",
+   "name": "Börzsöny",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--budai-hegyseg",
+   "name": "Budai-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--bukk",
+   "name": "Bükk",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--bukk-fennsik",
+   "name": "Bükk-fennsík",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--csepel-sziget",
+   "name": "Csepel-sziget",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--cserehat",
+   "name": "Cserehát",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--cserhat",
+   "name": "Cserhát",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--drava-menti-siksag-drava-mellek",
+   "name": "Dráva menti síkság (Dráva-mellék)",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--duna-menti-siksag",
+   "name": "Duna menti síkság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+   "name": "Duna–Tisza köze",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--dunakanyar",
+   "name": "Dunakanyar",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--dunazug-hegyseg",
+   "name": "Dunazug-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--gerecse",
+   "name": "Gerecse",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--godolloi-dombsag",
+   "name": "Gödöllői-dombság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--gyori-medence",
+   "name": "Győri-medence",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--hajdusag",
+   "name": "Hajdúság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--hortobagy",
+   "name": "Hortobágy",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--irott-ko",
+   "name": "Írott-kő",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--jaszsag",
+   "name": "Jászság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--keszthelyi-hegyseg",
+   "name": "Keszthelyi-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--kekes",
+   "name": "Kékes",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--kiskunsag",
+   "name": "Kiskunság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--koros-maros-koze",
+   "name": "Körös–Maros köze",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--koszegi-hegyseg",
+   "name": "Kőszegi-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--kulso-somogy",
+   "name": "Külső-Somogy",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--marcal-medence",
+   "name": "Marcal-medence",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--matra",
+   "name": "Mátra",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--mecsek",
+   "name": "Mecsek",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--mezofold",
+   "name": "Mezőföld",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--mohacsi-sziget",
+   "name": "Mohácsi-sziget",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--mori-arok",
+   "name": "Móri-árok",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--nagykunsag",
+   "name": "Nagykunság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--nogradi-medence",
+   "name": "Nógrádi-medence",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--nyirseg",
+   "name": "Nyírség",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--orseg",
+   "name": "Őrség",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--pesti-siksag",
+   "name": "Pesti-síkság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--pilis",
+   "name": "Pilis",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--somogyi-dombsag",
+   "name": "Somogyi-dombság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--soproni-hegyseg",
+   "name": "Soproni-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--szekszardi-dombsag",
+   "name": "Szekszárdi-dombság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--szentendrei-sziget",
+   "name": "Szentendrei-sziget",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--szigetkoz",
+   "name": "Szigetköz",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--tapolcai-medence",
+   "name": "Tapolcai-medence",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--tihanyi-felsziget",
+   "name": "Tihanyi-félsziget",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--tiszantul",
+   "name": "Tiszántúl",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--tokaji-zempleni-hegyseg",
+   "name": "Tokaji (Zempléni)-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--tolnai-dombsag",
+   "name": "Tolnai-dombság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg",
+   "name": "Velencei-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--vertes",
+   "name": "Vértes",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--villanyi-hegyseg",
+   "name": "Villányi-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--visegradi-hegyseg",
+   "name": "Visegrádi-hegység",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--egyeb-tajak-teruletek--zalai-dombsag",
+   "name": "Zalai-dombság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Egyéb tájak, területek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--balaton",
+   "name": "Balaton",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--bodrog",
+   "name": "Bodrog",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--drava",
+   "name": "Dráva",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--duna",
+   "name": "Duna",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--ferto",
+   "name": "Fertő",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--hernad",
+   "name": "Hernád",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--hevizi-to",
+   "name": "Hévízi-tó",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--ipoly",
+   "name": "Ipoly",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--kis-balaton",
+   "name": "Kis-Balaton",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--koros",
+   "name": "Körös",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--maros",
+   "name": "Maros",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--mura",
+   "name": "Mura",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--raba",
+   "name": "Rába",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--sajo",
+   "name": "Sajó",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--sio",
+   "name": "Sió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--szamos",
+   "name": "Szamos",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--szegedi-feher-to",
+   "name": "szegedi Fehér-tó",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--szelidi-to",
+   "name": "Szelidi-tó",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--tisza",
+   "name": "Tisza",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--tisza-to",
+   "name": "Tisza-tó",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--velencei-to",
+   "name": "Velencei-tó",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--zagyva",
+   "name": "Zagyva",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--vizrajz--zala",
+   "name": "Zala",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Vízrajz",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--ajka",
+   "name": "Ajka",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--algyo",
+   "name": "Algyő",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--baja",
+   "name": "Baja",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--balassagyarmat",
+   "name": "Balassagyarmat",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--balatonfured",
+   "name": "Balatonfüred",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--berente",
+   "name": "Berente",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--bekescsaba",
+   "name": "Békéscsaba",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--budapest",
+   "name": "Budapest",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--buk",
+   "name": "Bük",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--debrecen",
+   "name": "Debrecen",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--dunaujvaros",
+   "name": "Dunaújváros",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--eger",
+   "name": "Eger",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--esztergom",
+   "name": "Esztergom",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--godollo",
+   "name": "Gödöllő",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--gyongyos",
+   "name": "Gyöngyös",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--gyor",
+   "name": "Győr",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--gyula",
+   "name": "Gyula",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--hajduszoboszlo",
+   "name": "Hajdúszoboszló",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--harkany",
+   "name": "Harkány",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--hatvan",
+   "name": "Hatvan",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--hegyeshalom",
+   "name": "Hegyeshalom",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--heviz",
+   "name": "Hévíz",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--hodmezovasarhely",
+   "name": "Hódmezővásárhely",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--jaszbereny",
+   "name": "Jászberény",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--jaszfenyszaru",
+   "name": "Jászfényszaru",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--kalocsa",
+   "name": "Kalocsa",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--kaposvar",
+   "name": "Kaposvár",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--kecskemet",
+   "name": "Kecskemét",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--keszthely",
+   "name": "Keszthely",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--komarom",
+   "name": "Komárom",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--koszeg",
+   "name": "Kőszeg",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--mako",
+   "name": "Makó",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--miskolc",
+   "name": "Miskolc",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--mohacs",
+   "name": "Mohács",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--nagykanizsa",
+   "name": "Nagykanizsa",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--nyiregyhaza",
+   "name": "Nyíregyháza",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--oroshaza",
+   "name": "Orosháza",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--ozd",
+   "name": "Ózd",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--paks",
+   "name": "Paks",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--papa",
+   "name": "Pápa",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--pecs",
+   "name": "Pécs",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--salgotarjan",
+   "name": "Salgótarján",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--sarospatak",
+   "name": "Sárospatak",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--siofok",
+   "name": "Siófok",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--sopron",
+   "name": "Sopron",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szazhalombatta",
+   "name": "Százhalombatta",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szeged",
+   "name": "Szeged",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szekesfehervar",
+   "name": "Székesfehérvár",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szekszard",
+   "name": "Szekszárd",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szentendre",
+   "name": "Szentendre",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szentgotthard",
+   "name": "Szentgotthárd",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szolnok",
+   "name": "Szolnok",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--szombathely",
+   "name": "Szombathely",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--tata",
+   "name": "Tata",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--tatabanya",
+   "name": "Tatabánya",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--tihany",
+   "name": "Tihany",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--tiszaujvaros",
+   "name": "Tiszaújváros",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--tokaj",
+   "name": "Tokaj",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--vac",
+   "name": "Vác",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--varpalota",
+   "name": "Várpalota",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--veresegyhaz",
+   "name": "Veresegyház",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--veszprem",
+   "name": "Veszprém",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--visegrad",
+   "name": "Visegrád",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--visonta",
+   "name": "Visonta",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--zalaegerszeg",
+   "name": "Zalaegerszeg",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--zalakaros",
+   "name": "Zalakaros",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--zahony",
+   "name": "Záhony",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--telepulesek--budapesti-agglomeracio",
+   "name": "Budapesti agglomeráció",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Települések",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--aggteleki-nemzeti-park",
+   "name": "Aggteleki Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--balaton-felvideki-nemzeti-park",
+   "name": "Balaton-felvidéki Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--bukki-nemzeti-park",
+   "name": "Bükki Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--duna-drava-nemzeti-park",
+   "name": "Duna–Dráva Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--duna-ipoly-nemzeti-park",
+   "name": "Duna–Ipoly Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--ferto-hansag-nemzeti-park",
+   "name": "Fertő–Hanság Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagyi-nemzeti-park",
+   "name": "Hortobágyi Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--kiskunsagi-nemzeti-park",
+   "name": "Kiskunsági Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--koros-maros-nemzeti-park",
+   "name": "Körös–Maros Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--orsegi-nemzeti-park",
+   "name": "Őrségi Nemzeti Park",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--aggteleki-es-szlovak-karsztvidek",
+   "name": "Aggteleki- és Szlovák-karsztvidék",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--budapest-andrassy-ut-a-millenniumi-foldalattival",
+   "name": "Budapest Andrássy út a Millenniumi földalattival",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--budapest-varnegyed-es-a-pesti-duna-part",
+   "name": "Budapest Várnegyed és a pesti Duna-part",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--ferto",
+   "name": "Fertő",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--holloko",
+   "name": "Hollókő",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagy",
+   "name": "Hortobágy",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--pannonhalmi-foapatsag",
+   "name": "Pannonhalmi Főapátság",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--pecsi-okereszteny-sirkamrak",
+   "name": "Pécsi ókeresztény sírkamrák",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--tokaj-hegyalja-borvideke",
+   "name": "Tokaj-Hegyalja borvidéke",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nemzeti parkok, világörökségek",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--baranya-megye",
+   "name": "Baranya megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--bacs-kiskun-megye",
+   "name": "Bács-Kiskun megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--bekes-megye",
+   "name": "Békés megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--borsod-abauj-zemplen-megye",
+   "name": "Borsod-Abaúj-Zemplén megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--csongrad-csanad-megye",
+   "name": "Csongrád-Csanád megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--fejer-megye",
+   "name": "Fejér megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--gyor-moson-sopron-megye",
+   "name": "Győr-Moson-Sopron megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--hajdu-bihar-megye",
+   "name": "Hajdú-Bihar megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--heves-megye",
+   "name": "Heves megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--jasz-nagykun-szolnok-megye",
+   "name": "Jász-Nagykun-Szolnok megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--komarom-esztergom-megye",
+   "name": "Komárom-Esztergom megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--nograd-megye",
+   "name": "Nógrád megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--pest-megye",
+   "name": "Pest megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--somogy-megye",
+   "name": "Somogy megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--szabolcs-szatmar-bereg-megye",
+   "name": "Szabolcs-Szatmár-Bereg megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--tolna-megye",
+   "name": "Tolna megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--vas-megye",
+   "name": "Vas megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--veszprem-megye",
+   "name": "Veszprém megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--megyek--zala-megye",
+   "name": "Zala megye",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Megyék",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--alfold-es-eszak-nagyregio",
+   "name": "Alföld és Észak nagyrégió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--dunantul-nagyregio",
+   "name": "Dunántúl nagyrégió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--kozep-magyarorszag-nagyregio",
+   "name": "Közép-Magyarország nagyrégió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--budapest-regio",
+   "name": "Budapest régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--del-alfold-regio",
+   "name": "Dél-Alföld régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--del-dunantul-regio",
+   "name": "Dél-Dunántúl régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--eszak-alfold-regio",
+   "name": "Észak-Alföld régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--eszak-magyarorszag-regio",
+   "name": "Észak-Magyarország régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--kozep-dunantul-regio",
+   "name": "Közép-Dunántúl régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--nyugat-dunantul-regio",
+   "name": "Nyugat-Dunántúl régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  },
+  {
+   "id": "magyarorszag--nagyregiok-regiok--pest-regio",
+   "name": "Pest régió",
+   "region": "Magyarország",
+   "regionNo": 7,
+   "category": "Nagyrégiók, régiók",
+   "level": "kozep"
+  }
+ ]
+}

@@ -1,0 +1,2860 @@
+{
+ "entries": [
+  {
+   "id": "termeles",
+   "term": "termelés",
+   "aliases": [],
+   "sourceLabels": [
+    "termelés"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az a folyamat, amelynek során az ember a termelési tényezők (természeti erőforrások, munkaerő, tőke, tudás) felhasználásával az igényei kielégítésére szolgáló javakat és szolgáltatásokat hoz létre.",
+   "example": "Egy autógyár acélból, alkatrészekből és munkaerőből gépkocsit állít elő.",
+   "related": [
+    "fogyasztas",
+    "termelekenyseg",
+    "termeszeti-eroforras",
+    "tarsadalmi-human-eroforras"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fogyasztas",
+   "term": "fogyasztás",
+   "aliases": [],
+   "sourceLabels": [
+    "fogyasztás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A megtermelt javak és szolgáltatások felhasználása a szükségletek kielégítésére; a háztartások, a vállalatok és az állam egyaránt fogyasztók. A fogyasztás nagysága és szerkezete az életszínvonal egyik fontos jelzője.",
+   "example": "A fejlett országokban a háztartások kiadásaiban nagyobb a szolgáltatások (pl. utazás, oktatás) aránya, mint az élelmiszereké.",
+   "related": [
+    "termeles",
+    "kereslet",
+    "eletszinvonal"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "termelekenyseg",
+   "term": "termelékenység",
+   "aliases": [],
+   "sourceLabels": [
+    "termelékenység"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az egységnyi ráfordításra (pl. egy dolgozóra vagy egy munkaórára) jutó termelés mennyisége vagy értéke. Növekedése főként a technikai fejlődés, a gépesítés és a jobb munkaszervezés eredménye.",
+   "example": "A gépesített amerikai mezőgazdaságban egy dolgozó sokszorosát termeli egy kézi munkával dolgozó csádi földművesnek.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "afrika--orszagok--csad"
+   ],
+   "related": [
+    "extenziv-es-intenziv-gazdasagi-novekedes",
+    "innovacio",
+    "robotizacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "termeszeti-eroforras",
+   "term": "természeti erőforrás",
+   "aliases": [],
+   "sourceLabels": [
+    "természeti erőforrás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A természeti környezet azon elemei, amelyeket az ember a gazdasági tevékenységhez felhasznál (pl. ásványkincsek, termőföld, víz, erdő, napenergia). Lehetnek megújulók és nem megújulók.",
+   "example": "Szaúd-Arábia gazdaságának alapja a kőolajkészlete, amely nem megújuló természeti erőforrás.",
+   "examplePlaces": [
+    "azsia--orszagok--szaud-arabia"
+   ],
+   "related": [
+    "tarsadalmi-human-eroforras",
+    "telepito-tenyezo"
+   ],
+   "tags": [
+    "gazdaság",
+    "ásványkincsek",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tarsadalmi-human-eroforras",
+   "term": "társadalmi (humán) erőforrás",
+   "aliases": [
+    "társadalmi erőforrás",
+    "humán erőforrás"
+   ],
+   "sourceLabels": [
+    "társadalmi (humán) erőforrás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdaság számára rendelkezésre álló munkaerő mennyisége és minősége: létszáma, egészségi állapota, iskolázottsága, szakképzettsége, tudása. A fejlett gazdaságokban ez a legfontosabb erőforrás.",
+   "example": "A nyersanyagokban szegény Japán és Szingapúr fejlettségét elsősorban képzett munkaerejének köszönheti.",
+   "examplePlaces": [
+    "azsia--orszagok--japan",
+    "azsia--orszagok--szingapur"
+   ],
+   "related": [
+    "termeszeti-eroforras",
+    "telepito-tenyezo",
+    "kutatas-fejlesztes"
+   ],
+   "tags": [
+    "gazdaság",
+    "népesség",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "telepito-tenyezo",
+   "term": "telepítő tényező",
+   "aliases": [
+    "telepítő tényezők"
+   ],
+   "sourceLabels": [
+    "telepítő tényező"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Azok a természeti és társadalmi-gazdasági adottságok, amelyek egy gazdasági tevékenység helyének kiválasztását befolyásolják (pl. nyersanyag, energia, munkaerő, piac, közlekedés, víz, tőke, K+F). Szerepük idővel változik: a nyersanyag jelentősége csökkent, a képzett munkaerőé és az innovációs környezeté nőtt.",
+   "example": "A Ruhr-vidék ipara a szénre települt; a Szilícium-völgy kialakulásában az egyetemek és a K+F voltak a döntők.",
+   "examplePlaces": [
+    "europa--iparvidekek--ruhr-videk",
+    "amerika--tajak--szilicium-volgy"
+   ],
+   "related": [
+    "termeszeti-eroforras",
+    "tarsadalmi-human-eroforras",
+    "ipari-park"
+   ],
+   "tags": [
+    "gazdaság",
+    "ipar",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-ag-es-agazat",
+   "term": "gazdasági ág és ágazat",
+   "aliases": [],
+   "sourceLabels": [
+    "gazdasági ág és ágazat"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdaság tevékenységek szerinti tagolásának egységei: a gazdasági ágak (mezőgazdaság, ipar, szolgáltatások) nagyobb csoportok, amelyeken belül az ágazatok a hasonló tevékenységet végző, hasonló terméket előállító egységeket fogják össze.",
+   "example": "Az ipar gazdasági ágon belül ágazat pl. a vegyipar vagy a járműgyártás.",
+   "related": [
+    "gazdasagi-ag",
+    "gazdasagi-agazat",
+    "gazdasagi-szektor"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-ag",
+   "term": "gazdasági ág",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "gazdasagi-ag-es-agazat",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdaság legnagyobb, tevékenységük jellege szerint elkülönülő egységei: a mezőgazdaság, az ipar és a szolgáltatások.",
+   "example": "A mezőgazdaság gazdasági ágba tartozik a növénytermesztés és az állattenyésztés is.",
+   "related": [
+    "mezogazdasag",
+    "ipar",
+    "szolgaltatasok"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-agazat",
+   "term": "gazdasági ágazat",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "gazdasagi-ag-es-agazat",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy gazdasági ágon belül a hasonló tevékenységet végző, hasonló terméket vagy szolgáltatást előállító vállalatok csoportja.",
+   "example": "Az ipar ágazatai pl. a bányászat, a kohászat, a gépipar, a vegyipar és az élelmiszeripar.",
+   "related": [
+    "gazdasagi-ag",
+    "huzoagazat",
+    "valsagagazat"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-szektor",
+   "term": "gazdasági szektor",
+   "aliases": [],
+   "sourceLabels": [
+    "gazdasági szektor"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdasági tevékenységek csoportja aszerint, hogy a termelési folyamat melyik szakaszához kapcsolódnak: a primer szektor nyersanyagot termel, a szekunder feldolgoz, a tercier szolgáltat, a kvaterner tudást és információt állít elő.",
+   "example": "A vasércbányászat a primer, az acélgyártás a szekunder, az acél szállítása a tercier szektorba tartozik.",
+   "related": [
+    "primer-szekunder-tercier-es-kvaterner-szektor",
+    "gazdasagi-ag-es-agazat",
+    "gazdasagi-szerkezet"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-szerkezet",
+   "term": "gazdasági szerkezet",
+   "aliases": [
+    "gazdaságszerkezet"
+   ],
+   "sourceLabels": [
+    "gazdasági szerkezet"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdasági ágak, szektorok (és ágazatok) aránya egy nemzetgazdaságban, amelyet általában a GDP-hez való hozzájárulásukkal fejeznek ki. A fejlettség jó jelzője: a fejlett országokban a tercier szektor részesedése a legnagyobb.",
+   "example": "Az Amerikai Egyesült Államokban a GDP túlnyomó részét a szolgáltatások adják, Csádban jelentős a mezőgazdaság aránya.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "afrika--orszagok--csad"
+   ],
+   "related": [
+    "foglalkoztatasi-szerkezet",
+    "gazdasagi-szerkezetvaltas",
+    "gazdasagi-szektor"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mezogazdasag",
+   "term": "mezőgazdaság",
+   "aliases": [],
+   "sourceLabels": [
+    "mezőgazdaság"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az a gazdasági ág, amely növénytermesztéssel, állattenyésztéssel (tágabb értelemben erdő- és halgazdálkodással is) élelmiszert és ipari nyersanyagot állít elő. A primer szektor része.",
+   "example": "Etiópiában a foglalkoztatottak többsége a mezőgazdaságban dolgozik.",
+   "examplePlaces": [
+    "afrika--orszagok--etiopia"
+   ],
+   "related": [
+    "primer-szektor",
+    "agrarorszag",
+    "gazdasagi-ag"
+   ],
+   "tags": [
+    "gazdaság",
+    "mezőgazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ipar",
+   "term": "ipar",
+   "aliases": [],
+   "sourceLabels": [
+    "ipar"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az a gazdasági ág, amely a nyersanyagok kitermelésével (bányászat) és gépi feldolgozásával, átalakításával termékeket állít elő; a feldolgozóipar a szekunder szektor magja.",
+   "example": "Németország gazdaságában kiemelkedő szerepű a gépjárműgyártás és a gépipar.",
+   "examplePlaces": [
+    "europa--orszagok--nemetorszag"
+   ],
+   "related": [
+    "szekunder-szektor",
+    "ipari-indusztrialis-tarsadalom",
+    "gazdasagi-ag"
+   ],
+   "tags": [
+    "gazdaság",
+    "ipar",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szolgaltatasok",
+   "term": "szolgáltatások",
+   "aliases": [
+    "szolgáltatás"
+   ],
+   "sourceLabels": [
+    "szolgáltatások"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Azok a gazdasági tevékenységek, amelyek nem tárgyiasult terméket állítanak elő, hanem mások igényeit elégítik ki (pl. kereskedelem, közlekedés, pénzügyek, oktatás, egészségügy, turizmus). A tercier és a kvaterner szektort alkotják.",
+   "example": "London a pénzügyi szolgáltatások egyik világközpontja.",
+   "related": [
+    "tercier-szektor",
+    "kvaterner-szektor",
+    "ipar-utani-posztindusztrialis-tarsadalom"
+   ],
+   "tags": [
+    "gazdaság",
+    "szolgáltatás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "primer-szekunder-tercier-es-kvaterner-szektor",
+   "term": "primer, szekunder, tercier és kvaterner szektor",
+   "aliases": [],
+   "sourceLabels": [
+    "primer",
+    "szekunder",
+    "tercier és kvaterner szektor"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdaság négy szektora: a primer (mezőgazdaság, bányászat), a szekunder (feldolgozóipar, építőipar), a tercier (hagyományos szolgáltatások) és a kvaterner (K+F, információs, tudásalapú szolgáltatások). Arányuk a gazdasági fejlettséggel változik.",
+   "example": "Fejlett országokban a tercier és kvaterner, a legszegényebbekben a primer szektor súlya a legnagyobb.",
+   "related": [
+    "primer-szektor",
+    "szekunder-szektor",
+    "tercier-szektor",
+    "kvaterner-szektor",
+    "gazdasagi-szektor"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "primer-szektor",
+   "term": "primer szektor",
+   "aliases": [
+    "elsődleges szektor"
+   ],
+   "sourceLabels": [],
+   "parent": "primer-szekunder-tercier-es-kvaterner-szektor",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A természetből közvetlenül nyert javak előállítása: mezőgazdaság, erdő- és halgazdálkodás, bányászat.",
+   "example": "A chilei rézérc-bányászat a primer szektorhoz tartozik.",
+   "examplePlaces": [
+    "amerika--orszagok--chile"
+   ],
+   "related": [
+    "mezogazdasag",
+    "agrarorszag"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szekunder-szektor",
+   "term": "szekunder szektor",
+   "aliases": [
+    "másodlagos szektor"
+   ],
+   "sourceLabels": [],
+   "parent": "primer-szekunder-tercier-es-kvaterner-szektor",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A nyersanyagok feldolgozása, termékek előállítása: a feldolgozóipar, az energiaipar és az építőipar.",
+   "example": "A Detroit környéki autógyártás a szekunder szektor része.",
+   "examplePlaces": [
+    "amerika--varosok--detroit"
+   ],
+   "related": [
+    "ipar",
+    "ipari-indusztrialis-tarsadalom"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tercier-szektor",
+   "term": "tercier szektor",
+   "aliases": [
+    "harmadlagos szektor"
+   ],
+   "sourceLabels": [],
+   "parent": "primer-szekunder-tercier-es-kvaterner-szektor",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A hagyományos szolgáltatások köre, pl. kereskedelem, közlekedés, szállítás, vendéglátás, turizmus, pénzügyek, közigazgatás.",
+   "example": "Egy szálloda vagy egy bolt a tercier szektorban működik.",
+   "related": [
+    "szolgaltatasok",
+    "ipar-utani-posztindusztrialis-tarsadalom"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kvaterner-szektor",
+   "term": "kvaterner szektor",
+   "aliases": [
+    "negyedleges szektor"
+   ],
+   "sourceLabels": [],
+   "parent": "primer-szekunder-tercier-es-kvaterner-szektor",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A tudás és információ előállításával, feldolgozásával, továbbításával foglalkozó tevékenységek: kutatás-fejlesztés, informatika, oktatás, tanácsadás, vállalatirányítás.",
+   "example": "A Szilícium-völgy informatikai és kutatócégei a kvaterner szektort képviselik.",
+   "examplePlaces": [
+    "amerika--tajak--szilicium-volgy"
+   ],
+   "related": [
+    "kutatas-fejlesztes",
+    "informacios-gazdasag",
+    "informacios-tarsadalom"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "informacios-gazdasag",
+   "term": "információs gazdaság",
+   "aliases": [
+    "tudásalapú gazdaság"
+   ],
+   "sourceLabels": [
+    "információs gazdaság"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan gazdaság, amelyben a fő erőforrás a tudás és az információ, a legnagyobb értéket az információ előállítása, feldolgozása és továbbítása (informatika, távközlés, K+F) teremti.",
+   "example": "Az indiai Bengaluru szoftverfejlesztő cégei az információs gazdaság részei.",
+   "examplePlaces": [
+    "azsia--varosok--bengaluru-bangalore"
+   ],
+   "related": [
+    "kvaterner-szektor",
+    "informacios-tarsadalom",
+    "kutatas-fejlesztes"
+   ],
+   "tags": [
+    "gazdaság",
+    "szolgáltatás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kutatas-fejlesztes",
+   "term": "kutatás-fejlesztés (K+F tevékenység)",
+   "aliases": [
+    "K+F",
+    "kutatás-fejlesztés",
+    "K+F tevékenység"
+   ],
+   "sourceLabels": [
+    "kutatás-fejlesztés (K+F tevékenység)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Új tudományos ismeretek megszerzésére és azok gyakorlati (termék-, technológiai) alkalmazására irányuló tevékenység. A kvaterner szektor része; a ráfordítások GDP-hez viszonyított aránya a fejlettség egyik mutatója.",
+   "example": "Dél-Korea és Japán a GDP-jükhöz képest kiemelkedően sokat költenek K+F-re.",
+   "examplePlaces": [
+    "azsia--orszagok--del-korea-koreai-koztarsasag",
+    "azsia--orszagok--japan"
+   ],
+   "related": [
+    "innovacio",
+    "kvaterner-szektor",
+    "informacios-gazdasag"
+   ],
+   "tags": [
+    "gazdaság",
+    "szolgáltatás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "innovacio",
+   "term": "innováció",
+   "aliases": [],
+   "sourceLabels": [
+    "innováció"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Új vagy jelentősen továbbfejlesztett termék, technológia, eljárás vagy szervezési megoldás bevezetése a gyakorlatba. A versenyképesség és az intenzív gazdasági növekedés fő forrása.",
+   "example": "Az okostelefon elterjedése termékinnováció volt, amely új iparágakat és szolgáltatásokat hozott létre.",
+   "related": [
+    "kutatas-fejlesztes",
+    "versenykepesseg",
+    "huzoagazat"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "huzoagazat",
+   "term": "húzóágazat",
+   "aliases": [],
+   "sourceLabels": [
+    "húzóágazat"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy adott korszakban gyorsan fejlődő, nagy termelékenységű ágazat, amely más ágazatok fejlődését is maga után vonja, és meghatározza a gazdaság növekedését.",
+   "example": "Magyarországon az elmúlt évtizedekben a járműipar (autógyártás) húzóágazat.",
+   "related": [
+    "valsagagazat",
+    "innovacio",
+    "gazdasagi-szerkezetvaltas"
+   ],
+   "tags": [
+    "gazdaság",
+    "ipar",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "valsagagazat",
+   "term": "válságágazat",
+   "aliases": [],
+   "sourceLabels": [
+    "válságágazat"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan ágazat, amelynek termékei iránt csökken a kereslet, vagy amely elveszítette versenyképességét, ezért termelése és foglalkoztatása visszaesik.",
+   "example": "A szénbányászat és a hagyományos kohászat a Ruhr-vidéken válságágazattá vált.",
+   "examplePlaces": [
+    "europa--iparvidekek--ruhr-videk"
+   ],
+   "related": [
+    "huzoagazat",
+    "gazdasagi-szerkezetvaltas",
+    "munkanelkuli"
+   ],
+   "tags": [
+    "gazdaság",
+    "ipar",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "aktiv-kereso",
+   "term": "aktív kereső",
+   "aliases": [
+    "foglalkoztatott"
+   ],
+   "sourceLabels": [
+    "aktív kereső"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az a személy, aki munkát végez, és munkájáért jövedelmet kap (foglalkoztatott). A munkanélküliekkel együtt a gazdaságilag aktív népességet alkotják.",
+   "example": "Egy gyári munkás vagy egy egyéni vállalkozó fodrász aktív kereső.",
+   "related": [
+    "eltartott",
+    "munkanelkuli",
+    "foglalkoztatasi-szerkezet"
+   ],
+   "tags": [
+    "gazdaság",
+    "népesség",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eltartott",
+   "term": "eltartott",
+   "aliases": [],
+   "sourceLabels": [
+    "eltartott"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az a személy, akinek nincs saját jövedelme, ezért mások (pl. a család) tartják el; ide tartoznak a gyermekek, a nappali tagozatos tanulók és a háztartásbeliek.",
+   "example": "Egy középiskolás diák eltartott.",
+   "related": [
+    "aktiv-kereso",
+    "munkanelkuli"
+   ],
+   "tags": [
+    "gazdaság",
+    "népesség",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "munkanelkuli",
+   "term": "munkanélküli",
+   "aliases": [],
+   "sourceLabels": [
+    "munkanélküli"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az a munkaképes korú személy, akinek nincs munkája, de aktívan keres állást, és munkába tudna állni. A gazdaságilag aktív népesség része; a munkanélküliek aránya a munkanélküliségi ráta.",
+   "example": "A Ruhr-vidéken a bányabezárások után sok bányász vált munkanélkülivé.",
+   "examplePlaces": [
+    "europa--iparvidekek--ruhr-videk"
+   ],
+   "related": [
+    "aktiv-kereso",
+    "eltartott",
+    "valsagagazat",
+    "szocialis-halo"
+   ],
+   "tags": [
+    "gazdaság",
+    "népesség",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foglalkoztatasi-szerkezet",
+   "term": "foglalkoztatási szerkezet",
+   "aliases": [],
+   "sourceLabels": [
+    "foglalkoztatási szerkezet"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az aktív keresők megoszlása a gazdasági ágak, illetve szektorok között. A fejlettség jó jelzője: a fejlődés során a súlypont a mezőgazdaságból az iparba, majd a szolgáltatásokba helyeződik át.",
+   "example": "Bangladesben még a foglalkoztatottak jelentős része a mezőgazdaságban dolgozik, Nagy-Britanniában túlnyomó többségük a szolgáltatásokban.",
+   "examplePlaces": [
+    "azsia--orszagok--banglades",
+    "europa--orszagok--nagy-britannia-anglia-skocia-wales-es-eszak-irorszag-egyesult-kiralysaga"
+   ],
+   "related": [
+    "gazdasagi-szerkezet",
+    "foglalkozasi-atretegzodes",
+    "aktiv-kereso"
+   ],
+   "tags": [
+    "gazdaság",
+    "népesség",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-szerkezetvaltas",
+   "term": "gazdasági szerkezetváltás",
+   "aliases": [],
+   "sourceLabels": [
+    "gazdasági szerkezetváltás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdasági ágak, ágazatok és szektorok arányának jelentős átalakulása: a válságágazatok leépülése és új, korszerű ágazatok (szolgáltatások, csúcstechnológia) térnyerése.",
+   "example": "A Ruhr-vidéken a szén- és acélipar leépülése után a szolgáltatások, az oktatás és a kulturális turizmus erősödött.",
+   "examplePlaces": [
+    "europa--iparvidekek--ruhr-videk"
+   ],
+   "related": [
+    "valsagagazat",
+    "huzoagazat",
+    "foglalkozasi-atretegzodes",
+    "gazdasagi-szerkezet"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foglalkozasi-atretegzodes",
+   "term": "foglalkozási átrétegződés",
+   "aliases": [],
+   "sourceLabels": [
+    "foglalkozási átrétegződés"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A foglalkoztatási szerkezet átalakulása, vagyis a munkaerő áramlása egyik gazdasági ágból (szektorból) a másikba: először a mezőgazdaságból az iparba, majd az iparból a szolgáltatásokba.",
+   "example": "Kínában a falusi munkaerő tömegesen áramlott a városok ipari és szolgáltató munkahelyeire.",
+   "examplePlaces": [
+    "azsia--orszagok--kina"
+   ],
+   "related": [
+    "foglalkoztatasi-szerkezet",
+    "gazdasagi-szerkezetvaltas"
+   ],
+   "tags": [
+    "gazdaság",
+    "népesség",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-fejlettseg",
+   "term": "gazdasági fejlettség",
+   "aliases": [],
+   "sourceLabels": [
+    "gazdasági fejlettség"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy ország gazdasági teljesítőképessége és korszerűsége, amelyet főként az egy főre jutó GDP-vel vagy GNI-vel, valamint a gazdasági és foglalkoztatási szerkezettel, a termelékenységgel mérnek.",
+   "example": "Svájc és Norvégia a legfejlettebb, Csád és Niger a legkevésbé fejlett országok közé tartozik.",
+   "examplePlaces": [
+    "europa--orszagok--svajc",
+    "europa--orszagok--norvegia",
+    "afrika--orszagok--csad",
+    "afrika--orszagok--niger"
+   ],
+   "related": [
+    "brutto-hazai-termek-gdp",
+    "brutto-nemzeti-jovedelem-gni",
+    "fejlett-es-fejlodo-orszag",
+    "emberi-fejlettseg-indexe-hdi"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-novekedes",
+   "term": "gazdasági növekedés",
+   "aliases": [],
+   "sourceLabels": [
+    "gazdasági növekedés"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A megtermelt javak és szolgáltatások mennyiségének (a GDP-nek) a növekedése egy időszak alatt; mértékét általában az előző évhez viszonyított százalékkal adják meg.",
+   "example": "Kína az 1980-as évektől évtizedeken át gyors gazdasági növekedést ért el.",
+   "examplePlaces": [
+    "azsia--orszagok--kina"
+   ],
+   "related": [
+    "gazdasagi-visszaeses",
+    "extenziv-es-intenziv-gazdasagi-novekedes",
+    "brutto-hazai-termek-gdp"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-visszaeses",
+   "term": "gazdasági visszaesés",
+   "aliases": [
+    "recesszió"
+   ],
+   "sourceLabels": [
+    "gazdasági visszaesés"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A gazdasági teljesítmény (GDP) csökkenése egy időszak alatt; tartós és súlyos formája a gazdasági válság. Általában együtt jár a munkanélküliség növekedésével.",
+   "example": "A 2008-as pénzügyi válság után 2009-ben a világ legtöbb országában, így Magyarországon is csökkent a GDP.",
+   "related": [
+    "gazdasagi-novekedes",
+    "munkanelkuli"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "brutto-hazai-termek-gdp",
+   "term": "bruttó hazai termék (GDP)",
+   "aliases": [
+    "GDP",
+    "bruttó hazai termék"
+   ],
+   "sourceLabels": [
+    "bruttó hazai termék (GDP)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy ország területén egy év alatt előállított, végső felhasználásra kerülő termékek és szolgáltatások összértéke, függetlenül attól, hogy hazai vagy külföldi tulajdonú vállalat állította elő. Az egy főre jutó GDP a gazdasági fejlettség leggyakoribb mutatója.",
+   "example": "A magyarországi külföldi autógyárak termelése beleszámít Magyarország GDP-jébe.",
+   "related": [
+    "brutto-nemzeti-jovedelem-gni",
+    "gazdasagi-fejlettseg",
+    "emberi-fejlettseg-indexe-hdi"
+   ],
+   "tags": [
+    "gazdaság",
+    "számolás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "brutto-nemzeti-jovedelem-gni",
+   "term": "bruttó nemzeti jövedelem (GNI)",
+   "aliases": [
+    "GNI",
+    "bruttó nemzeti jövedelem"
+   ],
+   "sourceLabels": [
+    "bruttó nemzeti jövedelem (GNI)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy ország lakóinak és vállalatainak egy év alatt megszerzett jövedelme: a GDP, növelve a külföldről hazaáramló és csökkentve a külföldre kiáramló jövedelmekkel (pl. profit, bér). Ahol sok a külföldi tőke, ott a GNI kisebb a GDP-nél.",
+   "example": "Írországban a transznacionális vállalatok profitjának kiáramlása miatt a GNI jóval elmarad a GDP-től.",
+   "examplePlaces": [
+    "europa--orszagok--irorszag"
+   ],
+   "related": [
+    "brutto-hazai-termek-gdp",
+    "alacsony-kozepes-es-magas-jovedelmu-orszag"
+   ],
+   "tags": [
+    "gazdaság",
+    "számolás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "alacsony-kozepes-es-magas-jovedelmu-orszag",
+   "term": "alacsony, közepes és magas jövedelmű ország",
+   "aliases": [],
+   "sourceLabels": [
+    "alacsony",
+    "közepes és magas jövedelmű ország"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az országok csoportosítása (a Világbank módszere szerint) az egy főre jutó GNI alapján. A közepes jövedelmű csoportot gyakran alsó- és felső-közepes jövedelműre bontják.",
+   "example": "Norvégia magas, Brazília közepes, Niger alacsony jövedelmű ország.",
+   "examplePlaces": [
+    "europa--orszagok--norvegia",
+    "amerika--orszagok--brazilia",
+    "afrika--orszagok--niger"
+   ],
+   "related": [
+    "alacsony-jovedelmu-orszag",
+    "kozepes-jovedelmu-orszag",
+    "magas-jovedelmu-orszag",
+    "brutto-nemzeti-jovedelem-gni"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "alacsony-jovedelmu-orszag",
+   "term": "alacsony jövedelmű ország",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "alacsony-kozepes-es-magas-jovedelmu-orszag",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan ország, ahol az egy főre jutó GNI a legalacsonyabb kategóriába esik; többségük Afrikában, a Szaharától délre található.",
+   "example": "Csád és Niger alacsony jövedelmű ország.",
+   "examplePlaces": [
+    "afrika--orszagok--csad",
+    "afrika--orszagok--niger"
+   ],
+   "related": [
+    "periferia-terseg",
+    "agrarorszag"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kozepes-jovedelmu-orszag",
+   "term": "közepes jövedelmű ország",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "alacsony-kozepes-es-magas-jovedelmu-orszag",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan ország, ahol az egy főre jutó GNI a közepes kategóriába esik; a csoport igen sokszínű, alsó- és felső-közepes jövedelmű országokra bontják.",
+   "example": "India alsó-közepes, Mexikó felső-közepes jövedelmű ország.",
+   "examplePlaces": [
+    "azsia--orszagok--india",
+    "amerika--orszagok--mexiko"
+   ],
+   "related": [
+    "felperiferia-terseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "magas-jovedelmu-orszag",
+   "term": "magas jövedelmű ország",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "alacsony-kozepes-es-magas-jovedelmu-orszag",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan ország, ahol az egy főre jutó GNI a legmagasabb kategóriába esik; ide tartoznak a fejlett ipari országok és néhány kőolajexportőr is.",
+   "example": "Németország és Japán magas jövedelmű, ahogy a kőolajban gazdag Kuvait is.",
+   "examplePlaces": [
+    "europa--orszagok--nemetorszag",
+    "azsia--orszagok--japan"
+   ],
+   "related": [
+    "vilaggazdasagi-polus-centrum-terseg",
+    "fejlett-orszag"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eletszinvonal",
+   "term": "életszínvonal",
+   "aliases": [],
+   "sourceLabels": [
+    "életszínvonal"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A lakosság anyagi jellegű szükségleteinek kielégítettségi foka: jövedelme, fogyasztása, lakáskörülményei, a rendelkezésére álló javak és szolgáltatások mennyisége.",
+   "example": "Az egy főre jutó jövedelem és a háztartások gépesítettsége az életszínvonal jellemzői.",
+   "related": [
+    "eletminoseg",
+    "fogyasztas",
+    "gazdasagi-fejlettseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fejlett-es-fejlodo-orszag",
+   "term": "fejlett és fejlődő ország",
+   "aliases": [],
+   "sourceLabels": [
+    "fejlett és fejlődő ország"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az országok gazdasági-társadalmi fejlettség szerinti hagyományos kettéosztása: a fejlett országok gazdasága korszerű, szolgáltatásközpontú, a fejlődő országoké elmaradott, jellemzően nyersanyag-termelő.",
+   "example": "Japán fejlett, Banglades fejlődő ország.",
+   "examplePlaces": [
+    "azsia--orszagok--japan",
+    "azsia--orszagok--banglades"
+   ],
+   "related": [
+    "fejlett-orszag",
+    "fejlodo-orszag",
+    "gazdasagi-fejlettseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fejlett-orszag",
+   "term": "fejlett ország",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "fejlett-es-fejlodo-orszag",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Magas egy főre jutó jövedelmű ország, ahol a GDP-ben és a foglalkoztatásban a tercier és kvaterner szektor dominál, magas az életszínvonal és a várható élettartam, alacsony a népszaporulat.",
+   "example": "Fejlett ország pl. az Amerikai Egyesült Államok, Németország, Svédország.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "europa--orszagok--nemetorszag",
+    "europa--orszagok--svedorszag"
+   ],
+   "related": [
+    "ipar-utani-posztindusztrialis-tarsadalom",
+    "vilaggazdasagi-polus-centrum-terseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fejlodo-orszag",
+   "term": "fejlődő ország",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "fejlett-es-fejlodo-orszag",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Alacsony vagy közepes jövedelmű ország, ahol jelentős a mezőgazdaság aránya, gyakran duális a gazdasági szerkezet, nagy a népszaporulat és sok a megoldatlan társadalmi probléma.",
+   "example": "Fejlődő ország pl. Etiópia, Banglades, Indonézia.",
+   "examplePlaces": [
+    "afrika--orszagok--etiopia",
+    "azsia--orszagok--banglades",
+    "azsia--orszagok--indonezia"
+   ],
+   "related": [
+    "periferia-terseg",
+    "dualis-gazdasagi-szerkezet",
+    "agrarorszag"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilaggazdasagi-polus-centrum-terseg",
+   "term": "világgazdasági pólus (centrum térség)",
+   "aliases": [
+    "világgazdasági pólus",
+    "centrum térség",
+    "centrum"
+   ],
+   "sourceLabels": [
+    "világgazdasági pólus (centrum térség)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A világgazdaság irányító központja: legfejlettebb, legnagyobb gazdasági, pénzügyi és innovációs erejű térség, ahonnan a tőke, a technológia és a döntések kiindulnak. A hagyományos pólusok Észak-Amerika (USA), az Európai Unió és Kelet-Ázsia (Japán), amelyekhez Kína csatlakozott.",
+   "example": "Az Amerikai Egyesült Államok, Németország és Japán vezető országai egy-egy pólusnak.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "europa--orszagok--nemetorszag",
+    "azsia--orszagok--japan",
+    "azsia--orszagok--kina"
+   ],
+   "related": [
+    "vilaggazdasagi-eroter",
+    "felperiferia-terseg",
+    "periferia-terseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilaggazdasagi-eroter",
+   "term": "világgazdasági erőtér",
+   "aliases": [],
+   "sourceLabels": [
+    "világgazdasági erőtér"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy világgazdasági pólus vonzáskörzete: azoknak az országoknak a köre, amelyek gazdasága (kereskedelme, tőkebeáramlása) szorosan kapcsolódik az adott pólushoz.",
+   "example": "Latin-Amerika, különösen Mexikó, az USA erőteréhez tartozik; Kelet-Közép-Európa az EU-éhoz.",
+   "examplePlaces": [
+    "amerika--orszagok--mexiko",
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "related": [
+    "vilaggazdasagi-polus-centrum-terseg",
+    "felperiferia-terseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "felperiferia-terseg",
+   "term": "félperiféria térség",
+   "aliases": [
+    "félperiféria"
+   ],
+   "sourceLabels": [
+    "félperiféria térség"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A centrum és a periféria között elhelyezkedő, közepes fejlettségű térség: iparosodott, de a technológia és a tőke jelentős részét a centrumból kapja, gyakran összeszerelő, bérmunka jellegű tevékenységet végez.",
+   "example": "Félperiféria pl. Brazília, Mexikó és Kelet-Közép-Európa országai.",
+   "examplePlaces": [
+    "amerika--orszagok--brazilia",
+    "amerika--orszagok--mexiko",
+    "europa--orszagok--lengyelorszag"
+   ],
+   "related": [
+    "vilaggazdasagi-polus-centrum-terseg",
+    "periferia-terseg",
+    "vilaggazdasagi-eroter"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "periferia-terseg",
+   "term": "periféria térség",
+   "aliases": [
+    "periféria"
+   ],
+   "sourceLabels": [
+    "periféria térség"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A világgazdaság legkevésbé fejlett, kiszolgáltatott térsége: főként nyersanyagot és mezőgazdasági terméket exportál, kevés a tőkéje és a képzett munkaereje, a centrumtól függ. Kialakulása a gyarmati múlttal és az egyoldalú gazdasági szerkezettel is összefügg.",
+   "example": "Periféria pl. a Száhel-övezet országai (Csád, Niger) és Afganisztán.",
+   "examplePlaces": [
+    "afrika--orszagok--csad",
+    "afrika--orszagok--niger",
+    "azsia--orszagok--afganisztan"
+   ],
+   "related": [
+    "felperiferia-terseg",
+    "cserearanyromlas",
+    "alacsony-jovedelmu-orszag"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "globális-problémák",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilaggazdasag",
+   "term": "világgazdaság",
+   "aliases": [],
+   "sourceLabels": [
+    "világgazdaság"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A nemzetgazdaságok és a köztük lévő kereskedelmi, pénzügyi, termelési kapcsolatok összessége, amely a nemzetközi munkamegosztás révén egységes rendszert alkot.",
+   "example": "Egy okostelefon alkatrészeit több földrészen gyártják, a készterméket világszerte értékesítik.",
+   "related": [
+    "nemzetgazdasag",
+    "vilagpiac",
+    "nemzetkozi-munkamegosztas"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilagpiac",
+   "term": "világpiac",
+   "aliases": [],
+   "sourceLabels": [
+    "világpiac"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A nemzetközi kereskedelem színtere, ahol a különböző országok termékei, szolgáltatásai, tőkéje találkoznak, és kialakulnak a világpiaci árak.",
+   "example": "A kőolaj világpiaci ára minden importáló és exportáló ország gazdaságára hat.",
+   "related": [
+    "vilaggazdasag",
+    "piac",
+    "kulkereskedelem"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzetgazdasag",
+   "term": "nemzetgazdaság",
+   "aliases": [],
+   "sourceLabels": [
+    "nemzetgazdaság"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy ország határain belül működő gazdasági szereplők (háztartások, vállalatok, állam) és tevékenységeik összessége, amelyet közös pénz, jogrend és gazdaságpolitika fog össze.",
+   "example": "Magyarország nemzetgazdasága nyitott: termelése nagy részét exportálja.",
+   "related": [
+    "vilaggazdasag",
+    "piacgazdasag",
+    "gazdasagi-szerkezet"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "piacgazdasag",
+   "term": "piacgazdaság",
+   "aliases": [],
+   "sourceLabels": [
+    "piacgazdaság"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan gazdasági rendszer, amelyben a magántulajdon dominál, és arról, hogy mit, mennyiért és mennyit termeljenek, a piacon a kereslet és a kínálat alapján döntenek. Az állam szabályozza a működést (törvények, adók), és gondoskodik a közszolgáltatásokról.",
+   "example": "Az Amerikai Egyesült Államok és az EU országai piacgazdaságok.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "related": [
+    "piac",
+    "tervutasitasos-gazdasag",
+    "piaci-verseny",
+    "ado"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tervutasitasos-gazdasag",
+   "term": "tervutasításos gazdaság",
+   "aliases": [
+    "tervgazdaság"
+   ],
+   "sourceLabels": [
+    "tervutasításos gazdaság"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan gazdasági rendszer, amelyben az állami tulajdon az uralkodó, a termelést és az árakat központi tervek és utasítások határozzák meg, a piac szerepe minimális.",
+   "example": "A Szovjetunióban és a szocialista Magyarországon tervutasításos gazdaság működött; ma leginkább Észak-Korea gazdasága ilyen.",
+   "examplePlaces": [
+    "azsia--orszagok--eszak-korea-koreai-nepi-demokratikus-koztarsasag"
+   ],
+   "related": [
+    "piacgazdasag",
+    "gazdasagi-rendszervaltoztatas",
+    "allami-tulajdon"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gazdasagi-rendszervaltoztatas",
+   "term": "gazdasági rendszerváltoztatás",
+   "aliases": [
+    "gazdasági rendszerváltás"
+   ],
+   "sourceLabels": [
+    "gazdasági rendszerváltoztatás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az átmenet a tervutasításos gazdaságból a piacgazdaságba: a tulajdonviszonyok átalakítása (privatizáció), az árak felszabadítása, a külkereskedelem liberalizálása.",
+   "example": "Magyarországon és Lengyelországban 1989–1990 után zajlott le.",
+   "examplePlaces": [
+    "europa--orszagok--lengyelorszag"
+   ],
+   "related": [
+    "tervutasitasos-gazdasag",
+    "piacgazdasag",
+    "privatizacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "allami-szovetkezeti-es-magantulajdon",
+   "term": "állami, szövetkezeti és magántulajdon",
+   "aliases": [
+    "tulajdonformák"
+   ],
+   "sourceLabels": [
+    "állami",
+    "szövetkezeti és magántulajdon"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A tulajdonformák a tulajdonos szerint: az állami tulajdon az államé (vagy önkormányzaté), a szövetkezeti a tagok közös tulajdona, a magántulajdon magánszemélyeké vagy magáncégeké. A piacgazdaságban a magántulajdon, a tervgazdaságban az állami tulajdon az uralkodó.",
+   "example": "A rendszerváltoztatás után Magyarországon az állami és a szövetkezeti tulajdon jelentős része magántulajdonba került.",
+   "related": [
+    "allami-tulajdon",
+    "szovetkezeti-tulajdon",
+    "magantulajdon",
+    "privatizacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "allami-tulajdon",
+   "term": "állami tulajdon",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "allami-szovetkezeti-es-magantulajdon",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az állam (vagy önkormányzat) tulajdonában lévő vagyon, vállalat. A tervutasításos gazdaságban uralkodó, piacgazdaságban főként a stratégiai ágazatokban és a közszolgáltatásokban jellemző.",
+   "example": "Norvégiában a kőolajipar egy része állami tulajdonú.",
+   "examplePlaces": [
+    "europa--orszagok--norvegia"
+   ],
+   "related": [
+    "tervutasitasos-gazdasag",
+    "privatizacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szovetkezeti-tulajdon",
+   "term": "szövetkezeti tulajdon",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "allami-szovetkezeti-es-magantulajdon",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A szövetkezet tagjainak közös tulajdona, akik együtt gazdálkodnak és osztoznak a hasznon.",
+   "example": "A szocialista Magyarországon a mezőgazdaságot főként termelőszövetkezetek (tsz-ek) művelték.",
+   "related": [
+    "allami-tulajdon",
+    "magantulajdon"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "magantulajdon",
+   "term": "magántulajdon",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "allami-szovetkezeti-es-magantulajdon",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Magánszemélyek vagy magáncégek tulajdona; a piacgazdaság alapja.",
+   "example": "Egy családi pékség vagy egy tőzsdén jegyzett részvénytársaság magántulajdonban van.",
+   "related": [
+    "piacgazdasag",
+    "egyeni-es-tarsas-vallalkozas"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "privatizacio",
+   "term": "privatizáció",
+   "aliases": [],
+   "sourceLabels": [
+    "privatizáció"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az állami tulajdon (vállalatok, vagyon) magántulajdonba adása, eladása.",
+   "example": "Magyarországon az 1990-es években privatizálták a nagy állami vállalatok többségét, sokat külföldi befektetők vásároltak meg.",
+   "related": [
+    "gazdasagi-rendszervaltoztatas",
+    "allami-tulajdon",
+    "magantulajdon"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "piac",
+   "term": "piac",
+   "aliases": [],
+   "sourceLabels": [
+    "piac"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A kereslet és a kínálat találkozásának színtere, ahol az eladók és a vevők cserébe lépnek, és kialakul az ár. Nemcsak konkrét hely lehet: van áru-, munkaerő-, pénz- és tőkepiac is.",
+   "example": "A munkaerőpiacon a munkát keresők és a munkaadók találkoznak.",
+   "related": [
+    "kereslet",
+    "kinalat",
+    "ar",
+    "piaci-verseny"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ar",
+   "term": "ár",
+   "aliases": [],
+   "sourceLabels": [
+    "ár"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy termék vagy szolgáltatás pénzben kifejezett értéke. Piacgazdaságban a kereslet és a kínálat viszonya alakítja: ha a kereslet nagyobb a kínálatnál, az ár nő, ha kisebb, csökken.",
+   "example": "Rossz termés után a gabona kínálata csökken, ezért ára emelkedik.",
+   "related": [
+    "kereslet",
+    "kinalat",
+    "piac"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kinalat",
+   "term": "kínálat",
+   "aliases": [],
+   "sourceLabels": [
+    "kínálat"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Azoknak a termékeknek, szolgáltatásoknak a mennyisége, amelyet az eladók egy adott áron és időben a piacon értékesíteni kívánnak. Az ár emelkedésével általában nő.",
+   "example": "Ha a paprika ára emelkedik, több gazda termeszt paprikát, nő a kínálat.",
+   "related": [
+    "kereslet",
+    "ar",
+    "piac"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kereslet",
+   "term": "kereslet",
+   "aliases": [],
+   "sourceLabels": [
+    "kereslet"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Azoknak a termékeknek, szolgáltatásoknak a mennyisége, amelyet a vevők egy adott áron és időben meg akarnak és meg tudnak vásárolni (fizetőképes kereslet). Az ár emelkedésével általában csökken.",
+   "example": "Nyáron megnő a kereslet a balatoni szálláshelyek iránt.",
+   "related": [
+    "kinalat",
+    "ar",
+    "piac",
+    "fogyasztas"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "haszon-profit",
+   "term": "haszon (profit)",
+   "aliases": [
+    "haszon",
+    "profit",
+    "nyereség"
+   ],
+   "sourceLabels": [
+    "haszon (profit)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A vállalkozás bevételének és költségeinek pozitív különbsége. A piacgazdaságban a vállalkozások legfőbb célja és mozgatórugója.",
+   "example": "Ha egy pékség havi bevétele meghaladja az alapanyag, a bérek és a rezsi összegét, a különbség a profit.",
+   "related": [
+    "piacgazdasag",
+    "piaci-verseny",
+    "ado"
+   ],
+   "tags": [
+    "gazdaság",
+    "pénzügyek",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "piaci-verseny",
+   "term": "piaci verseny",
+   "aliases": [
+    "verseny"
+   ],
+   "sourceLabels": [
+    "piaci verseny"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A piaci szereplők (főként az eladók) küzdelme a vevőkért jobb minőséggel, alacsonyabb árral, újításokkal. Ösztönzi a hatékonyságot és az innovációt; az állam versenyszabályokkal védi a monopóliumokkal szemben.",
+   "example": "Több mobilszolgáltató versengése a díjak csökkenéséhez vezet.",
+   "related": [
+    "piac",
+    "versenykepesseg",
+    "innovacio",
+    "haszon-profit"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "versenykepesseg",
+   "term": "versenyképesség",
+   "aliases": [],
+   "sourceLabels": [
+    "versenyképesség"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy vállalat, ágazat, térség vagy ország képessége arra, hogy termékeit, szolgáltatásait sikeresen értékesítse a piacon más szereplőkkel szemben, és vonzza a tőkét. Függ a termelékenységtől, a munkaerő képzettségétől, az innovációtól és az infrastruktúrától.",
+   "example": "Svájc versenyképességét a magasan képzett munkaerő és a fejlett innovációs környezet adja.",
+   "examplePlaces": [
+    "europa--orszagok--svajc"
+   ],
+   "related": [
+    "piaci-verseny",
+    "innovacio",
+    "termelekenyseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ado",
+   "term": "adó",
+   "aliases": [],
+   "sourceLabels": [
+    "adó"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az államnak (önkormányzatnak) fizetendő kötelező, közvetlen ellenszolgáltatás nélküli befizetés, amelyből az állam feladatait (oktatás, egészségügy, védelem, infrastruktúra, szociális ellátás) finanszírozzák. Lehet jövedelemre (pl. személyi jövedelemadó) vagy fogyasztásra kivetett (pl. ÁFA).",
+   "example": "A boltban fizetett árban benne van az általános forgalmi adó (ÁFA).",
+   "related": [
+    "piacgazdasag",
+    "joleti-allam",
+    "vam"
+   ],
+   "tags": [
+    "gazdaság",
+    "pénzügyek",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "agrarorszag",
+   "term": "agrárország",
+   "aliases": [],
+   "sourceLabels": [
+    "agrárország"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan ország, amelynek gazdaságában és foglalkoztatási szerkezetében a mezőgazdaság a meghatározó; jellemzően alacsony jövedelmű, fejlődő ország.",
+   "example": "Etiópia és Csád agrárország: lakosságuk többsége mezőgazdaságból él.",
+   "examplePlaces": [
+    "afrika--orszagok--etiopia",
+    "afrika--orszagok--csad"
+   ],
+   "related": [
+    "mezogazdasag",
+    "primer-szektor",
+    "ipari-indusztrialis-tarsadalom"
+   ],
+   "tags": [
+    "gazdaság",
+    "mezőgazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ipari-indusztrialis-tarsadalom",
+   "term": "ipari (indusztriális) társadalom",
+   "aliases": [
+    "ipari társadalom",
+    "indusztriális társadalom"
+   ],
+   "sourceLabels": [
+    "ipari (indusztriális) társadalom"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az ipari forradalom nyomán kialakult társadalom, amelyben a gazdaságban és a foglalkoztatásban az ipar (szekunder szektor) a meghatározó, a népesség jelentős része városokban él.",
+   "example": "A 19. századi Nagy-Britannia és a 20. század közepi Németország ipari társadalom volt.",
+   "examplePlaces": [
+    "europa--orszagok--nagy-britannia-anglia-skocia-wales-es-eszak-irorszag-egyesult-kiralysaga",
+    "europa--orszagok--nemetorszag"
+   ],
+   "related": [
+    "agrarorszag",
+    "ipar-utani-posztindusztrialis-tarsadalom",
+    "szekunder-szektor"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ipar-utani-posztindusztrialis-tarsadalom",
+   "term": "ipar utáni (posztindusztriális) társadalom",
+   "aliases": [
+    "ipar utáni társadalom",
+    "posztindusztriális társadalom"
+   ],
+   "sourceLabels": [
+    "ipar utáni (posztindusztriális) társadalom"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az ipari társadalmat követő fejlődési szakasz, amelyben a gazdaságban és a foglalkoztatásban a szolgáltatások (tercier szektor) válnak uralkodóvá, az ipar aránya csökken.",
+   "example": "Az 1970-es évektől az USA és Nyugat-Európa országai posztindusztriális társadalommá váltak.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "related": [
+    "ipari-indusztrialis-tarsadalom",
+    "informacios-tarsadalom",
+    "tercier-szektor"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "informacios-tarsadalom",
+   "term": "információs társadalom",
+   "aliases": [
+    "tudástársadalom"
+   ],
+   "sourceLabels": [
+    "információs társadalom"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan társadalom, amelyben az információ és a tudás előállítása, feldolgozása és felhasználása a fő gazdasági tevékenység, a kvaterner szektor szerepe meghatározó, az infokommunikációs eszközök áthatják a mindennapokat.",
+   "example": "Japán, az USA és a skandináv országok a legfejlettebb információs társadalmak közé tartoznak.",
+   "examplePlaces": [
+    "azsia--orszagok--japan",
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "related": [
+    "informacios-gazdasag",
+    "kvaterner-szektor",
+    "ipar-utani-posztindusztrialis-tarsadalom"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "dualis-gazdasagi-szerkezet",
+   "term": "duális gazdasági szerkezet",
+   "aliases": [
+    "duális gazdaság"
+   ],
+   "sourceLabels": [
+    "duális gazdasági szerkezet"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A fejlődő országokra jellemző kettős gazdaság, amelyben egy modern, főként exportra termelő, gyakran külföldi tőkéjű szektor és egy hagyományos, önellátó, alacsony termelékenységű szektor él egymás mellett, kevés kapcsolattal.",
+   "example": "Indiában a bengalurui csúcstechnológiás szolgáltatások mellett százmilliók élnek hagyományos önellátó mezőgazdaságból.",
+   "examplePlaces": [
+    "azsia--orszagok--india",
+    "azsia--varosok--bengaluru-bangalore"
+   ],
+   "related": [
+    "fejlodo-orszag",
+    "agrarorszag",
+    "felperiferia-terseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "belkereskedelem-es-kulkereskedelem",
+   "term": "belkereskedelem és külkereskedelem",
+   "aliases": [],
+   "sourceLabels": [
+    "belkereskedelem és külkereskedelem"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A kereskedelem két fő területe: a belkereskedelem az országon belüli, a külkereskedelem az országhatárokon átnyúló áru- és szolgáltatáscsere.",
+   "example": "Egy hazai élelmiszerbolt forgalma belkereskedelem, egy autógyár németországi szállítása külkereskedelem.",
+   "related": [
+    "belkereskedelem",
+    "kulkereskedelem"
+   ],
+   "tags": [
+    "gazdaság",
+    "szolgáltatás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "belkereskedelem",
+   "term": "belkereskedelem",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "belkereskedelem-es-kulkereskedelem",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az országon belüli adás-vétel, amely a termelőtől a fogyasztóig juttatja az árut (nagykereskedelem és kiskereskedelem).",
+   "example": "A hipermarketek, webáruházak forgalma a belkereskedelem része.",
+   "related": [
+    "kulkereskedelem"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kulkereskedelem",
+   "term": "külkereskedelem",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "belkereskedelem-es-kulkereskedelem",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az országok közötti áru- és szolgáltatáscsere: kivitel (export) és behozatal (import).",
+   "example": "Szaúd-Arábia kőolajat exportál, és ipari készárukat, élelmiszert importál.",
+   "examplePlaces": [
+    "azsia--orszagok--szaud-arabia"
+   ],
+   "related": [
+    "kulkereskedelmi-aruszerkezet",
+    "pozitiv-es-negativ-kulkereskedelmi-merleg",
+    "vilagpiac"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szabadkereskedelem",
+   "term": "szabadkereskedelem",
+   "aliases": [],
+   "sourceLabels": [
+    "szabadkereskedelem"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan külkereskedelmi politika, amely lebontja az országok közötti kereskedelmi akadályokat (vámokat, kvótákat), és szabad áruáramlást tesz lehetővé.",
+   "example": "Az Európai Unió tagállamai között az áruk vám nélkül forgalmazhatók.",
+   "related": [
+    "protekcionizmus",
+    "vam",
+    "kvota"
+   ],
+   "tags": [
+    "gazdaság",
+    "integráció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "protekcionizmus",
+   "term": "protekcionizmus",
+   "aliases": [
+    "védővámpolitika"
+   ],
+   "sourceLabels": [
+    "protekcionizmus"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Olyan külkereskedelmi politika, amely a hazai termelőket vámokkal, kvótákkal, támogatásokkal és egyéb korlátozásokkal védi a külföldi versenytársakkal szemben.",
+   "example": "Az EU vámokkal védekezik az olcsó, dömpingáron behozott kínai acél ellen.",
+   "related": [
+    "szabadkereskedelem",
+    "vam",
+    "kvota",
+    "exporttamogatas-szubvencio"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vam",
+   "term": "vám",
+   "aliases": [],
+   "sourceLabels": [
+    "vám"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az országhatáron áthaladó (főként behozott) árukra kivetett adó; célja az állami bevétel növelése vagy a hazai termelés védelme.",
+   "example": "Ha egy ország magas vámot vet ki a behozott autókra, a hazai gyártmányok versenyképesebbé válnak.",
+   "related": [
+    "protekcionizmus",
+    "kvota",
+    "szabadkereskedelem",
+    "ado"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kvota",
+   "term": "kvóta",
+   "aliases": [
+    "behozatali kvóta"
+   ],
+   "sourceLabels": [
+    "kvóta"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Egy áru behozatalára (ritkábban kivitelére) megszabott mennyiségi vagy értékbeli korlát.",
+   "example": "Az EU egy időszakban mennyiségi korláttal szabályozta a kínai textiláruk behozatalát.",
+   "related": [
+    "vam",
+    "protekcionizmus"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kulkereskedelmi-aruszerkezet",
+   "term": "külkereskedelmi áruszerkezet",
+   "aliases": [],
+   "sourceLabels": [
+    "külkereskedelmi áruszerkezet"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az export és az import megoszlása árucsoportok szerint (pl. nyersanyagok, élelmiszerek, gépek, feldolgozott termékek). Jellemző a fejlettségre: a periféria főként nyersanyagot és mezőgazdasági terméket exportál, a centrum feldolgozott, nagy hozzáadott értékű termékeket.",
+   "example": "Nigéria kivitelét a kőolaj uralja, Németországét a gépek és járművek.",
+   "examplePlaces": [
+    "afrika--orszagok--nigeria",
+    "europa--orszagok--nemetorszag"
+   ],
+   "related": [
+    "kulkereskedelem",
+    "cserearanyromlas",
+    "pozitiv-es-negativ-kulkereskedelmi-merleg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "pozitiv-es-negativ-kulkereskedelmi-merleg",
+   "term": "pozitív és negatív külkereskedelmi mérleg",
+   "aliases": [
+    "külkereskedelmi mérleg"
+   ],
+   "sourceLabels": [
+    "pozitív és negatív külkereskedelmi mérleg"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "A külkereskedelmi mérleg az export és az import értékének különbsége egy adott időszakban. Pozitív (aktív), ha az export nagyobb, negatív (passzív), ha az import.",
+   "example": "Németország és Kína kereskedelmi mérlege tartósan pozitív, az USA-é tartósan negatív.",
+   "examplePlaces": [
+    "europa--orszagok--nemetorszag",
+    "azsia--orszagok--kina",
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "related": [
+    "pozitiv-kulkereskedelmi-merleg",
+    "negativ-kulkereskedelmi-merleg",
+    "kulkereskedelem"
+   ],
+   "tags": [
+    "gazdaság",
+    "számolás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "pozitiv-kulkereskedelmi-merleg",
+   "term": "pozitív külkereskedelmi mérleg",
+   "aliases": [
+    "aktív külkereskedelmi mérleg",
+    "külkereskedelmi többlet"
+   ],
+   "sourceLabels": [],
+   "parent": "pozitiv-es-negativ-kulkereskedelmi-merleg",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az export értéke meghaladja az import értékét (külkereskedelmi többlet).",
+   "example": "Kína évek óta jelentős külkereskedelmi többletet ér el.",
+   "examplePlaces": [
+    "azsia--orszagok--kina"
+   ],
+   "related": [
+    "negativ-kulkereskedelmi-merleg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "negativ-kulkereskedelmi-merleg",
+   "term": "negatív külkereskedelmi mérleg",
+   "aliases": [
+    "passzív külkereskedelmi mérleg",
+    "külkereskedelmi hiány"
+   ],
+   "sourceLabels": [],
+   "parent": "pozitiv-es-negativ-kulkereskedelmi-merleg",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "kozep",
+   "definition": "Az import értéke meghaladja az export értékét (külkereskedelmi hiány).",
+   "example": "Az Amerikai Egyesült Államok külkereskedelmi mérlege évtizedek óta negatív.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "related": [
+    "pozitiv-kulkereskedelmi-merleg"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzetkozi-munkamegosztas",
+   "term": "nemzetközi munkamegosztás",
+   "aliases": [],
+   "sourceLabels": [
+    "nemzetközi munkamegosztás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Az országok szakosodása bizonyos termékek, szolgáltatások előállítására a természeti és társadalmi adottságaik alapján, és termékeik cseréje a világpiacon. A centrum a nagy hozzáadott értékű, a periféria a nyersanyag-termelő szerepkört tölti be.",
+   "example": "Szaúd-Arábia kőolajat, Japán csúcstechnológiás termékeket ad a világpiacra.",
+   "examplePlaces": [
+    "azsia--orszagok--szaud-arabia",
+    "azsia--orszagok--japan"
+   ],
+   "related": [
+    "szakosodas-specializacio",
+    "vilaggazdasag",
+    "kulkereskedelem"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szakosodas-specializacio",
+   "term": "szakosodás (specializáció)",
+   "aliases": [
+    "szakosodás",
+    "specializáció"
+   ],
+   "sourceLabels": [
+    "szakosodás (specializáció)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Egy ország, térség vagy vállalat összpontosítása egy vagy néhány termék, szolgáltatás előállítására, amelyben adottságai a legkedvezőbbek. Az egyoldalú szakosodás kiszolgáltatottá teheti a világpiaci áraknak.",
+   "example": "Chile gazdaságában kiemelkedő a rézérc-bányászat és -kivitel.",
+   "examplePlaces": [
+    "amerika--orszagok--chile"
+   ],
+   "related": [
+    "nemzetkozi-munkamegosztas",
+    "cserearanyromlas"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "extenziv-es-intenziv-gazdasagi-novekedes",
+   "term": "extenzív és intenzív gazdasági növekedés",
+   "aliases": [],
+   "sourceLabels": [
+    "extenzív és intenzív gazdasági növekedés"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "A gazdasági növekedés két útja: az extenzív a termelési tényezők (munkaerő, föld, tőke, nyersanyag) mennyiségének bővítéséből, az intenzív a hatékonyság, a termelékenység javításából (technológia, innováció, képzettség) fakad.",
+   "example": "A tervgazdaságok főként extenzív, a mai fejlett gazdaságok főként intenzív módon növekednek.",
+   "related": [
+    "extenziv-gazdasagi-novekedes",
+    "intenziv-gazdasagi-novekedes",
+    "gazdasagi-novekedes"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "extenziv-gazdasagi-novekedes",
+   "term": "extenzív gazdasági növekedés",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "extenziv-es-intenziv-gazdasagi-novekedes",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "A termelés bővítése több munkaerő, termőterület, tőke vagy nyersanyag bevonásával, a termelékenység lényeges javulása nélkül.",
+   "example": "Új szántóföldek feltörése az erdők rovására extenzív növekedés.",
+   "related": [
+    "intenziv-gazdasagi-novekedes",
+    "tervutasitasos-gazdasag"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "intenziv-gazdasagi-novekedes",
+   "term": "intenzív gazdasági növekedés",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "extenziv-es-intenziv-gazdasagi-novekedes",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "A termelés bővítése a meglévő erőforrások hatékonyabb felhasználásával: korszerű technológiával, innovációval, képzettebb munkaerővel, jobb szervezéssel.",
+   "example": "A robotizált gyártósor ugyanannyi dolgozóval többet termel: ez intenzív növekedés.",
+   "related": [
+    "termelekenyseg",
+    "innovacio",
+    "robotizacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eletminoseg",
+   "term": "életminőség",
+   "aliases": [],
+   "sourceLabels": [
+    "életminőség"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Az életszínvonalnál tágabb fogalom: az anyagi helyzet mellett az egészség, a műveltség, a környezet állapota, a közbiztonság, a szabadidő, a társadalmi kapcsolatok és az egyén elégedettsége is beletartozik. Mérésére összetett mutatókat (pl. HDI) használnak.",
+   "example": "Két azonos jövedelmű ország közül annak jobb az életminősége, ahol tisztább a levegő és hosszabb a várható élettartam.",
+   "related": [
+    "eletszinvonal",
+    "emberi-fejlettseg-indexe-hdi",
+    "joleti-allam"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "emberi-fejlettseg-indexe-hdi",
+   "term": "emberi fejlettség indexe (HDI)",
+   "aliases": [
+    "HDI",
+    "emberi fejlettségi index"
+   ],
+   "sourceLabels": [
+    "emberi fejlettség indexe (HDI)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Az ENSZ által számított összetett mutató, amely a születéskor várható élettartamot, az iskolázottságot és az egy főre jutó jövedelmet (GNI) együtt veszi figyelembe; értéke 0 és 1 között van. A GDP-nél és a GNI-nél jobban tükrözi az életminőséget.",
+   "example": "Norvégia és Svájc HDI-je a legmagasabbak közé, Csádé és Nigeré a legalacsonyabbak közé tartozik.",
+   "examplePlaces": [
+    "europa--orszagok--norvegia",
+    "europa--orszagok--svajc",
+    "afrika--orszagok--csad",
+    "afrika--orszagok--niger"
+   ],
+   "related": [
+    "eletminoseg",
+    "brutto-hazai-termek-gdp",
+    "brutto-nemzeti-jovedelem-gni"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "joleti-allam",
+   "term": "jóléti állam",
+   "aliases": [],
+   "sourceLabels": [
+    "jóléti állam"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Olyan állam, amely magas adókból széles körű szociális ellátást, ingyenes vagy olcsó oktatást és egészségügyet, fejlett nyugdíj- és segélyrendszert biztosít polgárainak.",
+   "example": "A jóléti állam mintái a skandináv országok, pl. Svédország és Dánia.",
+   "examplePlaces": [
+    "europa--orszagok--svedorszag",
+    "europa--orszagok--dania"
+   ],
+   "related": [
+    "szocialis-halo",
+    "ado",
+    "eletminoseg"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szocialis-halo",
+   "term": "szociális háló",
+   "aliases": [
+    "szociális védőháló"
+   ],
+   "sourceLabels": [
+    "szociális háló"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Az állami és önkormányzati ellátások rendszere (pl. munkanélküli-ellátás, családtámogatás, segélyek, nyugdíj), amely megakadályozza, hogy a rászorulók a létminimum alá süllyedjenek.",
+   "example": "Aki elveszíti állását, egy ideig álláskeresési járadékot kaphat.",
+   "related": [
+    "joleti-allam",
+    "munkanelkuli"
+   ],
+   "tags": [
+    "gazdaság",
+    "társadalom",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "egyeni-es-tarsas-vallalkozas",
+   "term": "egyéni és társas vállalkozás",
+   "aliases": [],
+   "sourceLabels": [
+    "egyéni és társas vállalkozás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "A vállalkozások két alaptípusa: az egyéni vállalkozást egy természetes személy, saját nevében és felelősségére működteti; a társas vállalkozást (gazdasági társaságot) több tulajdonos hozza létre közösen (pl. Kft., Bt., Rt.).",
+   "example": "Egy egyéni vállalkozó villanyszerelő és egy több tulajdonosú építőipari Kft.",
+   "related": [
+    "egyeni-vallalkozas",
+    "tarsas-vallalkozas",
+    "magantulajdon"
+   ],
+   "tags": [
+    "gazdaság",
+    "pénzügyek",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "egyeni-vallalkozas",
+   "term": "egyéni vállalkozás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "egyeni-es-tarsas-vallalkozas",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Egy magánszemély által a saját nevében folytatott gazdasági tevékenység, amelynek kötelezettségeiért a vállalkozó teljes vagyonával felel.",
+   "example": "Egy egyéni vállalkozó fodrász.",
+   "related": [
+    "tarsas-vallalkozas"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tarsas-vallalkozas",
+   "term": "társas vállalkozás",
+   "aliases": [
+    "gazdasági társaság"
+   ],
+   "sourceLabels": [],
+   "parent": "egyeni-es-tarsas-vallalkozas",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Több tag (tulajdonos) által közös vagyonnal létrehozott vállalkozás, pl. betéti társaság (Bt.), korlátolt felelősségű társaság (Kft.), részvénytársaság (Rt.).",
+   "example": "A tőzsdén jegyzett nagyvállalatok részvénytársaságok.",
+   "related": [
+    "egyeni-vallalkozas"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ipari-park",
+   "term": "ipari park",
+   "aliases": [],
+   "sourceLabels": [
+    "ipari park"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Infrastruktúrával (út, közművek, telekommunikáció) előre ellátott, kijelölt terület, ahol vállalkozások kedvező feltételekkel telepíthetik le üzemeiket, és közös szolgáltatásokat vehetnek igénybe.",
+   "example": "Magyarországon a legtöbb nagyobb város mellett működik ipari park, amely főként külföldi befektetőket vonz.",
+   "related": [
+    "telepito-tenyezo",
+    "innovacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "ipar",
+    "Magyarország",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "robotizacio",
+   "term": "robotizáció",
+   "aliases": [],
+   "sourceLabels": [
+    "robotizáció"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Az emberi munka ipari robotokkal, automatizált rendszerekkel való helyettesítése. Növeli a termelékenységet, de csökkenti a betanított munkaerő iránti keresletet.",
+   "example": "Dél-Koreában és Japánban különösen sok ipari robot dolgozik az autó- és elektronikai iparban.",
+   "examplePlaces": [
+    "azsia--orszagok--del-korea-koreai-koztarsasag",
+    "azsia--orszagok--japan"
+   ],
+   "related": [
+    "termelekenyseg",
+    "intenziv-gazdasagi-novekedes",
+    "innovacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "ipar",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "aru-es-szolgaltataskereskedelem",
+   "term": "áru- és szolgáltatáskereskedelem",
+   "aliases": [],
+   "sourceLabels": [
+    "áru- és szolgáltatáskereskedelem"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "A (kül)kereskedelem két fő területe: az árukereskedelem kézzelfogható termékek (nyersanyagok, élelmiszerek, iparcikkek), a szolgáltatáskereskedelem nem tárgyiasult teljesítmények (pl. turizmus, szállítás, pénzügyi, informatikai szolgáltatás) cseréje.",
+   "example": "Egy autó exportja árukereskedelem, egy külföldi turista szállásdíja szolgáltatáskereskedelem.",
+   "related": [
+    "arukereskedelem",
+    "szolgaltataskereskedelem",
+    "kulkereskedelem"
+   ],
+   "tags": [
+    "gazdaság",
+    "szolgáltatás",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "arukereskedelem",
+   "term": "árukereskedelem",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "aru-es-szolgaltataskereskedelem",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Kézzelfogható termékek (nyersanyagok, félkész- és késztermékek) adás-vétele.",
+   "example": "Brazília szóját és vasércet exportál.",
+   "examplePlaces": [
+    "amerika--orszagok--brazilia"
+   ],
+   "related": [
+    "szolgaltataskereskedelem",
+    "kulkereskedelmi-aruszerkezet"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szolgaltataskereskedelem",
+   "term": "szolgáltatáskereskedelem",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "aru-es-szolgaltataskereskedelem",
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Nem tárgyiasult szolgáltatások nemzetközi cseréje, pl. turizmus, szállítás, pénzügyi, informatikai és tanácsadói szolgáltatások. Súlya a fejlett gazdaságokban gyorsan nő.",
+   "example": "Indiai cégek amerikai vállalatoknak nyújtanak szoftverfejlesztést.",
+   "examplePlaces": [
+    "azsia--orszagok--india"
+   ],
+   "related": [
+    "arukereskedelem",
+    "szolgaltatasok"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "exporttamogatas-szubvencio",
+   "term": "exporttámogatás (szubvenció)",
+   "aliases": [
+    "exporttámogatás",
+    "szubvenció",
+    "exportszubvenció"
+   ],
+   "sourceLabels": [
+    "exporttámogatás (szubvenció)"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Az állam pénzbeli vagy egyéb kedvezménye a hazai exportőröknek, amely a világpiaci árnál olcsóbb eladást, így a versenyképesség növelését teszi lehetővé. A protekcionizmus eszköze.",
+   "example": "Az EU korábban exporttámogatással segítette mezőgazdasági termékeinek kivitelét.",
+   "related": [
+    "protekcionizmus",
+    "arudomping"
+   ],
+   "tags": [
+    "gazdaság",
+    "pénzügyek",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "arudomping",
+   "term": "árudömping",
+   "aliases": [
+    "dömping"
+   ],
+   "sourceLabels": [
+    "árudömping"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Áru tömeges eladása külföldön a hazai árnál, gyakran az előállítási költségnél is alacsonyabb áron, a piac megszerzése és a versenytársak kiszorítása céljából.",
+   "example": "Az EU dömpingellenes vámot vetett ki egyes olcsó kínai acéltermékekre.",
+   "examplePlaces": [
+    "azsia--orszagok--kina"
+   ],
+   "related": [
+    "exporttamogatas-szubvencio",
+    "protekcionizmus",
+    "vam"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "embargo",
+   "term": "embargó",
+   "aliases": [],
+   "sourceLabels": [
+    "embargó"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Egy országgal szembeni kereskedelmi tilalom vagy korlátozás (pl. bizonyos áruk ki- vagy bevitelének tiltása), amelyet többnyire politikai okból vezetnek be.",
+   "example": "Az Amerikai Egyesült Államok évtizedek óta kereskedelmi embargót tart fenn Kubával szemben.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "amerika--orszagok--kuba"
+   ],
+   "related": [
+    "protekcionizmus",
+    "kulkereskedelem"
+   ],
+   "tags": [
+    "gazdaság",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "cserearanyromlas",
+   "term": "cserearányromlás",
+   "aliases": [],
+   "sourceLabels": [
+    "cserearányromlás"
+   ],
+   "parent": null,
+   "topicNo": 6,
+   "subtopic": "6.1. A nemzetgazdaságok és a világgazdaság",
+   "level": "emelt",
+   "definition": "Az export- és importárak arányának kedvezőtlen változása: az exportált termékek ára az importáltakéhoz képest csökken, így ugyanannyi exportért kevesebb importáru szerezhető be. Főként a nyersanyag-exportáló periféria országokat sújtja.",
+   "example": "Ha a kávé világpiaci ára esik, miközben a gépek drágulnak, a kávéexportáló Etiópia cserearánya romlik.",
+   "examplePlaces": [
+    "afrika--orszagok--etiopia"
+   ],
+   "related": [
+    "periferia-terseg",
+    "kulkereskedelmi-aruszerkezet",
+    "szakosodas-specializacio"
+   ],
+   "tags": [
+    "gazdaság",
+    "globalizáció",
+    "globális-problémák",
+    "6-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

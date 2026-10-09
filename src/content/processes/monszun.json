@@ -1,0 +1,106 @@
+{
+  "id": "monszun",
+  "title": "A monszun",
+  "summary": "A monszun évszakosan irányt váltó szélrendszer, amely a szárazföld és a tenger eltérő felmelegedése és lehűlése miatt alakul ki. Nyáron a tenger felől nedves, télen a szárazföld felől száraz levegőt szállít.",
+  "causes": [
+    "A szárazföld fajhője kisebb, mint a vízé, ezért nyáron gyorsabban és jobban felmelegszik, télen gyorsabban és jobban lehűl.",
+    "A tenger lassabban melegszik és hűl, hőtároló képessége nagy, ezért hőmérséklete kiegyenlítettebb.",
+    "Az eltérő hőmérséklet miatt a szárazföld és a tenger fölött évszakonként ellentétes légnyomás alakul ki; a forró övezetben ezt a hőmérsékleti egyenlítő évszakos vándorlása is erősíti."
+  ],
+  "course": [
+    "Nyáron a felmelegedett szárazföld fölött a levegő felemelkedik, alacsony nyomás alakul ki, a hűvösebb tenger fölött magasabb a nyomás.",
+    "A nyári monszun a tenger felől a szárazföld felé fúj, nedves levegőt szállít, amely a szárazföld fölött – különösen a hegységek előtt – felemelkedik, lehűl, és bőséges csapadékot ad.",
+    "Télen a kihűlt szárazföld fölött magas, a melegebb tenger fölött alacsonyabb a nyomás.",
+    "A téli monszun a szárazföld felől a tenger felé fúj, száraz levegőt szállít, ezért száraz évszak alakul ki."
+  ],
+  "consequences": [
+    "A monszunvidékeken élesen elkülönül az esős (nyári) és a száraz (téli) évszak.",
+    "A nyári monszun csapadéka teszi lehetővé a rizstermesztést (monszungazdálkodás), a sűrű népességet.",
+    "Ha a monszun késik vagy gyenge, aszály és terméskiesés, ha túl erős, pusztító árvizek sújtják a térséget (pl. Banglades).",
+    "Kelet-Ázsiában a mérsékelt övezeti monszun nyáron csapadékos, télen hideg, száraz időjárást okoz."
+  ],
+  "steps": [
+    {
+      "title": "Nyáron a szárazföld jobban felmelegszik: alacsony nyomás",
+      "caption": "A kisebb fajhőjű szárazföld nyáron gyorsabban és jobban felmelegszik, mint a tenger. Fölötte a levegő felemelkedik, alacsony nyomás alakul ki.",
+      "icon": "sun"
+    },
+    {
+      "title": "Nyári monszun: nedves szél a tenger felől, esős évszak",
+      "caption": "A tenger felől nedves levegő áramlik a szárazföld fölé, ahol – főleg a hegységek előtt – felemelkedik és lehűl. Bőséges csapadék hullik, kezdődik az esős évszak.",
+      "icon": "cloud-rain"
+    },
+    {
+      "title": "Télen a szárazföld lehűl: magas nyomás",
+      "caption": "Télen a szárazföld gyorsabban és jobban lehűl, mint a tenger. A hideg, sűrű levegő leszáll, a szárazföld fölött magas nyomás alakul ki.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "Téli monszun: száraz szél a szárazföld felől",
+      "caption": "A szél a szárazföld felől a tenger felé fordul, és száraz levegőt szállít. Száraz évszak alakul ki, kevés a csapadék.",
+      "icon": "wind"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Hindusztáni-félszigeten a délnyugati nyári monszun hozza az esős évszakot; a nyugati parton (pl. Mumbai) bőséges csapadék hullik.",
+      "places": [
+        "azsia--tajak--hindusztani-felsziget",
+        "azsia--varosok--mumbai-bombay"
+      ]
+    },
+    {
+      "text": "A nyári monszun nedves levegője a Himalája déli lejtőin felemelkedve rendkívül sok csapadékot ad, a Gangesz és a Bengáli-öböl partvidékén (Banglades) gyakoriak az árvizek.",
+      "places": [
+        "azsia--tajak--himalaja",
+        "azsia--vizrajz--gangesz",
+        "azsia--orszagok--banglades"
+      ]
+    },
+    {
+      "text": "Kelet-Kínában és Japánban mérsékelt övezeti monszun alakul ki: a téli monszun a Szibériai-maximum felől hideg, száraz levegőt hoz.",
+      "places": [
+        "azsia--tajak--kinai-alfold",
+        "azsia--orszagok--japan"
+      ]
+    }
+  ],
+  "concepts": [
+    "forró övezeti (trópusi) monszunszélrendszer",
+    "mérsékelt övezeti monszunszélrendszer",
+    "fajlagos hőkapacitás (fajhő)",
+    "légnyomás",
+    "monszunvidék",
+    "forró övezeti (trópusi) monszunéghajlat",
+    "monszungazdálkodás",
+    "hőmérsékleti (termikus) egyenlítő"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a monszun kialakulását és évszakos irányváltozását! Mutasd be a Hindusztáni-félsziget példáján a következményeit!",
+    "elements": [
+      {
+        "text": "A szárazföld és a tenger eltérő fajhője miatt eltérően melegszik fel és hűl le.",
+        "points": 2
+      },
+      {
+        "text": "Nyáron a szárazföld fölött alacsony, a tenger fölött magasabb a nyomás.",
+        "points": 2
+      },
+      {
+        "text": "A nyári monszun a tenger felől nedves levegőt hoz: esős évszak.",
+        "points": 2
+      },
+      {
+        "text": "Télen a szárazföld fölött magas a nyomás, a téli monszun száraz levegőt szállít a tenger felé: száraz évszak.",
+        "points": 2
+      },
+      {
+        "text": "Következmény: rizstermesztés, monszungazdálkodás; a monszun késése aszályt, túl erős volta árvizet okoz.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A monszun azért alakul ki, mert a kisebb fajhőjű szárazföld nyáron gyorsabban és jobban felmelegszik, télen gyorsabban és jobban lehűl, mint a tenger. Nyáron ezért a szárazföld fölött a levegő felemelkedik és alacsony nyomás alakul ki, a hűvösebb tenger fölött magasabb a nyomás. A nyári monszun így a tenger felől fúj, nedves levegőt szállít, amely a Hindusztáni-félsziget hegyei előtt felemelkedve bőséges csapadékot ad: ez az esős évszak. Télen a kihűlt szárazföld fölött magas a nyomás, a téli monszun a szárazföld felől a tenger felé száraz levegőt szállít, ezért száraz évszak következik. A nyári csapadék teszi lehetővé a rizstermesztésre épülő monszungazdálkodást, de ha a monszun késik, aszály, ha túl erős, pusztító árvíz sújtja a térséget."
+  },
+  "generated": true,
+  "reviewed": false
+}

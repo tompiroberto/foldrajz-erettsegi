@@ -1,0 +1,65 @@
+{
+  "id": "foldrenges-cunami",
+  "title": "Földrengés és cunami",
+  "summary": "A földrengés a kőzetekben felhalmozódott feszültség hirtelen felszabadulása, amely rengéshullámokat kelt. Ha a rengés a tengerfenéket mozdítja el, a vízoszlop kimozdulásából pusztító cunami indulhat.",
+  "causes": [
+    "A kőzetlemezek mozgása a lemezszegélyek mentén feszültséget halmoz fel a kőzetekben.",
+    "Ha a feszültség meghaladja a kőzetek szilárdságát, azok hirtelen elmozdulnak, eltörnek egy törésvonal mentén.",
+    "Földrengést vulkáni működés és kőzetomlás (pl. barlangbeszakadás) is okozhat, de a legerősebbek lemezmozgáshoz kötődnek."
+  ],
+  "course": [
+    "A kőzetek elmozdulásának kiindulópontja a mélyben a rengésfészek (hipocentrum), a fölötte lévő felszíni pont a rengésközpont (epicentrum).",
+    "A rengésfészekből földrengéshullámok indulnak, ezeket a szeizmográf rögzíti.",
+    "A felszínen a rengésközpont környékén a legerősebb a rázkódás, ezt utórengések követhetik.",
+    "Tengerrengéskor a tengerfenék hirtelen elmozdulása megemeli a vízoszlopot, és cunami indul, amely a parthoz közeledve felmagasodik."
+  ],
+  "consequences": [
+    "Épületek, utak, vezetékek rongálódnak, tüzek, földcsuszamlások keletkezhetnek.",
+    "A cunami a parti sávot elönti, súlyos emberáldozatot és károkat okoz, akár a rengéstől távoli partokon is.",
+    "A rengés erősségét a Richter-skála (a felszabaduló energia, műszeres mérés) és a Mercalli-skála (a felszíni hatások, pusztítás) alapján jellemzik.",
+    "A védekezés lehetőségei: földrengésbiztos építkezés, figyelmeztető rendszerek, a lakosság felkészítése."
+  ],
+  "steps": [
+    { "title": "Feszültség felhalmozódása", "caption": "A lemezek mozgása miatt a kőzetekben lassan feszültség gyűlik fel, főként a lemezszegélyek mentén. A kőzetek egy ideig rugalmasan alakváltoznak.", "icon": "layers" },
+    { "title": "Hirtelen elmozdulás a rengésfészekben", "caption": "Ha a feszültség túl nagy lesz, a kőzetek egy törésvonal mentén hirtelen elmozdulnak. Ez a pont a rengésfészek (hipocentrum).", "icon": "zap" },
+    { "title": "Földrengéshullámok terjedése", "caption": "A rengésfészekből minden irányba földrengéshullámok indulnak, amelyeket a szeizmográfok érzékelnek. A felszínen a rengésközpont (epicentrum) fölött a legerősebb a rázkódás.", "icon": "activity" },
+    { "title": "Pusztítás a szárazföldön", "caption": "A rázkódás épületeket dönt össze, tüzeket, földcsuszamlásokat okoz. A főrengést gyakran utórengések követik.", "icon": "building" },
+    { "title": "Tengerrengés: a vízoszlop megemelkedik", "caption": "Ha a rengésfészek a tenger alatt van és a tengerfenék függőlegesen elmozdul, a teljes vízoszlop kimozdul. A nyílt óceánon a hullám alacsony, de nagyon gyorsan terjed.", "icon": "waves" },
+    { "title": "A cunami partot ér", "caption": "A sekélyedő parti vízben a hullám lelassul és nagyon magasra tornyosul, majd elönti a partvidéket. Gyakran előtte a víz szokatlanul visszahúzódik: ez figyelmeztető jel.", "icon": "alert-triangle" },
+    { "title": "Védekezés", "caption": "Földrengésbiztos épületekkel, cunami-előrejelző rendszerekkel és a lakosság felkészítésével csökkenthetők a károk.", "icon": "shield" }
+  ],
+  "examples": [
+    { "text": "2011-ben Japán keleti partjai előtt, a Japán-árok közelében erős tengerrengés pusztító cunamit keltett, amely a fukusimai atomerőmű-balesetet is okozta.", "places": ["azsia--orszagok--japan", "fold--nagyszerkezeti-egysegek--japan-arok"] },
+    { "text": "2004-ben Szumátra közelében kipattant tengerrengés cunamija az Indiai-óceán partjain több országban okozott katasztrófát.", "places": ["azsia--orszagok--indonezia", "fold--oceanok--indiai-ocean"] },
+    { "text": "San Francisco a Szent András-törésvonal mentén fekszik; az 1906-os földrengés és az azt követő tűzvész nagy részét elpusztította.", "places": ["amerika--varosok--san-francisco"] },
+    { "text": "Lisszabont 1755-ben földrengés, cunami és tűzvész rombolta le.", "places": ["europa--varosok--lisszabon"] }
+  ],
+  "concepts": [
+    "földrengés",
+    "rengésfészek (hipocentrum)",
+    "rengésközpont (epicentrum)",
+    "utórengés",
+    "fészekmélység",
+    "földrengéshullámok",
+    "szeizmográf",
+    "tengerrengés",
+    "cunami",
+    "Richter-skála",
+    "Mercalli-skála",
+    "törésvonal"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a földrengések és a cunamik kialakulását! Térj ki a lemezszegélyekkel való kapcsolatra, a rengéserősség mérésére és a védekezés lehetőségeire!",
+    "elements": [
+      { "text": "Ok: a lemezmozgás miatt felhalmozódott feszültség hirtelen felszabadulása, kőzetek elmozdulása.", "points": 2 },
+      { "text": "A földrengések főleg a lemezszegélyek mentén gyakoriak.", "points": 1 },
+      { "text": "Rengésfészek (hipocentrum) és rengésközpont (epicentrum) helyes értelmezése.", "points": 2 },
+      { "text": "A cunami tengerrengéskor a tengerfenék elmozdulásából, a vízoszlop kimozdulásából indul, és a parton felmagasodik.", "points": 2 },
+      { "text": "Mérés: Richter-skála (energia) és Mercalli-skála (pusztítás), szeizmográf.", "points": 2 },
+      { "text": "Védekezés: földrengésbiztos építkezés, előrejelző rendszerek, felkészítés.", "points": 1 }
+    ],
+    "modelAnswer": "A földrengést a kőzetlemezek mozgása miatt felhalmozódó feszültség hirtelen felszabadulása okozza, ezért a rengések elsősorban a lemezszegélyek mentén gyakoriak. A kőzetek elmozdulásának mélybeli kiindulópontja a rengésfészek (hipocentrum), a fölötte lévő felszíni pont a rengésközpont (epicentrum), ahol a legerősebb a rázkódás. Ha a rengés a tenger alatt a tengerfeneket függőlegesen elmozdítja, a vízoszlop kimozdul, és cunami indul, amely a sekély parti vízben lelassul és magasra tornyosul. A rengéshullámokat szeizmográf rögzíti, az erősséget a felszabaduló energia alapján a Richter-skálán, a pusztítás alapján a Mercalli-skálán adják meg. A károk földrengésbiztos építkezéssel, előrejelző rendszerekkel és a lakosság felkészítésével csökkenthetők."
+  },
+  "generated": true,
+  "reviewed": false
+}

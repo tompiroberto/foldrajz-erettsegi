@@ -1,0 +1,3868 @@
+{
+ "entries": [
+  {
+   "id": "eghajlati-ovezetesseg",
+   "term": "éghajlati övezetesség",
+   "aliases": [],
+   "sourceLabels": [
+    "éghajlati övezetesség"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "level": "kozep",
+   "definition": "Az éghajlat övezetes elrendeződése a Földön. Oka a Föld gömb alakja: a napsugarak hajlásszöge és így a felszín felmelegedése az Egyenlítőtől a sarkok felé csökken, ezért a hőmérséklet és vele a légnyomás, a szelek és a csapadék is a szélességi körökkel nagyjából párhuzamos övezetekben rendeződik el.",
+   "example": "Az Egyenlítő mentén egész évben forróság van, a sarkvidékeken egész évben fagy – a kettő között fokozatos az átmenet.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence",
+    "fold--egyeb--deli-sarkvidek-antarktisz"
+   ],
+   "related": [
+    "szolaris-es-valodi-eghajlati-ovezetek",
+    "foldrajzi-ovezetesseg"
+   ],
+   "tags": [
+    "éghajlat",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szolaris-es-valodi-eghajlati-ovezetek",
+   "term": "szoláris és valódi éghajlati övezetek",
+   "aliases": [],
+   "sourceLabels": [
+    "szoláris és valódi éghajlati övezetek"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "level": "kozep",
+   "definition": "Az éghajlati övezetek két felosztása. A szoláris övezeteket csak a napsugárzás (a napsugarak hajlásszöge, a nappalok hossza) alapján, a valódi övezeteket a tényleges éghajlati adatok alapján határolják el.",
+   "example": "Figyelj arra, hogy a szoláris övezetek határai szélességi körök, a valódiaké viszont hullámzó vonalak.",
+   "examplePlaces": [],
+   "related": [
+    "szolaris-eghajlati-ovezetek",
+    "valodi-eghajlati-ovezetek",
+    "eghajlati-ovezetesseg"
+   ],
+   "tags": [
+    "éghajlat",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szolaris-eghajlati-ovezetek",
+   "term": "szoláris éghajlati övezetek",
+   "aliases": [
+    "szoláris övezetek"
+   ],
+   "sourceLabels": [],
+   "parent": "szolaris-es-valodi-eghajlati-ovezetek",
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "level": "kozep",
+   "definition": "Csak a beérkező napsugárzás alapján elhatárolt, elméleti övezetek, határaik a térítők és a sarkkörök. A forró övezet a két térítő között, a két mérsékelt övezet a térítők és a sarkkörök között, a két hideg övezet a sarkkörökön túl helyezkedik el.",
+   "example": "A szoláris forró övezetben a Nap évente legalább egyszer delel a zenitben, a szoláris hideg övezetben van sarki nappal és sarki éjszaka.",
+   "examplePlaces": [],
+   "related": [
+    "valodi-eghajlati-ovezetek"
+   ],
+   "tags": [
+    "éghajlat",
+    "övezetesség",
+    "Föld-mozgásai",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "valodi-eghajlati-ovezetek",
+   "term": "valódi éghajlati övezetek",
+   "aliases": [
+    "valódi övezetek"
+   ],
+   "sourceLabels": [],
+   "parent": "szolaris-es-valodi-eghajlati-ovezetek",
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "level": "kozep",
+   "definition": "A tényleges éghajlat (elsősorban a mért hőmérséklet) alapján elhatárolt övezetek. Határaik nem követik a szélességi köröket, mert a szárazföldek és óceánok eloszlása, a tengeráramlások, a szélrendszerek és a domborzat módosítják az éghajlatot; határukat izotermák jelölik (a forró övezetét a 20 °C-os évi középhőmérsékleti vonal).",
+   "example": "Az Észak-atlanti-áramlás miatt Nyugat-Európa partjai jóval enyhébbek, mint a szélességük alapján várnánk, ezért itt a mérsékelt övezet messze északra nyúlik.",
+   "examplePlaces": [
+    "fold--tengeraramlasok--eszak-atlanti-aramlas",
+    "europa--tajak--brit-szigetek"
+   ],
+   "related": [
+    "szolaris-eghajlati-ovezetek",
+    "forro-ovezet",
+    "mersekelt-ovezet",
+    "hideg-ovezet"
+   ],
+   "tags": [
+    "éghajlat",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldrajzi-ovezetesseg",
+   "term": "földrajzi övezetesség",
+   "aliases": [
+    "zonalitás"
+   ],
+   "sourceLabels": [
+    "földrajzi övezetesség"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "level": "kozep",
+   "definition": "Az éghajlattal összefüggő természetföldrajzi jellemzők (vízjárás, felszínformálódás, talaj, élővilág) és az ezekhez igazodó gazdálkodás övezetes elrendeződése. Két formája a szélességtől függő vízszintes és a tengerszint feletti magasságtól függő függőleges földrajzi övezetesség.",
+   "example": "Az éghajlati övezetesség csak az éghajlatról szól, a földrajzi övezetesség a talajt, a növényzetet és a gazdálkodást is magában foglalja.",
+   "examplePlaces": [],
+   "related": [
+    "eghajlati-ovezetesseg",
+    "vizszintes-foldrajzi-ovezetesseg",
+    "fuggoleges-foldrajzi-ovezetesseg"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vizszintes-foldrajzi-ovezetesseg",
+   "term": "vízszintes földrajzi övezetesség",
+   "aliases": [],
+   "sourceLabels": [
+    "vízszintes földrajzi övezetesség"
+   ],
+   "parent": "foldrajzi-ovezetesseg",
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "level": "kozep",
+   "definition": "A természetföldrajzi jellemzők változása a földrajzi szélesség szerint, az Egyenlítőtől a sarkok felé. Egységei egyre kisebb léptékben: övezet (hőmérséklet alapján), öv és vidék (csapadék és szélrendszer alapján), terület (az óceántól való távolság alapján).",
+   "example": "Afrikában az Egyenlítőtől észak felé haladva az esőerdőt szavanna, majd a Szahara sivataga, végül a Földközi-tenger partján mediterrán növényzet váltja.",
+   "examplePlaces": [
+    "afrika--tajak--kongo-medence",
+    "afrika--tajak--szahara",
+    "europa--vizrajz--foldkozi-tenger"
+   ],
+   "related": [
+    "ovezet",
+    "ov",
+    "videk",
+    "terulet",
+    "fuggoleges-foldrajzi-ovezetesseg"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fuggoleges-foldrajzi-ovezetesseg",
+   "term": "függőleges földrajzi övezetesség",
+   "aliases": [],
+   "sourceLabels": [
+    "függőleges földrajzi övezetesség"
+   ],
+   "parent": "foldrajzi-ovezetesseg",
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "level": "kozep",
+   "definition": "A természetföldrajzi jellemzők változása a tengerszint feletti magasság növekedésével. Felfelé a hőmérséklet 100 méterenként átlagosan kb. 0,5 °C-kal csökken, ezért a hegyoldalakon egymás fölött éghajlati és növényzeti övek sorakoznak, hasonlóan a vízszintes övezetességhez.",
+   "example": "Az Alpokban a lombhullató erdőt felfelé tűlevelű erdő, majd havasi legelő, sziklahavas és végül örök hó váltja fel.",
+   "examplePlaces": [
+    "europa--tajak--alpok",
+    "afrika--tajak--kilimandzsaro-kilimandzsaro-csoport"
+   ],
+   "related": [
+    "erdohatar",
+    "fahatar",
+    "hohatar-hegysegekben",
+    "havasi-legelo",
+    "sziklahavas",
+    "vizszintes-foldrajzi-ovezetesseg"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ovezet",
+   "term": "övezet",
+   "aliases": [],
+   "sourceLabels": [
+    "övezet"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A vízszintes földrajzi övezetesség legnagyobb egysége, amelyet a hőmérsékleti viszonyok alapján határolnak el. Három övezet van: forró, mérsékelt és hideg övezet.",
+   "example": "Magyarország a mérsékelt övezetben fekszik.",
+   "examplePlaces": [],
+   "related": [
+    "ov",
+    "forro-ovezet",
+    "mersekelt-ovezet",
+    "hideg-ovezet"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ov",
+   "term": "öv",
+   "aliases": [],
+   "sourceLabels": [
+    "öv"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az övezeten belüli egység, amelyet elsősorban a csapadék mennyisége és évi eloszlása (a forró övezetben), illetve a hőmérséklet további különbségei (a mérsékelt övezetben) alapján határolnak el. Az övek nagyjából a szélességi körökkel párhuzamosan húzódnak.",
+   "example": "A forró övezet övei: egyenlítői, átmeneti és térítői öv.",
+   "examplePlaces": [],
+   "related": [
+    "ovezet",
+    "videk",
+    "terulet"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "videk",
+   "term": "vidék",
+   "aliases": [],
+   "sourceLabels": [
+    "vidék"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A forró övezet olyan egysége, amely nem övszerűen, hanem a monszun szélrendszer hatására, a szárazföldek bizonyos partvidékein alakul ki. Ilyen a monszunvidék.",
+   "example": "A monszunvidék Dél- és Délkelet-Ázsiában, India és az Indokínai-félsziget területén található.",
+   "examplePlaces": [
+    "azsia--tajak--hindusztani-felsziget",
+    "azsia--tajak--indokinai-felsziget"
+   ],
+   "related": [
+    "monszunvidek",
+    "ov",
+    "terulet"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "terulet",
+   "term": "terület",
+   "aliases": [],
+   "sourceLabels": [
+    "terület"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az öveken belüli kisebb egység, amelyet főként az óceántól való távolság (a kontinentalitás mértéke) és a szélrendszer alapján határolnak el. Például a valódi mérsékelt öv óceáni, mérsékelten szárazföldi, szárazföldi és szélsőségesen szárazföldi területekre tagolódik.",
+   "example": "Eurázsiában nyugatról kelet felé haladva az óceáni területet egyre szárazföldibb területek követik.",
+   "examplePlaces": [],
+   "related": [
+    "ov",
+    "oceani-terulet",
+    "mersekelten-szarazfoldi-terulet",
+    "szarazfoldi-terulet",
+    "szelsosegesen-szarazfoldi-terulet"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "forro-ovezet",
+   "term": "forró övezet",
+   "aliases": [],
+   "sourceLabels": [
+    "forró övezet"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A két térítő környéke közötti övezet, amelynek határát a 20 °C-os évi középhőmérsékleti vonal jelöli. Egész évben magas a hőmérséklet, ezért nincsenek hőmérsékleti évszakok; az öveket a csapadék mennyisége és évi eloszlása különíti el.",
+   "example": "Övei és vidéke: egyenlítői öv, átmeneti öv, térítői öv, monszunvidék.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence",
+    "afrika--tajak--szahara"
+   ],
+   "related": [
+    "egyenlitoi-ov",
+    "atmeneti-ov",
+    "teritoi-ov",
+    "monszunvidek"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "egyenlitoi-ov",
+   "term": "egyenlítői öv",
+   "aliases": [],
+   "sourceLabels": [
+    "egyenlítői öv"
+   ],
+   "parent": "forro-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az Egyenlítő két oldalán húzódó öv, ahol egész évben a felszálló légáramlás uralkodik. Állandóan meleg és csapadékos, természetes növényzete a trópusi esőerdő, talaja a laterit.",
+   "example": "Legnagyobb kiterjedésű területei az Amazonas-medence, a Kongó-medence és az Indonéz-szigetvilág.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence",
+    "afrika--tajak--kongo-medence",
+    "azsia--tajak--indonez-szigetvilag"
+   ],
+   "related": [
+    "egyenlitoi-eghajlat",
+    "tropusi-esoerdo",
+    "egetes-talajvalto-gazdalkodas"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "egyenlitoi-eghajlat",
+   "term": "egyenlítői éghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "egyenlítői éghajlat"
+   ],
+   "parent": "egyenlitoi-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Egész évben magas, kb. 25–28 °C-os, egyenletes hőmérsékletű és bőséges (évi 2000 mm körüli vagy több) csapadékú éghajlat. Az évi hőingás nagyon kicsi, kisebb a napi hőingásnál; a csapadék főleg délutáni zenitális esőkből hullik.",
+   "example": "Éghajlati diagramján a hőmérsékleti görbe szinte vízszintes, és minden hónapban sok a csapadék (pl. Amazonas-medence).",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence"
+   ],
+   "related": [
+    "egyenlitoi-ov",
+    "tropusi-esoerdo"
+   ],
+   "tags": [
+    "éghajlat",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tropusi-esoerdo",
+   "term": "trópusi esőerdő",
+   "aliases": [
+    "egyenlítői esőerdő"
+   ],
+   "sourceLabels": [
+    "trópusi esőerdő"
+   ],
+   "parent": "egyenlitoi-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az egyenlítői öv örökzöld, többszintű, rendkívül fajgazdag erdője, liánokkal és fán lakó (epifiton) növényekkel. A tápanyag nagy része a növényzetben van, a laterittalaj tápanyagszegény, ezért irtás után gyorsan kimerül és lepusztul.",
+   "example": "A Föld legnagyobb esőerdője az Amazonas-medencében található.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence",
+    "afrika--tajak--kongo-medence"
+   ],
+   "related": [
+    "erdoirtas",
+    "egetes-talajvalto-gazdalkodas",
+    "egyenlitoi-eghajlat"
+   ],
+   "tags": [
+    "övezetesség",
+    "környezetvédelem",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "atmeneti-ov",
+   "term": "átmeneti öv",
+   "aliases": [
+    "szavannaöv"
+   ],
+   "sourceLabels": [
+    "átmeneti öv"
+   ],
+   "parent": "forro-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az egyenlítői és a térítői öv között húzódó öv. A zenitális esők övezete a Nap delelését követve évente vándorol, ezért itt nyári esős és téli száraz évszak váltakozik; természetes növényzete a szavanna.",
+   "example": "Afrikában a Szudán-vidék és a Kelet-afrikai-magasföld nagy része tartozik ide.",
+   "examplePlaces": [
+    "afrika--tajak--szudan"
+   ],
+   "related": [
+    "szavannaeghajlat",
+    "szavanna",
+    "nomad-pasztorkodas"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szavannaeghajlat",
+   "term": "szavannaéghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "szavannaéghajlat"
+   ],
+   "parent": "atmeneti-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Egész évben meleg éghajlat, amelyben a nyári esős és a téli száraz évszak váltakozik. Az Egyenlítőtől távolodva az esős évszak egyre rövidebb, a csapadék egyre kevesebb.",
+   "example": "Éghajlati diagramján a csapadékoszlopok a nyári hónapokban magasak, a téli hónapokban szinte eltűnnek.",
+   "examplePlaces": [
+    "afrika--tajak--szudan"
+   ],
+   "related": [
+    "atmeneti-ov",
+    "szavanna"
+   ],
+   "tags": [
+    "éghajlat",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szavanna",
+   "term": "szavanna",
+   "aliases": [],
+   "sourceLabels": [
+    "szavanna"
+   ],
+   "parent": "atmeneti-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az átmeneti öv füves növénytársulása elszórt fákkal (pl. akácia, majomkenyérfa) és cserjékkel. A száraz évszakban a fű kiszárad, a fák lombjukat hullatják; nagytestű növényevők (zebra, antilop, elefánt) és ragadozók élnek itt.",
+   "example": "Kelet-Afrika szavannáin (pl. Kenya nemzeti parkjaiban) él a világ leggazdagabb nagyvad-állománya.",
+   "examplePlaces": [
+    "afrika--tajak--szudan"
+   ],
+   "related": [
+    "nedves-es-szaraz-szavanna",
+    "erdos-cserjes-es-fuves-szavanna",
+    "galeriaerdo",
+    "felegetes"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nedves-es-szaraz-szavanna",
+   "term": "nedves és száraz szavanna",
+   "aliases": [],
+   "sourceLabels": [
+    "nedves és száraz szavanna"
+   ],
+   "parent": "szavanna",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A szavanna két típusa az esős évszak hossza szerint. A nedves szavanna az egyenlítői öv felőli oldalon, hosszabb esős évszakkal, magas fűvel és több fával; a száraz szavanna a térítői öv felé, rövidebb esős évszakkal, alacsonyabb fűvel és ritkás, tüskés cserjékkel.",
+   "example": "A Szudán-vidéken délről észak felé haladva a nedves szavannát száraz szavanna, majd a Szahara pereme követi.",
+   "examplePlaces": [
+    "afrika--tajak--szudan",
+    "afrika--tajak--szahara"
+   ],
+   "related": [
+    "erdos-cserjes-es-fuves-szavanna",
+    "szavannaeghajlat"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "erdos-cserjes-es-fuves-szavanna",
+   "term": "erdős, cserjés és füves szavanna",
+   "aliases": [
+    "erdős szavanna",
+    "cserjés szavanna",
+    "füves szavanna"
+   ],
+   "sourceLabels": [
+    "erdős",
+    "cserjés és füves szavanna"
+   ],
+   "parent": "szavanna",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "emelt",
+   "definition": "A szavanna növényzeti típusai a fák és cserjék aránya szerint. A csapadékosabb, Egyenlítő felőli részen erdős szavanna, beljebb füves szavanna, a legszárazabb, sivatag felőli peremen tüskés cserjés szavanna jellemző.",
+   "example": "Afrikában az esőerdőtől a Szahara felé haladva az erdős szavannát füves, majd cserjés szavanna váltja.",
+   "examplePlaces": [
+    "afrika--tajak--szudan",
+    "afrika--tajak--szahara"
+   ],
+   "related": [
+    "nedves-es-szaraz-szavanna",
+    "galeriaerdo"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "galeriaerdo",
+   "term": "galériaerdő",
+   "aliases": [],
+   "sourceLabels": [
+    "galériaerdő"
+   ],
+   "parent": "szavanna",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "emelt",
+   "definition": "A szavanna folyói mentén húzódó keskeny erdősáv, amely azért maradhat fenn, mert a folyó közelében a száraz évszakban is elérhető a talajvíz.",
+   "example": "A szavanna légifotóján a folyókat sötétzöld galériaerdő-szalagok kísérik a sárga füves térségben.",
+   "examplePlaces": [],
+   "related": [
+    "szavanna",
+    "erdos-cserjes-es-fuves-szavanna"
+   ],
+   "tags": [
+    "övezetesség",
+    "felszíni-vizek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "teritoi-ov",
+   "term": "térítői öv",
+   "aliases": [],
+   "sourceLabels": [
+    "térítői öv"
+   ],
+   "parent": "forro-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A térítők környékén húzódó öv, ahol egész évben leszálló légáramlás (térítői magasnyomás) és a szárazföld felől fújó passzát uralkodik, ezért a csapadék nagyon kevés. A kontinensek belsejében és nyugati partjain itt alakultak ki a forró övezeti sivatagok.",
+   "example": "A Szahara és az Arab-félsziget a Ráktérítő mentén, az Atacama-sivatag a Baktérítő közelében fekszik.",
+   "examplePlaces": [
+    "afrika--tajak--szahara",
+    "azsia--tajak--arab-felsziget",
+    "amerika--tajak--atacama-sivatag"
+   ],
+   "related": [
+    "forro-ovezeti-sivatagi-eghajlat",
+    "oazis",
+    "jovevenyfolyo"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "forro-ovezeti-sivatagi-eghajlat",
+   "term": "forró övezeti (trópusi) sivatagi éghajlat",
+   "aliases": [
+    "forró övezeti sivatagi éghajlat",
+    "trópusi sivatagi éghajlat"
+   ],
+   "sourceLabels": [
+    "forró övezeti (trópusi) sivatagi éghajlat"
+   ],
+   "parent": "teritoi-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Igen kevés (sok helyen évi 100 mm alatti), rendszertelenül hulló csapadékú, forró nyarú éghajlat. A felhőtlen ég miatt nappal erős a besugárzás, éjjel erős a kisugárzás, ezért a napi hőingás nagyon nagy; az aprózódás és a szél munkája az uralkodó felszínformáló folyamat.",
+   "example": "A Szaharában nappal 40 °C fölé is emelkedhet a hőmérséklet, éjjel pedig fagypont közelébe süllyedhet.",
+   "examplePlaces": [
+    "afrika--tajak--szahara",
+    "azsia--tajak--arab-felsziget"
+   ],
+   "related": [
+    "teritoi-ov",
+    "oazis",
+    "elsivatagosodas"
+   ],
+   "tags": [
+    "éghajlat",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oazis",
+   "term": "oázis",
+   "aliases": [],
+   "sourceLabels": [
+    "oázis"
+   ],
+   "parent": "teritoi-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A sivatag olyan növényzettel borított, megművelhető foltja, ahol felszín alatti víz (forrás, kút) vagy jövevényfolyó biztosítja a vizet. A sivatagi települések és a mezőgazdaság az oázisokhoz kötődnek.",
+   "example": "Egyiptomban a Nílus völgye egy hatalmas, folyó menti oázis.",
+   "examplePlaces": [
+    "afrika--vizrajz--nilus",
+    "afrika--orszagok--egyiptom"
+   ],
+   "related": [
+    "oazisgazdalkodas",
+    "jovevenyfolyo"
+   ],
+   "tags": [
+    "övezetesség",
+    "mezőgazdaság",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jovevenyfolyo",
+   "term": "jövevényfolyó",
+   "aliases": [],
+   "sourceLabels": [
+    "jövevényfolyó"
+   ],
+   "parent": "teritoi-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Csapadékosabb területen eredő folyó, amely száraz (sivatagi) területen folyik át. Mivel a száraz szakaszon nem kap vízutánpótlást, és a párolgás, elszivárgás, öntözés miatt vizet veszít, vízhozama lefelé haladva csökken.",
+   "example": "A Nílus a csapadékos Kelet-afrikai-magasföldről és az Etióp-magasföldről hozza a vizét a Szaharán át a Földközi-tengerig.",
+   "examplePlaces": [
+    "afrika--vizrajz--nilus",
+    "afrika--tajak--szahara"
+   ],
+   "related": [
+    "oazis",
+    "oazisgazdalkodas"
+   ],
+   "tags": [
+    "felszíni-vizek",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "monszunvidek",
+   "term": "monszunvidék",
+   "aliases": [],
+   "sourceLabels": [
+    "monszunvidék"
+   ],
+   "parent": "forro-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A forró övezet Dél- és Délkelet-Ázsiában kialakult vidéke, ahol az évszakosan irányt váltó monszun szél határozza meg az éghajlatot. Nyáron az óceán felől nedves, télen a szárazföld felől száraz légtömegek érkeznek.",
+   "example": "Ide tartozik India, Banglades és az Indokínai-félsziget nagy része.",
+   "examplePlaces": [
+    "azsia--orszagok--india",
+    "azsia--orszagok--banglades",
+    "azsia--tajak--indokinai-felsziget"
+   ],
+   "related": [
+    "forro-ovezeti-monszuneghajlat",
+    "monszunerdo",
+    "monszungazdalkodas",
+    "videk"
+   ],
+   "tags": [
+    "övezetesség",
+    "légkörzés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "forro-ovezeti-monszuneghajlat",
+   "term": "forró övezeti (trópusi) monszunéghajlat",
+   "aliases": [
+    "forró övezeti monszunéghajlat",
+    "trópusi monszunéghajlat"
+   ],
+   "sourceLabels": [
+    "forró övezeti (trópusi) monszunéghajlat"
+   ],
+   "parent": "monszunvidek",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Egész évben meleg éghajlat nyári esős és téli száraz évszakkal, amelyet a monszun szélrendszer alakít ki. A nyári esős évszakban rendkívül sok csapadék hullhat, különösen a hegyek szél felőli oldalán; a legmelegebb időszak a monszun megérkezése előtt, tavasz végén van.",
+   "example": "Az indiai monszunesők elmaradása aszályt és terméskiesést, túl heves érkezése árvizet okoz (pl. a Gangesz–Brahmaputra deltájában).",
+   "examplePlaces": [
+    "azsia--orszagok--india",
+    "azsia--orszagok--banglades"
+   ],
+   "related": [
+    "monszunvidek",
+    "monszunerdo",
+    "monszungazdalkodas"
+   ],
+   "tags": [
+    "éghajlat",
+    "légkörzés",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "monszunerdo",
+   "term": "monszunerdő (dzsungel)",
+   "aliases": [
+    "monszunerdő",
+    "dzsungel"
+   ],
+   "sourceLabels": [
+    "monszunerdő (dzsungel)"
+   ],
+   "parent": "monszunvidek",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A monszunvidék sűrű, nehezen járható erdője, amelynek fái a száraz évszakban részben lehullatják lombjukat. Értékes fafajai (pl. tíkfa) miatt jelentős az erdőirtás.",
+   "example": "Az Indokínai-félsziget és India csapadékosabb részein a monszunerdőkben él például a tigris és az indiai elefánt.",
+   "examplePlaces": [
+    "azsia--tajak--indokinai-felsziget",
+    "azsia--orszagok--india"
+   ],
+   "related": [
+    "monszunvidek",
+    "erdoirtas"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ultetvenyes-gazdalkodas",
+   "term": "ültetvényes gazdálkodás",
+   "aliases": [],
+   "sourceLabels": [
+    "ültetvényes gazdálkodás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Nagy területen, többnyire egyetlen trópusi növény (pl. kávé, kakaó, tea, cukornád, banán, olajpálma) piacra, főként exportra történő termesztése. Tőke- és munkaigényes, gyakran külföldi tulajdonban van; a monokultúra kimeríti a talajt, és sok helyen esőerdő-irtással jár.",
+   "example": "Brazíliában kávé- és cukornád-, Indonéziában olajpálma-ültetvények terjednek az esőerdők rovására.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence",
+    "azsia--tajak--indonez-szigetvilag"
+   ],
+   "related": [
+    "erdoirtas",
+    "egetes-talajvalto-gazdalkodas"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "egetes-talajvalto-gazdalkodas",
+   "term": "égetéses-talajváltó gazdálkodás",
+   "aliases": [
+    "égetéses-talajváltó földművelés"
+   ],
+   "sourceLabels": [
+    "égetéses-talajváltó gazdálkodás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Hagyományos, önellátó gazdálkodás a forró övezet erdős területein: az erdőfoltot kivágják és felégetik, a hamu néhány évig trágyázza a talajt, majd a kimerült földet elhagyják, és új területet irtanak. Ritka népességnél fenntartható, sűrűsödő népességnél erdőpusztuláshoz vezet.",
+   "example": "Az Amazonas- és a Kongó-medence őslakói maniókát, jamszgyökeret termesztenek így.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence",
+    "afrika--tajak--kongo-medence"
+   ],
+   "related": [
+    "felegetes",
+    "erdoirtas",
+    "tropusi-esoerdo"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oazisgazdalkodas",
+   "term": "oázisgazdálkodás",
+   "aliases": [],
+   "sourceLabels": [
+    "oázisgazdálkodás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az oázisok öntözésre épülő, intenzív földművelése. Jellemző a többszintű művelés: a datolyapálmák árnyékában gyümölcsfák, alattuk zöldség- és gabonafélék teremnek; a víz szigorú elosztása az egész közösség ügye.",
+   "example": "A Nílus völgyében és a szaharai oázisokban datolyapálmát, gabonát és zöldséget termesztenek.",
+   "examplePlaces": [
+    "afrika--vizrajz--nilus",
+    "afrika--tajak--szahara"
+   ],
+   "related": [
+    "oazis",
+    "jovevenyfolyo"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "monszungazdalkodas",
+   "term": "monszungazdálkodás",
+   "aliases": [],
+   "sourceLabels": [
+    "monszungazdálkodás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A monszunvidék és a monszunterület kézimunka-igényes, intenzív földművelése, amelynek fő növénye a nyári esőkhöz és öntözéshez igazodó, elárasztott földeken termesztett rizs. Öntözéssel évente több termés is betakarítható, ezért nagy népességet tud eltartani; a lejtőket teraszokkal művelik.",
+   "example": "Banglades, Vietnam és Dél-Kína rizsteraszai a monszungazdálkodás jellegzetes tájai.",
+   "examplePlaces": [
+    "azsia--orszagok--banglades",
+    "azsia--tajak--indokinai-felsziget",
+    "azsia--tajak--kinai-alfold"
+   ],
+   "related": [
+    "monszunvidek",
+    "monszunterulet"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nomad-pasztorkodas",
+   "term": "nomád pásztorkodás (vándorló állattenyésztés)",
+   "aliases": [
+    "nomád pásztorkodás",
+    "vándorló állattenyésztés"
+   ],
+   "sourceLabels": [
+    "nomád pásztorkodás (vándorló állattenyésztés)"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Külterjes állattartás, amelyben a pásztorok családjukkal együtt állataikkal (teve, kecske, juh, szarvasmarha) követik a legelőket és az itatóhelyeket. A száraz szavannán, a sivatagok peremén és a száraz füves pusztákon jellemző.",
+   "example": "A Szahara peremén a tuaregek, Kelet-Afrikában a maszájok, Belső-Ázsiában a mongolok folytatják ma is.",
+   "examplePlaces": [
+    "afrika--tajak--szudan",
+    "azsia--tajak--gobi"
+   ],
+   "related": [
+    "tullegeltetes",
+    "elsivatagosodas",
+    "atmeneti-ov"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "erdoirtas",
+   "term": "erdőirtás",
+   "aliases": [
+    "erdőpusztítás"
+   ],
+   "sourceLabels": [
+    "erdőirtás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az erdők nagy területen történő kivágása faanyag, mezőgazdasági terület (ültetvény, legelő), bányászat vagy út építése céljából. Következménye a talajpusztulás, a fajok kihalása, a vízháztartás és a helyi éghajlat megváltozása, és nő a légkör szén-dioxid-tartalma.",
+   "example": "Az Amazonas-medencében szarvasmarha-legelők és szójaföldek miatt pusztítják az esőerdőt.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence",
+    "azsia--tajak--indonez-szigetvilag"
+   ],
+   "related": [
+    "tropusi-esoerdo",
+    "felegetes",
+    "ultetvenyes-gazdalkodas"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "globális-problémák",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "felegetes",
+   "term": "felégetés",
+   "aliases": [],
+   "sourceLabels": [
+    "felégetés"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A növényzet tűzzel való eltávolítása földművelésre vagy legeltetésre szánt terület nyerése céljából. Rövid távon a hamu tápanyagot ad, hosszú távon azonban a talaj kimerül és lepusztul, a füst pedig szennyezi a levegőt.",
+   "example": "Az esőerdők és a szavannák felégetésének füstje műholdfelvételeken is jól látszik.",
+   "examplePlaces": [
+    "amerika--tajak--amazonas-medence"
+   ],
+   "related": [
+    "egetes-talajvalto-gazdalkodas",
+    "erdoirtas"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tullegeltetes",
+   "term": "túllegeltetés",
+   "aliases": [],
+   "sourceLabels": [
+    "túllegeltetés"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Egy legelőn több állatot tartanak, mint amennyit a növényzet tartósan el tud tartani. A növénytakaró kipusztul, a csupasz talajt a szél és a víz lepusztítja, ami az elsivatagosodás egyik fő oka.",
+   "example": "A Szahara déli peremén (Száhel) a gyorsan növő állatállomány túllegeltetése gyorsítja az elsivatagosodást.",
+   "examplePlaces": [
+    "afrika--tajak--szudan"
+   ],
+   "related": [
+    "elsivatagosodas",
+    "nomad-pasztorkodas"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "elsivatagosodas",
+   "term": "elsivatagosodás",
+   "aliases": [
+    "sivatagosodás"
+   ],
+   "sourceLabels": [
+    "elsivatagosodás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Sivatagi viszonyok kialakulása és terjedése a száraz területek peremén. Az aszályok mellett főként emberi tevékenység okozza: túllegeltetés, erdő- és cserjeirtás tüzelőnek, helytelen öntözés miatti szikesedés.",
+   "example": "A Szahara déli peremén húzódó Száhel-övezet a legismertebb példa.",
+   "examplePlaces": [
+    "afrika--tajak--szudan",
+    "afrika--tajak--szahara"
+   ],
+   "related": [
+    "tullegeltetes",
+    "erdoirtas",
+    "fuves-teruletek-feltorese"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "globális-problémák",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mersekelt-ovezet",
+   "term": "mérsékelt övezet",
+   "aliases": [],
+   "sourceLabels": [
+    "mérsékelt övezet"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A forró és a hideg övezet között húzódó övezet, ahol a hőmérséklet évi járása miatt hőmérsékleti évszakok (tél és nyár) vannak. Az uralkodó szél a nyugatias szél; övei a meleg mérsékelt, a valódi mérsékelt és a hideg mérsékelt öv.",
+   "example": "Európa nagy része, így Magyarország is a mérsékelt övezetben fekszik.",
+   "examplePlaces": [
+    "europa--tajak--karpat-medence-pannon-medence"
+   ],
+   "related": [
+    "meleg-mersekelt-ov",
+    "valodi-mersekelt-ov",
+    "hideg-mersekelt-ov"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "meleg-mersekelt-ov",
+   "term": "meleg mérsékelt öv",
+   "aliases": [],
+   "sourceLabels": [
+    "meleg mérsékelt öv"
+   ],
+   "parent": "mersekelt-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A mérsékelt övezet Egyenlítőhöz legközelebbi öve, a térítői és a valódi mérsékelt öv között. Két területe a kontinensek nyugati partjain kialakult mediterrán terület és a keleti partjain kialakult monszunterület.",
+   "example": "A Földközi-tenger vidéke és Kelet-Kína egyaránt ide tartozik, de éghajlatuk eltér.",
+   "examplePlaces": [
+    "europa--vizrajz--foldkozi-tenger",
+    "azsia--tajak--kinai-alfold"
+   ],
+   "related": [
+    "mediterran-terulet",
+    "monszunterulet"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "monszunterulet",
+   "term": "monszunterület",
+   "aliases": [],
+   "sourceLabels": [
+    "monszunterület"
+   ],
+   "parent": "meleg-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A meleg mérsékelt öv területe a kontinensek keleti partvidékén, ahol a monszun szélrendszer alakítja az éghajlatot. Természetes növényzete a babérlombú erdő, fő terménye a rizs és a tea.",
+   "example": "Kelet-Kína és Dél-Japán monszunterület.",
+   "examplePlaces": [
+    "azsia--tajak--kinai-alfold",
+    "azsia--tajak--japan-szigetek"
+   ],
+   "related": [
+    "mersekelt-ovezeti-monszuneghajlat",
+    "baberlombu-erdo",
+    "monszungazdalkodas"
+   ],
+   "tags": [
+    "övezetesség",
+    "légkörzés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mersekelt-ovezeti-monszuneghajlat",
+   "term": "mérsékelt övezeti monszunéghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "mérsékelt övezeti monszunéghajlat"
+   ],
+   "parent": "monszunterulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Forró, csapadékos nyarú és enyhe vagy hűvös, száraz telű éghajlat, amelyben a nyári monszun az óceán felől, a téli monszun a szárazföld belseje felől fúj. A csapadék nagy része nyáron hullik.",
+   "example": "Sanghaj környékén nyáron fülledt hőség és sok eső, télen hűvös, száraz idő jellemző.",
+   "examplePlaces": [
+    "azsia--tajak--kinai-alfold"
+   ],
+   "related": [
+    "monszunterulet",
+    "forro-ovezeti-monszuneghajlat"
+   ],
+   "tags": [
+    "éghajlat",
+    "légkörzés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "baberlombu-erdo",
+   "term": "babérlombú erdő",
+   "aliases": [],
+   "sourceLabels": [
+    "babérlombú erdő"
+   ],
+   "parent": "monszunterulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A meleg mérsékelt öv csapadékosabb, monszunos területeinek örökzöld erdője, fényes, bőrnemű levelű fákkal (pl. babér, kámfor, magnólia). Nagyrészt kiirtották a rizsföldek és teaültetvények kedvéért.",
+   "example": "Babérlombú erdők maradványai Dél-Japánban és a Kanári-szigeteken is megtalálhatók.",
+   "examplePlaces": [
+    "azsia--tajak--japan-szigetek",
+    "afrika--tajak--kanari-szigetek"
+   ],
+   "related": [
+    "monszunterulet",
+    "kemenylombu-erdo"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mediterran-terulet",
+   "term": "mediterrán terület",
+   "aliases": [],
+   "sourceLabels": [
+    "mediterrán terület"
+   ],
+   "parent": "meleg-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A meleg mérsékelt öv területe a kontinensek nyugati partvidékén (kb. 30–40° szélesség között). Nyáron a térítői magasnyomás, télen a nyugatias szelek és ciklonok hatása alatt áll.",
+   "example": "A Földközi-tenger partvidéke mellett Kalifornia, Közép-Chile, a Fokföld és Délnyugat-Ausztrália is mediterrán terület.",
+   "examplePlaces": [
+    "europa--vizrajz--foldkozi-tenger",
+    "amerika--tajak--kaliforniai-felsziget"
+   ],
+   "related": [
+    "mediterran-eghajlat",
+    "kemenylombu-erdo",
+    "mediterran-gazdalkodas"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mediterran-eghajlat",
+   "term": "mediterrán éghajlat",
+   "aliases": [
+    "földközi-tengeri éghajlat"
+   ],
+   "sourceLabels": [
+    "mediterrán éghajlat"
+   ],
+   "parent": "mediterran-terulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Forró, száraz nyarú és enyhe, csapadékos telű éghajlat. A nyári szárazságot a térítői magasnyomású öv északra húzódása, a téli esőket a nyugatias szelek és a ciklonok okozzák.",
+   "example": "Athén vagy Róma éghajlati diagramján a csapadék télen magas, nyáron szinte nulla.",
+   "examplePlaces": [
+    "europa--orszagok--gorogorszag",
+    "europa--orszagok--olaszorszag"
+   ],
+   "related": [
+    "mediterran-terulet",
+    "kemenylombu-erdo"
+   ],
+   "tags": [
+    "éghajlat",
+    "légkörzés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kemenylombu-erdo",
+   "term": "keménylombú erdő",
+   "aliases": [],
+   "sourceLabels": [
+    "keménylombú erdő"
+   ],
+   "parent": "mediterran-terulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A mediterrán terület örökzöld erdője, amelynek fái kemény, bőrszerű, gyakran viaszos vagy szőrös levelükkel a nyári szárazsághoz alkalmazkodtak (pl. magyaltölgy, paratölgy, olajfa). Nagy részét már az ókorban kiirtották.",
+   "example": "Portugália és Spanyolország paratölgyeseiből nyerik a parafát.",
+   "examplePlaces": [
+    "europa--orszagok--spanyolorszag"
+   ],
+   "related": [
+    "macchia",
+    "mediterran-eghajlat",
+    "baberlombu-erdo"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "macchia",
+   "term": "macchia",
+   "aliases": [],
+   "sourceLabels": [
+    "macchia"
+   ],
+   "parent": "kemenylombu-erdo",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "emelt",
+   "definition": "A keménylombú erdők kiirtása és a túllegeltetés után kialakult, örökzöld, sűrű, tüskés cserjés növénytársulás (pl. leander, mirtusz, rozmaring). Másodlagos növénytársulás, nyáron gyakoriak benne a tüzek.",
+   "example": "A görög szigetek és Korzika hegyoldalait nagy területen macchia borítja.",
+   "examplePlaces": [
+    "europa--orszagok--gorogorszag"
+   ],
+   "related": [
+    "kemenylombu-erdo",
+    "mediterran-terulet"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mediterran-gazdalkodas",
+   "term": "mediterrán gazdálkodás",
+   "aliases": [],
+   "sourceLabels": [
+    "mediterrán gazdálkodás"
+   ],
+   "parent": "mediterran-terulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A mediterrán terület éghajlatához igazodó gazdálkodás: a nyári szárazságot tűrő olajfa, szőlő és füge, öntözéssel citrusfélék és zöldség termesztése, a téli esőkre építve búza; a hegyvidéken juh- és kecsketartás. A lejtőket gyakran teraszosan művelik.",
+   "example": "Spanyolország és Olaszország a világ vezető olívaolaj- és bortermelői közé tartozik.",
+   "examplePlaces": [
+    "europa--orszagok--spanyolorszag",
+    "europa--orszagok--olaszorszag",
+    "europa--orszagok--gorogorszag"
+   ],
+   "related": [
+    "mediterran-terulet",
+    "mediterran-eghajlat"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "valodi-mersekelt-ov",
+   "term": "valódi mérsékelt öv",
+   "aliases": [],
+   "sourceLabels": [
+    "valódi mérsékelt öv"
+   ],
+   "parent": "mersekelt-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A mérsékelt övezet középső öve, ahol egész évben a nyugatias szelek uralkodnak, és jól elkülönül a négy évszak. Az óceántól való távolság szerint óceáni, mérsékelten szárazföldi, szárazföldi és szélsőségesen szárazföldi területekre tagolódik.",
+   "example": "Eurázsiában nyugatról kelet felé a csapadék csökken, az évi hőingás nő – ez a kontinentalitás növekedése.",
+   "examplePlaces": [
+    "europa--tajak--brit-szigetek",
+    "europa--tajak--karpat-medence-pannon-medence",
+    "azsia--orszagok--kazahsztan"
+   ],
+   "related": [
+    "oceani-terulet",
+    "mersekelten-szarazfoldi-terulet",
+    "szarazfoldi-terulet",
+    "szelsosegesen-szarazfoldi-terulet",
+    "terulet"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oceani-terulet",
+   "term": "óceáni terület",
+   "aliases": [],
+   "sourceLabels": [
+    "óceáni terület"
+   ],
+   "parent": "valodi-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A valódi mérsékelt öv kontinensek nyugati partjain húzódó területe, ahol az óceán felől érkező nyugatias szelek hatása érvényesül. Természetes növényzete a lombhullató erdő, jellemző a rét- és legelőgazdálkodás.",
+   "example": "Nyugat-Európa, például a Brit-szigetek és Írország.",
+   "examplePlaces": [
+    "europa--tajak--brit-szigetek",
+    "europa--orszagok--irorszag"
+   ],
+   "related": [
+    "oceani-eghajlat",
+    "lombhullato-erdo",
+    "vegyes-gazdalkodas"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oceani-eghajlat",
+   "term": "óceáni éghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "óceáni éghajlat"
+   ],
+   "parent": "oceani-terulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Enyhe telű, hűvös nyarú, egész évben egyenletesen eloszló, bőséges csapadékú éghajlat, kis évi hőingással. Az óceán kiegyenlítő hatása és meleg tengeráramlás (Európában az Észak-atlanti-áramlás) alakítja.",
+   "example": "Írországban télen ritka a fagy, nyáron ritka a kánikula, és szinte minden hónapban esik.",
+   "examplePlaces": [
+    "europa--orszagok--irorszag",
+    "europa--tajak--brit-szigetek"
+   ],
+   "related": [
+    "oceani-terulet",
+    "nedves-kontinentalis-eghajlat"
+   ],
+   "tags": [
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mersekelten-szarazfoldi-terulet",
+   "term": "mérsékelten szárazföldi terület",
+   "aliases": [],
+   "sourceLabels": [
+    "mérsékelten szárazföldi terület"
+   ],
+   "parent": "valodi-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A valódi mérsékelt öv óceáni és szárazföldi területe közötti átmeneti terület. Természetes növényzete a lombhullató erdő, talaja a barna erdőtalaj; a vegyes gazdálkodás jellemző rá.",
+   "example": "Közép-Európa, így Magyarország nagy része is ide tartozik.",
+   "examplePlaces": [
+    "europa--tajak--karpat-medence-pannon-medence",
+    "europa--orszagok--nemetorszag"
+   ],
+   "related": [
+    "nedves-kontinentalis-eghajlat",
+    "lombhullato-erdo",
+    "vegyes-gazdalkodas"
+   ],
+   "tags": [
+    "övezetesség",
+    "Magyarország",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nedves-kontinentalis-eghajlat",
+   "term": "nedves kontinentális éghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "nedves kontinentális éghajlat"
+   ],
+   "parent": "mersekelten-szarazfoldi-terulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Meleg nyarú, hideg telű éghajlat, közepes mennyiségű, nyári maximumú csapadékkal. Az évi hőingás nagyobb, a csapadék kevesebb, mint az óceáni éghajlaton.",
+   "example": "Budapest éghajlati diagramján a legtöbb csapadék május–júniusban hullik, a januári középhőmérséklet fagypont körüli.",
+   "examplePlaces": [
+    "europa--tajak--karpat-medence-pannon-medence"
+   ],
+   "related": [
+    "oceani-eghajlat",
+    "szaraz-kontinentalis-eghajlat"
+   ],
+   "tags": [
+    "éghajlat",
+    "Magyarország",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szarazfoldi-terulet",
+   "term": "szárazföldi terület",
+   "aliases": [],
+   "sourceLabels": [
+    "szárazföldi terület"
+   ],
+   "parent": "valodi-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A valódi mérsékelt öv kontinensek belseje felé eső területe, ahová kevés óceáni nedvesség jut. Természetes növényzete a füves puszta, talaja a termékeny mezőségi talaj (csernozjom), ezért fontos gabonatermő vidék.",
+   "example": "Ukrajna és Dél-Oroszország sztyeppvidéke, az észak-amerikai préri és az argentin pampa.",
+   "examplePlaces": [
+    "europa--orszagok--ukrajna",
+    "amerika--tajak--preri",
+    "amerika--tajak--parana-alfold"
+   ],
+   "related": [
+    "szaraz-kontinentalis-eghajlat",
+    "fuves-puszta",
+    "fuves-teruletek-feltorese"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szaraz-kontinentalis-eghajlat",
+   "term": "száraz kontinentális éghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "száraz kontinentális éghajlat"
+   ],
+   "parent": "szarazfoldi-terulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Forró nyarú, hideg telű, kevés csapadékú éghajlat nagy évi hőingással. A csapadék nem elég az erdők megélhetéséhez, ezért füves puszták alakulnak ki.",
+   "example": "Ukrajna sztyeppéin a nyári aszály és a hideg, havas tél egyaránt jellemző.",
+   "examplePlaces": [
+    "europa--orszagok--ukrajna",
+    "azsia--orszagok--kazahsztan"
+   ],
+   "related": [
+    "szarazfoldi-terulet",
+    "fuves-puszta",
+    "mersekelt-ovezeti-sivatagi-eghajlat"
+   ],
+   "tags": [
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szelsosegesen-szarazfoldi-terulet",
+   "term": "szélsőségesen szárazföldi terület",
+   "aliases": [],
+   "sourceLabels": [
+    "szélsőségesen szárazföldi terület"
+   ],
+   "parent": "valodi-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A valódi mérsékelt öv kontinensek legbelső, óceánoktól legtávolabbi vagy hegységekkel elzárt területe. Itt alakultak ki a mérsékelt övezeti sivatagok és félsivatagok.",
+   "example": "A Góbi, a Turáni-alföld és a Kaszpi-mélyföld sivatagai.",
+   "examplePlaces": [
+    "azsia--tajak--gobi",
+    "azsia--tajak--turani-alfold"
+   ],
+   "related": [
+    "mersekelt-ovezeti-sivatagi-eghajlat",
+    "szarazfoldi-terulet"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mersekelt-ovezeti-sivatagi-eghajlat",
+   "term": "mérsékelt övezeti sivatagi éghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "mérsékelt övezeti sivatagi éghajlat"
+   ],
+   "parent": "szelsosegesen-szarazfoldi-terulet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Nagyon kevés csapadékú éghajlat forró nyárral és nagyon hideg téllel, ezért igen nagy az évi és a napi hőingás. A forró övezeti sivatagtól a hideg tél különbözteti meg.",
+   "example": "A Góbiban a nyári hőség után télen –30 °C alá is süllyedhet a hőmérséklet.",
+   "examplePlaces": [
+    "azsia--tajak--gobi",
+    "azsia--tajak--turani-alfold"
+   ],
+   "related": [
+    "szelsosegesen-szarazfoldi-terulet",
+    "forro-ovezeti-sivatagi-eghajlat"
+   ],
+   "tags": [
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "lombhullato-erdo",
+   "term": "lombhullató erdő",
+   "aliases": [],
+   "sourceLabels": [
+    "lombhullató erdő"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A valódi mérsékelt öv óceáni és mérsékelten szárazföldi területeinek természetes növényzete. Fái (pl. tölgy, bükk, gyertyán) a téli hideg és vízhiány elleni védekezésül ősszel lehullatják lombjukat; alattuk barna erdőtalaj képződik.",
+   "example": "A Bakony és a Mecsek bükkösei és tölgyesei lombhullató erdők.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--bakony",
+    "magyarorszag--egyeb-tajak-teruletek--mecsek"
+   ],
+   "related": [
+    "mersekelten-szarazfoldi-terulet",
+    "oceani-terulet",
+    "erdos-puszta"
+   ],
+   "tags": [
+    "övezetesség",
+    "talaj",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "erdos-puszta",
+   "term": "erdős puszta",
+   "aliases": [
+    "erdős sztyepp"
+   ],
+   "sourceLabels": [
+    "erdős puszta"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Átmeneti növénytársulás a lombhullató erdő és a füves puszta között, ahol ligetes erdőfoltok és füves térségek váltakoznak. Akkor alakul ki, ha a csapadék már kevés a zárt erdőhöz, de még több, mint a füves pusztán.",
+   "example": "Az Alföld eredeti természetes növényzete nagyrészt erdős puszta volt.",
+   "examplePlaces": [
+    "magyarorszag--fo-tajegysegek--alfold"
+   ],
+   "related": [
+    "lombhullato-erdo",
+    "fuves-puszta"
+   ],
+   "tags": [
+    "övezetesség",
+    "Magyarország",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fuves-puszta",
+   "term": "füves puszta (füves mezőség)",
+   "aliases": [
+    "füves puszta",
+    "füves mezőség"
+   ],
+   "sourceLabels": [
+    "füves puszta (füves mezőség)"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A szárazföldi terület fátlan, füves növénytársulása, amely a nyári szárazság miatt nem ad helyet erdőnek. Alatta a Föld egyik legtermékenyebb talaja, a mezőségi talaj (csernozjom) képződik, ezért nagy részét feltörték és gabonaföldekké alakították.",
+   "example": "Eurázsiában sztyepp, Észak-Amerikában préri, Dél-Amerikában pampa a neve.",
+   "examplePlaces": [
+    "europa--orszagok--ukrajna",
+    "amerika--tajak--preri",
+    "amerika--tajak--parana-alfold"
+   ],
+   "related": [
+    "sztyepp",
+    "preri",
+    "pampa",
+    "fuves-teruletek-feltorese",
+    "erdos-puszta"
+   ],
+   "tags": [
+    "övezetesség",
+    "talaj",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sztyepp",
+   "term": "sztyepp",
+   "aliases": [],
+   "sourceLabels": [
+    "sztyepp"
+   ],
+   "parent": "fuves-puszta",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "emelt",
+   "definition": "Eurázsia füves pusztája, amely Kelet-Európa déli részétől Kazahsztánon át Belső-Ázsiáig húzódik. Mezőségi talaján ma jórészt búzát és napraforgót termesztenek.",
+   "example": "Ukrajnát a csernozjomon termett búza miatt nevezték „Európa éléskamrájának”.",
+   "examplePlaces": [
+    "europa--orszagok--ukrajna",
+    "azsia--orszagok--kazahsztan"
+   ],
+   "related": [
+    "fuves-puszta",
+    "preri",
+    "pampa"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "preri",
+   "term": "préri",
+   "aliases": [],
+   "sourceLabels": [
+    "préri"
+   ],
+   "parent": "fuves-puszta",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "emelt",
+   "definition": "Észak-Amerika belső síkságainak füves pusztája a Mississippi-alföld és a Sziklás-hegység között. Ma az Egyesült Államok és Kanada fő búza- és kukoricatermő vidéke.",
+   "example": "A préri egykori bölénycsordáinak helyén ma nagyüzemi gabonaföldek húzódnak.",
+   "examplePlaces": [
+    "amerika--tajak--preri"
+   ],
+   "related": [
+    "fuves-puszta",
+    "sztyepp",
+    "fuves-teruletek-feltorese"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "pampa",
+   "term": "pampa",
+   "aliases": [],
+   "sourceLabels": [
+    "pampa"
+   ],
+   "parent": "fuves-puszta",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "emelt",
+   "definition": "Dél-Amerika füves pusztája a La Plata torkolatvidékén, főként Argentína területén. Nagy kiterjedésű szarvasmarha-tartás és gabonatermesztés jellemzi.",
+   "example": "Az argentin marhahús nagy része a pampa legelőiről származik.",
+   "examplePlaces": [
+    "amerika--tajak--parana-alfold"
+   ],
+   "related": [
+    "fuves-puszta",
+    "sztyepp",
+    "preri"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vegyes-gazdalkodas",
+   "term": "vegyes gazdálkodás",
+   "aliases": [],
+   "sourceLabels": [
+    "vegyes gazdálkodás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A valódi mérsékelt övre jellemző gazdálkodási forma, amelyben a növénytermesztés és az állattenyésztés egy gazdaságon belül összekapcsolódik: a termesztett takarmány az állatokat táplálja, az állatok trágyája a földeket. Fő növényei a búza, a kukorica, az árpa és a burgonya.",
+   "example": "Nyugat- és Közép-Európa, így Magyarország hagyományos mezőgazdasága is vegyes gazdálkodás.",
+   "examplePlaces": [
+    "europa--orszagok--nemetorszag",
+    "europa--tajak--karpat-medence-pannon-medence"
+   ],
+   "related": [
+    "mersekelten-szarazfoldi-terulet",
+    "oceani-terulet"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fuves-teruletek-feltorese",
+   "term": "füves területek feltörése",
+   "aliases": [],
+   "sourceLabels": [
+    "füves területek feltörése"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A füves puszták gyepjének felszántása szántóföldi művelés céljára. A védő növénytakaró eltűnése után a száraz talajt a szél kifújja, a víz lemossa, így a talaj pusztul, súlyos esetben elsivatagosodás indul meg.",
+   "example": "Az 1930-as években a préri feltört földjein hatalmas porviharok pusztítottak (Dust Bowl).",
+   "examplePlaces": [
+    "amerika--tajak--preri",
+    "azsia--orszagok--kazahsztan"
+   ],
+   "related": [
+    "fuves-puszta",
+    "elsivatagosodas",
+    "preri"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "talaj",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hideg-mersekelt-ov",
+   "term": "hideg mérsékelt öv",
+   "aliases": [],
+   "sourceLabels": [
+    "hideg mérsékelt öv"
+   ],
+   "parent": "mersekelt-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A mérsékelt övezet sarkok felőli öve, amely csak az északi félgömbön, Eurázsia és Észak-Amerika északi részén alakult ki. Hosszú, hideg tél és rövid, hűvös nyár jellemzi; természetes növényzete a tajga.",
+   "example": "Szibéria, Skandinávia belseje és Kanada nagy része tartozik ide.",
+   "examplePlaces": [
+    "azsia--tajak--nyugat-sziberiai-alfold",
+    "azsia--tajak--kozep-sziberiai-fennsik",
+    "amerika--orszagok--kanada"
+   ],
+   "related": [
+    "tajgaeghajlat",
+    "tajga"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tajgaeghajlat",
+   "term": "tajgaéghajlat",
+   "aliases": [
+    "hideg mérsékelt övezeti éghajlat"
+   ],
+   "sourceLabels": [
+    "tajgaéghajlat"
+   ],
+   "parent": "hideg-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Hosszú, nagyon hideg telű és rövid, mérsékelten meleg nyarú éghajlat. A csapadék kevés, de a kis párolgás miatt elegendő; az évi hőingás nagy, a kontinensek belsejében igen nagy.",
+   "example": "Kelet-Szibériában a januári és júliusi középhőmérséklet között több mint 50 °C is lehet a különbség.",
+   "examplePlaces": [
+    "azsia--tajak--kozep-sziberiai-fennsik"
+   ],
+   "related": [
+    "tajga",
+    "hideg-mersekelt-ov"
+   ],
+   "tags": [
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tajga",
+   "term": "tajga",
+   "aliases": [
+    "tűlevelű erdő"
+   ],
+   "sourceLabels": [
+    "tajga"
+   ],
+   "parent": "hideg-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A hideg mérsékelt öv kiterjedt tűlevelű erdősége (lucfenyő, erdeifenyő, jegenyefenyő, vörösfenyő). Alatta savanyú, tápanyagszegény szürke erdőtalaj (podzol) képződik; a Föld legnagyobb faanyag-tartaléka.",
+   "example": "Szibéria és Kanada tajgáját nagy területen tarvágással termelik ki a fa- és papíripar számára.",
+   "examplePlaces": [
+    "azsia--tajak--nyugat-sziberiai-alfold",
+    "amerika--orszagok--kanada"
+   ],
+   "related": [
+    "tajgaeghajlat",
+    "tozegmohalap",
+    "erdoirtas"
+   ],
+   "tags": [
+    "övezetesség",
+    "talaj",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tozegmohalap",
+   "term": "tőzegmohaláp",
+   "aliases": [],
+   "sourceLabels": [
+    "tőzegmohaláp"
+   ],
+   "parent": "hideg-mersekelt-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "emelt",
+   "definition": "Pangó vizes, savanyú vizű láp, amelyben a tőzegmohák elhalt részei a hideg és oxigénhiány miatt nem bomlanak le, hanem tőzeggé halmozódnak fel. A tajga és a tundra rossz lefolyású, fagyott altalajú síkságain gyakori.",
+   "example": "A Nyugat-szibériai-alföld a világ egyik legnagyobb lápvidéke.",
+   "examplePlaces": [
+    "azsia--tajak--nyugat-sziberiai-alfold"
+   ],
+   "related": [
+    "tajga",
+    "tundra"
+   ],
+   "tags": [
+    "övezetesség",
+    "talaj",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hideg-ovezet",
+   "term": "hideg övezet",
+   "aliases": [],
+   "sourceLabels": [
+    "hideg övezet"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A sarkok körüli övezet, ahol a legmelegebb hónap középhőmérséklete sem éri el a 10 °C-ot, ezért fák nem élnek meg. Övei a sarkköri és a sarkvidéki öv.",
+   "example": "Az Arktisz és az Antarktisz tartozik ide.",
+   "examplePlaces": [
+    "fold--egyeb--eszaki-sarkvidek-arktisz",
+    "fold--egyeb--deli-sarkvidek-antarktisz"
+   ],
+   "related": [
+    "sarkkori-ov",
+    "sarkvideki-ov"
+   ],
+   "tags": [
+    "övezetesség",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sarkkori-ov",
+   "term": "sarkköri öv",
+   "aliases": [],
+   "sourceLabels": [
+    "sarkköri öv"
+   ],
+   "parent": "hideg-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A hideg övezetnek a tajga és a sarkvidéki öv közé eső öve, főként az északi félgömbön. Rövid, hűvös nyár és hosszú, kemény tél jellemzi, a talaj mélyebb rétegei állandóan fagyottak (permafroszt); növényzete a tundra.",
+   "example": "Észak-Szibéria, Észak-Kanada és Alaszka északi partvidéke.",
+   "examplePlaces": [
+    "amerika--tajak--alaszka",
+    "amerika--orszagok--kanada"
+   ],
+   "related": [
+    "tundraeghajlat",
+    "tundra"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tundraeghajlat",
+   "term": "tundraéghajlat",
+   "aliases": [],
+   "sourceLabels": [
+    "tundraéghajlat"
+   ],
+   "parent": "sarkkori-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Hosszú, nagyon hideg telű éghajlat, amelyben a legmelegebb hónap középhőmérséklete 0 és 10 °C között van. Kevés a csapadék; nyáron csak a talaj felső rétege enged fel, ezért a víz nem tud elszivárogni, és a felszín elmocsarasodik.",
+   "example": "A tundra éghajlati diagramján csak 2–3 hónap középhőmérséklete van fagypont felett.",
+   "examplePlaces": [
+    "amerika--tajak--alaszka"
+   ],
+   "related": [
+    "tundra",
+    "allandoan-fagyos-eghajlat"
+   ],
+   "tags": [
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tundra",
+   "term": "tundra",
+   "aliases": [],
+   "sourceLabels": [
+    "tundra"
+   ],
+   "parent": "sarkkori-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A sarkköri öv fátlan növénytársulása mohákkal, zuzmókkal, törpecserjékkel (törpenyír, törpefűz) és lágyszárúakkal. Állatai közé tartozik a rénszarvas és a sarki róka; őslakói hagyományosan rénszarvastartással, halászattal, vadászattal foglalkoznak.",
+   "example": "Észak-Szibéria és Észak-Kanada partvidékét tundra borítja.",
+   "examplePlaces": [
+    "amerika--tajak--alaszka",
+    "amerika--orszagok--kanada"
+   ],
+   "related": [
+    "tundraeghajlat",
+    "tajga",
+    "tozegmohalap"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sarkvideki-ov",
+   "term": "sarkvidéki öv",
+   "aliases": [],
+   "sourceLabels": [
+    "sarkvidéki öv"
+   ],
+   "parent": "hideg-ovezet",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A sarkok körüli öv, ahol minden hónap középhőmérséklete fagypont alatt van. A szárazföldeket vastag jégtakaró borítja, növényzet szinte nincs.",
+   "example": "Az Antarktisz és Grönland belseje.",
+   "examplePlaces": [
+    "fold--egyeb--deli-sarkvidek-antarktisz",
+    "amerika--tajak--gronland"
+   ],
+   "related": [
+    "allandoan-fagyos-eghajlat",
+    "sarkkori-ov"
+   ],
+   "tags": [
+    "övezetesség",
+    "jég-munkája",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "allandoan-fagyos-eghajlat",
+   "term": "állandóan fagyos éghajlat",
+   "aliases": [
+    "sarkvidéki éghajlat"
+   ],
+   "sourceLabels": [
+    "állandóan fagyos éghajlat"
+   ],
+   "parent": "sarkvideki-ov",
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Olyan éghajlat, amelyben a legmelegebb hónap középhőmérséklete is 0 °C alatt marad. A csapadék kevés (főleg hó), de nem olvad el, ezért jégtakaró halmozódik fel.",
+   "example": "Az Antarktisz belsejében mérték a Föld legalacsonyabb hőmérsékleteit.",
+   "examplePlaces": [
+    "fold--egyeb--deli-sarkvidek-antarktisz"
+   ],
+   "related": [
+    "sarkvideki-ov",
+    "tundraeghajlat"
+   ],
+   "tags": [
+    "éghajlat",
+    "jég-munkája",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "erdohatar",
+   "term": "erdőhatár",
+   "aliases": [],
+   "sourceLabels": [
+    "erdőhatár"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az a tengerszint feletti magasság, ameddig a hegyoldalakon még zárt erdő él. Fölötte csak szórványos, alacsony fák és cserjék (pl. törpefenyő) fordulnak elő; magassága az Egyenlítőtől a sarkok felé csökken.",
+   "example": "A Magas-Tátrában az erdőhatár fölött törpefenyves, majd havasi rét következik.",
+   "examplePlaces": [
+    "europa--tajak--magas-tatra",
+    "europa--tajak--alpok"
+   ],
+   "related": [
+    "fahatar",
+    "havasi-legelo",
+    "fuggoleges-foldrajzi-ovezetesseg"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fahatar",
+   "term": "fahatár",
+   "aliases": [],
+   "sourceLabels": [
+    "fahatár"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az a tengerszint feletti magasság, ameddig még egyes, elszórtan álló fák megélnek. Az erdőhatár fölött húzódik; fölötte már csak cserjék, gyep, mohák és zuzmók élnek.",
+   "example": "Figyelj arra, hogy a fahatár mindig magasabban van, mint az erdőhatár.",
+   "examplePlaces": [
+    "europa--tajak--alpok"
+   ],
+   "related": [
+    "erdohatar",
+    "havasi-legelo"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hohatar-hegysegekben",
+   "term": "hóhatár",
+   "aliases": [
+    "klimatikus hóhatár"
+   ],
+   "sourceLabels": [
+    "hóhatár"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Az a tengerszint feletti magasság, amely fölött az évente lehullott hó nyáron sem olvad el teljesen, így tartós hó- és jégtakaró halmozódik fel. A térítők száraz vidékein a legmagasabb, a sarkvidékeken közel a tengerszintig süllyed.",
+   "example": "A Kilimandzsáró csúcsán az Egyenlítő közelében is van hó és jég, mert a hegy a hóhatár fölé emelkedik.",
+   "examplePlaces": [
+    "afrika--tajak--kilimandzsaro-kilimandzsaro-csoport",
+    "europa--tajak--alpok"
+   ],
+   "related": [
+    "sziklahavas",
+    "fuggoleges-foldrajzi-ovezetesseg"
+   ],
+   "tags": [
+    "övezetesség",
+    "jég-munkája",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "havasi-legelo",
+   "term": "havasi legelő",
+   "aliases": [
+    "havasi rét",
+    "alpesi rét"
+   ],
+   "sourceLabels": [
+    "havasi legelő"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A fahatár fölötti, alacsony füvű, virágokban gazdag, fátlan övezet a magashegységekben. Nyáron állatok legeltetésére használják.",
+   "example": "Az Alpokban nyáron a havasi legelőkre hajtják fel a szarvasmarhákat.",
+   "examplePlaces": [
+    "europa--tajak--alpok",
+    "europa--orszagok--svajc"
+   ],
+   "related": [
+    "havasi-pasztorkodas",
+    "fahatar",
+    "sziklahavas"
+   ],
+   "tags": [
+    "övezetesség",
+    "mezőgazdaság",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sziklahavas",
+   "term": "sziklahavas",
+   "aliases": [],
+   "sourceLabels": [
+    "sziklahavas"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A havasi legelők és a hóhatár közötti, sziklás, törmelékes öv, ahol a növényzet már csak foltokban, párnanövények, mohák és zuzmók formájában él meg. Az aprózódás itt különösen erős.",
+   "example": "Az Alpok csúcsrégióiban a sziklahavas fölött kezdődik az örök hó és a gleccserek világa.",
+   "examplePlaces": [
+    "europa--tajak--alpok"
+   ],
+   "related": [
+    "havasi-legelo",
+    "hohatar-hegysegekben"
+   ],
+   "tags": [
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "havasi-pasztorkodas",
+   "term": "havasi pásztorkodás",
+   "aliases": [
+    "transzhumáló állattartás"
+   ],
+   "sourceLabels": [
+    "havasi pásztorkodás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "A magashegységek függőleges övezetességére épülő állattartás: nyáron az állatokat a havasi legelőkre hajtják, télen a völgyekbe hozzák vissza, és istállóban, a nyáron gyűjtött szénán tartják. Fő terméke a tej és a sajt.",
+   "example": "Svájc és Ausztria alpesi tejgazdasága és sajtkészítése erre épül.",
+   "examplePlaces": [
+    "europa--tajak--alpok",
+    "europa--orszagok--svajc"
+   ],
+   "related": [
+    "havasi-legelo",
+    "fuggoleges-foldrajzi-ovezetesseg"
+   ],
+   "tags": [
+    "mezőgazdaság",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eghajlatvalaszto-hegyseg",
+   "term": "éghajlatválasztó hegység",
+   "aliases": [],
+   "sourceLabels": [
+    "éghajlatválasztó hegység"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "level": "kozep",
+   "definition": "Olyan magas hegység, amely elzárja a légtömegek útját, ezért két oldalán eltérő éghajlat alakul ki. A szél felőli oldalon a feláramló levegő lehűl, és sok csapadékot ad, a szél alatti oldalon a leáramló levegő felmelegszik és kiszárad (esőárnyék, főn).",
+   "example": "A Himalája déli lejtőin hatalmas monszunesők hullanak, mögötte a Tibeti-magasföld száraz; az Alpok a mediterrán és a mérsékelt övi éghajlatot választja el.",
+   "examplePlaces": [
+    "azsia--tajak--himalaja",
+    "azsia--tajak--tibet",
+    "europa--tajak--alpok",
+    "amerika--tajak--andok"
+   ],
+   "related": [
+    "fuggoleges-foldrajzi-ovezetesseg",
+    "monszunvidek"
+   ],
+   "tags": [
+    "éghajlat",
+    "légkörzés",
+    "övezetesség",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldtorteneti-idoegysegek",
+   "term": "a földtörténet időegységei (idő, időszak, kor)",
+   "aliases": [
+    "földtörténeti időegységek",
+    "idő",
+    "időszak",
+    "kor"
+   ],
+   "sourceLabels": [
+    "a földtörténet időegységei (idő, időszak, kor)"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A Föld kb. 4,6 milliárd éves történetét egymásba illeszkedő egységekre osztják. A legnagyobb egység az idő (pl. középidő), ezt időszakokra (pl. jura), az időszakokat korokra (pl. a harmadidőszakon belül a miocén) tagolják; határaikat jelentős földtörténeti és élővilágbeli változások jelölik.",
+   "example": "Újidő → harmadidőszak → miocén: ez egy idő, egy időszak és egy kor egymásba ágyazva.",
+   "examplePlaces": [],
+   "related": [
+    "foldtorteneti-idok",
+    "harmad-es-negyedidoszak"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "foldtorteneti-idok",
+   "term": "ős-, elő-, ó-, közép- és újidő",
+   "aliases": [
+    "földtörténeti idők",
+    "ősidő",
+    "előidő",
+    "óidő",
+    "középidő",
+    "újidő"
+   ],
+   "sourceLabels": [
+    "ős-",
+    "elő-",
+    "ó-",
+    "közép- és újidő"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A földtörténet öt legnagyobb időegysége időrendben: ősidő, előidő, óidő, középidő és újidő. Az ős- és előidő a Föld történetének mintegy kilenctizedét teszi ki, az óidő kb. 540 millió éve kezdődött, a középidő kb. 250 millió évvel ezelőtt kezdődött és kb. 66 millió éve ért véget, azóta tart az újidő.",
+   "example": "Figyelj a sorrendre: ős – elő – ó – közép – új; minél „újabb” az idő, annál rövidebb.",
+   "examplePlaces": [],
+   "related": [
+    "osido",
+    "eloido",
+    "oido",
+    "kozepido",
+    "ujido",
+    "foldtorteneti-idoegysegek"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "osido",
+   "term": "ősidő",
+   "aliases": [
+    "archaikum"
+   ],
+   "sourceLabels": [],
+   "parent": "foldtorteneti-idok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A földtörténet első, leghosszabb ideje a Föld kb. 4,6 milliárd évvel ezelőtti kialakulásától kb. 2,5 milliárd évvel ezelőttig. Ekkor szilárdult meg a földkéreg, alakult ki a másodlagos légkör és az ősóceán, és jelentek meg az első egysejtű élőlények; az ősföldek legidősebb kőzetei ekkor keletkeztek.",
+   "example": "A Kanadai- és a Balti-ősföld legidősebb kőzetei ősidei eredetűek.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--kanadai-osfold",
+    "fold--nagyszerkezeti-egysegek--balti-osfold"
+   ],
+   "related": [
+    "eloido",
+    "oslegkor",
+    "osocean",
+    "osfold"
+   ],
+   "tags": [
+    "földtörténet",
+    "nagyszerkezet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eloido",
+   "term": "előidő",
+   "aliases": [
+    "proterozoikum"
+   ],
+   "sourceLabels": [],
+   "parent": "foldtorteneti-idok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "Az ősidőt követő, kb. 2,5 milliárd évtől kb. 540 millió évvel ezelőttig tartó idő. A fotoszintetizáló élőlények oxigéntermelése miatt oxigén kezdett felhalmozódni a vízben és a légkörben, ekkor képződtek a nagy vasérctelepek; végére megjelentek a többsejtű élőlények, és kialakultak az ősföldek.",
+   "example": "A világ nagy vasérctelepei (pl. Nyugat-Ausztráliában, Brazíliában) nagyrészt előidei eredetűek.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--afrikai-osfold"
+   ],
+   "related": [
+    "osido",
+    "oido",
+    "masodlagos-legkor",
+    "mai-legkor",
+    "osfold"
+   ],
+   "tags": [
+    "földtörténet",
+    "ásványkincsek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oido",
+   "term": "óidő",
+   "aliases": [
+    "paleozoikum"
+   ],
+   "sourceLabels": [],
+   "parent": "foldtorteneti-idok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A kb. 540 millió évtől kb. 250 millió évvel ezelőttig tartó idő. Ekkor zajlott a kaledóniai és a variszkuszi hegységképződés, az élővilág robbanásszerűen fejlődött, és meghódította a szárazföldet; a karbon mocsárerdeiből kőszéntelepek keletkeztek, a végére összeállt a Pangea.",
+   "example": "Időszakai: kambrium, ordovícium, szilur, devon, karbon, perm.",
+   "examplePlaces": [],
+   "related": [
+    "kambrium",
+    "ordovicium",
+    "szilur",
+    "devon",
+    "karbon",
+    "perm",
+    "kaledoniai-hegysegkepzodes",
+    "variszkuszi-hegysegkepzodes",
+    "pangea"
+   ],
+   "tags": [
+    "földtörténet",
+    "hegységképződés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kozepido",
+   "term": "középidő",
+   "aliases": [
+    "mezozoikum"
+   ],
+   "sourceLabels": [],
+   "parent": "foldtorteneti-idok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A kb. 250 millió évtől kb. 66 millió évvel ezelőttig tartó idő. A Pangea feldarabolódott, a Tethys tengerében vastag mészkő- és dolomitrétegek rakódtak le, a szárazföldön a hüllők (dinoszauruszok) uralkodtak; végét nagy kihalási esemény zárta.",
+   "example": "Időszakai: triász, jura, kréta. A Dunántúli-középhegység mészkő- és dolomitrétegei nagyrészt középideiek.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--bakony"
+   ],
+   "related": [
+    "triasz",
+    "jura",
+    "kreta",
+    "pangea",
+    "tethys"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ujido",
+   "term": "újidő",
+   "aliases": [
+    "kainozoikum",
+    "neozoikum"
+   ],
+   "sourceLabels": [],
+   "parent": "foldtorteneti-idok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A kb. 66 millió évvel ezelőtt kezdődött és ma is tartó idő, amely a harmad- és negyedidőszakra oszlik. Ekkor gyűrődtek fel az eurázsiai és a pacifikus hegységrendszer hegységei, kialakult a kontinensek mai képe, elterjedtek az emlősök és a zárvatermők, és megjelent az ember.",
+   "example": "Az Alpok, a Kárpátok, a Himalája és az Andok az újidőben emelkedtek fel.",
+   "examplePlaces": [
+    "europa--tajak--alpok",
+    "azsia--tajak--himalaja",
+    "amerika--tajak--andok"
+   ],
+   "related": [
+    "harmad-es-negyedidoszak",
+    "eurazsiai-hegysegkepzodes",
+    "pacifikus-hegysegkepzodes"
+   ],
+   "tags": [
+    "földtörténet",
+    "hegységképződés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "harmad-es-negyedidoszak",
+   "term": "harmad- és negyedidőszak",
+   "aliases": [
+    "harmadidőszak",
+    "negyedidőszak"
+   ],
+   "sourceLabels": [
+    "harmad- és negyedidőszak"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "Az újidő két időszaka. A harmadidőszak kb. 66 millió évtől kb. 2,6 millió évvel ezelőttig, a negyedidőszak azóta napjainkig tart.",
+   "example": "A Kárpát-medence feltöltődése a harmadidőszakban, löszös és futóhomokos felszíneinek kialakulása a negyedidőszakban történt.",
+   "examplePlaces": [
+    "europa--tajak--karpat-medence-pannon-medence"
+   ],
+   "related": [
+    "harmadidoszak",
+    "negyedidoszak",
+    "ujido"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "harmadidoszak",
+   "term": "harmadidőszak",
+   "aliases": [
+    "tercier"
+   ],
+   "sourceLabels": [],
+   "parent": "harmad-es-negyedidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "Az újidő első, hosszabb időszaka (kb. 66–2,6 millió évvel ezelőtt). Az alpi (eurázsiai) és a pacifikus hegységképződés fő szakasza; a Kárpát-medence besüllyedt, vulkáni működés zajlott, majd a medencét elöntő tenger, illetve a Pannon-tó fokozatosan feltöltődött.",
+   "example": "Öt kora időrendben: paleocén, eocén, oligocén, miocén, pliocén.",
+   "examplePlaces": [
+    "europa--tajak--karpat-medence-pannon-medence"
+   ],
+   "related": [
+    "paleocen",
+    "eocen",
+    "oligocen",
+    "miocen",
+    "pliocen",
+    "negyedidoszak"
+   ],
+   "tags": [
+    "földtörténet",
+    "hegységképződés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "negyedidoszak",
+   "term": "negyedidőszak",
+   "aliases": [
+    "kvarter"
+   ],
+   "sourceLabels": [],
+   "parent": "harmad-es-negyedidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "Az újidő második, legrövidebb időszaka, kb. 2,6 millió évvel ezelőttől napjainkig. Két kora a jégkor (pleisztocén) és a jelenkor (holocén); ebben az időszakban fejlődött ki a mai ember.",
+   "example": "A Nyírség futóhomokja és a Mezőföld lösze negyedidőszaki képződmény.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+   ],
+   "related": [
+    "jegkor-pleisztocen",
+    "jelenkor-holocen",
+    "harmadidoszak"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jegkor-pleisztocen",
+   "term": "jégkor (pleisztocén)",
+   "aliases": [
+    "jégkor",
+    "pleisztocén"
+   ],
+   "sourceLabels": [
+    "jégkor (pleisztocén)"
+   ],
+   "parent": "negyedidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A negyedidőszak első kora, kb. 2,6 millió évtől kb. 10 ezer évvel ezelőttig. Hideg jégkorszakok (glaciálisok) és melegebb jégkorszakközök (interglaciálisok) váltakoztak; a jégkorszakokban jégtakaró borította Észak-Európát és Észak-Amerika északi részét, a tengerszint jóval alacsonyabb volt a mainál.",
+   "example": "A Kárpát-medencét nem borította jégtakaró, de a hideg, száraz éghajlaton lösz és futóhomok halmozódott fel.",
+   "examplePlaces": [
+    "europa--tajak--skandinav-hegyseg",
+    "amerika--orszagok--kanada",
+    "europa--tajak--karpat-medence-pannon-medence"
+   ],
+   "related": [
+    "jegkorszak-glacialis",
+    "jegkorszakkoz-interglacialis",
+    "jelenkor-holocen"
+   ],
+   "tags": [
+    "földtörténet",
+    "jég-munkája",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jegkorszak-glacialis",
+   "term": "jégkorszak (glaciális)",
+   "aliases": [
+    "jégkorszak",
+    "glaciális",
+    "eljegesedés"
+   ],
+   "sourceLabels": [
+    "jégkorszak (glaciális)"
+   ],
+   "parent": "jegkor-pleisztocen",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A jégkoron belüli hideg szakasz, amikor a jégtakarók és gleccserek kiterjedése jelentősen megnőtt. A szárazföldi jég megkötött víz miatt a tengerszint jelentősen süllyedt, a növényzeti övek az Egyenlítő felé tolódtak.",
+   "example": "Az utolsó jégkorszakban a skandináv jégtakaró egészen Észak-Németországig ért, ott hagyta morénáit.",
+   "examplePlaces": [
+    "europa--tajak--skandinav-hegyseg",
+    "europa--orszagok--nemetorszag"
+   ],
+   "related": [
+    "jegkorszakkoz-interglacialis",
+    "jegkor-pleisztocen"
+   ],
+   "tags": [
+    "földtörténet",
+    "jég-munkája",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jegkorszakkoz-interglacialis",
+   "term": "jégkorszakköz (interglaciális)",
+   "aliases": [
+    "jégkorszakköz",
+    "interglaciális"
+   ],
+   "sourceLabels": [
+    "jégkorszakköz (interglaciális)"
+   ],
+   "parent": "jegkor-pleisztocen",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Két jégkorszak közötti melegebb szakasz, amikor a jégtakarók visszahúzódtak, a tengerszint emelkedett, és az éghajlat a maihoz hasonló vagy annál melegebb volt.",
+   "example": "Sok kutató szerint a jelenkor is egy jégkorszakköznek tekinthető.",
+   "examplePlaces": [],
+   "related": [
+    "jegkorszak-glacialis",
+    "jegkor-pleisztocen",
+    "jelenkor-holocen"
+   ],
+   "tags": [
+    "földtörténet",
+    "éghajlat",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jelenkor-holocen",
+   "term": "jelenkor (holocén)",
+   "aliases": [
+    "jelenkor",
+    "holocén"
+   ],
+   "sourceLabels": [
+    "jelenkor (holocén)"
+   ],
+   "parent": "negyedidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A negyedidőszak második, ma is tartó kora, amely a jégkor végével, kb. 10 ezer évvel ezelőtt kezdődött. Az éghajlat felmelegedett, kialakultak a mai növényzeti övek és vízrajz, az ember földművelésbe kezdett, és egyre erősebben alakítja környezetét.",
+   "example": "A jégtakaró elolvadása után alakultak ki például Finnország tavai és a Balti-tenger mai formája.",
+   "examplePlaces": [
+    "europa--tajak--skandinav-hegyseg"
+   ],
+   "related": [
+    "jegkor-pleisztocen",
+    "negyedidoszak"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oslegkor",
+   "term": "őslégkör (elsődleges légkör)",
+   "aliases": [
+    "őslégkör",
+    "elsődleges légkör"
+   ],
+   "sourceLabels": [
+    "őslégkör (elsődleges légkör)"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A Föld kialakulásakor keletkezett első légkör, amely főként hidrogénből és héliumból állt. Ezek a könnyű gázok a fiatal Föld nagy hőmérséklete és gyenge vonzása miatt a világűrbe szöktek.",
+   "example": "Az őslégkör nyomtalanul eltűnt, a mai légkör nem belőle, hanem a vulkáni gázokból fejlődött.",
+   "examplePlaces": [],
+   "related": [
+    "masodlagos-legkor",
+    "mai-legkor",
+    "osido"
+   ],
+   "tags": [
+    "földtörténet",
+    "légkör",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "masodlagos-legkor",
+   "term": "másodlagos légkör",
+   "aliases": [],
+   "sourceLabels": [
+    "másodlagos légkör"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A Föld belsejéből vulkáni gázkitörésekkel felszabaduló gázokból kialakult légkör, amely főként vízgőzből, szén-dioxidból és nitrogénből állt, szabad oxigén alig volt benne. A lehűlő vízgőz kicsapódásából jött létre az ősóceán.",
+   "example": "A mai vulkáni gázok összetétele is hasonló: vízgőz, szén-dioxid, kéntartalmú gázok.",
+   "examplePlaces": [],
+   "related": [
+    "oslegkor",
+    "mai-legkor",
+    "osocean"
+   ],
+   "tags": [
+    "földtörténet",
+    "légkör",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mai-legkor",
+   "term": "mai légkör",
+   "aliases": [],
+   "sourceLabels": [
+    "mai légkör"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A másodlagos légkörből az élővilág fotoszintézise révén kialakult légkör, amelyben a nitrogén (kb. 78%) és az oxigén (kb. 21%) a fő alkotó. Az oxigén felhalmozódásával kialakult az ózonréteg, amely lehetővé tette a szárazföldi élet megjelenését; a szén-dioxid nagy része a mészkőben és a fosszilis energiahordozókban kötődött meg.",
+   "example": "A szén-dioxid egy része ma is a vastag mészkőrétegekben (pl. a Bakonyban) van megkötve.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--bakony"
+   ],
+   "related": [
+    "masodlagos-legkor",
+    "oslegkor",
+    "eloido"
+   ],
+   "tags": [
+    "földtörténet",
+    "légkör",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "osocean",
+   "term": "ősóceán",
+   "aliases": [],
+   "sourceLabels": [
+    "ősóceán"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "Az ősidőben a másodlagos légkör vízgőzéből, a Föld felszínének lehűlése után hosszan tartó esőzésekkel kialakult első összefüggő vízburok. Ebben jelentek meg az első élőlények.",
+   "example": "Az élet több milliárd évig csak a vízben létezett, a szárazföldet csak az óidőben hódította meg.",
+   "examplePlaces": [],
+   "related": [
+    "masodlagos-legkor",
+    "osido",
+    "panthalassza"
+   ],
+   "tags": [
+    "földtörténet",
+    "vízburok",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hegysegkepzodesi-idoszakok",
+   "term": "kaledóniai, variszkuszi, eurázsiai és pacifikus hegységképződés",
+   "aliases": [
+    "hegységképződési szakaszok"
+   ],
+   "sourceLabels": [
+    "kaledóniai",
+    "variszkuszi",
+    "eurázsiai és pacifikus hegységképződés"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A Föld nagy hegységképződési szakaszai időrendben: az óidőben a kaledóniai és a variszkuszi, a középidő végétől az újidőben az eurázsiai (alpi) és a pacifikus. A régebbi hegységek mára lepusztultak, röghegységekké váltak, a fiatalok magas, ma is emelkedő lánchegységek.",
+   "example": "A Skandináv-hegység (kaledóniai), az Ural (variszkuszi), az Alpok (eurázsiai) és az Andok (pacifikus) egy-egy szakasz példája.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--kaledoniai-hegysegrendszer",
+    "fold--nagyszerkezeti-egysegek--variszkuszi-hegysegrendszer",
+    "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer",
+    "fold--nagyszerkezeti-egysegek--pacifikus-hegysegrendszer"
+   ],
+   "related": [
+    "kaledoniai-hegysegkepzodes",
+    "variszkuszi-hegysegkepzodes",
+    "eurazsiai-hegysegkepzodes",
+    "pacifikus-hegysegkepzodes"
+   ],
+   "tags": [
+    "földtörténet",
+    "hegységképződés",
+    "nagyszerkezet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kaledoniai-hegysegkepzodes",
+   "term": "kaledóniai hegységképződés",
+   "aliases": [
+    "kaledóniai"
+   ],
+   "sourceLabels": [],
+   "parent": "hegysegkepzodesi-idoszakok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "Az óidő első felében lezajlott hegységképződés, amely főként a szilur és a devon időszakhoz köthető. Hegységei ma erősen lepusztult röghegységek.",
+   "example": "A Skandináv-hegység és a Skót-felföld kaledóniai eredetű.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--kaledoniai-hegysegrendszer",
+    "europa--tajak--skandinav-hegyseg"
+   ],
+   "related": [
+    "variszkuszi-hegysegkepzodes",
+    "oido",
+    "szilur"
+   ],
+   "tags": [
+    "hegységképződés",
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "variszkuszi-hegysegkepzodes",
+   "term": "variszkuszi hegységképződés",
+   "aliases": [
+    "variszkuszi",
+    "hercini"
+   ],
+   "sourceLabels": [],
+   "parent": "hegysegkepzodesi-idoszakok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "Az óidő második felében, főként a karbon és a perm időszakban lezajlott hegységképződés, amelynek során összeállt a Pangea. Hegységei ma lepusztult, röghegységgé darabolódott, közepes magasságú hegységek, gyakran kőszéntelepekkel.",
+   "example": "Az Ural, az Appalache és Közép-Európa röghegységei (pl. Harz, Cseh-medence peremhegységei) variszkuszi eredetűek.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--variszkuszi-hegysegrendszer",
+    "europa--tajak--ural"
+   ],
+   "related": [
+    "kaledoniai-hegysegkepzodes",
+    "karbon",
+    "pangea"
+   ],
+   "tags": [
+    "hegységképződés",
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eurazsiai-hegysegkepzodes",
+   "term": "eurázsiai hegységképződés",
+   "aliases": [
+    "alpi hegységképződés",
+    "alpi-himalájai hegységképződés"
+   ],
+   "sourceLabels": [],
+   "parent": "hegysegkepzodesi-idoszakok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A középidő végén kezdődött és az újidőben tetőzött hegységképződés, amely a Tethys bezáródásával, az afrikai és az indiai lemez eurázsiai lemezzel való ütközésével jött létre. Ma is tart: hegységei magas, fiatal lánchegységek, földrengésekkel.",
+   "example": "Az Atlasz, az Alpok, a Kárpátok, a Kaukázus és a Himalája tartozik ide.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer",
+    "europa--tajak--alpok",
+    "europa--tajak--karpatok",
+    "azsia--tajak--himalaja"
+   ],
+   "related": [
+    "pacifikus-hegysegkepzodes",
+    "tethys",
+    "ujido"
+   ],
+   "tags": [
+    "hegységképződés",
+    "lemeztektonika",
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "pacifikus-hegysegkepzodes",
+   "term": "pacifikus hegységképződés",
+   "aliases": [
+    "pacifikus"
+   ],
+   "sourceLabels": [],
+   "parent": "hegysegkepzodesi-idoszakok",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "kozep",
+   "definition": "A Csendes-óceán peremén, az óceáni kőzetlemezek szárazföldi lemezek alá bukásával zajló hegységképződés, amely a középidőben kezdődött és ma is tart. Hegységeit és szigetíveit erős vulkáni működés és földrengések kísérik.",
+   "example": "Az Andok, a Kordillerák és a Japán-szigetek a pacifikus hegységrendszer részei.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--pacifikus-hegysegrendszer",
+    "amerika--tajak--andok",
+    "amerika--tajak--kordillerak",
+    "azsia--tajak--japan-szigetek"
+   ],
+   "related": [
+    "eurazsiai-hegysegkepzodes",
+    "ujido"
+   ],
+   "tags": [
+    "hegységképződés",
+    "lemeztektonika",
+    "vulkanizmus",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kormeghatarozas",
+   "term": "viszonylagos (relatív) és tényleges (abszolút) kormeghatározás",
+   "aliases": [
+    "kormeghatározás"
+   ],
+   "sourceLabels": [
+    "viszonylagos (relatív) és tényleges (abszolút) kormeghatározás"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A kőzetek és földtörténeti események korának megállapítására szolgáló két módszercsoport. A viszonylagos kormeghatározás csak az események sorrendjét adja meg, a tényleges kormeghatározás években fejezi ki a kort.",
+   "example": "Figyelj arra, hogy egy réteg lehet „idősebb a felette lévőnél” (relatív) és „kb. 200 millió éves” (abszolút).",
+   "examplePlaces": [],
+   "related": [
+    "relativ-kormeghatarozas",
+    "abszolut-kormeghatarozas"
+   ],
+   "tags": [
+    "földtörténet",
+    "kőzetek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "relativ-kormeghatarozas",
+   "term": "viszonylagos (relatív) kormeghatározás",
+   "aliases": [
+    "relatív kormeghatározás"
+   ],
+   "sourceLabels": [],
+   "parent": "kormeghatarozas",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A kőzetrétegek egymáshoz viszonyított korának megállapítása. Alapja, hogy zavartalan települési rétegsorban az alsó réteg az idősebb, a felső a fiatalabb; az azonos korú rétegeket a bennük lévő vezérkövületek alapján lehet távoli helyeken is azonosítani.",
+   "example": "Ha egy rétegben trilobiták vannak, az az óidőben rakódott le.",
+   "examplePlaces": [],
+   "related": [
+    "vezerkovulet",
+    "osmaradvany",
+    "abszolut-kormeghatarozas"
+   ],
+   "tags": [
+    "földtörténet",
+    "kőzetek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "abszolut-kormeghatarozas",
+   "term": "tényleges (abszolút) kormeghatározás",
+   "aliases": [
+    "abszolút kormeghatározás",
+    "radiometrikus kormeghatározás"
+   ],
+   "sourceLabels": [],
+   "parent": "kormeghatarozas",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A kőzetek korának években történő meghatározása, főként a radioaktív izotópok állandó sebességű bomlása alapján. A kőzetben mért kiinduló és bomlástermék-izotópok arányából és az ismert felezési időből kiszámítható a kőzet kora.",
+   "example": "A radiokarbon (C-14) módszerrel néhány tízezer éves szerves maradványok, más izotópokkal több milliárd éves kőzetek kora is mérhető.",
+   "examplePlaces": [],
+   "related": [
+    "relativ-kormeghatarozas",
+    "paleomagnesseg"
+   ],
+   "tags": [
+    "földtörténet",
+    "kőzetek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "osmaradvany",
+   "term": "ősmaradvány",
+   "aliases": [
+    "kövület",
+    "fosszília"
+   ],
+   "sourceLabels": [
+    "ősmaradvány"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Egykor élt élőlények kőzetekben megőrződött maradványa (pl. váz, csont, héj, lenyomat) vagy életnyoma (pl. lábnyom). Segítségével megismerhető az élővilág fejlődése, az egykori környezet és a rétegek viszonylagos kora.",
+   "example": "A Bakony középidei mészköveiben gyakoriak az ammoniteszek ősmaradványai.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--bakony"
+   ],
+   "related": [
+    "vezerkovulet",
+    "relativ-kormeghatarozas"
+   ],
+   "tags": [
+    "földtörténet",
+    "kőzetek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vezerkovulet",
+   "term": "vezérkövület",
+   "aliases": [],
+   "sourceLabels": [
+    "vezérkövület"
+   ],
+   "parent": "osmaradvany",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Olyan élőlény ősmaradványa, amely földtörténetileg rövid ideig élt, de nagy területen elterjedt és gyakori volt, ezért egy adott réteg korát jelzi. A viszonylagos kormeghatározás legfontosabb eszköze.",
+   "example": "A trilobiták az óidő, az ammoniteszek a középidő, a nummuliteszek az eocén vezérkövületei.",
+   "examplePlaces": [],
+   "related": [
+    "osmaradvany",
+    "relativ-kormeghatarozas"
+   ],
+   "tags": [
+    "földtörténet",
+    "kőzetek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "paleomagnesseg",
+   "term": "paleomágnesség",
+   "aliases": [
+    "ősmágnesség"
+   ],
+   "sourceLabels": [
+    "paleomágnesség"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A kőzetekben a kihűlésükkor vagy lerakódásukkor rögzült egykori földmágneses tér iránya. Vizsgálatából kimutathatók a mágneses pólusok felcserélődései és a kőzetlemezek egykori helyzete, vándorlása.",
+   "example": "Az óceánközépi hátságok két oldalán tükörszimmetrikusan váltakozó mágneses sávok bizonyítják az óceánfenék szétterülését.",
+   "examplePlaces": [
+    "fold--oceanok--atlanti-ocean"
+   ],
+   "related": [
+    "abszolut-kormeghatarozas",
+    "oskontinens"
+   ],
+   "tags": [
+    "földtörténet",
+    "lemeztektonika",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kambrium",
+   "term": "kambrium",
+   "aliases": [],
+   "sourceLabels": [
+    "kambrium"
+   ],
+   "parent": "oido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Az óidő első időszaka. A tengerekben robbanásszerűen elterjedtek a szilárd vázzal rendelkező gerinctelen állatok (pl. trilobiták); a szárazföldön még nem volt élet.",
+   "example": "A kambriumi „életrobbanás” óta maradtak fenn tömegesen ősmaradványok.",
+   "examplePlaces": [],
+   "related": [
+    "ordovicium",
+    "oido",
+    "vezerkovulet"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ordovicium",
+   "term": "ordovícium",
+   "aliases": [],
+   "sourceLabels": [
+    "ordovícium"
+   ],
+   "parent": "oido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Az óidő második időszaka. A tengeri élővilág tovább gazdagodott, megkezdődött a kaledóniai hegységképződés; az időszak végén Gondwana déli részén eljegesedés volt, és nagy kihalás történt.",
+   "example": "A trilobiták és a tengeri gerinctelenek ekkor élték virágkorukat.",
+   "examplePlaces": [],
+   "related": [
+    "kambrium",
+    "szilur",
+    "gondwana"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szilur",
+   "term": "szilur",
+   "aliases": [],
+   "sourceLabels": [
+    "szilur"
+   ],
+   "parent": "oido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Az óidő harmadik időszaka. Megjelentek az első szárazföldi növények, és ekkor zajlott a kaledóniai hegységképződés fő szakasza.",
+   "example": "A Skandináv-hegység gyűrődése ehhez az időhöz köthető.",
+   "examplePlaces": [
+    "europa--tajak--skandinav-hegyseg"
+   ],
+   "related": [
+    "kaledoniai-hegysegkepzodes",
+    "devon"
+   ],
+   "tags": [
+    "földtörténet",
+    "hegységképződés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "devon",
+   "term": "devon",
+   "aliases": [],
+   "sourceLabels": [
+    "devon"
+   ],
+   "parent": "oido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Az óidő negyedik időszaka, a „halak kora”. A szárazföldön elterjedtek a növények, megjelentek az első kétéltűek; a kaledóniai hegységek pusztulásából vörös homokkő rakódott le.",
+   "example": "A devonban léptek ki a gerincesek először a szárazföldre.",
+   "examplePlaces": [],
+   "related": [
+    "szilur",
+    "karbon"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "karbon",
+   "term": "karbon",
+   "aliases": [],
+   "sourceLabels": [
+    "karbon"
+   ],
+   "parent": "oido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Az óidő ötödik időszaka. A meleg, nedves mocsári erdők (páfrányfák, zsurlók, korpafüvek) maradványaiból hatalmas feketekőszén-telepek keletkeztek; zajlott a variszkuszi hegységképződés, megjelentek a hüllők.",
+   "example": "A Ruhr-vidék, a Donyec-medence és az Appalache kőszene karbon korú.",
+   "examplePlaces": [
+    "europa--orszagok--nemetorszag",
+    "europa--orszagok--ukrajna"
+   ],
+   "related": [
+    "variszkuszi-hegysegkepzodes",
+    "perm"
+   ],
+   "tags": [
+    "földtörténet",
+    "ásványkincsek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "perm",
+   "term": "perm",
+   "aliases": [],
+   "sourceLabels": [
+    "perm"
+   ],
+   "parent": "oido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Az óidő utolsó időszaka. A kontinensek a Pangeává egyesültek, a belsejükben száraz, sivatagi éghajlat uralkodott, sótelepek képződtek; a végén a földtörténet legnagyobb kihalása zajlott.",
+   "example": "A perm végi kihalás zárja le az óidőt.",
+   "examplePlaces": [],
+   "related": [
+    "pangea",
+    "karbon",
+    "triasz"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "triasz",
+   "term": "triász",
+   "aliases": [],
+   "sourceLabels": [
+    "triász"
+   ],
+   "parent": "kozepido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A középidő első időszaka. Megkezdődött a Pangea feldarabolódása, a Tethys sekély tengerében vastag mészkő- és dolomitrétegek rakódtak le; megjelentek a dinoszauruszok és az első emlősök.",
+   "example": "A Dunántúli-középhegység (pl. Bakony, Gerecse) dolomitja és mészköve nagyrészt triász korú.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--bakony",
+    "magyarorszag--egyeb-tajak-teruletek--gerecse"
+   ],
+   "related": [
+    "tethys",
+    "pangea",
+    "jura"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "jura",
+   "term": "jura",
+   "aliases": [],
+   "sourceLabels": [
+    "jura"
+   ],
+   "parent": "kozepido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A középidő második időszaka. A Pangea Laurázsiára és Gondwanára vált szét, a szárazföldön a dinoszauruszok uralkodtak, megjelentek az első madarak.",
+   "example": "A Mecsek feketekőszene a jura időszak elején, part menti mocsarakban keletkezett.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--mecsek"
+   ],
+   "related": [
+    "laurazsia",
+    "gondwana",
+    "kreta"
+   ],
+   "tags": [
+    "földtörténet",
+    "ásványkincsek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kreta",
+   "term": "kréta",
+   "aliases": [],
+   "sourceLabels": [
+    "kréta"
+   ],
+   "parent": "kozepido",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A középidő utolsó időszaka. Tágult az Atlanti-óceán, megjelentek és elterjedtek a zárvatermő növények, megkezdődött az eurázsiai és a pacifikus hegységképződés; végén, kb. 66 millió éve kihaltak a dinoszauruszok.",
+   "example": "A bakonyi bauxit képződése a krétában kezdődött.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--bakony",
+    "fold--oceanok--atlanti-ocean"
+   ],
+   "related": [
+    "jura",
+    "paleocen",
+    "eurazsiai-hegysegkepzodes"
+   ],
+   "tags": [
+    "földtörténet",
+    "ásványkincsek",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "paleocen",
+   "term": "paleocén",
+   "aliases": [],
+   "sourceLabels": [
+    "paleocén"
+   ],
+   "parent": "harmadidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A harmadidőszak első kora, közvetlenül a dinoszauruszok kihalása után. Az emlősök gyorsan elterjedtek, és elfoglalták a megüresedett életteret.",
+   "example": "A mai emlősrendek ősei ekkor kezdtek kifejlődni.",
+   "examplePlaces": [],
+   "related": [
+    "kreta",
+    "eocen"
+   ],
+   "tags": [
+    "földtörténet",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "eocen",
+   "term": "eocén",
+   "aliases": [],
+   "sourceLabels": [
+    "eocén"
+   ],
+   "parent": "harmadidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A harmadidőszak második kora, meleg éghajlattal. Magyarországon ekkor rakódtak le a nummuliteszes mészkövek, és keletkezett a Dunántúli-középhegység barnakőszene.",
+   "example": "A Gerecse és a Vértes környéki (Dorog, Tatabánya) barnakőszén-telepek eocén korúak.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--gerecse"
+   ],
+   "related": [
+    "oligocen",
+    "vezerkovulet"
+   ],
+   "tags": [
+    "földtörténet",
+    "ásványkincsek",
+    "Magyarország",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oligocen",
+   "term": "oligocén",
+   "aliases": [],
+   "sourceLabels": [
+    "oligocén"
+   ],
+   "parent": "harmadidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A harmadidőszak harmadik kora, amikor az éghajlat hűvösödni kezdett. A Kárpát-medence nagy részét tenger borította, amelyben agyag és homok rakódott le.",
+   "example": "A Budai-hegység környékén elterjedt kiscelli agyag oligocén tengeri üledék.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--budai-hegyseg"
+   ],
+   "related": [
+    "eocen",
+    "miocen"
+   ],
+   "tags": [
+    "földtörténet",
+    "Magyarország",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "miocen",
+   "term": "miocén",
+   "aliases": [],
+   "sourceLabels": [
+    "miocén"
+   ],
+   "parent": "harmadidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A harmadidőszak negyedik kora, az eurázsiai hegységképződés egyik fő szakasza. A Kárpátok felgyűrődött, a Kárpát-medence besüllyedt, és élénk vulkáni működés zajlott.",
+   "example": "A Börzsöny, a Mátra és a Tokaji-hegység vulkáni hegységei miocén korúak.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--borzsony",
+    "magyarorszag--egyeb-tajak-teruletek--matra",
+    "europa--tajak--karpatok"
+   ],
+   "related": [
+    "eurazsiai-hegysegkepzodes",
+    "pliocen"
+   ],
+   "tags": [
+    "földtörténet",
+    "vulkanizmus",
+    "Magyarország",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "pliocen",
+   "term": "pliocén",
+   "aliases": [],
+   "sourceLabels": [
+    "pliocén"
+   ],
+   "parent": "harmadidoszak",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A harmadidőszak utolsó kora, hűvösödő éghajlattal. A Kárpát-medencét kitöltő Pannon-tó ekkorra nagyrészt feltöltődött, a medence szárazulattá vált; a Balaton-felvidéken bazaltvulkánosság zajlott.",
+   "example": "A Tapolcai-medence bazaltsapkás tanúhegyei a harmadidőszak végi vulkánosság emlékei.",
+   "examplePlaces": [
+    "magyarorszag--egyeb-tajak-teruletek--tapolcai-medence",
+    "magyarorszag--egyeb-tajak-teruletek--balaton-felvidek"
+   ],
+   "related": [
+    "miocen",
+    "jegkor-pleisztocen"
+   ],
+   "tags": [
+    "földtörténet",
+    "vulkanizmus",
+    "Magyarország",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oskontinens",
+   "term": "őskontinens",
+   "aliases": [
+    "szuperkontinens"
+   ],
+   "sourceLabels": [
+    "őskontinens"
+   ],
+   "parent": null,
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A földtörténet során a kőzetlemezek mozgása révén kisebb kontinensek összekapcsolódásából létrejött, majd később feldarabolódott nagy szárazulat. Összekapcsolódásukkor hegységek gyűrődnek fel, feldarabolódásukkor új óceánok nyílnak.",
+   "example": "A legismertebb őskontinens a Pangea, amely Laurázsiára és Gondwanára vált szét.",
+   "examplePlaces": [],
+   "related": [
+    "pangea",
+    "laurazsia",
+    "gondwana",
+    "paleomagnesseg"
+   ],
+   "tags": [
+    "földtörténet",
+    "lemeztektonika",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "pangea",
+   "term": "Pangea",
+   "aliases": [],
+   "sourceLabels": [
+    "Pangea"
+   ],
+   "parent": "oskontinens",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Az óidő végére (a variszkuszi hegységképződéssel) kialakult egyetlen nagy szuperkontinens, amely a Föld szinte összes szárazulatát egyesítette. A középidőben darabolódott fel, először Laurázsiára és Gondwanára.",
+   "example": "Dél-Amerika keleti és Afrika nyugati partvonalának illeszkedése a Pangea egykori létét bizonyítja.",
+   "examplePlaces": [
+    "fold--oceanok--atlanti-ocean",
+    "fold--foldreszek--afrika"
+   ],
+   "related": [
+    "panthalassza",
+    "laurazsia",
+    "gondwana",
+    "tethys"
+   ],
+   "tags": [
+    "földtörténet",
+    "lemeztektonika",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "panthalassza",
+   "term": "Panthalassza",
+   "aliases": [],
+   "sourceLabels": [
+    "Panthalassza"
+   ],
+   "parent": "oskontinens",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A Pangeát körülvevő hatalmas ősóceán, a Föld akkori egyetlen világóceánja. Maradványa a mai Csendes-óceán.",
+   "example": "A Pangea feldarabolódásakor a Panthalassza kisebbedett, és új óceánok (pl. Atlanti-óceán) nyíltak.",
+   "examplePlaces": [],
+   "related": [
+    "pangea",
+    "tethys"
+   ],
+   "tags": [
+    "földtörténet",
+    "vízburok",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "laurazsia",
+   "term": "Laurázsia",
+   "aliases": [],
+   "sourceLabels": [
+    "Laurázsia"
+   ],
+   "parent": "oskontinens",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A Pangea feldarabolódásakor létrejött északi őskontinens, amelyből Észak-Amerika és Eurázsia (India nélkül) alakult ki.",
+   "example": "Az Észak-Atlanti-óceán megnyílásával Észak-Amerika és Európa vált le belőle.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--kanadai-osfold",
+    "fold--nagyszerkezeti-egysegek--balti-osfold"
+   ],
+   "related": [
+    "gondwana",
+    "pangea",
+    "tethys"
+   ],
+   "tags": [
+    "földtörténet",
+    "lemeztektonika",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "gondwana",
+   "term": "Gondwana",
+   "aliases": [],
+   "sourceLabels": [
+    "Gondwana"
+   ],
+   "parent": "oskontinens",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "A Pangea feldarabolódásakor létrejött déli őskontinens, amelyből Dél-Amerika, Afrika, az Arab-félsziget, India, Ausztrália és az Antarktisz alakult ki.",
+   "example": "Gondwanáról leszakadva India észak felé vándorolt, és Eurázsiával ütközve felgyűrte a Himaláját.",
+   "examplePlaces": [
+    "fold--nagyszerkezeti-egysegek--afrikai-osfold",
+    "azsia--tajak--himalaja"
+   ],
+   "related": [
+    "laurazsia",
+    "pangea",
+    "tethys"
+   ],
+   "tags": [
+    "földtörténet",
+    "lemeztektonika",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tethys",
+   "term": "Tethys",
+   "aliases": [
+    "Tethys-óceán"
+   ],
+   "sourceLabels": [
+    "Tethys"
+   ],
+   "parent": "oskontinens",
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "level": "emelt",
+   "definition": "Laurázsia és Gondwana között kelet–nyugati irányban húzódó őstenger (óceán). Afrika és India észak felé mozgásával bezárult, üledékeiből gyűrődtek fel az eurázsiai hegységrendszer hegységei; maradványa a Földközi-tenger.",
+   "example": "A Himalája csúcsainak mészkövében is tengeri ősmaradványok találhatók a Tethysből.",
+   "examplePlaces": [
+    "europa--vizrajz--foldkozi-tenger",
+    "azsia--tajak--himalaja"
+   ],
+   "related": [
+    "eurazsiai-hegysegkepzodes",
+    "laurazsia",
+    "gondwana"
+   ],
+   "tags": [
+    "földtörténet",
+    "lemeztektonika",
+    "hegységképződés",
+    "4-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

@@ -1,0 +1,839 @@
+{ "cards": [
+{
+  "objectiveId": "3-2-1-a-legkor-anyaga-es-szerkezete--k1",
+  "explanation": "A légkör gázok keveréke, amelyben szilárd és cseppfolyós részecskék is lebegnek. A gázokat aszerint csoportosítjuk, mennyire változik az arányuk.\n\n- Állandó gázok: nitrogén (kb. 78%), oxigén (kb. 21%), nemesgázok (főként argon, kb. 0,9%). Arányuk a troposzférában gyakorlatilag nem változik.\n- Változó gázok: főként a szén-dioxid (ma kb. 0,04%). Lassan, hosszabb idő alatt változik, napjainkban az emberi tevékenység miatt nő.\n- Erősen változó gázok: a vízgőz (0–4%), az ózon és a szennyező gázok (kén-dioxid, nitrogén-oxidok, szén-monoxid). Mennyiségük helyről helyre és napról napra ingadozik: az Amazonas-medence párás levegőjében sok, a Szahara fölött kevés a vízgőz.\n\nA vendéganyagok (por, korom, hamu, virágpor, sókristály, vízcseppek, jégkristályok) természetes és emberi eredetűek lehetnek. Fontos szerepük, hogy kicsapódási magként segítik a felhőképződést.\n\nFigyelj: a szén-dioxid kis mennyisége ellenére kulcsfontosságú, mert üvegházgáz és a fotoszintézis alapanyaga.",
+  "diagram": null,
+  "concepts": ["állandó", "változó és erősen változó gázok", "vendéganyagok", "kicsapódási (kondenzációs) mag"],
+  "processes": [],
+  "examTip": "Gyakori feladat: gázokat kell besorolni a három csoportba. A vízgőz az erősen változó, a szén-dioxid a változó gázok közé tartozik – ezt sokan felcserélik.",
+  "selfCheck": [
+    { "q": "Melyik két gáz adja a száraz levegő kb. 99%-át?", "a": "A nitrogén (kb. 78%) és az oxigén (kb. 21%)." },
+    { "q": "Miért fontosak a vendéganyagok a csapadékképződésben?", "a": "Kicsapódási magként szolgálnak, ezeken csapódik ki a vízgőz." },
+    { "q": "Melyik csoportba tartozik a vízgőz?", "a": "Az erősen változó gázok közé (0–4%)." }
+  ],
+  "trueFalse": [
+    { "statement": "Az argon az állandó gázok közé tartozik.", "true": true },
+    { "statement": "A szén-dioxid a légkör harmadik leggyakoribb állandó gáza.", "true": false, "correction": "A szén-dioxid változó gáz, aránya kb. 0,04%, és az emberi tevékenység miatt nő; a harmadik leggyakoribb gáz az argon." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-1-a-legkor-anyaga-es-szerkezete--k2",
+  "explanation": "A légkör összetételének változásait a saját bőrödön is érzed. Nézd meg a legfontosabbakat ok–következmény párban!\n\n- Nő a szén-dioxid és a metán mennyisége (fosszilis energiahordozók égetése, erdőirtás, állattartás) → fokozódik az üvegházhatás → globális felmelegedés, gyakoribb hőhullámok és aszályok.\n- Vékonyodik az ózonréteg (freonok) → több ultraibolya sugárzás jut a felszínre → nő a bőrrák és a szürkehályog kockázata.\n- Nő a kén-dioxid és a nitrogén-oxidok mennyisége → savas csapadék → károsodnak az erdők, a talajok, az épületek.\n- Sok a por, korom és szálló por (közlekedés, fűtés, avarégetés) → szmog, légúti és keringési betegségek.\n- Természetes változás is van: egy nagy vulkánkitörés hamuja és kéngázai átmenetileg csökkenthetik a felszínre jutó napsugárzást, a szaharai por pedig nálunk is sárgára festi az eget.\n\nA változások gyakran határokon átnyúlók: a szél messzire szállítja a szennyezést, ezért nemzetközi együttműködés kell.",
+  "diagram": null,
+  "concepts": ["változó és erősen változó gázok", "vendéganyagok", "az üvegházhatás fokozódása", "ózonréteg-elvékonyodás (ózonritkulás)", "savas csapadék", "füstköd (szmog)"],
+  "processes": ["globalis-felmelegedes", "ozonreteg", "savas-eso"],
+  "examTip": "Mindig három lépésben válaszolj: melyik anyag mennyisége változik → milyen légköri folyamat indul → mi a hatása az emberre vagy a gazdaságra.",
+  "selfCheck": [
+    { "q": "Milyen egészségügyi következménye van az ózonréteg elvékonyodásának?", "a": "Több UV-sugárzás éri a felszínt, nő a bőrrák és a szürkehályog kockázata." },
+    { "q": "Mely gázok okoznak savas csapadékot?", "a": "A kén-dioxid és a nitrogén-oxidok." }
+  ],
+  "trueFalse": [
+    { "statement": "A szén-dioxid mennyiségének növekedése fokozza az üvegházhatást.", "true": true },
+    { "statement": "A szén-dioxid növekedése okozza az ózonlyukat.", "true": false, "correction": "Az ózonréteg elvékonyodását főként a freonok (klór-fluor-szénhidrogének) okozzák; a szén-dioxid az üvegházhatást fokozza." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-1-a-legkor-anyaga-es-szerkezete--k3",
+  "explanation": "A légkört a hőmérséklet magasság szerinti változása alapján osztjuk szférákra. Alsó légkör a troposzféra, középső a sztratoszféra és a mezoszféra, felső a termoszféra és az exoszféra.\n\n- Troposzféra: a sarkoknál kb. 8, az Egyenlítőnél kb. 17 km vastag. Itt van a légkör tömegének nagy része és szinte az összes vízgőz. A hőmérséklet átlagosan 0,6 °C-kal csökken 100 méterenként. Itt zajlik az időjárás.\n- Sztratoszféra: kb. 50 km-ig. Az ózonréteg elnyeli az UV-sugárzást, ezért felfelé melegszik. Függőleges légmozgás alig van.\n- Mezoszféra: felfelé ismét hűl, itt a legalacsonyabb a légkör hőmérséklete. Itt égnek el a meteorok (hullócsillagok).\n- Termoszféra: rendkívül ritka levegő, a rövidhullámú sugárzás elnyelése miatt a hőmérséklet erősen nő. A gázok részben ionizáltak (ionoszféra), itt jelenik meg a sarki fény.\n- Exoszféra: fokozatos átmenet a világűrbe.\n\nA légnyomás és a levegő sűrűsége felfelé folyamatosan csökken.",
+  "diagram": "atmosphere-layers",
+  "concepts": ["alsó", "középső és felső légkör", "troposzféra", "sztratoszféra", "mezoszféra", "termoszféra", "exoszféra"],
+  "processes": [],
+  "examTip": "Tudd megindokolni a hőmérséklet-fordulókat: a sztratoszféra az ózon UV-elnyelése, a termoszféra a rövidhullámú sugárzás elnyelése miatt melegszik felfelé.",
+  "selfCheck": [
+    { "q": "Miért vastagabb a troposzféra az Egyenlítőnél, mint a sarkoknál?", "a": "Mert az erős felmelegedés miatt a meleg levegő magasabbra emelkedik (kb. 17 km a sarki kb. 8 km-rel szemben)." },
+    { "q": "Melyik szférában zajlanak az időjárási jelenségek?", "a": "A troposzférában." },
+    { "q": "Hol égnek el a meteorok?", "a": "A mezoszférában." }
+  ],
+  "trueFalse": [
+    { "statement": "A sztratoszférában a hőmérséklet a magassággal emelkedik.", "true": true },
+    { "statement": "A troposzférában a hőmérséklet 100 méterenként átlagosan 1 °C-kal emelkedik.", "true": false, "correction": "A troposzférában a hőmérséklet átlagosan 0,6 °C-kal csökken 100 méterenként." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-1-a-legkor-anyaga-es-szerkezete--k4",
+  "explanation": "A légkör szerkezetét bemutató ábrán általában a függőleges tengelyen a magasság (km), a vízszintesen a hőmérséklet (°C) szerepel, a görbe pedig a hőmérséklet változását mutatja.\n\nÍgy elemezd lépésről lépésre:\n- Keresd meg, hol fordul meg a görbe iránya: ezek a szférahatárok.\n- Ahol a görbe balra dől (felfelé hűl): troposzféra és mezoszféra.\n- Ahol jobbra dől (felfelé melegszik): sztratoszféra és termoszféra.\n- Olvasd le a jelölt jelenségeket: felhők és repülőgépek a troposzféra felső részéig, ózonréteg a sztratoszférában, meteorok a mezoszférában, sarki fény és űrállomás a termoszférában.\n\nPélda kérdés: „Miért melegszik a levegő 20 és 50 km között?” Válasz: az ózon elnyeli a Nap ultraibolya sugárzását.\n\nHa az ábrán a légnyomás is szerepel, láthatod, hogy felfelé gyorsan csökken, ezért a légkör tömegének nagy része az alsó néhány km-ben van.",
+  "diagram": "atmosphere-layers",
+  "concepts": ["troposzféra", "sztratoszféra", "ózonréteg", "mezoszféra", "termoszféra"],
+  "processes": [],
+  "examTip": "Ábraelemzésnél ne csak megnevezd a szférát, hanem indokold is a hőmérséklet változását – erre jár a pont.",
+  "selfCheck": [
+    { "q": "Hogyan ismered fel az ábrán a szférák határát?", "a": "Ott, ahol a hőmérsékleti görbe iránya megfordul." },
+    { "q": "Melyik két szférában csökken a hőmérséklet felfelé?", "a": "A troposzférában és a mezoszférában." }
+  ],
+  "trueFalse": [
+    { "statement": "A termoszférában a hőmérséklet a magassággal erősen emelkedik.", "true": true },
+    { "statement": "A sarki fény a troposzférában jelenik meg.", "true": false, "correction": "A sarki fény a felső légkörben, a termoszférában (ionoszférában) jelenik meg." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-1-a-legkor-anyaga-es-szerkezete--k5",
+  "explanation": "Az ózonréteg a sztratoszférában, nagyjából 20–30 km magasságban található, ahol az ózon (O₃) a legnagyobb koncentrációban fordul elő. Az ózon a teljes légkörhöz képest nagyon kevés, mégis létfontosságú.\n\nMiért jelentős?\n- Elnyeli a Nap ultraibolya (UV) sugárzásának nagy részét, így védi az élőlényeket: az erős UV-sugárzás bőrrákot, szürkehályogot okoz, károsítja a növényeket és a tengeri planktont.\n- Az UV-elnyelés miatt melegszik a sztratoszféra felfelé, ez alakítja a légkör hőmérsékleti szerkezetét.\n\nVeszélyeztetettség: a freonok (hűtőkben, hajtógázként használt klór-fluor-szénhidrogének) klórja bontja az ózont. Az ózonritkulás leginkább az Antarktisz fölött, a déli félgömb tavaszán erős (ózonlyuk). A Montreali jegyzőkönyv (1987) betiltotta a freonok gyártását, azóta az ózonréteg lassan regenerálódik.\n\nVigyázz: a felszínközeli ózon káros szennyező (nyári szmog), a sztratoszférai viszont védelmez.",
+  "diagram": "atmosphere-layers",
+  "concepts": ["ózonréteg", "sztratoszféra", "ózonréteg-elvékonyodás (ózonritkulás)"],
+  "processes": ["ozonreteg"],
+  "examTip": "Ne keverd az ózonlyukat az üvegházhatással! Az ózonritkulás az UV-sugárzás növekedését okozza, nem a globális felmelegedést.",
+  "selfCheck": [
+    { "q": "Melyik szférában van az ózonréteg?", "a": "A sztratoszférában (kb. 20–30 km magasan)." },
+    { "q": "Mi okozza az ózonréteg elvékonyodását?", "a": "Főként a freonok klórtartalma, amely bontja az ózont." },
+    { "q": "Hol a legerősebb az ózonritkulás?", "a": "Az Antarktisz fölött, a déli félgömb tavaszán." }
+  ],
+  "trueFalse": [
+    { "statement": "Az ózonréteg elnyeli a Nap ultraibolya sugárzásának nagy részét.", "true": true },
+    { "statement": "A felszínközeli ózon is az élőlények védelmét szolgálja.", "true": false, "correction": "A felszínközeli ózon káros szennyező anyag (nyári, fotokémiai szmog); csak a sztratoszférai ózon véd az UV-sugárzástól." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-1-a-legkor-anyaga-es-szerkezete--e1",
+  "explanation": "A légkör nemcsak az élet feltétele, hanem gazdasági erőforrás is. Emelt szinten példákkal kell alátámasztanod.\n\n- Nyersanyag: a levegő cseppfolyósításával ipari oxigént, nitrogént és nemesgázokat (argon) állítanak elő. A nitrogénből műtrágya készül.\n- Energia: a szélenergia (pl. Dánia, Északi-tenger szélparkjai) és a napenergia megújuló energiaforrás.\n- Közlekedés: a repülés a troposzféra felső részét használja; a futóáramlás kelet felé lerövidíti az Atlanti-óceán feletti utat. A vitorlás hajózás a szelekre épült.\n- Távközlés: az ionoszféra visszaveri a rövidhullámú rádiójeleket, így azok a Föld görbülete mögé is eljutnak.\n- Mezőgazdaság: a csapadék, a hőmérséklet és a napsugárzás határozza meg, mit és hol lehet termeszteni.\n- Idegenforgalom: a tiszta, napos vagy hegyi levegő (klímaturizmus, pl. Alpok, Mátra) vonzerő.\n\nA légkör károsodása (szmog, savas eső, éghajlatváltozás) viszont gazdasági veszteséget okoz.",
+  "diagram": null,
+  "concepts": ["ionoszféra", "állandó", "futóáramlás", "megújuló és nem megújuló energiaforrások"],
+  "processes": [],
+  "examTip": "Ha példákat kérnek, mindig konkrét ágazatot és helyszínt nevezz meg (pl. szélparkok az Északi-tengeren), ne csak általánosságot.",
+  "selfCheck": [
+    { "q": "Hogyan nyernek ipari oxigént a levegőből?", "a": "A levegő cseppfolyósításával és a gázok szétválasztásával." },
+    { "q": "Melyik légköri réteg segíti a rádiózást?", "a": "Az ionoszféra, amely visszaveri a rövidhullámú rádiójeleket." }
+  ],
+  "trueFalse": [
+    { "statement": "A szélenergia a légkör megújuló energiaforrása.", "true": true },
+    { "statement": "A futóáramlás nyugat felé haladva gyorsítja a repülőgépeket.", "true": false, "correction": "A futóáramlás nyugatról kelet felé halad, ezért a kelet felé repülő gépeket gyorsítja." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--k1",
+  "explanation": "A levegőt nem közvetlenül a Nap melegíti fel: a napsugárzás nagy része áthalad a légkörön, a felszín nyeli el, és a felmelegedett felszín adja át a hőt az alsó légrétegeknek. Ezért hűl a troposzféra felfelé.\n\nA felmelegedés mértékét elsősorban a napsugarak hajlásszöge (beesési szöge) szabja meg:\n- Minél nagyobb a hajlásszög, annál kisebb felületre jut ugyanannyi energia, vagyis egységnyi felület több energiát kap.\n- Nagy hajlásszögnél rövidebb utat tesz meg a sugárzás a légkörben, kevesebb nyelődik el és szóródik szét.\n\nKövetkezmények:\n- Az Egyenlítő környékén egész évben magasan delel a Nap, ezért meleg van; a sarkok felé csökken a hajlásszög és a hőmérséklet.\n- Nálunk nyáron magasabban delel a Nap, mint télen, ezért melegebb.\n- Napon belül délben a legnagyobb a hajlásszög.\n- A déli kitettségű lejtőkre nagyobb szögben érkezik a sugárzás, ezért jobban felmelegszenek (szőlő a Badacsony déli lejtőin).",
+  "diagram": "solar-angle",
+  "concepts": ["besugárzás", "elnyelődés", "kisugárzás", "delelési magasság", "lejtőkitettség"],
+  "processes": [],
+  "examTip": "Gyakori hiba: „a levegőt a Nap melegíti”. Helyesen: a felszín nyeli el a sugárzást, és a felszín melegíti a levegőt alulról.",
+  "selfCheck": [
+    { "q": "Miért melegebb az Egyenlítő, mint a sarkvidék?", "a": "Mert ott nagyobb a napsugarak hajlásszöge: kisebb felületre jut ugyanannyi energia, és rövidebb az út a légkörben." },
+    { "q": "Miért hűl a troposzféra felfelé?", "a": "Mert a levegő alulról, a felmelegedett felszíntől melegszik." }
+  ],
+  "trueFalse": [
+    { "statement": "Nagyobb hajlásszögnél egységnyi felületre több napenergia jut.", "true": true },
+    { "statement": "A légkör a napsugárzás nagy részét közvetlenül elnyeli, így felülről melegszik.", "true": false, "correction": "A sugárzás nagy része a felszínig jut; a felszín nyeli el, és a felszín melegíti alulról a levegőt." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--k2",
+  "explanation": "Az üvegházhatás a légkör természetes hővisszatartó képessége, enélkül a Föld felszíne fagyos lenne.\n\nA folyamat lépései:\n- Besugárzás: a Nap rövidhullámú sugárzása nagyrészt áthalad a légkörön.\n- Egy része visszaverődik (felhők, hó, jég – nagy albedó), a többit a felszín elnyeli és felmelegszik.\n- Kisugárzás: a felszín hosszúhullámú (hő)sugárzást bocsát ki.\n- Az üvegházgázok (vízgőz, szén-dioxid, metán, dinitrogén-oxid) ezt a hosszúhullámú sugárzást elnyelik, és egy részét visszasugározzák a felszín felé.\n\nJelentősége: kiegyenlíti a hőmérsékletet, megakadályozza a gyors éjszakai lehűlést, lehetővé teszi az életet.\n\nPélda: felhős éjszakán kevésbé hűl le a levegő, mint derült éjszakán; a sivatagban (Szahara) a száraz levegő kevés vízgőzt tartalmaz, ezért éjjel nagyon lehűl.\n\nAz emberi tevékenység az üvegházgázok mennyiségét növeli, ez az üvegházhatás fokozódásához és globális felmelegedéshez vezet.",
+  "diagram": "greenhouse",
+  "concepts": ["üvegházhatás", "üvegházgázok", "besugárzás", "visszaverődés", "kisugárzás", "sugárzás-visszaverő képesség (albedó)"],
+  "processes": ["uveghazhatas"],
+  "examTip": "A kulcs a hullámhossz: a légkör a rövidhullámú napsugárzást átengedi, a felszín hosszúhullámú kisugárzását viszont az üvegházgázok elnyelik.",
+  "selfCheck": [
+    { "q": "Melyik a légkör legfontosabb természetes üvegházgáza?", "a": "A vízgőz (mellette a szén-dioxid és a metán)." },
+    { "q": "Miért hűl le jobban a levegő derült éjszakán?", "a": "Mert kevés a felhő és a vízgőz, ami visszatartaná a hosszúhullámú kisugárzást." }
+  ],
+  "trueFalse": [
+    { "statement": "Az üvegházhatás nélkül a Föld átlaghőmérséklete jóval alacsonyabb lenne.", "true": true },
+    { "statement": "Az üvegházgázok a Nap rövidhullámú sugárzását nyelik el.", "true": false, "correction": "Az üvegházgázok a felszín hosszúhullámú kisugárzását nyelik el; a rövidhullámú napsugárzás nagy részét átengedik." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--k3",
+  "explanation": "A hőmérséklet napi járását a Föld tengely körüli forgása, évi járását a Nap körüli keringése és a tengelyferdeség okozza.\n\nNapi járás:\n- A minimum napkelte körül van, mert a felszín egész éjjel sugározta ki a hőt.\n- A maximum nem délben, hanem kora délután (kb. 13–14 óra) van, mert a felszín még dél után is több energiát kap, mint amennyit kisugároz.\n\nÉvi járás (északi félgömb):\n- A szárazföld belsejében a legmelegebb hónap a július, a leghidegebb a január – a napfordulókhoz képest kb. egy hónapos késéssel.\n- Az óceán lassabban melegszik és hűl, ezért a tengerpartokon a szélsőértékek később jelentkeznek (augusztus, február), és kisebb az ingadozás.\n\nAz Egyenlítő közelében a napi hőingás nagyobb, mint az évi, mert a Nap egész évben magasan delel. A mérsékelt övezetben az évi ingadozás a jelentősebb, mert erősen változik a delelési magasság és a nappalok hossza.",
+  "diagram": "climate-chart",
+  "concepts": ["a hőmérséklet napi és évi járása", "tengely körüli forgás", "napi hőingás", "évi közepes hőingás"],
+  "processes": ["evszakok"],
+  "examTip": "Ha azt kérdezik, miért nem délben van a napi maximum, a válasz a felszín hőtároló és hőleadó működése: a kapott energia dél után is meghaladja a kisugárzottat.",
+  "selfCheck": [
+    { "q": "Mikor van a napi hőmérsékleti minimum?", "a": "Napkelte körül." },
+    { "q": "Miért augusztus a legmelegebb hónap sok tengerparti állomáson?", "a": "Mert a víz lassan melegszik fel, így a maximum később jelentkezik." }
+  ],
+  "trueFalse": [
+    { "statement": "Az évi hőmérsékletjárás oka a Föld keringése és a tengelyferdeség.", "true": true },
+    { "statement": "A napi hőmérsékleti maximum mindig délben, a Nap delelésekor van.", "true": false, "correction": "A maximum kora délután (kb. 13–14 óra) van, mert a felszín dél után is több energiát kap, mint amennyit kisugároz." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--k4",
+  "explanation": "A számítások egyszerűek, csak pontosan kell dolgoznod.\n\n- Napi középhőmérséklet: a nap folyamán mért értékek átlaga (pl. a 4 mérésé). Példa: 1 órakor 12, 7 órakor 14, 13 órakor 24, 19 órakor 18 °C → (12 + 14 + 24 + 18) / 4 = 17 °C.\n- Havi középhőmérséklet: a napi középhőmérsékletek átlaga.\n- Évi középhőmérséklet: a 12 havi középhőmérséklet összege osztva 12-vel.\n- Napi hőingás: a nap legmagasabb és legalacsonyabb értékének különbsége: 24 − 12 = 12 °C.\n- Évi közepes hőingás: a legmelegebb és a leghidegebb hónap középhőmérsékletének különbsége. Példa: július 21 °C, január −2 °C → 21 − (−2) = 23 °C.\n- Abszolút hőingás: a valaha mért legmagasabb és legalacsonyabb hőmérséklet különbsége. Példa: +40 °C és −30 °C → 70 °C.\n\nFigyelj a negatív számokra: a mínusz kivonása összeadás! A hőingás mindig pozitív szám, mértékegysége °C.",
+  "diagram": "climate-chart",
+  "concepts": ["napi", "havi és évi középhőmérséklet", "napi hőingás", "évi közepes hőingás", "abszolút hőingás"],
+  "processes": [],
+  "examTip": "A leggyakoribb hiba a negatív januári érték kezelése: 20 °C és −5 °C között a hőingás 25 °C, nem 15 °C.",
+  "selfCheck": [
+    { "q": "Mennyi az évi közepes hőingás, ha a július 24 °C, a január −6 °C?", "a": "24 − (−6) = 30 °C." },
+    { "q": "Hogyan számolod az évi középhőmérsékletet?", "a": "A 12 havi középhőmérséklet összegét elosztod 12-vel." },
+    { "q": "Mi a különbség az évi közepes és az abszolút hőingás között?", "a": "Az évi közepes a havi középértékekből, az abszolút a valaha mért szélsőértékekből számolódik." }
+  ],
+  "trueFalse": [
+    { "statement": "Az abszolút hőingás a valaha mért legmagasabb és legalacsonyabb hőmérséklet különbsége.", "true": true },
+    { "statement": "Ha a legmelegebb hónap 22 °C, a leghidegebb −3 °C, akkor az évi közepes hőingás 19 °C.", "true": false, "correction": "22 − (−3) = 25 °C; a negatív szám kivonása összeadást jelent." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--k5",
+  "explanation": "Hőmérsékleti adatokat leggyakrabban vonaldiagramon ábrázolsz: a vízszintes tengelyen a hónapok, a függőlegesen a °C. Ügyelj az arányos skálára és a 0 °C vonalára. Az éghajlati diagramon a hőmérséklet görbe, a csapadék oszlop.\n\nHőmérsékleti tematikus térképen az izotermák az azonos középhőmérsékletű pontokat kötik össze. Mit figyelj?\n- Az izotermák általában a szélességi körökkel nagyjából párhuzamosan futnak, mert a hőmérsékletet elsősorban a földrajzi szélesség szabja meg.\n- Ahol eltérnek, ott más tényező hat: januárban Nyugat-Európánál észak felé hajlanak a meleg Golf-áramlás miatt; a kontinensek belsejében (Szibéria) délre nyúlnak, mert a szárazföld erősen lehűl.\n- Magas hegységekben (Himalája, Andok) a magasság miatt hidegebb van.\n- Sűrű izotermák nagy hőmérsékleti különbséget jeleznek kis távolságon.\n\nÖsszehasonlításnál mindig hasonlítsd össze a januári és júliusi térképet: így látod az óceáni és szárazföldi hatást.",
+  "diagram": "climate-chart",
+  "concepts": ["izoterma", "havi és évi középhőmérséklet", "évi közepes hőingás"],
+  "processes": [],
+  "examTip": "Ha az izotermák elhajlását kell magyaráznod, nevezd meg a módosító tényezőt (tengeráramlás, szárazföld–óceán, domborzat), és mondd meg az irányát is.",
+  "selfCheck": [
+    { "q": "Mit köt össze az izoterma?", "a": "Az azonos (közép)hőmérsékletű pontokat." },
+    { "q": "Miért hajlanak északra januárban az izotermák Nyugat-Európánál?", "a": "A meleg Golf-áramlás és az óceán enyhítő hatása miatt." }
+  ],
+  "trueFalse": [
+    { "statement": "Az izotermák nagyjából a szélességi körökkel párhuzamosan futnak.", "true": true },
+    { "statement": "Januárban a kontinensek belseje melegebb, mint az azonos szélességű óceánok.", "true": false, "correction": "Januárban (északi tél) a kontinensek belseje erősen lehűl, hidegebb, mint az azonos szélességű óceánok." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--k6",
+  "explanation": "A napsugárzás közvetlenül és közvetve is a legfontosabb energiaforrásunk.\n\nKözvetlen hasznosítás:\n- Napelem (fotovillamos): áramot termel.\n- Napkollektor: vizet melegít.\n- Passzív napenergia: déli tájolású ablakok, napos lejtőkre épített házak.\n\nA hasznosítás ott a leggazdaságosabb, ahol nagy a napsugarak hajlásszöge és hosszú a napfénytartam, vagyis kevés a felhő. Ezért a térítői sivatagok (Szahara, Arab-félsziget) és a mediterrán térség különösen kedvezőek. Magyarország is jó adottságú, a napelemes termelés gyorsan nő.\n\nKözvetett hasznosítás – a legtöbb energiaforrás végső soron napenergia:\n- A szél a légkör egyenlőtlen felmelegedéséből ered.\n- A vízenergia a Nap hajtotta víz körforgásából.\n- A biomassza és a fosszilis energiahordozók (szén, kőolaj, földgáz) a fotoszintézis tárolt energiáját őrzik.\n\nHátrányok: a termelés napszakhoz és időjáráshoz kötött, ezért tárolás vagy kiegészítő erőmű kell.",
+  "diagram": "solar-angle",
+  "concepts": ["napfénytartam", "napállandó", "besugárzás", "megújuló és nem megújuló energiaforrások"],
+  "processes": [],
+  "examTip": "Érvelős feladatban említsd az előnyöket (megújuló, nincs károsanyag-kibocsátás) és a hátrányokat (időjárásfüggés, tárolás) is.",
+  "selfCheck": [
+    { "q": "Mi a különbség a napelem és a napkollektor között?", "a": "A napelem áramot termel, a napkollektor vizet (hőt) állít elő." },
+    { "q": "Miért napenergia végső soron a kőszén energiája is?", "a": "Mert a szén egykori növények fotoszintézissel tárolt energiáját őrzi." }
+  ],
+  "trueFalse": [
+    { "statement": "A szélenergia közvetetten a Nap energiájából származik.", "true": true },
+    { "statement": "A napenergia-hasznosítás az Egyenlítő menti esőerdőkben a leggazdaságosabb.", "true": false, "correction": "Az esőerdőkben sok a felhő, rövidebb a napfénytartam; a térítői sivatagok és a mediterrán térség a legkedvezőbb." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--e1",
+  "explanation": "A hőmérsékletet a hajlásszögön kívül sok tényező módosítja. Emelt szinten tudnod kell mindegyik szerepét.\n\n- Tengerszint feletti magasság: átlagosan 0,6 °C-os csökkenés 100 méterenként. Ezért havas a Kilimandzsáró csúcsa az Egyenlítő közelében.\n- Óceántól való távolság: a víz lassan melegszik és hűl, ezért a partvidéken kiegyenlített, a kontinens belsejében szélsőséges a hőmérséklet.\n- Tengeráramlások: a meleg Golf-áramlás enyhíti Nyugat-Európát, a hideg áramlások hűtik a partot.\n- Felszín albedója: a hó és a jég sokat visszaver, kevésbé melegszik; a sötét talaj és az erdő többet nyel el.\n- Lejtőkitettség: a déli lejtő melegebb az északinál.\n- Felhőzet: nappal árnyékol, éjjel csökkenti a lehűlést.\n- Napfénytartam és nappalhossz.\n- Növényzet és beépítettség: a város melegebb (városi hősziget).\n\nKülönleges eset a fordított hőrétegződés (inverzió): derült, szélcsendes téli éjszakán a hideg levegő a medencékben gyűlik össze, a hegytető melegebb, mint a völgy.",
+  "diagram": "greenhouse",
+  "concepts": ["felmelegedés és lehűlés", "lejtőkitettség", "sugárzás-visszaverő képesség (albedó)", "fordított hőrétegződés (hőmérsékleti inverzió)", "napfénytartam"],
+  "processes": [],
+  "examTip": "Tipikus feladat: két azonos szélességű város eltérő hőmérsékletét kell indokolni – keresd a magasságot, a tengertől való távolságot és a tengeráramlást.",
+  "selfCheck": [
+    { "q": "Mennyivel hidegebb egy 1500 m magasan fekvő hely, mint egy 0 m-es, ha más tényező nem hat?", "a": "Kb. 9 °C-kal (15 × 0,6 °C)." },
+    { "q": "Mikor alakul ki fordított hőrétegződés?", "a": "Derült, szélcsendes (főként téli, anticiklonos) éjszakákon, medencékben, völgyekben." }
+  ],
+  "trueFalse": [
+    { "statement": "A friss hó sugárzás-visszaverő képessége nagy, ezért kevésbé melegszik fel.", "true": true },
+    { "statement": "A tengerparti területek évi hőingása nagyobb, mint a kontinensek belsejéé.", "true": false, "correction": "A tenger kiegyenlítő hatása miatt a partvidékek évi hőingása kisebb, a kontinens belsejében nagyobb." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-2-a-levego-felmelegedese--e2",
+  "explanation": "A hőmérséklet főként a mezőgazdaság, az energiaigény és a turizmus szempontjából fontos.\n\n- Tenyészidőszak: az év azon része, amikor a napi középhőmérséklet tartósan meghaladja a növények fejlődéséhez szükséges küszöböt (általában 10 °C). A sarkok felé és felfelé rövidül.\n- Hőösszeg: a tenyészidőszak napi középhőmérsékleteinek összege. Minden növénynek meghatározott hőösszeg kell a beéréshez – ezért nem termesztenek gazdaságosan kukoricát vagy szőlőt Észak-Európában.\n- Napfénytartam: a napsütéses órák száma, a cukortartalomhoz (szőlő, gyümölcs) fontos.\n- Fagyosszentek: május közepi hideg betörés, késő tavaszi fagyot okozhat – a kertészek csak utána ültetnek ki palántát.\n- Vénasszonyok nyara: szeptember végi–októberi száraz, napos, meleg időszak (anticiklon), kedvez a szüretnek.\n- Lejtőkitettség: déli lejtőn szőlő (Tokaj, Badacsony).\n- Fordított hőrétegződés: a völgyekben fagykárt okozhat, ezért a gyümölcsösöket a lejtőkre telepítik.\n\nA hőmérséklet a fűtési és hűtési energiaigényt is meghatározza.",
+  "diagram": null,
+  "concepts": ["tenyészidőszak", "hőösszeg", "napfénytartam", "„fagyosszentek”", "„vénasszonyok nyara”", "lejtőkitettség"],
+  "processes": [],
+  "examTip": "A tenyészidőszakot és a hőösszeget gyakran együtt kérdezik: az első egy időtartam, a második egy összeg (°C).",
+  "selfCheck": [
+    { "q": "Mi a hőösszeg?", "a": "A tenyészidőszak napi középhőmérsékleteinek összege." },
+    { "q": "Miért veszélyesek a fagyosszentek a kertészetnek?", "a": "Mert május közepén hideg levegő betörése késő tavaszi fagyot okozhat, ami elpusztítja a palántákat, virágokat." }
+  ],
+  "trueFalse": [
+    { "statement": "A tenyészidőszak hossza a földrajzi szélesség növekedésével csökken.", "true": true },
+    { "statement": "A vénasszonyok nyara tavaszi lehűlés, amelyet sarki levegő betörése okoz.", "true": false, "correction": "A vénasszonyok nyara ősz eleji (szeptember végi–októberi) száraz, napos, meleg időszak; a tavaszi lehűlés a fagyosszentek." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k1",
+  "explanation": "A légnyomás az a nyomás, amelyet a felettünk lévő levegőoszlop súlya fejt ki egységnyi felületre. Mértékegysége a hektopascal (hPa). Tengerszinten átlagosan kb. 1013 hPa.\n\nFontos tudnivalók:\n- A magassággal a légnyomás csökken, mert egyre kisebb levegőoszlop van felettünk, és ritkább a levegő. Ezért nehezebb a légzés a magas hegyekben.\n- Az időjárási térképeken a tengerszintre átszámított légnyomást ábrázolják, hogy a helyek összehasonlíthatók legyenek.\n\nAz izobár az azonos légnyomású pontokat összekötő vonal a térképen.\n- Zárt izobárok középen magas nyomással: anticiklon (M vagy H betű).\n- Zárt izobárok középen alacsony nyomással: ciklon (A vagy L betű).\n- Sűrűn futó izobárok nagy nyomáskülönbséget, vagyis erős szelet jeleznek; ritkák gyenge szelet.\n\nA légnyomást barométerrel mérik.",
+  "diagram": "cyclone",
+  "concepts": ["légnyomás", "izobár", "időjárási térkép"],
+  "processes": ["ciklon-anticiklon"],
+  "examTip": "Térképes feladatnál: ahol sűrűbbek az izobárok, ott erősebb a szél – ezt gyakran kérdezik.",
+  "selfCheck": [
+    { "q": "Mi az izobár?", "a": "Az azonos légnyomású pontokat összekötő vonal." },
+    { "q": "Miért csökken a légnyomás a magassággal?", "a": "Mert kisebb a felettünk lévő levegőoszlop, és ritkább a levegő." }
+  ],
+  "trueFalse": [
+    { "statement": "Sűrűn futó izobárok erős szelet jeleznek.", "true": true },
+    { "statement": "A légnyomás a magassággal nő.", "true": false, "correction": "A légnyomás a magassággal csökken, mert egyre kisebb levegőoszlop nehezedik ránk." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k2",
+  "explanation": "A légnyomás változásának fő oka az egyenlőtlen felmelegedés.\n\n- Ahol a felszín erősen felmelegszik, a levegő kitágul, ritkább lesz és felemelkedik → a felszínen alacsony nyomás alakul ki.\n- Ahol a felszín hideg, a levegő összehúzódik, sűrűbb lesz és leszáll → a felszínen magas nyomás alakul ki.\n- Dinamikus okból is változhat: ahol a magasban levegő torlódik és leáramlik (pl. a térítőknél), ott a felszínen magas a nyomás.\n\nA szél a levegő vízszintes áramlása, amely a nyomáskülönbség kiegyenlítésére jön létre: mindig a magasabb nyomású helyről az alacsonyabb nyomású felé fúj. Minél nagyobb a nyomáskülönbség (minél sűrűbbek az izobárok), annál erősebb a szél.\n\nPélda – parti szél (Balaton): nappal a szárazföld gyorsabban melegszik, felette alacsony nyomás lesz, ezért a víz felől fúj a szél. Éjjel fordítva: a szárazföld gyorsabban hűl, a szél a part felől fúj a víz felé.\n\nA szelet mindig arról nevezzük el, ahonnan fúj.",
+  "diagram": "cyclone",
+  "concepts": ["légnyomás", "szél", "izobár", "helyi szelek (parti szél, hegy-völgyi szél, városi szél, főn)"],
+  "processes": [],
+  "examTip": "Az északi szél északról fúj, nem észak felé! A szélirányt mindig a kiindulási irány adja.",
+  "selfCheck": [
+    { "q": "Merre fúj a szél: a magas vagy az alacsony nyomás felé?", "a": "A magas nyomású helyről az alacsony nyomású felé." },
+    { "q": "Miért fúj nappal a tó felől a szél?", "a": "Mert a szárazföld gyorsabban melegszik, felette alacsony nyomás alakul ki." }
+  ],
+  "trueFalse": [
+    { "statement": "Az erősen felmelegedett felszín fölött alacsony légnyomás alakul ki.", "true": true },
+    { "statement": "A déli szél dél felé fúj.", "true": false, "correction": "A szelet arról nevezzük el, ahonnan fúj: a déli szél délről észak felé fúj." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k3",
+  "explanation": "A Föld tengely körüli forgása miatt a mozgó légtömegek nem egyenesen haladnak a nyomáskülönbség irányába, hanem eltérülnek. Ezt a hatást eltérítő erőnek (Coriolis-erőnek) nevezzük.\n\nSzabályok:\n- Az északi félgömbön a mozgás irányához képest jobbra térít.\n- A déli félgömbön balra térít.\n- Hatása az Egyenlítőn nulla, a sarkok felé nő.\n\nKövetkezmények:\n- A passzátszelek a térítők felől az Egyenlítő felé fújnak, de eltérülnek: az északi félgömbön északkeleti, a délin délkeleti szélként.\n- A nyugatias szelek a térítők felől a sarkok felé áramlanak, de kelet felé térülnek, ezért nyugatról fújnak.\n- A ciklonok és anticiklonok forgása is ebből ered: az északi félgömbön a ciklon az óramutató járásával ellentétesen, az anticiklon azzal megegyezően forog.\n- Az Egyenlítő közvetlen közelében nem alakul ki trópusi ciklon, mert ott nincs eltérítő erő.",
+  "diagram": "circulation",
+  "concepts": ["eltérítő erő (Coriolis-erő)", "tengely körüli forgás", "passzátszelek", "nyugatias szelek"],
+  "processes": ["altalanos-legkorzes"],
+  "examTip": "Rajzon az északi félgömbön mindig a haladási irányhoz képest jobbra fordítsd a nyilat – függetlenül attól, merre megy a levegő.",
+  "selfCheck": [
+    { "q": "Merre térít a Coriolis-erő a déli félgömbön?", "a": "A mozgás irányához képest balra." },
+    { "q": "Miért északkeleti a passzát az északi félgömbön?", "a": "Mert az Egyenlítő felé áramló levegőt az eltérítő erő jobbra (nyugat felé) téríti." }
+  ],
+  "trueFalse": [
+    { "statement": "Az eltérítő erő hatása az Egyenlítőn nulla.", "true": true },
+    { "statement": "Az északi félgömbön a ciklon az óramutató járásával megegyező irányban forog.", "true": false, "correction": "Az északi félgömbön a ciklon az óramutató járásával ellentétesen, az anticiklon azzal megegyezően forog." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k4",
+  "explanation": "Az állandó szélrendszerek egész évben azonos irányból fújnak. Kialakításukban két tényező a döntő: az egyenlőtlen felmelegedés miatt létrejövő légnyomási övek és a Föld forgásából eredő eltérítő erő.\n\nA légnyomási övek:\n- Egyenlítői alacsony nyomású öv (felszálló meleg levegő).\n- Térítői magas nyomású öv (kb. 30° körül leszálló levegő).\n- Mérsékelt övezeti alacsony nyomású öv (kb. 60° körül).\n- Sarki magas nyomású terület (hideg, leszálló levegő).\n\nA szélrendszerek:\n- Passzátszelek: a térítőktől az Egyenlítő felé; északon északkeleti, délen délkeleti irányúak. Egyenletesek, száraz területekről érkeznek.\n- Nyugatias szelek: a térítőktől a 60° felé; nyugati, délnyugati irányúak, sok óceáni nedvességet szállítanak (Nyugat-Európa csapadékos).\n- Sarki szelek: a sarkoktól a 60° felé; keleties, hideg, száraz szelek.\n\nAz övek az évszakokkal a Nap merőleges delelését követve észak–dél irányban elmozdulnak.",
+  "diagram": "circulation",
+  "concepts": ["szélrendszer", "passzátszelek", "nyugatias szelek", "sarki szelek", "eltérítő erő (Coriolis-erő)"],
+  "processes": ["altalanos-legkorzes"],
+  "examTip": "Tudd felsorolni sorrendben a nyomásöveket az Egyenlítőtől a sarkig (A–M–A–M), és hogy melyik szél melyik kettő között fúj.",
+  "selfCheck": [
+    { "q": "Mely nyomásövek között fújnak a nyugatias szelek?", "a": "A térítői magas és a mérsékelt övezeti (kb. 60°-os) alacsony nyomású öv között." },
+    { "q": "Milyen irányú a passzát a déli félgömbön?", "a": "Délkeleti." }
+  ],
+  "trueFalse": [
+    { "statement": "A térítők mentén magas nyomású öv húzódik.", "true": true },
+    { "statement": "A sarki szelek nyugatról fújó meleg, nedves szelek.", "true": false, "correction": "A sarki szelek keleties irányú, hideg, száraz szelek; a nyugatias szelek szállítanak óceáni nedvességet." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k5",
+  "explanation": "A hőmérsékleti (termikus) egyenlítő az a vonal, illetve sáv, ahol adott időszakban a legmagasabb a hőmérséklet a Földön. Nem azonos a földrajzi Egyenlítővel!\n\nFő jellemzői:\n- Évszakosan vándorol: követi a Nap merőleges delelését, júliusban északra, januárban délre tolódik, de késve és kisebb mértékben.\n- Átlagos helyzete kissé az Egyenlítőtől északra van, mert az északi félgömbön több a szárazföld, amely jobban felmelegszik.\n- A szárazföldek fölött nagyobbat mozdul, mint az óceánok fölött.\n\nSzerepe:\n- Itt alakul ki az egyenlítői alacsony nyomású öv, ahová a két félgömb passzátszelei összeáramlanak.\n- A felszálló meleg, nedves levegőből délutáni zenitális esők hullanak.\n- Vándorlása okozza az átmeneti (szavanna) öv esős és száraz évszakának váltakozását.\n- Nyáron Dél-Ázsia fölé húzódva elindítja az indiai nyári monszunt.\n\nVagyis a termikus egyenlítő helyzete magyarázza a forró övezet csapadékjárását.",
+  "diagram": "circulation",
+  "concepts": ["hőmérsékleti (termikus) egyenlítő", "passzátszelek", "forró övezeti (trópusi) monszunszélrendszer", "szavannaéghajlat"],
+  "processes": ["altalanos-legkorzes", "monszun"],
+  "examTip": "Ha a szavanna esős évszakát kell magyarázni, a kulcs: a termikus egyenlítő odavándorol, és vele az alacsony nyomás és a zenitális eső.",
+  "selfCheck": [
+    { "q": "Miért az Egyenlítőtől északra van a termikus egyenlítő átlagos helyzete?", "a": "Mert az északi félgömbön több a szárazföld, amely jobban felmelegszik." },
+    { "q": "Mi alakul ki a termikus egyenlítő mentén?", "a": "Alacsony nyomású öv, felszálló légáramlás és zenitális eső; ide áramlanak a passzátszelek." }
+  ],
+  "trueFalse": [
+    { "statement": "A termikus egyenlítő a Nap merőleges delelését követve évszakosan vándorol.", "true": true },
+    { "statement": "A termikus egyenlítő mindig pontosan a földrajzi Egyenlítőn húzódik.", "true": false, "correction": "A termikus egyenlítő évszakosan vándorol, és átlagosan kissé az Egyenlítőtől északra van." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k6",
+  "explanation": "Az általános légkörzés rajzát lépésekben készítsd el egy földgömb-körön.\n\n1. Húzd be az Egyenlítőt, a két térítőt (kb. 30°) és a 60°-os szélességi köröket.\n2. Jelöld a nyomásöveket: Egyenlítő – alacsony (A), 30° – magas (M), 60° – alacsony (A), sarkok – magas (M).\n3. Rajzold be a felszíni szeleket (mindig M → A irányba), és fordítsd el őket az eltérítő erővel (északon jobbra, délen balra):\n- passzát: északon ÉK, délen DK;\n- nyugatias szelek: északon DNy, délen ÉNy;\n- sarki szelek: keleties.\n4. Oldalt vázolhatod a függőleges cellákat: az Egyenlítőnél felszálló, 30°-nál leszálló, 60°-nál felszálló, a sarkoknál leszálló levegő.\n\nKövetkeztetés az éghajlatra: felszálló levegő → felhő, sok csapadék (esőerdő, 60° körüli ciklonok); leszálló levegő → derült, száraz idő (Szahara, Arab-félsziget, sarkvidék).",
+  "diagram": "circulation",
+  "concepts": ["általános légkörzés (nagy földi légkörzés)", "passzátszelek", "nyugatias szelek", "sarki szelek", "szélrendszer"],
+  "processes": ["altalanos-legkorzes"],
+  "examTip": "A rajzon a nyilak elfordítását ellenőrzik a leginkább: a passzát az északi félgömbön ÉK-ről, a déli félgömbön DK-ről fúj.",
+  "selfCheck": [
+    { "q": "Miért vannak a térítők mentén nagy sivatagok?", "a": "Mert ott leszálló, felmelegedő, száraz levegő és magas nyomás uralkodik." },
+    { "q": "Milyen irányú a nyugatias szél az északi félgömbön?", "a": "Délnyugati." }
+  ],
+  "trueFalse": [
+    { "statement": "Az Egyenlítő mentén felszálló légáramlás miatt sok a csapadék.", "true": true },
+    { "statement": "A 60°-os szélességeken magas nyomású öv és leszálló levegő uralkodik.", "true": false, "correction": "A 60° körül alacsony nyomású öv van, ahol a levegő felszáll, és gyakoriak a ciklonok." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k7",
+  "explanation": "A monszun évszakosan irányt váltó szélrendszer. Oka a szárazföld és az óceán eltérő felmelegedése.\n\nForró övezeti (trópusi) monszun – pl. India:\n- Nyáron a szárazföld erősen felmelegszik, felette alacsony nyomás alakul ki (a termikus egyenlítő északra húzódik). Az Indiai-óceán felől nedves, délnyugati szél fúj → bőséges esők, a Himalája előterében különösen sok csapadék.\n- Télen a szárazföld lehűl, magas nyomás alakul ki; száraz, északkeleti szél fúj az óceán felé → száraz évszak.\n\nMérsékelt övezeti monszun – Kelet-Ázsia (Kína, Japán):\n- Télen a Szibériai-maximumból hideg, száraz északnyugati szél fúj.\n- Nyáron a Csendes-óceán felől meleg, nedves délkeleti szél hoz esőt.\n\nKövetkezmények: a monszungazdálkodás (öntözéses rizs, tea) a nyári esőre épül, ezért itt él az emberiség jelentős része. Ha az eső késik vagy kevés, aszály és éhínség, ha túl sok, pusztító árvíz (Gangesz–Brahmaputra-delta) a következmény.",
+  "diagram": "monsoon",
+  "concepts": ["forró övezeti (trópusi) monszunszélrendszer", "mérsékelt övezeti monszunszélrendszer", "monszungazdálkodás", "hőmérsékleti (termikus) egyenlítő"],
+  "processes": ["monszun"],
+  "examTip": "Mindig nevezd meg a nyomásviszonyokat (hol van alacsony és magas nyomás) mindkét évszakban – a szélirány ebből következik.",
+  "selfCheck": [
+    { "q": "Honnan és milyen irányból fúj Indiában a nyári monszun?", "a": "Az Indiai-óceán felől, délnyugatról; nedves, esőt hoz." },
+    { "q": "Mi okozza a téli monszunt Kelet-Ázsiában?", "a": "A Szibériai-maximum, amelyből hideg, száraz szél fúj az óceán felé." }
+  ],
+  "trueFalse": [
+    { "statement": "Nyáron a dél-ázsiai szárazföld fölött alacsony nyomás alakul ki.", "true": true },
+    { "statement": "Az indiai téli monszun az óceán felől érkező nedves szél.", "true": false, "correction": "A téli monszun a lehűlt szárazföld felől az óceán felé fúj, ezért száraz; a nyári monszun nedves." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k8",
+  "explanation": "A mérsékelt övezeti ciklon és anticiklon a nyugatias szelek övének vándorló légörvényei.\n\nCiklon (alacsony nyomású légörvény):\n- Középen a legalacsonyabb a nyomás, a levegő befelé áramlik és felszáll.\n- Az északi félgömbön az óramutató járásával ellentétesen forog.\n- Kialakulása: a sarki front mentén, ahol a hideg sarki és a meleg trópusi levegő találkozik; a határfelület hullámzik, és örvény jön létre, benne meleg- és hidegfronttal.\n- Fő térségei: kb. 60° körül, pl. Izlandi minimum, Aleuti-szigetek környéke.\n\nAnticiklon (magas nyomású légörvény):\n- Középen a legmagasabb a nyomás, a levegő leszáll és kifelé áramlik.\n- Az északi félgömbön az óramutató járásával megegyezően forog.\n- Kialakulása: leszálló levegő vagy erős lehűlés.\n- Fő térségei: a térítőknél (Azori-maximum) és télen a kontinensek belsejében (Szibériai-maximum).\n\nA ciklonok a nyugatias szelekkel nyugatról kelet felé vonulnak.",
+  "diagram": "cyclone",
+  "concepts": ["mérsékelt övezeti ciklon és anticiklon", "Azori- és Szibériai-maximum", "Izlandi minimum", "nyugatias szelek", "hideg- és melegfront"],
+  "processes": ["ciklon-anticiklon"],
+  "examTip": "Táblázatos összehasonlításra készülj: nyomás, forgásirány, függőleges légmozgás, felhőzet, kialakulási hely.",
+  "selfCheck": [
+    { "q": "Milyen függőleges légmozgás jellemző az anticiklonra?", "a": "Leszálló légmozgás." },
+    { "q": "Hol alakulnak ki a mérsékelt övezeti ciklonok?", "a": "A sarki front mentén, kb. 60° körül, pl. az Izlandi minimum térségében." }
+  ],
+  "trueFalse": [
+    { "statement": "A Szibériai-maximum télen kialakuló anticiklon.", "true": true },
+    { "statement": "A ciklon közepén a levegő leszáll, ezért derült az ég.", "true": false, "correction": "A ciklon közepén a levegő felszáll, lehűl, ezért felhős, csapadékos az idő; leszálló levegő az anticiklonra jellemző." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k9",
+  "explanation": "A ciklonok és anticiklonok vonulása alakítja a mérsékelt övezet, így Magyarország változékony időjárását.\n\nCiklon hatása:\n- A felszálló levegő lehűl, a vízgőz kicsapódik → borult ég, csapadék.\n- Erős a szél, sűrűek az izobárok.\n- Átvonulásakor először melegfront (tartós eső, enyhülés), majd hidegfront (zápor, zivatar, lehűlés, szélerősödés) érkezik.\n- Nyáron hűvösebb, télen enyhébb, csapadékos időt hoz.\n\nAnticiklon hatása:\n- A leszálló levegő felmelegszik, a felhők feloszlanak → derült, száraz, szélcsendes idő.\n- Nyáron kánikula, aszály (pl. az Azori-maximum kiterjedése).\n- Télen erős éjszakai lehűlés, fagy; medencékben fordított hőrétegződés, tartós köd és szmog (pl. a Szibériai-maximum nyúlványa).\n- Nagy napi hőingás.\n\nA vénasszonyok nyara egy ősz eleji anticiklon, a fagyosszentek és a Medárd-nap körüli esős időszak pedig a légtömegek ismétlődő mozgásához köthető.",
+  "diagram": "cyclone",
+  "concepts": ["mérsékelt övezeti ciklon és anticiklon", "időjárás", "fordított hőrétegződés (hőmérsékleti inverzió)", "„vénasszonyok nyara”", "„Medárd-nap”"],
+  "processes": ["ciklon-anticiklon", "frontok"],
+  "examTip": "Az anticiklon időjárása évszakfüggő: nyáron meleg, télen hideg – ezt a különbséget gyakran kérdezik.",
+  "selfCheck": [
+    { "q": "Milyen időt hoz télen egy anticiklon?", "a": "Derült, száraz, hideg időt, erős éjszakai fagyot, medencékben ködöt, inverziót, szmogot." },
+    { "q": "Miért felhős az idő a ciklonban?", "a": "Mert a felszálló levegő lehűl, a vízgőz kicsapódik." }
+  ],
+  "trueFalse": [
+    { "statement": "Az anticiklonban a leszálló levegő felmelegszik, ezért feloszlanak a felhők.", "true": true },
+    { "statement": "Az anticiklon mindig meleg időt hoz.", "true": false, "correction": "Az anticiklon nyáron meleg, télen viszont hideg, fagyos, gyakran ködös időt hoz." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--k10",
+  "explanation": "A front két eltérő hőmérsékletű légtömeg határfelülete. A mérsékelt övezeti ciklonban két front alakul ki.\n\nMelegfront:\n- A meleg levegő aktívan nyomul előre, és lassan felsiklik a hideg levegőre.\n- A határfelület enyhe lejtésű, ezért a felhőzet széles sávban, előre jelzi érkezését: pehely- és fátyolfelhő, majd rétegfelhő.\n- Tartós, csendes eső (télen havazás), átvonulása után felmelegedés, csökken a nyomás.\n\nHidegfront:\n- A hideg, sűrű levegő gyorsan nyomul, és ék módjára a meleg levegő alá bukik, azt hirtelen felemeli.\n- A határfelület meredek, keskeny sávban gomoly- és zivatarfelhők képződnek.\n- Heves zápor, zivatar, jégeső, szélroham; átvonulása után lehűlés, nő a nyomás, kitisztul az ég.\n\nÖsszefoglalva: a melegfront lassú, tartós és csendes; a hidegfront gyors, rövid és heves. Ha a gyorsabb hidegfront utoléri a melegfrontot, okklúziós front jön létre.\n\nTérképi jelük: melegfront piros félkörök, hidegfront kék háromszögek.",
+  "diagram": "fronts",
+  "concepts": ["hideg- és melegfront", "mérsékelt övezeti ciklon és anticiklon", "okklúziós front", "felhőfajták (pehely-, fátyol-, réteg-, gomoly-, zivatarfelhő)"],
+  "processes": ["frontok", "ciklon-anticiklon"],
+  "examTip": "Ábrán a hidegfrontot a meredek, a melegfrontot a lankás határfelületről ismered fel; mindig nevezd meg a jellemző felhőt és csapadékot is.",
+  "selfCheck": [
+    { "q": "Milyen felhők jelzik előre a melegfrontot?", "a": "Pehely- és fátyolfelhők, majd rétegfelhő." },
+    { "q": "Milyen időjárás kíséri a hidegfront átvonulását?", "a": "Zápor, zivatar, szélroham, jégeső, majd lehűlés és kitisztulás." }
+  ],
+  "trueFalse": [
+    { "statement": "A hidegfront határfelülete meredekebb, mint a melegfronté.", "true": true },
+    { "statement": "A melegfront átvonulását heves zivatar és lehűlés követi.", "true": false, "correction": "A melegfront tartós, csendes esőt és utána felmelegedést hoz; a heves zivatar és a lehűlés a hidegfrontra jellemző." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--e1",
+  "explanation": "A függőleges és a vízszintes légmozgás egy rendszer két része: ahol a levegő felszáll vagy leszáll, ott a felszínen nyomásváltozás és szél keletkezik.\n\n- Felszálló levegő: a felszínen alacsony nyomás alakul ki, ide áramlik be oldalról a levegő (összeáramlás). A magasban a levegő szétáramlik. A felszálló levegő hűl, felhő és csapadék képződik.\n- Leszálló levegő: a felszínen magas nyomás alakul ki, innen áramlik szét a levegő. A magasban összeáramlás van. A leszálló levegő melegszik, a felhők feloszlanak.\n\nAz így létrejövő zárt kör a termikus légkörzés. Ábrán négy nyíl alkot egy cellát: fel – szét a magasban – le – vissza a felszínen.\n\nPéldák:\n- Parti szél: nappal a szárazföld fölött felszáll, a víz fölött leszáll a levegő, a felszínen a víz felől fúj a szél.\n- Hegy-völgyi szél: nappal a felmelegedett lejtők mentén felfelé (völgyi szél), éjjel a lehűlt lejtőkről lefelé (hegyi szél).\n- Nagy léptékben ugyanez az általános légkörzés cellái és a monszun.",
+  "diagram": "circulation",
+  "concepts": ["szél", "légnyomás", "helyi szelek (parti szél, hegy-völgyi szél, városi szél, főn)", "általános légkörzés (nagy földi légkörzés)"],
+  "processes": ["altalanos-legkorzes", "monszun"],
+  "examTip": "Az ábrán a felszíni és a magaslégköri áramlás mindig ellentétes irányú – ha ezt elrontod, a cella nem zárul.",
+  "selfCheck": [
+    { "q": "Milyen légnyomás alakul ki a felszínen ott, ahol a levegő felszáll?", "a": "Alacsony nyomás." },
+    { "q": "Merre fúj éjjel a hegyi szél?", "a": "A lehűlt lejtőkről lefelé, a völgy felé." }
+  ],
+  "trueFalse": [
+    { "statement": "Leszálló légmozgás fölött a felszínen magas nyomás alakul ki.", "true": true },
+    { "statement": "A felszálló levegő melegszik, ezért feloszlanak a felhők.", "true": false, "correction": "A felszálló levegő hűl, ezért felhő és csapadék képződik; a leszálló levegő melegszik, ott oszlanak fel a felhők." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--e2",
+  "explanation": "Trópusi ciklon: a nagyon meleg (26 °C feletti) trópusi óceánok fölött, főként nyár végén és ősszel alakul ki. Kisebb átmérőjű, mint a mérsékelt övezeti ciklon, de rendkívül alacsony a nyomása. Közepén szélcsendes, derült „szem”, körülötte orkán, felhőszakadás, vihardagály. A szárazföld fölött gyengül.\n- Neve: hurrikán (Karib-tenger, Mexikói-öböl; pl. Katrina, New Orleans, 2005), tájfun (Csendes-óceán nyugati része: Fülöp-szigetek, Japán), ciklon (Indiai-óceán, Bangladesh).\n\nHelyi szelek:\n- Parti szél és hegy-völgyi szél: napi irányváltás az eltérő felmelegedés miatt.\n- Városi szél: a melegebb város felé áramlik a környék hűvösebb levegője.\n- Főn: hegységen átbukó, a szél felőli oldalon csapadékot hullató, a hegy mögött száraz, meleg bukószél (Alpok).\n\nFőn-számítás: 0 m-en 20 °C, 1000 m-ig száraz emelkedés (1 °C/100 m) → 10 °C; innen a 3000 m-es csúcsig nedves (0,5 °C/100 m) → 0 °C; a túloldalon 3000 m-t száraz süllyedés → 30 °C. A hegy mögött 10 °C-kal melegebb és szárazabb a levegő.",
+  "diagram": "foehn",
+  "concepts": ["trópusi ciklon (hurrikán, tájfun)", "helyi szelek (parti szél, hegy-völgyi szél, városi szél, főn)", "tornádó"],
+  "processes": ["fonszel"],
+  "examTip": "A főn-feladatban jelöld, hol kezdődik a kicsapódás: onnan a nedves (0,5 °C/100 m), leszálláskor végig a száraz (1 °C/100 m) értékkel számolj.",
+  "selfCheck": [
+    { "q": "Miért gyengül a trópusi ciklon a szárazföld fölött?", "a": "Mert nem kap utánpótlást a meleg óceán vízgőzéből (energiájából)." },
+    { "q": "Miért meleg és száraz a főn a hegy mögött?", "a": "Mert a csapadék a szél felőli oldalon kihullott, leszálláskor pedig a levegő 1 °C/100 m-rel melegszik." }
+  ],
+  "trueFalse": [
+    { "statement": "A tájfun a Csendes-óceán nyugati részén kialakuló trópusi ciklon.", "true": true },
+    { "statement": "A trópusi ciklon szemében orkán erejű szél és felhőszakadás van.", "true": false, "correction": "A szemben szélcsendes, felhőmentes az idő; az orkán és a felhőszakadás a szem körüli falban tombol." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--e3",
+  "explanation": "A futóáramlás (jet stream) a troposzféra felső részén, a tropopauza közelében nyugatról kelet felé haladó, keskeny, nagyon nagy sebességű légáramlás.\n\nKialakulása: ott jön létre, ahol nagyon eltérő hőmérsékletű légtömegek találkoznak, főként a hideg sarki és a meleg trópusi levegő határán, a sarki front fölött. A nagy hőmérséklet-különbség a magasban nagy nyomáskülönbséget okoz, ezt a Föld forgása kelet felé téríti.\n\nSzerepe:\n- Hullámzó pályája irányítja a mérsékelt övezeti ciklonok és anticiklonok vonulását, így alapvetően befolyásolja Európa időjárását.\n- Ha hullámai „beragadnak”, egy helyen tartós lesz az időjárás: hosszú hőhullám, aszály vagy tartós esőzés, árvíz.\n- Ha mélyen délre hajlik, sarki levegő tör be, ha északra, trópusi meleg érkezik.\n- A repülés kihasználja: a kelet felé tartó járatok (pl. Észak-Amerikából Európába) rövidebb idő alatt érnek célba, nyugat felé kerülik.",
+  "diagram": "circulation",
+  "concepts": ["futóáramlás", "mérsékelt övezeti ciklon és anticiklon", "nyugatias szelek"],
+  "processes": ["altalanos-legkorzes", "ciklon-anticiklon"],
+  "examTip": "Ha azt kérdezik, miért rövidebb a repülőút Amerikából Európába, mint visszafelé – a válasz a nyugatról keletre fújó futóáramlás.",
+  "selfCheck": [
+    { "q": "Milyen magasságban van a futóáramlás?", "a": "A troposzféra felső részén, a tropopauza közelében." },
+    { "q": "Hogyan befolyásolja a futóáramlás az időjárást?", "a": "Irányítja a ciklonok és anticiklonok vonulását; ha beragad, tartós hőség vagy esőzés alakul ki." }
+  ],
+  "trueFalse": [
+    { "statement": "A futóáramlás a sarki front fölött, eltérő hőmérsékletű légtömegek határán alakul ki.", "true": true },
+    { "statement": "A futóáramlás a felszín közelében fújó, keletről nyugatra haladó szél.", "true": false, "correction": "A futóáramlás a troposzféra felső részén, nyugatról kelet felé halad." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-3-a-levego-mozgasa--e4",
+  "explanation": "A monszun magyarázó ábráját két részből álló rajzként készítsd el: egy nyári és egy téli helyzet. Mindkettőn legyen szárazföld (pl. Dél-Ázsia) és óceán (Indiai-óceán).\n\nNyári ábra:\n- Szárazföld: erős felmelegedés, „meleg” jelzés, alacsony nyomás (A), felszálló nyíl, felhő és eső.\n- Óceán: hűvösebb, magas nyomás (M), leszálló nyíl.\n- Felszíni nyíl az óceántól a szárazföld felé: nedves délnyugati monszun.\n\nTéli ábra:\n- Szárazföld: erős lehűlés, magas nyomás (M), leszálló levegő, derült ég.\n- Óceán: melegebb, alacsony nyomás (A).\n- Felszíni nyíl a szárazföldtől az óceán felé: száraz északkeleti monszun.\n\nMérsékelt övezeti változat (Kelet-Ázsia): télen a Szibériai-maximumból hideg ÉNy-i szél, nyáron a Csendes-óceán felől nedves DK-i szél.\n\nEllenőrizd: a felszíni nyíl mindig M-ből A-ba mutat, a magasban fordítva áramlik a levegő, és a csapadék mindig a felszálló ágnál van.",
+  "diagram": "monsoon",
+  "concepts": ["forró övezeti (trópusi) monszunszélrendszer", "mérsékelt övezeti monszunszélrendszer", "Azori- és Szibériai-maximum", "hőmérsékleti (termikus) egyenlítő"],
+  "processes": ["monszun"],
+  "examTip": "A rajzon a pontot a helyes nyomásjelölés, a szélirány és a csapadék helye adja; feliratozd az ábrát (évszak, A/M, szélirány).",
+  "selfCheck": [
+    { "q": "Hol jelölöd nyáron az alacsony nyomást?", "a": "A felmelegedett szárazföld fölött." },
+    { "q": "Milyen irányú a téli monszun Indiában?", "a": "Északkeleti, a szárazföld felől az óceán felé fúj." }
+  ],
+  "trueFalse": [
+    { "statement": "A monszun ábráján a csapadékot a felszálló légáramlás helyére kell rajzolni.", "true": true },
+    { "statement": "Télen a szárazföld fölött alacsony nyomást kell jelölni.", "true": false, "correction": "Télen a lehűlt szárazföld fölött magas nyomás (M) alakul ki, az alacsony nyomás az óceán fölött van." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-4-felho-es-csapadekkepzodes--k1",
+  "explanation": "Ezek a fogalmak egy láncot alkotnak, érdemes együtt megtanulni.\n\n- Tényleges (abszolút) vízgőztartalom: hány gramm vízgőz van 1 m³ levegőben (g/m³).\n- Telítettség: adott hőmérsékleten a levegő csak meghatározott mennyiségű vízgőzt képes befogadni; a meleg levegő többet, a hideg kevesebbet. Ha ezt elérte, telített.\n- Viszonylagos (relatív) vízgőztartalom: a tényleges vízgőztartalom hány százaléka a telítési értéknek. Telített levegőben 100%.\n- Harmatpont: az a hőmérséklet, amelyre lehűlve a levegő telítetté válik.\n- Túltelítettség: ha a levegő a harmatpont alá hűl, több vízgőzt tartalmaz, mint amennyit befogadni képes.\n- Kicsapódás: a fölösleges vízgőz vízcseppé (vagy fagypont alatt jégkristállyá) alakul.\n- Kicsapódási (kondenzációs) mag: por, só, korom részecske, amelyen a kicsapódás megindul.\n\nLényeg: változatlan vízgőzmennyiség mellett lehűléskor nő, melegedéskor csökken a relatív vízgőztartalom. Ezért nyáron a forró Szahara levegője nagyon alacsony relatív páratartalmú.",
+  "diagram": null,
+  "concepts": ["tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom", "telítettség", "túltelítettség", "harmatpont", "kicsapódás", "kicsapódási (kondenzációs) mag"],
+  "processes": ["felho-csapadek"],
+  "examTip": "Gyakori hiba: lehűléskor nem a tényleges, hanem a viszonylagos vízgőztartalom nő – a vízgőz mennyisége nem változik, csak a befogadóképesség csökken.",
+  "selfCheck": [
+    { "q": "Mi a harmatpont?", "a": "Az a hőmérséklet, amelyre lehűlve a levegő telítetté válik." },
+    { "q": "Mi történik a relatív vízgőztartalommal, ha a levegő felmelegszik?", "a": "Csökken (ha a vízgőz mennyisége nem változik)." }
+  ],
+  "trueFalse": [
+    { "statement": "A meleg levegő több vízgőzt képes befogadni, mint a hideg.", "true": true },
+    { "statement": "A telített levegő relatív vízgőztartalma 50%.", "true": false, "correction": "A telített levegő relatív vízgőztartalma 100%." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-4-felho-es-csapadekkepzodes--k2",
+  "explanation": "A felhő és a csapadék akkor képződik, ha a levegő a harmatpontja alá hűl. Ennek leggyakoribb módja a felemelkedés.\n\nA felemelkedés okai:\n- Termikus (konvekciós): a felmelegedett felszín fölött felszáll a levegő (nyári gomolyfelhők, zivatarok).\n- Domborzati: a hegység kényszeríti emelkedésre (Alpok szél felőli oldala).\n- Frontális: a meleg levegő a hideg fölé siklik, vagy a hideg alábukik.\n- Ciklonban a beáramló levegő felszáll.\n\nA folyamat:\n1. A felszálló levegő tágul és hűl: telítetlenül 1 °C-kal, kicsapódás közben kb. 0,5 °C-kal 100 méterenként.\n2. Eléri a harmatpontot, telítetté, majd túltelítetté válik.\n3. A vízgőz kicsapódási magokon apró vízcseppekké vagy jégkristályokká alakul: felhő keletkezik.\n4. A cseppek összeütközéssel, a jégkristályok a vízgőz ráfagyásával nőnek.\n5. Ha elég nehezek, és a feláramlás már nem tartja őket, kihullanak: csapadék.\n\nTehát a csapadékhoz nemcsak felhő, hanem a cseppek megnövekedése is kell.",
+  "diagram": null,
+  "concepts": ["felhő- és csapadékképződés", "harmatpont", "túltelítettség", "kicsapódási (kondenzációs) mag", "felhő"],
+  "processes": ["felho-csapadek"],
+  "examTip": "Az ok–okozati láncot sorrendben írd le: emelkedés → lehűlés → harmatpont → kicsapódás magokon → cseppnövekedés → kihullás.",
+  "selfCheck": [
+    { "q": "Milyen okokból emelkedhet fel a levegő?", "a": "Termikus (konvekciós), domborzati és frontális okból, illetve ciklonban." },
+    { "q": "Miért nem esik minden felhőből eső?", "a": "Mert a cseppeknek meg kell nőniük, hogy kihulljanak; az apró cseppeket a feláramlás lebegésben tartja." }
+  ],
+  "trueFalse": [
+    { "statement": "A felszálló levegő tágul és lehűl.", "true": true },
+    { "statement": "A felhőképződéshez a levegőnek fel kell melegednie a harmatpont fölé.", "true": false, "correction": "A levegőnek a harmatpontjára vagy az alá kell lehűlnie, hogy telítetté váljon és megindulhasson a kicsapódás." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-4-felho-es-csapadekkepzodes--k3",
+  "explanation": "Hulló csapadékfajták (felhőből hullanak):\n- Eső: vízcseppek; a felhőben képződött jégkristályok olvadnak meg a meleg levegőben.\n- Hó: ha a felhőtől a felszínig fagypont alatti a levegő, a jégkristályok hópelyhekké állnak össze.\n- Havas eső: a hópelyhek félig megolvadnak, eső és hó együtt hull.\n- Jégeső: zivatarfelhőben az erős feláramlás többször felragadja a jégszemcséket, ezek rétegesen híznak, majd kihullanak. Nyáron, rövid ideig, nagy károkat okoz.\n- Ónos eső: a fagypont feletti rétegből hulló eső a fagyott felszínre érve azonnal ráfagy – csúszós utak, leszakadó vezetékek.\n- Zápor: gomoly- vagy zivatarfelhőből hirtelen kezdődő, rövid, heves csapadék, gyakran hidegfrontnál.\n\nTalaj menti (felszíni) csapadékfajták (közvetlenül a felszínen csapódnak ki):\n- Harmat: derült éjszakán a lehűlt felszínen vízcseppek, ha a harmatpont 0 °C fölött van.\n- Dér: ugyanez fagypont alatti harmatpontnál, jégkristályok formájában.\n- Zúzmara: a túlhűlt ködcseppek a tárgyakra (fák ágaira) ráfagynak, főként a szél felőli oldalon.",
+  "diagram": null,
+  "concepts": ["hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)", "talaj menti (felszíni) csapadékfajták (harmat, dér, zúzmara)", "köd", "felhő"],
+  "processes": ["felho-csapadek"],
+  "examTip": "Az ónos esőt és a jégesőt gyakran összekeverik: ónos eső télen, a felszínre ráfagyó eső; jégeső nyáron, zivatarfelhőből hulló jégszemek.",
+  "selfCheck": [
+    { "q": "Mi a különbség a harmat és a dér között?", "a": "A harmat 0 °C feletti harmatpontnál vízcsepp, a dér fagypont alatti harmatpontnál jégkristály." },
+    { "q": "Milyen felhőből hullik jégeső?", "a": "Zivatarfelhőből." }
+  ],
+  "trueFalse": [
+    { "statement": "A zúzmara túlhűlt ködcseppek ráfagyásával keletkezik.", "true": true },
+    { "statement": "Az ónos eső nyári zivatarokban hulló jégszemcse.", "true": false, "correction": "Az ónos eső a fagyott felszínre érve ráfagyó eső (télen); a nyári zivatarban hulló jégszem a jégeső." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-4-felho-es-csapadekkepzodes--k4",
+  "explanation": "A csapadék mennyisége és időbeli eloszlása sok gazdasági ágat meghatároz.\n\nKedvező hatások:\n- Mezőgazdaság: a növénytermesztés alapja. A monszunvidékeken a nyári esőre épül az öntözéses rizstermesztés.\n- Vízenergia: a bő csapadékú hegyvidékek folyóin vízerőművek működnek (Norvégia, Alpok).\n- Ivóvíz- és ipari vízellátás: a csapadék táplálja a felszíni és felszín alatti vizeket.\n- Turizmus: a havas Alpok téli sportturizmusa.\n- Hajózás: a folyók vízállása a csapadéktól függ.\n\nKáros hatások:\n- Aszály: a hosszan tartó csapadékhiány terméskiesést, vízhiányt okoz (Alföld, Száhel-övezet).\n- Árvíz, belvíz: a túl sok csapadék elönti a településeket, földeket.\n- Jégeső: elveri a termést (szőlő, gyümölcs) – jégvédelmi hálók, rakéták.\n- Ónos eső, hó: közlekedési balesetek, áramszünet.\n- Alacsony vízállásnál (pl. a Dunán) korlátozni kell a hajózást.\n\nA csapadék időbeli eloszlása legalább annyira fontos, mint az évi összege: a tenyészidőszakban hulló eső a legértékesebb.",
+  "diagram": null,
+  "concepts": ["aszály", "hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)", "monszungazdálkodás"],
+  "processes": [],
+  "examTip": "Ha példákat kérnek, egy kedvező és egy kedvezőtlen hatást is említs, konkrét ágazattal és helyszínnel.",
+  "selfCheck": [
+    { "q": "Miért fontos a csapadék eloszlása, nemcsak a mennyisége?", "a": "Mert a növényeknek a tenyészidőszakban van szükségük vízre." },
+    { "q": "Mondj egy példát a csapadék energiagazdasági jelentőségére!", "a": "A bő csapadékú hegyvidékek (pl. Norvégia) vízerőművei." }
+  ],
+  "trueFalse": [
+    { "statement": "Az aszály terméskiesést okoz.", "true": true },
+    { "statement": "A csapadék gazdasági hatása kizárólag a mezőgazdaságot érinti.", "true": false, "correction": "A csapadék az energiatermelést, a vízellátást, a közlekedést, a hajózást és a turizmust is befolyásolja." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-4-felho-es-csapadekkepzodes--e1",
+  "explanation": "A felhőket alakjuk és magasságuk szerint ismerheted fel.\n\n- Pehelyfelhő: magasan lévő, fehér, rostos, „tollszerű” jégkristályfelhő. Nem ad csapadékot, de gyakran a közeledő melegfront első jele.\n- Fátyolfelhő: magas, vékony, egyenletes fátyol, amelyen át látszik a Nap; körülötte gyakran fényes gyűrű (halo). A melegfront közeledtét jelzi.\n- Rétegfelhő: alacsony vagy közepes magasságú, szürke, egyenletes felhőtakaró. Tartós, csendes esőt, havazást ad – melegfront, téli borult idő.\n- Gomolyfelhő: függőlegesen fejlődő, karfiolszerű, fehér felhő, a felszálló meleg levegőből (konvekció). Napos, nyári délutánokon jellemző; csak ha erősen fejlődik, ad záport.\n- Zivatarfelhő: hatalmas, a troposzféra tetejéig érő, sötét aljú, teteje gyakran üllőszerűen szétterül. Zápor, zivatar, villámlás, jégeső, szélroham kíséri; hidegfrontnál és nyári hőségben gyakori.\n\nAz égbolt figyeléséből így rövid távú előrejelzést is adhatsz.",
+  "diagram": "fronts",
+  "concepts": ["felhőfajták (pehely-, fátyol-, réteg-, gomoly-, zivatarfelhő)", "hideg- és melegfront", "hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)"],
+  "processes": ["felho-csapadek", "frontok"],
+  "examTip": "Fényképes feladatnál a felhőt és a hozzá tartozó időjárást is meg kell adnod – pl. zivatarfelhő → zápor, jégeső, villám, hidegfront.",
+  "selfCheck": [
+    { "q": "Melyik felhők jelzik a közeledő melegfrontot?", "a": "A pehely- és fátyolfelhők." },
+    { "q": "Milyen felhő ad tartós, csendes esőt?", "a": "A rétegfelhő." }
+  ],
+  "trueFalse": [
+    { "statement": "A zivatarfelhő teteje gyakran üllőszerűen szétterül.", "true": true },
+    { "statement": "A pehelyfelhőből gyakran hullik heves zápor.", "true": false, "correction": "A pehelyfelhő magas jégkristályfelhő, nem ad csapadékot; zápor gomoly- vagy zivatarfelhőből hullik." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-4-felho-es-csapadekkepzodes--e2",
+  "explanation": "A vízgőzszámítások mindig a telítési értékből indulnak, amelyet a feladat táblázatból vagy grafikonról ad meg.\n\nKépletek:\n- Relatív vízgőztartalom (%) = tényleges vízgőztartalom / telítési érték × 100.\n- Tényleges vízgőztartalom = telítési érték × relatív % / 100.\n- Kicsapódó vízmennyiség = tényleges vízgőztartalom − az új hőmérséklet telítési értéke (ha az pozitív).\n\nPélda: 25 °C-os levegő 1 m³-ében 11,5 g vízgőz van. A táblázat szerint 25 °C-on a telítési érték 23 g/m³.\n- Relatív vízgőztartalom: 11,5 / 23 × 100 = 50%.\n- A levegő 10 °C-ra hűl, ahol a telítési érték 9,4 g/m³ → 11,5 − 9,4 = 2,1 g víz csapódik ki köbméterenként.\n- A harmatpont az a hőmérséklet, ahol a telítési érték éppen 11,5 g/m³ – ezt a táblázatból olvasod ki (kb. 13 °C).\n\nA felszálló levegő hőmérsékletét a magasságból számolhatod: telítetlenül 1 °C, kicsapódáskor 0,5 °C csökkenés 100 méterenként.",
+  "diagram": null,
+  "concepts": ["tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom", "harmatpont", "telítettség", "kicsapódás"],
+  "processes": ["felho-csapadek", "fonszel"],
+  "examTip": "Ellenőrizd az eredményt: a relatív vízgőztartalom nem lehet 100%-nál nagyobb, és lehűléskor csak akkor van kicsapódás, ha a harmatpont alá hűlt a levegő.",
+  "selfCheck": [
+    { "q": "Mennyi a relatív vízgőztartalom, ha 8 g/m³ vízgőz van, és a telítési érték 16 g/m³?", "a": "8 / 16 × 100 = 50%." },
+    { "q": "Mennyi víz csapódik ki 1 m³-ből, ha 12 g vízgőz van, és lehűlés után a telítési érték 9 g/m³?", "a": "12 − 9 = 3 g." }
+  ],
+  "trueFalse": [
+    { "statement": "Ha a levegő tényleges vízgőztartalma eléri a telítési értéket, a relatív vízgőztartalom 100%.", "true": true },
+    { "statement": "Ha egy 20 g/m³ telítési értékű levegő 10 g/m³ vízgőzt tartalmaz, a relatív vízgőztartalma 200%.", "true": false, "correction": "Fordítva kell osztani: 10 / 20 × 100 = 50%." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--k1",
+  "explanation": "Először a fogalmakat tisztázd:\n- Idő: a légkör állapota egy adott helyen és pillanatban.\n- Időjárás: az idő változásainak sorozata rövidebb időszakban (napok, hetek).\n- Éghajlat (klíma): egy terület hosszú idő (általában 30 év) alatt jellemző időjárási állapotainak összessége, átlagai és szélsőségei.\n\nAz időjárási és éghajlati elemek ugyanazok a mérhető tulajdonságok:\n- hőmérséklet,\n- légnyomás,\n- szél (irány és sebesség),\n- vízgőztartalom (páratartalom),\n- felhőzet,\n- csapadék,\n- napfénytartam (napsugárzás).\n\nA különbség az, hogy az időjárásnál pillanatnyi vagy rövid távú értékekről, az éghajlatnál sokéves átlagokról és szélsőértékekről (pl. évi középhőmérséklet, évi csapadékösszeg) beszélünk.\n\nAz éghajlatot alakító tényezőket (földrajzi szélesség, tengertől való távolság, domborzat, tengeráramlások) ne keverd össze az elemekkel!",
+  "diagram": "climate-chart",
+  "concepts": ["idő", "időjárás", "éghajlat (klíma)", "időjárási és éghajlati elemek"],
+  "processes": [],
+  "examTip": "Gyakori csapda: a „földrajzi szélesség” nem éghajlati elem, hanem éghajlat-alakító tényező.",
+  "selfCheck": [
+    { "q": "Sorolj fel öt időjárási elemet!", "a": "Hőmérséklet, légnyomás, szél, csapadék, felhőzet (továbbá páratartalom, napfénytartam)." },
+    { "q": "Mi a különbség az időjárás és az éghajlat között?", "a": "Az időjárás rövid távú változás, az éghajlat hosszú idő (kb. 30 év) átlagos és szélső állapota." }
+  ],
+  "trueFalse": [
+    { "statement": "A légnyomás időjárási és éghajlati elem is.", "true": true },
+    { "statement": "A tengertől való távolság éghajlati elem.", "true": false, "correction": "A tengertől való távolság éghajlat-alakító tényező; az éghajlati elemek a mérhető jellemzők (hőmérséklet, csapadék, szél stb.)." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--k2",
+  "explanation": "Az időjárás-előrejelzés a légkör várható állapotát adja meg mérések (meteorológiai állomások, műholdak, radarok) és számítógépes modellek alapján. Magyarországon a HungaroMet (korábban Országos Meteorológiai Szolgálat) készíti.\n\nJelentősége a mindennapokban:\n- Öltözködés, programok, utazás tervezése.\n- Figyelmeztetés veszélyes időjárásra (zivatar, viharos szél, ónos eső, hőség), ami életeket menthet.\n- Egészség: hőségriasztás, frontérzékenyeknek figyelmeztetés, pollen- és UV-előrejelzés.\n\nJelentősége a gazdaságban:\n- Mezőgazdaság: vetés, permetezés, betakarítás időzítése; fagyvédelem.\n- Közlekedés: repülés, hajózás (balatoni viharjelzés), téli útkarbantartás (sózás).\n- Energiagazdaság: a várható fogyasztás (fűtés, hűtés) és a nap- és szélerőművek termelésének tervezése.\n- Építőipar, turizmus, rendezvényszervezés, katasztrófavédelem.\n\nMinél rövidebb távra szól, annál pontosabb: a néhány napos előrejelzés megbízható, a hosszú távú csak tendenciát jelez.",
+  "diagram": null,
+  "concepts": ["időjárás-előrejelzés", "időjárási veszélyhelyzetek", "időjárás"],
+  "processes": [],
+  "examTip": "Mindig konkrét gazdasági ágazattal és tevékenységgel válaszolj (pl. a mezőgazdaságban a permetezés időzítése).",
+  "selfCheck": [
+    { "q": "Miért fontos az előrejelzés az energiagazdaságban?", "a": "Mert segít tervezni a fogyasztást (fűtés, hűtés) és a nap- és szélerőművek termelését." },
+    { "q": "Milyen adatokra épül az előrejelzés?", "a": "Állomási, műholdas és radaros mérésekre, számítógépes modellekre." }
+  ],
+  "trueFalse": [
+    { "statement": "A rövid távú előrejelzés pontosabb, mint a hosszú távú.", "true": true },
+    { "statement": "Az időjárás-előrejelzés csak a mezőgazdaság számára fontos.", "true": false, "correction": "A közlekedés, az energiagazdaság, az építőipar, a turizmus és a katasztrófavédelem is épít rá." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--k3",
+  "explanation": "Az éghajlati diagram egy állomás havi középhőmérsékletét (vonal, bal tengely) és havi csapadékösszegét (oszlop, jobb tengely) mutatja.\n\nÍgy elemezd:\n- Hőmérséklet: mennyi a legmelegebb és leghidegebb hónap, mekkora az évi közepes hőingás, van-e 0 °C alatti hónap.\n- Félgömb: ha júliusban a legmelegebb, északi; ha januárban, déli félgömb.\n- Csapadék: évi összeg, és hogy mikor hullik. Nyári maximum: monszun vagy szárazföldi éghajlat; téli maximum: mediterrán; egyenletes: óceáni; minimális: sivatag.\n- Ebből következtetsz az éghajlatra: pl. egész évben 25 °C körül, sok eső → egyenlítői; enyhe, csapadékos tél, száraz, forró nyár → mediterrán (Róma).\n\nDiagram szerkesztése: arányos skála, a 0 °C vonal jelölése, oszlopok középre a hónapokhoz, tengelyfeliratok és mértékegység.\n\nTematikus térképen (izotermák, csapadéktérkép) a jelkulcsot olvasd le, és keresd a módosító tényezőket: a hegységek szél felőli oldala csapadékos, a szélárnyék száraz.\n\nSzöveges forrásnál emeld ki az éghajlati elemekre utaló adatokat.",
+  "diagram": "climate-chart",
+  "concepts": ["éghajlat (klíma)", "időjárási és éghajlati elemek", "izoterma", "évi közepes hőingás", "mediterrán éghajlat"],
+  "processes": [],
+  "examTip": "Az éghajlati diagram felismerésénél először a félgömböt, aztán a hőmérsékletet, végül a csapadék évi eloszlását vizsgáld – ez a biztos sorrend.",
+  "selfCheck": [
+    { "q": "Mire utal a téli csapadékmaximum és a száraz nyár?", "a": "Mediterrán éghajlatra." },
+    { "q": "Hogyan dönthető el a diagramból a félgömb?", "a": "A legmelegebb hónapból: július → északi, január → déli félgömb." }
+  ],
+  "trueFalse": [
+    { "statement": "Az éghajlati diagramon a csapadékot oszlopok jelzik.", "true": true },
+    { "statement": "Ha a legmelegebb hónap a január, az állomás az északi félgömbön van.", "true": false, "correction": "Januári hőmérsékleti maximum a déli félgömbre utal, ahol ekkor nyár van." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--k4",
+  "explanation": "Időjárási térképen (szinoptikus térkép):\n- Izobárok: az azonos nyomású pontokat kötik össze.\n- Ciklon: zárt izobárok, középen A (nemzetközileg L) betű, alacsony nyomás.\n- Anticiklon: zárt izobárok, középen M (vagy H) betű, magas nyomás.\n- Frontok: melegfront – piros vonal félkörökkel; hidegfront – kék vonal háromszögekkel; okklúziós front – lila vonal félkörökkel és háromszögekkel. A jelek a mozgás irányába mutatnak.\n- Sűrű izobárok: erős szél.\n\nMűholdfelvételen:\n- A felhők fehérek, a felhőmentes területek sötétek.\n- Ciklon: spirálisan feltekeredő felhőzet; a frontok hosszú, keskeny felhősávként látszanak.\n- Anticiklon: nagy kiterjedésű, felhőmentes terület (télen a medencékben ködfolt lehet).\n- Trópusi ciklon: kerek, sűrű felhőörvény, középen jól látható „szemmel”.\n- Zivatarfelhők: fényes, kerekded, éles szélű foltok.\n\nGyakorlásként nézz meg néhány valódi időjárási térképet és műholdképet egymás mellett – így látod, hogyan felel meg a front a felhősávnak.",
+  "diagram": "fronts",
+  "concepts": ["időjárási térkép", "izobár", "mérsékelt övezeti ciklon és anticiklon", "hideg- és melegfront", "okklúziós front", "trópusi ciklon (hurrikán, tájfun)"],
+  "processes": ["ciklon-anticiklon", "frontok"],
+  "examTip": "A frontjeleket biztosan ismerd: félkör = melegfront, háromszög = hidegfront, mindkettő egy vonalon = okklúziós front.",
+  "selfCheck": [
+    { "q": "Hogyan néz ki a ciklon a műholdképen?", "a": "Spirálisan feltekeredő felhőzetként, frontális felhősávokkal." },
+    { "q": "Mi a hidegfront jele az időjárási térképen?", "a": "Kék vonal háromszögekkel." }
+  ],
+  "trueFalse": [
+    { "statement": "Az anticiklon a műholdképen nagy, felhőmentes területként jelenik meg.", "true": true },
+    { "statement": "A melegfrontot a térképen kék háromszögek jelölik.", "true": false, "correction": "A melegfront jele piros vonal félkörökkel; a kék háromszögek a hidegfrontot jelölik." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--k5",
+  "explanation": "Az előrejelzés szöveges vagy képi (térképes, piktogramos) formában jelenik meg. Tudnod kell kiolvasni és következtetni belőle.\n\nMit olvass ki?\n- Hőmérséklet: minimum és maximum, ebből a napi hőingás.\n- Felhőzet és csapadék: típusa, valószínűsége, mennyisége.\n- Szél: irány és erősség.\n- Figyelmeztetések: sárga, narancs, piros fokozat.\n\nKövetkeztetések az adatokból:\n- Csökkenő légnyomás, erősödő déli szél, egyre vastagabb felhőzet → közeledő ciklon, melegfront, tartós eső.\n- Hirtelen nyomásemelkedés, északnyugati szélfordulás, zápor, lehűlés → átvonult a hidegfront.\n- Emelkedő nyomás, derült ég, szélcsend, nagy napi hőingás → anticiklon; télen éjszakai fagy, köd.\n\nPélda: „Délután északnyugat felől zivatarok, viharos széllökések, majd 8–10 fokos lehűlés.” → hidegfront érkezik; érdemes elhalasztani a vízi programot, rögzíteni a kerti bútorokat.\n\nMindig kapcsold össze az adatot a légköri képződménnyel és a szükséges teendővel.",
+  "diagram": "fronts",
+  "concepts": ["időjárás-előrejelzés", "időjárási térkép", "hideg- és melegfront", "mérsékelt övezeti ciklon és anticiklon", "napi hőingás"],
+  "processes": ["frontok", "ciklon-anticiklon"],
+  "examTip": "Ha egy állomás adatsorát kapod (nyomás, hőmérséklet, szél), keresd a hirtelen változást – az jelzi a front átvonulását.",
+  "selfCheck": [
+    { "q": "Mire utal a hirtelen nyomásemelkedés, lehűlés és zápor?", "a": "Hidegfront átvonulására." },
+    { "q": "Milyen légköri képződményre utal a derült ég, szélcsend és emelkedő nyomás?", "a": "Anticiklonra." }
+  ],
+  "trueFalse": [
+    { "statement": "A csökkenő légnyomás és sűrűsödő felhőzet közeledő ciklonra utal.", "true": true },
+    { "statement": "A hidegfront átvonulása után a légnyomás csökken és felmelegedés következik.", "true": false, "correction": "A hidegfront után a légnyomás emelkedik, és lehűlés következik." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--k6",
+  "explanation": "Az időjárási veszélyhelyzetek gyorsan kialakulnak, és életet, vagyont veszélyeztetnek. Ismerd fel őket és a kísérő jeleiket!\n\nNyári veszélyek:\n- Zivatar: villámlás, felhőszakadás, jégeső, szélroham – hidegfrontnál, tornyosuló zivatarfelhőből.\n- Hőség, hőhullám: tartós anticiklon, kánikula; keringési problémák, kiszáradás.\n- Aszály és erdőtűz: tartós csapadékhiány.\n- Villámárvíz: rövid idő alatt hulló sok csapadék, főként hegyvidéki patakokon.\n\nTéli veszélyek:\n- Ónos eső: a fagyott felszínre ráfagyó eső, jégpáncél utakon, vezetékeken.\n- Hóvihar, hófúvás: erős szél és havazás, elakadnak a járművek.\n- Erős fagy, hideghullám: kihűlés.\n- Köd és szmog: inverziós, anticiklonos helyzetben, rossz látási viszonyok, légszennyezés.\n\nVilágszinten: trópusi ciklonok (hurrikán, tájfun) vihardagállyal, tornádók (pl. az USA Nagy-síkságán), monszunárvizek.\n\nMagyarországon a meteorológiai szolgálat színkódos figyelmeztetéseket ad ki, a Balatonon fényjelzéses viharjelzés működik.",
+  "diagram": null,
+  "concepts": ["időjárási veszélyhelyzetek", "tornádó", "trópusi ciklon (hurrikán, tájfun)", "aszály", "hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)"],
+  "processes": ["frontok"],
+  "examTip": "Ha egy képen vagy leírásban kell felismerned a veszélyt, nevezd meg a kiváltó légköri képződményt is (pl. zivatar → hidegfront, hőség → anticiklon).",
+  "selfCheck": [
+    { "q": "Milyen légköri helyzetben alakul ki a hőhullám?", "a": "Tartós anticiklonban." },
+    { "q": "Miért veszélyes az ónos eső?", "a": "Mert jégpáncélt képez az utakon és a vezetékeken: csúszás, balesetek, áramszünet." }
+  ],
+  "trueFalse": [
+    { "statement": "A zivatarokat gyakran hidegfront átvonulása kíséri.", "true": true },
+    { "statement": "A téli szmog jellemzően szeles, ciklonos időben alakul ki.", "true": false, "correction": "A téli szmog szélcsendes, anticiklonos, inverziós helyzetben alakul ki, amikor a szennyezés nem tud elkeveredni." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--k7",
+  "explanation": "A megelőzés kulcsa a figyelmeztetések követése és a felelős viselkedés – magadért és másokért is.\n\nZivatar, villám:\n- Ne állj magányos fa alá, ne tartózkodj nyílt terepen, hegytetőn, vízben.\n- Balatoni viharjelzésnél: elsőfokúnál ne távolodj el a parttól, másodfokúnál gyere ki a vízből, csónakkal, SUP-pal azonnal térj partra.\n- Rögzítsd a kerti tárgyakat, ne parkolj fák alatt.\n\nHőség:\n- Igyál sok vizet, kerüld a déli napot, ne hagyj gyereket, állatot zárt autóban.\n- Figyelj az idős, beteg rokonokra, szomszédokra.\n\nTéli veszélyek:\n- Ónos eső, hófúvás idején csak indokolt esetben utazz, téli gumi, takaró, teli tank.\n- Szólj, ha hajléktalant látsz a hidegben.\n\nSzmog: korlátozd a szabadtéri sportot, ne égess avart, használj tömegközlekedést.\n\nÁltalános szabályok: kövesd a meteorológiai szolgálat és a katasztrófavédelem jelzéseit, tarts otthon elsősegély-csomagot, elemlámpát, ivóvizet. Mezőgazdasági védekezés: jégvédelmi háló, öntözés, fagy elleni füstölés.\n\nA felelős magatartás azt jelenti, hogy nem kockáztatod a mentők és mások életét felelőtlen viselkedéssel.",
+  "diagram": null,
+  "concepts": ["időjárási veszélyhelyzetek", "időjárás-előrejelzés", "füstköd (szmog)"],
+  "processes": [],
+  "examTip": "Ilyen kérdésnél konkrét, cselekvő javaslatokat írj, és térj ki a másokért vállalt felelősségre (idősek, gyerekek, mentők) is.",
+  "selfCheck": [
+    { "q": "Mit teszel másodfokú viharjelzésnél a Balatonon?", "a": "Azonnal kijövök a vízből, csónakkal, SUP-pal is partra megyek." },
+    { "q": "Mit tehetsz szmogos napon a levegő minőségéért?", "a": "Nem égetek avart, autó helyett tömegközlekedést használok." }
+  ],
+  "trueFalse": [
+    { "statement": "Zivatarban nem szabad magányos fa alá állni.", "true": true },
+    { "statement": "Ónos eső idején a legbiztonságosabb, ha minél többet autózunk, hogy ne fagyjon le a motor.", "true": false, "correction": "Ónos eső idején csak indokolt esetben szabad utazni, mert az utak jégpáncélosak, nagy a balesetveszély." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--e1",
+  "explanation": "Az időjárás változásai az élőlények szervezetére is hatnak.\n\nAz emberre:\n- Frontérzékenység: a frontok átvonulásakor (gyors nyomás- és hőmérsékletváltozás) sokan fejfájást, fáradtságot, ízületi fájdalmat, vérnyomás-ingadozást, alvászavart éreznek. A szívbetegek állapota romolhat.\n- Hőség: keringési terhelés, kiszáradás, hőguta; főként idősekre és kisgyerekekre veszélyes.\n- Hideg: kihűlés, fagyási sérülés, a légúti fertőzések gyakoribbak.\n- Erős napsugárzás: leégés, bőrkárosodás (UV).\n- Napfényhiány (tartós borult, ködös tél): rosszkedv, fáradtság.\n- Pollenszórás: meleg, száraz, szeles időben erősödik, allergiát okoz (parlagfű).\n\nA növényekre és állatokra:\n- Késő tavaszi fagy (fagyosszentek) elfagyasztja a virágokat, rügyeket.\n- Aszály hervadást, terméskiesést okoz; jégeső mechanikai kárt.\n- Az enyhe tél kedvez a kártevők áttelelésének.\n- Az állatok viselkedése is jelez: a fecskék alacsonyan repülnek eső előtt, mert a rovarok is lejjebb szállnak.\n\nEzért adnak ki orvosmeteorológiai és pollen-előrejelzést.",
+  "diagram": null,
+  "concepts": ["időjárás", "hideg- és melegfront", "„fagyosszentek”", "időjárási veszélyhelyzetek"],
+  "processes": ["frontok"],
+  "examTip": "Biológiai hatásnál mindig kösd össze az időjárási okot (front, hőség, fagy) a konkrét élettani következménnyel.",
+  "selfCheck": [
+    { "q": "Mi a frontérzékenység?", "a": "A frontátvonulás okozta panaszok (fejfájás, vérnyomás-ingadozás, ízületi fájdalom) érzékeny embereknél." },
+    { "q": "Hogyan hat a késő tavaszi fagy a gyümölcsösökre?", "a": "Elfagyasztja a virágokat, rügyeket, terméskiesést okoz." }
+  ],
+  "trueFalse": [
+    { "statement": "A hőhullám különösen veszélyes az idősekre és a kisgyerekekre.", "true": true },
+    { "statement": "Az időjárás változásai csak a növényekre hatnak, az emberi szervezetre nem.", "true": false, "correction": "Az emberre is hatnak: frontérzékenység, hőség okozta keringési terhelés, kihűlés, allergia." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-5-az-idojaras-es-az-eghajlat--e2",
+  "explanation": "Egy hely időjárását az határozza meg, hogy az általános légkörzés melyik övében fekszik, és az övek hogyan tolódnak évszakosan.\n\nPéldák:\n- Egyenlítői öv: egész évben felszálló levegő, alacsony nyomás → mindennapos délutáni zenitális eső (Amazonas-medence, Kongó-medence).\n- Térítői öv: leszálló levegő, magas nyomás, passzátszelek → szárazság, sivatag (Szahara).\n- Szavanna: a termikus egyenlítő nyári odavándorlása esős, a passzát uralma száraz évszakot hoz.\n- Mediterrán terület: nyáron a térítői magas nyomás (Azori-maximum) északra húzódik → forró, száraz nyár; télen a nyugatias szelek ciklonjai → enyhe, esős tél.\n- Nyugat-Európa: egész évben a nyugatias szelek, óceáni ciklonok → kiegyenlített, csapadékos idő.\n\nMagyarország a nyugatias szelek övében fekszik, ezért az időjárás változékony, a ciklonok és anticiklonok váltják egymást. Nyáron az Azori-maximum nyúlványa kánikulát, télen a Szibériai-maximum hideg, száraz időt hozhat; az Izlandi minimum és a mediterrán ciklonok csapadékot.",
+  "diagram": "circulation",
+  "concepts": ["általános légkörzés (nagy földi légkörzés)", "Azori- és Szibériai-maximum", "Izlandi minimum", "nyugatias szelek", "hőmérsékleti (termikus) egyenlítő"],
+  "processes": ["altalanos-legkorzes", "ciklon-anticiklon"],
+  "examTip": "A mediterrán éghajlat magyarázata a legkedveltebb kérdés: a nyomásövek nyári északra és téli délre tolódása.",
+  "selfCheck": [
+    { "q": "Miért száraz a mediterrán nyár?", "a": "Mert nyáron a térítői magas nyomású öv (Azori-maximum) északra húzódik a térség fölé." },
+    { "q": "Miért változékony Magyarország időjárása?", "a": "Mert a nyugatias szelek övében fekszik, ahol ciklonok és anticiklonok váltakoznak." }
+  ],
+  "trueFalse": [
+    { "statement": "A Szahara szárazságát a térítői leszálló légáramlás okozza.", "true": true },
+    { "statement": "A mediterrán területen a csapadék főként nyáron hullik.", "true": false, "correction": "A mediterrán területen télen hullik a csapadék a nyugatias szelek ciklonjaiból; a nyár száraz." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-6-a-legszennyezes-kovetkezmenyei--k1",
+  "explanation": "A légszennyező források természetesek és emberiek lehetnek, az érettségin főként az emberi forrásokat kérdezik.\n\nEmberi források:\n- Energiatermelés: szén-, olaj- és gáztüzelésű hőerőművek → szén-dioxid, kén-dioxid, nitrogén-oxidok, por.\n- Közlekedés: gépjárművek, repülés → szén-dioxid, nitrogén-oxidok, szén-monoxid, szénhidrogének, szálló por. A városokban ez a legnagyobb szennyező.\n- Ipar: kohászat, vegyipar, cementgyártás → kén-dioxid, nehézfémek, por, mérgező gázok.\n- Lakossági fűtés: különösen a szén- és fatüzelés, a hulladékégetés a kályhában → korom, szálló por.\n- Mezőgazdaság: állattartás és rizstermesztés → metán; műtrágyázás → nitrogénvegyületek; avar- és tarlóégetés.\n- Hulladéklerakók → metán.\n\nTermészetes források: vulkánkitörés (hamu, kéngázok), erdőtűz, sivatagi por (szaharai por), virágpor.\n\nA szennyező anyag kibocsátása az emisszió, terjedése a transzmisszió, a felszín közelében mérhető koncentrációja az immisszió.",
+  "diagram": null,
+  "concepts": ["légszennyező anyagok", "emisszió", "transzmisszió", "immisszió", "megújuló és nem megújuló energiaforrások"],
+  "processes": [],
+  "examTip": "Minden forráshoz tudj párosítani legalább egy jellemző szennyező anyagot (pl. közlekedés → nitrogén-oxidok, állattartás → metán).",
+  "selfCheck": [
+    { "q": "Melyik a városok legnagyobb légszennyező forrása?", "a": "A közlekedés." },
+    { "q": "Milyen mezőgazdasági forrásból jut metán a légkörbe?", "a": "Az állattartásból (szarvasmarha) és a rizstermesztésből." }
+  ],
+  "trueFalse": [
+    { "statement": "A széntüzelésű hőerőművek jelentős kén-dioxid-kibocsátók.", "true": true },
+    { "statement": "Az immisszió a szennyező anyag kibocsátását jelenti a forrásnál.", "true": false, "correction": "A kibocsátás az emisszió; az immisszió a felszín közelében mérhető szennyezettségi szint." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-6-a-legszennyezes-kovetkezmenyei--k2",
+  "explanation": "Az emberi tevékenység több módon károsítja a levegőburkot.\n\n- Savas csapadék: a kén-dioxid és nitrogén-oxidok kénsavvá, salétromsavvá alakulnak. Erdőpusztulás (pl. Érchegység), tavak elsavanyodása (Skandinávia), épületek, szobrok károsodása. A szennyezés a széllel határokon átjut.\n- Füstköd (szmog): téli (londoni típusú) széntüzelésből, nyári (Los Angeles-i típusú) a közlekedés gázaiból napfény hatására. Légúti, szív- és érrendszeri betegségek; Londonban 1952-ben ezrek haltak meg.\n- Ózonritkulás: freonok → több UV, bőrrák.\n- Az üvegházhatás fokozódása: globális felmelegedés.\n\nTársadalmi-gazdasági következmények: egészségügyi kiadások, munkaidő-kiesés, terméskiesés, műemlékek helyreállítása, turizmus csökkenése.\n\nCsökkentési lehetőségek:\n- Füstgáz-kéntelenítés, porszűrők az erőművekben.\n- Katalizátor, elektromos és tömegközlekedés.\n- Megújuló energiaforrások, energiatakarékosság, hőszigetelés.\n- Nemzetközi egyezmények (Montreali jegyzőkönyv, Párizsi megállapodás).\n- Szmogriadó, határértékek, zöldfelületek.",
+  "diagram": null,
+  "concepts": ["savas csapadék", "savas ülepedés", "elsavanyodás", "füstköd (szmog)", "ózonréteg-elvékonyodás (ózonritkulás)", "légszennyező anyagok"],
+  "processes": ["savas-eso", "ozonreteg", "globalis-felmelegedes"],
+  "examTip": "A kétféle szmogot gyakran táblázatban kell összehasonlítani: évszak, időjárás, forrás, fő szennyezők, jellemző helyszín.",
+  "selfCheck": [
+    { "q": "Mi a különbség a londoni és a Los Angeles-i szmog között?", "a": "A londoni téli, ködös, széntüzelésből (kén-dioxid, korom); a Los Angeles-i nyári, napos, a közlekedés gázaiból fotokémiai úton (ózon)." },
+    { "q": "Hogyan csökkenthető az erőművek kén-dioxid-kibocsátása?", "a": "Füstgáz-kéntelenítéssel, kisebb kéntartalmú tüzelőanyaggal, megújuló energiára váltással." }
+  ],
+  "trueFalse": [
+    { "statement": "A savas csapadék a kibocsátás helyétől távoli országokban is kárt okozhat.", "true": true },
+    { "statement": "A Los Angeles-i szmog téli, ködös időben, széntüzelésből alakul ki.", "true": false, "correction": "Ez a londoni szmog; a Los Angeles-i szmog nyári, napos időben, a közlekedés gázaiból fotokémiai úton jön létre." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-6-a-legszennyezes-kovetkezmenyei--k3",
+  "explanation": "Légszennyezési adatoknál mindig a határértékhez és az időjárási helyzethez viszonyíts.\n\nMire figyelj?\n- Mértékegység: általában µg/m³ (mikrogramm köbméterenként).\n- Szennyező: szálló por (PM10, PM2,5), nitrogén-dioxid, kén-dioxid, ózon, szén-monoxid.\n- Határérték: ha az immisszió túllépi, egészségügyi kockázat van; tartós túllépésnél szmogriadót rendelnek el.\n- Időbeli változás: napon belül a reggeli és esti csúcsforgalom, évszakosan a téli fűtési idény (szálló por) és a nyári napos időszak (talaj közeli ózon).\n- Térbeli különbség: forgalmas belváros, iparvidék vagy völgy, medence – szemben a szeles, nyitott területekkel.\n\nPélda: ha egy budapesti mérőállomáson januárban több napig szélcsendes, ködös időben emelkedik a PM10, az anticiklonos inverziós helyzetre és a fűtésből, közlekedésből eredő szennyezésre utal. Ha egy hidegfront erős széllel megérkezik, az érték gyorsan csökken.\n\nA szennyezés tehát nemcsak a kibocsátástól (emisszió), hanem a terjedéstől (transzmisszió) és az időjárástól is függ.",
+  "diagram": null,
+  "concepts": ["immisszió", "emisszió", "transzmisszió", "füstköd (szmog)", "fordított hőrétegződés (hőmérsékleti inverzió)"],
+  "processes": [],
+  "examTip": "Adatsor-elemzésnél keresd a csúcsokat, és indokold őket egy kibocsátási (forgalom, fűtés) és egy időjárási (szélcsend, inverzió) okkal.",
+  "selfCheck": [
+    { "q": "Miért magasabb télen a szálló por koncentrációja?", "a": "A fűtés miatt több a kibocsátás, és a gyakori inverziós, szélcsendes helyzetben nem keveredik el a szennyezés." },
+    { "q": "Mi csökkentheti gyorsan a szennyezettséget?", "a": "Erős szél, csapadék, például egy hidegfront átvonulása." }
+  ],
+  "trueFalse": [
+    { "statement": "A talaj közeli ózon koncentrációja nyáron, napos időben a legmagasabb.", "true": true },
+    { "statement": "A szennyezettségi szint kizárólag a kibocsátott mennyiségtől függ.", "true": false, "correction": "Az immisszió az időjárástól (szél, inverzió, csapadék) és a szennyezés terjedésétől is függ." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-6-a-legszennyezes-kovetkezmenyei--k4",
+  "explanation": "A társadalmi eredetű éghajlatváltozás oka az üvegházhatás fokozódása.\n\nOkok:\n- Fosszilis energiahordozók (szén, kőolaj, földgáz) égetése: energiatermelés, közlekedés, ipar → szén-dioxid.\n- Erdőirtás (pl. Amazonas-medence): kevesebb a szén-dioxidot megkötő növényzet.\n- Mezőgazdaság: állattartás, rizstermesztés → metán; műtrágya → dinitrogén-oxid.\n- Hulladéklerakók → metán.\nA légkör szén-dioxid-tartalma az ipari forradalom előtti kb. 280 ppm-ről mára 400 ppm fölé nőtt.\n\nKövetkezmények:\n- Emelkedik az átlaghőmérséklet, gyakoribbak a hőhullámok.\n- Olvadnak a gleccserek (Alpok) és a sarki jég, emelkedik a tengerszint → alacsony fekvésű partok, szigetek (Maldív-szigetek, Banglades) veszélyben.\n- Gyakoribbak a szélsőséges időjárási jelenségek: aszály, árvíz, erős viharok.\n- Eltolódnak az éghajlati övezetek, terjed az elsivatagosodás, változik a termeszthető növények köre.\n- Társadalmi hatások: terméskiesés, vízhiány, klímamenekültek, egészségügyi problémák.\n\nVálaszok: kibocsátáscsökkentés (Párizsi megállapodás), megújuló energia, energiahatékonyság, alkalmazkodás.",
+  "diagram": "greenhouse",
+  "concepts": ["az üvegházhatás fokozódása", "globális felmelegedés", "éghajlatváltozás (klímaváltozás)", "üvegházgázok", "erdőirtás", "elsivatagosodás"],
+  "processes": ["globalis-felmelegedes", "uveghazhatas"],
+  "examTip": "Az esszében az ok–folyamat–következmény lánc a pontos: kibocsátás → több üvegházgáz → több hosszúhullámú sugárzás marad vissza → felmelegedés → konkrét következmények.",
+  "selfCheck": [
+    { "q": "Mely emberi tevékenységek növelik a metán mennyiségét?", "a": "Az állattartás, a rizstermesztés és a hulladéklerakók." },
+    { "q": "Miért fenyegeti a felmelegedés a Maldív-szigeteket?", "a": "Mert a jég olvadása és a víz hőtágulása miatt emelkedik a tengerszint, a szigetek alacsonyan fekszenek." }
+  ],
+  "trueFalse": [
+    { "statement": "Az erdőirtás hozzájárul a légkör szén-dioxid-tartalmának növekedéséhez.", "true": true },
+    { "statement": "A globális felmelegedés fő oka az ózonréteg elvékonyodása.", "true": false, "correction": "A fő ok az üvegházgázok (főként szén-dioxid, metán) mennyiségének növekedése; az ózonritkulás külön probléma, az UV-sugárzást növeli." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-6-a-legszennyezes-kovetkezmenyei--e1",
+  "explanation": "Az egyéni tettek kicsinek tűnnek, de milliók döntéseiből áll össze a kibocsátás. Érvelésnél ezt a gondolatot használd.\n\nAz egyén lehetőségei:\n- Közlekedés: gyaloglás, kerékpár, tömegközlekedés, telekocsi; kevesebb repülés.\n- Energia: takarékosság (világítás, fűtés, hűtés), hőszigetelés, napelem, energiatakarékos készülékek.\n- Fűtés: ne égess hulladékot és avart, a nedves fa helyett száraz tűzifát használj.\n- Fogyasztás: helyi, szezonális élelmiszer, kevesebb hús, kevesebb élelmiszer-pazarlás, tartós termékek, javítás, újrahasznosítás.\n- Zöldfelület: fák ültetése, kert gondozása.\n- Közösségi szerepvállalás: tájékozódás, mások figyelmeztetése, részvétel helyi kezdeményezésekben, tudatos választói döntések.\n\nÉrvek a felelősség mellett:\n- A légkör közös erőforrás, a szennyezés határokon átnyúló.\n- A háztartások és a közlekedés kibocsátása jelentős.\n- A fogyasztói igények alakítják a termelést.\n- Példamutatással a környezet is változik.\n\nA légköri egyensúly megőrzése a jövő nemzedékek iránti felelősség – ez a fenntarthatóság lényege.",
+  "diagram": null,
+  "concepts": ["az üvegházhatás fokozódása", "légszennyező anyagok", "éghajlatváltozás (klímaváltozás)", "megújuló és nem megújuló energiaforrások"],
+  "processes": ["globalis-felmelegedes"],
+  "examTip": "Érvelő feladatban fogalmazz meg állítást, indokold, és hozz konkrét, hétköznapi példát – a puszta felsorolás kevés pontot ér.",
+  "selfCheck": [
+    { "q": "Mondj három dolgot, amivel a közlekedés kibocsátását csökkentheted!", "a": "Kerékpár vagy gyaloglás, tömegközlekedés, telekocsi (kevesebb repülés)." },
+    { "q": "Miért fontos az egyéni felelősség, ha a nagy szennyezők az erőművek?", "a": "Mert a háztartások és a közlekedés kibocsátása is jelentős, és a fogyasztói igények alakítják a termelést." }
+  ],
+  "trueFalse": [
+    { "statement": "Az avar és a háztartási hulladék elégetése rontja a levegő minőségét.", "true": true },
+    { "statement": "A légszennyezés csak nagy ipari üzemekből ered, ezért az egyén nem tehet ellene.", "true": false, "correction": "A közlekedés, a lakossági fűtés és a fogyasztás is jelentős forrás, így az egyén is sokat tehet." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-2-6-a-legszennyezes-kovetkezmenyei--e2",
+  "explanation": "Az összetétel változását bemutató adatsorokból a trendet és annak okát kell kiolvasnod.\n\nTipikus adatsorok:\n- Szén-dioxid (Mauna Loa mérései, Hawaii): folyamatos emelkedés (az ipari forradalom előtti kb. 280 ppm-ről 400 ppm fölé). A görbe évente fűrészfogszerűen ingadozik: az északi félgömb nyarán a növényzet több szén-dioxidot köt meg, ezért ilyenkor kissé csökken. Következtetés: fosszilis energiahordozók égetése, fokozódó üvegházhatás.\n- Kén-dioxid Európában: az 1980-as évektől erős csökkenés. Ok: füstgáz-kéntelenítés, a széntüzelés visszaszorulása, iparszerkezet-váltás. Következmény: kevesebb savas csapadék.\n- Freonok: a Montreali jegyzőkönyv után csökkenő kibocsátás, az ózonréteg lassú regenerálódása.\n- Városi szálló por és nitrogén-oxidok: téli csúcsok (fűtés, inverzió), napi csúcs a csúcsforgalomban.\n\nÍgy elemezz: 1) irány (nő, csökken, ingadozik); 2) mértéke és üteme; 3) ok (természetes vagy emberi); 4) következmény a levegő minőségére és az egészségre; 5) intézkedés hatása.",
+  "diagram": null,
+  "concepts": ["az üvegházhatás fokozódása", "légszennyező anyagok", "savas csapadék", "ózonréteg-elvékonyodás (ózonritkulás)", "immisszió"],
+  "processes": ["globalis-felmelegedes", "savas-eso", "ozonreteg"],
+  "examTip": "Ha egy csökkenő adatsort kapsz, keresd a mögötte álló intézkedést (kéntelenítés, egyezmény) – ezzel bizonyítod, hogy a környezetvédelem eredményes lehet.",
+  "selfCheck": [
+    { "q": "Miért ingadozik évente a szén-dioxid-görbe?", "a": "Mert az északi félgömb nyarán a növényzet több szén-dioxidot köt meg, télen kevesebbet." },
+    { "q": "Miért csökkent Európában a kén-dioxid-kibocsátás?", "a": "Füstgáz-kéntelenítés, a széntüzelés visszaszorulása és az iparszerkezet átalakulása miatt." }
+  ],
+  "trueFalse": [
+    { "statement": "A légkör szén-dioxid-tartalma az ipari forradalom óta folyamatosan nő.", "true": true },
+    { "statement": "Európában a kén-dioxid-kibocsátás az 1980-as évek óta folyamatosan nő.", "true": false, "correction": "Európában a kén-dioxid-kibocsátás az 1980-as évek óta erősen csökkent a kéntelenítés és a széntüzelés visszaszorulása miatt." }
+  ],
+  "generated": true, "reviewed": false
+}
+] }

@@ -1,0 +1,113 @@
+{
+  "id": "uveghazhatas",
+  "title": "A levegő felmelegedése és az üvegházhatás",
+  "summary": "A légkör nem közvetlenül a napsugárzástól, hanem főként alulról, a felmelegedett felszín hősugárzásától melegszik fel. Az üvegházgázok visszatartják a felszín hosszúhullámú kisugárzását, ezért a légkör alsó része melegebb, mint üvegházhatás nélkül lenne.",
+  "causes": [
+    "A Napból főként rövidhullámú sugárzás érkezik, amelyen a légkör nagyrészt akadálytalanul átjut.",
+    "A felszín elnyeli a sugárzás egy részét, felmelegszik, és hosszúhullámú (hő)sugárzást bocsát ki.",
+    "A légkör üvegházgázai (vízgőz, szén-dioxid, metán, dinitrogén-oxid) a hosszúhullámú sugárzást jól elnyelik."
+  ],
+  "course": [
+    "A beérkező sugárzás egy részét a felhők, a levegő és a felszín visszaverik; a visszaverés mértéke az albedó.",
+    "A sötét, nedves felszín sok sugárzást nyel el, a hó, a jég és a világos homok sokat ver vissza.",
+    "A felmelegedett felszín kisugárzását az üvegházgázok elnyelik, és egy részét visszasugározzák a felszín felé.",
+    "Így a levegő alulról melegszik fel, ezért a troposzférában a hőmérséklet a magassággal általában csökken."
+  ],
+  "consequences": [
+    "A természetes üvegházhatás nélkül a felszín átlaghőmérséklete jóval fagypont alatti lenne (kb. −18 °C a mai kb. +15 °C helyett).",
+    "Az emberi tevékenység (fosszilis tüzelőanyagok égetése, erdőirtás, rizstermesztés, állattartás) növeli az üvegházgázok mennyiségét: fokozódik az üvegházhatás.",
+    "A fokozódó üvegházhatás globális felmelegedéshez és éghajlatváltozáshoz vezet: olvadnak a gleccserek és a jégtakarók, emelkedik a tengerszint, gyakoribbak a szélsőséges időjárási helyzetek."
+  ],
+  "steps": [
+    {
+      "title": "Rövidhullámú napsugárzás érkezik",
+      "caption": "A Nap felől főként rövidhullámú sugárzás érkezik, amelyet a tiszta levegő nagyrészt átenged. Ezért a levegő a beérkező napsugárzástól közvetlenül alig melegszik.",
+      "icon": "sun"
+    },
+    {
+      "title": "Visszaverődés (albedó) és elnyelődés",
+      "caption": "A sugárzás egy részét a felhők és a felszín visszaverik, a többit a felszín elnyeli. Figyelj: a hó és a jég albedója nagy, a sötét erdőé és a vízfelszíné kicsi.",
+      "icon": "arrow-up"
+    },
+    {
+      "title": "A felszín felmelegszik és hosszúhullámú sugárzást bocsát ki",
+      "caption": "Az elnyelt energia felmelegíti a felszínt, amely hosszúhullámú hősugárzást bocsát ki. Ez melegíti fel alulról a levegőt.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Az üvegházgázok elnyelik és visszasugározzák a hőt",
+      "caption": "A vízgőz, a szén-dioxid és a metán elnyeli a felszín hősugárzását, és egy részét visszasugározza a felszín felé. Ez a természetes üvegházhatás teszi lakhatóvá a Földet.",
+      "icon": "layers"
+    },
+    {
+      "title": "Fokozódó üvegházhatás: több üvegházgáz, melegebb légkör",
+      "caption": "Az ipar, a közlekedés, az energiatermelés és az erdőirtás miatt nő az üvegházgázok mennyisége, így több hő marad a légkörben. Ennek következménye a globális felmelegedés.",
+      "icon": "factory"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Grönlandot és az Antarktiszt borító jégtakaró nagy albedója miatt a sugárzás nagy részét visszaveri; olvadásával csökken a visszaverés, ami tovább erősíti a felmelegedést.",
+      "places": [
+        "amerika--tajak--gronland",
+        "fold--egyeb--deli-sarkvidek-antarktisz"
+      ]
+    },
+    {
+      "text": "A Szaharában a felhőtlen ég miatt nappal erős a besugárzás, éjjel pedig erős a kisugárzás, ezért nagy a napi hőingás.",
+      "places": [
+        "afrika--tajak--szahara"
+      ]
+    },
+    {
+      "text": "Az Amazonas-medence esőerdőinek irtása és felégetése szén-dioxidot juttat a légkörbe, és csökkenti a szén-dioxid megkötését.",
+      "places": [
+        "amerika--tajak--amazonas-medence"
+      ]
+    }
+  ],
+  "concepts": [
+    "besugárzás",
+    "visszaverődés",
+    "elnyelődés",
+    "kisugárzás",
+    "sugárzás-visszaverő képesség (albedó)",
+    "üvegházhatás",
+    "üvegházgázok",
+    "az üvegházhatás fokozódása",
+    "globális felmelegedés",
+    "éghajlatváltozás (klímaváltozás)"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el, hogyan melegszik fel a levegő, és miért fokozódik napjainkban az üvegházhatás!",
+    "elements": [
+      {
+        "text": "A Napból rövidhullámú sugárzás érkezik, amelyen a légkör nagyrészt átjut.",
+        "points": 1
+      },
+      {
+        "text": "A sugárzás egy részét a felszín és a felhők visszaverik (albedó), a többit a felszín elnyeli.",
+        "points": 2
+      },
+      {
+        "text": "A felmelegedett felszín hosszúhullámú hősugárzást bocsát ki, a levegő alulról melegszik.",
+        "points": 2
+      },
+      {
+        "text": "Az üvegházgázok (vízgőz, szén-dioxid, metán) elnyelik és részben visszasugározzák a hosszúhullámú sugárzást.",
+        "points": 2
+      },
+      {
+        "text": "Az emberi tevékenység (fosszilis tüzelőanyagok égetése, erdőirtás, mezőgazdaság) növeli az üvegházgázok mennyiségét.",
+        "points": 2
+      },
+      {
+        "text": "Következmény: globális felmelegedés, éghajlatváltozás (pl. jégolvadás, tengerszint-emelkedés).",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A Napból főként rövidhullámú sugárzás érkezik, amelyen a légkör nagyrészt akadálytalanul átjut, ezért a levegő közvetlenül alig melegszik. A sugárzás egy részét a felhők és a felszín visszaverik – ennek mértéke az albedó –, a többit a felszín elnyeli és felmelegszik. A felmelegedett felszín hosszúhullámú hősugárzást bocsát ki, így a levegő alulról, a felszín felől melegszik fel. Ezt a hősugárzást az üvegházgázok (vízgőz, szén-dioxid, metán) elnyelik és részben visszasugározzák a felszín felé, ez a természetes üvegházhatás. A fosszilis tüzelőanyagok égetése, az erdőirtás és a mezőgazdaság miatt nő az üvegházgázok mennyisége, ezért fokozódik az üvegházhatás. Ennek következménye a globális felmelegedés és az éghajlatváltozás, például a jégtakarók olvadása és a tengerszint emelkedése."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hold-mozgasa",
+  "title": "A Hold mozgása és a tengerjárás",
+  "summary": "A tengerjárás a világtenger vízszintjének szabályos, naponta kétszeri emelkedése (dagály) és süllyedése (apály). Fő oka a Hold vonzása, amelyet a Nap vonzása erősít vagy gyengít.",
+  "causes": [
+    "A Hold a Föld körül kering, és a Föld körüli útja során vonzza a Föld vízburkát.",
+    "A Holdhoz közelebbi oldalon erősebb, a távolabbin gyengébb a vonzás; a Föld–Hold rendszer közös tömegközéppont körüli mozgásából eredő tehetetlenségi (kirepítő) hatással együtt ez két dagályhullámot hoz létre.",
+    "A Nap vonzása is hat a vízburokra, de a nagy távolság miatt kisebb mértékben, mint a Holdé."
+  ],
+  "course": [
+    "A Hold felőli oldalon és a Föld ellentétes oldalán is kidudorodik a víz (dagály), a kettő között apály van.",
+    "A Föld forgása miatt egy tengerparti hely naponta kétszer kerül dagályba és kétszer apályba.",
+    "Mivel a Hold közben továbbhalad a pályáján, a dagály naponta kb. 50 perccel később érkezik.",
+    "Újholdkor és holdtöltekor a Nap és a Hold hatása összeadódik (szökőár), első és utolsó negyedkor gyengíti egymást (vakár)."
+  ],
+  "consequences": [
+    "A tengerjárás mértéke a nyílt óceánon kicsi, de a tölcsértorkolatokban, beszűkülő öblökben több méter is lehet.",
+    "A beltengerekben (pl. Földközi-tenger) a tengerjárás alig érzékelhető.",
+    "A dagály segítheti a hajózást, az ár-apály energiája pedig árapály-erőművekben hasznosítható.",
+    "A tengerjárás formálja a partokat: tölcsértorkolatokat alakít ki, és a part menti élővilág alkalmazkodik az apály-dagály váltakozásához."
+  ],
+  "steps": [
+    { "title": "A Hold vonzása dagályhullámot emel", "caption": "A Hold felé eső oldalon a vonzás a legerősebb, itt kidudorodik a víz: dagály van. A két dagályhullám között apály alakul ki.", "icon": "waves" },
+    { "title": "A Föld túloldalán is dagály van", "caption": "A Holdtól legtávolabbi oldalon a vonzás a leggyengébb, a víz a Föld–Hold rendszer mozgásából adódó tehetetlenség miatt itt is kidudorodik. A Föld forgása miatt ezért naponta kétszer van dagály és kétszer apály.", "icon": "globe" },
+    { "title": "Szökőár: a Nap és a Hold egy irányba húz", "caption": "Újholdkor és holdtöltekor a Nap, a Föld és a Hold egy egyenesbe kerül, vonzásuk összeadódik. Ilyenkor a legnagyobb a különbség dagály és apály között.", "icon": "arrow-up" },
+    { "title": "Vakár: a Nap és a Hold derékszögben áll", "caption": "Első és utolsó negyedkor a Nap és a Hold vonzása derékszögben hat, részben kioltják egymást. Ilyenkor a legkisebb a tengerjárás.", "icon": "arrow-down" }
+  ],
+  "examples": [
+    { "text": "A La Manche francia partjain a tengerjárás különösen nagy, itt működik az egyik első árapály-erőmű.", "places": ["europa--vizrajz--la-manche", "europa--orszagok--franciaorszag"] },
+    { "text": "Az Északi-tenger partjain szökőár és viharos szél egybeesésekor vihardagály fenyeget, ezért Hollandia gátrendszerrel védekezik.", "places": ["europa--vizrajz--eszaki-tenger", "europa--orszagok--hollandia"] },
+    { "text": "A Földközi-tenger zárt beltenger, ezért ott a tengerjárás alig észrevehető.", "places": ["europa--vizrajz--foldkozi-tenger"] }
+  ],
+  "concepts": [
+    "Hold",
+    "tengerjárás",
+    "dagály",
+    "apály",
+    "szökőár",
+    "vakár",
+    "vihardagály",
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a tengerjárás kialakulását! Térj ki a szökőár és a vakár létrejöttére is!",
+    "elements": [
+      { "text": "A tengerjárás fő oka a Hold vonzása.", "points": 2 },
+      { "text": "A Hold felőli és az ellentétes oldalon is dagály van, közöttük apály.", "points": 2 },
+      { "text": "A Föld forgása miatt naponta kétszer van dagály és kétszer apály.", "points": 1 },
+      { "text": "A Nap vonzása is hat, de kisebb mértékben.", "points": 1 },
+      { "text": "Szökőár újholdkor és holdtöltekor: a Nap, a Föld és a Hold egy egyenesben, hatásuk összeadódik.", "points": 2 },
+      { "text": "Vakár első és utolsó negyedkor: a Nap és a Hold derékszögben áll, hatásuk gyengíti egymást.", "points": 2 }
+    ],
+    "modelAnswer": "A tengerjárás fő oka a Hold vonzása, amely a Föld vízburkát maga felé húzza. A Hold felőli oldalon a vonzás miatt, a Föld ellentétes oldalán a Föld–Hold rendszer mozgásából eredő tehetetlenség miatt dudorodik ki a víz, így két dagályhullám alakul ki, közöttük apály van. A Föld forgása miatt egy tengerparti hely naponta kétszer kerül dagályba és kétszer apályba. A Nap vonzása is hat a vízburokra, de a nagy távolság miatt kisebb mértékben. Újholdkor és holdtöltekor a Nap, a Föld és a Hold egy egyenesbe kerül, hatásuk összeadódik, ekkor szökőár van. Első és utolsó negyedkor a Nap és a Hold derékszögben áll, hatásuk gyengíti egymást, ekkor vakár alakul ki."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,379 @@
+# Térképi geometriák – ellenőrzési jelentés
+
+Lefedettség: **802 / 802** (100.0%).
+
+Források: computed 8 · naturalearth 500 · pb2002 10 · manual 254 · geoboundaries 30.
+
+Ezeket érdemes az iskolai atlasszal összevetni; javítani a Térképszerkesztővel (`?edit=1`) vagy a `scripts/manual-geo/*.geojson` fájlokban lehet.
+
+## Kézzel rajzolt (254)
+
+- Afrikai-ősföld (Föld / Nagyszerkezeti egységek) – medium – Afrika belseje (Atlasz és Fok-hegység nélkül); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Angara-ősföld (Föld / Nagyszerkezeti egységek) – medium – Szibériai kraton a Jenyiszej és a Léna között; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Antarktiszi-ősföld (Föld / Nagyszerkezeti egységek) – medium – Kelet-Antarktisz, a Transzantarktiszi-hegységtől keletre; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Arab-ősföld (Föld / Nagyszerkezeti egységek) – medium – Arab-félsziget nyugati része (Arab–Núbiai-pajzs ázsiai fele); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Balti-ősföld (Föld / Nagyszerkezeti egységek) – medium – Fennoszkandia: Svédország, Finnország, Karélia, Kola; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Brazil-ősföld (Föld / Nagyszerkezeti egységek) – medium – Brazil-felföld az Amazonastól délre; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Dekkán-ősföld (Föld / Nagyszerkezeti egységek) – medium – India félszigeti része (Dekkán); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Guyanai-ősföld (Föld / Nagyszerkezeti egységek) – medium – Guyanai-hegyvidék az Orinoco és az Amazonas között; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Kanadai-ősföld (Föld / Nagyszerkezeti egységek) – medium – Hudson-öböl körüli Kanadai-pajzs (Labrador, Québec, Ontario, Nunavut); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Kínai-ősföld (Föld / Nagyszerkezeti egységek) – medium – Észak-kínai (Kínai–koreai) kraton: Észak-kínai-alföld, Lösz-fennsík K-i része, Koreai-félsziget; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Nyugat-ausztráliai-ősföld (Föld / Nagyszerkezeti egységek) – medium – Nyugat-ausztráliai-ősföld (Yilgarn, Pilbara, Kimberley); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése
+- Eurázsiai-hegységrendszer (Föld / Nagyszerkezeti egységek) – medium – Alpi–himalájai öv: Atlasz, Pireneusok, Alpok, Kárpátok, Dinári- és Balkán-hg., Kaukázus, Zagrosz, Hindukus, Himalája, Indonéz-szigetív; sematikus hegységöv a tankönyvi térkép szerint
+- Kaledóniai-hegységrendszer (Föld / Nagyszerkezeti egységek) – medium – Skandináv-hegység, Skócia–Észak-Írország, Kelet-Grönland; sematikus hegységöv a tankönyvi térkép szerint
+- Pacifikus-hegységrendszer (Föld / Nagyszerkezeti egységek) – medium – Csendes-óceán körüli öv: Andok, Kordillerák, Aleuti-ív, Kamcsatka, Japán, Fülöp-szk., Új-Zéland; az antimeridiánnál kettévágva; sematikus hegységöv a tankönyvi térkép szerint
+- Variszkuszi-hegységrendszer (Föld / Nagyszerkezeti egységek) – medium – Ibériai-rög, Armorikai-, Francia-középhg., Ardennek–Rajnai-palahg., Vogézek–Fekete-erdő, Cseh-medence peremhegységei, Urál, Appalache; sematikus hegységöv a tankönyvi térkép szerint
+- Japán-árok (Föld / Nagyszerkezeti egységek) – medium – az árok tengelye Honsú keleti partjai előtt, É→D
+- Mariana-árok (Föld / Nagyszerkezeti egységek) – medium – ív alakú árok a Mariana-szigetektől keletre; a Challenger-mélység ~142,2°K 11,35°É
+- Észak-atlanti-áramlás (Föld / Tengeráramlások) – medium – meleg; a Golf-áramlás folytatása ÉNy-Európa és Norvégia felé; sematikus útvonal, a folyás irányában
+- Golf-áramlás (Föld / Tengeráramlások) – medium – meleg; Floridai-szoros → USA partja → ~40°É 50°Ny; sematikus útvonal, a folyás irányában
+- Kanári-áramlás (Föld / Tengeráramlások) – medium – hideg; Portugália → Kanári-szk. → ~15°É; sematikus útvonal, a folyás irányában
+- Labrador-áramlás (Föld / Tengeráramlások) – medium – hideg; Baffin-öböl → Labrador partja → Új-Fundland; sematikus útvonal, a folyás irányában
+- Nyugati-szél-áramlás (Föld / Tengeráramlások) – medium – hideg; nyugat→kelet az Antarktisz körül (Antarktiszi cirkumpoláris áramlás), ±180°-nál végződő szakasz; sematikus útvonal, a folyás irányában
+- Benguela-áramlás (Föld / Tengeráramlások) – medium – hideg; Fokföld → Namíbia, Angola partja mentén északra; sematikus útvonal, a folyás irányában
+- Brazíliai-áramlás (Föld / Tengeráramlások) – medium – meleg; Brazília partja mentén délre; sematikus útvonal, a folyás irányában
+- Dél-egyenlítői-áramlás (Föld / Tengeráramlások) – medium – meleg; kelet→nyugat az Egyenlítőtől délre: atlanti, csendes-óceáni (kettévágva) és indiai-óceáni ág; sematikus útvonal, a folyás irányában
+- Észak-egyenlítői-áramlás (Föld / Tengeráramlások) – medium – meleg; kelet→nyugat, csendes-óceáni (az antimeridiánnál kettévágva) és atlanti ág; sematikus útvonal, a folyás irányában
+- Humboldt-áramlás (Föld / Tengeráramlások) – medium – hideg (Perui-áramlás); Chile és Peru partja mentén északra; sematikus útvonal, a folyás irányában
+- Kuro-shio-áramlás (Föld / Tengeráramlások) – medium – meleg; Tajvan → Japán déli partja → kelet felé; sematikus útvonal, a folyás irányában
+- Oja-shio-áramlás (Föld / Tengeráramlások) – medium – hideg; Kamcsatka, Kuril-szk. → Észak-Japán; sematikus útvonal, a folyás irányában
+- Déli-sarkvidék (Antarktisz) (Föld / Egyéb) – high – a déli szélesség 60°-tól délre eső terület (Antarktisz és a Déli-óceán)
+- Északi-sarkvidék (Arktisz) (Föld / Egyéb) – high – az Északi-sarkkörtől (66,56°É) északra eső terület
+- Afrikai-árokrendszer (Afrika / Tájak) – medium – Keleti ág: Afar – Etióp-árok – Turkana – Kenyai-árok; nyugati (Albert-) ág: Albert-tó – Kivu – Tanganyika – Malawi-tó
+- Dél-afrikai-magasföld (Afrika / Tájak) – medium – A Nagy-peremhegység (Drakensberg) által övezett belső fennsík: Highveld, Kalahári-medence, Zimbabwei-magasföld
+- Kelet-afrikai-magasföld (Afrika / Tájak) – medium – Uganda, Kenya és Tanzánia magasföldje az árokágak között és mentén; az Etióp-magasföld nélkül
+- Szudán (Afrika / Tájak) – low – Szudáni szavannaöv kb. É 8–14° között Szenegáltól Etiópiáig (nem az ország); határa átmeneti
+- Száhel (Száhel-öv) (Afrika / Tájak) – medium – Félsivatagi átmeneti öv a Szahara déli peremén, kb. É 12–18°, Szenegáltól Szudánig
+- Teleki-vulkán (Afrika / Tájak) – high – Teleki-vulkán a Turkana-tó déli végénél, Kenya (Teleki Sámuelről elnevezve)
+- Szuezi-csatorna (Afrika / Vízrajz) – high – Port Saidtól a Timsah-tavon és a Keserű-tavakon át Szuezig
+- Asszuáni-gát (asszuáni Nagy-gát) (Afrika / Vízrajz) – high – Asszuáni Nagy-gát a Níluson, a Nasszer-tó északi végén
+- Kordillerák (Amerika / Tájak) – low – Észak-amerikai Kordillerák Alaszkától Mexikóig (Brooks-hg. – Sziklás-hg. – Sierra Madre), a partvonalon belül
+- Mississippi-alföld (Amerika / Tájak) – low – Az alsó Mississippi hordalékos síksága és a Mexikói-öböl menti parti alföld
+- Mount St. Helens (Amerika / Tájak) – high – Mount St. Helens rétegvulkán, Washington állam (1980-as kitörés)
+- Paraná-alföld (Amerika / Tájak) – low – Gran Chaco és Pampa a Paraná–Paraguay mentén, az Andok előtere nélkül
+- Szilícium-völgy (Amerika / Tájak) – medium – Santa Clara-völgy (Sunnyvale – Santa Clara – San José), Kalifornia; a terület középpontja
+- Yellowstone Nemzeti Park (Amerika / Tájak) – medium – Yellowstone NP, főként Wyoming ÉNy-i sarkában (Ny 109,8–111,2°, É 44,1–45,1°)
+- Panama-csatorna (Amerika / Vízrajz) – high – Colóntól (Limón-öböl) a Gatún-tavon és a Culebra-átvágáson át Panamaváros (Balboa) felé
+- Szent Lőrinc-folyó (Amerika / Vízrajz) – medium – Az Ontario-tó kifolyásától (Kingston) Montréalon és Québecen át a Szent Lőrinc-öbölig; a Natural Earth csak egy rövid szakaszt tartalmaz.
+- Itaipu-gát (Amerika / Vízrajz) – high – Itaipu-gát a Paranán, Brazília–Paraguay határán
+- Kráter-tó (Amerika / Vízrajz) – high – Kráter-tó (Crater Lake), Oregon – a Mazama vulkán kalderája
+- Ausztráliai-alföld (Ausztrália és Óceánia / Tájak) – low – Középső-alföld (Central Lowlands): a Carpentaria-öböltől a Murray–Darling-medencéig, a Nagy-Vízválasztó-hegységtől nyugatra; a határ vázlatos.
+- Észak-Ázsia (Ázsia / A földrész részei) – medium – Szibéria: Oroszország az Uráltól keletre; a 180°-on túli csukcs csücsök lehagyva
+- Belső-Ázsia (Ázsia / A földrész részei) – low – Mongólia, Tibet, Tarim- és Dzsungáriai-medence; a Himalája és a Pamír határolja
+- Dél-kínai-hegyvidék (Ázsia / Tájak) – low – A Jangce alsó szakaszától délre: Nanling, Vujiszan, Csiangnani-dombság; a Jünnan–Kujcsou-fennsíktól keletre
+- Iráni-felföld (Ázsia / Tájak) – medium – Zagrosz, Elburz, Kopet-dag, Hindukus, Szulejmán-hg. és a Makrán-part övezte felföld (Irán, Afganisztán, Beludzsisztán)
+- Bering-szoros (Ázsia / Vízrajz) – high – Bering-szoros a Diomédesz-szigeteknél (Dezsnyov-fok és Prince of Wales-fok között)
+- Három-szurdok-gát (Ázsia / Vízrajz) – high – Három-szurdok-gát a Jangcén, Szandoupingnál (Jicsang mellett)
+- Appennini-félsziget (Európa / Tájak) – medium – Pó-alföldtől délre, La Spezia–Rimini vonaltól; Szicília nélkül
+- Bécsi-medence (Európa / Tájak) – medium – Alpok és Kis-Kárpátok között, Bécs–Wiener Neustadt–Záhorie
+- Csallóköz (Európa / Tájak) – medium – Duna és Kis-Duna közti sziget, Pozsony–Révkomárom
+- Cseh-medence (Európa / Tájak) – medium – Érchegység, Szudéták, Cseh–Morva-dombság, Cseh-erdő által közrezárt terület
+- Erdélyi-medence (Európa / Tájak) – medium – Kolozsvár–Beszterce–Marosvásárhely–Nagyszeben–Gyulafehérvár között
+- Erdélyi-szigethegység (Erdélyi-középhegység) (Európa / Tájak) – medium – Apuseni: Bihar, Gyalui-havasok, Erdélyi-érchegység, Meszes
+- Északkeleti-Kárpátok (Európa / Tájak) – low – Duklai-hágótól a Tisza forrásvidékéig (Ukrajna, Szlovákia, Lengyelország)
+- Északnyugati-Kárpátok (Európa / Tájak) – medium – Nyugati-Kárpátok: Kis-Kárpátoktól a Duklai-hágóig (Szlovákia, Dél-Lengyelország)
+- Germán-alföld (Európa / Tájak) – medium – Észak-német-alföld a Középhegységtől az Északi- és Balti-tengerig
+- Hargita (Európa / Tájak) – medium – Vulkáni vonulat Csíki- és Udvarhelyi-medence között
+- Holland-mélyföld (Európa / Tájak) – medium – Hollandia és Flandria alacsony síksága
+- Kelet-európai-síkság (Európa / Tájak) – low – Lengyel határtól az Urálig, Balti- és Fehér-tengertől a Fekete-tengerig
+- Keleti-Alpok (Európa / Tájak) – medium – Bodeni-tó–Rajna–Splügen–Comói-tó vonaltól keletre, Bécsi-medencéig
+- Keleti-Kárpátok (Európa / Tájak) – medium – Románia: Tisza-forrásvidéktől a Prahova-völgyig (Brassó), belső vulkáni vonulattal
+- Lengyel-alföld (Európa / Tájak) – low – Közép-lengyel síkság a tóhátság és a középhegység között
+- Lengyel-középhegység (Európa / Tájak) – low – Kis-lengyelországi-hátság, Szent-kereszt-hegység, Lublini-hátság
+- Lengyel-tóhátság (Európa / Tájak) – medium – Pomerániai és Mazúriai-tóhátság
+- Londoni-medence (Európa / Tájak) – medium – Temze-medence a Chiltern és North Downs között
+- Magas-Tátra (Európa / Tájak) – medium – Szlovák–lengyel határon, Gerlachfalvi-csúcs
+- Morva-medence (Európa / Tájak) – low – Morva folyó völgye Olomouc–Hodonín között
+- Német-középhegység (Európa / Tájak) – low – Rajnai-palahegységtől az Érchegységig, Harz, Türingiai-erdő
+- Nyugati-Alpok (Európa / Tájak) – medium – Bodeni-tó–Rajna–Splügen–Comói-tó vonaltól nyugatra
+- Párizsi-medence (Európa / Tájak) – medium – Armorikai-hegyvidék, Ardennek, Vogézek és Francia-középhegység között
+- Pennine-hegység (Pennine) (Európa / Tájak) – medium – Anglia gerince, Peak Districttől a Tyne-ig
+- Pó-alföld (Európa / Tájak) – medium – Alpok és Appenninek között, Torinótól az Adriáig (velencei síksággal)
+- Román-alföld (Európa / Tájak) – medium – Havasalföld: Kárpátok előtere és az Al-Duna között
+- Szilézia (Európa / Tájak) – low – Alsó- és Felső-Szilézia (Odera mente), cseh-sziléziai résszel
+- Stromboli (Európa / Tájak) – high – Vulkáncsúcs, Lipari-szigetek
+- Szent Gotthárd-hágó (Európa / Tájak) – high – Hágó, Svájc (Uri/Ticino)
+- Vaskapu (Európa / Tájak) – high – Duna-áttörés, Kazán-szoros környéke (szerb–román határ)
+- Vereckei-hágó (Európa / Tájak) – high – Hágó, Ukrajna (Kárpátalja/Lviv határa)
+- Duna–Majna–Rajna vízi út (Európa / Vízrajz) – medium – Mainz (Majna-torkolat) → Majna → Bamberg → Majna–Duna-csatorna (Nürnberg) → Kelheim
+- Gyilkos-tó (Európa / Vízrajz) – high – Torlasztó, Békás-szoros mellett
+- Szent Anna-tó (Európa / Vízrajz) – high – Krátertó, Csomád
+- Ohridi-tó (Európa / Vízrajz) – medium – Észak-macedón–albán határtó
+- Poprádi-tó (Európa / Vízrajz) – high – Popradské pleso, Magas-Tátra
+- Délvidék (Európa / Történelmi tájnevek) – medium – Szűkebb értelemben a Vajdaság (Bácska, szerbiai Bánát, Szerémség)
+- Erdély (Európa / Történelmi tájnevek) – low – Történelmi Erdély (Partium és Bánság nélkül)
+- Felvidék (Európa / Történelmi tájnevek) – low – Dél-Szlovákia magyar határ menti sávja, Pozsonytól Kassán át az ukrán határig
+- Muravidék (Európa / Történelmi tájnevek) – medium – Prekmurje, a Murától északra (Szlovénia)
+- Partium (Európa / Történelmi tájnevek) – low – Szatmár, Bihar, Szilágy, Arad (Marostól É), Máramaros része
+- Székelyföld (Európa / Történelmi tájnevek) – medium – Hargita, Kovászna és Maros megye keleti része
+- Beregszász (Európa / Városok) – high – Berehove, Ukrajna
+- Karlovy Vary (Európa / Városok) – high – Karlsbad, Csehország
+- Munkács (Európa / Városok) – high – Mukacseve, Ukrajna
+- Révkomárom (Európa / Városok) – high – Komárno, Szlovákia
+- Székelyudvarhely (Európa / Városok) – high – Odorheiu Secuiesc, Románia
+- Donyec-medence (Európa / Iparvidékek) – medium – Donbász: Donyeck–Luhanszk, Rosztovi terület nyugati része
+- Közép-angliai iparvidék (Európa / Iparvidékek) – low – Birmingham–Black Country–Manchester–Sheffield
+- Olasz ipari háromszög (Európa / Iparvidékek) – medium – Milánó–Torinó–Genova háromszög
+- Ruhr-vidék (Európa / Iparvidékek) – medium – Duisburg–Essen–Bochum–Dortmund–Hamm
+- Alpokalja (Magyarország / Fő tájegységek) – medium – Nyugati határszél: Soproni-hg, Kőszegi-hg, Vasi-hegyhát, Őrség
+- Dunántúli-dombvidék (Magyarország / Fő tájegységek) – medium – Zalai-dombság, Somogy, Mecsek, Tolnai- és Baranyai-dombság
+- Dunántúli-középhegység (Magyarország / Fő tájegységek) – medium – Keszthelyi-hg-től a Budai-hg-ig: Bakony, Vértes, Gerecse, Dunazug-hg, Velencei-hg, Balaton-felvidék
+- Északi-középhegység (Magyarország / Fő tájegységek) – medium – Börzsönytől a Zempléni-hg-ig, a Duna bal partján
+- Kisalföld (Magyarország / Fő tájegységek) – medium – ÉNy-i síkság: Győri-medence, Szigetköz, Hanság, Marcal-medence, Rába-völgy
+- Aggteleki-karszt (Magyarország / Egyéb tájak, területek) – medium – Aggtelek–Jósvafő környéki karsztfennsík
+- Badacsony (Magyarország / Egyéb tájak, területek) – high – Vulkáni tanúhegy a Balaton É-i partján
+- Bakony (Magyarország / Egyéb tájak, területek) – medium – Sümeg–Ajka–Pápa–Zirc–Veszprém–Várpalota között
+- Balaton-felvidék (Magyarország / Egyéb tájak, területek) – medium – A Balaton É-i partja mögötti dombvidék Tapolcától Alsóörsig
+- Baradla-barlang (Magyarország / Egyéb tájak, területek) – high – Aggteleki cseppkőbarlang
+- Baranyai-dombság (Magyarország / Egyéb tájak, területek) – medium – A Mecsek és a Duna között, Pécs–Mohács–Bonyhád
+- Belső-Somogy (Magyarország / Egyéb tájak, területek) – low – Homokos síkság Marcali és a Dráva-sík között; határa elmosódó
+- Bodrogköz (Magyarország / Egyéb tájak, területek) – medium – A Bodrog és a Tisza között
+- Borsodi-medence (Magyarország / Egyéb tájak, területek) – medium – A Sajó-völgy Ózd–Kazincbarcika–Miskolc között
+- Börzsöny (Magyarország / Egyéb tájak, területek) – medium – A Dunakanyartól É-ra, a Duna és az Ipoly között
+- Budai-hegység (Magyarország / Egyéb tájak, területek) – medium – Budapest Ny-i része, a Duna jobb partján
+- Bükk (Magyarország / Egyéb tájak, területek) – medium – Eger és Miskolc között
+- Bükk-fennsík (Magyarország / Egyéb tájak, területek) – medium – A Bükk karsztos fennsíkja a hegység belsejében
+- Csepel-sziget (Magyarország / Egyéb tájak, területek) – medium – A Duna és a Ráckevei (Soroksári)-Duna között
+- Cserehát (Magyarország / Egyéb tájak, területek) – medium – A Sajó és a Hernád között, Miskolctól É-ra
+- Cserhát (Magyarország / Egyéb tájak, területek) – medium – A Börzsöny és a Mátra között
+- Dráva menti síkság (Dráva-mellék) (Magyarország / Egyéb tájak, területek) – medium – Ártéri sík a Dráva bal partján, Barcs–Harkány
+- Duna menti síkság (Magyarország / Egyéb tájak, területek) – medium – A Duna bal parti ártéri síksága Budapesttől a déli határig
+- Duna–Tisza köze (Magyarország / Egyéb tájak, területek) – medium – A Duna és a Tisza közötti síkság Budapesttől D-re
+- Dunakanyar (Magyarország / Egyéb tájak, területek) – medium – A Duna áttörése Esztergom–Visegrád–Vác között
+- Dunazug-hegység (Magyarország / Egyéb tájak, területek) – medium – Budai-hg, Pilis és Visegrádi-hg együtt
+- Gerecse (Magyarország / Egyéb tájak, területek) – medium – Tata–Tatabánya–Esztergom között
+- Gödöllői-dombság (Magyarország / Egyéb tájak, területek) – medium – Gödöllő környéke, Budapesttől K-re
+- Győri-medence (Magyarország / Egyéb tájak, területek) – medium – Győr környéke: Szigetköz, Hanság, Mosoni-sík
+- Hajdúság (Magyarország / Egyéb tájak, területek) – medium – Hajdúszoboszló–Hajdúböszörmény–Hajdúnánás
+- Hortobágy (Magyarország / Egyéb tájak, területek) – medium – Füves puszta Debrecentől Ny-ra, a Tiszáig
+- Írott-kő (Magyarország / Egyéb tájak, területek) – high – A Kőszegi-hg legmagasabb pontja (882 m), a határon; a pont a generalizált határ miatt kissé K-re tolva
+- Jászság (Magyarország / Egyéb tájak, területek) – medium – Jászberény környéke, a Zagyva mentén
+- Keszthelyi-hegység (Magyarország / Egyéb tájak, területek) – medium – Keszthelytől É-ra, a Balaton Ny-i végén
+- Kiskunság (Magyarország / Egyéb tájak, területek) – medium – Kecskemét és a Duna között, homokhátság
+- Körös–Maros köze (Magyarország / Egyéb tájak, területek) – medium – A Körösök és a Maros között, Szentestől DK-re
+- Kőszegi-hegység (Magyarország / Egyéb tájak, területek) – medium – Kőszegtől Ny-ra, az osztrák határon
+- Külső-Somogy (Magyarország / Egyéb tájak, területek) – low – A Balaton D-i partja mögötti dombság Siófok–Tab környékén; határa elmosódó
+- Marcal-medence (Magyarország / Egyéb tájak, területek) – medium – A Marcal völgye Sümegtől Győrig, a Bakonytól Ny-ra
+- Mátra (Magyarország / Egyéb tájak, területek) – medium – Gyöngyös és Salgótarján között; csúcsa a Kékes
+- Mecsek (Magyarország / Egyéb tájak, területek) – medium – Pécstől É-ra
+- Mezőföld (Magyarország / Egyéb tájak, területek) – medium – Székesfehérvár, a Duna és a Sió között
+- Mohácsi-sziget (Magyarország / Egyéb tájak, területek) – medium – Duna-sziget Baja és Mohács között
+- Móri-árok (Magyarország / Egyéb tájak, területek) – medium – Törésvonal a Bakony és a Vértes között, Mór
+- Nagykunság (Magyarország / Egyéb tájak, területek) – medium – Karcag–Kisújszállás–Túrkeve, a Tiszától K-re
+- Nógrádi-medence (Magyarország / Egyéb tájak, területek) – medium – Az Ipoly-völgy és Salgótarján környéke
+- Nyírség (Magyarország / Egyéb tájak, területek) – medium – Homokvidék Nyíregyháza körül
+- Őrség (Magyarország / Egyéb tájak, területek) – medium – Őriszentpéter környéke, a Ny-i határon
+- Pesti-síkság (Magyarország / Egyéb tájak, területek) – medium – A Duna bal parti teraszsíksága Vác és Ráckeve között
+- Pilis (Magyarország / Egyéb tájak, területek) – medium – A Budai-hg és a Visegrádi-hg között
+- Somogyi-dombság (Magyarország / Egyéb tájak, területek) – low – Somogy dombvidéke Kaposvár körül; határa elmosódó
+- Soproni-hegység (Magyarország / Egyéb tájak, területek) – medium – Soprontól DNy-ra, az osztrák határon
+- Szekszárdi-dombság (Magyarország / Egyéb tájak, területek) – medium – Szekszárdtól Ny-ra, a Duna-ártér peremén
+- Szentendrei-sziget (Magyarország / Egyéb tájak, területek) – medium – Duna-sziget Szentendre és Vác között
+- Szigetköz (Magyarország / Egyéb tájak, területek) – medium – A Duna és a Mosoni-Duna között
+- Tapolcai-medence (Magyarország / Egyéb tájak, területek) – medium – Tanúhegyes medence Tapolca körül, Badacsonytól ÉNy-ra
+- Tihanyi-félsziget (Magyarország / Egyéb tájak, területek) – medium – Félsziget a Balaton É-i partján
+- Tiszántúl (Magyarország / Egyéb tájak, területek) – medium – A Tiszától K-re eső országrész
+- Tokaji (Zempléni)-hegység (Magyarország / Egyéb tájak, területek) – medium – Tokaj és Sátoraljaújhely között, a Hernád és a Bodrog között
+- Tolnai-dombság (Magyarország / Egyéb tájak, területek) – medium – A Kapos és a Sió között, Tamási–Bonyhád
+- Velencei-hegység (Magyarország / Egyéb tájak, területek) – medium – A Velencei-tótól É-ra
+- Vértes (Magyarország / Egyéb tájak, területek) – medium – Oroszlány–Csákvár–Bicske között
+- Villányi-hegység (Magyarország / Egyéb tájak, területek) – medium – Villány–Siklós vonulata
+- Visegrádi-hegység (Magyarország / Egyéb tájak, területek) – medium – A Duna jobb partján, a Dunakanyarban
+- Zalai-dombság (Magyarország / Egyéb tájak, területek) – medium – Zala megye dombvidéke Zalaegerszeg–Nagykanizsa körül
+- Bodrog (Magyarország / Vízrajz) – medium – Ondava–Latorca összefolyásától (SK) Sárospatakon át Tokajig, ott ömlik a Tiszába
+- Dráva (Magyarország / Vízrajz) – medium – Ormožtól; Legrádnál felveszi a Murát, Barcs–Drávaszabolcs határfolyó, Eszéken át a Dunába
+- Hernád (Magyarország / Vízrajz) – medium – Kassától, Hidasnémetinél lép be, Gesztely alatt a Sajóba ömlik
+- Hévízi-tó (Magyarország / Vízrajz) – medium – Kis termáltó Hévíz központjában
+- Kis-Balaton (Magyarország / Vízrajz) – medium – Zala-torkolati mocsárvilág Keszthelytől DNy-ra
+- Körös (Magyarország / Vízrajz) – medium – Fehér-/Kettős-Körös Gyulától Békésen át, Gyomaendrődtől Hármas-Körös: Szarvas, Csongrádnál a Tiszába
+- Mura (Magyarország / Vízrajz) – medium – Radgonától; Muraszemenye–Letenye–Őrtilos között határfolyó, Legrádnál a Drávába
+- Rába (Magyarország / Vízrajz) – medium – Feldbachtól; Szentgotthárd–Körmend–Sárvár–Győr, a Mosoni-Dunába
+- Sajó (Magyarország / Vízrajz) – medium – Rozsnyótól; Bánréve–Kazincbarcika–Miskolc, Tiszaújváros mellett a Tiszába
+- Sió (Magyarország / Vízrajz) – medium – Siófoktól (Balaton) Simontornyán át a Dunáig; a forrásbeli vonal a Balaton középvonalát is tartalmazta.
+- Szamos (Magyarország / Vízrajz) – medium – Szatmárnémetitől; Csengernél lép be, Olcsvánál (Vásárosnamény mellett) a Tiszába
+- szegedi Fehér-tó (Magyarország / Vízrajz) – medium – Szegedtől ÉNy-ra, Sándorfalva felé
+- Szelidi-tó (Magyarország / Vízrajz) – medium – Duna-holtág Dunapataj mellett, Kalocsától É-ra
+- Tisza (Magyarország / Vízrajz) – medium – Teljes folyás Rahótól (Kárpátalja) a Dunába torkollásig; a Natural Earth csak a Szeged alatti szakaszt tartalmazza.
+- Velencei-tó (Magyarország / Vízrajz) – medium – DNy–ÉK irányú tó Pákozd, Gárdony és Velence között
+- Zala (Magyarország / Vízrajz) – medium – Az Őrségből Zalaegerszegen és Zalaszentgróton át a Kis-Balatonon keresztül a Balatonba (Fenékpuszta).
+- Ajka (Magyarország / Települések) – high – Városközpont
+- Algyő (Magyarország / Települések) – high – Városközpont
+- Baja (Magyarország / Települések) – high – Városközpont
+- Balassagyarmat (Magyarország / Települések) – high – Városközpont
+- Balatonfüred (Magyarország / Települések) – high – Városközpont
+- Berente (Magyarország / Települések) – high – Városközpont
+- Bük (Magyarország / Települések) – high – Városközpont
+- Dunaújváros (Magyarország / Települések) – high – Városközpont
+- Esztergom (Magyarország / Települések) – high – Városközpont
+- Gödöllő (Magyarország / Települések) – high – Városközpont
+- Gyöngyös (Magyarország / Települések) – high – Városközpont
+- Gyula (Magyarország / Települések) – high – Városközpont
+- Hajdúszoboszló (Magyarország / Települések) – high – Városközpont
+- Harkány (Magyarország / Települések) – high – Városközpont
+- Hatvan (Magyarország / Települések) – high – Városközpont
+- Hegyeshalom (Magyarország / Települések) – high – Városközpont
+- Hévíz (Magyarország / Települések) – high – Városközpont
+- Hódmezővásárhely (Magyarország / Települések) – high – Városközpont
+- Jászberény (Magyarország / Települések) – high – Városközpont
+- Jászfényszaru (Magyarország / Települések) – high – Városközpont
+- Kalocsa (Magyarország / Települések) – high – Városközpont
+- Keszthely (Magyarország / Települések) – high – Városközpont
+- Komárom (Magyarország / Települések) – high – Városközpont
+- Kőszeg (Magyarország / Települések) – high – Városközpont
+- Makó (Magyarország / Települések) – high – Városközpont
+- Mohács (Magyarország / Települések) – high – Városközpont
+- Nagykanizsa (Magyarország / Települések) – high – Városközpont
+- Orosháza (Magyarország / Települések) – high – Városközpont
+- Ózd (Magyarország / Települések) – high – Városközpont
+- Paks (Magyarország / Települések) – high – Városközpont
+- Pápa (Magyarország / Települések) – high – Városközpont
+- Sárospatak (Magyarország / Települések) – high – Városközpont
+- Siófok (Magyarország / Települések) – high – Városközpont
+- Sopron (Magyarország / Települések) – high – Városközpont
+- Százhalombatta (Magyarország / Települések) – high – Városközpont
+- Szentendre (Magyarország / Települések) – high – Városközpont
+- Szentgotthárd (Magyarország / Települések) – high – Városközpont
+- Tata (Magyarország / Települések) – high – Városközpont
+- Tihany (Magyarország / Települések) – high – Városközpont
+- Tiszaújváros (Magyarország / Települések) – high – Városközpont
+- Tokaj (Magyarország / Települések) – high – Városközpont
+- Várpalota (Magyarország / Települések) – high – Városközpont
+- Veresegyház (Magyarország / Települések) – high – Városközpont
+- Visegrád (Magyarország / Települések) – high – Városközpont
+- Visonta (Magyarország / Települések) – high – Városközpont
+- Zalakaros (Magyarország / Települések) – high – Városközpont
+- Záhony (Magyarország / Települések) – high – Városközpont
+- Budapesti agglomeráció (Magyarország / Települések) – medium – Agglomeráció középpontja (Budapest); a kategória pontot ír elő
+- Aggteleki Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – medium – Gömör–Tornai-karszt: Aggtelek, Jósvafő, Szögliget a szlovák határ mentén
+- Balaton-felvidéki Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – medium – Keszthelyi-hg, Tapolcai-medence, Badacsony, Tihany a É-i parton + Kis-Balaton
+- Bükki Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – medium – A Bükk-fennsík és peremei Eger és Miskolc között
+- Duna–Dráva Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – low – Gemenc (Szekszárd–Baja), Béda–Karapancsa (Mohács alatt), Dráva-mente Barcs–Drávaszabolcs
+- Duna–Ipoly Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – low – Pilis és Visegrádi-hg (Duna jobb part), Börzsöny és Ipoly-völgy (bal part)
+- Fertő–Hanság Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – low – A Fertő magyar része és a Hanság Kapuvár–Bősárkány között
+- Hortobágyi Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – medium – Hortobágyi puszta a Tisza és Debrecen között
+- Kiskunsági Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – low – Felső-Kiskunság (Apaj), szikes tavak (Fülöpszállás), Bugac, Tisza-mente (Lakitelek–Alpár), Pusztaszer
+- Körös–Maros Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – low – Dévaványai-Ecsegi puszták, Körös-ártér (Szarvas), Kardoskúti Fehér-tó, Maros-ártér (Makó), Mágor-puszta (Vésztő)
+- Őrségi Nemzeti Park (Magyarország / Nemzeti parkok, világörökségek) – medium – Őrség, Vendvidék és a Rába-völgy Szentgotthárd–Őriszentpéter–Körmend között
+- Aggteleki- és Szlovák-karsztvidék (Magyarország / Nemzeti parkok, világörökségek) – medium – Határon átnyúló karszt: Aggtelek–Jósvafő és a szlovák Gömör–Tornai-karszt
+- Budapest Andrássy út a Millenniumi földalattival (Magyarország / Nemzeti parkok, világörökségek) – medium – Deák tértől az Andrássy úton (Opera, Oktogon, Kodály körönd) a Hősök teréig
+- Budapest Várnegyed és a pesti Duna-part (Magyarország / Nemzeti parkok, világörökségek) – medium – Budai Vár, Gellért-hegy és a pesti rakpart Szabadság híd–Margit híd között
+- Hollókő (Magyarország / Nemzeti parkok, világörökségek) – high – Ófalu és vár, Cserhát
+- Hortobágy (Magyarország / Nemzeti parkok, világörökségek) – medium – Hortobágyi Nemzeti Park – a Puszta kultúrtáj
+- Pannonhalmi Főapátság (Magyarország / Nemzeti parkok, világörökségek) – high – Bencés főapátság Pannonhalmán
+- Pécsi ókeresztény sírkamrák (Magyarország / Nemzeti parkok, világörökségek) – high – Sopianae sírkamrák a pécsi Dóm tér környékén
+- Tokaj-Hegyalja borvidéke (Magyarország / Nemzeti parkok, világörökségek) – medium – Zempléni-hg DK-i lejtői Abaújszántó–Tokaj–Sárospatak–Sátoraljaújhely
+
+## Közepes / alacsony megbízhatóságú forrásegyezés (112)
+
+- Afrika (Föld) – medium – region: AFRICA
+- Amerika (Föld) – medium – region: SOUTH AMERICA, NORTH AMERICA
+- Antarktika (Föld) – medium – region: ANTARCTICA
+- Ausztrália (Föld) – medium – region: AUSTRALIA
+- Ázsia (Föld) – medium – region: ASIA
+- Európa (Föld) – medium – region: EUROPE
+- Eurázsia (Föld) – medium – region: ASIA, EUROPE
+- Észak-Afrika (Afrika) – medium – union of 6 countries
+- Trópusi-Afrika (szubszaharai Afrika) (Afrika) – medium – union of 50 countries
+- Atlasz (Afrika) – medium – region: ATLAS MOUNTAINS
+- Etióp-magasföld (Afrika) – medium – region: ETHIOPIAN HIGHLANDS
+- Kongó-medence (Afrika) – medium – region: CONGO BASIN
+- Madagaszkár (Afrika) – medium – region: MADAGASCAR
+- Szahara (Afrika) – medium – region: SAHARA
+- Kalahári-medence (Afrika) – medium – region: KALAHARI DESERT
+- Kanári-szigetek (Afrika) – medium – region: ISLAS CANARIAS
+- Namib-sivatag (Afrika) – medium – region: NAMIB DESERT
+- Észak-Amerika (Amerika) – medium – region: NORTH AMERICA
+- Dél-Amerika (Amerika) – medium – region: SOUTH AMERICA
+- Közép-Amerika (Amerika) – medium – union of 8 countries
+- Latin-Amerika (Amerika) – medium – union of 23 countries (not found: French Guiana)
+- Amazonas-medence (Amerika) – medium – region: AMAZON BASIN
+- Andok (Amerika) – medium – region: ANDES
+- Antillák (Amerika) – medium – region: GREATER ANTILLES, LESSER ANTILLES
+- Appalache-hegység (Appalache) (Amerika) – medium – region: APPALACHIAN MTS.
+- Brazil-felföld (Amerika) – medium – region: PLANALTO CENTRAL, BRAZILIAN HIGHLANDS
+- Floridai-félsziget (Amerika) – medium – region: FLORIDA
+- Grönland (Amerika) – medium – region: GREENLAND
+- Guyanai-hegyvidék (Amerika) – medium – region: GUIANA HIGHLANDS, GUIANA SHIELD
+- Hawaii-szigetek (Amerika) – medium – region: HAWAIIAN ISLANDS
+- Kaliforniai-félsziget (Amerika) – medium – region: BAJA CALIFORNIA
+- Labrador-félsziget (Amerika) – medium – region: LABRADOR
+- Mexikói-fennsík (Amerika) – medium – region: ALTI-PLANICIE MEXICANA
+- Préri (Amerika) – medium – region: GREAT PLAINS
+- Sziklás-hegység (Amerika) – medium – region: ROCKY MOUNTAINS
+- Atacama-sivatag (Amerika) – medium – region: DESIERTO DE ATACAMA
+- Bahama-szigetek (Amerika) – medium – region: BAHAMA ISLANDS
+- Orinoco-medence (Amerika) – medium – region: LLANOS
+- Nagy-Artézi-medence (Ausztrália és Óceánia) – medium – region (hu): GREAT ARTESIAN BASIN
+- Nagy-Vízválasztó-hegység (Ausztrália és Óceánia) – medium – region (hu): GREAT DIVIDING RANGE
+- Melanézia (Ausztrália és Óceánia) – medium – region (hu): MELANESIA
+- Mikronézia (Ausztrália és Óceánia) – medium – region (hu): MICRONESIA
+- Polinézia (Ausztrália és Óceánia) – medium – region (hu): POLYNESIA
+- Tasmánia (Ausztrália és Óceánia) – medium – region: TASMANIA
+- Új-Guinea (Ausztrália és Óceánia) – medium – region (hu): NEW GUINEA
+- Dél-Ázsia (Ázsia) – medium – union of 7 countries
+- Délkelet-Ázsia (Ázsia) – medium – union of 11 countries
+- Délnyugat-Ázsia (Ázsia) – medium – union of 22 countries
+- Kelet-Ázsia (Ázsia) – medium – union of 10 countries
+- Közép-Ázsia (Ázsia) – medium – union of 6 countries
+- Közel-Kelet (Ázsia) – medium – union of 12 countries
+- Arab-félsziget (Ázsia) – medium – region (hu): ARABIAN PENINSULA
+- Dekkán-fennsík (Ázsia) – medium – region (hu): DECCAN PLATEAU
+- Fülöp-szigetek (Ázsia) – medium – region: PHILIPPINES
+- Góbi (Ázsia) – medium – region (hu): GOBI DESERT
+- Himalája (Ázsia) – medium – region (hu): HIMALAYAS
+- Hindusztáni-alföld (Ázsia) – medium – region: GANGES PLAIN
+- Hindusztáni-félsziget (Ázsia) – medium – region: INDIA
+- Indokínai-félsziget (Ázsia) – medium – region (hu): INDOCHINA PENINSULA
+- Indonéz-szigetvilág (Ázsia) – medium – region: MALAY ARCHIPELAGO
+- Japán-szigetek (Ázsia) – medium – region: JAPAN
+- Jáva (Ázsia) – medium – region (hu): JAVA
+- Kamcsatka-félsziget (Ázsia) – medium – region: KAMCHATKA PENINSULA
+- Kaszpi-mélyföld (Ázsia) – medium – region (hu): CASPIAN DEPRESSION
+- Kaukázus (Ázsia) – medium – region (hu): CAUCASUS MTS.
+- Kínai-alföld (Ázsia) – medium – region: NORTH CHINA PLAIN
+- Kis-Ázsia (Ázsia) – medium – region: ANATOLIA
+- Koreai-félsziget (Ázsia) – medium – region: KOREA
+- Közép-szibériai-fennsík (Ázsia) – medium – region (hu): CENTRAL SIBERIAN PLATEAU
+- Mezopotámia (Ázsia) – medium – region (hu): Mesopotamia
+- Nyugat-szibériai-alföld (Ázsia) – medium – region (hu): WESTERN SIBERIAN PLAIN
+- Pamír (Ázsia) – medium – region: PAMIRS
+- Szibéria (Ázsia) – medium – region (hu): SIBERIA
+- Tajvan (Ázsia) – medium – region (hu): TAIWAN
+- Takla-Makán (Ázsia) – medium – region (hu): TAKLIMAKAN DESERT
+- Tibet (Ázsia) – medium – region: PLATEAU OF TIBET
+- Tien-san (Ázsia) – medium – region (hu): TIAN SHAN
+- Turáni-alföld (Ázsia) – medium – region (hu): TURAN LOWLAND
+- Dél-Európa (Európa) – medium – union of 18 countries
+- Észak-Európa (Európa) – medium – union of 11 countries
+- Kelet-Európa (Európa) – medium – union of 3 countries
+- Kelet-Közép-Európa (Európa) – medium – union of 7 countries
+- Közép-Európa (Európa) – medium – union of 9 countries
+- Nyugat-Európa (Európa) – medium – union of 35 countries
+- Alpok (Európa) – medium – region (hu): ALPS
+- Appenninek (Európa) – medium – region: APPENNINI
+- Balkán-félsziget (Európa) – medium – region (hu): BALKAN PEN.
+- Balkán-hegység (Európa) – medium – region (hu): Balkan Mts.
+- Brit-szigetek (Európa) – medium – region (hu): BRITISH ISLES
+- Ciprus (Európa) – medium – region: Cyprus
+- Dalmácia (Európa) – medium – region (hu): Dalmatia
+- Déli-Kárpátok (Európa) – medium – region: Transylvanian Alps
+- Dinári-hegység (Európa) – medium – region: Dinaric Alps
+- Duna-delta (Európa) – medium – region (hu): Danube Delta
+- Finn-tóvidék (Európa) – medium – region (hu): Finnish Lake Region
+- Francia-középhegység (Európa) – medium – region (hu): Massif Central
+- Izland (Európa) – medium – region: ICELAND
+- Kárpát-medence (Pannon-medence) (Európa) – medium – region: Alföld
+- Kárpátok (Európa) – medium – region: CARPATHIAN MOUNTAINS
+- Kréta (Európa) – medium – region: Crete
+- Krím-félsziget (Európa) – medium – region: CRIMEA
+- Pireneusi (Ibériai)-félsziget (Európa) – medium – region: PENÍNSULA IBÉRICA
+- Pireneusok (Európa) – medium – region: PYRENEES
+- Skandináv-félsziget (Európa) – medium – region: SCANDINAVIA
+- Skandináv-hegység (Európa) – medium – region: KJØLEN MOUNTAINS
+- Szicília (Európa) – medium – region: Sicilia
+- Szudéták (Európa) – medium – region: Sudetes Mts.
+- Urál (Európa) – medium – region: URAL MOUNTAINS
+- Ardennek (Európa) – medium – region: Ardennes
+- Korzika (Európa) – medium – region: Corse
+- Szardínia (Európa) – medium – region: Sardegna
+- Alföld (Magyarország) – medium – region (hu): Alföld

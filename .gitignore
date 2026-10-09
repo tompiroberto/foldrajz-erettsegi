@@ -1,0 +1,9 @@
+node_modules
+dist
+dev-dist
+*.log
+.env*
+test-results
+playwright-report
+data-src
+review/pages

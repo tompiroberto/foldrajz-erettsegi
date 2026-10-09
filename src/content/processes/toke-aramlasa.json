@@ -1,0 +1,134 @@
+{
+  "id": "toke-aramlasa",
+  "title": "A pénz és a tőke áramlása",
+  "summary": "A tőke oda áramlik, ahol a legnagyobb hozamot ígéri. A pénztőke hitelként és értékpapír-befektetésként mozog a pénzpiacokon, a működőtőke pedig termelő beruházásként (gyárak, vállalatok) jelenik meg más országokban.",
+  "causes": [
+    "A megtakarítások a bankokba és a befektetési piacokra kerülnek, ahol kamatot, hozamot várnak tőlük.",
+    "A tőketulajdonosok a legnagyobb hozamot és a legkisebb kockázatot keresik (gazdasági stabilitás, hitelképesség).",
+    "A vállalatok új piacokat, olcsóbb munkaerőt és kedvező adózást keresnek a beruházásaikhoz.",
+    "A tőkeáramlás korlátainak lebontása és az elektronikus pénzügyi rendszerek miatt a pénz pillanatok alatt mozoghat a világban."
+  ],
+  "course": [
+    "A bankok a betétekből hiteleket nyújtanak vállalatoknak, háztartásoknak és államoknak; a hitel után kamatot kell fizetni.",
+    "A tőzsdéken értékpapírokkal (részvény, kötvény, állampapír) kereskednek: ez az értékpapír-befektetés, amely gyorsan ki is vonható.",
+    "A működőtőke-befektetés során a befektető vállalatot alapít vagy vásárol egy másik országban (zöldmezős vagy barnamezős beruházás), és hosszú távon jelen van.",
+    "A befektetések hozama (profit, osztalék, kamat) visszaáramlik a tőkét kihelyező országba."
+  ],
+  "consequences": [
+    "A tőkét fogadó országokban munkahelyek, technológia és exportképesség jön létre, gyorsul a gazdasági növekedés.",
+    "A profit kiáramlása és a külföldi tulajdon miatt a fogadó ország gazdasága kiszolgáltatottá válhat.",
+    "A túlzott hitelfelvétel eladósodáshoz, adósságcsapdához, adósságválsághoz vezethet.",
+    "A spekulatív tőke gyors kivonása pénzügyi válságot okozhat, amely a nemzetközi kapcsolatok miatt más országokra is átterjed; az adóparadicsomok az adóelkerülést segítik."
+  ],
+  "steps": [
+    {
+      "title": "Megtakarítás",
+      "caption": "A háztartások és vállalatok megtakarításai bankokba, befektetési alapokba kerülnek.",
+      "icon": "banknote"
+    },
+    {
+      "title": "Hitel és kamat",
+      "caption": "A bankok a betétekből hitelt nyújtanak; a hitelfelvevő kamatot fizet, a betétes kamatot kap.",
+      "icon": "landmark"
+    },
+    {
+      "title": "Tőzsde, értékpapírok",
+      "caption": "A tőzsdéken részvényekkel, kötvényekkel, állampapírokkal kereskednek; az árfolyamok a várt hozam szerint változnak.",
+      "icon": "activity"
+    },
+    {
+      "title": "Nemzetközi tőkeáramlás",
+      "caption": "A tőke oda áramlik, ahol nagyobb a hozam és kisebb a kockázat; a pénz elektronikusan, gyorsan mozog.",
+      "icon": "globe"
+    },
+    {
+      "title": "Működőtőke-befektetés",
+      "caption": "A külföldi vállalat gyárat épít vagy vásárol a fogadó országban, munkahelyeket és technológiát hoz.",
+      "icon": "factory"
+    },
+    {
+      "title": "Hozam visszaáramlása",
+      "caption": "A profit, az osztalék és a kamat visszaáramlik a tőkét kihelyező országba.",
+      "icon": "coins"
+    },
+    {
+      "title": "Kockázat: eladósodás és válság",
+      "caption": "A túlzott hitelfelvétel eladósodáshoz vezet, a tőke gyors kivonása pénzügyi válságot okozhat.",
+      "icon": "alert-triangle"
+    }
+  ],
+  "examples": [
+    {
+      "text": "New York (Wall Street) a világ egyik legnagyobb értéktőzsdéjének és pénzügyi központjának otthona.",
+      "places": [
+        "amerika--varosok--new-york"
+      ]
+    },
+    {
+      "text": "London Cityje Európa legjelentősebb nemzetközi pénzügyi központja.",
+      "places": [
+        "europa--varosok--london"
+      ]
+    },
+    {
+      "text": "Frankfurt am Mainban működik az Európai Központi Bank és Németország legnagyobb értéktőzsdéje.",
+      "places": [
+        "europa--varosok--frankfurt-am-main"
+      ]
+    },
+    {
+      "text": "Luxemburg kedvező szabályozása miatt jelentős nemzetközi pénzügyi és befektetésialap-központ.",
+      "places": [
+        "europa--orszagok--luxemburg"
+      ]
+    }
+  ],
+  "concepts": [
+    "pénztőke",
+    "működőtőke",
+    "nemzetközi tőkeáramlás",
+    "értékpapír-befektetés",
+    "működőtőke-befektetés",
+    "értékpapírok (állampapír, kötvény, részvény)",
+    "érték- és árutőzsde",
+    "kamat",
+    "hozam",
+    "hitelképesség",
+    "barnamezős (rekonstrukciós) és zöldmezős beruházás",
+    "eladósodás",
+    "adósságválság",
+    "adóparadicsom"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a nemzetközi tőkeáramlás formáit és okait! Hasonlítsd össze a pénztőke és a működőtőke áramlását, és térj ki a hatásaira!",
+    "elements": [
+      {
+        "text": "A tőke oda áramlik, ahol nagyobb a hozam és kisebb a kockázat.",
+        "points": 1
+      },
+      {
+        "text": "Pénztőke: hitel (kamat) és értékpapír-befektetés (részvény, kötvény, állampapír), a tőzsdéken.",
+        "points": 2
+      },
+      {
+        "text": "Az értékpapír-befektetés gyorsan mozog, könnyen kivonható (spekuláció, válságveszély).",
+        "points": 1
+      },
+      {
+        "text": "Működőtőke-befektetés: vállalat alapítása vagy vásárlása külföldön (zöldmezős/barnamezős beruházás), hosszú távú jelenlét.",
+        "points": 2
+      },
+      {
+        "text": "Pozitív hatás: munkahely, technológia, export, gazdasági növekedés a fogadó országban.",
+        "points": 2
+      },
+      {
+        "text": "Negatív hatás: profitkiáramlás, kiszolgáltatottság, eladósodás, adósságválság.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A tőke mindig oda áramlik, ahol a legnagyobb hozamot és a legkisebb kockázatot ígéri. A pénztőke hitelként vagy értékpapír-befektetésként mozog: a bankok kamatért hitelt nyújtanak, a tőzsdéken pedig részvényekkel, kötvényekkel és állampapírokkal kereskednek. Az értékpapír-befektetés gyorsan mozog és könnyen kivonható, ezért hirtelen kiáramlása pénzügyi válságot okozhat. A működőtőke-befektetés során a befektető vállalatot alapít (zöldmezős) vagy vásárol (barnamezős beruházás) egy másik országban, és hosszú távon ott termel. Ez a fogadó országba munkahelyeket, technológiát és exportképességet hoz, gyorsítja a gazdasági növekedést. Ugyanakkor a profit kiáramlik, az ország kiszolgáltatottá válhat, a túlzott hitelfelvétel pedig eladósodáshoz és adósságválsághoz vezethet."
+  },
+  "generated": true,
+  "reviewed": false
+}

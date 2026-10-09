@@ -1,0 +1,1741 @@
+{
+ "id": "2019-tavasz",
+ "year": 2019,
+ "season": "tavasz",
+ "date": "2019. május 17.",
+ "label": "Érettségi 2019. május",
+ "files": {
+  "feladatlap": "foldrajz_emelt_2019_tavasz_feladatlap.pdf",
+  "utmutato": "foldrajz_emelt_2019_tavasz_utmutato.pdf"
+ },
+ "sourceUrl": "https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok/emelt_szint_2019tavasz/emelt_11nap",
+ "totalPoints": 200,
+ "generated": true,
+ "reviewed": false,
+ "tasks": [
+  {
+   "no": 1,
+   "title": "Az üstökösök felépítése, Halley és a világidő",
+   "instruction": "Az alábbi leegyszerűsített modellrajz az üstökösök általános felépítését ábrázolja. Tanulmányozza az ábrát, és oldja meg a feladatokat!",
+   "context": "",
+   "pages": [
+    3,
+    4
+   ],
+   "guidePages": [
+    3
+   ],
+   "points": 12,
+   "needsFigure": true,
+   "figureNote": "Modellrajz egy üstökös részeiről (A–D betűkkel), körülötte négyzetekkel a Nap lehetséges helyzetéhez.",
+   "subtopics": [
+    "2-2-a-nap-es-kiseroi",
+    "2-3-a-fold-es-mozgasai"
+   ],
+   "concepts": [
+    "üstökös",
+    "az üstökös részei (mag, kóma, csóva)",
+    "világidő",
+    "zónaidő",
+    "időzóna",
+    "helyi idő",
+    "Greenwich"
+   ],
+   "places": [
+    "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "diagram",
+     "prompt": "Nevezze meg az üstökös nagybetűkkel jelölt részeit! A: … B: … C: … D: …",
+     "points": 4,
+     "items": [
+      {
+       "n": "A",
+       "text": "A",
+       "answer": "Mag"
+      },
+      {
+       "n": "B",
+       "text": "B",
+       "answer": "Kóma"
+      },
+      {
+       "n": "C",
+       "text": "C",
+       "answer": "Fej"
+      },
+      {
+       "n": "D",
+       "text": "D",
+       "answer": "Csóva / üstök"
+      }
+     ],
+     "solution": "A: Mag; B: Kóma; C: Fej; D: Csóva / üstök (1-1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Mi jellemzi az A betűvel jelölt részt? Válaszoljon a kérdésre a megadott szempontok alapján! Milyen halmazállapotú? … Mely két jellemző anyagból épül fel az üstökös? … és …",
+     "points": 3,
+     "solution": "Szilárd (1 pont). Fagyott gáz/jég és por/szilárd szemcsék (kőzetdarabok) (1+1 pont). Megjegyzés: a jellemzők sorrendje nem számít.",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "diagram",
+     "prompt": "Írjon N betűt az ábra körül elhelyezett négyzetek közül abba az egybe, amely megfelel a Nap üstököshöz viszonyított helyzetének, amikor az üstökös a Nap közelében halad a pályája során!",
+     "points": 1,
+     "solution": "Az ábra bal oldalán lévő négyzetbe beírt N betű.",
+     "autoCheck": false
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Olvassa el az alábbi szövegrészletet, és oldja meg a hozzá kapcsolódó feladatot! „De Halley számára az említett 3 üstökös elemeinek azonossága […] teljesen elegendő bizonyíték volt arra, hogy levonhassa azt a következtetést, miszerint az 1456, 1531, 1607 és 1682-iki üstökösök egy és ugyan azon üstökös megjelenései.” (Forrás: https://www.csillagaszat.hu/csilltort/halley-ustokos-1910/) Milyen megállapítást fogalmazott meg Halley angol csillagász a később róla elnevezett üstökös mozgásával, pályájával kapcsolatban? Halley 1742-ben Greenwich-ben halt meg. 1884 óta az itt áthaladó délkört kezdő hosszúsági körnek nevezzük. Fogalmazza meg, hogy milyen kapcsolat van Greenwich és a világidő között! Nevezze meg, hogy mely hosszúsági körök jelölik ki pontosan a 0. időzóna határait! Kelet felé: … Nyugat felé: …",
+     "points": 4,
+     "solution": "75 vagy 76 év alatt / azonos időközönként visszatér / periodikusan visszatérő. (1 pont) A világidő a Greenwich-ben mért helyi idő. (1 pont) Keleten: k.h. 7,5º, Nyugaton: ny.h. 7,5º (1+1 pont). Megjegyzés: a k.h. és a ny.h. megadásával együtt jár a pont.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "title": "Távérzékelés, műholdfelvételek",
+   "instruction": "Olvassa el az alábbi szöveget, és oldja meg a hozzá kapcsolódó feladatokat!",
+   "context": "A távérzékelés kezdetben nagyon hasonlított a fényképezéshez, bár a speciális kamerákban nagyobb méretű és más hullámhossztartományra érzékeny filmet használtak. A technikai fejlődés eredményeként a távérzékelési eszközök jelenleg már digitális pásztázó elven működnek. Különböző hullámhossz-tartományban működő szenzoraik elemi képrészletenként (pixelenként) érzékelik a felszínről visszaverődő sugárzás intenzitását, s ezekből a sugárzási értékekből épülnek fel a digitális űrfelvételek. A passzív távérzékelési eszközök a felszín által visszavert sugárzást érzékelik, az aktív eszközök pedig a műholdon elhelyezett adóberendezés jeleinek visszaverődését. A távérzékelési eszközök az alkalmazott hullámhossz-tartomány szerint is csoportosíthatók: látható fény, infravörös, ibolyántúli vagy mikrohullámú eszközökre. A részletesség alapján, elkülöníthetők kisfelbontású (néhány 100 m/pixel*) és nagyfelbontású (maximum néhány méter/pixel) felvételek. A legtöbb távérzékelési műhold egyszerre több hullámhossz-tartományban működik (= multispektrális), tehát az általuk késztett felvételeken a felszín sugárzási képe egyszerre több hullámhossz-tartományban is tanulmányozható. Ha egy ilyen felvételnek nem-optikai sávja is van, és ezt felhasználva készítenek belőle műholdképet, azt hamisszínes felvételnek nevezzük, mert olyan felszíni jellemzőket ábrázol látható színekkel, amelyek az emberi szem számára nem érzékelhetők. (Forrás: http://hirmagazin.sulinet.hu/hu/pedagogia/muholdak-es-taverzekeles) * pixel: az a „földdarab”, képelem, amelyről a készülék egy érkező sugárnyalábot érzékel.",
+   "pages": [
+    5,
+    6
+   ],
+   "guidePages": [
+    3
+   ],
+   "points": 10,
+   "needsFigure": false,
+   "subtopics": [
+    "1-3-taverzekeles-es-terinformatika"
+   ],
+   "concepts": [
+    "távérzékelés",
+    "műhold",
+    "passzív és aktív távérzékelés",
+    "valós színes és hamis színes felvétel",
+    "felbontóképesség",
+    "légi és űrfelvétel"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "a",
+     "type": "short-answer",
+     "prompt": "Magyarázza meg, hogy miért használhatók sokrétűbben az aktív távérzékelési eszközök a passzívakhoz képest!",
+     "points": 1,
+     "solution": "Az aktív műholdak maguk is bocsátanak ki sugárzást (jeleket) és ezek visszaverődését érzékelik. / Nemcsak a felszínről visszavert sugárzást érzékelik, ez részletesebb (több szempontú) felszínérzékelést tesz lehetővé. Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Felbontás szerint a műholdfelvételek melyik csoportjába tartozik a képen látható 40 cm-es felbontású műholdfelvétel?",
+     "points": 1,
+     "items": [
+      {
+       "n": "b",
+       "text": "Felbontás szerinti csoport",
+       "answer": "Nagyfelbontású felvétel"
+      }
+     ],
+     "solution": "Nagyfelbontású felvétel.",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "Hány szempont alapján sorolja be a szöveg a modern távérzékelési eszközöket?",
+     "points": 1,
+     "items": [
+      {
+       "n": "c",
+       "text": "Szempontok száma",
+       "answer": "Három"
+      }
+     ],
+     "solution": "Három",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "true-false",
+     "prompt": "Döntse el, hogy igazak vagy hamisak az alábbi megállapítások! Írjon I betűt az igaz, és H betűt a hamis megállapítások sorszáma elé!",
+     "points": 7,
+     "items": [
+      {
+       "n": "1",
+       "text": "A modern távérzékelési eszközök a kezdeti speciális műholdakra szerelt kameráktól abban is eltérnek, hogy különböző hullámhossztartományban is képesek érzékelni a felszínről visszavert sugárzást.",
+       "answer": "H"
+      },
+      {
+       "n": "2",
+       "text": "A hamisszínes felvételek segíthetnek a gazdaságosan kitermelhető ásványkincsek feltérképezésében is.",
+       "answer": "I"
+      },
+      {
+       "n": "3",
+       "text": "A passzív távérzékelési eszközök nem érzékelik a felszínről érkező sugárzást.",
+       "answer": "H"
+      },
+      {
+       "n": "4",
+       "text": "A multispektrális felvételek ugyanarról a képpontról, felszínelemről több, független mérési adatot tartalmaznak.",
+       "answer": "I"
+      },
+      {
+       "n": "5",
+       "text": "A hamisszínes felvételek bizonyos hullámhossztartományokban vett mintáknak is tekinthetők.",
+       "answer": "I"
+      },
+      {
+       "n": "6",
+       "text": "A hamisszínes felvételek a látható tartományban nem elkülöníthető jelenségek megkülönböztetésében is segítenek.",
+       "answer": "I"
+      },
+      {
+       "n": "7",
+       "text": "A multispektrális felvételek alkalmasak lehetnek a felhőzet és a hó elkülönítésére.",
+       "answer": "I"
+      }
+     ],
+     "solution": "1. H; 2. I; 3. H; 4. I; 5. I; 6. I; 7. I. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "title": "Kőzetrétegek tömbszelvényen",
+   "instruction": "Az alábbi tömbszelvényen a különböző jelek különböző kőzetrétegeket jelölnek (az azonos jelek és betűk azonos kőzetre utalnak). Tanulmányozza az ábrát, és oldja meg a feladatokat!",
+   "context": "",
+   "pages": [
+    7
+   ],
+   "guidePages": [
+    4
+   ],
+   "points": 5,
+   "needsFigure": true,
+   "figureNote": "Tömbszelvény betűkkel jelölt kőzetrétegekkel, vetődéssel és magmás testtel (H).",
+   "subtopics": [
+    "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet",
+    "3-1-3-a-hegysegkepzodes"
+   ],
+   "concepts": [
+    "viszonylagos (relatív) és tényleges (abszolút) kormeghatározás",
+    "vetődés",
+    "vetősík",
+    "mélységi magmatizmus",
+    "felszíni vulkánosság",
+    "üledékes kőzet"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "a",
+     "type": "diagram",
+     "prompt": "Válaszoljon a megfelelő betűjel beírásával! Melyik a legidősebb kőzet? … Melyik a legfiatalabb kőzet? …",
+     "points": 2,
+     "items": [
+      {
+       "n": "1",
+       "text": "Legidősebb kőzet",
+       "answer": "A"
+      },
+      {
+       "n": "2",
+       "text": "Legfiatalabb kőzet",
+       "answer": "R / H"
+      }
+     ],
+     "solution": "Legidősebb: A (1 pont); Legfiatalabb: R / H (1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Hogyan keletkezhetett a H betűvel jelölt kőzetanyag?",
+     "points": 1,
+     "solution": "Vulkanizmussal / (Felszín alatti) magmatizmussal",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "Mely szerkezeti mozgás okozta a B és K kőzetréteg tömegének elmozdulását?",
+     "points": 1,
+     "items": [
+      {
+       "n": "c",
+       "text": "Szerkezeti mozgás",
+       "answer": "Vetődés / vetősík mentén történő elmozdulás"
+      }
+     ],
+     "solution": "Vetődés / vetősík mentén történő elmozdulás.",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "multiple-choice",
+     "prompt": "Melyik folyamat játszódott le a legkorábban a felsoroltak közül? Karikázza be az egyetlen helyes válasz betűjelét!",
+     "points": 1,
+     "options": [
+      "A) a B kőzetréteg függőleges elmozdulását előidéző szerkezeti mozgás",
+      "B) az M kőzetréteg lerakódása/képződése",
+      "C) a H kőzet keletkezése",
+      "D) a K kőzetréteg anyagának lerakódása"
+     ],
+     "items": [
+      {
+       "n": "d",
+       "text": "A legkorábbi folyamat",
+       "answer": "D"
+      }
+     ],
+     "solution": "D",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "title": "A kőzetek körforgása",
+   "instruction": "Tanulmányozza az ábrát, majd oldja meg a feladatot! Azonosítsa az ábrázolt folyamat szakaszait! Írja a sorszámok után a megfelelő betűjelet!",
+   "context": "",
+   "pages": [
+    8
+   ],
+   "guidePages": [
+    4
+   ],
+   "points": 10,
+   "needsFigure": true,
+   "figureNote": "A kőzetanyag-körforgás folyamatábrája A, B kőzetcsoportokkal és 1–6-ig számozott szakaszokkal.",
+   "subtopics": [
+    "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek",
+    "4-1-a-foldfelszin-formalodasa"
+   ],
+   "concepts": [
+    "kőzetanyag-körforgás",
+    "magmás kőzet",
+    "üledékes kőzet",
+    "átalakult kőzet",
+    "lepusztulás",
+    "szállítás",
+    "felhalmozás",
+    "beolvadás"
+   ],
+   "places": [
+    "europa--tajak--alpok"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "diagram",
+     "prompt": "Nevezze meg az ábrában A és B betűvel jelölt kőzetcsoportokat! A: … B: … Azonosítsa az ábrázolt folyamat szakaszait! Írja a sorszámok után a megfelelő betűjelet!",
+     "points": 8,
+     "options": [
+      "a. szállítás",
+      "b. kőzetté válás",
+      "c. beolvadás",
+      "d. lepusztulás",
+      "e. nagy nyomás és hőmérséklet hatására végbemenő változás",
+      "f. lerakódás, felhalmozódás"
+     ],
+     "items": [
+      {
+       "n": "A",
+       "text": "A kőzetcsoport",
+       "answer": "magmás kőzet"
+      },
+      {
+       "n": "B",
+       "text": "B kőzetcsoport",
+       "answer": "üledékes kőzet"
+      },
+      {
+       "n": "1",
+       "text": "1.",
+       "answer": "d"
+      },
+      {
+       "n": "2",
+       "text": "2.",
+       "answer": "a"
+      },
+      {
+       "n": "3",
+       "text": "3.",
+       "answer": "f"
+      },
+      {
+       "n": "4",
+       "text": "4.",
+       "answer": "b"
+      },
+      {
+       "n": "5",
+       "text": "5.",
+       "answer": "c"
+      },
+      {
+       "n": "6",
+       "text": "6.",
+       "answer": "e"
+      }
+     ],
+     "solution": "A: magmás kőzet; B: üledékes kőzet; 1. d; 2. a; 3. f; 4. b; 5. c; 6. e (1-1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Nevezze meg az ábrázolt folyamatot!",
+     "points": 1,
+     "items": [
+      {
+       "n": "b",
+       "text": "A folyamat neve",
+       "answer": "Kőzetek körforgása / geokémiai ciklus"
+      }
+     ],
+     "solution": "Kőzetek körforgása / geokémiai ciklus",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "multiple-choice",
+     "prompt": "Az ábrázolt folyamat melyik szakaszával kapcsolatos a szemelvény? Válaszoljon a megfelelő betűjellel, írja azt a szöveg alatti vonalra! „Az Alpok egyik legnevezetesebb csúcsára, a Jungfraura fogaskerekű viszi fel a turistákat, több, sziklákba vájt alagúton haladva keresztül. Az állandóan fagyott rétegben nem kellett kibélelni az alagutakat, a kőzet elég szilárd volt a nagy forgalmú Jungfrau-vasút számára is. A legutóbbi években azonban víz kezdett csurgadozni az alagút tetejéről. A felette lévő állandóan fagyott talaj felengedett, és a kőzetből nyaranta kiolvad a víz. Aztán téli hidegben visszafagy, s már jégként feszegeti a réseket, majd újra kiolvadva, ismét csurog.” (Forrás: Melegednek az Alpok sziklái, 2008. április 17., MTI-Press)",
+     "points": 1,
+     "items": [
+      {
+       "n": "c",
+       "text": "A szakasz betűjele",
+       "answer": "d"
+      }
+     ],
+     "solution": "d",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "title": "Harmatpont és csapadékképződés",
+   "instruction": "Oldja meg a csapadékképződéssel kapcsolatos feladatokat!",
+   "context": "2000 m magasan a levegő hőmérséklete 10 ºC, vízgőztartalma 7 g/m3. Az adott hőmérsékletű levegő legnagyobb vízgőztartalma: ºC: -25, -15, -10, 0, 5, 10, 15, 20, 25, 30, 35; g/m3: 0,7, 1,5, 2, 5, 7, 9, 13, 17, 23, 30, 38",
+   "pages": [
+    9
+   ],
+   "guidePages": [
+    4,
+    5
+   ],
+   "points": 11,
+   "needsFigure": false,
+   "subtopics": [
+    "3-2-4-felho-es-csapadekkepzodes"
+   ],
+   "concepts": [
+    "harmatpont",
+    "telítettség",
+    "tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom",
+    "felhő- és csapadékképződés",
+    "hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)",
+    "hideg- és melegfront"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "a",
+     "type": "short-answer",
+     "prompt": "Mely hőmérsékleten válik telítetté a levegő az adott vízgőztartalom mellett? … ºC",
+     "points": 1,
+     "items": [
+      {
+       "n": "a",
+       "text": "Telítettségi hőmérséklet",
+       "answer": "5ºC"
+      }
+     ],
+     "solution": "5ºC",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "calculation",
+     "prompt": "Hány méter magasságban éri el a harmatpontját a levegő? A számítást itt végezze! A harmatpont magassága: … m",
+     "points": 2,
+     "solution": "Számítás elve: 100 méterenként 1 ℃-ot csökken; 10 ℃ → 5 ℃ → 500 m; 2000 + 500 = 2500 m (1 pont). Eredmény: 2500 m (1 pont). Megjegyzés: más elvem megkapott helyes eredmény esetén is jár a pont.",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "calculation",
+     "prompt": "Melyik csapadékfajta (csapadék típus) hullik a 3800 m magas hegycsúcson? … Hány ℃-ot mutatnak ott a hőmérők? … ℃ A számítást itt végezze!",
+     "points": 3,
+     "solution": "A csapadék hó formájában hullik (1 pont). Számítás elve: 100 méterenként 0,5 ℃ -ot csökken; 2500 → 3800 → 1300 m → 6,5 ℃ -ot csökken; 5 ℃-6,5 ℃ = -1,5 ℃ (1 pont). Megjegyzés: más elvem megkapott helyes eredmény esetén is jár a pont. A hőmérő -1,5℃ -ot mutat (1 pont).",
+     "autoCheck": false
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Hogyan válhat telítetté a levegő?",
+     "points": 2,
+     "solution": "− Lehűl / hőmérséklete csökken. (1 pont) − Nő a vízgőztartalma. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "e",
+     "type": "short-answer",
+     "prompt": "Mely folyamatok, jelenségek hatására emelkedhet a magasba, és hűlhet le a levegő?",
+     "points": 3,
+     "solution": "− A felmelegedése miatt. (1 pont) − Hegység készteti felemelkedésre. (1 pont) − Időjárási front hatására. (1 pont) Megjegyzés: másképp megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "title": "Vízjárás és éghajlat",
+   "instruction": "Oldja meg a folyók vízjárásával kapcsolatos feladatokat!",
+   "context": "",
+   "pages": [
+    10
+   ],
+   "guidePages": [
+    5
+   ],
+   "points": 9,
+   "needsFigure": false,
+   "subtopics": [
+    "3-3-2-a-felszini-vizek",
+    "4-6-a-vizszintes-foldrajzi-ovezetesseg"
+   ],
+   "concepts": [
+    "vízjárás",
+    "vízállás",
+    "vízhozam",
+    "időszakos vízfolyás",
+    "egyenlítői éghajlat",
+    "óceáni éghajlat",
+    "mediterrán éghajlat",
+    "nedves kontinentális éghajlat"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "a",
+     "type": "short-answer",
+     "prompt": "Fogalmazza meg, mi a vízjárás!",
+     "points": 1,
+     "solution": "A folyók vízszintjének / vízhozamának /vízmennyiségének szabályszerű ingadozása / változása.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "matching",
+     "prompt": "Hogyan befolyásolja a folyó vízjárását az éghajlat? Írja a vízjárás-típusok mellé azoknak az éghajlatoknak a sorszámát, amelyikre jellemzőek! Egy szám csak egy helyre írható be. (Egyenletes vízjárás; Ingadozó vízjárás; Időszakos vízjárás) Írja a négyzetbe annak az éghajlatnak a sorszámát, amelyik területén a folyók csak télen bővízűek!",
+     "points": 8,
+     "options": [
+      "1. nedves kontinentális éghajlat",
+      "2. egyenlítői éghajlat",
+      "3. mérsékelt övezeti sivatagi éghajlat",
+      "4. szubtrópusi monszunéghajlat",
+      "5. óceáni éghajlat",
+      "6. mediterrán éghajlat",
+      "7. száraz kontinentális éghajlat"
+     ],
+     "items": [
+      {
+       "n": "egyenletes",
+       "text": "Egyenletes vízjárás",
+       "answer": "2, 5"
+      },
+      {
+       "n": "ingadozó",
+       "text": "Ingadozó vízjárás",
+       "answer": "1, 4, 6, 7"
+      },
+      {
+       "n": "időszakos",
+       "text": "Időszakos vízjárás",
+       "answer": "3, (6)"
+      },
+      {
+       "n": "négyzet",
+       "text": "Csak télen bővízű folyók éghajlata",
+       "answer": "6"
+      }
+     ],
+     "solution": "Egyenletes vízjárás: 2, 5; Ingadozó vízjárás: 1, 4, 6, 7; Időszakos vízjárás: 3, (6). Megjegyzés: a 6-os szám a megoldásban szereplő bármelyik helyre beírva elfogadható, mindkét helyre történő beírása esetén is csak 1 pont adható. Minden jó helyre beírt szám 1 pont (7 pont). Négyzetbe írva: 6. (1 pont)",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "title": "Folyók szakaszjellege",
+   "instruction": "Tanulmányozza a felvételeket, majd oldja meg a feladatokat, és egészítse ki a táblázatot!",
+   "context": "Táblázat – Szakaszjelleg: Bevágódó (felső); Oldalazó (közép); Feltöltő (alsó). Sorok: a) Kép sorszáma; b) Az állítás betűjele; c) Példák sorszáma.",
+   "pages": [
+    11,
+    12
+   ],
+   "guidePages": [
+    5,
+    6
+   ],
+   "points": 12,
+   "needsFigure": true,
+   "figureNote": "Három fénykép különböző szakaszjellegű folyókról (1–3.).",
+   "subtopics": [
+    "4-2-a-kulso-erok-felszinformalo-tevekenysege",
+    "3-3-2-a-felszini-vizek"
+   ],
+   "concepts": [
+    "bevágódó",
+    "oldalazó és feltöltő szakaszjelleg",
+    "a folyók munkavégző képessége",
+    "morotvató",
+    "hordalékkúp",
+    "kanyon",
+    "hordalék"
+   ],
+   "places": [
+    "magyarorszag--vizrajz--duna",
+    "magyarorszag--vizrajz--tisza",
+    "magyarorszag--vizrajz--zagyva"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "table",
+     "prompt": "Döntse el, hogy milyen szakaszjellegű folyót ábrázolnak a képek! Írja a táblázatba a szakaszjelleg alá a megfelelő kép sorszámát!",
+     "points": 3,
+     "items": [
+      {
+       "n": "felső",
+       "text": "Bevágódó (felső)",
+       "answer": "3."
+      },
+      {
+       "n": "közép",
+       "text": "Oldalazó (közép)",
+       "answer": "2."
+      },
+      {
+       "n": "alsó",
+       "text": "Feltöltő (alsó)",
+       "answer": "1."
+      }
+     ],
+     "solution": "Felső bevágódó: 3.; Középső oldalazó: 2.; Alsó feltöltődő: 1. (1+1+1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "table",
+     "prompt": "Írja a táblázatba a megfelelő szakaszjelleg neve alá a rá jellemző állítás betűjelét! A. Jellegzetes képződménye a morotvató. B. Ezen a szakaszon hordalékkúpok alakulhatnak ki. C. Ezen a szakaszon kanyonok jöhetnek létre.",
+     "points": 3,
+     "items": [
+      {
+       "n": "felső",
+       "text": "Bevágódó (felső)",
+       "answer": "C"
+      },
+      {
+       "n": "közép",
+       "text": "Oldalazó (közép)",
+       "answer": "A"
+      },
+      {
+       "n": "alsó",
+       "text": "Feltöltő (alsó)",
+       "answer": "B"
+      }
+     ],
+     "solution": "Felső bevágódó: C.; Középső oldalazó: A.; Alsó feltöltődő: B. (1+1+1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "table",
+     "prompt": "Melyik szakaszjelleg jellemzi az alábbi folyószakaszokat? Írja a példák sorszámát a táblázatba a megfelelő helyre! 1) A Duna szigetközi szakasza 2) A Duna Mohácsnál 3) A Duna a Dunakanyarban 4) A Tisza a Zagyva és a Körös torkolata között",
+     "points": 4,
+     "items": [
+      {
+       "n": "felső",
+       "text": "Bevágódó (felső)",
+       "answer": "3."
+      },
+      {
+       "n": "közép",
+       "text": "Oldalazó (közép)",
+       "answer": "4."
+      },
+      {
+       "n": "alsó",
+       "text": "Feltöltő (alsó)",
+       "answer": "1., 2."
+      }
+     ],
+     "solution": "Felső bevágódó: 3.; Középső oldalazó: 4.; Alsó feltöltődő: 1., 2. (1+1+1+1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Írja a megfelelő relációs jelet (>, < ,=) a négyzetbe! 1. A feltöltő (alsó) szakaszjellegű folyó esetében: a folyó munkavégző képessége … a hordalék elszállításához szükséges energia 2. Az oldalazó (közép) szakaszjellegű folyó esetében: a folyó munkavégző képessége … a hordalék elszállításához szükséges energia",
+     "points": 2,
+     "items": [
+      {
+       "n": "1",
+       "text": "Feltöltő (alsó) szakasz: munkavégző képesség … szükséges energia",
+       "answer": "<"
+      },
+      {
+       "n": "2",
+       "text": "Oldalazó (közép) szakasz: munkavégző képesség … szükséges energia",
+       "answer": "="
+      }
+     ],
+     "solution": "1. < (1 pont); 2. = (1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "title": "Korfák és népesedési szakaszok",
+   "instruction": "Tanulmányozza a korfákat, és oldja meg a feladatokat!",
+   "context": "",
+   "pages": [
+    13
+   ],
+   "guidePages": [
+    6
+   ],
+   "points": 13,
+   "needsFigure": true,
+   "figureNote": "Négy korfa (A–D) különböző népesedési szakaszokra jellemző alakkal.",
+   "subtopics": [
+    "5-1-a-nepesseg-foldrajzi-jellemzoi"
+   ],
+   "concepts": [
+    "korfa",
+    "népesedési átmenet (demográfiai átmenet)",
+    "öregedő és fiatalodó társadalom",
+    "természetes szaporodás",
+    "természetes fogyás",
+    "vendégmunkás",
+    "munkanélküli"
+   ],
+   "places": [],
+   "note": "A b) rész állításainak szövege a feladatlap kivonatában elcsúszott a sorszámoktól; a kilenc állítás a megmaradt sorrend szerint lett számozva – a feladatlap 13. oldalán ellenőrizendő.",
+   "parts": [
+    {
+     "label": "a",
+     "type": "diagram",
+     "prompt": "Állapítsa meg, hogy az alábbi korfatípusok melyik népesedési szakaszra (a népesedési átmenet melyik szakaszára) jellemzőek! Írja a korfák alá a négyzetbe a megfelelő népesedési szakasz (I–IV.) számát!",
+     "points": 4,
+     "items": [
+      {
+       "n": "A",
+       "text": "A korfa",
+       "answer": "III. / 3."
+      },
+      {
+       "n": "B",
+       "text": "B korfa",
+       "answer": "IV. / 4."
+      },
+      {
+       "n": "C",
+       "text": "C korfa",
+       "answer": "II. / 2."
+      },
+      {
+       "n": "D",
+       "text": "D korfa",
+       "answer": "I. / 1."
+      }
+     ],
+     "solution": "A: III. / 3.; B: IV. / 4.; C: II. / 2.; D: I. / 1. (1-1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "matching",
+     "prompt": "Hasonlítsa össze a B és a C jelű korfával jellemezhető társadalmakat! Írja a megfelelő korfa betűjelét az alábbi állítások elé a pontozott vonalra! (Csak a B és a C betűt használja!)",
+     "points": 9,
+     "items": [
+      {
+       "n": "1",
+       "text": "Az élveszületések száma meghaladja a halálozások számát.",
+       "answer": "C"
+      },
+      {
+       "n": "2",
+       "text": "A társadalom számára problémát jelenthet az iskoláztatás.",
+       "answer": "C"
+      },
+      {
+       "n": "3",
+       "text": "Fiatalodó társadalom.",
+       "answer": "C"
+      },
+      {
+       "n": "4",
+       "text": "A jövőben számolnia kell az országnak a növekvő munkanélküliséggel.",
+       "answer": "C"
+      },
+      {
+       "n": "5",
+       "text": "A nyugdíjak kifizetése egyre növekvő terhet jelent a társadalombiztosításnak.",
+       "answer": "B"
+      },
+      {
+       "n": "6",
+       "text": "Ha az élelmiszerhiányt nem sikerül megoldani, jelentős emigrációval számolhatnak.",
+       "answer": "C"
+      },
+      {
+       "n": "7",
+       "text": "Öregedő társadalom.",
+       "answer": "B"
+      },
+      {
+       "n": "8",
+       "text": "A halálozások száma meghaladhatja az élveszületések számát.",
+       "answer": "B"
+      },
+      {
+       "n": "9",
+       "text": "A munkaerőhiány megoldására vendégmunkásokra lesz szüksége az országnak.",
+       "answer": "B"
+      }
+     ],
+     "solution": "1. C; 2. C; 3. C; 4. C; 5. B; 6. C; 7. B; 8. B; 9. B. Minden helyes válasz 1 pont.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "title": "Fővárosok és éghajlati diagramjaik",
+   "instruction": "Tanulmányozza a térképvázlatot és az éghajlati diagramokat, majd válaszoljon a kérdésekre!",
+   "context": "",
+   "pages": [
+    14,
+    15
+   ],
+   "guidePages": [
+    6,
+    7
+   ],
+   "points": 19,
+   "needsFigure": true,
+   "figureNote": "Világtérkép-vázlat hét számozott várossal és hét éghajlati diagram (a–g).",
+   "subtopics": [
+    "4-6-a-vizszintes-foldrajzi-ovezetesseg",
+    "3-2-5-az-idojaras-es-az-eghajlat"
+   ],
+   "concepts": [
+    "szavannaéghajlat",
+    "forró övezeti (trópusi) monszunéghajlat",
+    "óceáni éghajlat",
+    "mediterrán éghajlat",
+    "egyenlítői éghajlat",
+    "forró övezeti (trópusi) sivatagi éghajlat",
+    "nyugatias szelek"
+   ],
+   "places": [
+    "europa--varosok--london",
+    "afrika--varosok--kairo",
+    "azsia--varosok--ujdelhi",
+    "azsia--varosok--jakarta",
+    "azsia--varosok--tokio",
+    "amerika--varosok--braziliavaros",
+    "europa--varosok--roma"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Ismerje fel, hogy a térképvázlatba írt számok mely fővárosokat illetve gazdasági központokat jelölik! Töltse ki a túloldalon lévő táblázatot! Írja a számok után a városok nevét, illetve a városra jellemző éghajlati diagramnak a betűjelét!",
+     "points": 14,
+     "items": [
+      {
+       "n": "1",
+       "text": "1. város; diagram betűjele",
+       "answer": "London; f"
+      },
+      {
+       "n": "2",
+       "text": "2. város; diagram betűjele",
+       "answer": "Kairó; d"
+      },
+      {
+       "n": "3",
+       "text": "3. város; diagram betűjele",
+       "answer": "(Új-)Delhi; c"
+      },
+      {
+       "n": "4",
+       "text": "4. város; diagram betűjele",
+       "answer": "Jakarta; a"
+      },
+      {
+       "n": "5",
+       "text": "5. város; diagram betűjele",
+       "answer": "Tokió; e"
+      },
+      {
+       "n": "6",
+       "text": "6. város; diagram betűjele",
+       "answer": "Brazíliaváros /Brasilia; b"
+      },
+      {
+       "n": "7",
+       "text": "7. város; diagram betűjele",
+       "answer": "Róma; g"
+      }
+     ],
+     "solution": "1. London – f; 2. Kairó – d; 3. (Új-)Delhi – c; 4. Jakarta – a; 5. Tokió – e; 6. Brazíliaváros /Brasilia – b; 7. Róma – g. Minden jó helyre beírt városnév és éghajlati diagram betűjele 1-1 pont.",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Nevezze meg az alábbi betűjelekhez tartozó éghajlatot! b) … c) …",
+     "points": 2,
+     "items": [
+      {
+       "n": "b",
+       "text": "b) diagram éghajlata",
+       "answer": "Szavannaéghajlat"
+      },
+      {
+       "n": "c",
+       "text": "c) diagram éghajlata",
+       "answer": "Forró övezeti (trópusi) monszunéghajlat"
+      }
+     ],
+     "solution": "b) Szavannaéghajlat (1 pont); c) Forró övezeti (trópusi) monszunéghajlat (1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "matching",
+     "prompt": "Melyik városból érkezhettek az alábbi üzenetek? Írja az üzenet betűjelét a táblázatba a megfelelő helyre!",
+     "points": 3,
+     "items": [
+      {
+       "n": "A",
+       "text": "A) A szél DNy-i lett, és meghozta az esőfelhőket. Beköszöntött az esős időszak. A helyiek, ha tehetik, a párás, fullasztó időjárás elől a közeli magas hegyekbe költöznek ilyenkor.",
+       "answer": "3. (Új-)Delhi"
+      },
+      {
+       "n": "B",
+       "text": "B) A szinte állandóan fújó nyugati szél gyakran hoz felhőket, sokszor elered az eső. Élvezem a kissé hűvös nyarat és a zöld parkokat, réteket.",
+       "answer": "1. London"
+      },
+      {
+       "n": "C",
+       "text": "C) Érdekes ez a karácsony. Itt ilyenkor van a legmelegebb, és ilyenkor esik a legtöbb eső is.",
+       "answer": "6. Brazíliaváros /Brasilia"
+      }
+     ],
+     "solution": "Üzenet betűjele: 1. London – B; 3. (Új-)Delhi – A; 6. Brazíliaváros /Brasilia – C. Minden jó helyre beírt üzenet-betűjel 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "title": "A városba vándorlás vonzó és taszító tényezői",
+   "instruction": "Elemezze a városfejlődést befolyásoló vonzó és taszító hatásokat!",
+   "context": "Olvassa el a népesség mozgását befolyásoló tényezőket, majd írja az ábra megfelelő négyzetébe az odaillő állítás betűjelét! A település felé mutató vastag nyíl a vonzó, a településből induló pedig a taszító hatást jelzi. A vékony nyilak logikai kapcsolatra utalnak. Néhány megállapítás betűjelét előre beírtuk.",
+   "pages": [
+    16
+   ],
+   "guidePages": [
+    7
+   ],
+   "points": 12,
+   "needsFigure": true,
+   "figureNote": "Folyamatábra négyzetekkel és nyilakkal a falu–város vándorlás vonzó és taszító tényezőiről, néhány előre beírt betűjellel.",
+   "subtopics": [
+    "5-2-telepulestipusok-urbanizacio",
+    "5-1-a-nepesseg-foldrajzi-jellemzoi"
+   ],
+   "concepts": [
+    "városfejlődés (urbanizáció)",
+    "népességmozgás (migráció)",
+    "belföldi és nemzetközi vándorlás",
+    "nyomornegyed",
+    "népességrobbanás"
+   ],
+   "places": [],
+   "note": "Az ábrába írandó betűjelek elhelyezése a szövegkivonatból teljesen hiányzik; a megoldás csak az útmutató 7. oldalának ábráján látható.",
+   "parts": [
+    {
+     "label": "",
+     "type": "diagram",
+     "prompt": "Írja az ábra megfelelő négyzetébe az odaillő állítás betűjelét!",
+     "points": 12,
+     "options": [
+      "A. Csökkenő kereslet a monokultúrában termelt mezőgazdasági termékek iránt a világpiacon.",
+      "B. Csökkenő igény a mezőgazdasági munkaerő iránt.",
+      "C. Magasabbak a jövedelmek az ipari és szolgáltatási szektorban.",
+      "D. Kisebb munkaerőigény az iparban és szolgáltatásokban.",
+      "E. Földhiány a 20. század első felében.",
+      "F. Növekvő esély a társadalmi felemelkedésre.",
+      "G. A parasztok tönkremennek.",
+      "H. A termés mennyiségének és minőségének csökkenése.",
+      "I. Kedvezőtlen környezeti folyamatok, romló környezeti állapot.",
+      "J. A munka nélkül maradt emberek nyomornegyedekben tengődnek.",
+      "K. A mezőgazdasági termékek ára egyre alacsonyabb lesz.",
+      "L. Intenzív népességnövekedés a 20. század elején.",
+      "M. A mezőgazdaság gyors ütemű gépesítése.",
+      "N. Kevésbé fejlett ipar és szolgáltatások.",
+      "O. Az intenzíven fejlődő ipar és szolgáltatások növekvő munkaerőigénye."
+     ],
+     "solution": "Minden jó helyre beírt betű 1 pont. Megjegyzés: más földrajzi szempontból helyes logikai kapcsolat is elfogadható. Minden helyes logikai kapcsolatra 1 pont adható. Lásd az útmutató 7. oldalát.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "title": "A Lehman Brothers csődje és a válság",
+   "instruction": "Olvassa el a pénzügyi-gazdasági válsággal kapcsolatos szöveget, és oldja meg a feladatokat!",
+   "context": "2008. szeptember 15-én az Egyesült Államok negyedik legnagyobb hitelintézete csődöt jelentett úgy, hogy a hitelminősítők mindvégig elsőrendű besorolásban tartották. A banknak 639 milliárd dollárja volt eszközökben, az adóssága viszont elérte a 619 milliárd dollárt. 25 ezer ember vesztette el a munkahelyét. A bank csődje dominóhatást indított el, sorra kerültek veszélybe a nemzetközi érdekeltséggel rendelkező hitelintézetek. A pénzügyi világválságból sok gazdaság a mai napig nem tért magához. A Lehman Brothers esetét a történelem legnagyobb bankcsődjének tartják. 2008. szeptember első hetében a részvényei értéke 77 százalékot zuhant. Szeptember 10-én 3,9 milliárd dolláros veszteséget jelentett, mire a Moody’s hitelminősítő bejelentette, hogy vizsgálja a Lehman Brothers állapotát. Erre még többen kezdték eladni Lehman-részvényeket. Bedőlése előtti hetének végére alig egymilliárd dollár készpénze maradt. A tárgyalások felgyorsultak a Barclays-zal és a Bank of Americával a felvásárlásról, ám sikertelenül végződtek. (Forrás: https://hu.euronews.com/2016/09/15/a-bank-amelyik-bedontotte-a-fel-vilagot-8-eve-jelentett-csodot-a-lehman-brothers)",
+   "pages": [
+    17,
+    18
+   ],
+   "guidePages": [
+    7,
+    8
+   ],
+   "points": 8,
+   "needsFigure": true,
+   "figureNote": "Logikai lánc ábrája három sorral (b), valamint diagram a magyarországi 15–29 éves munkanélküliek arányáról (c).",
+   "subtopics": [
+    "6-4-a-monetaris-vilag",
+    "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag"
+   ],
+   "concepts": [
+    "értékpapírok (állampapír, kötvény, részvény)",
+    "kereslet",
+    "kínálat",
+    "gazdasági visszaesés",
+    "munkanélküli",
+    "eltartott",
+    "aktív kereső"
+   ],
+   "places": [
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "note": "A b) rész logikai láncának helyes kitöltése (melyik sorba melyik betű kerül) a szövegkivonatból hiányzik; az útmutató 7. oldalán ellenőrizendő.",
+   "parts": [
+    {
+     "label": "a",
+     "type": "multiple-choice",
+     "prompt": "Miért adták el egyre többen a Lehman-részvényeiket? Karikázza be az egyetlen helyes válasz betűjelét!",
+     "points": 1,
+     "options": [
+      "A. Mert a nem sikerült a Bank of Americának felvásárolnia a Lehman Brothers hitelintézetet.",
+      "B. Mert a Lehman Brothers részvényeinek értéke nagyot csökkent, és a részvényesek nem akartak még nagyobb veszteséget.",
+      "C. Mert a bank adóssága meghaladta a 600 milliárd dollárt."
+     ],
+     "items": [
+      {
+       "n": "a",
+       "text": "A helyes válasz betűjele",
+       "answer": "B"
+      }
+     ],
+     "solution": "Bekarikázva: B",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "diagram",
+     "prompt": "Készítsen logikai láncot a folyamat ábrázolására az alábbi fogalompárok egyik elemének felhasználásával! Írja a megfelelő fogalom betűjelét az ábra száma mellé! 1. sor: A. csökkenő kínálat / B. növekvő kínálat; 2. sor: C. csökkenő kereslet / D. növekvő kereslet; 3. sor: E. csökkenő érték / F. növekvő érték;",
+     "points": 3,
+     "solution": "Minden jó helyre beírt betű 1 pont (1+1+1 pont). Lásd az útmutató 7. oldalát.",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "A pénzügyi válság gazdasági válságot okozott. Igazolja a diagram alapján, hogy a válság Magyarországon is éreztette a hatását! Mi tükrözi a válság hatását a diagramon? … Indokolja meg, miért lehetett ez a következmény! Fogalmazzon meg egy indokot!",
+     "points": 2,
+     "solution": "Nőtt a 15–29 éves munkanélküliek aránya 2009-től kezdődően. (1 pont) A csődök miatt cégek zártak be, / sok ember elvesztette a munkahelyét a visszaeső gazdaság miatt / gazdasági visszaesés volt. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Mi a különbség a munkanélküli és az eltartott között?",
+     "points": 2,
+     "solution": "A munkanélküliek a gazdaságilag aktív népességhez (1 pont), míg az eltartottak az inaktív / nem aktív népességhez tartoznak (1 pont). Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "title": "Kötvény és részvény",
+   "instruction": "Csoportosítsa a jellemzőket, és írja a jellemzők sorszámát a halmazábrába a megfelelő helyre!",
+   "context": "",
+   "pages": [
+    19
+   ],
+   "guidePages": [
+    8
+   ],
+   "points": 10,
+   "needsFigure": true,
+   "figureNote": "Halmazábra két egymást metsző halmazzal: kötvény és részvény.",
+   "subtopics": [
+    "6-4-a-monetaris-vilag"
+   ],
+   "concepts": [
+    "értékpapírok (állampapír, kötvény, részvény)",
+    "adósság",
+    "hozam"
+   ],
+   "places": [],
+   "note": "Az útmutató halmazábrájából a kivonatban három oszlop maradt meg (kötvény: 1, 4, 8, 9; közös rész: 2, 6, 7; részvény: 3, 5, 10); a hozzárendelés ebből a tördelésből készült, az útmutató 8. oldalán ellenőrizendő.",
+   "parts": [
+    {
+     "label": "",
+     "type": "diagram",
+     "prompt": "Csoportosítsa a jellemzőket, és írja a jellemzők sorszámát a halmazábrába a megfelelő helyre! (kötvény / részvény)",
+     "points": 10,
+     "items": [
+      {
+       "n": "1",
+       "text": "Állampapír is lehet.",
+       "answer": "kötvény"
+      },
+      {
+       "n": "2",
+       "text": "Értékpapír.",
+       "answer": "mindkettő"
+      },
+      {
+       "n": "3",
+       "text": "Akkor is kibocsáthatják, ha a vállalat alaptőkéjét szeretnék megemelni,",
+       "answer": "részvény"
+      },
+      {
+       "n": "4",
+       "text": "Felvett hitelek visszafizetése céljából is kiadhatják.",
+       "answer": "kötvény"
+      },
+      {
+       "n": "5",
+       "text": "Tulajdonosi jogokat is biztosít a vásárló számára.",
+       "answer": "részvény"
+      },
+      {
+       "n": "6",
+       "text": "Gazdálkodó szervezet adja ki.",
+       "answer": "mindkettő"
+      },
+      {
+       "n": "7",
+       "text": "Pénzbeli követelést jelent.",
+       "answer": "mindkettő"
+      },
+      {
+       "n": "8",
+       "text": "Vásárlásával az államnak is adhatunk kölcsön.",
+       "answer": "kötvény"
+      },
+      {
+       "n": "9",
+       "text": "Kibocsátása növeli az adósságot.",
+       "answer": "kötvény"
+      },
+      {
+       "n": "10",
+       "text": "Tulajdonosa számára nagy nyereséget, de nagy veszteséget is hozhat.",
+       "answer": "részvény"
+      }
+     ],
+     "solution": "kötvény: 1, 4, 8, 9; közös rész: 2, 6, 7; részvény: 3, 5, 10. Minden jó helyre beírt szám 1 pont.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 13,
+   "title": "Megyék népességarányának változása",
+   "instruction": "A táblázat azt mutatja, hogyan változott a magyarországi megyék részesedése az ország népességéből az egyes időszakokban. Tanulmányozza az adatsorokat, és oldja meg a hozzá kapcsolódó feladatokat!",
+   "context": "(Forrás: https://pangea.blog.hu/2017/07/26/felbillen_az_orszag) A rendszerváltás előtti szocialista időszakot jellemző erőteljes iparosítás következtében hazánkban kialakult egy délnyugat-északkeleti irányú gazdasági tengely, amely jelentős számú elvándorló munkaerőt vonzott magához a kevésbé fejlesztett, átszerveződő agrártérségekből és aprófalvas megyékből.",
+   "pages": [
+    20,
+    21
+   ],
+   "guidePages": [
+    8,
+    9
+   ],
+   "points": 10,
+   "needsFigure": true,
+   "figureNote": "Táblázat a magyar megyék és Budapest országos népességből való részesedésének változásáról több időszakban (1949-től).",
+   "subtopics": [
+    "7-3-magyarorszag-tarsadalmi-jellemzoi",
+    "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi"
+   ],
+   "concepts": [
+    "belföldi és nemzetközi vándorlás",
+    "elővárosodás (szuburbanizáció)",
+    "ellenvárosodás (dezurbanizáció)",
+    "természetes szaporodás",
+    "gazdasági szerkezetváltás"
+   ],
+   "places": [
+    "magyarorszag--megyek--pest-megye",
+    "magyarorszag--megyek--borsod-abauj-zemplen-megye",
+    "magyarorszag--megyek--fejer-megye",
+    "magyarorszag--megyek--bacs-kiskun-megye",
+    "magyarorszag--megyek--bekes-megye",
+    "magyarorszag--megyek--gyor-moson-sopron-megye",
+    "magyarorszag--megyek--hajdu-bihar-megye",
+    "magyarorszag--megyek--szabolcs-szatmar-bereg-megye",
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "table",
+     "prompt": "Írja a táblázatba annak a két-két megyének a nevét, amelyek adatai (1949-1980) leginkább alátámasztják a szövegben leírt folyamatot! (Gyorsan fejlődő gazdaságú megyék / Munkaerő kibocsátó megyék)",
+     "points": 4,
+     "solution": "Gyorsan fejlődő gazdaságú megyék: Pest; Borsod-Abaúj-Zemplén / Fejér. Munkaerő kibocsátó megyék: Bács-Kiskun; Békés. Minden jó megnevezés 1 pont. Megjegyzés: A gyorsan fejlődő gazdaságú megyék esetében a táblázatban szereplő három megye közül bármelyik kettő említése elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "A rendszerváltást követő időszakban az országon belüli, ún. belső vándorlás irányai megváltoztak, és egy újfajta gazdasági tengely kezdett kirajzolódni, amely kihatott a megyék népességszám-változására is. Nevezze meg a táblázat adatai alapján Pest megyén kívül azt a korábban is gyorsan fejlődő megyét, amelyik továbbra is növelni tudta a népességszám-arányát, mert megőrizte gazdasági vonzerejét!",
+     "points": 1,
+     "items": [
+      {
+       "n": "b",
+       "text": "A megye",
+       "answer": "Fejér megye"
+      }
+     ],
+     "solution": "Fejér megye",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "Melyik megye vált az országon belüli vándorlás új célpontjává a rendszerváltás után a magasabb munkabérek és a bőséges munkalehetőség miatt?",
+     "points": 1,
+     "items": [
+      {
+       "n": "c",
+       "text": "A megye",
+       "answer": "Győr-Moson-Sopron megye"
+      }
+     ],
+     "solution": "Győr-Moson-Sopron megye",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Mely folyamatra utal Budapest és Pest megye arányának változása az utóbbi időszakban? Az adatok változásának magyarázata: … Mi a neve ennek a településföldrajzi folyamatnak?",
+     "points": 2,
+     "solution": "A zsúfolt fővárosból (az élhetőbb) elővárosokba / agglomerációs településekre költöznek ki a lakók. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható. Ellenvárosodás / dezurbanizáció / elővárosodás. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "e",
+     "type": "short-answer",
+     "prompt": "Nevezzen meg két megyét, ahol nem elsősorban az odavándorlás miatt, hanem az átlagosnál magasabb természetes szaporodás miatt nő a népességszám országon belüli aránya!",
+     "points": 2,
+     "solution": "Hajdú-Bihar megye, Szabolcs-Szatmár-Bereg megye (1+1 pont). Megjegyzés: a sorrend nem számít.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "title": "Megyék és megyeszékhelyek",
+   "instruction": "Oldja meg a térképvázlathoz kapcsolódó feladatot!",
+   "context": "",
+   "pages": [
+    22
+   ],
+   "guidePages": [
+    9
+   ],
+   "points": 12,
+   "needsFigure": true,
+   "figureNote": "Magyarország megyetérképe számozott megyékkel.",
+   "subtopics": [
+    "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi"
+   ],
+   "concepts": [
+    "régió"
+   ],
+   "places": [
+    "magyarorszag--vizrajz--sio",
+    "magyarorszag--telepulesek--szekesfehervar",
+    "magyarorszag--telepulesek--kaposvar",
+    "magyarorszag--telepulesek--szekszard",
+    "magyarorszag--nagyregiok-regiok--kozep-dunantul-regio",
+    "magyarorszag--megyek--veszprem-megye",
+    "magyarorszag--megyek--komarom-esztergom-megye",
+    "magyarorszag--megyek--fejer-megye",
+    "magyarorszag--vizrajz--tisza",
+    "magyarorszag--vizrajz--zagyva",
+    "magyarorszag--telepulesek--szolnok"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Mely számok jelölik azokat a megyéket, amelyeken a Sió keresztülfolyik? Nevezze meg a megyék központjait is! (A megyék sorszáma / A megyeszékhely neve)",
+     "points": 6,
+     "solution": "5. Székesfehérvár (1+1 pont); 7. Kaposvár (1+1 pont); 8. Szekszárd (1+1 pont). Megjegyzés: a sorrend nem számít.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Sorolja fel a Közép-Dunántúl régiót alkotó megyéket!",
+     "points": 3,
+     "solution": "Veszprém megye, Komárom–Esztergom megye, Fejér megye (1+1+1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "map",
+     "prompt": "A 15-ös számmal jelölt megye székhelye két folyó találkozásánál fekszik. Nevezze meg a két folyót! … Nevezze meg a megyeszékhelyet! …",
+     "points": 3,
+     "solution": "Tisza, Zagyva (A folyók sorrendje nem számít.) (1+1 pont); Szolnok (1 pont)",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "title": "Csehország és Szlovákia",
+   "instruction": "Tanulmányozza a térképvázlatokat, majd oldja meg a feladatokat!",
+   "context": "",
+   "pages": [
+    23,
+    24
+   ],
+   "guidePages": [
+    9,
+    10
+   ],
+   "points": 24,
+   "needsFigure": true,
+   "figureNote": "Két térképvázlat két szomszédos, világos színnel kiemelt országról, római számokkal jelölt szomszédokkal, számozott városokkal és betűkkel jelölt tájakkal, folyóval.",
+   "subtopics": [
+    "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia"
+   ],
+   "concepts": [],
+   "places": [
+    "europa--orszagok--csehorszag",
+    "europa--orszagok--szlovakia",
+    "europa--orszagok--ukrajna",
+    "europa--varosok--revkomarom",
+    "europa--varosok--ostrava",
+    "europa--varosok--pozsony",
+    "europa--varosok--brno",
+    "europa--varosok--plze",
+    "europa--varosok--praga",
+    "europa--varosok--kassa",
+    "europa--varosok--karlovy-vary",
+    "europa--tajak--szudetak",
+    "europa--tajak--cseh-medence",
+    "europa--tajak--morva-medence",
+    "europa--tajak--magas-tatra",
+    "europa--vizrajz--vag",
+    "magyarorszag--vizrajz--hernad"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg térképvázlaton ábrázolt, világos színnel kiemelt, egymással szomszédos országokat! Írja a nevüket a térképvázlatok alatti pontozott vonalakra!",
+     "points": 2,
+     "items": [
+      {
+       "n": "1",
+       "text": "Felső térkép",
+       "answer": "Csehország"
+      },
+      {
+       "n": "2",
+       "text": "Alsó térkép",
+       "answer": "Szlovákia"
+      }
+     ],
+     "solution": "Felső térkép: Csehország (1 pont); Alsó térkép: Szlovákia (1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "map",
+     "prompt": "Melyik római szám jelöli az 1. térképen látható országot a 2. térképen?",
+     "points": 1,
+     "items": [
+      {
+       "n": "b",
+       "text": "Római szám",
+       "answer": "V."
+      }
+     ],
+     "solution": "Az V. szám.",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "map",
+     "prompt": "Nevezze meg a 2. térképen II-es számmal jelölt országot!",
+     "points": 1,
+     "items": [
+      {
+       "n": "c",
+       "text": "II. ország",
+       "answer": "Ukrajna"
+      }
+     ],
+     "solution": "Ukrajna",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "map",
+     "prompt": "Az alábbi állítások egy-egy, a térképvázlatokban számokkal jelölt városra vonatkoznak. Írja az állítás után a város nevét és a térképi sorszámát!",
+     "points": 16,
+     "items": [
+      {
+       "n": "1",
+       "text": "A magyarlakta vidék kulturális központja, fontos kikötőváros.",
+       "answer": "Révkomárom / Komarno; 8"
+      },
+      {
+       "n": "2",
+       "text": "Feketekőszén bányászatáról és gépgyártásáról nevezetes ipari központ a Szudétáktól délkeletre.",
+       "answer": "Ostrava; 4"
+      },
+      {
+       "n": "3",
+       "text": "A Volkswagen gyár jelentős üzeme működik ebben a fővárosban.",
+       "answer": "Pozsony / Bratislava; 6"
+      },
+      {
+       "n": "4",
+       "text": "Régi vásárváros és gépipari központ a Morva-medencében.",
+       "answer": "Brno; 5"
+      },
+      {
+       "n": "5",
+       "text": "A Škoda gyár egyik központja is ebben a söréről híres városban található.",
+       "answer": "Plzeň; 3"
+      },
+      {
+       "n": "6",
+       "text": "A Vár (Hradzsin) és a Moldva folyón átívelő Károly-híd sok turistát vonz ebbe a „száztornyú” fővárosba.",
+       "answer": "Prága; 2"
+      },
+      {
+       "n": "7",
+       "text": "A Hernád-parti nehézipari város gótikus székesegyházában nyugszanak II. Rákóczi Ferenc hamvai.",
+       "answer": "Kassa; 7"
+      },
+      {
+       "n": "8",
+       "text": "Porcelán- és kerámiagyártásáról híres üdülőváros.",
+       "answer": "Karlovy Vary; 1"
+      }
+     ],
+     "solution": "1. Révkomárom / Komarno 8; 2. Ostrava 4; 3. Pozsony / Bratislava 6; 4. Brno 5; 5. Plzeň 3; 6. Prága 2; 7. Kassa 7; 8. Karlovy Vary 1 (1+1 pont mindegyik)",
+     "autoCheck": true
+    },
+    {
+     "label": "e",
+     "type": "map",
+     "prompt": "Nevezze meg a nagybetűkkel jelölt földrajzi fogalmakat! A: … -medence B: … -medence C: … (hegység) D: … (folyó)",
+     "points": 4,
+     "items": [
+      {
+       "n": "A",
+       "text": "A: …-medence",
+       "answer": "Cseh-medence"
+      },
+      {
+       "n": "B",
+       "text": "B: …-medence",
+       "answer": "Morva-medence"
+      },
+      {
+       "n": "C",
+       "text": "C: (hegység)",
+       "answer": "Magas-Tátra"
+      },
+      {
+       "n": "D",
+       "text": "D: (folyó)",
+       "answer": "Vág"
+      }
+     ],
+     "solution": "A: Cseh-medence; B: Morva-medence; C: Magas-Tátra; D: Vág (1-1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "title": "Super Bowl: amerikai városok",
+   "instruction": "A szemelvény és az ábrák tanulmányozása alapján oldja meg a feladatokat!",
+   "context": "A minneapolisi (é.sz. 44°58’49”, ny.h. 93°15’51”, a térképen M betűvel jelölve) US Bank Stadion adott otthont az 52. Super Bowlnak, ahol a tavalyi bajnok New England Patriots és a Philadelphia Eagles mérte össze erejét. A mérkőzést a Philadelphia Eagles nyerte, története során először nyert Super Bowlt. A mérkőzés magyar idő szerint 2018. február 5-én 0:30-kor kezdődött.",
+   "pages": [
+    25,
+    26
+   ],
+   "guidePages": [
+    10
+   ],
+   "points": 11,
+   "needsFigure": true,
+   "figureNote": "Az Amerikai Egyesült Államok térképvázlata betűkkel jelölt városokkal és számozott folyókkal.",
+   "subtopics": [
+    "amerikai-egyesult-allamok"
+   ],
+   "concepts": [],
+   "places": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "amerika--varosok--chicago",
+    "amerika--varosok--dallas",
+    "amerika--varosok--houston",
+    "amerika--varosok--new-orleans",
+    "amerika--varosok--san-francisco",
+    "amerika--varosok--seattle",
+    "amerika--vizrajz--mississippi"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Azonosítsa az amerikai futballcsapatok városát! Írja a térképi betűjelet a csapat neve utáni vonalra!",
+     "points": 6,
+     "items": [
+      {
+       "n": "1",
+       "text": "Chicago Bears",
+       "answer": "D"
+      },
+      {
+       "n": "2",
+       "text": "Dallas Cowboys",
+       "answer": "E"
+      },
+      {
+       "n": "3",
+       "text": "Houston Texans",
+       "answer": "F"
+      },
+      {
+       "n": "4",
+       "text": "New Orleans Saints",
+       "answer": "G"
+      },
+      {
+       "n": "5",
+       "text": "San Francisco 49ers",
+       "answer": "B"
+      },
+      {
+       "n": "6",
+       "text": "Seattle Seahawks",
+       "answer": "A"
+      }
+     ],
+     "solution": "Chicago Bears: D; Dallas Cowboys: E; Houston Texans: F; New Orleans Saints: G; San Francisco 49ers: B; Seattle Seahawks: A. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "A csapatok városai közül kettőről egy könyvben rövid ismertetőt olvashatunk. Melyikről? Írja a városok nevét a leírás utáni vonalakra!",
+     "points": 2,
+     "items": [
+      {
+       "n": "1",
+       "text": "„Az elmúlt több mint egy évtizedben – a Katrina hurrikán 2005-ös pusztítását követően - a város gazdasági és kulturális értelemben is újjászületett, évente több mint 10 millió turista látogatja. Nyáron trópusi hőség uralkodik, 30 °C-ot is meghaladó hőmérséklettel és magas páratartalommal.”",
+       "answer": "New Orleans"
+      },
+      {
+       "n": "2",
+       "text": "„Ha sikerül az időjárásra való panaszkodástól eljutni a város megismeréséig, igencsak elcsodálkozunk. Ez a nyugati part menti város ugyanis nem csupán a Boeing és a Starbucks otthona. Itt van az Amazon, a Microsoft, a Costco és az Expedia központja is. A Boeing - több más cég is - közben elköltözött, de az alapítás és a márka felfuttatása mindenképpen ehhez a városhoz kötődik.”",
+       "answer": "Seattle"
+      }
+     ],
+     "solution": "New Orleans (1 pont); Seattle (1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "map",
+     "prompt": "Melyik folyón kellett átkelniük azoknak a szurkolóknak, akik Chicagoból autóval érkeztek a döntőre? A folyó száma a térképen … a folyó neve: …",
+     "points": 2,
+     "items": [
+      {
+       "n": "1",
+       "text": "A folyó száma a térképen",
+       "answer": "2"
+      },
+      {
+       "n": "2",
+       "text": "A folyó neve",
+       "answer": "Mississippi"
+      }
+     ],
+     "solution": "A folyó száma a térképen: 2 (1 pont); A folyó neve: Mississippi (1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Az egyik csapat városa egyben az amerikai űrkutatás központja is. Melyik ez a csapat?",
+     "points": 1,
+     "items": [
+      {
+       "n": "d",
+       "text": "A csapat",
+       "answer": "A Houston (Texans)"
+      }
+     ],
+     "solution": "A Houston (Texans)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 17,
+   "title": "Klímaváltozás és fajkihalás",
+   "instruction": "Olvassa el a szövegrészletet, majd válaszoljon a kérdésekre a források alapján!",
+   "context": "„Ha az évszázad végére átlagosan 2,5-3 fokkal lesz melegebb, 15-20 százalékkal zuhan az egy főre jutó GDP, ha 4 fokkal, a visszaesésé több mint 30 százalékkal emelkedik.”– írják legújabb tanulmányukban az amerikai Stanford Egyetem tudósai. …A hatalmas veszteség egyik fő oka, hogy a klímaváltozás miatt a szárazföldek óriási területei lakhatatlanná vagy gazdasági értelemben haszontalanná válnának. A sarki jég elolvadása miatt megemelkedne a tengerszint, sorra kerülnének víz alá a part menti települések, ezért legalább 700 millió embernek kellene elhagynia az otthonát. A felmelegedés és az egyre súlyosabb szárazság miatt pedig használhatatlanná válna a termőföldek jelentős része. Az USA déli államaiban, a mediterrán-medencében, illetve Latin-Amerikában újabb sivatagok alakulnának ki.” (Forrás: HVG. 2018. augusztus 23. 57.oldal) „A World Wildlife Fund (WWF) környezetvédelmi szervezet becslése szerint a Földön legalább kétmillióféle állat- és növényfaj él, s évente 200–2000-re tehető az eltűnők száma. A WWF úgy becsüli, hogy a természetes kipusztulási ütemnél legalább ezerszer gyorsabb a mostani kihalási sebesség, s ha folytatódik, akkor az évszázad végére az állat és növényfajok fele végleg eltűnik. A jelenlegi kihalási hullám már a hatodik, s miközben ez a leggyorsabb, egyben az első olyan, amelyet leginkább az emberi tevékenység – illegális vadászat, a természetes élőhelyek elpusztítása vagy elfoglalása, illetve a klímaváltozás – okoz.” (Forrás: HVG, 2017. június 20. 27. oldal)",
+   "pages": [
+    27,
+    28
+   ],
+   "guidePages": [
+    10
+   ],
+   "points": 12,
+   "needsFigure": false,
+   "subtopics": [
+    "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei",
+    "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa"
+   ],
+   "concepts": [
+    "éghajlatváltozás (klímaváltozás)",
+    "globális felmelegedés",
+    "a biológiai sokféleség (biodiverzitás) csökkenése",
+    "elsivatagosodás",
+    "WWF",
+    "bruttó hazai termék (GDP)",
+    "aszály"
+   ],
+   "places": [
+    "amerika--a-foldresz-reszei--latin-amerika"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "true-false",
+     "prompt": "A fenti szövegrészletek alapján egy tanulmányhoz készített vázlat részleteit olvashatja. Döntse el, hogy igazak vagy hamisak a vázlatban szereplő állítások! Írjon I betűt az igaz, és H betűt a hamis megállapítások sorszáma elé!",
+     "points": 8,
+     "items": [
+      {
+       "n": "1",
+       "text": "A klímaváltozás hatására a század végére a legoptimistább becslések szerint is 15%-nál nagyobb mértékben csökkenhet az egy főre jutó GDP.",
+       "answer": "I"
+      },
+      {
+       "n": "2",
+       "text": "A klímaváltozás is szerepet játszik abban, hogy egyre több faj tűnik el a Földön.",
+       "answer": "I"
+      },
+      {
+       "n": "3",
+       "text": "A WWF az ENSZ oktatással és a gyermekvédelemmel foglakozó szervezete.",
+       "answer": "H"
+      },
+      {
+       "n": "4",
+       "text": "A tengerszint emelkedése gazdasági növekedést eredményezhet, így nő az egy főre jutó GDP értéke.",
+       "answer": "H"
+      },
+      {
+       "n": "5",
+       "text": "A fajok jelenlegi kipusztulási üteme nem kirívó folyamat a Föld történetében.",
+       "answer": "H"
+      },
+      {
+       "n": "6",
+       "text": "A felmelegedés miatt Latin-Amerikában növekedni fog az esőerdők területe.",
+       "answer": "H"
+      },
+      {
+       "n": "7",
+       "text": "A hatodik kihalási hullám abban különleges, hogy az emberi tevékenység is szerepet játszik a folyamatban.",
+       "answer": "I"
+      },
+      {
+       "n": "8",
+       "text": "Ha évente 2000 faj továbbra is eltűnne, akkor 1000 év múlva nagy valószínűséggel már nem lennének jelenleg ismert növényfajok a Földön.",
+       "answer": "I"
+      }
+     ],
+     "solution": "1. I; 2. I; 3. H; 4. H; 5. H; 6. H; 7. I; 8. I. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Mely két okra vezethető vissza a hasznosítható földterületek csökkenése?",
+     "points": 2,
+     "solution": "– Vízszintemelkedés. (1 pont) – Aszály / szárazság / sivatagok térhódítása. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható. Bármelyik említése esetén jár a pont.",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "Fogalmazza meg a biodiverzitás fogalmát! Milyen összefüggés van a cikkben leírt folyamat és a biodiverzitás között?",
+     "points": 2,
+     "solution": "Biológiai sokféleség. (1 pont) A fajok kipusztulásával csökken a biodiverzitás. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  }
+ ]
+}

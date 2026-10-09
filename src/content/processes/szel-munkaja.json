@@ -1,0 +1,126 @@
+{
+  "id": "szel-munkaja",
+  "title": "A szél felszínformálása",
+  "summary": "A szél a növényzettel nem védett, száraz felszínről kifújja a finom szemcséket, a homokkal csiszolja a sziklákat, majd az anyagot máshol felhalmozza. Formái főként a sivatagokban és a laza üledékkel borított területeken jellemzők.",
+  "causes": [
+    "A szél akkor formálja a felszínt, ha erős és gyakori, a felszín száraz, és nincs összefüggő növénytakaró.",
+    "A laza, finom szemcsés üledék (homok, por) könnyen mozgatható.",
+    "Ezért a szél munkája a sivatagokban, a tengerpartokon és a jégkorszakban a jégtakaró peremén volt a legerősebb."
+  ],
+  "course": [
+    "Szélkifúvás (defláció): a szél felkapja és elszállítja a finom szemcséket, a durvább anyag visszamarad (kősivatag, kavicssivatag).",
+    "Szélmarás: a szél által sodort homok a felszín közelében csiszolja a sziklákat; gombasziklák, szélbarázdák keletkeznek.",
+    "Szállítás: a homokot a szél a felszín közelében görgeti és ugráltatja, a finom port nagy magasságba és messzire viszi.",
+    "Felhalmozás: a homokból homokfodor, homokbucka (dűne), barkán, parabolabucka épül; a messzire szállított porból lösz rakódik le."
+  ],
+  "consequences": [
+    "A sivatagokban kő-, kavics- és homoksivatagok, vándorló dűnék alakulnak ki.",
+    "A vándorló homokbuckák utakat, oázisokat, településeket temethetnek be.",
+    "A növényzet nélküli mezőgazdasági területeken a szél a termékeny feltalajt is elhordja (szélerózió, talajpusztulás).",
+    "A jégkorszakban lerakódott löszön termékeny talajok (mezőségi talaj) alakultak ki."
+  ],
+  "steps": [
+    {
+      "title": "Erős szél, csupasz felszín",
+      "caption": "A száraz, növényzet nélküli, laza üledékkel borított felszínen a szél akadálytalanul hat.",
+      "icon": "wind"
+    },
+    {
+      "title": "Szélkifúvás (defláció)",
+      "caption": "A szél felkapja a finom szemcséket, a durvább kavics és kő visszamarad.",
+      "icon": "arrow-up"
+    },
+    {
+      "title": "Szélmarás",
+      "caption": "A sodort homok a felszín közelében csiszolja a sziklákat: gombasziklák (kőgombák) és szélbarázdák keletkeznek.",
+      "icon": "mountain"
+    },
+    {
+      "title": "Szállítás",
+      "caption": "A homokot a szél a felszín közelében ugráltatja, a port pedig nagy magasságba emeli és messzire viszi.",
+      "icon": "arrow-right"
+    },
+    {
+      "title": "Homokformák felhalmozása",
+      "caption": "Ahol a szél ereje csökken, a homok homokfodorrá, dűnévé, barkánná vagy parabolabuckává halmozódik.",
+      "icon": "layers"
+    },
+    {
+      "title": "Löszképződés",
+      "caption": "A messzire szállított finom por a füves területeken lerakódik, és löszként halmozódik fel.",
+      "icon": "sprout"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Szaharában a szél munkája tipikus: kő- és kavicssivatagok (defláció), szélmarta sziklák és vándorló barkánok.",
+      "places": [
+        "afrika--tajak--szahara"
+      ]
+    },
+    {
+      "text": "A Kiskunságban és a Nyírségben a jégkorszakban a szél által felhalmozott homokból homokbuckák (pl. parabolabuckák) épültek.",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--kiskunsag",
+        "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+      ]
+    },
+    {
+      "text": "A Mezőföldet vastag, a jégkorszakban lerakódott lösztakaró borítja, rajta termékeny talajok alakultak ki.",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--mezofold"
+      ]
+    },
+    {
+      "text": "A Góbiban a szél kifújta a finom anyagot, nagy kiterjedésű kavicssivatagok maradtak vissza.",
+      "places": [
+        "azsia--tajak--gobi"
+      ]
+    }
+  ],
+  "concepts": [
+    "homokfodor",
+    "homokbucka (dűne)",
+    "szélkifúvás (defláció)",
+    "szélmarás",
+    "barkán",
+    "parabolabucka",
+    "deflációs tanúhegy",
+    "gombaszikla (kőgomba)",
+    "szélbarázda",
+    "lösz",
+    "homok"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a szél felszínformáló munkáját! Mutasd be a lepusztító és a felhalmozó formákat, és indokold, hol a legerősebb a szél munkája!",
+    "elements": [
+      {
+        "text": "Feltétel: erős szél, száraz felszín, hiányzó növénytakaró, laza üledék (sivatagok, tengerpartok).",
+        "points": 2
+      },
+      {
+        "text": "Szélkifúvás (defláció): a finom szemcsék elszállítása, a durva anyag visszamarad (kő-, kavicssivatag).",
+        "points": 2
+      },
+      {
+        "text": "Szélmarás: a sodort homok csiszolja a sziklákat (gombaszikla, szélbarázda).",
+        "points": 2
+      },
+      {
+        "text": "Felhalmozás: homokfodor, homokbucka (dűne), barkán, parabolabucka.",
+        "points": 2
+      },
+      {
+        "text": "A messzire szállított porból lösz rakódik le.",
+        "points": 1
+      },
+      {
+        "text": "Hazai példa: Kiskunság, Nyírség homokbuckái vagy Mezőföld lösze.",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A szél ott formálja hatékonyan a felszínt, ahol erős és gyakori, a felszín száraz, nincs összefüggő növénytakaró, és laza üledék borítja, ezért a sivatagokban és a tengerpartokon a legerősebb. Lepusztító munkája a szélkifúvás (defláció), amely során felkapja és elszállítja a finom szemcséket, a durvább anyag pedig kő- és kavicssivatagként visszamarad. A szél által sodort homok a felszín közelében csiszolja a sziklákat, ez a szélmarás, amely gombasziklákat és szélbarázdákat hoz létre. Ahol a szél ereje csökken, a homokot felhalmozza: homokfodor, homokbucka (dűne), barkán vagy parabolabucka keletkezik, a messzire szállított finom porból pedig lösz rakódik le. Hazánkban a Kiskunság és a Nyírség homokbuckái, illetve a Mezőföld lösztakarója a szél jégkorszaki munkájának eredménye."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,55 @@
+{
+  "id": "holdfazisok",
+  "title": "A holdfázisok",
+  "summary": "A Hold nem világít, csak visszaveri a Nap fényét; a Föld körüli keringése során változik, hogy megvilágított feléből mekkora részt látunk. Egy teljes fázisváltozás kb. 29,5 nap.",
+  "causes": [
+    "A Hold a Nap fényét veri vissza, mindig a Nap felé néző fele van megvilágítva.",
+    "A Hold a Föld körül kering, így változik a Nap, a Föld és a Hold egymáshoz viszonyított helyzete.",
+    "A Hold kötött tengelyforgású: mindig ugyanazt az oldalát mutatja a Föld felé."
+  ],
+  "course": [
+    "Újholdkor a Hold a Nap és a Föld között van, megvilágított fele felénk nem látszik.",
+    "Ezután a megvilágított rész nő (növekvő sarló, első negyed, növekvő hold), majd holdtöltekor a teljes korongot látjuk.",
+    "Holdtölte után a megvilágított rész csökken (fogyó hold, utolsó negyed, fogyó sarló), végül újra újhold lesz.",
+    "Egy teljes fázisciklus (újholdtól újholdig) kb. 29,5 nap."
+  ],
+  "consequences": [
+    "A holdfázisokra épült az egyik legrégebbi időszámítás, a holdhónap.",
+    "Újholdkor és holdtöltekor, amikor a Nap, a Föld és a Hold egy egyenesbe kerül, szökőár alakul ki, és ilyenkor jöhet létre fogyatkozás.",
+    "A Hold fázisától függ, hogy a nap mely szakában és mennyi ideig látható az égen."
+  ],
+  "steps": [
+    { "title": "Újhold", "caption": "A Hold a Nap és a Föld között áll, felénk a sötét oldalát fordítja, ezért nem látod. Csak ilyenkor lehet napfogyatkozás.", "icon": "sun" },
+    { "title": "Növekvő sarló", "caption": "Keskeny, jobb oldalán megvilágított sarlót látsz napnyugta után a nyugati égen. Az északi félgömbön a D betűhöz hasonló alak a „dagadó” Holdat jelzi.", "icon": "arrow-up" },
+    { "title": "Első negyed", "caption": "A Hold korongjának jobb fele világos, a Hold derékszögben áll a Nap–Föld irányhoz képest. Délután–este látható.", "icon": "arrow-up" },
+    { "title": "Növekvő hold", "caption": "A korongnak már több mint a fele világít, a megvilágított rész tovább nő. Az esti és éjszakai órákban látható.", "icon": "arrow-up" },
+    { "title": "Holdtölte (telihold)", "caption": "A Föld a Nap és a Hold között van, ezért a Hold teljes megvilágított felét látod. Napnyugtakor kel, egész éjjel fenn van; csak ilyenkor lehet holdfogyatkozás.", "icon": "globe" },
+    { "title": "Fogyó hold", "caption": "A megvilágított rész csökkenni kezd, a korong bal oldala marad világos. Késő este kel, hajnalig látható.", "icon": "arrow-down" },
+    { "title": "Utolsó negyed", "caption": "A korong bal fele világos, a Hold ismét derékszögben áll. Éjfél körül kel, reggel is látható.", "icon": "arrow-down" },
+    { "title": "Fogyó sarló", "caption": "Keskeny, bal oldalán megvilágított, C alakú sarlót látsz hajnalban a keleti égen. Ezután újra újhold következik.", "icon": "arrow-down" }
+  ],
+  "examples": [
+    { "text": "Az iszlám naptár holdhónapokra épül, ezért a ramadán a napév különböző évszakaira eshet.", "places": ["azsia--orszagok--szaud-arabia"] },
+    { "text": "A tengerparti térségekben, például a La Manche partjain, újholdkor és holdtöltekor a legnagyobb a tengerjárás (szökőár).", "places": ["europa--vizrajz--la-manche"] }
+  ],
+  "concepts": [
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)",
+    "Hold",
+    "hold",
+    "nap- és holdfogyatkozás"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a holdfázisok kialakulását! Mutasd be a fő fázisokat és a Nap, a Föld és a Hold helyzetét az egyes fázisokban!",
+    "elements": [
+      { "text": "A Hold nem világít, a Nap fényét veri vissza, mindig a Nap felőli fele megvilágított.", "points": 2 },
+      { "text": "A Hold a Föld körül kering, így változik, a megvilágított félből mennyit látunk.", "points": 2 },
+      { "text": "Újholdkor a Hold a Nap és a Föld között van, nem látjuk.", "points": 1 },
+      { "text": "Holdtöltekor a Föld van a Nap és a Hold között, a teljes korong látható.", "points": 1 },
+      { "text": "Első és utolsó negyedkor a Hold derékszögben áll, félkorongot látunk (első negyedkor a jobb, utolsókor a bal felét).", "points": 2 },
+      { "text": "Egy teljes fázisciklus kb. 29,5 nap.", "points": 1 }
+    ],
+    "modelAnswer": "A Hold nem saját fényével világít, hanem a Nap fényét veri vissza, ezért mindig a Nap felé néző fele van megvilágítva. A Föld körüli keringése során változik, hogy ebből a megvilágított félből mennyit látunk a Földről. Újholdkor a Hold a Nap és a Föld között áll, ezért nem látjuk, holdtöltekor viszont a Föld van a Nap és a Hold között, így a teljes korong világít. Első és utolsó negyedkor a Hold derékszögben áll a Nap–Föld irányhoz képest, ezért félkorongot látunk: első negyedkor a jobb, utolsó negyedkor a bal felét. Egy teljes fázisciklus, újholdtól újholdig, kb. 29,5 nap."
+  },
+  "generated": true,
+  "reviewed": false
+}

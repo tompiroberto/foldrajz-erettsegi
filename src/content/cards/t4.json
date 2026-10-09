@@ -1,0 +1,2882 @@
+{
+ "cards": [
+  {
+   "objectiveId": "4-1-a-foldfelszin-formalodasa--k1",
+   "explanation": "A földfelszín két, egymással ellentétes irányú erő „versenyében” formálódik.\n\nA belső erők energiája a Föld belső hőjéből származik. Ezek emelik ki és tagolják a felszínt:\n- lemezmozgások, gyűrődés, vetődés (Alpok, Himalája),\n- vulkánosság és földrengés.\n\nA külső erők energiája a Napból és a gravitációból ered. Ezek egyengetik a felszínt: lepusztítják a kiemelkedéseket és feltöltik a mélyedéseket. Munkájuk lépései: aprózódás és mállás → lepusztulás → szállítás → felhalmozás. Tényezői a víz, a jég, a szél, a tenger, a gravitáció és az élővilág.\n\nAz ember ma már jelentős külső erőként hat: bányagödrök és meddőhányók, gátak, folyószabályozás, teraszok, erdőirtás nyomán felgyorsuló talajerózió.\n\nHa a kiemelkedés gyorsabb, mint a lepusztulás, magas, éles formájú hegység jön létre; ha a lepusztulás erősebb, a hegység lealacsonyodik és lekerekedik.",
+   "diagram": null,
+   "concepts": [
+    "külső és belső erők",
+    "aprózódás",
+    "mállás",
+    "lepusztulás",
+    "szállítás",
+    "felhalmozás"
+   ],
+   "processes": [
+    "aprozodas-malas",
+    "lemezmozgasok"
+   ],
+   "examTip": "Gyakori kérdés, hogy honnan származik a belső és a külső erők energiája: belső – a Föld belső hője; külső – a Nap sugárzása és a gravitáció.",
+   "selfCheck": [
+    {
+     "q": "Mi a külső erők munkájának sorrendje?",
+     "a": "Aprózódás és mállás, lepusztulás, szállítás, felhalmozás."
+    },
+    {
+     "q": "Hogyan válik az ember felszínformáló tényezővé?",
+     "a": "Bányászattal, építkezéssel, gátépítéssel, folyószabályozással, erdőirtással, ami a természetes folyamatokat is felgyorsítja."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A külső erők összességében a felszín egyenetlenségeinek kiegyenlítésére törekszenek.",
+     "true": true
+    },
+    {
+     "statement": "A külső erők energiája a Föld belső hőjéből származik.",
+     "true": false,
+     "correction": "A külső erők energiája a napsugárzásból és a gravitációból származik; a belső hő a belső erőket táplálja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-1-a-foldfelszin-formalodasa--k2",
+   "explanation": "A belső erők legtöbb megnyilvánulása a kőzetlemezek határán sűrűsödik. Kapcsold össze a lemezmozgás típusát a következményeivel!\n\n- Távolodó lemezek: óceánközépi hátság, hasadékvölgy, hasadékvulkánosság, sekély rengések (Izland, Kelet-afrikai-árok).\n- Óceáni és kontinentális lemez közeledése: alábukás, mélytengeri árok, vulkáni hegység, erős földrengések (Andok, Perui-árok).\n- Két óceáni lemez közeledése: vulkáni szigetív (Japán, Aleuti-szigetek).\n- Két kontinentális lemez ütközése: gyűrthegység, vulkánosság nélkül, de rengésekkel (Himalája).\n- Elcsúszó lemezek: földrengések, törésvonal (Szent András-törésvonal, Kalifornia).\n\nA lemezeken belül is vannak belső erők: forró pont feletti vulkánok (Hawaii), valamint a lemezmozgás miatti feszültségek okozta vetődések, rögösödés (pl. a Kárpát-medence rögei).",
+   "diagram": "plate-boundaries",
+   "concepts": [
+    "külső és belső erők",
+    "lánchegység",
+    "medence"
+   ],
+   "processes": [
+    "lemezmozgasok",
+    "forro-pont",
+    "vulkani-mukodes"
+   ],
+   "examTip": "Vaktérképes feladatban gyakori, hogy egy hegységhez vagy vulkánhoz meg kell nevezni a lemezmozgás típusát. Ne feledd: a Himalájában nincs jelentős vulkánosság!",
+   "selfCheck": [
+    {
+     "q": "Milyen forma jön létre két óceáni lemez közeledésekor?",
+     "a": "Mélytengeri árok és vulkáni szigetív (pl. Japán)."
+    },
+    {
+     "q": "Melyik lemezmozgáshoz kötődik a Szent András-törésvonal?",
+     "a": "Az elcsúszó (egymás mellett elmozduló) lemezekhez."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Andok óceáni és kontinentális lemez közeledésével, alábukással keletkezett.",
+     "true": true
+    },
+    {
+     "statement": "A Himalája vulkáni szigetív, két óceáni lemez ütközésének eredménye.",
+     "true": false,
+     "correction": "A Himalája két kontinentális lemez (Indiai- és Eurázsiai-lemez) ütközésével létrejött gyűrthegység."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-1-a-foldfelszin-formalodasa--k3",
+   "explanation": "A felszínformákat a tengerszint feletti magasság, a relatív magasság (szintkülönbség) és az alak alapján ismered fel.\n\nSíkságok (kis szintkülönbség):\n- mélyföld: a tenger szintje alatt fekvő síkság,\n- alföld: 0–200 m közötti síkság,\n- fennsík: magasan fekvő, viszonylag sík felszín.\n\nKiemelkedések:\n- hátság: síkságból enyhén kiemelkedő, lapos térszín,\n- dombság: kb. 200–500 m, lekerekített formák,\n- középhegység: kb. 500–1500 m, lekerekített gerincek,\n- magashegység: 1500 m felett, éles csúcsok, gerincek.\n\nMélyedések: völgy (hosszan elnyúló), medence (minden oldalról magasabb térszín veszi körül).\n\nKülönleges formák: tanúhegy (a környezeténél ellenállóbb kőzet védte meg a lepusztulástól), hágó (nyereg a hegygerincen), szoros (keskeny völgy két hegység között). Képen figyeld a csúcsok alakját, a növényzetet és a hóborítást is!",
+   "diagram": "contour-section",
+   "concepts": [
+    "mélyföld",
+    "alföld",
+    "fennsík",
+    "dombság",
+    "közép- és magashegység",
+    "tanúhegy"
+   ],
+   "processes": [],
+   "examTip": "Fényképen a magashegységet az éles, csipkés gerincek, a sziklás csúcsok és gyakran a hó jelzik; a középhegység lekerekített és többnyire erdővel borított.",
+   "selfCheck": [
+    {
+     "q": "Miben különbözik a mélyföld az alföldtől?",
+     "a": "A mélyföld a tenger szintje alatt fekszik, az alföld 0–200 m közötti síkság."
+    },
+    {
+     "q": "Mi a medence?",
+     "a": "Minden oldalról magasabb térszínnel körülvett mélyedés."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A tanúhegyet a környezeténél ellenállóbb kőzet védte meg a lepusztulástól.",
+     "true": true
+    },
+    {
+     "statement": "A hágó két hegység közötti keskeny, mély folyóvölgy.",
+     "true": false,
+     "correction": "Ez a szoros; a hágó a hegygerinc nyeregszerű, alacsonyabb része, ahol át lehet kelni."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-1-a-foldfelszin-formalodasa--k4",
+   "explanation": "Minden felszínformához tanulj meg legalább egy hazai és egy külföldi példát!\n\n- Mélyföld: Kaszpi-mélyföld, a Holt-tenger mélyedése.\n- Alföld: Nagy-Alföld, Kisalföld, Kelet-európai-síkság, Amazonas-medence síksága.\n- Fennsík: Tibeti-fennsík, Dekkán-fennsík; nálunk a Bükk-fennsík.\n- Hátság: Duna–Tisza közi hátság, Nyírség.\n- Dombság: Zalai-dombság, Somogyi-dombság.\n- Középhegység: Mátra, Bükk, Mecsek; külföldön Urál, Appalache.\n- Magashegység: Alpok, Himalája, Andok, Magas-Tátra.\n- Medence: Kárpát-medence, Kongó-medence, Tarim-medence.\n- Tanúhegy: Badacsony, Szent György-hegy (Tapolcai-medence).\n- Háthegység: Urál, Skandináv-hegység (idős, lekerekített).\n- Lánchegység: Alpok, Kárpátok, Andok (fiatal, hosszan elnyúló).\n- Hágó: Vereckei-hágó, Brenner-hágó.\n- Szoros: Visegrádi-szoros, Vaskapu-szoros.",
+   "diagram": null,
+   "concepts": [
+    "alföld",
+    "hátság",
+    "háthegység",
+    "lánchegység",
+    "hágó",
+    "szoros"
+   ],
+   "processes": [],
+   "examTip": "Ne keverd a háthegységet a hátsággal! A hátság síkságból alig kiemelkedő térszín (Nyírség), a háthegység idős, lekerekített hegység (Urál).",
+   "selfCheck": [
+    {
+     "q": "Mondj egy hazai példát tanúhegyre!",
+     "a": "Badacsony vagy Szent György-hegy a Tapolcai-medencében."
+    },
+    {
+     "q": "Melyik a háthegység: az Alpok vagy az Urál?",
+     "a": "Az Urál; az Alpok fiatal lánchegység."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nyírség és a Duna–Tisza közi hátság hazai példák a hátságra.",
+     "true": true
+    },
+    {
+     "statement": "A Mátra magashegység, mert Magyarország legmagasabb hegysége.",
+     "true": false,
+     "correction": "A Mátra középhegység; a magashegységek 1500 m fölé emelkednek, éles formákkal (pl. Alpok)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-1-a-foldfelszin-formalodasa--k5",
+   "explanation": "A térképen a felszínformákat a színfokozatok és a szintvonalak alapján azonosítod.\n\n- Zöld árnyalatok: síkságok (alföld, mélyföld) – pl. Nagy-Alföld, Kelet-európai-síkság, Amazonas-medence.\n- Sárga, világosbarna: dombságok, alacsony fennsíkok, hátságok.\n- Barna, sötétbarna: közép- és magashegységek – pl. Alpok, Kárpátok, Himalája.\n- Medence: zöld folt barna kerettel (Kárpát-medence, Tarim-medence).\n\nTérképvázlaton (kontúrtérképen) a formát a helyzetéből kell kikövetkeztetned:\n- ív alakú, hosszan elnyúló hegylánc: lánchegység (Kárpátok, Andok),\n- folyó két hegység között áttörve: szoros (Vaskapu, Visegrádi-szoros),\n- hegységek közötti nyereg, gyakran út vagy vasút halad át rajta: hágó.\n\nGyakorold a hazai formákat is: Tapolcai-medence tanúhegyei, Nyírség, Duna–Tisza közi hátság, Mecsek, Bükk.",
+   "diagram": "contour-section",
+   "concepts": [
+    "medence",
+    "völgy",
+    "szoros",
+    "hágó",
+    "lánchegység",
+    "alföld"
+   ],
+   "processes": [],
+   "examTip": "Kontúrtérképes feladatban a betűvel vagy számmal jelölt helyet meg kell nevezned és a formatípust is meg kell adnod; mindkettőre jár pont.",
+   "selfCheck": [
+    {
+     "q": "Milyen színnel jelöli a domborzati térkép a síkságokat?",
+     "a": "Zöld árnyalatokkal."
+    },
+    {
+     "q": "Hogyan ismersz fel egy medencét a térképen?",
+     "a": "Alacsonyabb (zöld) terület, amelyet minden oldalról magasabb (barna) térszín vesz körül."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Vaskapu-szoros a Duna áttörése a Déli-Kárpátok és a Szerb-érchegység között.",
+     "true": true
+    },
+    {
+     "statement": "A domborzati térkép zöld színe mindig erdős, növényzettel borított területet jelöl.",
+     "true": false,
+     "correction": "A zöld szín a tengerszint feletti magasságot (alacsony síkságot) jelöli, nem a növényzetet; zöld lehet egy sivatagi síkság is."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-1-a-foldfelszin-formalodasa--e1",
+   "explanation": "A rekultiváció az emberi tevékenység (főleg bányászat, ipar, hulladéklerakás) miatt tönkrement terület helyreállítása, hogy újra hasznosítható legyen.\n\nLépései általában:\n- a felszín rendezése (gödrök feltöltése, rézsűk lankásítása),\n- a szennyezett vagy terméketlen réteg takarása, termőtalaj ráhordása,\n- növénytelepítés: gyepesítés, erdősítés,\n- új funkció kialakítása.\n\nPéldák:\n- Visonta és Bükkábrány környékén a külszíni lignitbányák meddőhányóit fásították, mezőgazdasági területté alakították.\n- Felhagyott kavicsbányák helyén horgász- és fürdőtavak jöttek létre (pl. a Duna és a Tisza menti bányatavak).\n- A németországi Lausitz külszíni barnakőszén-bányáiból mesterséges tóvidék lett, üdülőhelyekkel.\n- A mecseki uránbányászat meddőhányóit takarták, a sugárzó anyagot elszigetelték.\n- Bezárt hulladéklerakókat lefednek, majd füvesítenek.\n\nA rekultiváció drága, ezért a bányanyitás engedélyezésekor már előre meg kell tervezni és fedezetét biztosítani.",
+   "diagram": null,
+   "concepts": [
+    "rekultiváció",
+    "külső és belső erők"
+   ],
+   "processes": [],
+   "examTip": "Esszében ne csak a „fásítás” szót írd: mutasd be a lépéseket (tereprendezés, takarás, termőtalaj, növénytelepítés) és az új hasznosítást, konkrét példával.",
+   "selfCheck": [
+    {
+     "q": "Mi a rekultiváció?",
+     "a": "Emberi tevékenység által károsított terület (pl. bánya, meddőhányó) helyreállítása és újrahasznosítása."
+    },
+    {
+     "q": "Mondj két lehetséges új hasznosítást egy felhagyott bányának!",
+     "a": "Pl. tó (horgászat, fürdés), erdő, mezőgazdasági terület, park vagy naperőmű."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A felhagyott külszíni bányák helyén gyakran mesterséges tavak jönnek létre.",
+     "true": true
+    },
+    {
+     "statement": "A rekultiváció a lepusztult hegységek természetes újbóli kiemelkedése.",
+     "true": false,
+     "correction": "A rekultiváció az ember által károsított területek tudatos helyreállítása; a hegységek kiemelkedése belső erők műve."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k1",
+   "explanation": "Képen a formát a „szerszám” alapján azonosítod: mi alakította?\n\n- Folyó: V alakú völgy, szurdok, kanyon, kanyarulatok, holtág, hordalékkúp, zátony, delta.\n- Jég: kárfülke, U alakú völgy (teknővölgy), moréna, fjord, vásott szikla, gleccsertó.\n- Szél: homokfodor, dűne, barkán, gombaszikla, szélbarázda.\n- Tenger: abráziós fülke, kapu, torony, meredek pusztuló part; turzás, lagúna, parti dűne.\n- Karsztosodás: karrmező, víznyelő, dolina, cseppkő, karsztbarlang.\n- Csapadék és gravitáció: vízmosás, csuszamlás, omlás.\n\nSegítő jelek a képen: a völgy keresztmetszete (V vagy U), a kőzet anyaga (mészkő, homok), a környezet (sivatag, tengerpart, magashegység), a növényzet hiánya vagy jelenléte.\n\nPéldák: Aggteleki-karszt (karszt), Alpok völgyei (jég), Szahara (szél), Normandia krétasziklái (tenger), Grand Canyon (folyó).",
+   "diagram": null,
+   "concepts": [
+    "V alakú völgy",
+    "U alakú völgy (teknővölgy)",
+    "homokbucka (dűne)",
+    "dolina (töbör)",
+    "turzás",
+    "moréna"
+   ],
+   "processes": [
+    "folyo-munkaja",
+    "jeg-munkaja",
+    "szel-munkaja",
+    "tenger-munkaja",
+    "karsztosodas"
+   ],
+   "examTip": "A V és U alakú völgy összekeverése a leggyakoribb hiba: V – folyó vájta, U – gleccser vájta.",
+   "selfCheck": [
+    {
+     "q": "Melyik külső erő hozza létre a gombasziklát?",
+     "a": "A szél (szélmarás, a homokszemcsék koptató munkája)."
+    },
+    {
+     "q": "Milyen keresztmetszetű a gleccser vájta völgy?",
+     "a": "U alakú (teknővölgy)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A dolina a karsztosodás jellegzetes felszíni formája.",
+     "true": true
+    },
+    {
+     "statement": "A turzás a folyók bevágódó szakaszának jellemző formája.",
+     "true": false,
+     "correction": "A turzás a tenger (vagy nagy tó) épülő partján felhalmozott hordalékgát."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k2",
+   "explanation": "Minden külső erő pusztít (lepusztít és szállít) és épít (felhalmoz). Döntéskor kérdezd meg: anyag elhordásával vagy lerakásával jött létre a forma?\n\nPusztító (eróziós) formák:\n- folyó: V alakú völgy, szurdok, kanyon,\n- jég: kárfülke, U alakú völgy, fjord, vásott szikla,\n- szél: gombaszikla, szélbarázda, kifúvásos mélyedés,\n- tenger: abráziós fülke, terasz, kapu, torony, pusztuló part,\n- karszt: karrmező, víznyelő, dolina, barlang.\n\nÉpítő (felhalmozó) formák:\n- folyó: zátony, sziget, hordalékkúp, delta,\n- jég: moréna, morénasánc, vándorkő,\n- szél: homokfodor, dűne, barkán, lösztakaró,\n- tenger: turzás, parti dűne, épülő part,\n- karszt: cseppkő, forrásmészkő.\n\nVigyázz: a karsztbarlang oldással (pusztítással) jön létre, de a benne lévő cseppkő kiválással (építéssel)!",
+   "diagram": null,
+   "concepts": [
+    "lepusztulás",
+    "felhalmozás",
+    "épülő part",
+    "pusztuló part",
+    "cseppkő",
+    "moréna"
+   ],
+   "processes": [
+    "folyo-munkaja",
+    "jeg-munkaja",
+    "szel-munkaja",
+    "tenger-munkaja",
+    "karsztosodas"
+   ],
+   "examTip": "Táblázatos feladatoknál a fjord sokszor „csapda”: bár tengeröböl, a jég pusztító munkájával jött létre (a tenger csak később árasztotta el).",
+   "selfCheck": [
+    {
+     "q": "Pusztító vagy építő forma a hordalékkúp?",
+     "a": "Építő (felhalmozó)."
+    },
+    {
+     "q": "Pusztító vagy építő forma a kárfülke?",
+     "a": "Pusztító – a gleccser vájta ki."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A végmoréna a jég építő (felhalmozó) munkájának eredménye.",
+     "true": true
+    },
+    {
+     "statement": "A cseppkő a karsztvíz oldó, pusztító munkájával keletkezik.",
+     "true": false,
+     "correction": "A cseppkő építő forma: a vízből kiváló mészkő (kalcit) rakódik le, amikor a víz szén-dioxidot veszít."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k3",
+   "explanation": "A szél felszínformáló munkáját befolyásoló tényezők:\n- a szél sebessége és állandósága,\n- a növényzet hiánya (nincs, ami megkösse a felszínt),\n- a száraz éghajlat, száraz, laza felszín,\n- a szemcseméret: a por, a homok könnyen mozdul,\n- a tagolatlan, sík felszín, ahol a szél akadálytalanul fúj.\n\nEzért a szél munkája a sivatagokban (Szahara, Góbi), a tengerpartokon és a növényzettől megfosztott homokterületeken (Duna–Tisza köze, Nyírség) a legerősebb.\n\nA csapadék felszínformáló munkáját befolyásoló tényezők:\n- a csapadék mennyisége és intenzitása (záporok, felhőszakadás),\n- a lejtő meredeksége és hossza,\n- a növényzet borítottsága (az erdő, a gyep véd),\n- a kőzet és a talaj minősége (laza lösz, homok, agyag),\n- a földhasználat (lejtőirányú szántás, tarvágás).\n\nA két hatás összeadódhat: a száraz, csupasz talajt a szél hordja el, a záporok pedig lemossák.",
+   "diagram": null,
+   "concepts": [
+    "szélkifúvás (defláció)",
+    "felszíni leöblítés",
+    "vonalas erózió",
+    "lepusztulás"
+   ],
+   "processes": [
+    "szel-munkaja",
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "Ha a kérdés tényezőket kér, mindig írd bele a növényzet szerepét – ez a szél és a csapadék esetében is kulcs, és az ember közvetlenül befolyásolja.",
+   "selfCheck": [
+    {
+     "q": "Miért erős a szél munkája a sivatagban?",
+     "a": "Nincs növényzet, száraz és laza a felszín, a szél akadálytalanul fúj."
+    },
+    {
+     "q": "Hogyan befolyásolja a lejtő a csapadék lepusztító munkáját?",
+     "a": "Minél meredekebb és hosszabb, annál gyorsabban fut le a víz és annál erősebb a talajlemosás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A lejtőirányú szántás fokozza a csapadék talajpusztító munkáját.",
+     "true": true
+    },
+    {
+     "statement": "A szél felszínformáló munkája a sűrű növényzetű, nedves területeken a legerősebb.",
+     "true": false,
+     "correction": "A szél munkája a száraz, növényzet nélküli, laza felszínű területeken (sivatagok, homokvidékek) a legerősebb."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k4",
+   "explanation": "A szél és a csapadék lepusztító munkája komoly gazdasági károkat okoz.\n\nA szél munkájának következményei:\n- defláció: a termékeny felső talajréteg elhordása,\n- a homok betemeti a vetést, utakat, csatornákat, oázisokat (Szahara pereme),\n- a homokverés károsítja a növényeket,\n- porviharok (pl. az USA prérijén a túlzott szántás után).\n\nA csapadék munkájának következményei:\n- a lejtőkről lemosódik a termőtalaj, csökken a termőképesség,\n- vízmosások szabdalják a szántót, nehezül a művelés,\n- a lemosott hordalék feltölti a tározókat, csatornákat, folyómedreket,\n- csuszamlások veszélyeztetik az utakat, épületeket.\n\nVédekezés:\n- szél ellen: erdősávok (szélfogók), homokfásítás (Duna–Tisza köze), növényzettel tartós takarás,\n- csapadék ellen: szintvonalas (lejtőre merőleges) művelés, teraszozás, gyepesítés, erdősítés, vízelvezetés.",
+   "diagram": null,
+   "concepts": [
+    "szélkifúvás (defláció)",
+    "vonalas erózió",
+    "talajpusztulás (talajerózió)",
+    "termőképesség"
+   ],
+   "processes": [
+    "szel-munkaja",
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "A gazdasági következményeknél mindig párosítsd a kárt a védekezési móddal: ezt a kettőt együtt szokták kérdezni.",
+   "selfCheck": [
+    {
+     "q": "Mi az erdősávok szerepe?",
+     "a": "Csökkentik a szél sebességét, így a deflációt és a homokverést."
+    },
+    {
+     "q": "Mi a teraszozás célja meredek lejtőn?",
+     "a": "Lassítja a lefolyó vizet, így megakadályozza a talaj lemosódását."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A lemosott talaj hordaléka feltöltheti a víztározókat.",
+     "true": true
+    },
+    {
+     "statement": "A lejtőn a lejtő irányával párhuzamosan szántani a talajvédelem legjobb módja.",
+     "true": false,
+     "correction": "A lejtőirányú szántás fokozza az eróziót; a lejtőre merőleges, szintvonalas művelés véd."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k5",
+   "explanation": "A tenger munkáját főleg a hullámzás végzi. A part meredeksége dönti el, hogy pusztít vagy épít.\n\nPusztuló part (meredek part):\n- a hullám nekicsapódik a sziklafalnak (hullámtörés),\n- a hordalékkal koptatva kivájja az abráziós fülkét, a fölötte lévő rész leomlik, a part hátrál,\n- formák: abráziós terasz, kapu, torony (pl. Normandia, Étretat; Doveri-szoros krétasziklái).\n\nÉpülő part (lapos part):\n- a hullám a sekély vízben fékeződik, átbukik (hullámmorajlás), elveszti energiáját, lerakja a hordalékot,\n- formák: turzás, mögötte lagúna, parti dűne (Balti-tenger partja, Velencei-lagúna).\n\nParttípusok tagoltság szerint:\n- tagolt part: sok öböl, félsziget (fjordos norvég part, Dalmácia),\n- tagolatlan part: egyenes, kevés öböl (Afrika partjainak nagy része).\n\nHazai példa: a Balaton meredek északkeleti partja (Balatonakarattya) pusztul, a déli lapos part turzásokkal épül.",
+   "diagram": null,
+   "concepts": [
+    "pusztuló part",
+    "épülő part",
+    "hullámtörés",
+    "hullámmorajlás",
+    "turzás",
+    "tagolt és tagolatlan part"
+   ],
+   "processes": [
+    "tenger-munkaja"
+   ],
+   "examTip": "A hullámtörés (meredek part, pusztítás) és a hullámmorajlás (lapos part, építés) összepárosítása gyakori tesztkérdés.",
+   "selfCheck": [
+    {
+     "q": "Mi a lagúna?",
+     "a": "Turzással a nyílt tengertől részben vagy teljesen elzárt sekély vízfelület."
+    },
+    {
+     "q": "Hogyan hátrál a pusztuló part?",
+     "a": "A hullámok kivájják az abráziós fülkét, a fölötte lévő kőzet leomlik."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az abráziós fülke a pusztuló part jellegzetes formája.",
+     "true": true
+    },
+    {
+     "statement": "A turzás meredek sziklás partokon, hullámtöréssel képződik.",
+     "true": false,
+     "correction": "A turzás lapos, épülő parton keletkezik, ahol a hullám elveszti energiáját és lerakja a hordalékot."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k6",
+   "explanation": "A folyók munkavégző képessége az az energia, amellyel a folyó a medrét koptatja és a hordalékot szállítja. Ez a víz tömegétől és sebességétől függ.\n\nMeghatározó tényezők:\n- vízhozam: több víz – nagyobb munkavégző képesség (árvízkor a legnagyobb),\n- esés (a meder lejtése): nagyobb esés – gyorsabb víz,\n- a hordalék mennyisége és mérete: ha sok hordalékot kell szállítani, kevesebb energia jut a bevágódásra,\n- a meder kőzete: kemény kőzetbe lassabban vágódik be,\n- a meder alakja és érdessége.\n\nA sodorvonal a folyó legnagyobb sebességű vízvonala. Egyenes mederben középen fut, kanyarban a külső ív felé tolódik: ott a folyó rombol (szakadópart), a belső íven lassul és épít (zátony).\n\nHa a munkavégző képesség nagyobb, mint amennyi a hordalék szállításához kell, a folyó bevágódik; ha kisebb, lerakja a hordalékot.",
+   "diagram": "river",
+   "concepts": [
+    "a folyók munkavégző képessége",
+    "sodorvonal",
+    "hordalék",
+    "bevágódó"
+   ],
+   "processes": [
+    "folyo-munkaja"
+   ],
+   "examTip": "Ha egy folyószakasz jellegét kell magyaráznod, mindig a munkavégző képesség és a hordalékmennyiség viszonyából indulj ki.",
+   "selfCheck": [
+    {
+     "q": "Melyik két tényező határozza meg leginkább a munkavégző képességet?",
+     "a": "A vízhozam (víztömeg) és az esés (sebesség)."
+    },
+    {
+     "q": "Hol rombol a folyó a kanyarulatban?",
+     "a": "A külső íven, ahová a sodorvonal kitolódik."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Árvízkor a folyó munkavégző képessége megnő.",
+     "true": true
+    },
+    {
+     "statement": "A kanyarulat belső ívén a sodorvonal miatt a folyó erősen rombol.",
+     "true": false,
+     "correction": "A sodorvonal a külső ív felé tolódik, ott rombol a folyó; a belső íven lelassul és lerakja a hordalékot."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k7",
+   "explanation": "A hóhatár az a magasság, amely fölött a téli hó nyáron sem olvad el teljesen: itt egyensúlyban van a hóhullás és az olvadás. Fölötte örök hó és jég van.\n\nFöldrajzi szélesség szerint:\n- a sarkvidéken a tengerszintig leér,\n- a mérsékelt övezetben pl. az Alpokban kb. 3000 m körül van,\n- a legmagasabban nem az Egyenlítőnél, hanem a térítők táján fekszik, mert ott nagyon kevés a csapadék és erős a besugárzás,\n- az Egyenlítőnél kissé alacsonyabb, mert a sok csapadék és a felhőzet miatt több hó hullik.\n\nDomborzat és helyi tényezők szerint:\n- a napos lejtőn (északi félgömbön a déli oldalon) magasabb,\n- a csapadékos, tenger felőli oldalon alacsonyabb, a száraz, szárazföld belseje felőli oldalon magasabb,\n- a kontinentális belső területeken magasabb.\n\nAz ábrán tehát a görbe két „púpja” a térítőknél van, középen kis bemélyedés az Egyenlítőnél.",
+   "diagram": "zonation",
+   "concepts": [
+    "hóhatár",
+    "csonthó (firn)",
+    "gleccser"
+   ],
+   "processes": [
+    "jeg-munkaja"
+   ],
+   "examTip": "Klasszikus csapda: a hóhatár NEM az Egyenlítőnél a legmagasabb, hanem a térítők száraz vidékein. Indokold a csapadékkal!",
+   "selfCheck": [
+    {
+     "q": "Miért a térítők táján a legmagasabb a hóhatár?",
+     "a": "A leszálló légáramlás miatt kevés a csapadék, felhőtlen az ég, erős a besugárzás."
+    },
+    {
+     "q": "Az északi félgömbön melyik lejtőn húzódik magasabban a hóhatár?",
+     "a": "A déli, napos lejtőn."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A sarkvidékeken a hóhatár a tengerszintig ereszkedik.",
+     "true": true
+    },
+    {
+     "statement": "A hóhatár az Egyenlítőn a legmagasabb, és a sarkok felé egyenletesen csökken.",
+     "true": false,
+     "correction": "A legmagasabban a térítők száraz vidékein van; az Egyenlítőnél a bőséges csapadék miatt valamivel alacsonyabb."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k8",
+   "explanation": "Gleccser és jégtakaró ott keletkezik, ahol a hóhatár fölött több hó hullik, mint amennyi elolvad.\n\nA jég keletkezése:\n- a friss hó összetömörödik, részben megolvad és újrafagy: csonthó (firn) lesz belőle,\n- a felhalmozódó rétegek nyomása alatt a levegő kiszorul, és tömör, kékes gleccserjég jön létre,\n- a jég saját súlya alatt lassan lefelé mozog.\n\nTípusok:\n- gleccser (völgyi gleccser): a hegységek kárfülkéiből indul, völgyekben folyik le (Alpok, Aletsch-gleccser),\n- jégtakaró: kontinensnyi területet borító, több km vastag jégpajzs (Antarktisz, Grönland).\n\nFelszínformáló munka:\n- pusztító: a jégbe fagyott kőzetdarabok vájják és csiszolják az aljzatot – kárfülke, U alakú völgy, vásott szikla, fjord,\n- építő: a szállított törmelék lerakódik – oldal-, közép-, fenék- és végmoréna, morénasánc.\n\nA gleccser alól kilépő olvadékvíz a gleccserpatak.",
+   "diagram": "glacier",
+   "concepts": [
+    "csonthó (firn)",
+    "gleccserjég",
+    "gleccser",
+    "jégtakaró",
+    "moréna",
+    "U alakú völgy (teknővölgy)"
+   ],
+   "processes": [
+    "jeg-munkaja"
+   ],
+   "examTip": "A keletkezés lépéseit sorrendben kérdezik: hó → csonthó (firn) → gleccserjég. Ne felejtsd ki a tömörödést és a levegő kiszorulását!",
+   "selfCheck": [
+    {
+     "q": "Mi a csonthó?",
+     "a": "Összetömörödött, részben átkristályosodott hó, a hó és a gleccserjég közötti átmenet."
+    },
+    {
+     "q": "Mi a különbség a gleccser és a jégtakaró között?",
+     "a": "A gleccser völgyekben mozog a hegységben, a jégtakaró hatalmas területet borít, a domborzattól nagyrészt függetlenül."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A gleccserjég a csonthó tömörödésével, a levegő kiszorulásával keletkezik.",
+     "true": true
+    },
+    {
+     "statement": "A végmoréna a gleccser pusztító munkájával kivájt mélyedés.",
+     "true": false,
+     "correction": "A végmoréna a gleccser homlokánál lerakott törmelékből álló sánc, tehát építő forma."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k9",
+   "explanation": "A jég munkájának nyomai ma is meghatározzák sok táj arculatát.\n\nMagashegységek (völgyi gleccserek nyomai):\n- Alpok: kárfülkék, éles gerincek, U alakú völgyek; a völgyek kijáratánál morénák által elgátolt vagy jég vájta tavak (Genfi-tó, Comói-tó),\n- Magas-Tátra: kárfülkékben tengerszemek.\n\nA jégkorszak jégtakarójának területei:\n- Skandinávia: lecsiszolt, vásott sziklák, a tenger által elárasztott U-völgyek, a fjordok (Norvégia),\n- Finnország, Kanada: a jég által vájt mélyedésekben ezernyi tó (tóhátság),\n- Észak-német-alföld és Lengyelország: morénasíkság, végmoréna-vonulatok, ősfolyamvölgyek, Skandináviából származó vándorkövek.\n\nGazdasági következmények:\n- a fjordok mély, védett kikötőket adnak,\n- a lecsiszolt pajzsokon vékony, terméketlen a talaj, sok a láp, inkább erdőgazdálkodás folyik,\n- a gleccsertavak vízenergiát és idegenforgalmat jelentenek,\n- a morénák homokja, kavicsa építőanyag.",
+   "diagram": "glacier",
+   "concepts": [
+    "fjord",
+    "tóhátság",
+    "morénasíkság",
+    "ősfolyamvölgy",
+    "vándorkő",
+    "kárfülke"
+   ],
+   "processes": [
+    "jeg-munkaja"
+   ],
+   "examTip": "Ha tájhoz kell kötni a jég munkáját: fjord – Norvégia; tóhátság – Finnország; morénasíkság, ősfolyamvölgy – Észak-német-alföld; kárfülke, U-völgy – Alpok.",
+   "selfCheck": [
+    {
+     "q": "Hogyan keletkezett a fjord?",
+     "a": "A gleccser U alakú völgyet vájt, amelyet a jég elolvadása után a megemelkedő tenger elárasztott."
+    },
+    {
+     "q": "Mi a vándorkő?",
+     "a": "A jég által messzire szállított, idegen kőzetből álló kőtömb (pl. skandináv gránit Észak-Németországban)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Finnország sok tava a jégkorszaki jégtakaró munkájának eredménye.",
+     "true": true
+    },
+    {
+     "statement": "A norvég fjordok folyók által vájt V alakú völgyek.",
+     "true": false,
+     "correction": "A fjordok a gleccserek által vájt U alakú völgyek, amelyeket a tenger elárasztott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k10",
+   "explanation": "A gleccserek érzékenyen reagálnak az éghajlat változására, ezért a környezetváltozás „hőmérői”.\n\nMiért jó jelzők?\n- A gleccser mérete a hóhullás és az olvadás egyensúlyától függ.\n- Ha melegszik az éghajlat vagy csökken a hóhullás, a gleccser homloka visszahúzódik, a jég elvékonyodik.\n- A visszahúzódást fényképek, térképek, mérések évtizedekre visszamenőleg dokumentálják.\n\nMai jelenségek:\n- az Alpok gleccserei (pl. Aletsch-gleccser) gyorsan rövidülnek,\n- a Kilimandzsáró jégsapkája erősen zsugorodott,\n- Grönland és az Antarktisz peremén is fogy a jég, ami a tengerszint emelkedéséhez járul hozzá.\n\nA múlt éghajlatának jelzői:\n- a régi morénák mutatják, meddig értek le egykor a gleccserek,\n- a jégtakarókból fúrt jégmagok légbuborékai megőrizték a régi légkör összetételét, rétegei a hajdani hőmérsékletet jelzik.",
+   "diagram": "glacier",
+   "concepts": [
+    "gleccser",
+    "jégtakaró",
+    "hóhatár",
+    "moréna"
+   ],
+   "processes": [
+    "jeg-munkaja",
+    "globalis-felmelegedes"
+   ],
+   "examTip": "Ha a gleccserek visszahúzódásának következményeit kérdezik, gondolj a vízellátásra (nyári vízhozam), a tengerszint emelkedésére és a hegyi idegenforgalomra is.",
+   "selfCheck": [
+    {
+     "q": "Miből tudjuk, hogy a gleccserek régen nagyobbak voltak?",
+     "a": "A mai gleccserhomlok előtt jóval lejjebb húzódó régi végmorénákból."
+    },
+    {
+     "q": "Milyen információt rejtenek a jégmagok?",
+     "a": "A légbuborékokban a régi légkör összetételét, a rétegekben a hajdani hőmérséklet nyomait."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A gleccserek visszahúzódása az éghajlat melegedésének jele.",
+     "true": true
+    },
+    {
+     "statement": "A gleccser hossza kizárólag a völgy meredekségétől függ, az éghajlattól nem.",
+     "true": false,
+     "correction": "A gleccser mérete a hóhullás és az olvadás egyensúlyától, tehát az éghajlattól függ."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k11",
+   "explanation": "A karsztosodás a vízben oldódó kőzetek – főleg a mészkő – oldásos felszínformálódása.\n\nFeltételei:\n- mészkő (vagy dolomit) kőzet, sok repedéssel,\n- szén-dioxidot tartalmazó víz (a talajból, a légkörből veszi fel),\n- elegendő csapadék.\n\nA folyamat:\n1. A csapadékvíz szén-dioxidot vesz fel, enyhén savassá válik.\n2. A repedések mentén beszivárogva oldja a mészkövet: a felszínen karrmező, víznyelő, dolina (töbör) alakul ki.\n3. A mélyben a víz kitágítja a járatokat: karsztbarlangok, bennük barlangi patak.\n4. A barlangban a víz szén-dioxidot veszít, ezért a mész kiválik: cseppkövek nőnek.\n5. A víz karsztforrásként lép újra a felszínre, ahol forrásmészkövet rakhat le.\n\nPéldák: Aggteleki-karszt és Baradla-barlang, Bükk, Dinári-hegység (az elnevezés a szlovéniai Karszt-vidékről ered).",
+   "diagram": "karst",
+   "concepts": [
+    "víznyelő",
+    "dolina (töbör)",
+    "karrmező",
+    "karsztbarlang",
+    "cseppkő",
+    "karsztforrás"
+   ],
+   "processes": [
+    "karsztosodas"
+   ],
+   "examTip": "A karsztosodás feltételeinél sokan elfelejtik a szén-dioxidot: tiszta víz alig oldja a mészkövet!",
+   "selfCheck": [
+    {
+     "q": "Mi teszi a vizet alkalmassá a mészkő oldására?",
+     "a": "A benne oldott szén-dioxid (szénsav)."
+    },
+    {
+     "q": "Miért válik ki cseppkő a barlangban?",
+     "a": "Mert a víz szén-dioxidot veszít, ezért a mészkő oldott anyaga kicsapódik."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A karsztosodás során a víz a mészkövet oldja.",
+     "true": true
+    },
+    {
+     "statement": "A karsztosodás jellemzően gránitból felépülő hegységekben megy végbe.",
+     "true": false,
+     "correction": "A karsztosodás az oldható kőzetekben, főleg mészkőben és dolomitban jellemző, a gránit nem karsztosodik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k12",
+   "explanation": "A karsztformákat felszíni és felszín alatti csoportba sorold!\n\nFelszíni formák:\n- karrmező: csupasz mészkőfelszín, éles bordákkal és barázdákkal (az oldás „karcolásai”),\n- víznyelő: tölcsér vagy nyílás, ahol a felszíni víz a mélybe jut,\n- dolina (töbör): tál vagy tölcsér alakú, kerek oldásos mélyedés,\n- polje: nagy, sík aljú karsztmedence (Dinári-hegység),\n- zsomboly: függőleges, aknaszerű barlang.\n\nFelszín alatti formák:\n- karsztbarlang: oldással kitágult járatrendszer (Baradla, Postojnai-barlang),\n- barlangi patak: a barlangban folyó víz,\n- cseppkövek: függőcseppkő (a mennyezeten), állócseppkő (a padlón), összenövésükből cseppkőoszlop,\n- karsztforrás: ahol a karsztvíz a felszínre lép (pl. Jósva-forrás).\n\nKépen segít: a csupasz, szürke, barázdált mészkő karrmezőt, a fűvel borított kerek mélyedés dolinát, a barlangi kép cseppkövet mutat.",
+   "diagram": "karst",
+   "concepts": [
+    "karrmező",
+    "víznyelő",
+    "dolina (töbör)",
+    "cseppkő",
+    "karsztbarlang",
+    "karsztforrás"
+   ],
+   "processes": [
+    "karsztosodas"
+   ],
+   "examTip": "Ábrás feladatban gyakori, hogy a karszt keresztmetszetén számokkal jelölt formákat kell megnevezni – gyakorold a víznyelő–barlang–forrás útvonalat!",
+   "selfCheck": [
+    {
+     "q": "Mi a különbség a dolina és a víznyelő között?",
+     "a": "A dolina zárt, tál alakú oldásos mélyedés; a víznyelőn át a felszíni víz közvetlenül a mélybe jut."
+    },
+    {
+     "q": "Hol képződik az állócseppkő?",
+     "a": "A barlang padlóján, a lecsepegő vízből."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A karsztforrásnál a karsztvíz a felszínre lép.",
+     "true": true
+    },
+    {
+     "statement": "A függőcseppkő a barlang padlójáról nő felfelé.",
+     "true": false,
+     "correction": "A függőcseppkő a mennyezetről lóg lefelé; a padlóról felfelé az állócseppkő nő."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--e1",
+   "explanation": "Emelt szinten a formák kialakulását is meg kell magyaráznod.\n\nSzél:\n- defláció: a finom szemcsék kifújása; szélmarás: a homok koptatja a sziklákat → gombaszikla (alul erősebb a koptatás), szélbarázda, maradékgerinc, deflációs tanúhegy,\n- barkán: sarló alakú dűne, szarvai a szél irányába mutatnak (növényzetmentes sivatag); parabolabucka: szarvait a növényzet rögzíti, ezért a szél felé néznek (Nyírség, Duna–Tisza köze).\n\nCsapadék: felszíni leöblítés (síkszerű lemosás) és vonalas erózió (vízmosások).\n\nTenger: abrázió – hullámmarás → abráziós fülke, terasz, kapu, torony.\n\nFolyó: szurdok, kanyon (gyors bevágódás kemény kőzetbe, száraz éghajlaton – Grand Canyon); folyóterasz (a folyó bevágódása után magasan maradt egykori ártér).\n\nJég: kárfülke, vásott szikla, oldal- és középmoréna (a völgyoldalakról hulló törmelék, két gleccser összefolyásakor középre kerül).\n\nKarszt: polje, zsomboly, forrásmészkő (édesvízi mészkő).",
+   "diagram": null,
+   "concepts": [
+    "barkán",
+    "parabolabucka",
+    "gombaszikla (kőgomba)",
+    "abráziós fülke",
+    "folyóterasz",
+    "oldal- és középmoréna"
+   ],
+   "processes": [
+    "szel-munkaja",
+    "tenger-munkaja",
+    "folyo-munkaja",
+    "jeg-munkaja",
+    "karsztosodas"
+   ],
+   "examTip": "A barkán és a parabolabucka rajzát gyakran kérik: a barkán szarvai a széllel együtt, a parabolabuckáé a széllel szembe mutatnak.",
+   "selfCheck": [
+    {
+     "q": "Miért vékonyabb a gombaszikla alsó része?",
+     "a": "A szél a nehéz homokszemcséket a felszín közelében szállítja, ezért ott erősebb a koptatás."
+    },
+    {
+     "q": "Hogyan jön létre a folyóterasz?",
+     "a": "A folyó (pl. kéregemelkedés vagy éghajlatváltozás miatt) bevágódik, és korábbi ártere magasan, lépcsőként marad meg."
+    },
+    {
+     "q": "Mi a középmoréna?",
+     "a": "Két gleccser összefolyásakor az oldalmorénák egyesülésével a jég közepére került törmeléksáv."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A parabolabucka szarvait a növényzet rögzíti, ezért azok a szél felé mutatnak.",
+     "true": true
+    },
+    {
+     "statement": "A kanyon nedves éghajlaton, laza üledékbe vágódó folyó oldalazó munkájával jön létre.",
+     "true": false,
+     "correction": "A kanyon gyors bevágódással, jellemzően száraz éghajlaton és kemény, rétegzett kőzetben alakul ki (pl. Grand Canyon)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--e2",
+   "explanation": "A folyó szakaszjellegét a munkavégző képesség és a hordalék aránya szabja meg, amely a domborzattól (eséstől) függ.\n\n- Bevágódó szakaszjelleg: nagy esés, gyors víz, mélyít – V alakú völgy, szurdok, durva hordalék (hegyvidéki szakasz).\n- Oldalazó szakaszjelleg: mérsékelt esés, a folyó kanyarog, oldalra rombol, szélesíti völgyét, kialakul az ártér.\n- Feltöltő szakaszjelleg: kis esés, lassú víz, lerakja a hordalékot – zátonyok, szigetek, holtágak, hordalékkúp, delta.\n\nTérbeli változás: a szakaszjelleg nem a forrástól a torkolatig sorban követi egymást. A Duna a Kisalföldön feltölt (hordalékkúp, Szigetköz), a Visegrádi-szorosban bevágódik, az Alföldön ismét feltölt, a Vaskapunál újra bevágódik.\n\nIdőbeli változás:\n- a kéreg emelkedése vagy a tengerszint (erózióbázis) süllyedése bevágódást indít – folyóteraszok,\n- süllyedés, a hordalék növekedése feltöltést okoz,\n- az ember is beavatkozik: duzzasztó előtt feltöltés, alatta bevágódás; a szabályozás gyorsítja a vizet.",
+   "diagram": "river",
+   "concepts": [
+    "bevágódó",
+    "oldalazó és feltöltő szakaszjelleg",
+    "folyóterasz",
+    "hordalékkúp",
+    "holtág",
+    "V alakú völgy"
+   ],
+   "processes": [
+    "folyo-munkaja"
+   ],
+   "examTip": "Ne írd, hogy a felső szakasz mindig bevágódó, az alsó mindig feltöltő! A szakaszjelleget a domborzat és a hordalék határozza meg, hazai példa a Duna.",
+   "selfCheck": [
+    {
+     "q": "Miért vágódik be a Duna a Visegrádi-szorosban?",
+     "a": "Mert a kiemelkedő hegységen keresztül halad, nagyobb az esés és a munkavégző képesség."
+    },
+    {
+     "q": "Hogyan hat a kéreg emelkedése a folyóra?",
+     "a": "Megnő az esés, a folyó bevágódik, régi ártere folyóteraszként marad meg."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egy folyón belül a bevágódó és a feltöltő szakaszok többször is váltakozhatnak.",
+     "true": true
+    },
+    {
+     "statement": "A szakaszjelleg egy folyón az idők során nem változhat.",
+     "true": false,
+     "correction": "A szakaszjelleg időben is változik: kéregmozgás, éghajlatváltozás, tengerszint-változás vagy emberi beavatkozás hatására."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-2-a-kulso-erok-felszinformalo-tevekenysege--e3",
+   "explanation": "A mészkő (kalcium-karbonát) tiszta vízben alig oldódik. Oldásához szén-dioxid kell.\n\nA kémiai folyamat:\n\nCaCO₃ + H₂O + CO₂ ⇌ Ca(HCO₃)₂\n\nA vízben oldott szén-dioxidból szénsav lesz, amely a vízben rosszul oldódó kalcium-karbonátot jól oldódó kalcium-hidrogén-karbonáttá alakítja.\n\nA folyamat megfordítható:\n- jobbra (oldás): ha a víz sok szén-dioxidot tartalmaz – a talajban a gyökerek és lebontó szervezetek miatt sok a CO₂, ezért a talajjal fedett karszt erősebben oldódik,\n- balra (kiválás): ha a víz CO₂-t veszít, pl. a barlang levegőjébe, vagy forrásnál felmelegszik, mozgásba jön – ekkor cseppkő, forrásmészkő (pl. Pamukkale, Egerszalók) válik ki.\n\nFontos: a hideg víz több szén-dioxidot képes oldani, mint a meleg, ezért a hőmérséklet is befolyásolja az oldást. A karsztosodás erőssége a csapadék mennyiségétől, a növényzettől és a talajtakarótól is függ.",
+   "diagram": "karst",
+   "concepts": [
+    "cseppkő",
+    "forrásmészkő (édesvízi mészkő)",
+    "karsztbarlang"
+   ],
+   "processes": [
+    "karsztosodas"
+   ],
+   "examTip": "Írd fel a reakcióegyenletet, és jelezd a kétirányú nyilat: ugyanaz a folyamat oldást és kiválást is magyaráz!",
+   "selfCheck": [
+    {
+     "q": "Milyen anyaggá alakul a mészkő az oldás során?",
+     "a": "Vízben jól oldódó kalcium-hidrogén-karbonáttá."
+    },
+    {
+     "q": "Miért erősebb az oldás talajjal fedett karszton?",
+     "a": "Mert a talajlevegő sok szén-dioxidot tartalmaz, ezt a beszivárgó víz felveszi."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A cseppkőképződés a mészoldás kémiai egyenletének visszafelé lejátszódó folyamata.",
+     "true": true
+    },
+    {
+     "statement": "A meleg víz több szén-dioxidot old, ezért a meleg víz oldja leginkább a mészkövet.",
+     "true": false,
+     "correction": "A hideg víz képes több szén-dioxidot oldani; a felmelegedő víz CO₂-t veszít, ezért inkább kiválás indul meg."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--k1",
+   "explanation": "A talaj a földfelszín legfelső, laza, termékeny takarója, amely a kőzetburok, a légkör, a vízburok és az élővilág kölcsönhatásában jön létre.\n\nA talajképződés folyamata:\n1. Az anyakőzet (alapkőzet) aprózódik és mállik, laza törmelék keletkezik.\n2. Megtelepednek az élőlények; elhalt maradványaikból a lebontó szervezetek humuszt képeznek.\n3. A szivárgó víz anyagokat mos le és halmoz fel, kialakulnak a talajszintek.\n\nTalajképző tényezők:\n- éghajlat (hőmérséklet, csapadék) – a legfontosabb,\n- anyakőzet (pl. mészkő, lösz, homok),\n- élővilág (növényzet, talajlakó élőlények),\n- domborzat (lejtő, kitettség),\n- víz (talajvíz, elöntés),\n- idő,\n- ember (művelés, öntözés, trágyázás, szennyezés).\n\nA talaj legfontosabb tulajdonsága a termőképesség: az a képesség, hogy a növényeket vízzel, levegővel és tápanyaggal ellássa.",
+   "diagram": "soil",
+   "concepts": [
+    "talaj",
+    "anyakőzet (alapkőzet)",
+    "humusz",
+    "termőképesség"
+   ],
+   "processes": [
+    "talajkepzodes",
+    "aprozodas-malas"
+   ],
+   "examTip": "A talaj meghatározásába mindig írd bele a termőképességet: ez különbözteti meg a talajt a puszta kőzettörmeléktől.",
+   "selfCheck": [
+    {
+     "q": "Mi a termőképesség?",
+     "a": "A talaj azon képessége, hogy a növényeket vízzel, levegővel és tápanyaggal lássa el."
+    },
+    {
+     "q": "Sorolj fel négy talajképző tényezőt!",
+     "a": "Éghajlat, anyakőzet, élővilág, domborzat (továbbá víz, idő, ember)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A humusz az elhalt szerves anyagok lebontásával és átalakulásával keletkezik.",
+     "true": true
+    },
+    {
+     "statement": "A talaj csak az anyakőzet aprózódásával jön létre, az élővilágnak nincs szerepe benne.",
+     "true": false,
+     "correction": "Az élővilág nélkülözhetetlen: a humuszképződés az élőlények és a lebontó szervezetek munkája."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--k2",
+   "explanation": "Az éghajlat a talajképződés legfontosabb tényezője, mert:\n- a hőmérséklet szabja meg a mállás és a lebontás sebességét,\n- a csapadék és a párolgás aránya dönti el, hogy a víz lefelé mossa (kilúgozás) vagy felfelé hozza (sófelhalmozódás) az anyagokat,\n- az éghajlat határozza meg a növényzetet, így a humusz mennyiségét is.\n\nBizonyítékok:\n- A talajtípusok övezetesen, az éghajlati övekkel párhuzamosan rendeződnek el – ezek a zonális talajok.\n- Egyenlítői öv: meleg és sok csapadék, gyors mállás és lebontás, erős kilúgozás – vörös, tápanyagszegény laterittalaj kevés humusszal.\n- Mérsékelten szárazföldi terület (füves puszta): mérsékelt csapadék, sok gyökér – vastag humuszos mezőségi talaj (csernozjom).\n- Tajga: hűvös, csapadékos, savanyú tűavar – kilúgozott podzol.\n- Sivatag: alig van víz és élet – vékony, humuszszegény, sós sivatagi talaj.\n\nUgyanazon az anyakőzeten más éghajlat alatt más talaj alakul ki.",
+   "diagram": "soil",
+   "concepts": [
+    "zonális és azonális talaj",
+    "laterittalaj",
+    "mezőségi talaj",
+    "szürke erdőtalaj (podzol)",
+    "sivatagi talaj"
+   ],
+   "processes": [
+    "talajkepzodes"
+   ],
+   "examTip": "A legmeggyőzőbb bizonyíték a talajok övezetes elrendeződése: hozz legalább két éghajlat–talaj párt példának.",
+   "selfCheck": [
+    {
+     "q": "Miért kevés a humusz a trópusi esőerdő talajában?",
+     "a": "A meleg, nedves éghajlaton a lebontás nagyon gyors, a szerves anyag nem halmozódik fel, a csapadék kilúgozza a tápanyagot."
+    },
+    {
+     "q": "Mit nevezünk zonális talajnak?",
+     "a": "Az éghajlati övnek megfelelően, övezetesen elrendeződő talajt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A talajtípusok övezetes elrendeződése az éghajlat meghatározó szerepét bizonyítja.",
+     "true": true
+    },
+    {
+     "statement": "A laterittalaj azért vörös, mert rendkívül gazdag humuszban.",
+     "true": false,
+     "correction": "A laterittalaj a vas- és alumínium-oxidoktól vörös; humuszban szegény."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--k3",
+   "explanation": "A talaj négy fő alkotórészből áll, amelyek együtt adják a termőképességet.\n\n- Szilárd ásványi rész: különböző méretű talajszemcsék (kavics, homok, kőzetliszt, agyag), az anyakőzet aprózódásából és mállásából. A szemcseméret dönti el a talaj víz- és levegőgazdálkodását: a homok laza, gyorsan átereszti a vizet; az agyag tömör, sok vizet köt meg.\n- Szerves rész: a humusz, a sötét színű, tápanyagban gazdag lebontott szerves anyag. Javítja a talaj szerkezetét és vízmegtartását.\n- Talajvíz (talajnedvesség): a pórusokban lévő víz, benne oldott tápanyagokkal – ebből táplálkozik a növény.\n- Talajlevegő: a pórusokat kitöltő levegő; a gyökerek és a talajlakó élőlények légzéséhez kell. A légköri levegőnél több benne a szén-dioxid.\n\nEzen felül a talaj élő szervezetei (baktériumok, gombák, giliszták) is fontosak: ők végzik a lebontást és a humuszképzést.",
+   "diagram": "soil",
+   "concepts": [
+    "talajszemcse",
+    "humusz",
+    "talajlevegő",
+    "talaj"
+   ],
+   "processes": [
+    "talajkepzodes"
+   ],
+   "examTip": "Ha a talaj alkotóit kérdezik, a szilárd, a folyékony és a légnemű részt egyaránt nevezd meg, a szilárdon belül külön az ásványi részt és a humuszt.",
+   "selfCheck": [
+    {
+     "q": "Miért fontos a talajlevegő?",
+     "a": "A növényi gyökerek és a talajlakó élőlények légzéséhez szükséges."
+    },
+    {
+     "q": "Miben különbözik a homok- és az agyagtalaj vízgazdálkodása?",
+     "a": "A homok gyorsan átereszti, kevés vizet tart; az agyag sok vizet köt meg, de rosszul ereszti át."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A humusz a talaj szerves alkotórésze.",
+     "true": true
+    },
+    {
+     "statement": "A talajlevegő összetétele megegyezik a légköri levegőével.",
+     "true": false,
+     "correction": "A talajlevegőben több a szén-dioxid (a gyökérlégzés és a lebontás miatt), mint a légkörben."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--k4",
+   "explanation": "A talajokat aszerint csoportosítjuk, hogy kialakulásukban mi volt a döntő tényező.\n\nZonális talaj:\n- elsősorban az éghajlat (és az ahhoz igazodó növényzet) alakította,\n- ezért az éghajlati övekhez igazodva, övezetesen helyezkedik el,\n- példák: laterittalaj, vörös- és sárgaföldek, sivatagi talaj, mezőségi talaj, barna erdőtalaj, podzol, tundratalaj.\n\nAzonális talaj:\n- valamilyen helyi tényező (anyakőzet, víz, domborzat) erősebb volt az éghajlatnál,\n- ezért bármelyik övben előfordulhat, nem követi az övezetességet,\n- példák: öntéstalaj (folyók árterén), láptalaj (állandó vízborítás), szikes talajok (sós talajvíz), rendzina (mészkövön), váztalajok (fiatal, köves vagy homokos), terra rossa (mészkövön).\n\nKárpát-medencei példa: az Alföld lösszel borított részén mezőségi talaj (zonális), a Tisza árterén öntéstalaj, a Hortobágyon szikes talaj (azonális).",
+   "diagram": "soil",
+   "concepts": [
+    "zonális és azonális talaj",
+    "szikes talajok",
+    "öntéstalaj",
+    "láptalaj",
+    "mezőségi talaj"
+   ],
+   "processes": [
+    "talajkepzodes"
+   ],
+   "examTip": "Azonális talajnál mindig nevezd meg a helyi tényezőt, amely felülírta az éghajlatot (pl. öntéstalaj – folyóvíz; rendzina – mészkő).",
+   "selfCheck": [
+    {
+     "q": "Miért azonális a láptalaj?",
+     "a": "Mert kialakulását az állandó vízborítás határozza meg, nem az éghajlat, így bármely övben előfordulhat."
+    },
+    {
+     "q": "Zonális vagy azonális a barna erdőtalaj?",
+     "a": "Zonális (a lombhullató erdők éghajlatához kötődik)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az öntéstalaj azonális talaj, a folyók árterén képződik.",
+     "true": true
+    },
+    {
+     "statement": "Az azonális talajok mindig ugyanabban az éghajlati övben fordulnak elő.",
+     "true": false,
+     "correction": "Az azonális talajok a helyi tényezőktől függenek, ezért bármely éghajlati övben előfordulhatnak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--k5",
+   "explanation": "A legfontosabb zonális talajok az Egyenlítőtől a sarkok felé:\n- laterittalaj: egyenlítői és átmeneti öv, erős kilúgozás, vörös, tápanyagszegény (Amazonas-medence, Kongó-medence),\n- vörös- és sárgaföldek: a forró övezet nedves, szezonális területei és a meleg mérsékelt öv csapadékos keleti partjai (Dél-Kína),\n- sivatagi talaj: vékony, humuszszegény, sós (Szahara),\n- mezőségi talaj (csernozjom): vastag, fekete humuszos, a legtermékenyebb; füves puszták (Ukrajna, préri, Alföld),\n- barna erdőtalaj: lombhullató erdők, közepes humusz (Nyugat- és Közép-Európa, Dunántúl),\n- szürke erdőtalaj (podzol): tajga, erősen kilúgozott, savanyú (Szibéria, Kanada),\n- tundratalaj: fagyott altalaj fölött vizenyős, lápos (Észak-Szibéria).\n\nFontos azonális talajok:\n- öntéstalaj: árterek, termékeny (Nílus völgye),\n- láptalaj: vízborította mélyedések,\n- szikes talajok: sós talajvíz, Hortobágy,\n- rendzina és terra rossa: mészkövön (Dunántúli-középhegység, Mediterráneum).",
+   "diagram": "soil",
+   "concepts": [
+    "laterittalaj",
+    "vörös- és sárgaföldek",
+    "mezőségi talaj",
+    "barna erdőtalaj",
+    "szürke erdőtalaj (podzol)",
+    "tundratalaj"
+   ],
+   "processes": [
+    "talajkepzodes"
+   ],
+   "examTip": "Ha talajtérképet kell elemezni, kösd a talajt a növényzethez: esőerdő – laterit, füves puszta – mezőségi, lombhullató erdő – barna erdőtalaj, tajga – podzol.",
+   "selfCheck": [
+    {
+     "q": "Melyik a legtermékenyebb zonális talaj és hol fordul elő?",
+     "a": "A mezőségi talaj (csernozjom), pl. Ukrajnában, a prérin és az Alföldön."
+    },
+    {
+     "q": "Miért terméketlen a podzol?",
+     "a": "A hűvös, csapadékos éghajlat és a savanyú tűavar miatt erősen kilúgozott, savanyú."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A barna erdőtalaj a lombhullató erdők zonális talaja.",
+     "true": true
+    },
+    {
+     "statement": "A podzol a füves puszták vastag, fekete humuszos talaja.",
+     "true": false,
+     "correction": "Ez a mezőségi talaj; a podzol a tajga kilúgozott, savanyú, szürke erdőtalaja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--k6",
+   "explanation": "A talaj lassan képződik, de gyorsan elpusztulhat – ezért gyakorlatilag nem megújuló erőforrás.\n\nKörnyezeti folyamatok:\n- talajpusztulás (talajerózió) víz és szél hatására, főleg növénytakaró nélkül,\n- szikesedés: sós talajvíz a felszín közelében, erős párolgás,\n- elsivatagosodás aszályos területeken (Száhel-övezet).\n\nTársadalmi-gazdasági folyamatok:\n- erdőirtás és túllegeltetés – megszűnik a védő növényzet,\n- helytelen öntözés – másodlagos szikesedés (Aral-tó vidéke),\n- talajszennyezés: túlzott műtrágya- és vegyszerhasználat, ipari szennyezés, hulladék, savas ülepedés,\n- talajtömörödés nehéz gépektől,\n- beépítés (utak, települések) – a termőföld végleg elvész.\n\nA veszély mérséklése:\n- erdősávok, gyepesítés, teraszozás, szintvonalas művelés,\n- vetésforgó, szerves trágya, talajtakarás,\n- szakszerű öntözés megfelelő vízelvezetéssel,\n- a vegyszerek mérséklése, ökológiai gazdálkodás,\n- a jó termőföldek beépítésének korlátozása, rekultiváció.",
+   "diagram": null,
+   "concepts": [
+    "talajpusztulás (talajerózió)",
+    "talajszennyezés",
+    "szikesedés",
+    "elsivatagosodás",
+    "túllegeltetés",
+    "erdőirtás"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "Esszében a veszélyeztető folyamathoz mindig rendelj konkrét védekezési módot és földrajzi példát.",
+   "selfCheck": [
+    {
+     "q": "Hogyan okozhat szikesedést az öntözés?",
+     "a": "Ha nincs megfelelő vízelvezetés, megemelkedik a talajvíz, a párolgás miatt a sók a felszínen halmozódnak fel."
+    },
+    {
+     "q": "Miért tekinthető a talaj nem megújuló erőforrásnak?",
+     "a": "Mert képződése rendkívül lassú, pusztulása viszont gyors lehet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A túllegeltetés hozzájárul az elsivatagosodáshoz.",
+     "true": true
+    },
+    {
+     "statement": "A műtrágya korlátlan használata hosszú távon mindig javítja a talaj állapotát.",
+     "true": false,
+     "correction": "A túlzott műtrágyázás szennyezi a talajt és a vizeket (pl. nitrátosodás), rontja a talajszerkezetet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--e1",
+   "explanation": "A talajszelvény fentről lefelé jól elkülönülő szintekre tagolódik.\n\nA-szint (feltalaj, humuszos szint, kilúgozási szint):\n- itt a legtöbb a humusz, a gyökér, a talajlakó élőlény, ezért sötétebb,\n- a lefelé szivárgó víz innen mossa ki az oldható anyagokat (sók, agyag, vas- és alumíniumvegyületek) – ezért kilúgozási szint,\n- a növények tápanyagfelvételének fő helye.\n\nB-szint (altalaj, felhalmozódási szint):\n- ide rakódnak le az A-szintből kimosott anyagok,\n- gyakran tömörebb, színe a felhalmozott anyagtól függ (pl. barnás, vöröses),\n- kevesebb benne a humusz.\n\nC-szint (anyakőzet):\n- a talaj alatti, mállófélben lévő alapkőzet (pl. lösz, mészkő, homok),\n- ebből fejlődött ki a talaj.\n\nA szintek vastagsága és fejlettsége jellemző a talajtípusra: a podzolnál éles a kilúgozott A-szint, a mezőségi talajnál vastag a humuszos A-szint, a váztalajoknál alig vannak szintek.",
+   "diagram": "soil",
+   "concepts": [
+    "talajszintek (A-, B-, C-szint)",
+    "kilúgozási szint",
+    "felhalmozódási szint",
+    "anyakőzet (alapkőzet)",
+    "humusz"
+   ],
+   "processes": [
+    "talajkepzodes"
+   ],
+   "examTip": "Talajszelvény-ábránál a szinteket betűjelükkel és nevükkel együtt add meg: A – kilúgozási, B – felhalmozódási, C – anyakőzet.",
+   "selfCheck": [
+    {
+     "q": "Miért kilúgozási szint az A-szint?",
+     "a": "Mert a lefelé szivárgó víz innen oldja ki és mossa le az oldható anyagokat."
+    },
+    {
+     "q": "Mi a C-szint?",
+     "a": "A talaj anyakőzete, a mállófélben lévő alapkőzet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A B-szintben halmozódnak fel az A-szintből kimosott anyagok.",
+     "true": true
+    },
+    {
+     "statement": "A C-szint a legtöbb humuszt tartalmazó, legsötétebb talajszint.",
+     "true": false,
+     "correction": "A legtöbb humusz az A-szintben van; a C-szint az anyakőzet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--e2",
+   "explanation": "A fenntartható talajhasználat azt jelenti, hogy a talaj termőképessége hosszú távon is megmarad. Ennek módja övenként eltér.\n\n- Egyenlítői öv (Amazonas-medence): a laterittalaj tápanyagkészlete főleg a növényzetben van. Erdőirtás után néhány év alatt kimerül, kilúgozódik, kérgessé válik. Fenntartható: az erdő megőrzése, vegyes ültetvények, agrár-erdészet.\n- Száhel-övezet (szavanna és sivatag határa): a túllegeltetés és a túlzott fakivágás elsivatagosodást okoz. Fenntartható: legeltetés korlátozása, fásítás, kőgátak a víz megtartására.\n- Monszunvidék (Délkelet-Ázsia): a teraszos rizstermesztés évszázadok óta megőrzi a lejtők talaját.\n- Mediterrán terület: a hegyek erdőinek kiirtása után a talaj lepusztult, helyén macchia, sziklás felszín maradt.\n- Füves puszták (préri, ukrán sztyepp): a mezőségi talaj feltörése után porviharok és szélerózió; fenntartható: erdősávok, talajtakarás, vetésforgó.\n- Hazánk: lejtős szőlők, löszvidékek eróziója, Alföld szikesedése, homokvidékek fásítása.",
+   "diagram": null,
+   "concepts": [
+    "talajpusztulás (talajerózió)",
+    "laterittalaj",
+    "mezőségi talaj",
+    "elsivatagosodás",
+    "füves területek feltörése"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas",
+    "talajkepzodes"
+   ],
+   "examTip": "Övenkénti összehasonlításnál a szerkezet legyen: talaj → veszélyeztető tevékenység → következmény → fenntartható megoldás.",
+   "selfCheck": [
+    {
+     "q": "Miért gyorsan kimerülő az esőerdő talaja kiirtás után?",
+     "a": "A tápanyagkészlet a növényzetben van, a talaj kilúgozott, az erdő nélkül a csapadék elmossa a maradék tápanyagot is."
+    },
+    {
+     "q": "Mondj példát fenntartható talajhasználatra a monszunvidékről!",
+     "a": "Teraszos rizstermesztés a lejtőkön."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A trópusi esőerdő tápanyagkészletének jelentős része a növényzetben található.",
+     "true": true
+    },
+    {
+     "statement": "A laterittalaj az erdőirtás után tartósan, trágyázás nélkül is jó termést ad.",
+     "true": false,
+     "correction": "A laterittalaj erdőirtás után néhány év alatt kimerül és kilúgozódik, tartós művelésre alkalmatlan."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-3-a-talaj--e3",
+   "explanation": "A talaj a környezet „emlékezete”: tulajdonságai jelzik, milyen hatások érték – ez az indikátor szerep.\n\nA természetes környezet jelzője:\n- a talajtípus elárulja az éghajlatot és a növényzetet (pl. podzol – hűvös, csapadékos, tűlevelű erdő),\n- a löszrétegek közé települt eltemetett talajok (paleotalajok) a jégkorszak melegebb időszakait jelzik,\n- a szikes talaj magas sós talajvízre és erős párolgásra utal.\n\nAz emberi hatások jelzője:\n- savanyodás: savas ülepedés, túlzott műtrágyázás,\n- nehézfém-szennyezés ipari területek, bányák, forgalmas utak mentén,\n- nitrátosodás a túlzott trágyázás miatt,\n- radioaktív szennyezés (Csernobil környéke),\n- erodált, lecsonkolt talajszelvény a helytelen művelést mutatja.\n\nA talaj lassan tisztul: a felhalmozódott szennyezés évtizedekig megmarad és a táplálékláncba is bekerülhet. Ezért a talajvizsgálat a környezeti állapotfelmérés fontos része.",
+   "diagram": "soil",
+   "concepts": [
+    "indikátor szerep",
+    "talajszennyezés",
+    "szikes talajok",
+    "szürke erdőtalaj (podzol)"
+   ],
+   "processes": [
+    "talajkepzodes"
+   ],
+   "examTip": "Az „indikátor szerep” lényege: a talaj jelzi, mi történt vele. Hozz példát természetes és emberi hatásra is.",
+   "selfCheck": [
+    {
+     "q": "Mit jelezhet egy ipari terület mellett vett talajminta?",
+     "a": "Nehézfém-szennyezést, savanyodást."
+    },
+    {
+     "q": "Mire utalnak a löszrétegek közötti eltemetett talajok?",
+     "a": "A jégkorszak melegebb, csapadékosabb időszakaira, amikor talajképződés folyhatott."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A talajban a szennyezőanyagok hosszú ideig felhalmozódhatnak.",
+     "true": true
+    },
+    {
+     "statement": "A talaj a szennyezésektől néhány hét alatt magától megtisztul, ezért nem alkalmas a környezet állapotának jelzésére.",
+     "true": false,
+     "correction": "A talaj lassan tisztul, a szennyezés évtizedekig megmarad – éppen ezért jó környezeti indikátor."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-4-a-geoszferak-kozotti-kapcsolatok--k1",
+   "explanation": "A geoszférák (kőzetburok, levegőburok, vízburok, élővilág, talaj) szorosan összefüggnek: ami az egyikben történik, az a többire is hat.\n\nPéldák:\n- Vulkánkitörés (kőzetburok): a hamu és a kén-dioxid a légkörbe jut, gyengíti a napsugárzást, átmeneti lehűlést okoz (Pinatubo, 1991); savas eső hull, a hamu viszont hosszú távon termékeny talajt ad.\n- Hegységképződés: a hegység éghajlatválasztóként hat – a szél felőli oldal csapadékos, a szél alatti száraz (Andok, Himalája), ez megszabja a folyókat, a talajt, az élővilágot.\n- Tengeráramlás (vízburok): a Golf-áramlás enyhíti Nyugat-Európa éghajlatát; a hideg Humboldt-áramlás az Atacama-sivatag szárazságához járul hozzá.\n- Növényzet (bioszféra): az erdő megköti a talajt, párologtat, szabályozza a lefolyást; kiirtása eróziót és árvizeket okoz.\n- Éghajlat (légkör): meghatározza a mállást, a talajtípust, a folyók vízjárását és a külső erők jellegét.",
+   "diagram": null,
+   "concepts": [
+    "külső és belső erők",
+    "éghajlatválasztó hegység",
+    "erdőirtás",
+    "talaj"
+   ],
+   "processes": [
+    "vulkani-mukodes",
+    "tengeraramlasok",
+    "viz-korforgasa"
+   ],
+   "examTip": "Az ilyen feladatoknál láncot építs: ok (egyik geoszféra) → hatás (másik geoszféra) → következmény. Minél több lépést tudsz összekötni, annál több pont jár.",
+   "selfCheck": [
+    {
+     "q": "Hogyan hathat egy nagy vulkánkitörés az éghajlatra?",
+     "a": "A légkörbe jutó hamu és kén-dioxid csökkenti a besugárzást, átmeneti lehűlést okoz."
+    },
+    {
+     "q": "Hogyan befolyásolja a hegység a környezetét?",
+     "a": "Éghajlatválasztóként hat: a szél felőli oldal csapadékos, a szél alatti száraz, ez meghatározza a vizeket, a talajt és a növényzetet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az erdőirtás a vízburokra és a talajra is hatással van.",
+     "true": true
+    },
+    {
+     "statement": "A tengeráramlások csak a vízburokra hatnak, a szárazföldek éghajlatára nem.",
+     "true": false,
+     "correction": "A tengeráramlások jelentősen módosítják a partvidékek éghajlatát (pl. a Golf-áramlás enyhíti Nyugat-Európáét)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-4-a-geoszferak-kozotti-kapcsolatok--k2",
+   "explanation": "Sok környezeti ártalom egyszerre több geoszférát érint.\n\n- Savas eső: ok – kén- és nitrogén-oxidok kibocsátása (széntüzelés, közlekedés). Következmény – savanyodó tavak és talajok, erdőpusztulás, épületek mállása. Megoldás – füstgáz-kéntelenítés, katalizátor, megújuló energia.\n- Aral-tó pusztulása: ok – a táplálófolyók (Amu-darja, Szir-darja) vizének öntözésre fordítása. Következmény – a tó zsugorodása, a halászat összeomlása, szikesedés, sós porviharok, szélsőségesebb éghajlat. Megoldás – takarékos öntözés, gát az északi medencénél.\n- Elsivatagosodás (Száhel-övezet): ok – túllegeltetés, erdőirtás, aszályok. Következmény – talajpusztulás, porviharok, éhínség, elvándorlás. Megoldás – fásítás, legeltetés szabályozása.\n- Globális felmelegedés: ok – üvegházgázok kibocsátása. Következmény – olvadó jég, tengerszint-emelkedés, szélsőséges időjárás. Megoldás – kibocsátás csökkentése, nemzetközi egyezmények.\n- Tengeri olajszennyezés: vízburok, élővilág, partok talaja.",
+   "diagram": null,
+   "concepts": [
+    "savas csapadék",
+    "elsivatagosodás",
+    "globális felmelegedés",
+    "szikesedés",
+    "talajszennyezés"
+   ],
+   "processes": [
+    "savas-eso",
+    "talajpusztulas-sivatagosodas",
+    "globalis-felmelegedes"
+   ],
+   "examTip": "Az Aral-tó a legjobb „több geoszférás” példa: a vízburok, a talaj, a légkör, az élővilág és a társadalom is érintett. Tanuld meg részletesen!",
+   "selfCheck": [
+    {
+     "q": "Milyen geoszférákat érint a savas eső?",
+     "a": "A légkört, a vízburkot (tavak), a talajt, az élővilágot (erdők) – és az épített környezetet is."
+    },
+    {
+     "q": "Mi okozta az Aral-tó zsugorodását?",
+     "a": "A táplálófolyók vizének túlzott öntözési célú elvezetése."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Aral-tó kiszáradó medréből felkapott sós por a környező földeket is károsítja.",
+     "true": true
+    },
+    {
+     "statement": "A savas eső kizárólag a légkört szennyezi, a talajra és a vizekre nincs hatása.",
+     "true": false,
+     "correction": "A savas eső a talajt és a tavakat is elsavanyítja, károsítja az erdőket és az épületeket."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-4-a-geoszferak-kozotti-kapcsolatok--e1",
+   "explanation": "Az emelt érettségin gyakran kapsz folyamatábrát vagy szöveges forrást (szemelvényt), amelyből ok-okozati láncot kell felismerned.\n\nHogyan elemezd a folyamatábrát?\n- Keresd meg a kiinduló okot (gyakran emberi beavatkozás vagy természeti esemény).\n- Kövesd a nyilakat: melyik geoszférában mi változik?\n- Figyeld a visszacsatolásokat: pozitív (erősítő) – pl. olvadó jég → kisebb albedó → több elnyelt hő → még több olvadás; negatív (gyengítő) – a változás önmagát fékezi.\n- Pótold a hiányzó láncszemet, ha az ábrán üres mező van.\n\nHogyan elemezd a szemelvényt?\n- Húzd alá a földrajzi neveket, folyamatokat, időpontokat.\n- Különítsd el a tényeket és a következményeket.\n- Kapcsold a szöveget a tanult fogalmakhoz (pl. túllegeltetés → elsivatagosodás).\n\nTipikus témák: erdőirtás az Amazonas-medencében, Aral-tó, Száhel-övezet, savas eső, globális felmelegedés visszacsatolásai.",
+   "diagram": null,
+   "concepts": [
+    "elsivatagosodás",
+    "erdőirtás",
+    "túllegeltetés",
+    "globális felmelegedés"
+   ],
+   "processes": [
+    "globalis-felmelegedes",
+    "talajpusztulas-sivatagosodas",
+    "savas-eso"
+   ],
+   "examTip": "A folyamatábra hiányzó elemét mindig a szomszédos dobozokból kövesd ki: a válasznak okként és következményként is illeszkednie kell.",
+   "selfCheck": [
+    {
+     "q": "Mi a pozitív visszacsatolás?",
+     "a": "Olyan folyamat, amelyben a változás következménye tovább erősíti magát a változást."
+    },
+    {
+     "q": "Mondj egy pozitív visszacsatolást a globális felmelegedésből!",
+     "a": "Olvadó jég → kisebb albedó → több elnyelt hő → még több olvadás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A folyamatábra elemzésénél az ok-okozati láncot a nyilak mentén kell követni.",
+     "true": true
+    },
+    {
+     "statement": "A negatív visszacsatolás mindig felerősíti a kiinduló változást.",
+     "true": false,
+     "correction": "A negatív visszacsatolás gyengíti, fékezi a változást; a pozitív erősíti."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k1",
+   "explanation": "A felszín felmelegedését elsősorban a napsugarak hajlásszöge (a beesési szög) határozza meg.\n\nKészíts egyszerű rajzot: egyforma széles napsugárnyalábok érkeznek az Egyenlítőre és a sarkvidékre.\n- Az Egyenlítő közelében a sugarak közel merőlegesen érkeznek: kis felületre jut az energia, így egységnyi felületre sok jut – erős felmelegedés.\n- A sarkok felé a hajlásszög csökken: ugyanaz a nyaláb nagyobb felületen szóródik szét – gyengébb felmelegedés.\n- Kis hajlásszögnél a sugárzás hosszabb utat tesz meg a légkörben, ezért több is nyelődik el és verődik vissza belőle.\n\nA hajlásszög a földrajzi szélességtől és az évszaktól függ (a Föld tengelyferdesége miatt). Ezért csökken a hőmérséklet az Egyenlítőtől a sarkok felé, és ez az alapja a szoláris éghajlati övezeteknek.\n\nA sarkvidéken a hó és a jég nagy albedója tovább csökkenti a felmelegedést.",
+   "diagram": "solar-angle",
+   "concepts": [
+    "szoláris és valódi éghajlati övezetek",
+    "éghajlati övezetesség"
+   ],
+   "processes": [
+    "evszakok",
+    "uveghazhatas"
+   ],
+   "examTip": "A rajzon legyen két egyforma szélességű sugárnyaláb, és jelöld, mekkora felületre esnek – erre jár a pont, nem a szép kivitelre.",
+   "selfCheck": [
+    {
+     "q": "Miért melegszik fel jobban a felszín nagy hajlásszögnél?",
+     "a": "Kisebb felületre jut ugyanannyi energia, és rövidebb a sugarak útja a légkörben."
+    },
+    {
+     "q": "Mitől függ a napsugarak hajlásszöge?",
+     "a": "A földrajzi szélességtől és az évszaktól (napszaktól)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Kis hajlásszögnél a napsugarak hosszabb utat tesznek meg a légkörben.",
+     "true": true
+    },
+    {
+     "statement": "A sarkvidékek azért hidegek, mert távolabb vannak a Naptól, mint az Egyenlítő.",
+     "true": false,
+     "correction": "A távolságkülönbség elhanyagolható; a sarkvidékek a kis hajlásszög miatt kapnak kevesebb energiát egységnyi felületre."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k2",
+   "explanation": "A szoláris (napsugárzási) éghajlati övezetek csak a napsugárzás alapján különülnek el, ezért határaik szélességi körök.\n\n- Forró övezet: a két térítő (kb. 23,5° É és D) között. Itt évente legalább egyszer delel a Nap a zenitben.\n- Mérsékelt övezet (két darab): a térítők és a sarkkörök (kb. 66,5° É és D) között. A Nap soha nem delel a zenitben, de minden nap felkel.\n- Hideg övezet (két darab): a sarkkörök és a sarkpontok között. Itt van sarki nappal és sarki éjszaka.\n\nÖsszesen tehát öt szoláris övezet van.\n\nTérképvázlaton:\n- rajzold be az Egyenlítőt, a Ráktérítőt, a Baktérítőt, az Északi- és a Déli-sarkkört,\n- a térítők közé írd: forró, a térítők és a sarkkörök közé: mérsékelt, a sarkkörökön túlra: hideg.\n\nA határok a tengelyferdeségből adódnak: a térítők szélessége megegyezik a tengelyferdeséggel, a sarkköröké 90° mínusz a tengelyferdeség.",
+   "diagram": "solar-angle",
+   "concepts": [
+    "szoláris és valódi éghajlati övezetek",
+    "éghajlati övezetesség"
+   ],
+   "processes": [
+    "evszakok",
+    "nappalok-hossza"
+   ],
+   "examTip": "Megadott koordinátájú pontnál könnyű kérdés, melyik szoláris övezetben van – vigyázz a 23,5° és a 66,5° határra!",
+   "selfCheck": [
+    {
+     "q": "Hány szoláris éghajlati övezet van?",
+     "a": "Öt: egy forró, két mérsékelt, két hideg."
+    },
+    {
+     "q": "Melyik övezetben delelhet a Nap a zenitben?",
+     "a": "Csak a forró övezetben (a térítők között)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A szoláris mérsékelt övezet a térítők és a sarkkörök között húzódik.",
+     "true": true
+    },
+    {
+     "statement": "A szoláris övezetek határai izotermák, ezért kanyargós vonalak.",
+     "true": false,
+     "correction": "A szoláris övezetek határai szélességi körök (térítők, sarkkörök); a valódi éghajlati övezetek határai kanyarognak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k3",
+   "explanation": "A valódi éghajlatot a napsugárzáson kívül számos tényező módosítja.\n\n- Óceánok: a víz lassan melegszik és lassan hűl, ezért a partvidékek éghajlata kiegyenlített (óceáni), a kontinensek belseje szélsőséges (szárazföldi). Ny-Európától Szibéria felé nő az évi hőingás, csökken a csapadék.\n- Tengeráramlások: a meleg áramlás enyhít és csapadékot hoz (Golf-áramlás – Norvégia kikötői télen is jégmentesek), a hideg áramlás hűt és szárít (Humboldt-áramlás – Atacama, Benguela-áramlás – Namíb).\n- Szélrendszerek: a passzát, a nyugatias szelek és a monszun szállítják a hőt és a nedvességet; a leszálló légáramlású térítői magasnyomású övben sivatagok vannak (Szahara).\n- Földfelszín: az albedó (hó, jég, homok) és a növényzet módosítja a felmelegedést.\n- Domborzat: a magassággal csökken a hőmérséklet; a hegységek éghajlatválasztók – a szél felőli oldal csapadékos, a szél alatti száraz (Andok, Himalája, Sziklás-hegység).",
+   "diagram": "circulation",
+   "concepts": [
+    "szoláris és valódi éghajlati övezetek",
+    "éghajlatválasztó hegység",
+    "éghajlati övezetesség"
+   ],
+   "processes": [
+    "altalanos-legkorzes",
+    "tengeraramlasok",
+    "monszun",
+    "fonszel"
+   ],
+   "examTip": "Ha egy partvidéki sivatagot kell magyarázni (Atacama, Namíb), mindig említsd a hideg tengeráramlást is a térítői magasnyomás mellett.",
+   "selfCheck": [
+    {
+     "q": "Miért jégmentesek télen Norvégia kikötői?",
+     "a": "A meleg Golf-áramlás (Észak-atlanti-áramlás) enyhíti a partvidék éghajlatát."
+    },
+    {
+     "q": "Mit jelent, hogy egy hegység éghajlatválasztó?",
+     "a": "A szél felőli oldala csapadékos, a szél alatti oldala száraz, így két eltérő éghajlatot választ el."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A hideg tengeráramlások a partvidékek szárazságát fokozzák.",
+     "true": true
+    },
+    {
+     "statement": "A kontinensek belsejében kisebb az évi hőingás, mint a partvidéken.",
+     "true": false,
+     "correction": "A kontinensek belsejében nagyobb az évi hőingás; az óceán közelsége kiegyenlíti a hőmérsékletet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k4",
+   "explanation": "A két fogalmat könnyű összekeverni, pedig a tartalmuk eltér.\n\nÉghajlati övezetesség:\n- csak az éghajlat (hőmérséklet, csapadék, szél) övezetes elrendeződését jelenti,\n- oka a napsugárzás földrajzi szélesség szerinti eltérése, amelyet módosítanak az óceánok, a domborzat, a szélrendszerek.\n\nFöldrajzi övezetesség:\n- a természetföldrajzi jellemzők egészének övezetes elrendeződése,\n- az éghajlathoz igazodik a vízrajz (folyók vízjárása), a felszínformálás (pl. szél munkája sivatagban, jég a sarkvidéken), a talaj, a növényzet és az állatvilág, sőt a gazdálkodás is,\n- vagyis komplex: az éghajlat az alap, de az övezetek a geoszférák kölcsönhatásából jönnek létre.\n\nA földrajzi övezetesség két formája:\n- vízszintes földrajzi övezetesség: az Egyenlítőtől a sarkok felé,\n- függőleges földrajzi övezetesség: a hegységekben a tengerszint feletti magassággal.\n\nPéldául a trópusi esőerdő egy földrajzi öv jellemzője, nem csupán éghajlati adat.",
+   "diagram": null,
+   "concepts": [
+    "éghajlati övezetesség",
+    "földrajzi övezetesség",
+    "vízszintes földrajzi övezetesség",
+    "függőleges földrajzi övezetesség"
+   ],
+   "processes": [],
+   "examTip": "Definíciós kérdésnél a kulcsszó: az éghajlati övezetesség egy elemre (éghajlat), a földrajzi övezetesség az összes természetföldrajzi tényezőre vonatkozik.",
+   "selfCheck": [
+    {
+     "q": "Milyen tényezőkre terjed ki a földrajzi övezetesség?",
+     "a": "Éghajlat, vízrajz, felszínformálás, talaj, növényzet, állatvilág (és a gazdálkodás)."
+    },
+    {
+     "q": "Mi a földrajzi övezetesség két formája?",
+     "a": "A vízszintes és a függőleges földrajzi övezetesség."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A földrajzi övezetesség alapja az éghajlat övezetes elrendeződése.",
+     "true": true
+    },
+    {
+     "statement": "Az éghajlati és a földrajzi övezetesség ugyanazt jelenti.",
+     "true": false,
+     "correction": "Az éghajlati övezetesség csak az éghajlatra, a földrajzi övezetesség az összes természetföldrajzi jellemzőre vonatkozik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--e1",
+   "explanation": "A szoláris és a valódi éghajlati övezetek összehasonlítása:\n\nSzoláris övezetek:\n- csak a napsugárzás mennyisége (hajlásszög, nappalhossz) alapján,\n- „elméleti” övezetek, mintha a Föld felszíne egynemű volna,\n- határaik szélességi körök (térítők, sarkkörök),\n- öt övezet: forró, két mérsékelt, két hideg.\n\nValódi éghajlati övezetek:\n- a ténylegesen mért éghajlat alapján,\n- figyelembe veszik a módosító tényezőket: szárazföld és óceán eloszlása, tengeráramlások, szélrendszerek, domborzat,\n- határaik izotermák, ezért nem esnek egybe a szélességi körökkel, kanyarognak,\n- az övezeteken belül öveket, vidékeket és területeket különítünk el.\n\nEltérések példái:\n- Nyugat-Európa a meleg tengeráramlás miatt enyhébb, mint a vele azonos szélességű Kanada keleti partja,\n- Szibéria belseje jóval hidegebb a kontinentalitás miatt,\n- a déli félgömbön, ahol kevés a szárazföld, a valódi övezetek jobban követik a szélességi köröket.",
+   "diagram": "solar-angle",
+   "concepts": [
+    "szoláris és valódi éghajlati övezetek",
+    "éghajlati övezetesség"
+   ],
+   "processes": [
+    "altalanos-legkorzes",
+    "tengeraramlasok"
+   ],
+   "examTip": "Az összehasonlításnál három szempontot mindenképp írj le: mi alapján különülnek el, mi a határuk, és miért tér el a kettő.",
+   "selfCheck": [
+    {
+     "q": "Miért nem szélességi körök a valódi éghajlati övezetek határai?",
+     "a": "Mert a napsugárzáson túl a szárazföld–óceán eloszlás, a tengeráramlások, a szelek és a domborzat is módosítják az éghajlatot."
+    },
+    {
+     "q": "Hol követik jobban a valódi övezetek a szélességi köröket?",
+     "a": "A déli félgömbön, ahol nagy az óceánok aránya."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A valódi éghajlati övezetek határait a mért hőmérsékleti adatok alapján húzzuk meg.",
+     "true": true
+    },
+    {
+     "statement": "A szoláris övezetek figyelembe veszik a tengeráramlások hatását.",
+     "true": false,
+     "correction": "A szoláris övezetek csak a napsugárzáson alapulnak; a tengeráramlások hatását a valódi övezetek tükrözik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k1",
+   "explanation": "A földrajzi övezetesség azt jelenti, hogy a természetföldrajzi jellemzők (éghajlat, vízrajz, felszínformálás, talaj, élővilág) övezetesen rendeződnek el a Földön. A vízszintes földrajzi övezetesség az Egyenlítőtől a sarkok felé történő változás, alapja a napsugárzás szélesség szerinti eltérése.\n\nA rendszer hierarchikus:\n- övezet: a legnagyobb egység, a hőmérséklet alapján (forró, mérsékelt, hideg övezet),\n- öv: az övezeten belül, főleg a csapadék és a hőmérséklet évi járása alapján (pl. egyenlítői, átmeneti, térítői öv; meleg mérsékelt, valódi mérsékelt, hideg mérsékelt öv),\n- vidék: a forró övezetben az övekhez nem illeszkedő egység (monszunvidék),\n- terület: az öveken belül a csapadék mennyisége, eloszlása, a kontinentalitás alapján (pl. mediterrán, óceáni, szárazföldi terület).\n\nAz egyes egységek tehát egymásba ágyazódnak: pl. mérsékelt övezet → valódi mérsékelt öv → mérsékelten szárazföldi terület – ide tartozik Magyarország.",
+   "diagram": "circulation",
+   "concepts": [
+    "földrajzi övezetesség",
+    "vízszintes földrajzi övezetesség",
+    "övezet",
+    "öv",
+    "vidék",
+    "terület"
+   ],
+   "processes": [
+    "altalanos-legkorzes"
+   ],
+   "examTip": "Gyakori feladat egy hely besorolása a teljes hierarchiában (övezet → öv → terület). Magyarország: mérsékelt övezet, valódi mérsékelt öv, mérsékelten szárazföldi terület.",
+   "selfCheck": [
+    {
+     "q": "Melyik a földrajzi övezetesség legnagyobb egysége?",
+     "a": "Az övezet."
+    },
+    {
+     "q": "Hová sorolható Magyarország?",
+     "a": "Mérsékelt övezet, valódi mérsékelt öv, mérsékelten szárazföldi terület."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A monszunvidék a forró övezet egysége.",
+     "true": true
+    },
+    {
+     "statement": "Az öv nagyobb egység, mint az övezet.",
+     "true": false,
+     "correction": "Az övezet a legnagyobb egység; az övezeten belül különítjük el az öveket, azokon belül a területeket."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k2",
+   "explanation": "Az egyes egységeket más-más szempont alapján különítjük el.\n\nÖvezetek – a hőmérséklet (a napsugárzás) alapján:\n- forró övezet: egész évben magas hőmérséklet, nincs hideg évszak,\n- mérsékelt övezet: évszakos hőmérséklet-ingadozás, van tél és nyár,\n- hideg övezet: rövid, hűvös nyár, hosszú, kemény tél vagy állandó fagy.\n\nÖvek és vidékek – a csapadék mennyisége és évi eloszlása, illetve a hőmérséklet alapján:\n- forró övezet: egyenlítői öv (egész évben esős), átmeneti öv (esős és száraz évszak), térítői öv (száraz); monszunvidék (évszakos szélirányváltás),\n- mérsékelt övezet: meleg mérsékelt öv, valódi mérsékelt öv, hideg mérsékelt öv,\n- hideg övezet: sarkköri és sarkvidéki öv.\n\nTerületek – a csapadék mennyisége, évszakos eloszlása és az óceántól való távolság (kontinentalitás) alapján: pl. óceáni, mérsékelten szárazföldi, szárazföldi, szélsőségesen szárazföldi terület; mediterrán és monszunterület.",
+   "diagram": null,
+   "concepts": [
+    "övezet",
+    "öv",
+    "vidék",
+    "terület",
+    "forró övezet",
+    "mérsékelt övezet"
+   ],
+   "processes": [],
+   "examTip": "Röviden: övezet – hőmérséklet; öv – csapadék és hőmérséklet évi járása; terület – a csapadék és az óceántól való távolság.",
+   "selfCheck": [
+    {
+     "q": "Mi alapján különítjük el az övezeteket?",
+     "a": "A hőmérséklet (a napsugárzás mennyisége) alapján."
+    },
+    {
+     "q": "Mi alapján különülnek el a valódi mérsékelt öv területei?",
+     "a": "Az óceántól való távolság, a csapadék mennyisége és eloszlása (kontinentalitás) alapján."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A forró övezet öveit főleg a csapadék évi eloszlása különíti el.",
+     "true": true
+    },
+    {
+     "statement": "Az övezeteket a csapadék mennyisége alapján határoljuk el egymástól.",
+     "true": false,
+     "correction": "Az övezeteket a hőmérséklet alapján különítjük el; a csapadék az övek és területek elhatárolásában fontos."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k3",
+   "explanation": "Az általános légkörzés szélrendszerei szállítják a hőt és a nedvességet, ezért meghatározzák az övek csapadékviszonyait.\n\n- Egyenlítői öv: a passzátok összeáramlásánál felszálló légmozgás – egész évben bőséges, naponta délutáni zenitális eső.\n- Átmeneti öv: a felszálló légáramlás (és vele az esőzés) a Nap zenitállásával évszakosan vándorol – nyáron esős, télen a száraz passzát uralkodik.\n- Térítői öv: a térítői magasnyomású öv leszálló, felmelegedő levegője nem hoz csapadékot – sivatagok (Szahara, Arab-sivatag).\n- Monszunvidék: a szárazföld és az óceán eltérő felmelegedése miatt évszakosan irányt váltó monszun – nyári esős, téli száraz évszak (India).\n- Mediterrán terület: nyáron a térítői magasnyomás, télen a nyugatias szelek ciklonjai uralkodnak – száraz nyár, csapadékos tél.\n- Valódi mérsékelt öv: a nyugatias szelek az óceánok felől nedvességet hoznak; kelet felé, a szárazföld belsejében ez fogy.\n- Hideg övezet: a sarki szelek hideg, száraz levegőt szállítanak.",
+   "diagram": "circulation",
+   "concepts": [
+    "egyenlítői öv",
+    "átmeneti öv",
+    "térítői öv",
+    "monszunvidék",
+    "mediterrán terület",
+    "valódi mérsékelt öv"
+   ],
+   "processes": [
+    "altalanos-legkorzes",
+    "monszun"
+   ],
+   "examTip": "A mediterrán éghajlatot mindig két szélrendszer váltakozásával magyarázd: nyáron térítői magasnyomás, télen nyugatias szelek.",
+   "selfCheck": [
+    {
+     "q": "Miért száraz a térítői öv?",
+     "a": "Mert a térítői magasnyomású övben a levegő leszáll és felmelegszik, így nem képződik csapadék."
+    },
+    {
+     "q": "Miért esős a szavanna nyáron?",
+     "a": "Mert a Nap zenitállásával együtt ide vándorol az egyenlítői felszálló légáramlás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A mediterrán terület csapadéka télen hullik, a nyugatias szelek ciklonjaiból.",
+     "true": true
+    },
+    {
+     "statement": "Az egyenlítői övben a leszálló légáramlás miatt egész évben száraz az idő.",
+     "true": false,
+     "correction": "Az egyenlítői övben felszálló légáramlás van, ezért egész évben bőséges a csapadék."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k4",
+   "explanation": "Minden övet ugyanazzal a szempontsorral jellemezz: éghajlat → vízrajz → felszínformálás → talaj → élővilág.\n\nPéldák:\n- Egyenlítői öv (Amazonas-medence, Kongó-medence): egész évben meleg, bő csapadék; bővizű, egyenletes vízjárású folyók; erős kémiai mállás; laterittalaj; trópusi esőerdő, szintezett, fajgazdag.\n- Átmeneti öv: esős nyár, száraz tél; időszakos vízjárású folyók; laterittalaj, vörösföld; szavanna (füves, ligetes), nagytestű növényevők (Kelet-Afrika).\n- Térítői öv (Szahara): kevés, rendszertelen csapadék, nagy napi hőingás; időszakos vízfolyások (vádik), jövevényfolyók (Nílus); aprózódás, szél munkája; sivatagi talaj; gyér, szárazságtűrő növényzet, oázisok.\n- Valódi mérsékelt öv: négy évszak; az óceántól távolodva szárazodó éghajlat; lombhullató erdő – erdős puszta – füves puszta; barna erdőtalaj, mezőségi talaj.\n- Hideg mérsékelt öv (Szibéria): hosszú, hideg tél; tavaszi árvizek; permafroszt; podzol; tajga.\n- Sarkköri öv: tundra, mohák, zuzmók, tundratalaj, fagyott altalaj.",
+   "diagram": "climate-chart",
+   "concepts": [
+    "egyenlítői öv",
+    "trópusi esőerdő",
+    "szavanna",
+    "jövevényfolyó",
+    "tajga",
+    "tundra"
+   ],
+   "processes": [
+    "altalanos-legkorzes",
+    "talajkepzodes"
+   ],
+   "examTip": "Összehasonlító táblázatnál mindig ugyanazokat a szempontokat töltsd ki minden övnél – a hiányzó cella pontveszteség.",
+   "selfCheck": [
+    {
+     "q": "Mi a jövevényfolyó?",
+     "a": "Csapadékosabb területről érkező folyó, amely a sivatagon is átfolyik (pl. Nílus)."
+    },
+    {
+     "q": "Milyen talaj és növényzet jellemző a hideg mérsékelt övre?",
+     "a": "Podzol és tajga."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az egyenlítői öv folyói bővizűek és egyenletes vízjárásúak.",
+     "true": true
+    },
+    {
+     "statement": "A térítői sivatagokban a fagy általi aprózódás a legjellemzőbb felszínformáló folyamat.",
+     "true": false,
+     "correction": "A térítői sivatagokban a nagy napi hőingás okozta aprózódás és a szél munkája a jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k5",
+   "explanation": "A gazdálkodás alkalmazkodik az övek éghajlatához és talajához.\n\nForró övezet:\n- egyenlítői öv: kakaó, olajpálma, kaucsukfa, banán – ültetvényes gazdálkodás; manióka, jamgyökér – égetéses-talajváltó gazdálkodás,\n- átmeneti öv: köles, cirok, kukorica, földimogyoró, gyapot, kávé; szarvasmarha, kecske,\n- térítői öv: oázisgazdálkodás (datolyapálma, gabona), nomád pásztorkodás (teve, kecske, juh),\n- monszunvidék: rizs, tea, juta, cukornád – monszungazdálkodás; bivaly a munkaerő.\n\nMérsékelt övezet:\n- mediterrán terület: olajfa, szőlő, citrusfélék, füge; juh, kecske – mediterrán gazdálkodás,\n- monszunterület (Kelet-Kína): rizs, tea, szója,\n- óceáni terület: rét-legelő, szarvasmarha (tejelő), burgonya, árpa,\n- mérsékelten szárazföldi terület: búza, kukorica, napraforgó, cukorrépa; sertés, szarvasmarha – vegyes gazdálkodás,\n- szárazföldi terület: búza (gabonaövezet), extenzív állattartás,\n- szélsőségesen szárazföldi terület: nomád pásztorkodás,\n- tajga: erdőgazdálkodás, prémvadászat.\n\nHideg övezet: rénszarvastartás, halászat.",
+   "diagram": null,
+   "concepts": [
+    "ültetvényes gazdálkodás",
+    "égetéses-talajváltó gazdálkodás",
+    "oázisgazdálkodás",
+    "monszungazdálkodás",
+    "mediterrán gazdálkodás",
+    "vegyes gazdálkodás"
+   ],
+   "processes": [],
+   "examTip": "Gyakori tesztkérdés: melyik növény NEM illik az övhöz. A kakaó és az olajpálma egyenlítői, a rizs monszunvidéki, az olajfa mediterrán.",
+   "selfCheck": [
+    {
+     "q": "Mi az égetéses-talajváltó gazdálkodás lényege?",
+     "a": "Az erdőt felégetik, néhány évig művelik, majd a kimerült talajt elhagyják és új helyen kezdik."
+    },
+    {
+     "q": "Mely növények jellemzők a mediterrán gazdálkodásra?",
+     "a": "Olajfa, szőlő, citrusfélék, füge."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A monszungazdálkodás legfontosabb növénye a rizs.",
+     "true": true
+    },
+    {
+     "statement": "A kakaó a mediterrán terület jellegzetes ültetvényes növénye.",
+     "true": false,
+     "correction": "A kakaó az egyenlítői öv ültetvényes növénye (pl. Elefántcsontpart, Ghána)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k6",
+   "explanation": "Minden övnek megvannak a jellegzetes környezeti problémái, amelyek a természeti adottságokból és a gazdálkodásból fakadnak.\n\n- Egyenlítői öv: erdőirtás és felégetés (Amazonas-medence, Indonézia) – a fajgazdagság csökken, a laterittalaj gyorsan kimerül, a szén-dioxid-kibocsátás nő.\n- Átmeneti öv és a sivatagok pereme (Száhel-övezet): túllegeltetés, fakivágás tüzelőnek – elsivatagosodás, talajpusztulás, éhínség.\n- Térítői öv: vízhiány, a fosszilis vízkészletek túlhasználata, oázisok szikesedése.\n- Monszunvidék: a hegyvidéki erdőirtás miatt pusztító árvizek (Gangesz–Brahmaputra), túlnépesedés, vízszennyezés.\n- Mediterrán terület: erdőtüzek, az erdőirtás utáni talajpusztulás, nyári vízhiány, tömegturizmus.\n- Valódi mérsékelt öv: füves területek feltörése nyomán szélerózió, savas ülepedés, talaj- és vízszennyezés, szikesedés.\n- Tajga: nagyüzemi fakitermelés, bányászat, olajszennyezés (Szibéria).\n- Hideg övezet: lassú regenerálódás, olajszennyezés, a permafroszt olvadása.",
+   "diagram": null,
+   "concepts": [
+    "erdőirtás",
+    "felégetés",
+    "túllegeltetés",
+    "elsivatagosodás",
+    "füves területek feltörése"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "A hideg övezet sérülékenységét azzal indokold, hogy a lassú lebontás és a rövid tenyészidő miatt a természet nagyon lassan regenerálódik.",
+   "selfCheck": [
+    {
+     "q": "Mi a Száhel-övezet fő környezeti problémája?",
+     "a": "Az elsivatagosodás (túllegeltetés, fakivágás, aszályok miatt)."
+    },
+    {
+     "q": "Miért különösen sérülékeny a tundra?",
+     "a": "A hideg miatt lassú a lebontás és a növekedés, a károk nagyon lassan regenerálódnak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A trópusi esőerdők irtása hozzájárul a légköri szén-dioxid növekedéséhez.",
+     "true": true
+    },
+    {
+     "statement": "Az elsivatagosodás kizárólag természetes, az ember által nem befolyásolt folyamat.",
+     "true": false,
+     "correction": "Az elsivatagosodást az ember is erősíti: túllegeltetés, erdőirtás, helytelen öntözés."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k7",
+   "explanation": "A térképen az övek helyét a szélességi körökhöz és a kontinensek helyzetéhez kötve tanuld meg.\n\nForró övezet:\n- egyenlítői öv: Amazonas-medence, Kongó-medence, Indonéz-szigetvilág,\n- átmeneti öv (szavanna): az esőerdőtől É-ra és D-re – Kelet-Afrika, Brazil-felföld, Észak-Ausztrália,\n- térítői öv: a térítők táján – Szahara, Arab-sivatag, Kalahári, Ausztrál-sivatag, Atacama,\n- monszunvidék: India, Indokína.\n\nMérsékelt övezet:\n- mediterrán terület: a kontinensek nyugati partjai kb. 30–40° között – Földközi-tenger vidéke, Kalifornia, Közép-Chile, Fokföld, DNy-Ausztrália,\n- monszunterület: Kelet-Kína, Japán déli része,\n- óceáni terület: Nyugat-Európa, Brit-szigetek,\n- mérsékelten szárazföldi, szárazföldi, szélsőségesen szárazföldi terület: Közép-Európától kelet felé, Közép-Ázsia,\n- tajga: Szibéria, Kanada.\n\nHideg övezet: tundra (Észak-Szibéria, Észak-Kanada), sarkvidék (Antarktisz, Grönland belseje).",
+   "diagram": null,
+   "concepts": [
+    "egyenlítői öv",
+    "átmeneti öv",
+    "térítői öv",
+    "monszunvidék",
+    "mediterrán terület",
+    "óceáni terület"
+   ],
+   "processes": [],
+   "examTip": "A mediterrán területeket a kontinensek nyugati partjain keresd a 30–40° körül, mindkét félgömbön – ezt gyakran kérdezik kontúrtérképen.",
+   "selfCheck": [
+    {
+     "q": "Hol találsz mediterrán területet Európán kívül?",
+     "a": "Kaliforniában, Közép-Chilében, a Fokföldön és Délnyugat-Ausztráliában."
+    },
+    {
+     "q": "Melyik övben fekszik a Kalahári?",
+     "a": "A térítői övben (a Baktérítő táján)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A tajga Szibériában és Kanadában terjed el nagy területen.",
+     "true": true
+    },
+    {
+     "statement": "A monszunvidék Dél-Amerika nyugati partjain húzódik.",
+     "true": false,
+     "correction": "A monszunvidék Dél- és Délkelet-Ázsiára jellemző (India, Indokína)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k8",
+   "explanation": "Képek, ábrák, leírások alapján a növényzet, a felszín és a gazdálkodás nyomai segítenek az azonosításban.\n\nFelismerési kulcsok:\n- sűrű, többszintes, örökzöld erdő, liánok – trópusi esőerdő (egyenlítői öv),\n- füves térség elszórt fákkal (akácia, majomkenyérfa), zebrák, antilopok – szavanna,\n- homokdűnék vagy köves sivatag, pálmaliget – sivatag, oázis,\n- teraszos rizsföldek, bivaly – monszunvidék,\n- olajfaligetek, örökzöld cserjés (macchia), napfényes száraz domboldal – mediterrán terület,\n- tölgy- és bükkerdő, lombját hullató erdő – valódi mérsékelt öv,\n- végtelen füves síkság, gabonaföldek – füves puszta (sztyepp, préri, pampa),\n- tűlevelű erdő, lápok – tajga,\n- fátlan, mohás-zuzmós táj, rénszarvas – tundra,\n- jégtakaró, jéghegyek – sarkvidék.\n\nLeírásban figyeld a kulcsszavakat: „délutáni zápor minden nap” – egyenlítői öv; „száraz nyár, esős tél” – mediterrán; „hosszú, kemény tél, rövid nyár” – tajga.",
+   "diagram": null,
+   "concepts": [
+    "trópusi esőerdő",
+    "szavanna",
+    "oázis",
+    "keménylombú erdő",
+    "tajga",
+    "tundra"
+   ],
+   "processes": [],
+   "examTip": "Képes feladatnál ne csak az övet nevezd meg, hanem indokold is a képről leolvasható jelekkel (növényzet, felszín, épületek).",
+   "selfCheck": [
+    {
+     "q": "Milyen övre utal egy fátlan, mohás-zuzmós táj rénszarvassal?",
+     "a": "A sarkköri övre (tundra)."
+    },
+    {
+     "q": "Melyik terület jellemzője a „száraz nyár, esős tél”?",
+     "a": "A mediterrán terület."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az elszórt fákkal tarkított füves térség a szavannára jellemző.",
+     "true": true
+    },
+    {
+     "statement": "A tajga lombhullató, keménylombú erdő.",
+     "true": false,
+     "correction": "A tajga tűlevelű erdő; a keménylombú erdő a mediterrán terület jellemzője."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k9",
+   "explanation": "A zonalitást bemutató tematikus térképek (éghajlati, talaj-, növényzeti, gazdasági térkép) összevetésével látod, hogyan függenek össze a jellemzők.\n\nElemzési lépések:\n1. Keresd meg a jelmagyarázatban a kategóriákat.\n2. Figyeld meg, mennyire követik az övek a szélességi köröket.\n3. Vedd észre az eltéréseket és magyarázd őket: hegységek (Andok, Himalája), tengeráramlások (Atacama, Namíb), kontinentalitás (Eurázsia belseje), monszun (Dél-Ázsia).\n4. Hasonlítsd össze a térképeket: pl. az éghajlati térkép mediterrán területei egybeesnek a keménylombú növényzettel és az olajfa elterjedésével.\n\nJellegzetes mintázatok:\n- Afrikában szinte tükörképszerű az elrendeződés az Egyenlítőtől É-ra és D-re: esőerdő – szavanna – sivatag – mediterrán,\n- Eurázsiában a valódi mérsékelt öv területei nyugat–keleti irányban követik egymást (óceánitól a szélsőségesen szárazföldiig),\n- Észak-Amerikában a Sziklás-hegység miatt a területek inkább észak–déli sávokban rendeződnek.",
+   "diagram": null,
+   "concepts": [
+    "vízszintes földrajzi övezetesség",
+    "földrajzi övezetesség",
+    "zonális és azonális talaj"
+   ],
+   "processes": [
+    "altalanos-legkorzes"
+   ],
+   "examTip": "Térképes elemzésnél az eltérések magyarázatáért jár a legtöbb pont: keresd meg, hol NEM követi az öv a szélességi kört, és miért.",
+   "selfCheck": [
+    {
+     "q": "Miért tükörképszerű Afrika övezetes szerkezete?",
+     "a": "Mert az Egyenlítő nagyjából középen szeli át a kontinenst, mindkét irányban hasonló a légkörzés."
+    },
+    {
+     "q": "Miért húzódnak Észak-Amerikában a területek inkább észak–déli irányban?",
+     "a": "Mert az észak–déli irányú Sziklás-hegység elzárja a nyugatias szelek nedvességét."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A hegységek és a tengeráramlások megbontják az övek szabályos, szélességi körök menti elrendeződését.",
+     "true": true
+    },
+    {
+     "statement": "A tematikus térképeken az övek mindenhol pontosan a szélességi körök mentén húzódnak.",
+     "true": false,
+     "correction": "A domborzat, a tengeráramlások, a kontinentalitás és a monszun miatt az övek határai eltérnek a szélességi köröktől."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k10",
+   "explanation": "Az éghajlati diagram egy állomás havi középhőmérsékletét (görbe) és havi csapadékösszegét (oszlopok) mutatja.\n\nLeolvasás lépései:\n- a legmelegebb és a leghidegebb hónap középhőmérséklete,\n- az évi közepes hőingás (a kettő különbsége),\n- van-e 0 °C alatti hónap,\n- az évi csapadékösszeg és annak eloszlása (egyenletes, nyári vagy téli maximum, száraz évszak),\n- melyik félgömbön van: ha a legmelegebb hónap január, akkor a déli félgömbön.\n\nÖsszehasonlítás:\n- egyenlítői: egyenletesen meleg, kis hőingás, egész évben bő csapadék (Manaus),\n- szavanna: meleg, nyári esős és téli száraz évszak,\n- sivatagi: meleg, alig van csapadék (Asszuán),\n- mediterrán: meleg, száraz nyár, csapadékos tél (Róma),\n- óceáni: enyhe tél, hűvös nyár, egész évben csapadék (London),\n- szárazföldi: nagy hőingás, kevés, nyári csapadék,\n- tajga: nagyon hideg, hosszú tél, rövid nyár.",
+   "diagram": "climate-chart",
+   "concepts": [
+    "egyenlítői éghajlat",
+    "szavannaéghajlat",
+    "mediterrán éghajlat",
+    "óceáni éghajlat",
+    "száraz kontinentális éghajlat"
+   ],
+   "processes": [],
+   "examTip": "Az évi közepes hőingás kiszámításánál a legmelegebb és a leghidegebb hónap középhőmérsékletét vond ki egymásból – negatív téli értéknél figyelj az előjelre!",
+   "selfCheck": [
+    {
+     "q": "Hogyan dönted el a diagramról, hogy az állomás a déli félgömbön van?",
+     "a": "Ha a legmelegebb hónapok december–február (a nyár az északi tél idejére esik)."
+    },
+    {
+     "q": "Mi jellemzi az óceáni éghajlat diagramját?",
+     "a": "Kis hőingás, enyhe tél, hűvös nyár, egész évben egyenletes csapadék."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az egyenlítői éghajlat diagramján kicsi az évi közepes hőingás.",
+     "true": true
+    },
+    {
+     "statement": "A mediterrán éghajlat diagramján a csapadék nyáron a legtöbb.",
+     "true": false,
+     "correction": "A mediterrán éghajlaton a nyár száraz, a csapadék télen (a hideg félévben) hullik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k11",
+   "explanation": "Egy éghajlati diagram besorolásához haladj kizárásos alapon!\n\n1. Hőmérséklet – övezet:\n- minden hónap meleg, nincs tél → forró övezet,\n- van tél és nyár, a nyár meleg → mérsékelt övezet,\n- a nyár is hűvös, a tél nagyon hideg → hideg övezet (vagy hideg mérsékelt öv).\n\n2. Csapadék – öv, vidék, terület:\n- forró övezetben: egész évben sok → egyenlítői; esős nyár, száraz tél → szavanna; nagyon kevés → sivatag; nyáron rendkívül sok, télen alig → monszun,\n- mérsékelt övezetben: téli maximum, száraz nyár → mediterrán; egyenletes és enyhe tél → óceáni; nyári maximum, közepes hőingás → mérsékelten szárazföldi (Budapest); kevés csapadék, nagy hőingás → szárazföldi vagy szélsőségesen szárazföldi; nyári monszuneső, kemény tél → mérsékelt övezeti monszun.\n\n3. Ellenőrizd a félgömböt és az évi csapadékösszeget.\n\nPélda: Moszkva – hideg tél, meleg nyár, nyári csapadékmaximum, nagyobb hőingás → nedves kontinentális éghajlat.",
+   "diagram": "climate-chart",
+   "concepts": [
+    "forró övezeti (trópusi) sivatagi éghajlat",
+    "forró övezeti (trópusi) monszunéghajlat",
+    "nedves kontinentális éghajlat",
+    "mérsékelt övezeti monszunéghajlat",
+    "tajgaéghajlat"
+   ],
+   "processes": [],
+   "examTip": "A monszun- és a szavannadiagram hasonló (esős nyár, száraz tél) – a monszun nyári csapadékcsúcsa jóval magasabb és meredekebb.",
+   "selfCheck": [
+    {
+     "q": "Melyik éghajlatra utal: meleg, nagyon kevés csapadék, nagy napi hőingás?",
+     "a": "Forró övezeti (trópusi) sivatagi éghajlatra."
+    },
+    {
+     "q": "Mi különbözteti meg a mediterrán diagramot a többi mérsékelt övezetitől?",
+     "a": "A csapadék télen hullik, a nyár száraz."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ha minden hónap középhőmérséklete magas és nincs hideg évszak, az állomás a forró övezetben van.",
+     "true": true
+    },
+    {
+     "statement": "A nyári csapadékmaximum mindig mediterrán éghajlatra utal.",
+     "true": false,
+     "correction": "A mediterrán éghajlaton téli a csapadékmaximum; a nyári maximum pl. a kontinentális vagy a monszunéghajlatra jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e1",
+   "explanation": "Az összehasonlításnál párokat vagy sorokat vizsgálj, ugyanazokkal a szempontokkal.\n\nForró övezet öveinek összehasonlítása (az Egyenlítőtől távolodva):\n- a csapadék csökken, a száraz évszak hosszabbodik, a hőingás nő,\n- a növényzet ritkul: esőerdő → nedves és száraz szavanna → sivatag,\n- a folyók vízjárása egyenletesből időszakossá válik,\n- a felszínformálásban a kémiai mállás helyett az aprózódás és a szél lesz a fő tényező.\n\nValódi mérsékelt öv területeinek összehasonlítása (nyugatról keletre Eurázsiában):\n- a csapadék csökken, a hőingás nő, a tél hidegebb,\n- a növényzet: lombhullató erdő → erdős puszta → füves puszta → félsivatag, sivatag,\n- a talaj: barna erdőtalaj → mezőségi talaj → sivatagi talaj.\n\nKét félgömb összevetése: a déli félgömbön a kevés szárazföld miatt hiányzik a tajga és a tundra nagy része, a mérsékelt övezet óceánibb jellegű.\n\nAzonos öv, más földrész: a szavanna Afrikában, Dél-Amerikában (campos) és Ausztráliában is megvan.",
+   "diagram": "climate-chart",
+   "concepts": [
+    "nedves és száraz szavanna",
+    "lombhullató erdő",
+    "erdős puszta",
+    "füves puszta (füves mezőség)",
+    "valódi mérsékelt öv"
+   ],
+   "processes": [
+    "altalanos-legkorzes"
+   ],
+   "examTip": "Emelt esszében mindig a változás irányát és okát is fogalmazd meg (pl. „keletre haladva csökken a csapadék, mert távolodunk az óceántól”).",
+   "selfCheck": [
+    {
+     "q": "Hogyan változik a növényzet a valódi mérsékelt övben nyugatról keletre Eurázsiában?",
+     "a": "Lombhullató erdő → erdős puszta → füves puszta → félsivatag, sivatag."
+    },
+    {
+     "q": "Miért nincs nagy kiterjedésű tajga a déli félgömbön?",
+     "a": "Mert azokon a szélességeken alig van szárazföld."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Egyenlítőtől távolodva a forró övezetben hosszabbodik a száraz évszak.",
+     "true": true
+    },
+    {
+     "statement": "Eurázsiában nyugatról keletre haladva a valódi mérsékelt övben nő a csapadék.",
+     "true": false,
+     "correction": "Keletre, az óceántól távolodva a csapadék csökken és nő az évi hőingás."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e2",
+   "explanation": "Az eltartóképesség azt mutatja, hány embert tud egy terület tartósan ellátni a természeti erőforrásaiból. Ez övenként nagyon eltér.\n\nNagy eltartóképesség:\n- monszunvidék: évente több rizstermés, öntözés – nagyon sűrű népesség (Gangesz-síkság, Jáva),\n- valódi mérsékelt öv: termékeny mezőségi és barna erdőtalaj, kiegyenlített csapadék – gabonatermelés (Ukrajna, Alföld, Közép-Nyugat-USA),\n- mediterrán terület: öntözéssel gazdag termés.\n\nKis eltartóképesség:\n- egyenlítői öv: a laterittalaj tápanyagszegény, a buja erdő ellenére,\n- sivatagok: vízhiány, csak oázisokban, jövevényfolyók mentén sűrű a népesség (Nílus völgye),\n- tajga, tundra: rövid tenyészidő, hideg.\n\nÖvezetesen elrendeződő erőforrások:\n- termőtalaj, növénytermesztési lehetőségek,\n- vízkészlet (egyenlítői bőség, térítői hiány),\n- erdők, faanyag (trópusi keményfa, tajga fenyő),\n- napenergia (sivatag), szélenergia, vízenergia,\n- a kőzetekhez kötődő ásványkincsek nem övezetesek, de a laterites bauxit a forró övezethez kötődik.",
+   "diagram": null,
+   "concepts": [
+    "monszungazdálkodás",
+    "laterittalaj",
+    "mezőségi talaj",
+    "oázis",
+    "jövevényfolyó"
+   ],
+   "processes": [],
+   "examTip": "Ne keverd össze a növényzet tömegét a termőképességgel: az esőerdő biomasszája óriási, mégis kicsi a mezőgazdasági eltartóképessége.",
+   "selfCheck": [
+    {
+     "q": "Miért nagy a monszunvidék eltartóképessége?",
+     "a": "A meleg és a bő nyári eső miatt évente több rizstermés lehetséges."
+    },
+    {
+     "q": "Milyen ásványkincs kötődik a forró övezet mállási folyamataihoz?",
+     "a": "A laterites bauxit."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A sivatagokban a népesség az oázisokban és a jövevényfolyók mentén sűrűsödik.",
+     "true": true
+    },
+    {
+     "statement": "A trópusi esőerdő buja növényzete miatt az egyenlítői öv eltartóképessége a legnagyobb.",
+     "true": false,
+     "correction": "A laterittalaj tápanyagszegény, erdőirtás után gyorsan kimerül, ezért az egyenlítői öv mezőgazdasági eltartóképessége kicsi."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e3",
+   "explanation": "A hagyományos építkezés mindig az éghajlathoz és a helyben elérhető anyagokhoz igazodik.\n\n- Egyenlítői öv: cölöpökre emelt, könnyű, szellős házak meredek, növényi anyagból (pálmalevél) készült tetővel – véd a talajnedvességtől, az áradástól, és gyorsan lefut róla a bő eső.\n- Szavanna: kerek, sárból vagy agyagból épült, nádfedeles kunyhók, kerítéssel körülvett falvak.\n- Sivatag: vastag falú vályog- vagy kőházak, kis ablakok, lapos tető, szűk, árnyékos utcák – a nappali hőség és az éjszakai hideg ellen; a nomádok sátrakban élnek.\n- Monszunvidék: cölöpházak, magas küszöb, meredek tető – az áradások és a heves esők miatt.\n- Mediterrán terület: vastag kőfalú, fehérre meszelt házak, kis ablakok, zsalugáterek, lapos vagy enyhe lejtésű tetők – a fehér szín visszaveri a napsugarat.\n- Mérsékelt övezet: magastetős házak, fűtés, szigetelés; havas vidéken meredek tető.\n- Tajga: faházak (gerendaház).\n- Hideg övezet: az inuitok hagyományos hóháza (iglu), ma szigetelt, cölöpökre épített házak – hogy ne olvasszák ki a permafrosztot.",
+   "diagram": null,
+   "concepts": [
+    "trópusi esőerdő",
+    "szavanna",
+    "mediterrán terület",
+    "tajga",
+    "„örök fagy” (permafroszt)"
+   ],
+   "processes": [],
+   "examTip": "A magyarázatnál mindig kösd az építési sajátosságot egy éghajlati okhoz: „a fehér falszín visszaveri a napsugárzást” – erre jár a pont.",
+   "selfCheck": [
+    {
+     "q": "Miért fehérek a mediterrán házak?",
+     "a": "A fehér felület visszaveri a napsugárzást, így a ház kevésbé melegszik fel."
+    },
+    {
+     "q": "Miért építenek cölöpökre a permafroszt területén?",
+     "a": "Hogy a fűtött épület ne olvassza ki a fagyott altalajt, mert akkor megsüllyedne."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A sivatagi házak vastag falai kiegyenlítik a nappali hőség és az éjszakai hideg különbségét.",
+     "true": true
+    },
+    {
+     "statement": "Az egyenlítői övben a házak lapos tetősek, mert ritka a csapadék.",
+     "true": false,
+     "correction": "Az egyenlítői övben bőséges a csapadék, ezért a tetők meredekek, hogy a víz gyorsan lefusson."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e4",
+   "explanation": "A környezetkárosodással leginkább sújtott térségeket tanuld meg kontúrtérképen is!\n\n- Trópusi erdőirtás: Amazonas-medence (Brazília), Kongó-medence, Indonézia (Borneó, Szumátra – olajpálma-ültetvények).\n- Elsivatagosodás: Száhel-övezet a Szahara déli peremén (Mali, Niger, Csád), Közép-Ázsia, Északnyugat-Kína.\n- Szikesedés, kiszáradás: az Aral-tó vidéke, Mezopotámia, az Indus-völgy öntözött területei.\n- Árvizek, erdőirtás a hegyvidéken: Gangesz–Brahmaputra torkolatvidéke (Banglades).\n- Füves területek feltörése, szélerózió: az USA prérije, Kazahsztán szűzföldjei.\n- Savas ülepedés és ipari szennyezés: Közép-Európa egykori „fekete háromszöge” (Német–Lengyel–Cseh határvidék), Kína ipari térségei.\n- Erdőtüzek, talajpusztulás: Földközi-tenger vidéke, Kalifornia, Ausztrália.\n- Olajszennyezés, fakitermelés: Nyugat-Szibéria, Alaszka, Niger-delta.\n\nRajzoláskor jelöld a területet satírozással, és írd mellé a probléma nevét.",
+   "diagram": null,
+   "concepts": [
+    "erdőirtás",
+    "elsivatagosodás",
+    "szikesedés",
+    "füves területek feltörése",
+    "túllegeltetés"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas",
+    "savas-eso"
+   ],
+   "examTip": "A Száhel-övezetet a Szahara déli peremén, kb. a szavanna és a sivatag határán keresd – gyakori kontúrtérképes feladat.",
+   "selfCheck": [
+    {
+     "q": "Hol húzódik a Száhel-övezet?",
+     "a": "A Szahara déli peremén, a sivatag és a szavanna határán, Afrika nyugati részétől keletre."
+    },
+    {
+     "q": "Melyik térségben jellemző az olajpálma-ültetvények miatti erdőirtás?",
+     "a": "Indonéziában (Borneó, Szumátra) és Malajziában."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Aral-tó vidéke a helytelen öntözés okozta környezetkárosodás egyik legismertebb példája.",
+     "true": true
+    },
+    {
+     "statement": "Az elsivatagosodás fő problématérsége a Kongó-medence.",
+     "true": false,
+     "correction": "A Kongó-medence az esőerdő-irtás térsége; az elsivatagosodás fő példája a Száhel-övezet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e5",
+   "explanation": "A környezeti problémák kezelése mindig a probléma okára épül.\n\n- Trópusi erdőirtás: védett területek kijelölése, fenntartható erdőgazdálkodás, minősített (tanúsított) faanyag és pálmaolaj, agrár-erdészet, ökoturizmus, nemzetközi támogatás.\n- Elsivatagosodás: fásítás (pl. az afrikai „Nagy Zöld Fal” kezdeményezés), legeltetés szabályozása, kőgátak és teraszok a víz megtartására, szárazságtűrő növények, napenergia a tűzifa helyett.\n- Szikesedés: takarékos csepegtető öntözés, megfelelő vízelvezetés, talajjavítás.\n- Árvizek: hegyvidéki erdősítés, gátak, árvízi előrejelzés, menedékhelyek.\n- Szélerózió a prérin, sztyeppen: erdősávok, talajtakarás, forgatás nélküli talajművelés, vetésforgó.\n- Savas ülepedés: füstgáz-kéntelenítés, megújuló energia, tavak meszezése.\n- Erdőtüzek: tűzpászták, megelőzés, gyors oltás.\n- Hideg övezet: szigorú engedélyezés, olajvezetékek védelme.\n\nNemzetközi szinten: riói egyezmény a biológiai sokféleség védelméért, ENSZ-egyezmény az elsivatagosodás ellen, párizsi egyezmény az éghajlatvédelemben.",
+   "diagram": null,
+   "concepts": [
+    "erdőirtás",
+    "elsivatagosodás",
+    "szikesedés",
+    "riói egyezmény",
+    "párizsi egyezmény"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas",
+    "savas-eso"
+   ],
+   "examTip": "A megoldásnál különítsd el a helyi (fásítás, öntözési mód) és a nemzetközi (egyezmények, támogatás) szintet – ez az esszében plusz pontot ér.",
+   "selfCheck": [
+    {
+     "q": "Hogyan mérsékelhető az öntözés okozta szikesedés?",
+     "a": "Takarékos (csepegtető) öntözéssel és megfelelő vízelvezetéssel."
+    },
+    {
+     "q": "Mondj két módszert az elsivatagosodás ellen!",
+     "a": "Fásítás és a legeltetés szabályozása (továbbá kőgátak, szárazságtűrő növények)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az erdősávok csökkentik a szélerózió mértékét.",
+     "true": true
+    },
+    {
+     "statement": "Az elsivatagosodás ellen a legeltetett állatállomány növelése a leghatékonyabb.",
+     "true": false,
+     "correction": "A túllegeltetés éppen az elsivatagosodás egyik oka; a legeltetést korlátozni kell."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e6",
+   "explanation": "A komplex jellemzéshez több tematikus térképet (domborzati, éghajlati, talaj-, növényzeti, népsűrűségi, mezőgazdasági) egymásra kell „olvasnod”.\n\nMódszer:\n1. Helyezd el a területet a fokhálózatban és a kontinensen.\n2. Az éghajlati térképről: övezet, öv, terület; hőmérséklet, csapadék.\n3. A domborzati és vízrajzi térképről: felszín, folyók, tavak.\n4. A talaj- és növényzeti térképről: zonális talaj, növénytársulás.\n5. A gazdasági térképről: termesztett növények, állattartás, népsűrűség.\n6. Kösd össze az ok-okozati kapcsolatokat.\n\nPélda – Ukrajna sztyeppje: mérsékelt övezet, valódi mérsékelt öv, szárazföldi jellegű terület; síkság (Kelet-európai-síkság); mezőségi talaj; füves puszta (sztyepp), ma szántó; búza, napraforgó, kukorica; sűrű falusi népesség – mert a termékeny talaj és a meleg nyár kedvez a gabonának.\n\nPélda – Szibéria: hideg mérsékelt öv, tajga, podzol, permafroszt, ritka népesség, fakitermelés és bányászat.",
+   "diagram": null,
+   "concepts": [
+    "földrajzi övezetesség",
+    "sztyepp",
+    "mezőségi talaj",
+    "tajga",
+    "szárazföldi terület"
+   ],
+   "processes": [],
+   "examTip": "Komplex jellemzésnél a leíráson túl az összefüggésekért jár a pont: mindig írd le, melyik tényező melyiket okozza.",
+   "selfCheck": [
+    {
+     "q": "Milyen talaj és növényzet jellemző Ukrajna sztyeppjére?",
+     "a": "Mezőségi talaj és füves puszta (sztyepp)."
+    },
+    {
+     "q": "Miért ritka a népesség Szibériában?",
+     "a": "A hideg, hosszú tél, a rövid tenyészidő, a podzol és a permafroszt miatt kicsi az eltartóképesség."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A népsűrűségi térkép összevethető a talaj- és éghajlati térképpel, mert a népesség eloszlása függ a természeti adottságoktól.",
+     "true": true
+    },
+    {
+     "statement": "A komplex jellemzéshez elegendő egyetlen domborzati térkép.",
+     "true": false,
+     "correction": "A komplex jellemzéshez több tematikus térkép (éghajlati, talaj-, növényzeti, gazdasági) összevetése szükséges."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e7",
+   "explanation": "Az Egyenlítő és a térítők közötti keresztmetszet (pl. Afrikában a Kongó-medencétől a Szaharáig) a forró övezet öveit mutatja.\n\nAz Egyenlítőtől a térítő felé haladva:\n- Csapadék: csökken; az egész évben esős időszakból kettő, majd egy esős évszak lesz, végül szinte nincs csapadék. Oka: a felszálló légáramlás (zenitális eső) csak a Nap zenitállása idején jut el ide; a térítőknél leszálló légáramlás uralkodik.\n- Hőmérséklet: az évi hőingás és különösen a napi hőingás nő.\n- Vízrajz: bővizű, egyenletes vízjárású folyók → időszakos vízjárás → időszakos vízfolyások (vádik), jövevényfolyók.\n- Felszínformálás: kémiai mállás → aprózódás, szél munkája.\n- Talaj: laterittalaj → vörösföld → sivatagi talaj.\n- Növényzet: trópusi esőerdő → galériaerdő a folyók mentén → nedves szavanna → száraz szavanna (erdős, cserjés és füves szavanna) → félsivatag → sivatag.\n- Gazdálkodás: ültetvények, égetéses-talajváltó gazdálkodás → szarvasmarhatartás, köles → nomád pásztorkodás, oázisgazdálkodás.",
+   "diagram": "circulation",
+   "concepts": [
+    "galériaerdő",
+    "erdős",
+    "cserjés és füves szavanna",
+    "nedves és száraz szavanna",
+    "trópusi esőerdő",
+    "forró övezeti (trópusi) sivatagi éghajlat"
+   ],
+   "processes": [
+    "altalanos-legkorzes"
+   ],
+   "examTip": "A keresztmetszet elemzésének kulcsa a zenitális eső vándorlása: ebből vezethető le az esős évszak hosszának csökkenése a térítők felé.",
+   "selfCheck": [
+    {
+     "q": "Mi a galériaerdő?",
+     "a": "A szavannán a folyók mentén húzódó keskeny erdősáv, amelyet a folyó vize táplál."
+    },
+    {
+     "q": "Hogyan változik a talaj az Egyenlítőtől a térítő felé?",
+     "a": "Laterittalaj → vörösföld → sivatagi talaj."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A térítők felé haladva rövidül az esős évszak.",
+     "true": true
+    },
+    {
+     "statement": "Az Egyenlítőtől a térítők felé haladva csökken a napi hőingás.",
+     "true": false,
+     "correction": "A napi hőingás nő, a sivatagokban a legnagyobb a felhőtlen ég és a száraz levegő miatt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e8",
+   "explanation": "Eurázsiában a nyugatias szelek az Atlanti-óceán felől szállítják a nedvességet és a kiegyenlítő hatást. Keletre haladva ez a hatás gyengül: nő a kontinentalitás.\n\nA változás iránya nyugatról keletre (pl. Brest – Budapest – Moszkva – Közép-Ázsia):\n- a tél egyre hidegebb, a nyár melegebb, nő az évi közepes hőingás,\n- csökken az évi csapadék,\n- a csapadék eloszlása egyenletesből nyári maximumúvá válik,\n- rövidül a fagymentes időszak.\n\nA területek sorrendje:\n- óceáni terület (Nyugat-Európa): enyhe tél, hűvös nyár,\n- mérsékelten szárazföldi terület (Közép-Európa, Magyarország),\n- szárazföldi terület (Kelet-Európa),\n- szélsőségesen szárazföldi terület (Közép-Ázsia): nagyon kevés csapadék, sivatagok.\n\nA keresztmetszeten ehhez igazodik a növényzet: lombhullató erdő → erdős puszta → füves puszta → félsivatag, sivatag; és a talaj: barna erdőtalaj → mezőségi talaj → sivatagi talaj.\n\nA diagramok összevetésénél a hőingás növekedése és a csapadékoszlopok csökkenése a döntő bizonyíték.",
+   "diagram": "climate-chart",
+   "concepts": [
+    "óceáni terület",
+    "mérsékelten szárazföldi terület",
+    "szárazföldi terület",
+    "szélsőségesen szárazföldi terület",
+    "óceáni éghajlat",
+    "mérsékelt övezeti sivatagi éghajlat"
+   ],
+   "processes": [
+    "altalanos-legkorzes"
+   ],
+   "examTip": "A „kontinentalitás nő” állítást mindig két adattal bizonyítsd a diagramokról: nagyobb évi hőingás és kevesebb csapadék.",
+   "selfCheck": [
+    {
+     "q": "Miért csökken keletre a csapadék Eurázsiában?",
+     "a": "A nyugatias szelek egyre messzebb kerülnek az Atlanti-óceántól, nedvességtartalmuk elfogy."
+    },
+    {
+     "q": "Melyik területhez tartozik Magyarország?",
+     "a": "A mérsékelten szárazföldi területhez."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Eurázsiában keletre haladva nő az évi közepes hőingás.",
+     "true": true
+    },
+    {
+     "statement": "Az óceáni területen nagyobb az évi hőingás, mint a szárazföldi területen.",
+     "true": false,
+     "correction": "Az óceán kiegyenlítő hatása miatt az óceáni területen kicsi, a szárazföldi területen nagy az évi hőingás."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--k1",
+   "explanation": "A hegységekben a tengerszint feletti magasság növekedésével a természetföldrajzi jellemzők hasonlóan változnak, mint az Egyenlítőtől a sarkok felé haladva – ez a függőleges földrajzi övezetesség.\n\nA változások:\n- Hőmérséklet: a magassággal csökken, átlagosan kb. 0,5–0,6 °C-kal 100 méterenként, mert a levegőt a felszín melegíti, és felfelé ritkul.\n- Csapadék: a szél felőli lejtőn egy bizonyos magasságig nő (a felemelkedő levegő lehűl, kicsapódik), a szél alatti oldalon kevesebb (éghajlatválasztó hegység).\n- Légnyomás: csökken, ritkább a levegő.\n- Napsugárzás: erősebb, több az UV-sugárzás.\n- Tenyészidő: rövidül.\n- Talaj és növényzet: övezetesen változik – erdők, majd az erdőhatár és a fahatár fölött havasi legelő, sziklahavas, végül a hóhatár fölött örök hó és jég.\n\nA függőleges övek sorrendje és magassága a hegység földrajzi szélességétől, a lejtő kitettségétől és a csapadéktól függ.",
+   "diagram": "zonation",
+   "concepts": [
+    "függőleges földrajzi övezetesség",
+    "erdőhatár",
+    "fahatár",
+    "hóhatár",
+    "éghajlatválasztó hegység"
+   ],
+   "processes": [
+    "fonszel"
+   ],
+   "examTip": "A hőmérséklet-csökkenéssel számolós feladatok gyakoriak: a kiinduló hőmérsékletből vonj le 100 méterenként kb. 0,5 °C-ot (vagy a feladatban megadott értéket).",
+   "selfCheck": [
+    {
+     "q": "Miért csökken a hőmérséklet a magassággal?",
+     "a": "Mert a levegő a felszín kisugárzásától melegszik, és felfelé ritkul, kevesebb hőt tart meg."
+    },
+    {
+     "q": "Hogyan változik a csapadék a hegység két oldalán?",
+     "a": "A szél felőli oldalon több, a szél alatti oldalon kevesebb."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A magassággal a tenyészidő rövidül.",
+     "true": true
+    },
+    {
+     "statement": "A hegyekben felfelé haladva a légnyomás nő.",
+     "true": false,
+     "correction": "A magassággal a légnyomás csökken, mert a fölöttünk lévő levegőoszlop egyre kisebb."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--k2",
+   "explanation": "A mérsékelt övezet hegységeinek (pl. Alpok) függőleges övezetessége alulról felfelé:\n\n- Lomblevelű erdők öve (tölgy, majd bükk): a völgyekben és az alsó lejtőkön; gazdálkodás: szántóföldi művelés, szőlő és gyümölcs a napos lejtőkön, települések.\n- Tűlevelű erdők öve (lucfenyő, jegenyefenyő): erdőgazdálkodás, fakitermelés.\n- Erdőhatár: eddig zárt az erdő; fölötte már csak szórványos, törpe fák (törpefenyő) – a fahatárig.\n- Havasi legelők öve (havasi rét): nyáron havasi pásztorkodás – az állatokat nyárra felhajtják, ősszel lehajtják a völgybe.\n- Sziklahavas: sziklás, gyér növényzetű öv, mohák, zuzmók.\n- Hóhatár fölött (az Alpokban kb. 3000 m): örök hó és jég, gleccserek.\n\nIdegenforgalom: télen sí a havasi legelők és a sziklahavas övében, nyáron túrázás, hegymászás.\n\nKeresztmetszeten figyeld: a déli (napos) lejtőn az övek magasabbra húzódnak, mint az északin; a csapadékosabb oldalon a hóhatár alacsonyabban van.",
+   "diagram": "zonation",
+   "concepts": [
+    "erdőhatár",
+    "fahatár",
+    "havasi legelő",
+    "sziklahavas",
+    "havasi pásztorkodás",
+    "hóhatár"
+   ],
+   "processes": [
+    "jeg-munkaja"
+   ],
+   "examTip": "Ne keverd az erdőhatárt és a fahatárt! Az erdőhatárig zárt erdő van, a fahatár a legmagasabban álló egyedi fák vonala.",
+   "selfCheck": [
+    {
+     "q": "Mi a havasi pásztorkodás?",
+     "a": "Nyáron az állatokat a magasan fekvő havasi legelőkre hajtják, ősszel visszahajtják a völgyekbe."
+    },
+    {
+     "q": "Mi a különbség az erdőhatár és a fahatár között?",
+     "a": "Az erdőhatár a zárt erdő felső határa, a fahatár az egyedi fák előfordulásának felső határa."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Alpokban a tűlevelű erdők öve a lomblevelű erdők öve fölött található.",
+     "true": true
+    },
+    {
+     "statement": "A havasi legelők öve a hóhatár fölött húzódik.",
+     "true": false,
+     "correction": "A havasi legelők az erdőhatár (fahatár) és a sziklahavas között vannak; a hóhatár fölött örök hó és jég található."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--k3",
+   "explanation": "Képek, ábrák és szövegek elemzésekor a magassági övek egymásutánját és az ok-okozati kapcsolatokat keresd.\n\nKépelemzés – mit figyelj?\n- Hol ér véget a zárt erdő (erdőhatár)?\n- Milyen a fák típusa: lomblevelű vagy tűlevelű?\n- Van-e havasi rét, legelő állat, pásztorszállás?\n- Hol kezdődik a tartós hóborítás (hóhatár), van-e gleccser?\n- Napos vagy árnyékos lejtő látszik-e?\n\nÁbraelemzés: a keresztmetszeten olvasd le az övek magasságát, hasonlítsd össze a két lejtőt, és indokold az eltérést (kitettség, csapadék, szélirány).\n\nSzövegelemzés: keresd a kulcsszavakat – „felhajtják a nyájat” (havasi pásztorkodás), „örök hó” (hóhatár), „törpefenyő” (erdőhatár és fahatár között), „a völgyben gyümölcsösök” (alsó öv).\n\nPélda: a Magas-Tátrában a tűlevelű erdő fölött törpefenyő-öv, majd havasi rét és sziklás csúcsok, de az alacsonyabb magasság miatt nincs gleccser.",
+   "diagram": "zonation",
+   "concepts": [
+    "függőleges földrajzi övezetesség",
+    "erdőhatár",
+    "havasi legelő",
+    "sziklahavas"
+   ],
+   "processes": [],
+   "examTip": "Ha két lejtő eltérő övhatárait kell magyarázni, mindig két tényezőt vizsgálj: a kitettséget (napos/árnyékos) és a csapadékot (szél felőli/szél alatti).",
+   "selfCheck": [
+    {
+     "q": "Miért nincs gleccser a Magas-Tátrában?",
+     "a": "Mert nem emelkedik a mai hóhatár fölé."
+    },
+    {
+     "q": "Miért húzódnak magasabbra az övek a napos lejtőn?",
+     "a": "Mert ott erősebb a besugárzás, melegebb a lejtő."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A törpefenyő az erdőhatár feletti átmeneti övezet jellemző növénye.",
+     "true": true
+    },
+    {
+     "statement": "Az övek határa egy hegység minden oldalán azonos magasságban húzódik.",
+     "true": false,
+     "correction": "A kitettség és a csapadék miatt az övek határa a lejtőkön eltérő magasságú lehet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--e1",
+   "explanation": "A forró és a mérsékelt övezet hegységeinek függőleges övezetessége több szempontból eltér.\n\nForró övezet (pl. Kilimandzsáró, Andok Egyenlítő menti része):\n- a hegy lábánál forró övezeti növényzet (esőerdő vagy szavanna),\n- több magassági öv: trópusi erdő → hegyi esőerdő (ködös, mohás erdő) → hegyi cserjések, füves övek → sziklás, hideg öv → örök hó,\n- az erdőhatár és a hóhatár jóval magasabban van (a hóhatár kb. 5000 m körül),\n- nincsenek évszakok: a napi hőingás nagyobb, mint az évi („nappal nyár, éjjel tél”),\n- a mezőgazdaság magasra felhúzódik (Andok: kávé, kukorica, burgonya; az ember nagy magasságban is él).\n\nMérsékelt övezet (pl. Alpok):\n- a hegy lábánál lombhullató erdő,\n- kevesebb öv: lomblevelű → tűlevelű erdő → havasi legelő → sziklahavas → örök hó,\n- az övek alacsonyabban, a hóhatár kb. 3000 m körül,\n- erős évszakosság, a nyári és a téli állapot eltér.\n\nÁltalános szabály: minél közelebb van a hegység az Egyenlítőhöz, és minél magasabb, annál több öv alakul ki.",
+   "diagram": "zonation",
+   "concepts": [
+    "függőleges földrajzi övezetesség",
+    "hóhatár",
+    "erdőhatár",
+    "trópusi esőerdő"
+   ],
+   "processes": [],
+   "examTip": "Az összehasonlításnál a kiinduló öv (a hegy lábánál lévő vízszintes öv) és az övek száma a két legfontosabb szempont.",
+   "selfCheck": [
+    {
+     "q": "Miért van több függőleges öv a forró övezet hegységeiben?",
+     "a": "Mert melegebb, forró övezeti övből indulnak, és a hóhatár is magasabban van, így nagyobb a „távolság” a lábtól a hóig."
+    },
+    {
+     "q": "Mi jellemzi a forró övezeti hegységek hőmérsékletét?",
+     "a": "Nincs évszakos változás, a napi hőingás nagyobb, mint az évi."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Kilimandzsáró lábánál forró övezeti növényzet, csúcsán jég található.",
+     "true": true
+    },
+    {
+     "statement": "A forró övezet hegységeiben a hóhatár alacsonyabban van, mint az Alpokban.",
+     "true": false,
+     "correction": "A forró övezetben a hóhatár magasabban (kb. 5000 m körül) van, mint az Alpokban (kb. 3000 m)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--e2",
+   "explanation": "A függőleges övezetességet bemutató keresztmetszet elkészítésének lépései:\n\n1. Rajzold meg a hegység profilját: a függőleges tengelyre a tengerszint feletti magasságot (méterben), a vízszintesre a távolságot vagy az égtájakat.\n2. Jelöld a két lejtőt: melyik a szél felőli (csapadékos) és melyik a szél alatti (száraz); az északi félgömbön melyik a napos, déli lejtő.\n3. Húzd be vízszintes, de a lejtők között eltérő magasságú határvonalakkal az öveket alulról felfelé (mérsékelt övezetben):\n- lomblevelű erdő,\n- tűlevelű erdő,\n- erdőhatár, fahatár (törpefenyő),\n- havasi legelő,\n- sziklahavas,\n- hóhatár, örök hó és jég, gleccser.\n4. Írd mellé a gazdálkodást: szántó, gyümölcs a völgyben; erdőgazdálkodás; havasi pásztorkodás; síterep.\n5. Jelmagyarázat és cím!\n\nForró övezeti hegységnél a lábnál trópusi esőerdővel vagy szavannával indíts, több övet rajzolj, és a hóhatárt magasabbra tedd.",
+   "diagram": "zonation",
+   "concepts": [
+    "függőleges földrajzi övezetesség",
+    "erdőhatár",
+    "fahatár",
+    "havasi legelő",
+    "sziklahavas",
+    "hóhatár"
+   ],
+   "processes": [],
+   "examTip": "A rajzon a napos és az árnyékos lejtő övhatárainak eltérését is ábrázold – ez mutatja, hogy érted az összefüggést.",
+   "selfCheck": [
+    {
+     "q": "Melyik lejtőn húzd magasabbra a hóhatárt az északi félgömbön?",
+     "a": "A déli (napos), illetve a szárazabb, szél alatti lejtőn."
+    },
+    {
+     "q": "Mi legyen az alsó öv egy alpi keresztmetszeten?",
+     "a": "Lomblevelű erdő (a völgyekben mezőgazdasági terület)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A keresztmetszet függőleges tengelyén a tengerszint feletti magasságot ábrázoljuk.",
+     "true": true
+    },
+    {
+     "statement": "A mérsékelt övezeti hegység keresztmetszetén a havasi legelő az erdőhatár alatt helyezkedik el.",
+     "true": false,
+     "correction": "A havasi legelő az erdőhatár (és a fahatár) fölött van."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--e3",
+   "explanation": "Az éghajlatváltozás a magashegységek idegenforgalmát erősen érinti, mert a hó és a jég a fő vonzerő.\n\nKedvezőtlen hatások:\n- emelkedik a hóhatár, rövidül a havas időszak – az alacsonyabban fekvő síterepek bizonytalanná válnak, egyesek bezárnak,\n- egyre több mesterséges hóra van szükség: a hóágyúzás sok vizet és energiát igényel, drágítja a síelést,\n- a gleccserek visszahúzódnak – a nyári gleccsersíelés lehetősége szűkül, a látványosság csökken,\n- a permafroszt olvadása miatt szaporodnak a sziklaomlások, veszélyeztetve a hegyi utakat, felvonókat, menedékházakat,\n- gyakoribbak a szélsőséges időjárási események (sárfolyás, áradás).\n\nAlkalmazkodás, lehetőségek:\n- a téli sportok magasabbra költöznek, ami újabb környezeti terhelést jelent,\n- erősödik a nyári idegenforgalom: túrázás, kerékpározás, hegymászás – a hegyek hűvösebb klímája vonzó a forró nyarakban,\n- egész éves, szelídebb turizmus (wellness, kultúra, ökoturizmus).\n\nPélda: Alpok – sok alacsony fekvésű síközpont küzd hóhiánnyal, a magas fekvésűek felértékelődnek.",
+   "diagram": "zonation",
+   "concepts": [
+    "hóhatár",
+    "éghajlatváltozás (klímaváltozás)",
+    "gleccser",
+    "„örök fagy” (permafroszt)"
+   ],
+   "processes": [
+    "globalis-felmelegedes",
+    "jeg-munkaja"
+   ],
+   "examTip": "Esszében a negatív hatások mellett a lehetőségeket (nyári turizmus felértékelődése) is említsd – a kiegyensúlyozott válasz több pontot ér.",
+   "selfCheck": [
+    {
+     "q": "Miért terheli a környezetet a mesterséges hóképzés?",
+     "a": "Sok vizet és energiát használ fel."
+    },
+    {
+     "q": "Miért nőhet a nyári turizmus a hegyekben?",
+     "a": "Mert a forró nyarakban a hegyek hűvösebb éghajlata vonzó."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A felmelegedés miatt az alacsonyabban fekvő síterepeken csökken a megbízható hóborítás.",
+     "true": true
+    },
+    {
+     "statement": "A permafroszt olvadása stabilabbá teszi a magashegységi sziklafalakat.",
+     "true": false,
+     "correction": "A fagyott talaj „ragasztóként” tartja a sziklákat; olvadása omlásokat, sziklaleválásokat okoz."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k1",
+   "explanation": "A Föld kora kb. 4,6 milliárd év. Ez emberi léptékkel felfoghatatlan, ezért a földtörténeti időt nagy egységekre osztjuk.\n\nAz időegységek (a legnagyobbtól a legkisebbig):\n- idő (földtörténeti idő): pl. óidő, középidő – több száz millió, az ősidő és az előidő milliárd évnyi,\n- időszak: az időkön belüli egységek, pl. jura, kréta, harmad- és negyedidőszak – tízmillió években mérhetők,\n- kor: az időszakokon belül, pl. jégkor (pleisztocén), jelenkor (holocén).\n\nSegít, ha a teljes földtörténetet egy évre sűríted: ebben a modellben az óidő csak november közepén kezdődik, a dinoszauruszok december közepén élnek, az ember pedig december 31-én késő este jelenik meg.\n\nMásként: a földtörténet kb. 85–90%-a az ősidőre és az előidőre esik, amelyből alig maradtak ősmaradványok.\n\nAz időbeosztás a kőzetrétegek egymásutánján, az ősmaradványokon és a radioaktív kormeghatározáson alapul.",
+   "diagram": null,
+   "concepts": [
+    "a földtörténet időegységei (idő, időszak, kor)",
+    "jégkor (pleisztocén)",
+    "jelenkor (holocén)"
+   ],
+   "processes": [],
+   "examTip": "A hierarchiát kérdezik: idő → időszak → kor. Ne cseréld fel; például a jura időszak, a pleisztocén kor.",
+   "selfCheck": [
+    {
+     "q": "Mennyi idős a Föld?",
+     "a": "Kb. 4,6 milliárd éves."
+    },
+    {
+     "q": "Melyik a nagyobb egység: az időszak vagy a kor?",
+     "a": "Az időszak; a kor az időszakon belüli egység."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A földtörténet legnagyobb része az ősidőre és az előidőre esik.",
+     "true": true
+    },
+    {
+     "statement": "A kor a földtörténet legnagyobb időegysége.",
+     "true": false,
+     "correction": "A legnagyobb egység az idő; az időn belül időszakok, azokon belül korok vannak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k2",
+   "explanation": "A földtörténet öt nagy ideje (a legrégebbitől):\n\n- Ősidő: a Föld kialakulása, a földkéreg megszilárdulása, az ősóceán és az őslégkör, az első egysejtűek; az ősföldek (ősmasszívumok) magjai.\n- Előidő: oxigéntermelő élőlények, a légkör oxigéntartalma nő; ősföldek gyarapodása; egyszerű többsejtűek.\n- Óidő: az élet „robbanásszerű” fejlődése, élet a szárazföldön; kaledóniai és variszkuszi hegységképződés; karbon időszaki kőszéntelepek; a Pangea kialakulása.\n- Középidő: a Pangea feldarabolódása; hüllők, dinoszauruszok kora; az eurázsiai és pacifikus hegységképződés kezdete; kőolaj- és földgázképződés; első emlősök, madarak, virágos növények.\n- Újidő: harmadidőszak (Alpok, Himalája, Andok, Kárpátok felgyűrődése; emlősök elterjedése) és negyedidőszak (jégkor (pleisztocén) és jelenkor (holocén); az ember megjelenése).\n\nA határokat jelentős események jelölik ki: például nagy kihalások (a középidő végén a dinoszauruszoké).",
+   "diagram": null,
+   "concepts": [
+    "ős-",
+    "elő-",
+    "ó-",
+    "közép- és újidő",
+    "harmad- és negyedidőszak"
+   ],
+   "processes": [
+    "hegysegkepzodes"
+   ],
+   "examTip": "A sorrendet biztosan tudnod kell: ős-, elő-, ó-, közép-, újidő. Az újidőn belül harmad- és negyedidőszak.",
+   "selfCheck": [
+    {
+     "q": "Melyik időben gyűrődtek fel az Alpok és a Himalája?",
+     "a": "Az újidő harmadidőszakában (az eurázsiai hegységképződés során)."
+    },
+    {
+     "q": "Melyik időben keletkeztek a nagy kőszéntelepek?",
+     "a": "Az óidőben, főleg a karbon időszakban."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A dinoszauruszok a középidőben éltek.",
+     "true": true
+    },
+    {
+     "statement": "Az ember az óidőben jelent meg.",
+     "true": false,
+     "correction": "Az ember az újidő negyedidőszakában jelent meg."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k3",
+   "explanation": "A nagy egységek sorrendje és hozzávetőleges időtartama (kerekítve, millió vagy milliárd év):\n\n- Ősidő: kb. 4,6 milliárd évtől kb. 2,5 milliárd évig – kb. 2 milliárd év.\n- Előidő: kb. 2,5 milliárd évtől kb. 540 millió évig – közel 2 milliárd év.\n- Óidő: kb. 540 millió évtől kb. 250 millió évig – kb. 290 millió év.\n- Középidő: kb. 250 millió évtől kb. 66 millió évig – kb. 185 millió év.\n- Újidő: kb. 66 millió évtől napjainkig.\n - harmadidőszak: kb. 66 – 2,6 millió év,\n - negyedidőszak: kb. 2,6 millió évtől napjainkig; ezen belül a jégkor (pleisztocén) és a kb. 10 ezer éve kezdődött jelenkor (holocén).\n\nFigyeld meg: minél közelebb vagyunk napjainkhoz, annál rövidebbek az egységek, mert a fiatalabb kőzetekből és ősmaradványokból sokkal részletesebb képünk van.\n\nAz előidő és az ősidő együtt a földtörténet nagy többségét (kb. 85–90%-át) adja.",
+   "diagram": null,
+   "concepts": [
+    "ős-",
+    "elő-",
+    "ó-",
+    "közép- és újidő",
+    "harmad- és negyedidőszak",
+    "jelenkor (holocén)"
+   ],
+   "processes": [],
+   "examTip": "Elég a kerek értékeket tudni (4,6 mrd, 2,5 mrd, 540 millió, 250 millió, 66 millió, 2,6 millió év), de a sorrend és a nagyságrend legyen biztos.",
+   "selfCheck": [
+    {
+     "q": "Mikor kezdődött a középidő?",
+     "a": "Kb. 250 millió éve."
+    },
+    {
+     "q": "Mióta tart a jelenkor (holocén)?",
+     "a": "Kb. 10 ezer éve (a jégkor végétől)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az újidő kb. 66 millió éve kezdődött.",
+     "true": true
+    },
+    {
+     "statement": "A középidő hosszabb volt, mint az előidő.",
+     "true": false,
+     "correction": "Az előidő közel 2 milliárd évig tartott, a középidő csak kb. 185 millió évig."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k4",
+   "explanation": "Az egyes földtörténeti idők meghatározó eseményei és képződményei:\n\n- Ősidő: őslégkör, ősóceán, a legidősebb kőzetek az ősföldek (ősmasszívumok) magjában (pl. Kanadai-pajzs, Balti-pajzs); az első élet.\n- Előidő: az oxigén felhalmozódása a légkörben, sávos vasércek (vasércképződés); az ősföldek gyarapodása.\n- Óidő: kaledóniai hegységképződés (Skandináv-hegység, Skót-felföld), variszkuszi hegységképződés (Urál, Appalache, Német-középhegység, Cseh-medence peremhegységei; nálunk a Velencei-hegység gránitja); karbon időszaki kőszén (Ruhr-vidék, Donyec-medence); a perm végén nagy kihalás.\n- Középidő: tengeri üledékekből mészkő, dolomit (Dunántúli-középhegység, Mecsek – a mecseki feketekőszén a jurában képződött); kőolaj, földgáz; a kréta végén nagy kihalás.\n- Újidő, harmadidőszak: eurázsiai és pacifikus hegységképződés (Alpok, Kárpátok, Himalája, Andok, Kordillerák); a Kárpát-medence vulkánossága (Mátra, Tokaji-hegység), barnakőszén, lignit, bauxit.\n- Negyedidőszak: eljegesedések, lösz és futóhomok a Kárpát-medencében, a folyóvölgyek, a mai vízhálózat kialakulása; az ember.",
+   "diagram": null,
+   "concepts": [
+    "ősföld (ősmasszívum)",
+    "kaledóniai",
+    "variszkuszi",
+    "eurázsiai és pacifikus hegységképződés",
+    "őslégkör (elsődleges légkör)",
+    "ősóceán"
+   ],
+   "processes": [
+    "hegysegkepzodes",
+    "szenhidrogen-szenkepzodes"
+   ],
+   "examTip": "Gyakori párosítós feladat: hegység → hegységképződés → földtörténeti idő. Pl. Urál – variszkuszi – óidő; Andok – pacifikus – újidő (harmadidőszak).",
+   "selfCheck": [
+    {
+     "q": "Melyik hegységképződéshez tartozik a Skandináv-hegység?",
+     "a": "A kaledóniaihoz (óidő)."
+    },
+    {
+     "q": "Mikor keletkezett a Mátra?",
+     "a": "Az újidő harmadidőszakában, vulkáni működéssel."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Urál a variszkuszi hegységképződés során jött létre.",
+     "true": true
+    },
+    {
+     "statement": "Az Andok a kaledóniai hegységképződés terméke.",
+     "true": false,
+     "correction": "Az Andok a pacifikus hegységképződés során, főleg az újidőben jött létre."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k5",
+   "explanation": "A Föld nagyszerkezeti egységei különböző időben jöttek létre, és azóta is alakulnak.\n\n- Ősföldek (ősmasszívumok): az ősidőben és az előidőben megszilárdult, azóta merev kontinensmagok. Lepusztult, alacsony felszín, gyakran fiatalabb üledékkel fedve (fedett ősmasszívum: Kelet-európai-síkság) vagy fedetlenül (Kanadai-pajzs, Balti-pajzs). Ásványkincsük: vasérc, színes- és nemesfémek.\n- Óidei (kaledóniai, variszkuszi) hegységek: mára lepusztultak, majd sok helyen rögökre törtek és kiemelkedtek – rögös szerkezetű, megfiatalított hegységek (Német-középhegység, Urál). Ásványkincs: kőszén, ércek.\n- Középidei és újidei (eurázsiai és pacifikus) hegységek: fiatal gyűrthegységek, magas, éles formák, ma is emelkednek, földrengések, vulkánosság kísérik (Alpok, Himalája, Andok).\n- Süllyedékterületek, medencék: a hegységek közé zárt, üledékkel feltöltött területek (Kárpát-medence, Pó-síkság) – szénhidrogének.\n\nAz átalakulás folyamatos: a lemezmozgások újabb hegységeket gyűrnek, a külső erők lepusztítják a régieket, és a törmelék a medencéket tölti fel.",
+   "diagram": "plate-boundaries",
+   "concepts": [
+    "ősföld (ősmasszívum)",
+    "kaledóniai",
+    "variszkuszi",
+    "eurázsiai és pacifikus hegységképződés"
+   ],
+   "processes": [
+    "hegysegkepzodes",
+    "lemezmozgasok",
+    "kozetanyag-korforgas"
+   ],
+   "examTip": "A nagyszerkezeti egységeket mindig kösd az ásványkincsekhez: ősföld – vasérc, ércek; óidei hegység – kőszén; süllyedék – kőolaj, földgáz.",
+   "selfCheck": [
+    {
+     "q": "Mi a fedett ősmasszívum?",
+     "a": "Olyan ősföld, amelyet fiatalabb üledékes kőzetek borítanak (pl. Kelet-európai-síkság)."
+    },
+    {
+     "q": "Miért alacsonyak az óidei hegységek?",
+     "a": "Mert hosszú idő alatt lepusztultak; később rögökre törve részben újra kiemelkedtek."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Kanadai-pajzs fedetlen ősmasszívum.",
+     "true": true
+    },
+    {
+     "statement": "Az Alpok az ősidőben keletkezett ősföld.",
+     "true": false,
+     "correction": "Az Alpok fiatal gyűrthegység, az eurázsiai hegységképződés során főleg az újidőben gyűrődött fel."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e1",
+   "explanation": "A kőzetek és események korát kétféle módszerrel határozzuk meg.\n\nViszonylagos (relatív) kormeghatározás – a sorrendet adja meg, évszámot nem:\n- rétegtani elv: zavartalan településnél az alsó réteg idősebb, a felső fiatalabb,\n- a kőzetet átszelő telér vagy vetődés fiatalabb a kőzetnél,\n- ősmaradványok: a vezérkövület olyan élőlény maradványa, amely rövid ideig, de nagy területen élt, ezért egy réteg korát jól jelzi (pl. ammoniteszek, trilobiták),\n- paleomágnesség: a kőzetekben „befagyott” mágneses irány a földmágneses tér változásait rögzíti.\n\nTényleges (abszolút) kormeghatározás – években adja meg a kort:\n- radioaktív izotópok bomlásán alapul: a felezési idő ismeretében az anya- és leányelem arányából kiszámítható a kor,\n- a radiokarbon (szén-14) módszer néhány tízezer éves szerves anyagokra, az urán- vagy kálium-argon módszer nagyon idős kőzetekre,\n- egyéb: évgyűrűk, tavi évenkénti üledékrétegek.\n\nA két módszer kiegészíti egymást.",
+   "diagram": null,
+   "concepts": [
+    "viszonylagos (relatív) és tényleges (abszolút) kormeghatározás",
+    "ősmaradvány",
+    "vezérkövület",
+    "paleomágnesség"
+   ],
+   "processes": [],
+   "examTip": "A vezérkövület két feltétele gyakori kérdés: rövid ideig élt (pontos kor), nagy területen elterjedt (sok helyen megtalálható).",
+   "selfCheck": [
+    {
+     "q": "Mi a vezérkövület?",
+     "a": "Rövid ideig, de nagy területen élt élőlény ősmaradványa, amely egy kőzetréteg korát jelzi."
+    },
+    {
+     "q": "Min alapul az abszolút kormeghatározás?",
+     "a": "A radioaktív izotópok ismert felezési idejű bomlásán."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Zavartalan rétegsorban az alsó réteg az idősebb.",
+     "true": true
+    },
+    {
+     "statement": "A relatív kormeghatározás pontos évszámban adja meg a kőzet korát.",
+     "true": false,
+     "correction": "A relatív kormeghatározás csak a sorrendet adja meg; évszámot az abszolút (radioaktív) módszer ad."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e2",
+   "explanation": "A légkör három fő szakaszban fejlődött.\n\n1. Őslégkör (elsődleges légkör): a Föld kialakulásakor főleg hidrogénből és héliumból állt. Ezek a könnyű gázok a fiatal Föld melegében és a napszél hatására elszöktek a világűrbe.\n\n2. Másodlagos légkör: a vulkáni működés gázaiból jött létre. Főleg vízgőz, szén-dioxid, nitrogén, valamint metán, ammónia, kénvegyületek alkották. Szabad oxigén még nem volt benne.\n- A lehűlés során a vízgőz lecsapódott: kialakult az ősóceán.\n- A szén-dioxid jelentős része a tengervízben oldódott, majd mészkőként rakódott le.\n\n3. Mai légkör: az oxigén a kék baktériumok (cianobaktériumok), majd a növények fotoszintéziséből származik. Az előidőben kezdett felhalmozódni, először a tengervízben lévő vasat oxidálta.\n- Az oxigénből ózonréteg alakult ki, amely kiszűrte az UV-sugárzást, ez tette lehetővé, hogy az élet az óidőben a szárazföldre lépjen.\n- Ma főleg nitrogén (kb. 78%) és oxigén (kb. 21%) alkotja.\n\nA légkör fejlődése tehát szorosan összefügg a kőzetburok, a vízburok és az élővilág fejlődésével.",
+   "diagram": null,
+   "concepts": [
+    "őslégkör (elsődleges légkör)",
+    "másodlagos légkör",
+    "mai légkör",
+    "ősóceán"
+   ],
+   "processes": [],
+   "examTip": "A kulcskérdés: honnan származik az oxigén? Nem a vulkánokból, hanem a fotoszintézisből – ezt sokan elrontják.",
+   "selfCheck": [
+    {
+     "q": "Miből alakult ki a másodlagos légkör?",
+     "a": "A vulkáni működés során kiáramló gázokból."
+    },
+    {
+     "q": "Miért lépett az élet csak az óidőben a szárazföldre?",
+     "a": "Mert az ózonréteg csak az oxigén felhalmozódása után alakult ki, és addig az UV-sugárzás elpusztította volna a szárazföldi életet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A mai légkör oxigénje az élőlények fotoszintéziséből származik.",
+     "true": true
+    },
+    {
+     "statement": "Az őslégkör főleg oxigénből és nitrogénből állt.",
+     "true": false,
+     "correction": "Az őslégkör főleg hidrogénből és héliumból állt; a mai összetétel a fotoszintézis révén jóval később alakult ki."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e3",
+   "explanation": "A vízburok kialakulása szorosan kapcsolódik a légkör fejlődéséhez.\n\nA folyamat:\n- A fiatal Föld belsejéből a vulkáni működés során nagy mennyiségű vízgőz került a másodlagos légkörbe.\n- A vízgőz egy része a Földre csapódó üstökösökből, jeges égitestekből is származhatott.\n- Amíg a felszín nagyon forró volt, a víz gőz formájában maradt a légkörben.\n- Ahogy a földkéreg lehűlt, a vízgőz lecsapódott, és hosszan tartó esőzések indultak.\n- A víz a mélyedésekben gyűlt össze: kialakult az ősóceán – már az ősidőben.\n\nAz ősóceán szerepe:\n- feloldotta a légkör szén-dioxidjának nagy részét, ami később mészkőként rakódott le – így csökkent az üvegházhatás,\n- sótartalma a kőzetekből kioldott anyagokból származik,\n- benne jelent meg az első élet, és itt kezdődött az oxigéntermelés.\n\nA vízburok azóta is átalakul: a kontinensek vándorlása új óceánokat nyit (Atlanti-óceán) és zár be (Tethys), a jégkorszakokban a tengerszint jelentősen ingadozott.",
+   "diagram": null,
+   "concepts": [
+    "ősóceán",
+    "másodlagos légkör",
+    "őslégkör (elsődleges légkör)"
+   ],
+   "processes": [
+    "viz-korforgasa"
+   ],
+   "examTip": "A kulcslépés: vulkáni vízgőz → a felszín lehűlése → lecsapódás → ősóceán. A sorrendet és az okot (lehűlés) is írd le!",
+   "selfCheck": [
+    {
+     "q": "Mi tette lehetővé a vízgőz lecsapódását?",
+     "a": "A földkéreg és a légkör lehűlése."
+    },
+    {
+     "q": "Milyen szerepe volt az ősóceánnak a szén-dioxid-tartalom csökkenésében?",
+     "a": "Feloldotta a szén-dioxidot, amely később mészkőként rakódott le."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az ősóceán vize nagyrészt a vulkáni gázok vízgőzéből származik.",
+     "true": true
+    },
+    {
+     "statement": "Az ősóceán a negyedidőszakban, a jégkorszak végén alakult ki.",
+     "true": false,
+     "correction": "Az ősóceán már az ősidőben kialakult, amikor a földkéreg lehűlt és a vízgőz lecsapódott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e4",
+   "explanation": "A kontinensek a lemezmozgások miatt többször egyesültek őskontinenssé, majd szétváltak.\n\nA legismertebb folyamat:\n- Az óidő végére (perm) a kontinensek egyetlen őskontinenssé, a Pangeává egyesültek. Körülötte a hatalmas ősóceán, a Panthalassza terült el.\n- A középidőben (triász–jura) a Pangea kettévált: északon Laurázsia (Észak-Amerika és Eurázsia), délen Gondwana (Dél-Amerika, Afrika, Antarktisz, Ausztrália, India) jött létre. Köztük nyílt a Tethys óceán.\n- A kréta időszaktól Gondwana is feldarabolódott, megnyílt az Atlanti-óceán, India északra vándorolt.\n- Az újidőben Afrika és India Eurázsiával ütközött: a Tethys bezárult, üledékeiből felgyűrődtek az Alpok és a Himalája (eurázsiai hegységképződés).\n\nKövetkezmények:\n- az összekapcsolódás gyűrthegységeket hoz létre (Urál, Appalache – a Pangea összeállásakor),\n- a szétválás új óceánokat nyit, megváltoztatja a tengeráramlásokat és az éghajlatot,\n- az élővilág elkülönül: pl. Ausztrália sajátos erszényesei,\n- a kontinensek helyzete miatt találunk egykori trópusi kőszenet ma hideg tájakon.",
+   "diagram": "plate-boundaries",
+   "concepts": [
+    "őskontinens",
+    "Pangea",
+    "Panthalassza",
+    "Laurázsia",
+    "Gondwana",
+    "Tethys"
+   ],
+   "processes": [
+    "lemezmozgasok",
+    "hegysegkepzodes"
+   ],
+   "examTip": "Térképen gyakran kérik a Gondwana és a Laurázsia részeit: India Gondwanához tartozott, később ütközött Ázsiával!",
+   "selfCheck": [
+    {
+     "q": "Melyik óceán bezárulásából gyűrődtek fel az Alpok és a Himalája?",
+     "a": "A Tethys óceánéból."
+    },
+    {
+     "q": "Mely mai kontinensek alkották Gondwanát?",
+     "a": "Dél-Amerika, Afrika, Antarktisz, Ausztrália és India (az Indiai-félsziget)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Pangea az óidő végére jött létre.",
+     "true": true
+    },
+    {
+     "statement": "Laurázsia a déli kontinensek (Dél-Amerika, Afrika, Ausztrália) őskontinense volt.",
+     "true": false,
+     "correction": "A déli kontinensek Gondwanát alkották; Laurázsia Észak-Amerikából és Eurázsiából állt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e5",
+   "explanation": "A jégkorszak (glaciális) a Föld olyan hideg időszaka, amikor a jégtakarók a mai szélességeknél jóval délebbre (az alacsonyabb szélességek felé) nyomulnak. A negyedidőszak jégkorában (pleisztocén) több jégkorszak és köztük melegebb jégkorszakköz (interglaciális) váltakozott. Ma is egy jégkorszakközben élünk.\n\nAz eljegesedések következményei:\n- Felszínformák: Észak-Európa és Észak-Amerika lecsiszolt pajzsai, tóhátságok (Finnország, Kanada), morénasíkságok, ősfolyamvölgyek, vándorkövek, fjordok (Norvégia), a Nagy-tavak medencéje.\n- Tengerszint: a jégbe zárt víz miatt jelentősen lesüllyedt, szárazföldi hidak jöttek létre (pl. Ázsia és Amerika között), a jég elolvadása után emelkedett.\n- A jég terhétől lesüllyedt kéreg ma is emelkedik (Skandinávia).\n- A Kárpát-medencét nem borította jégtakaró, de periglaciális (fagyos, száraz) éghajlata volt: a szél lösz- és futóhomoktakarót halmozott fel (Mezőföld, Nyírség, Duna–Tisza köze), a hegyekben fagyaprózódás zajlott.\n- Élővilág: a növény- és állatfajok vándoroltak; nagytestű emlősök (gyapjas mamut) éltek.\n- Az ember elterjedését is befolyásolta.",
+   "diagram": "glacier",
+   "concepts": [
+    "jégkorszak (glaciális)",
+    "jégkorszakköz (interglaciális)",
+    "jégkor (pleisztocén)",
+    "tóhátság",
+    "vándorkő"
+   ],
+   "processes": [
+    "jeg-munkaja"
+   ],
+   "examTip": "Ne keverd a fogalmakat: jégkor (pleisztocén) – a teljes kor; jégkorszak (glaciális) – annak egy-egy hideg szakasza; jégkorszakköz (interglaciális) – a köztük lévő melegebb szakasz.",
+   "selfCheck": [
+    {
+     "q": "Milyen nyomot hagyott a jégkor a Kárpát-medencében?",
+     "a": "Lösz- és futóhomoktakarót, fagyaprózódási formákat – jégtakaró nem borította."
+    },
+    {
+     "q": "Miért süllyedt a tengerszint a jégkorszakokban?",
+     "a": "Mert hatalmas vízmennyiség a jégtakarókba zárva maradt a szárazföldön."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Napjainkban egy jégkorszakköz (interglaciális) időszakában élünk.",
+     "true": true
+    },
+    {
+     "statement": "A pleisztocénben a Kárpát-medencét összefüggő jégtakaró borította.",
+     "true": false,
+     "correction": "A Kárpát-medencét nem borította jégtakaró; hideg, száraz (periglaciális) éghajlat uralkodott, lösz és futóhomok halmozódott fel."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e6",
+   "explanation": "Emelt szinten az időszakokhoz is kötnöd kell a fő eseményeket.\n\nÓidő:\n- kambrium: az élővilág gyors felvirágzása a tengerben (trilobiták),\n- ordovícium, szilur: kaledóniai hegységképződés; az ózonréteg védelmében az első szárazföldi növények,\n- devon: halak elterjedése, első szárazföldi gerincesek,\n- karbon: hatalmas mocsárerdők – kőszéntelepek; variszkuszi hegységképződés,\n- perm: a Pangea összeállása, száraz éghajlat, kősó; a végén a legnagyobb kihalás.\n\nKözépidő:\n- triász: a Pangea feldarabolódásának kezdete, Tethys; mészkő, dolomit (Dunántúli-középhegység),\n- jura: dinoszauruszok, mecseki feketekőszén,\n- kréta: virágos növények; a végén a dinoszauruszok kihalása.\n\nÚjidő, harmadidőszak:\n- paleocén, eocén: emlősök elterjedése, barnakőszén (Tatabánya, Dorog),\n- oligocén, miocén: a Kárpátok és az Alpok fő felgyűrődése, a Kárpát-medence vulkánossága,\n- pliocén: a Pannon-tó feltöltődése, lignit.\n\nNegyedidőszak: pleisztocén (jégkor) és holocén.",
+   "diagram": null,
+   "concepts": [
+    "kambrium",
+    "karbon",
+    "perm",
+    "triász",
+    "jura",
+    "kréta"
+   ],
+   "processes": [
+    "szenhidrogen-szenkepzodes",
+    "hegysegkepzodes"
+   ],
+   "examTip": "Az óidei időszakok sorrendjére jó a memoriter: kambrium, ordovícium, szilur, devon, karbon, perm; középidő: triász, jura, kréta.",
+   "selfCheck": [
+    {
+     "q": "Melyik időszakban keletkeztek a nagy kőszéntelepek?",
+     "a": "A karbon időszakban."
+    },
+    {
+     "q": "Melyik időszak végén haltak ki a dinoszauruszok?",
+     "a": "A kréta végén."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A mecseki feketekőszén a jura időszakban keletkezett.",
+     "true": true
+    },
+    {
+     "statement": "A kambrium a középidő első időszaka.",
+     "true": false,
+     "correction": "A kambrium az óidő első időszaka; a középidő a triásszal kezdődik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

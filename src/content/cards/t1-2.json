@@ -1,0 +1,2333 @@
+{
+ "cards": [
+  {
+   "objectiveId": "1-1-a-terkep--k1",
+   "explanation": "A méretarány megmutatja, hányszorosára kicsinyítették a valóságot a térképen. Az 1 : 100 000 azt jelenti, hogy a térképen 1 cm a valóságban 100 000 cm, vagyis 1 km.\n\nAz összefüggés lényege: minél nagyobb a méretarány (minél kisebb az osztó), annál kisebb területet ábrázol ugyanakkora lapon a térkép, de annál részletesebben.\n\n- Nagy méretarányú térkép (pl. 1 : 10 000, 1 : 25 000): kis terület, sok részlet, akár egyes épületek, utak, ösvények is. Ilyenek a turistatérképek, várostérképek.\n- Közepes méretarányú térkép (pl. 1 : 200 000 – 1 : 1 000 000): egy ország vagy tájegység, főbb települések, utak.\n- Kis méretarányú térkép (pl. 1 : 10 000 000 vagy kisebb): kontinensek, az egész Föld, erősen általánosított tartalommal.\n\nA kis méretarányú térképen a kis elemeket már nem lehet méretarányosan ábrázolni: a városok csak jelek (karikák), a folyók vonalak, a tartalmat általánosítani kell.",
+   "diagram": null,
+   "concepts": [
+    "méretarány",
+    "közepes és nagy méretarányú térkép",
+    "térkép",
+    "atlasz"
+   ],
+   "processes": [],
+   "examTip": "Gyakori hiba: az 1 : 1 000 000-es térképet „nagynak” gondolni, mert nagy szám áll benne. Fordítva van: minél nagyobb az osztó, annál KISEBB a méretarány.",
+   "selfCheck": [
+    {
+     "q": "Melyik a nagyobb méretarány: 1 : 50 000 vagy 1 : 500 000?",
+     "a": "Az 1 : 50 000, mert ott kisebb a kicsinyítés."
+    },
+    {
+     "q": "Melyik térképen látszik több részlet ugyanakkora lapon?",
+     "a": "A nagyobb méretarányún, de az kisebb területet ábrázol."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egy turistatérkép általában nagy méretarányú térkép.",
+     "true": true
+    },
+    {
+     "statement": "Minél kisebb a méretarány, annál részletesebb a térkép.",
+     "true": false,
+     "correction": "Minél kisebb a méretarány, annál nagyobb területet ábrázol a térkép, de annál kevésbé részletesen."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-1-a-terkep--k2",
+   "explanation": "A térkép síkban mutatja be a háromdimenziós felszínt, ezért a domborzatot különleges módszerekkel kell ábrázolni.\n\n- Szintvonalas domborzatábrázolás: a szintvonal az azonos tengerszint feletti magasságú pontokat köti össze. Pontos, mérhető: ahol sűrűek a vonalak, ott meredek a lejtő, ahol ritkák, ott lankás. Főleg nagy méretarányú (topográfiai, turista-) térképeken használják.\n- Színfokozatos domborzatábrázolás: a szintvonalak közötti sávokat színezik. A megszokott színsor: zöld – alföld, sárga – dombság, barna (egyre sötétebb) – hegyvidék; a vizek mélységét kék árnyalatok mutatják. A földrajzi atlaszok jellegzetes módszere.\n- Árnyékolásos domborzatábrázolás: mintha a felszínt oldalról (hagyományosan északnyugatról) világítanák meg; a lejtők árnyékot vetnek, így szemléletes, plasztikus képet kapunk, de magasságot leolvasni nem lehet róla.\n\nA térképeken ezeket gyakran kombinálják, és a fontos pontokat magassági számmal is jelölik (pl. Kékes 1014 m).",
+   "diagram": "contour-section",
+   "concepts": [
+    "szintvonalas",
+    "színfokozatos",
+    "árnyékolásos domborzatábrázolás",
+    "magassági szám",
+    "domborzatrajz"
+   ],
+   "processes": [],
+   "examTip": "Ne keverd: a barna szín a földrajzi térképen magasságot jelent, nem „sivatagot” vagy „száraz területet”. A Szahara alacsony fekvésű részei is zöldek vagy sárgák lehetnek.",
+   "selfCheck": [
+    {
+     "q": "Mit köt össze a szintvonal?",
+     "a": "Az azonos tengerszint feletti magasságú pontokat."
+    },
+    {
+     "q": "Melyik módszer szemléletes, de nem mérhető?",
+     "a": "Az árnyékolásos domborzatábrázolás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ahol a szintvonalak sűrűn futnak, ott meredek a lejtő.",
+     "true": true
+    },
+    {
+     "statement": "A színfokozatos térképen a zöld szín mindig erdős területet jelöl.",
+     "true": false,
+     "correction": "A színfokozatos domborzatábrázolásban a zöld az alacsony fekvésű területet (alföldet) jelöli, nem a növényzetet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-1-a-terkep--k3",
+   "explanation": "Szintvonalas térképen a domborzati formákat a vonalak alakjáról és a magassági számokról ismered fel.\n\n- Kúp, hegycsúcs: zárt, egymásba ágyazott szintvonalak, befelé nő a magasság, a közepén magassági szám.\n- Mélyedés (töbör, kráter): szintén zárt görbék, de befelé csökken a magasság; gyakran rövid, lejtő irányába mutató fogacskák jelzik.\n- Völgy: a szintvonalak V vagy U alakban „behajlanak”, a csúcsuk a MAGASABB terület felé mutat. Az alján gyakran vízfolyás fut.\n- Hegyhát, gerinc: a kihajlás csúcsa az ALACSONYABB terület felé mutat.\n- Nyereg: két kúp közötti alacsonyabb pont, ahol két gerinc találkozik és két völgy indul.\n- Meredek és lankás lejtő: sűrű, illetve ritka szintvonalak.\n- Fennsík, síkság: a vonalak között nagy, közel azonos magasságú terület.\n\nSzínfokozatos térképen az alföld, a dombság és a hegység a színsorból, a medencék a környezetüknél alacsonyabb (zöldebb) foltokból ismerhetők fel.",
+   "diagram": "contour-section",
+   "concepts": [
+    "szintvonalas",
+    "tengerszint feletti magasság",
+    "magassági szám",
+    "domborzatrajz"
+   ],
+   "processes": [],
+   "examTip": "Völgy vagy gerinc? Kövesd a vízfolyást: a folyó mindig a völgyben fut, és a szintvonalak V-je „felfelé”, a forrás felé mutat.",
+   "selfCheck": [
+    {
+     "q": "Merre mutat a szintvonalak csúcsa egy völgyben?",
+     "a": "A magasabb terület, a völgyfő felé."
+    },
+    {
+     "q": "Miben különbözik a kúp és a mélyedés szintvonalas képe?",
+     "a": "Kúpnál befelé nő, mélyedésnél befelé csökken a magasság."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A nyereg két csúcs közötti alacsonyabb hely a gerincen.",
+     "true": true
+    },
+    {
+     "statement": "Hegyhátnál a szintvonalak csúcsa a magasabb terület felé mutat.",
+     "true": false,
+     "correction": "Hegyhátnál (gerincnél) a kihajlás az alacsonyabb terület felé mutat; a magasabb felé mutató V a völgy jele."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-1-a-terkep--k4",
+   "explanation": "A földrajzi fokhálózat a szélességi és hosszúsági körök rendszere, amellyel bármely pont helye megadható.\n\nSzélességi körök:\n- az Egyenlítővel párhuzamos körök; az Egyenlítő 0°, a sarkok 90° (északi, illetve déli szélesség);\n- hosszuk az Egyenlítőtől (kb. 40 000 km) a sarkok felé csökken, a sarkpont már csak pont;\n- nevezetes szélességi körök: a térítők (kb. 23,5°) és a sarkkörök (kb. 66,5°).\n\nHosszúsági körök (délkörök):\n- a két sarkot összekötő félkörök, mind egyforma hosszúak (kb. 20 000 km);\n- a kezdő hosszúsági kör a londoni Greenwichen halad át (0°), innen keletre és nyugatra 180°-ig számolunk;\n- a 0° és a 180° hosszúsági kör osztja a Földet keleti és nyugati félgömbre.\n\nAz Egyenlítő a Földet északi és déli félgömbre osztja. A szélességi és hosszúsági körök mindenhol merőlegesen metszik egymást. Budapest helye például kb. é. sz. 47,5°, k. h. 19°.",
+   "diagram": null,
+   "concepts": [
+    "földrajzi fokhálózat",
+    "szélességi kör",
+    "hosszúsági kör",
+    "keleti és nyugati félgömb",
+    "Greenwich"
+   ],
+   "processes": [],
+   "examTip": "A fokhálózati helyet mindig így add meg: szélesség ÉS hosszúság, félgömbjelöléssel (pl. é. sz. 47,5°; k. h. 19°). Félgömbjel nélkül a válasz hibás.",
+   "selfCheck": [
+    {
+     "q": "Melyik szélességi kör a leghosszabb?",
+     "a": "Az Egyenlítő (kb. 40 000 km)."
+    },
+    {
+     "q": "Hol halad át a kezdő hosszúsági kör?",
+     "a": "A londoni Greenwichen."
+    },
+    {
+     "q": "Hány fokig számoljuk a hosszúságot?",
+     "a": "Keletre és nyugatra is 180°-ig."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Minden hosszúsági kör egyforma hosszú.",
+     "true": true
+    },
+    {
+     "statement": "A szélességi körök a sarkok felé haladva egyre hosszabbak.",
+     "true": false,
+     "correction": "A szélességi körök a sarkok felé egyre rövidebbek; a leghosszabb az Egyenlítő."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-1-a-terkep--k5",
+   "explanation": "A térképvázlat egyszerűsített, kézzel rajzolt térkép, amely csak a feladathoz szükséges elemeket mutatja (pl. egy útvonal, egy tájegység vagy egy iskola környéke).\n\nÍgy készítsd el:\n- Válaszd ki a tartalmat: mit kell ábrázolni, mi hagyható el.\n- Adj címet a vázlatnak.\n- Jelöld az északi irányt (nyíl, É betű).\n- Tüntesd fel a méretarányt, legalább hozzávetőleg, vonalas aránymértékkel.\n- Alakítsd ki a jelrendszert: egyszerű, jól megkülönböztethető jelek (pont, vonal, folt), következetes színek (vizek kékkel, utak pirossal, erdő zölddel).\n- Készíts jelkulcsot: minden használt jel jelentését magyarázd meg.\n- Írd rá a fontos neveket (névrajz).\n\nA jó vázlat arányos, áttekinthető, és a jelkulcs segítségével bárki el tudja olvasni. A térképi tartalom három része: síkrajz (vizek, utak, települések), domborzatrajz és névrajz – egy vázlatba is ezekből válogatsz.",
+   "diagram": null,
+   "concepts": [
+    "jelkulcs",
+    "vonalas aránymérték",
+    "síkrajz",
+    "névrajz",
+    "térkép"
+   ],
+   "processes": [],
+   "examTip": "Vázlatrajzolásnál a cím, az északi irány és a jelkulcs hiánya pontlevonást jelent, akkor is, ha maga a rajz szép.",
+   "selfCheck": [
+    {
+     "q": "Mi a jelkulcs szerepe?",
+     "a": "Megmagyarázza a térképen használt jelek jelentését."
+    },
+    {
+     "q": "Milyen elemek nem hiányozhatnak egy térképvázlatról?",
+     "a": "Cím, északi irány, méretarány, jelkulcs."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A térképvázlat csak a feladat szempontjából fontos elemeket tartalmazza.",
+     "true": true
+    },
+    {
+     "statement": "A névrajz a térkép vízhálózatát és útjait jelenti.",
+     "true": false,
+     "correction": "A vizek, utak és települések a síkrajzhoz tartoznak; a névrajz a térképen szereplő feliratok, nevek összessége."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-1-a-terkep--e1",
+   "explanation": "A vetület az a matematikai eljárás, amellyel a gömbölyű földfelszínt síkba tesszük át. Ez torzulás nélkül nem lehetséges: egy térkép legfeljebb a szögeket, a területeket VAGY bizonyos távolságokat tarthatja meg (szögtartó, területtartó, távolságtartó vetület).\n\nA vetítőfelület szerint:\n- Síkvetület: a sík egy pontban érinti a gömböt. Az érintési pont környékén pontos, attól távolodva nő a torzulás. Jellemzően a sarkvidékek ábrázolására használják; a hosszúsági körök a sarkból kiinduló egyenesek, a szélességi körök koncentrikus körök.\n- Hengervetület: a henger az Egyenlítő mentén érinti a gömböt. A hosszúsági és szélességi körök egyenesek, derékszögben metszik egymást. Az Egyenlítő környékén pontos, a sarkok felé erősen nagyít (pl. Grönland óriásinak tűnik). Világtérképekhez, hajózási térképekhez használják.\n- Kúpvetület: a kúp egy szélességi kör mentén érinti a gömböt; a délkörök egy pontba futó egyenesek, a szélességi körök körívek. A közepes szélességeken pontos, ezért jó pl. Európa vagy Magyarország ábrázolására.",
+   "diagram": "projections",
+   "concepts": [
+    "sík-",
+    "henger- és kúpvetület"
+   ],
+   "processes": [],
+   "examTip": "Gyakori feladat: fokhálózat képe alapján felismerni a vetülettípust (párhuzamos egyenesek derékszögű hálója → henger; körívek és összefutó egyenesek → kúp; koncentrikus körök és sugaras egyenesek → sík).",
+   "selfCheck": [
+    {
+     "q": "Melyik vetület torzítja legjobban a sarkvidéket?",
+     "a": "A (normál helyzetű) hengervetület."
+    },
+    {
+     "q": "Milyen vetület a legalkalmasabb Európa ábrázolására?",
+     "a": "A kúpvetület."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Torzulásmentes síkbeli térkép a teljes Földről nem készíthető.",
+     "true": true
+    },
+    {
+     "statement": "A síkvetület a teljes Föld torzulásmentes ábrázolására alkalmas.",
+     "true": false,
+     "correction": "A síkvetület csak az érintési pont (pl. a sark) környékén pontos, attól távolodva egyre jobban torzít."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k1",
+   "explanation": "A térkép három „nyelven” beszél: jelekkel, színekkel és számokkal. Mindhármat a jelkulcs magyarázza.\n\n- Jelek: pontszerű (település, bánya, vár), vonalas (folyó, út, határ, vasút) és felületi (erdő, mocsár, tó) jelek. A település jelének mérete gyakran a lakosságszámra utal.\n- Színek: a földrajzi térképen a színfokozatok a magasságot (zöld, sárga, barna) és a vízmélységet (kék árnyalatok) mutatják; tematikus térképen a színek más tartalmat, pl. népsűrűséget, csapadékot jelölhetnek.\n- Számok: magassági szám (tengerszint feletti magasság, pl. Kékes 1014 m), mélységi szám, a szintvonalak értéke, a fokhálózat fokbeosztása és a méretarány.\n\nA térképolvasás azt jelenti, hogy ezekből az információkból következtetéseket vonsz le: pl. ha a folyó mellett a magassági számok kicsik és a szín zöld, akkor alföldön folyik; ha az út szerpentinezik, és sűrűek a szintvonalak, akkor meredek hegyoldalon halad.",
+   "diagram": null,
+   "concepts": [
+    "jelkulcs",
+    "magassági szám",
+    "tengerszint feletti magasság",
+    "földrajzi és tematikus térkép"
+   ],
+   "processes": [],
+   "examTip": "Mindig nézd meg a térkép jelkulcsát, mielőtt válaszolsz – tematikus térképen ugyanaz a szín egészen mást jelenthet, mint a domborzati térképen.",
+   "selfCheck": [
+    {
+     "q": "Milyen típusú térképi jelek vannak?",
+     "a": "Pontszerű, vonalas és felületi jelek."
+    },
+    {
+     "q": "Mit jelent a magassági szám?",
+     "a": "Egy pont tengerszint feletti magasságát méterben."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A tenger mélységét a földrajzi térképen kék színárnyalatok jelzik.",
+     "true": true
+    },
+    {
+     "statement": "A térképen a folyó vonalas jele mindig méretarányos szélességű.",
+     "true": false,
+     "correction": "A vonalas jelek szélessége általában nem méretarányos; a legtöbb térképen a folyó valódi szélessége jóval kisebb lenne a vonal vastagságánál."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k2",
+   "explanation": "Ez a követelmény azt kéri, hogy különféle ábrázolásokból adatokat olvass le, és ezeket összevesd.\n\n- Térképek: méretarány, magasság, távolság, irány, tartalom (domborzat, vizek, települések).\n- Keresztmetszet (domborzati metszet): a felszín függőleges „szelete” egy vonal mentén. Leolvasható róla a legmagasabb és legalacsonyabb pont, a lejtők meredeksége, a völgyek, gerincek helye. Figyelj: a függőleges lépték gyakran sokszorosan túlmagasított!\n- Tömbszelvény: térbeli, háromdimenziós rajz, amely a felszínt és a földtani szerkezetet (kőzetrétegek, vetők, redők) egyszerre mutatja.\n\nÖsszevetésnél keresd az egyezéseket és különbségeket: például egy nagy méretarányú turistatérkép és egy kis méretarányú atlaszlap ugyanarról a tájról más részletességgel ad információt. Ha két ábra eltérő méretarányú, előbb mindig a méretarányt egyeztesd, csak utána hasonlítsd össze a távolságokat.",
+   "diagram": "contour-section",
+   "concepts": [
+    "méretarány",
+    "tengerszint feletti magasság",
+    "közepes és nagy méretarányú térkép"
+   ],
+   "processes": [],
+   "examTip": "Keresztmetszetnél a vízszintes és függőleges lépték eltérhet: a lejtőszöget ezért nem lehet közvetlenül az ábráról leolvasni, a meredekséget csak összehasonlításként értelmezd.",
+   "selfCheck": [
+    {
+     "q": "Mit mutat a tömbszelvény a keresztmetszeten felül?",
+     "a": "A felszín térbeli képét és a földtani szerkezetet együtt."
+    },
+    {
+     "q": "Miért túlmagasított sok keresztmetszet?",
+     "a": "Hogy a kis szintkülönbségek is látszódjanak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A keresztmetszet a felszín függőleges metszete egy kijelölt vonal mentén.",
+     "true": true
+    },
+    {
+     "statement": "A keresztmetszet függőleges és vízszintes léptéke mindig azonos.",
+     "true": false,
+     "correction": "A függőleges léptéket gyakran túlmagasítják, hogy a domborzat jól látható legyen."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k3",
+   "explanation": "A tematikus térkép egyetlen témát mutat be (pl. csapadék, népsűrűség, ásványkincsek, éghajlati övezetek). Összehasonlító elemzésnél két vagy több ilyen térképet teszel egymás mellé, és összefüggéseket keresel.\n\nLépések:\n- Olvasd el mindkét térkép címét és jelkulcsát.\n- Keresd meg ugyanazt a területet mindkét térképen.\n- Írd le, mit mutat az egyik és mit a másik.\n- Fogalmazz meg ok-okozati kapcsolatot.\n\nPéldák:\n- Domborzati és csapadéktérkép: a hegyvidékek szél felőli oldalán több a csapadék.\n- Éghajlati és népsűrűség-térkép: a sivatagok és a sarkvidékek gyéren lakottak.\n- Domborzati és népsűrűség-térkép: a termékeny alföldek, folyóvölgyek sűrűn lakottak.\n\nA következtetésnél vigyázz: az, hogy két jelenség egy helyen fordul elő, még nem bizonyítja, hogy egyik a másik oka – mindig földrajzi magyarázatot is adj.",
+   "diagram": null,
+   "concepts": [
+    "földrajzi és tematikus térkép",
+    "jelkulcs",
+    "atlasz"
+   ],
+   "processes": [],
+   "examTip": "Tipikus kérdés: „Milyen összefüggést lát a két térkép között? Magyarázza!” – a puszta leírás kevés, az okot is meg kell nevezni.",
+   "selfCheck": [
+    {
+     "q": "Mi a tematikus térkép?",
+     "a": "Egy kiválasztott témát (jelenséget) ábrázoló térkép."
+    },
+    {
+     "q": "Milyen összefüggést mutat a domborzati és a csapadéktérkép?",
+     "a": "A hegyvidékek szél felőli oldalán általában több a csapadék."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A népsűrűség-térkép tematikus térkép.",
+     "true": true
+    },
+    {
+     "statement": "Ha két jelenség a térképen egy helyen látható, biztosan ok-okozati kapcsolat van közöttük.",
+     "true": false,
+     "correction": "Az együttes előfordulás még nem bizonyít ok-okozati kapcsolatot; a magyarázatot földrajzi ismeretekkel kell alátámasztani."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k4",
+   "explanation": "A méretarányos számítás alapja: valódi távolság = térképi távolság × a méretarány osztója.\n\nLépések:\n- Mérd meg a térképi távolságot cm-ben.\n- Szorozd meg az osztóval → cm-ben kapod a valódi távolságot.\n- Váltsd át: 100 000 cm = 1 km (tehát a cm-ből öt nullát „húzol le”).\n\nPélda 1: 1 : 200 000-es térképen 4,5 cm → 4,5 × 200 000 = 900 000 cm = 9 km.\n\nPélda 2 (visszafelé): a valóságban 30 km, a térképen 6 cm. 30 km = 3 000 000 cm, 3 000 000 : 6 = 500 000 → a méretarány 1 : 500 000.\n\nPélda 3: 1 : 50 000-es térképen mekkora 2 km? 200 000 cm : 50 000 = 4 cm.\n\nGyors trükk: az osztóból öt nullát elhagyva megkapod, hány km 1 cm (1 : 250 000 → 1 cm = 2,5 km).",
+   "diagram": null,
+   "concepts": [
+    "méretarány",
+    "vonalas aránymérték"
+   ],
+   "processes": [],
+   "examTip": "A leggyakoribb hiba a mértékegység-átváltás: 1 km = 1000 m = 100 000 cm. Írd ki a mértékegységet minden lépésnél!",
+   "selfCheck": [
+    {
+     "q": "1 : 100 000-es térképen 7 cm hány km?",
+     "a": "7 km."
+    },
+    {
+     "q": "Mekkora a méretarány, ha 2 cm a valóságban 10 km?",
+     "a": "1 : 500 000."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "1 : 25 000-es térképen 4 cm a valóságban 1 km.",
+     "true": true
+    },
+    {
+     "statement": "1 : 50 000-es térképen 1 cm a valóságban 5 km.",
+     "true": false,
+     "correction": "1 cm = 50 000 cm = 500 m, azaz 0,5 km."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k5",
+   "explanation": "Az abszolút magasság egy pont tengerszint feletti magassága (Magyarországon a Balti-tenger középszintjéhez viszonyítjuk). A relatív (viszonylagos) magasság két pont magasságának különbsége.\n\nKéplet: relatív magasság = a magasabb pont abszolút magassága – az alacsonyabb pont abszolút magassága.\n\nPélda: a Kékes 1014 m magas, egy Mátra lábánál fekvő falu 180 m-en van. A relatív magasság: 1014 – 180 = 834 m.\n\nHa csak szintvonalas térképed van:\n- keresd meg a pontokhoz legközelebbi szintvonalakat és magassági számokat;\n- ha a pont két szintvonal között van, becsülj (pl. a 300 és 320 m-es vonal között félúton kb. 310 m).\n\nTengerszint alatti pontnál figyelj az előjelre: a –50 m-es és a +150 m-es pont között a különbség 200 m.",
+   "diagram": "contour-section",
+   "concepts": [
+    "abszolút és relatív magasság",
+    "tengerszint feletti magasság",
+    "magassági szám"
+   ],
+   "processes": [],
+   "examTip": "Ne add össze a két magasságot – a relatív magasság mindig különbség. Negatív (tengerszint alatti) értéknél a különbség nagyobb, mint a pozitív szám.",
+   "selfCheck": [
+    {
+     "q": "Mi a relatív magasság?",
+     "a": "Két pont abszolút magasságának különbsége."
+    },
+    {
+     "q": "Mekkora a relatív magasság egy 650 m-es csúcs és egy 120 m-es völgytalp között?",
+     "a": "530 m."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az abszolút magasság a tengerszinthez viszonyított magasság.",
+     "true": true
+    },
+    {
+     "statement": "Egy 30 m-rel tengerszint alatt fekvő pont és egy 70 m-es pont magasságkülönbsége 40 m.",
+     "true": false,
+     "correction": "70 – (–30) = 100 m a különbség."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k6",
+   "explanation": "Térképi távolságot egyenes és görbe vonal mentén is mérhetsz, majd a méretarány segítségével valódi távolsággá alakítod.\n\nEgyenes vonal mentén:\n- vonalzóval mérd meg a két pont közti távolságot cm-ben, és szorozd a méretarány osztójával;\n- vagy körzővel vedd fel a távolságot, és tedd rá a vonalas aránymértékre – így számolás nélkül leolvasod a km-t.\n\nGörbe vonal mentén (folyó, út, határ):\n- cérnát vagy papírcsíkot fektetsz a vonalra, majd kiegyenesítve megméred;\n- vagy körzőt kis, egyenlő nyílással lépegetsz végig a vonalon, és összeszorzod a lépések számát a nyílás hosszával;\n- létezik görbületmérő (kurviméter) is.\n\nA görbe vonal mért hossza általában kisebb a valóságosnál, mert a térkép általánosítja a kanyarokat, ráadásul a lejtők miatt a valódi útszakasz is hosszabb. Digitális térképen a távolságmérő eszköz számol helyetted.",
+   "diagram": null,
+   "concepts": [
+    "méretarány",
+    "vonalas aránymérték"
+   ],
+   "processes": [],
+   "examTip": "Ha a térképen vonalas aránymérték van, de nincs számmal kiírt méretarány, a körzős vagy papírcsíkos módszert használd – és ne feledd: a térkép nagyítása vagy kicsinyítése után csak a vonalas aránymérték marad pontos.",
+   "selfCheck": [
+    {
+     "q": "Hogyan mérsz görbe vonalat térképen?",
+     "a": "Cérnával, papírcsíkkal, körzőlépegetéssel vagy görbületmérővel."
+    },
+    {
+     "q": "Miért előnyös a vonalas aránymérték?",
+     "a": "Számolás nélkül leolvasható róla a valódi távolság, és a térkép nagyításakor is pontos marad."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egy kanyargós folyó térképen mért hossza általában rövidebb a valódinál.",
+     "true": true
+    },
+    {
+     "statement": "Ha egy térképet fénymásolással felnagyítunk, a ráírt számszerű méretarány továbbra is pontos.",
+     "true": false,
+     "correction": "Nagyításkor a számszerű méretarány érvényét veszti; a vele együtt nagyított vonalas aránymérték marad pontos."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k7",
+   "explanation": "Helymeghatározás: egy pont helyét megadhatod\n- fokhálózattal (tényleges fekvés): pl. Budapest kb. é. sz. 47,5°, k. h. 19°;\n- keresőhálózattal: az atlaszok betű-szám kódjával (pl. C3 mező);\n- viszonylagos fekvéssel: más földrajzi elemekhez viszonyítva (pl. „a Duna két partján, a Dunántúli-középhegység és az Alföld találkozásánál”).\n\nTájékozódás a térképpel a terepen:\n- a térképet tájolod: úgy forgatod, hogy a térkép északi iránya a valódi észak felé nézzen;\n- iránytűvel: a mágnestű a mágneses északi irányba mutat, ami kicsit eltér a földrajzi északi iránytól (ez a mágneses deklináció);\n- iránytű nélkül: éjjel a Sarkcsillag mutatja az északot, délben pedig a Nap nálunk délen delel.\n\nIrányokat a fő- és mellékvilágtájakkal adsz meg (É, D, K, Ny; ÉK, DK, DNy, ÉNy). A térképen hagyományosan észak van felül.",
+   "diagram": null,
+   "concepts": [
+    "tényleges és viszonylagos földrajzi fekvés",
+    "keresőhálózat",
+    "fő- és mellékvilágtájak",
+    "földrajzi (csillagászati) és mágneses északi irány",
+    "mágneses deklináció",
+    "Sarkcsillag"
+   ],
+   "processes": [],
+   "examTip": "Fekvésnél a vizsga külön kérdezheti a tényleges (fokhálózati) és a viszonylagos (más elemekhez viszonyított) fekvést – ne keverd a kettőt.",
+   "selfCheck": [
+    {
+     "q": "Mi a térkép tájolása?",
+     "a": "A térkép elforgatása úgy, hogy iránya egyezzen a valódi égtájakkal."
+    },
+    {
+     "q": "Mi a mágneses deklináció?",
+     "a": "A földrajzi és a mágneses északi irány közötti szögeltérés."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Sarkcsillag közel a földrajzi északi irányban látszik.",
+     "true": true
+    },
+    {
+     "statement": "Az iránytű pontosan a földrajzi északi sark felé mutat.",
+     "true": false,
+     "correction": "Az iránytű a mágneses északi irányba mutat, amely a mágneses deklinációval eltér a földrajzitól."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e1",
+   "explanation": "Az Egyenlítő kb. 40 000 km hosszú, és 360°-ra oszlik, ezért mentén 1° ≈ 40 000 : 360 ≈ 111 km. Ugyanez igaz bármely hosszúsági kör mentén is, hiszen a délkörök is a Föld kerületének részei (félkör = 180° ≈ 20 000 km).\n\nMódszer:\n- Ellenőrizd, hogy a két pont valóban azonos hosszúsági körön (vagy az Egyenlítőn) van-e.\n- Számold ki a fokkülönbséget.\n- Szorozd meg 111 km-rel.\n\nFokkülönbség:\n- ugyanazon a félgömbön: kivonás (é. sz. 47° és é. sz. 37° → 10°);\n- az Egyenlítő két oldalán: összeadás (é. sz. 20° és d. sz. 10° → 30°).\n\nPélda: két pont a k. h. 19°-on, az egyik é. sz. 47°, a másik é. sz. 37° → 10 × 111 = 1110 km.\n\nVigyázz: más szélességi kör mentén ez a módszer nem működik, mert a szélességi körök a sarkok felé rövidülnek, ott 1° hosszúságkülönbség egyre kevesebb km.",
+   "diagram": null,
+   "concepts": [
+    "földrajzi fokhálózat",
+    "szélességi kör",
+    "hosszúsági kör"
+   ],
+   "processes": [],
+   "examTip": "Ha a két pont különböző félgömbön van, a fokokat ÖSSZE kell adni – ez a leggyakoribb hiba ebben a feladattípusban.",
+   "selfCheck": [
+    {
+     "q": "Hány km 1° az Egyenlítő mentén?",
+     "a": "Kb. 111 km."
+    },
+    {
+     "q": "Milyen messze van egymástól az Egyenlítőn a k. h. 10° és a ny. h. 20°?",
+     "a": "30° × 111 km ≈ 3330 km."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egy hosszúsági kör mentén 1° kb. 111 km.",
+     "true": true
+    },
+    {
+     "statement": "Az é. sz. 60°-os szélességi kör mentén is 1° hosszúságkülönbség kb. 111 km.",
+     "true": false,
+     "correction": "Az Egyenlítőtől távolodva a szélességi körök rövidebbek, ezért ott 1° hosszúságkülönbség kevesebb km (a 60°-on kb. a fele)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e2",
+   "explanation": "Területszámításnál a méretarány NÉGYZETÉVEL kell számolnod, mert a terület két irányban kicsinyedik.\n\nMódszer:\n- Számold át, hány km 1 cm a térképen.\n- Ezt emeld négyzetre: ennyi km² 1 cm².\n- Szorozd meg a térképi területtel.\n\nPélda 1: 1 : 100 000-es térkép, 1 cm = 1 km → 1 cm² = 1 km². Egy 12 cm²-es tó a valóságban 12 km².\n\nPélda 2: 1 : 50 000-es térkép, 1 cm = 0,5 km → 1 cm² = 0,25 km². Egy 8 cm²-es erdő 8 × 0,25 = 2 km².\n\nPélda 3: 1 : 200 000-es térkép, 1 cm = 2 km → 1 cm² = 4 km². Egy 3 cm × 5 cm-es téglalap 15 cm², azaz 60 km².\n\nSzabálytalan alakzatnál a területet becsülheted négyzethálóval: megszámolod a teljes és a félig lefedett négyzeteket.",
+   "diagram": null,
+   "concepts": [
+    "méretarány"
+   ],
+   "processes": [],
+   "examTip": "Tipikus hiba: a térképi területet egyszerűen megszorozni a méretarány osztójával. Előbb a hosszt váltsd át km-re, és azt emeld négyzetre!",
+   "selfCheck": [
+    {
+     "q": "1 : 200 000-es térképen mennyi 1 cm² a valóságban?",
+     "a": "4 km²."
+    },
+    {
+     "q": "Hányszorosára nő a valódi terület, ha a méretarány osztója kétszeresére nő (ugyanakkora térképi terület mellett)?",
+     "a": "Négyszeresére."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "1 : 100 000-es térképen 1 cm² a valóságban 1 km².",
+     "true": true
+    },
+    {
+     "statement": "1 : 50 000-es térképen 4 cm² a valóságban 2 km².",
+     "true": false,
+     "correction": "1 cm² = 0,25 km², így 4 cm² = 1 km²."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e3",
+   "explanation": "A feladat: egy szintvonalas térképen kijelölt vonal (pl. A–B) mentén felismerni, melyik keresztmetszet tartozik hozzá.\n\nMódszer:\n- Nézd meg, hol metszi az A–B vonal a szintvonalakat, és milyen magasságúak ezek.\n- Állapítsd meg a vonal két végpontjának magasságát.\n- Keresd meg a legmagasabb és legalacsonyabb pontokat (csúcs, völgy) és azok sorrendjét A-tól B felé.\n- A szintvonalak sűrűsége a lejtő meredekségét mutatja: sűrű vonalak → meredek szakasz a metszeten.\n- Vesd össze a megadott keresztmetszeteket: a csúcsok, nyergek és völgyek száma, helye és aránya alapján zárd ki a rosszakat.\n\nSaját készítésnél: tegyél papírcsíkot az A–B vonalra, jelöld a szintvonalak metszéspontjait és magasságukat, majd a pontokat egy magassági skálán felrakva kösd össze őket.\n\nVigyázz az irányra: a metszet bal széle mindig a kezdőpont (A) legyen!",
+   "diagram": "contour-section",
+   "concepts": [
+    "szintvonalas",
+    "abszolút és relatív magasság",
+    "tengerszint feletti magasság"
+   ],
+   "processes": [],
+   "examTip": "A rossz válaszlehetőségek gyakran tükrözött (B–A irányú) metszetek – mindig ellenőrizd, melyik végpontnál kezdődik az ábra.",
+   "selfCheck": [
+    {
+     "q": "Mit mutat a keresztmetszeten a szintvonalak sűrűsége?",
+     "a": "A lejtő meredekségét: sűrű vonalak meredek szakaszt jelentenek."
+    },
+    {
+     "q": "Mi az első lépés a metszet azonosításánál?",
+     "a": "A végpontok és a metszett szintvonalak magasságának leolvasása."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ha az A–B vonal két csúcson halad át, a keresztmetszeten is két kiemelkedést kell látnod.",
+     "true": true
+    },
+    {
+     "statement": "A keresztmetszet alakja nem függ attól, hogy A-tól B felé vagy fordítva rajzoljuk.",
+     "true": false,
+     "correction": "Fordított irányban a metszet tükörképe adódik, ezért az irány fontos."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e4",
+   "explanation": "A számítógépes programok (pl. digitális földgömbök, domborzatmodellek) a felszínt térben, háromdimenziósan jelenítik meg. Alapjuk a digitális domborzatmodell: rengeteg pont pontos magassági adata, amelyet gyakran műholdas radaros vagy repülőgépes lézeres mérésből nyernek.\n\nMit tudsz ezekről leolvasni?\n- Felszínmodell: forgatható, dönthető 3D kép; a domborzati formák (völgyek, gerincek, vulkáni kúpok) jól felismerhetők. A függőleges léptéket a program gyakran túlmagasítja.\n- Keresztmetszet (magassági profil): a program bármely kijelölt vonal mentén megrajzolja a magasság változását, így leolvasható a legmagasabb és legalacsonyabb pont, az emelkedők hossza és meredeksége.\n\nÉrtelmezésnél ugyanazokat a szabályokat használd, mint a hagyományos szintvonalas térképnél: kezdő- és végpont, csúcsok és mélyedések sorrendje, lejtőmeredekség. Ezeket a modelleket használják pl. útépítésnél, árvízvédelemben, túratervezésnél.",
+   "diagram": "contour-section",
+   "concepts": [
+    "tengerszint feletti magasság",
+    "abszolút és relatív magasság",
+    "földrajzi információs rendszer (GIS)"
+   ],
+   "processes": [],
+   "examTip": "A 3D felszínmodellek gyakran túlmagasítottak – a hegyek ezért meredekebbnek látszanak a valóságosnál. A konkrét értékeket mindig a tengelyekről olvasd le.",
+   "selfCheck": [
+    {
+     "q": "Mi a digitális domborzatmodell alapja?",
+     "a": "Sok pont tárolt magassági adata."
+    },
+    {
+     "q": "Mire használható egy magassági profil?",
+     "a": "Egy útvonal mentén a magasságváltozás, a csúcsok és emelkedők leolvasására."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A 3D felszínmodell gyakran túlmagasítva mutatja a domborzatot.",
+     "true": true
+    },
+    {
+     "statement": "A számítógépes felszínmodellről nem lehet magassági adatot leolvasni.",
+     "true": false,
+     "correction": "A modellek pontos magassági adatokra épülnek, ezért egy pont magassága vagy egy profil leolvasható róluk."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-3-taverzekeles-es-terinformatika--k1",
+   "explanation": "A távérzékelés azt jelenti, hogy egy tárgyról közvetlen érintkezés nélkül, távolból gyűjtünk információt. Legfontosabb eszközei a repülőgépről készült légifelvételek és a műholdakról készült űrfelvételek.\n\nFelhasználásuk:\n- térképkészítés és -frissítés (utak, települések, partvonalak);\n- időjárás-előrejelzés (felhőzet, ciklonok mozgása);\n- mezőgazdaság (vetésterületek, aszály, növényzet állapota);\n- környezetvédelem (erdőirtás, olajszennyezés, gleccserek visszahúzódása);\n- katasztrófavédelem (árvíz, erdőtűz, vulkánkitörés nyomon követése);\n- településtervezés, régészet, ásványkincs-kutatás.\n\nA légifelvétel kisebb területet, de részletesebben mutat; az űrfelvétel hatalmas területet fog át, és rendszeresen ismételhető, így a változások is jól követhetők. Előnyük, hogy nehezen megközelíthető helyekről is adatot adnak.",
+   "diagram": null,
+   "concepts": [
+    "távérzékelés",
+    "légi és űrfelvétel",
+    "műhold"
+   ],
+   "processes": [],
+   "examTip": "Ha példát kérnek a felhasználásra, konkrétan fogalmazz (pl. „az Amazonas-medence erdőirtásának nyomon követése”), ne csak annyit írj: „környezetvédelem”.",
+   "selfCheck": [
+    {
+     "q": "Mi a távérzékelés?",
+     "a": "Információszerzés közvetlen érintkezés nélkül, távolból (repülőgépről, műholdról)."
+    },
+    {
+     "q": "Miért alkalmasak az űrfelvételek változások követésére?",
+     "a": "Mert ugyanarról a területről rendszeresen, ismételten készülnek."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az időjárási műholdak felvételei segítik az időjárás előrejelzését.",
+     "true": true
+    },
+    {
+     "statement": "A légifelvétel általában nagyobb területet fog át, mint az űrfelvétel.",
+     "true": false,
+     "correction": "Az űrfelvétel fog át nagyobb területet; a légifelvétel kisebb területet, de általában részletesebben mutat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-3-taverzekeles-es-terinformatika--k2",
+   "explanation": "Ennél a feladattípusnál egy légi- vagy űrfelvételt kell összevetned egy térképpel vagy térképvázlattal, és azonosítanod rajta a környezeti elemeket.\n\nMire figyelj?\n- Vizek: valós színes felvételen sötétkék vagy fekete, kanyargós folyók, tavak; a hordalékos víz barnás.\n- Növényzet: zöld (valós színes) vagy vörös (hamis színes felvételen, mert a növényzet erősen veri vissza az infravörös sugárzást).\n- Települések: szürkés, szabályos mintázat, utcahálózat.\n- Mezőgazdasági területek: szabályos, különböző színű táblák „foltvarrás”-szerű mintázata.\n- Hegyvidék: árnyékos és napos lejtők, hó a csúcsokon; sivatag: világos, sárgásbarna terület.\n- Utak, vasutak: egyenes vagy enyhén ívelt vonalak.\n\nMódszer: keress biztos „kapaszkodót” (pl. egy jellegzetes folyókanyart, tavat, partvonalat), ehhez igazítsd a térképet, majd onnan haladva azonosítsd a többi elemet. Ellenőrizd a felvétel északi irányát és méretarányát!",
+   "diagram": null,
+   "concepts": [
+    "légi és űrfelvétel",
+    "valós színes és hamis színes felvétel",
+    "távérzékelés"
+   ],
+   "processes": [],
+   "examTip": "Hamis színes felvételen a vörös szín növényzetet jelent, nem tüzet vagy kopár talajt – ez gyakori csapda.",
+   "selfCheck": [
+    {
+     "q": "Milyen színű a növényzet a hamis színes felvételen?",
+     "a": "Vörös."
+    },
+    {
+     "q": "Mit érdemes először azonosítani egy űrfelvételen?",
+     "a": "Egy jellegzetes, biztosan felismerhető elemet, pl. folyókanyart, tavat, partvonalat."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A szabályos alakú, eltérő színű foltok általában mezőgazdasági táblákat jelölnek.",
+     "true": true
+    },
+    {
+     "statement": "Az űrfelvételen a víz mindig világoskék színű.",
+     "true": false,
+     "correction": "A tiszta, mély víz sötétkék vagy fekete, a hordalékos víz barnás; a szín a felvétel típusától is függ."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-3-taverzekeles-es-terinformatika--k3",
+   "explanation": "Ha ugyanarról a területről különböző időpontokban készült térképeket vagy műholdfelvételeket vetsz össze, a változásokat és az azokat okozó folyamatokat ismerheted fel.\n\nTipikus változások:\n- erdőirtás (pl. az Amazonas-medencében az erdő „halszálkás” mintázatú visszaszorulása az utak mentén);\n- gleccserek visszahúzódása, a sarki tengeri jég kiterjedésének csökkenése;\n- tavak zsugorodása (pl. az Aral-tó kiszáradása az öntözés miatt);\n- városok terjeszkedése, új utak, gátak, víztározók;\n- folyók medrének, deltájának változása, partvonal-eltolódás;\n- árvíz, erdőtűz, vulkánkitörés által érintett terület.\n\nMódszer:\n- nézd meg a felvételek dátumát és méretarányát;\n- keress azonos viszonyítási pontokat;\n- írd le, mi változott (nagyság, irány, mérték);\n- vonj le következtetést: mi okozta (természeti vagy emberi hatás), és milyen következményei vannak.",
+   "diagram": null,
+   "concepts": [
+    "légi és űrfelvétel",
+    "műhold",
+    "távérzékelés"
+   ],
+   "processes": [],
+   "examTip": "A „vonjon le következtetést” utasításnál ne állj meg a leírásnál: nevezd meg az okot (pl. öntözés, erdőirtás, éghajlatváltozás) és a következményt is.",
+   "selfCheck": [
+    {
+     "q": "Milyen emberi tevékenység okozta az Aral-tó zsugorodását?",
+     "a": "A tápláló folyók vizének öntözésre való elvezetése."
+    },
+    {
+     "q": "Mi az első lépés két felvétel összehasonlításánál?",
+     "a": "A dátumok és a méretarány ellenőrzése, közös viszonyítási pont keresése."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Műholdfelvételek sorozatával a gleccserek visszahúzódása is kimutatható.",
+     "true": true
+    },
+    {
+     "statement": "Két eltérő méretarányú felvétel átszámítás nélkül összevethető a területek nagysága szempontjából.",
+     "true": false,
+     "correction": "Előbb a méretarányt kell egyeztetni, különben a méretek összehasonlítása hibás."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-3-taverzekeles-es-terinformatika--k4",
+   "explanation": "A globális helymeghatározó rendszer (GPS) a Föld körül keringő műholdak hálózatára épül. A műholdak folyamatosan sugároznak rádiójeleket, amelyek pontos időjelet és a műhold helyzetét tartalmazzák.\n\nMűködési elv:\n- a vevőkészülék (pl. telefon) méri, mennyi idő alatt ért hozzá a jel az egyes műholdakról;\n- ebből kiszámítja a műholdaktól való távolságát;\n- legalább négy műhold jele kell a térbeli helyzet (szélesség, hosszúság, magasság) és a vevő órájának pontos meghatározásához.\n\nJelentősége:\n- közlekedés és navigáció (autó, hajó, repülő);\n- térképezés, földmérés, terepi adatgyűjtés;\n- mezőgazdaság (precíziós gazdálkodás), logisztika;\n- mentés, katasztrófavédelem, túrázás;\n- tudományos mérések, pl. a kőzetlemezek elmozdulásának mérése.\n\nA GPS az Egyesült Államok rendszere; hasonló az európai Galileo és az orosz GLONASS.",
+   "diagram": null,
+   "concepts": [
+    "globális helymeghatározó rendszer (GPS)",
+    "műhold"
+   ],
+   "processes": [],
+   "examTip": "A GPS nem a műholdak „fényképe” alapján működik, hanem a rádiójelek futási idejéből számolt távolságokból – ezt a vizsgán érdemes pontosan megfogalmazni.",
+   "selfCheck": [
+    {
+     "q": "Legalább hány műhold jele szükséges a pontos térbeli helymeghatározáshoz?",
+     "a": "Négy."
+    },
+    {
+     "q": "Mit mér a GPS-vevő?",
+     "a": "A műholdakról érkező jelek futási idejét, ebből a távolságot."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A GPS segítségével a kőzetlemezek elmozdulása is mérhető.",
+     "true": true
+    },
+    {
+     "statement": "A GPS-vevő jeleket küld a műholdaknak, és azok számolják ki a helyzetét.",
+     "true": false,
+     "correction": "A vevő csak fogadja a műholdak jeleit, és maga számolja ki a helyzetét."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-3-taverzekeles-es-terinformatika--e1",
+   "explanation": "A műholdak érzékelői a felszínről érkező elektromágneses sugárzást rögzítik, nemcsak a látható fény, hanem pl. az infravörös tartományában is.\n\nA távérzékelés módja szerint:\n- Passzív távérzékelés: a műhold a felszín által visszavert napfényt vagy a kibocsátott hősugárzást érzékeli. Ilyenek a látható és infravörös felvételek; a látható fényben készülőket a felhőzet és az éjszaka akadályozza.\n- Aktív távérzékelés: a műhold maga bocsát ki jelet (pl. radar), és a visszavert jelet méri. Felhőn át és éjjel is működik, domborzatmodellt is készítenek vele.\n\nA felvétel színe szerint:\n- Valós színes felvétel: úgy látjuk, ahogy a szemünk látná (növényzet zöld, víz kék).\n- Hamis színes felvétel: láthatatlan sávot (pl. közeli infravöröst) is megjelenít; az egészséges növényzet élénkvörös, ami jól mutatja a növényzet állapotát.\n\nFontos jellemző a felbontóképesség: a legkisebb még megkülönböztethető részlet mérete a felszínen. Minél jobb a felbontóképesség, annál kisebb részletek látszanak.",
+   "diagram": null,
+   "concepts": [
+    "passzív és aktív távérzékelés",
+    "valós színes és hamis színes felvétel",
+    "felbontóképesség",
+    "műhold"
+   ],
+   "processes": [],
+   "examTip": "Ha a kérdés azt kéri, melyik módszerrel lehet felhős időben is felvételt készíteni, az aktív (radaros) távérzékelés a válasz.",
+   "selfCheck": [
+    {
+     "q": "Mi a különbség a passzív és az aktív távérzékelés között?",
+     "a": "A passzív a természetes (visszavert vagy kisugárzott) sugárzást méri, az aktív saját jelet bocsát ki és annak visszaverődését méri."
+    },
+    {
+     "q": "Mit jelent a felbontóképesség?",
+     "a": "A felvételen még megkülönböztethető legkisebb részlet méretét."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A radaros távérzékelés aktív módszer.",
+     "true": true
+    },
+    {
+     "statement": "Hamis színes felvételen az egészséges növényzet kék színű.",
+     "true": false,
+     "correction": "Hamis színes felvételen az egészséges növényzet élénkvörös."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "1-3-taverzekeles-es-terinformatika--e2",
+   "explanation": "A földrajzi információs rendszer (GIS) olyan számítógépes rendszer, amely helyhez kötött (térbeli) adatokat gyűjt, tárol, elemez és megjelenít.\n\nLényege, hogy minden adat földrajzi helyhez kapcsolódik, és az információ rétegekben tárolódik: pl. egy réteg a domborzat, egy a vízhálózat, egy az úthálózat, egy a népesség, egy a talaj. A rétegek egymásra helyezhetők, összevethetők, és belőlük új következtetések vonhatók le.\n\nMire használják?\n- településtervezés, közlekedésszervezés (pl. útvonaltervezés, tömegközlekedés);\n- környezetvédelem, természetvédelmi területek kezelése;\n- katasztrófavédelem (árvízveszélyes területek lehatárolása);\n- mezőgazdaság, erdőgazdálkodás, közművek nyilvántartása;\n- üzleti döntések (pl. hol nyíljon új bolt).\n\nAdatforrásai többek között a távérzékelés, a GPS-es terepi mérés és a statisztikai adatbázisok. A navigációs és online térképes alkalmazások is a GIS elvén működnek.",
+   "diagram": null,
+   "concepts": [
+    "földrajzi információs rendszer (GIS)",
+    "távérzékelés",
+    "globális helymeghatározó rendszer (GPS)"
+   ],
+   "processes": [],
+   "examTip": "A GIS lényegét a „térbeli adatok + adatbázis + rétegek elemzése” hármassal fogalmazd meg; a puszta „digitális térkép” meghatározás kevés.",
+   "selfCheck": [
+    {
+     "q": "Mit jelent, hogy a GIS rétegekben tárolja az adatokat?",
+     "a": "Az egyes témák (domborzat, vizek, utak stb.) külön rétegek, amelyek egymásra helyezhetők és együtt elemezhetők."
+    },
+    {
+     "q": "Mondj egy példát a GIS felhasználására!",
+     "a": "Árvízveszélyes területek lehatárolása vagy útvonaltervezés."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A GIS adatai mindig földrajzi helyhez kötöttek.",
+     "true": true
+    },
+    {
+     "statement": "A GIS csak térképek megjelenítésére alkalmas, elemzésre nem.",
+     "true": false,
+     "correction": "A GIS legfontosabb szerepe éppen a térbeli adatok elemzése és összevetése, nem csak a megjelenítés."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-1-a-vilagegyetem--k1",
+   "explanation": "A Tejútrendszer (Galaktika) az a csillagrendszer (galaxis), amelyhez a Naprendszerünk tartozik. Több százmilliárd csillagból, valamint gázból és porból áll.\n\nAlakja és mérete:\n- felülről nézve küllős spirálgalaxis: a középső, csillagokban gazdag dudorból spirálkarok indulnak ki;\n- oldalról nézve lapos korong, közepén megvastagodással;\n- átmérője kb. 100 000 fényév.\n\nA Naprendszer helyzete:\n- a központtól nagyjából 26 000 fényévre, vagyis a peremhez közelebb;\n- a korong fősíkjának közelében, az egyik spirálkarban;\n- a Nap a Tejútrendszer központja körül kering, egy fordulat kb. 200–250 millió év.\n\nA tiszta éjszakai égen látható halvány fénysáv, a Tejút azért látszik sávnak, mert a korong síkjában, belülről, „élével” látunk rá a galaxisunkra.",
+   "diagram": null,
+   "concepts": [
+    "Tejútrendszer (Galaktika, Galaxis)",
+    "csillagrendszer (galaxis)",
+    "Naprendszer",
+    "fényév"
+   ],
+   "processes": [],
+   "examTip": "Gyakori hiba, hogy a Naprendszert a Tejútrendszer középpontjába helyezik. A Nap a peremhez közelebb, a fősík közelében, egy spirálkarban található.",
+   "selfCheck": [
+    {
+     "q": "Milyen alakú a Tejútrendszer?",
+     "a": "Küllős spirálgalaxis, oldalról lapos korong."
+    },
+    {
+     "q": "Mekkora a Tejútrendszer átmérője?",
+     "a": "Kb. 100 000 fényév."
+    },
+    {
+     "q": "Miért látjuk sávnak a Tejutat az égen?",
+     "a": "Mert a korong síkjában, belülről látunk rá."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nap a Tejútrendszer egyik spirálkarjában helyezkedik el.",
+     "true": true
+    },
+    {
+     "statement": "A Naprendszer a Tejútrendszer középpontjában található.",
+     "true": false,
+     "correction": "A Naprendszer a központtól kb. 26 000 fényévre, a peremhez közelebb fekszik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-1-a-vilagegyetem--k2",
+   "explanation": "A csillagászatban olyan óriási távolságokkal és időtartamokkal dolgozunk, hogy külön mértékegységeket használunk.\n\nTérbeli nagyságrendek:\n- csillagászati egység (CSE): a Föld–Nap középtávolság, kb. 150 millió km. A Naprendszeren belüli távolságokra használjuk (pl. a Neptunusz kb. 30 CSE-re van a Naptól).\n- fényév: az a távolság, amelyet a fény egy év alatt megtesz, kb. 9,5 billió km (a fény sebessége kb. 300 000 km/s). Csillagok, galaxisok távolságára használjuk.\n\nÖsszehasonlítás: a Nap fénye kb. 8 perc alatt ér a Földre, a Holdról visszavert fény kb. 1 másodperc alatt. A legközelebbi csillag (a Proxima Centauri) kb. 4,2 fényévre van, a Tejútrendszer átmérője kb. 100 000 fényév.\n\nIdőbeli nagyságrendek:\n- a Világegyetem kora kb. 13,8 milliárd év;\n- a Naprendszer és a Föld kora kb. 4,6 milliárd év.\n\nA sorrend kicsitől nagyig: Föld–Hold rendszer → Naprendszer → Tejútrendszer → galaxishalmazok → Világegyetem.",
+   "diagram": null,
+   "concepts": [
+    "fényév",
+    "csillagászati egység (CSE)",
+    "Világegyetem (Univerzum)",
+    "Naprendszer"
+   ],
+   "processes": [],
+   "examTip": "A fényév TÁVOLSÁG-, nem időegység! Ezt a vizsga szívesen kérdezi igaz–hamis formában.",
+   "selfCheck": [
+    {
+     "q": "Mekkora 1 csillagászati egység?",
+     "a": "Kb. 150 millió km, a Föld–Nap középtávolság."
+    },
+    {
+     "q": "Mennyi idő alatt ér a Nap fénye a Földre?",
+     "a": "Kb. 8 perc alatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Világegyetem kora kb. 13,8 milliárd év.",
+     "true": true
+    },
+    {
+     "statement": "A fényév az az idő, amely alatt a fény a Napból a Földre ér.",
+     "true": false,
+     "correction": "A fényév távolságegység: a fény által egy év alatt megtett út, kb. 9,5 billió km."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-1-a-vilagegyetem--k3",
+   "explanation": "A csillag és a bolygó alapvetően különböző égitest.\n\nCsillag:\n- izzó gázgömb (plazma), saját fénye van;\n- belsejében magfúzió zajlik: hidrogénből hélium keletkezik, közben óriási energia szabadul fel;\n- nagy tömegű, magas hőmérsékletű;\n- példa: a Nap, a Sarkcsillag.\n\nBolygó:\n- csillag körül kering, nincs saját fénye, a csillag fényét veri vissza;\n- belsejében nincs magfúzió;\n- tömege elég nagy ahhoz, hogy közel gömb alakú legyen, és pályája környezetét „kitakarítsa”;\n- példa: a Föld, a Mars, a Jupiter.\n\nAz égen is megkülönböztetheted őket: a csillagok egymáshoz viszonyított helyzete emberi léptékben alig változik, a bolygók viszont hétről hétre elmozdulnak a csillagok között (a „bolygó” szó is erre a bolyongásra utal). A bolygók fénye kevésbé szikrázik, mint a csillagoké.",
+   "diagram": null,
+   "concepts": [
+    "csillag",
+    "bolygó",
+    "Nap",
+    "magfúzió (termonukleáris folyamat)"
+   ],
+   "processes": [],
+   "examTip": "Tipikus kérdés: „Miért csillag a Nap és miért bolygó a Föld?” – a válasz kulcsa a saját fény és a magfúzió megléte vagy hiánya.",
+   "selfCheck": [
+    {
+     "q": "Mi a csillagok energiaforrása?",
+     "a": "A magfúzió (hidrogénből hélium keletkezik)."
+    },
+    {
+     "q": "Miért látjuk a bolygókat az égen?",
+     "a": "Mert visszaverik a Nap fényét."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nap egy közepes méretű csillag.",
+     "true": true
+    },
+    {
+     "statement": "A Vénusz saját fénnyel világít, ezért olyan fényes az égen.",
+     "true": false,
+     "correction": "A Vénusz bolygó, nincs saját fénye; a Nap fényét veri vissza, közelsége és fényes felhőzete miatt látszik ragyogónak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-1-a-vilagegyetem--k4",
+   "explanation": "A csillagkép az égbolt egy része, amelyben a csillagokat képzeletben alakzattá kötjük össze. A csillagképek látszólagosak: a bennük szereplő csillagok a valóságban nincsenek egymás közelében, tőlünk is nagyon különböző távolságra vannak. Csak a Földről nézve esnek egy irányba, mintha egy síkban lennének.\n\nEbből következik:\n- a csillagképek alakja csak a Földről nézve ilyen; a Világegyetem egy másik pontjáról egészen más alakzatokat látnánk;\n- a csillagkép csillagai nem alkotnak valódi fizikai csoportot.\n\nPéldák:\n- Nagy Göncöl (a Nagy Medve csillagkép része): hét fényes csillagból álló „szekér”; a kocsi hátsó két csillagát összekötő szakaszt kb. ötszörösére meghosszabbítva a Sarkcsillaghoz jutsz.\n- Kis Göncöl: rúdjának végén van a Sarkcsillag, amely közel az északi égi pólus irányában látszik.\n- További ismert csillagképek: Orion, Kassziopeia, az állatövi csillagképek (pl. Oroszlán, Skorpió).",
+   "diagram": null,
+   "concepts": [
+    "csillagkép",
+    "Nagy Göncöl",
+    "Kis Göncöl",
+    "Sarkcsillag"
+   ],
+   "processes": [],
+   "examTip": "Ha azt kérdezik, miért „látszólagos” a csillagkép, a kulcs: a csillagai különböző távolságban vannak tőlünk, csak egy irányba esnek.",
+   "selfCheck": [
+    {
+     "q": "Melyik csillagképben van a Sarkcsillag?",
+     "a": "A Kis Göncölben (a Kis Medvében), a rúd végén."
+    },
+    {
+     "q": "Miért látszólagosak a csillagképek?",
+     "a": "Mert a csillagai különböző távolságra vannak, csak a Földről nézve látszanak egy alakzatnak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nagy Göncöl segítségével megtalálható a Sarkcsillag.",
+     "true": true
+    },
+    {
+     "statement": "Egy csillagkép csillagai egymáshoz közel, azonos távolságban vannak a Földtől.",
+     "true": false,
+     "correction": "A csillagkép csillagai a Földtől nagyon eltérő távolságban vannak, csak egy irányban látszanak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-1-a-vilagegyetem--e1",
+   "explanation": "A legszélesebb körben elfogadott elmélet az ősrobbanás-elmélet. Eszerint a Világegyetem kb. 13,8 milliárd évvel ezelőtt egy rendkívül forró, sűrű állapotból kezdett tágulni, és azóta is tágul és hűl.\n\nA folyamat főbb lépései:\n- a tágulás kezdetén keletkeztek az elemi részecskék, majd a legkönnyebb elemek (főleg hidrogén és hélium);\n- a lehűlés után a gáz gravitáció hatására sűrűsödött: csillagok, galaxisok jöttek létre;\n- a nehezebb elemek a csillagok belsejében, illetve robbanásaik során keletkeztek – a Föld anyaga is korábbi csillagok „hamvaiból” származik.\n\nBizonyítékai:\n- a távoli galaxisok távolodnak tőlünk, mégpedig minél messzebb vannak, annál gyorsabban (vöröseltolódás) – ez a tágulás jele;\n- a kozmikus háttérsugárzás: az egész égboltról egyenletesen érkező sugárzás, a korai forró állapot „maradványa”;\n- a hidrogén és a hélium megfigyelt aránya.",
+   "diagram": null,
+   "concepts": [
+    "ősrobbanás",
+    "Világegyetem (Univerzum)",
+    "csillagrendszer (galaxis)"
+   ],
+   "processes": [],
+   "examTip": "Az ősrobbanás nem egy pontban, a térben bekövetkezett robbanás, hanem maga a tér tágulásának kezdete. A vizsgán a tágulást és a két fő bizonyítékot (galaxisok távolodása, háttérsugárzás) érdemes megemlíteni.",
+   "selfCheck": [
+    {
+     "q": "Mikor kezdődött a Világegyetem tágulása?",
+     "a": "Kb. 13,8 milliárd évvel ezelőtt."
+    },
+    {
+     "q": "Nevezz meg két bizonyítékot az ősrobbanás-elméletre!",
+     "a": "A galaxisok távolodása (vöröseltolódás) és a kozmikus háttérsugárzás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az ősrobbanás-elmélet szerint a Világegyetem ma is tágul.",
+     "true": true
+    },
+    {
+     "statement": "Az ősrobbanáskor rögtön kialakultak a mai galaxisok és bolygók.",
+     "true": false,
+     "correction": "Előbb a könnyű elemek keletkeztek; a csillagok és galaxisok csak később, a gáz gravitációs összesűrűsödésével jöttek létre."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-1-a-vilagegyetem--e2",
+   "explanation": "A bolygók mozgását Johannes Kepler három törvénye írja le.\n\n1. törvény: a bolygók ellipszis alakú pályán keringenek, amelynek egyik gyújtópontjában (fókuszában) a Nap áll. Ezért a bolygó Naptól mért távolsága változik: van napközelpontja és naptávolpontja.\n\n2. törvény: a bolygót a Nappal összekötő szakasz (vezérsugár) egyenlő idők alatt egyenlő területeket súrol. Következmény: napközelben a bolygó gyorsabban, naptávolban lassabban halad. A Föld január elején van napközelben, ezért az északi félgömb téli félévében kicsit gyorsabban kering, így ott a tél rövidebb, mint a nyár.\n\n3. törvény: a keringési idő négyzete arányos a pálya fél nagytengelyének (közepes naptávolságának) köbével. Következmény: minél távolabb van egy bolygó a Naptól, annál hosszabb a keringési ideje (a Merkúré kb. 88 nap, a Neptunuszé kb. 165 év).\n\nA bolygókat a Nap tömegvonzása tartja pályán.",
+   "diagram": null,
+   "concepts": [
+    "a bolygók mozgástörvényei",
+    "Johannes Kepler",
+    "Nap körüli keringés"
+   ],
+   "processes": [],
+   "examTip": "Ne keverd: az évszakokat nem a Naptól mért távolság változása, hanem a tengelyferdeség okozza. A napközel csak a keringési sebességet befolyásolja (a Föld éppen az északi télen van napközelben).",
+   "selfCheck": [
+    {
+     "q": "Milyen alakú a bolygók pályája?",
+     "a": "Ellipszis, egyik fókuszában a Nap."
+    },
+    {
+     "q": "Hol halad gyorsabban a bolygó a pályáján?",
+     "a": "Napközelben."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Naptól távolabbi bolygók keringési ideje hosszabb.",
+     "true": true
+    },
+    {
+     "statement": "Kepler 2. törvénye szerint a bolygó a pályája minden pontján ugyanolyan sebességgel halad.",
+     "true": false,
+     "correction": "A vezérsugár egyenlő idők alatt egyenlő területet súrol, ezért a bolygó napközelben gyorsabb, naptávolban lassabb."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k1",
+   "explanation": "A Naprendszer központi csillaga a Nap, amely a rendszer tömegének túlnyomó részét (kb. 99,8%-át) adja. Körülötte keringenek a kísérői:\n\n- Nagybolygók (8 db): Merkúr, Vénusz, Föld, Mars (kőzetbolygók) és Jupiter, Szaturnusz, Uránusz, Neptunusz (gázbolygók).\n- Törpebolygók: közel gömb alakúak, de pályájuk környezetét nem tisztították meg, pl. a Plútó.\n- Holdak: bolygók (vagy törpebolygók, kisbolygók) körül keringő kísérők, pl. a Hold.\n- Kisbolygók (aszteroidák): szabálytalan alakú kőzet- és fémtestek, többségük a Mars és a Jupiter pályája között, a kisbolygóövben kering.\n- Üstökösök: jégből és porból álló kis égitestek, erősen elnyúlt pályán; a Nap közelében csóvát növesztenek.\n- Bolygóközi anyag: gáz, por, meteoroidok és a Napból áramló részecskék (napszél).\n\nMinden kísérőt a Nap tömegvonzása tart pályán; a nagybolygók közel egy síkban és azonos irányban keringenek.",
+   "diagram": null,
+   "concepts": [
+    "nagybolygó",
+    "törpebolygó",
+    "kisbolygó (aszteroida)",
+    "üstökös",
+    "bolygóközi anyag",
+    "hold"
+   ],
+   "processes": [],
+   "examTip": "A Plútó 2006 óta nem nagybolygó, hanem törpebolygó. Ha a nagybolygókat kell felsorolni Naptól kifelé, nyolcat írj!",
+   "selfCheck": [
+    {
+     "q": "Hol található a kisbolygóöv?",
+     "a": "A Mars és a Jupiter pályája között."
+    },
+    {
+     "q": "Milyen égitest a Plútó?",
+     "a": "Törpebolygó."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Naprendszer tömegének túlnyomó része a Napban összpontosul.",
+     "true": true
+    },
+    {
+     "statement": "A Naprendszernek kilenc nagybolygója van.",
+     "true": false,
+     "correction": "Nyolc nagybolygó van; a Plútót 2006 óta a törpebolygók közé sorolják."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k2",
+   "explanation": "A Nap a Naprendszer központi csillaga, egy közepes méretű, középkorú csillag.\n\n- Átmérője: kb. 1,4 millió km, ez kb. 109-szerese a Föld átmérőjének.\n- Távolsága a Földtől: átlagosan kb. 150 millió km (1 csillagászati egység); fénye kb. 8 perc alatt ér hozzánk.\n- Anyagi összetétele: főleg hidrogén (tömegének kb. háromnegyede) és hélium (kb. egynegyede), kevés nehezebb elem. Anyaga plazma állapotú.\n- Hőmérséklete: a belsejében, a magban kb. 15 millió °C; a látható felszínén (fotoszféra) kb. 5500 °C; a külső légköre, a napkorona viszont több millió °C-os.\n\nEnergiáját a magjában zajló magfúzió termeli: hidrogénatommagok egyesülnek héliummá, és a tömeghiány energiává alakul. Ez az energia sugárzás formájában jut ki a világűrbe, ennek csak kis része éri el a Földet.",
+   "diagram": null,
+   "concepts": [
+    "Nap",
+    "plazma",
+    "magfúzió (termonukleáris folyamat)",
+    "csillagászati egység (CSE)"
+   ],
+   "processes": [],
+   "examTip": "Ne cseréld fel a hőmérsékleteket: a felszín (fotoszféra) kb. 5500 °C, a mag kb. 15 millió °C. Az „égés” szó helyett mindig magfúziót írj!",
+   "selfCheck": [
+    {
+     "q": "Hányszorosa a Nap átmérője a Földének?",
+     "a": "Kb. 109-szerese."
+    },
+    {
+     "q": "Melyik két elem alkotja túlnyomórészt a Napot?",
+     "a": "A hidrogén és a hélium."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nap átlagos távolsága a Földtől kb. 150 millió km.",
+     "true": true
+    },
+    {
+     "statement": "A Nap energiáját a hidrogén elégése, azaz oxigénnel való egyesülése termeli.",
+     "true": false,
+     "correction": "Az energiát magfúzió termeli: hidrogénatommagok egyesülnek héliummá; ez nem kémiai égés."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k3",
+   "explanation": "A Nap a földi élet alapfeltétele és a legtöbb földi folyamat energiaforrása.\n\n- Fény és fotoszintézis: a zöld növények a napfény energiájával szerves anyagot és oxigént állítanak elő – erre épül szinte minden tápláléklánc.\n- Hő: a napsugárzás melegíti fel a felszínt és a levegőt; a Föld kedvező naptávolsága miatt a víz nagy része folyékony lehet.\n- Légkörzés és időjárás: az egyenlőtlen felmelegedés hoz létre légnyomás-különbségeket, szeleket, ciklonokat.\n- Víz körforgása: a párolgás energiáját is a Nap adja, így a csapadék és a folyók vízjárása is tőle függ.\n- Éghajlati övezetek és évszakok: ezeket a napsugarak hajlásszöge és a megvilágítás időtartama határozza meg.\n- Napi és évi ritmus: a nappalok és éjszakák, az évszakok váltakozása az élőlények életritmusát is szabályozza.\n- Energiahordozók: a fosszilis tüzelőanyagok egykori élőlények által megkötött napenergiát tárolnak; a szél- és vízenergia is közvetve napenergia.\n\nA légkör ózonrétege és a Föld mágneses tere közben véd a káros sugárzástól és a napszéltől.",
+   "diagram": "solar-angle",
+   "concepts": [
+    "Nap",
+    "Föld"
+   ],
+   "processes": [
+    "uveghazhatas"
+   ],
+   "examTip": "Vizsgán érdemes kiemelni, hogy a szél-, a víz- és a fosszilis energia is közvetve napenergia – ezt gyakran kérdezik.",
+   "selfCheck": [
+    {
+     "q": "Melyik élő folyamat közvetlenül a napfényre épül?",
+     "a": "A fotoszintézis."
+    },
+    {
+     "q": "Miért közvetett napenergia a szélenergia?",
+     "a": "Mert a szelet a Nap okozta egyenlőtlen felmelegedés hozza létre."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A víz körforgását a napenergia tartja mozgásban.",
+     "true": true
+    },
+    {
+     "statement": "A geotermikus energia közvetett napenergia.",
+     "true": false,
+     "correction": "A geotermikus energia a Föld belső hőjéből származik, nem a Napból."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k4",
+   "explanation": "Sorrend a Naptól kifelé: Merkúr, Vénusz, Föld, Mars | Jupiter, Szaturnusz, Uránusz, Neptunusz. A két csoportot a kisbolygóöv választja el.\n\nFöld-típusú (kőzet)bolygók – Merkúr, Vénusz, Föld, Mars:\n- kis méret, nagy sűrűség, szilárd kőzetfelszín, fémes mag;\n- kevés holdjuk van vagy egy sincs (Merkúr és Vénusz: 0, Föld: 1, Mars: 2);\n- gyűrűrendszerük nincs.\n\nJupiter-típusú (gáz)bolygók – Jupiter, Szaturnusz, Uránusz, Neptunusz:\n- nagy méret és tömeg, kis sűrűség (a Szaturnuszé kisebb a vízénél);\n- főleg hidrogénből és héliumból állnak, nincs szilárd felszínük;\n- sok holdjuk és gyűrűrendszerük van (a Szaturnuszé a leglátványosabb);\n- gyorsan forognak.\n\nEgyedi jellemzők:\n- Merkúr: a legkisebb és legbelső bolygó, szélsőséges hőingás;\n- Vénusz: sűrű, szén-dioxidos légkör, erős üvegházhatás, ezért a legforróbb; forgása fordított irányú;\n- Mars: vörös színű (vas-oxid), ritka légkör, sarki jégsapkák;\n- Jupiter: a legnagyobb, Nagy Vörös Folt;\n- Uránusz: forgástengelye szinte a pályasíkban „fekszik”.",
+   "diagram": null,
+   "concepts": [
+    "kőzetbolygó (Föld-típusú bolygó)",
+    "gázbolygó (Jupiter-típusú bolygó)",
+    "gyűrűrendszer",
+    "Vénusz",
+    "Jupiter",
+    "Szaturnusz"
+   ],
+   "processes": [],
+   "examTip": "Gyakori kérdés: miért a Vénusz a legforróbb bolygó, ha nem az van a legközelebb a Naphoz? Válasz: sűrű szén-dioxidos légköre miatti erős üvegházhatás.",
+   "selfCheck": [
+    {
+     "q": "Sorold fel a kőzetbolygókat a Naptól kifelé!",
+     "a": "Merkúr, Vénusz, Föld, Mars."
+    },
+    {
+     "q": "Melyik bolygócsoportnak van gyűrűrendszere?",
+     "a": "A gázbolygóknak (Jupiter-típusú bolygóknak)."
+    },
+    {
+     "q": "Melyik a legnagyobb bolygó?",
+     "a": "A Jupiter."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A gázbolygóknak sok holdjuk van.",
+     "true": true
+    },
+    {
+     "statement": "A Merkúr a legmelegebb felszínű bolygó, mert az van a legközelebb a Naphoz.",
+     "true": false,
+     "correction": "A legmelegebb felszínű bolygó a Vénusz, sűrű szén-dioxidos légkörének üvegházhatása miatt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k5",
+   "explanation": "A Hold a Föld egyetlen természetes kísérője, átlagosan kb. 384 000 km-re kering tőlünk.\n\nMozgásai:\n- Kering a Föld körül, a Föld forgásával megegyező irányban (nyugatról keletre).\n- Tengely körüli forgásának ideje megegyezik a keringési idejével (kötött tengelyforgás). Ezért a Hold mindig ugyanazt az oldalát fordítja felénk; a túlsó oldalát csak űrszondák fényképezték le.\n- A Földdel együtt kering a Nap körül.\n\nIdőtartamok:\n- a csillagokhoz viszonyított keringési idő kb. 27,3 nap;\n- két azonos holdfázis (pl. két újhold) között eltelt idő kb. 29,5 nap. Ez azért hosszabb, mert közben a Föld is továbbhalad a Nap körül, így a Holdnak ezt az elmozdulást is „be kell hoznia”.\n\nA Hold naponta átlagosan kb. 50 perccel később kel. Pályasíkja kb. 5°-os szöget zár be a Föld pályasíkjával – ezért nincs minden hónapban fogyatkozás. A Hold tömegvonzása okozza a tengerjárás nagyobb részét.",
+   "diagram": "moon-phases",
+   "concepts": [
+    "Hold",
+    "hold",
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)"
+   ],
+   "processes": [
+    "holdfazisok",
+    "hold-mozgasa"
+   ],
+   "examTip": "Ha azt kérdezik, miért látjuk mindig a Hold ugyanazon oldalát, a válasz: a forgási és a keringési ideje egyenlő – nem az, hogy „nem forog”.",
+   "selfCheck": [
+    {
+     "q": "Miért látjuk mindig a Hold ugyanazt az oldalát?",
+     "a": "Mert tengely körüli forgásának ideje megegyezik a keringési idejével."
+    },
+    {
+     "q": "Mennyi idő telik el két újhold között?",
+     "a": "Kb. 29,5 nap."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Hold tömegvonzása a tengerjárás fő okozója.",
+     "true": true
+    },
+    {
+     "statement": "A Hold nem forog a tengelye körül, ezért látjuk mindig ugyanazt az oldalát.",
+     "true": false,
+     "correction": "A Hold forog, de forgási ideje egyenlő a keringési idejével (kötött tengelyforgás)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k6",
+   "explanation": "A Holdnak nincs saját fénye, a Nap fényét veri vissza. Mindig a Nap felé néző fele világos, de keringése során ebből a Földről hol többet, hol kevesebbet látunk – ezek a holdfázisok.\n\nA fő fázisok (a Föld északi félgömbjéről nézve):\n- Újhold: a Hold a Nap és a Föld között van, a megvilágítatlan oldalát fordítja felénk, nem látszik.\n- Első negyed: a korong jobb oldali fele világos.\n- Holdtölte (telihold): a Föld a Nap és a Hold között van (de általában nem pontosan egy vonalban), a teljes korong világos.\n- Utolsó negyed: a korong bal oldali fele világos.\n\nKözöttük: növekvő sarló, növekvő hold, fogyó hold, fogyó sarló. Egy teljes ciklus kb. 29,5 nap.\n\nFelismerési szabály (északi félgömb): ha a világos rész a „D” betűre hasonlít, a Hold dagad (nő); ha a „C” betűre, csökken (fogy). A déli félgömbön fordítva látjuk!\n\nA telihold napnyugtakor kel és egész éjjel látszik; az első negyed este a déli égen látható.",
+   "diagram": "moon-phases",
+   "concepts": [
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)",
+    "Hold"
+   ],
+   "processes": [
+    "holdfazisok"
+   ],
+   "examTip": "Ábrás feladatban először azonosítsd az újholdat (a Hold a Nap és a Föld között) és a holdtöltét (a Föld a Nap és a Hold között), a többi fázist ehhez képest, a keringés irányában (felülről nézve az óramutatóval ellentétesen) állapítsd meg.",
+   "selfCheck": [
+    {
+     "q": "Milyen holdfázis van, ha a Föld a Nap és a Hold között áll?",
+     "a": "Holdtölte (telihold)."
+    },
+    {
+     "q": "Milyen fázisban „C” alakú a Hold az északi félgömbről nézve?",
+     "a": "Fogyó fázisban (csökken)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Újholdkor a Hold a Nap és a Föld között helyezkedik el.",
+     "true": true
+    },
+    {
+     "statement": "A holdfázisokat a Föld árnyéka okozza, amely a Holdra vetül.",
+     "true": false,
+     "correction": "A holdfázisok azért jönnek létre, mert a Hold napsütötte feléből keringése során különböző részt látunk; a Föld árnyéka csak holdfogyatkozáskor vetül a Holdra."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k7",
+   "explanation": "Fogyatkozás akkor jön létre, ha a Nap, a Föld és a Hold közel egy egyenesbe kerül.\n\nNapfogyatkozás:\n- a Hold a Nap és a Föld közé kerül, árnyéka a Földre esik;\n- csak újholdkor lehetséges;\n- teljes napfogyatkozást csak a Hold teljes árnyékának keskeny sávjában látunk, a félárnyékban részlegest;\n- a teljes szakasz rövid (legfeljebb néhány perc), és a Földnek csak kis területéről látható.\n\nHoldfogyatkozás:\n- a Föld a Nap és a Hold közé kerül, a Hold a Föld árnyékába lép;\n- csak holdtöltekor lehetséges;\n- a Föld teljes éjszakai feléről látható, és órákig tart; a teljesen elfogyott Hold gyakran vörösesen dereng (a Föld légköre a vörös fényt az árnyékba téríti).\n\nMiért nincs minden hónapban fogyatkozás? Mert a Hold pályasíkja kb. 5°-kal hajlik a Föld pályasíkjához, így a Hold legtöbbször a Nap–Föld egyenes felett vagy alatt halad el. Fogyatkozás csak akkor lehet, ha újhold vagy telihold idején a Hold éppen a két pályasík metszésvonalának közelében jár.",
+   "diagram": "eclipse",
+   "concepts": [
+    "nap- és holdfogyatkozás",
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)",
+    "Hold"
+   ],
+   "processes": [
+    "fogyatkozasok"
+   ],
+   "examTip": "Kulcspár: napfogyatkozás – újhold, holdfogyatkozás – telihold. Ezt sokan felcserélik, pedig a vizsga szinte mindig rákérdez.",
+   "selfCheck": [
+    {
+     "q": "Melyik holdfázisban lehet napfogyatkozás?",
+     "a": "Újholdkor."
+    },
+    {
+     "q": "Miért látható a holdfogyatkozás nagyobb területről, mint a napfogyatkozás?",
+     "a": "Mert a Föld árnyékába került Hold az egész éjszakai félgömbről látszik, míg a Hold kis árnyéka csak keskeny sávot fed le a Földön."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Holdfogyatkozáskor a Föld a Nap és a Hold között van.",
+     "true": true
+    },
+    {
+     "statement": "Minden újholdkor napfogyatkozás van.",
+     "true": false,
+     "correction": "A Hold pályasíkja kb. 5°-kal hajlik a Föld pályasíkjához, ezért a legtöbb újholdkor a Hold árnyéka elkerüli a Földet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--k8",
+   "explanation": "Három, egymásra épülő fogalomról van szó – a különbség az, HOL van és MI a jelenség.\n\n- Meteoroid: a bolygóközi térben keringő kis szilárd test (kőzet- vagy fémdarab, porszem). Ez maga az égitest a világűrben.\n- Meteor: az a fényjelenség, amely akkor keletkezik, amikor a meteoroid nagy sebességgel a Föld légkörébe lép, a levegővel súrlódva felizzik és elpárolog. Köznapi nevén „hullócsillag”. A meteor tehát nem tárgy, hanem jelenség!\n- Meteorit: a meteoroidnak az a maradványa, amely nem ég el teljesen, és eléri a Föld felszínét. Összetétele szerint lehet kőmeteorit vagy vasmeteorit.\n\nA nagy meteoritok becsapódása meteoritkrátert hoz létre (pl. az arizonai Barringer-kráter). Ha a Föld egy üstökös pályája mentén szétszóródott anyagon halad át, meteorrajt figyelhetünk meg (pl. augusztusban a Perseidák).\n\nA légkör tehát pajzsként véd: a legtöbb meteoroid elég benne.",
+   "diagram": null,
+   "concepts": [
+    "meteoroid",
+    "meteor",
+    "meteorit",
+    "meteoritkráter",
+    "bolygóközi anyag"
+   ],
+   "processes": [],
+   "examTip": "Mnemonika: meteoroid – a térben repül; meteor – a légkörben ragyog; meteorit – a földön „itt” van. A „hullócsillag” nem csillag, hanem meteor.",
+   "selfCheck": [
+    {
+     "q": "Mi a meteor?",
+     "a": "A légkörbe lépő meteoroid felizzásakor keletkező fényjelenség."
+    },
+    {
+     "q": "Mi a meteorit?",
+     "a": "A felszínt elérő, el nem égett maradvány."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A hullócsillag a meteor köznapi neve.",
+     "true": true
+    },
+    {
+     "statement": "A meteor a Föld felszínére lehullott kőzetdarab.",
+     "true": false,
+     "correction": "A felszínre hullott darab a meteorit; a meteor a légkörben látható fényjelenség."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--e1",
+   "explanation": "A Nap gömbhéjas szerkezetű, belülről kifelé:\n\n- Mag: kb. 15 millió °C, itt zajlik a magfúzió (hidrogénből hélium).\n- Sugárzási öv: az energia sugárzással, nagyon lassan halad kifelé.\n- Áramlási öv: a forró plazma feláramlik, lehűlve visszasüllyed – az energia hőáramlással jut a felszín közelébe.\n- Fotoszféra: a Nap látható „felszíne”, kb. 5500 °C; itt látjuk a napfoltokat (a környezetüknél hűvösebb, ezért sötétebb területek).\n- Kromoszféra: vékony, vöröses színű légköri réteg.\n- Napkorona: a legkülső, ritka, több millió °C-os réteg; teljes napfogyatkozáskor látható.\n\nJelenségek és hatásuk a Földre:\n- Napkitörés: hirtelen, óriási energia- és anyagkidobódás.\n- Napszél: a koronából kiáramló töltött részecskék folyama.\n- A naptevékenység kb. 11 éves ciklusban erősödik és gyengül (napfoltszám).\n- Erős naptevékenységkor a töltött részecskék a Föld mágneses tere mentén a sarkvidékek felé terelődnek, és sarki fényt hoznak létre; zavarják a rádióadást, a műholdakat, a GPS-t, szélsőséges esetben az elektromos hálózatot.",
+   "diagram": null,
+   "concepts": [
+    "a Nap gömbhéjai (mag, sugárzási öv, áramlási öv, fotoszféra, kromoszféra, napkorona)",
+    "napfolt",
+    "napkitörés",
+    "napszél",
+    "sarki fény",
+    "naptevékenység"
+   ],
+   "processes": [],
+   "examTip": "A napfolt nem „kialudt” terület, csak a környezeténél kb. 1–2 ezer fokkal hűvösebb, ezért látszik sötétnek. A gömbhéjak sorrendjét belülről kifelé tanuld meg!",
+   "selfCheck": [
+    {
+     "q": "Melyik rétegben zajlik a magfúzió?",
+     "a": "A magban."
+    },
+    {
+     "q": "Hogyan keletkezik a sarki fény?",
+     "a": "A napszél töltött részecskéi a mágneses tér mentén a sarkvidékek felső légkörébe jutnak, és fényjelenséget keltenek."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A napkorona hőmérséklete magasabb, mint a fotoszféráé.",
+     "true": true
+    },
+    {
+     "statement": "A napfoltok a Nap legforróbb pontjai.",
+     "true": false,
+     "correction": "A napfoltok a fotoszféra környezetüknél hűvösebb, ezért sötétebbnek látszó területei."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--e2",
+   "explanation": "Az emelt szintű feladatokban gyakran kapsz táblázatot a bolygók adataival (naptávolság, átmérő, sűrűség, keringési és forgási idő, holdak száma, felszíni hőmérséklet). Ebből kell csoportosítanod és összefüggéseket megállapítanod.\n\nMit vizsgálj?\n- Sűrűség és méret: a nagy sűrűségű, kis átmérőjű bolygók a kőzetbolygók (Merkúr, Vénusz, Föld, Mars); a kis sűrűségű óriások a gázbolygók.\n- Naptávolság – keringési idő: minél távolabbi a bolygó, annál hosszabb a keringési ideje (Kepler 3. törvénye).\n- Naptávolság – hőmérséklet: általában távolodva csökken, de kivétel a Vénusz (üvegházhatás).\n- Holdak száma: a gázbolygóknak sok, a kőzetbolygóknak kevés vagy egy sincs.\n- Forgási idő: a gázbolygók gyorsan forognak (egy napjuk egy földi napnál rövidebb), a Vénusz nagyon lassan és fordított irányban.\n\nMódszer: rendezd az adatokat naptávolság szerint, keresd a „kilógó” értékeket, és mindig adj magyarázatot (légkör, összetétel, távolság). Ha az a kérdés, „melyik bolygó”, több adat együtt dönt.",
+   "diagram": null,
+   "concepts": [
+    "kőzetbolygó (Föld-típusú bolygó)",
+    "gázbolygó (Jupiter-típusú bolygó)",
+    "a bolygók mozgástörvényei",
+    "nagybolygó"
+   ],
+   "processes": [],
+   "examTip": "Táblázatos feladatban a Vénusz szokott a „csapda” lenni: messzebb van a Naptól, mint a Merkúr, mégis melegebb nála. Indokold az üvegházhatással!",
+   "selfCheck": [
+    {
+     "q": "Melyik adat alapján különíthetők el legjobban a kőzet- és gázbolygók?",
+     "a": "A sűrűség (és az átmérő) alapján."
+    },
+    {
+     "q": "Milyen összefüggés van a naptávolság és a keringési idő között?",
+     "a": "Minél távolabbi a bolygó, annál hosszabb a keringési ideje."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A gázbolygók forgási ideje rövidebb, mint a Földé.",
+     "true": true
+    },
+    {
+     "statement": "A bolygók felszíni hőmérséklete kivétel nélkül a naptávolsággal arányosan csökken.",
+     "true": false,
+     "correction": "A Vénusz kivétel: sűrű légköre miatt melegebb a Merkúrnál is."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--e3",
+   "explanation": "A Naprendszer kialakulásakor a forgó gáz- és porfelhőben a Naptól mért távolság határozta meg, milyen anyag tudott szilárd állapotban megmaradni és bolygóvá összeállni.\n\n- A Nap közelében magas volt a hőmérséklet: csak a magas olvadáspontú anyagok (fémek, szilikátos kőzetek) szilárdultak meg. Az illékony anyagokat (hidrogén, hélium, víz, metán) a hő és a napszél kifelé sodorta. Így jöttek létre a kis, nagy sűrűségű kőzetbolygók.\n- A Naptól távolabb hidegebb volt, ott a jég is szilárd maradt, ezért több anyag gyűlt össze. A nagy tömegű bolygómagok a gázokat (hidrogént, héliumot) is magukhoz vonzották – így keletkeztek a kis sűrűségű, óriás gázbolygók.\n\nA két tartomány határa nagyjából a Mars és a Jupiter pályája között húzódik, ahol ma a kisbolygóöv található.\n\nA mai felszíni hőmérséklet is általában a naptávolsággal csökken (kivétel a Vénusz a légköre miatt). A legkülső térségek jeges égitestjei – törpebolygók, üstökösmagok – szintén ezt az anyageloszlást tükrözik.",
+   "diagram": null,
+   "concepts": [
+    "kőzetbolygó (Föld-típusú bolygó)",
+    "gázbolygó (Jupiter-típusú bolygó)",
+    "kisbolygó (aszteroida)",
+    "üstökös"
+   ],
+   "processes": [],
+   "examTip": "Az összefüggést láncként írd le: naptávolság → hőmérséklet → milyen anyag szilárdulhat meg → bolygótípus (sűrűség, méret).",
+   "selfCheck": [
+    {
+     "q": "Miért nagy sűrűségűek a belső bolygók?",
+     "a": "Mert a Nap közelében csak a fémek és kőzetek szilárdulhattak meg, az illékony anyagok kifelé sodródtak."
+    },
+    {
+     "q": "Miért lettek óriások a külső bolygók?",
+     "a": "A hidegben a jég is szilárd volt, több anyag gyűlt össze, és a nagy magok a gázokat is megkötötték."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A kisbolygóöv nagyjából a kőzet- és a gázbolygók határán helyezkedik el.",
+     "true": true
+    },
+    {
+     "statement": "A gázbolygók azért kis sűrűségűek, mert közel vannak a Naphoz.",
+     "true": false,
+     "correction": "A gázbolygók távol vannak a Naptól; a hidegben sok könnyű anyag (gáz, jég) halmozódott fel bennük, ezért kicsi a sűrűségük."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--e4",
+   "explanation": "Emelt szinten saját magad is meg kell tudnod rajzolni ezeket az ábrákat. Egyszerű, felülnézeti (holdfázisok) vagy oldalnézeti (fogyatkozások) vázlat elég.\n\nHoldfázisok:\n- középen a Föld, az egyik oldalon a Nap, a sugarak irányát nyilakkal jelöld;\n- a Hold 8 helyzetét rajzold körpályára; mindegyiknek a Nap felé eső fele legyen világos;\n- mellé rajzold, hogyan látszik a Földről (újhold, első negyed, telihold, utolsó negyed);\n- jelöld a keringés irányát (az északi pólus felől nézve az óramutatóval ellentétes).\n\nNapfogyatkozás:\n- Nap – Hold – Föld egy vonalban; a Hold teljes árnyéka (sötét kúp) és félárnyéka a Föld felszínére vetül.\n\nHoldfogyatkozás:\n- Nap – Föld – Hold egy vonalban; a Hold a Föld árnyékkúpjában van.\n\nMindig feliratozd az égitesteket és az árnyékterületeket! A méretek nem lehetnek arányosak, de a sorrendnek és a megvilágításnak helyesnek kell lennie.",
+   "diagram": "eclipse",
+   "concepts": [
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)",
+    "nap- és holdfogyatkozás"
+   ],
+   "processes": [
+    "holdfazisok",
+    "fogyatkozasok"
+   ],
+   "examTip": "A leggyakoribb rajzhiba: a Holdon nem a Nap felé eső oldal világos. Minden helyzetben a Nap felőli fél legyen megvilágítva!",
+   "selfCheck": [
+    {
+     "q": "Milyen sorrendben állnak az égitestek napfogyatkozáskor?",
+     "a": "Nap – Hold – Föld."
+    },
+    {
+     "q": "Melyik oldala világos a Holdnak a rajzon minden helyzetben?",
+     "a": "A Nap felé eső oldala."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A holdfogyatkozás ábráján a Hold a Föld árnyékkúpjában van.",
+     "true": true
+    },
+    {
+     "statement": "A napfogyatkozás ábráján a Föld a Nap és a Hold között helyezkedik el.",
+     "true": false,
+     "correction": "Napfogyatkozáskor a Hold van a Nap és a Föld között."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--e5",
+   "explanation": "A Hold felszínét a légkör és a víz hiánya miatt nem alakítja át a külső erők (szél, víz, jég) munkája, ezért évmilliárdos formák is megmaradtak rajta.\n\nFő felszíni formák:\n- Holdtengerek: a Földről sötét foltoknak látszó, sík, alacsonyabb fekvésű medencék. Nem vízzel teltek: hatalmas becsapódások után a mélyből feltörő bazaltláva töltötte ki őket. Főleg a Föld felé néző oldalon vannak.\n- Felföldek (hegyvidékek): világosabb, magasabb, erősen kráterezett területek.\n- Kráterek (meteoritkráterek): becsapódások nyomai, a néhány méterestől a több száz km-es átmérőjűig; némelyiknek központi csúcsa és sugaras törmeléksávjai vannak.\n- Holdpor (regolit): a felszínt finom kőzettörmelék borítja, amelyet a becsapódások aprítottak fel.\n\nA Hold felszíne ma geológiailag szinte „halott”: nincs aktív vulkánosság és lemeztektonika.",
+   "diagram": null,
+   "concepts": [
+    "holdtenger",
+    "meteoritkráter",
+    "Hold"
+   ],
+   "processes": [],
+   "examTip": "A holdtenger nem víz! Ha a vizsgán megkérdezik, mi tölti ki, a válasz: megszilárdult bazaltláva.",
+   "selfCheck": [
+    {
+     "q": "Mi tölti ki a holdtengereket?",
+     "a": "Megszilárdult bazaltláva."
+    },
+    {
+     "q": "Miért maradtak meg a Hold ősi kráterei?",
+     "a": "Mert légkör és víz hiányában nincs külső erők általi lepusztulás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Hold krátereinek többsége becsapódás nyoma.",
+     "true": true
+    },
+    {
+     "statement": "A holdtengerek egykor vízzel borított medencék voltak.",
+     "true": false,
+     "correction": "A holdtengereket bazaltláva töltötte ki; a nevük a régi csillagászok téves feltételezéséből ered."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--e6",
+   "explanation": "A Hold kis tömege és gyenge tömegvonzása miatt nem tudott légkört megtartani. Ennek sok következménye van:\n\n- Szélsőséges hőingás: nincs „takaró”, amely nappal szűrné a sugárzást, éjjel visszatartaná a hőt. A felszín nappal +100 °C fölé melegszik, éjjel –150 °C alá hűl.\n- Nincs időjárás, szél, csapadék, folyóvíz: nincs külső erők általi lepusztulás, a kráterek és az űrhajósok lábnyomai is megmaradnak.\n- Nincs védelem a meteoroidok ellen: nem égnek el, közvetlenül becsapódnak.\n- Nincs védelem a káros napsugárzás (UV, röntgen) és a napszél ellen.\n- Az égbolt nappal is fekete, a csillagok is látszanak; nincs szürkület, a fény és árnyék éles határú.\n- Nincs hangterjedés, mert nincs közeg.\n- Folyékony víz nem maradhat meg a felszínen, élet sincs.\n\nEzek miatt az űrhajósoknak szkafanderre, egy holdbázisnak különleges védelemre van szüksége.",
+   "diagram": null,
+   "concepts": [
+    "Hold",
+    "meteoritkráter"
+   ],
+   "processes": [],
+   "examTip": "Feleletben különítsd el az okot (kis tömeg → gyenge gravitáció → nincs légkör) és a következményeket. Legalább 3–4 következményt sorolj fel, mindegyiket röviden indokolva.",
+   "selfCheck": [
+    {
+     "q": "Miért nincs a Holdnak légköre?",
+     "a": "Kis tömege miatt gravitációja nem tudja megtartani a gázokat."
+    },
+    {
+     "q": "Miért fekete a Hold égboltja nappal is?",
+     "a": "Mert nincs légkör, amely szórná a napfényt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Holdon a légkörhiány miatt sokkal nagyobb a napi hőingás, mint a Földön.",
+     "true": true
+    },
+    {
+     "statement": "A Holdon a meteoroidok a felszín felett elégnek, ezért kevés a becsapódás.",
+     "true": false,
+     "correction": "Légkör hiányában a meteoroidok nem égnek el, akadálytalanul becsapódnak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-2-a-nap-es-kiseroi--e7",
+   "explanation": "Az üstökösök kis tömegű égitestek, amelyek erősen elnyúlt ellipszis pályán keringenek a Nap körül. A Naptól távol csak sötét „piszkos hógolyók”, a Nap közelében viszont látványos jelenséggé válnak.\n\nAz üstökös részei:\n- Mag: néhány km-es szilárd test fagyott gázokból, vízjégből és porból.\n- Kóma: a Nap közelében a mag felmelegszik, jege elpárolog, és gáz-, porfelhő veszi körül – ez a fényes „fej”.\n- Csóva: a napszél és a napsugárzás nyomása a kóma anyagát elfújja, így hosszú (akár több millió km-es) csóva alakul ki. A csóva mindig a Nappal ellentétes irányba mutat, nem a haladási irány mögé! Gyakran külön gázcsóva és porcsóva látszik.\n\nMozgásuk:\n- pályájuk erősen elnyúlt, sokszor a bolygók pályasíkjához is hajlik;\n- a rövid periódusú üstökösök rendszeresen visszatérnek (pl. a Halley-üstökös kb. 76 évente);\n- minden Nap-közelségnél anyagot veszítenek; a szétszóródott anyag meteorrajokat okoz.",
+   "diagram": null,
+   "concepts": [
+    "az üstökös részei (mag, kóma, csóva)",
+    "üstökös",
+    "napszél",
+    "meteor"
+   ],
+   "processes": [],
+   "examTip": "Gyakori hiba: a csóvát az üstökös mögé rajzolni a haladási irányban. A csóva mindig a Nappal ellentétes irányba mutat, Naptól távolodáskor tehát „előre”.",
+   "selfCheck": [
+    {
+     "q": "Milyen részei vannak az üstökösnek?",
+     "a": "Mag, kóma, csóva."
+    },
+    {
+     "q": "Merre mutat az üstökös csóvája?",
+     "a": "Mindig a Nappal ellentétes irányba."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az üstökösök csóvája csak a Nap közelében alakul ki.",
+     "true": true
+    },
+    {
+     "statement": "Az üstökösök közel kör alakú pályán keringenek a Nap körül.",
+     "true": false,
+     "correction": "Az üstökösök pályája erősen elnyúlt ellipszis."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k1",
+   "explanation": "A Föld méreteit kerek értékekkel kell tudnod, és értened kell, mit jelentenek.\n\n- Átlagos sugara kb. 6370 km (az egyenlítői sugár kb. 6378 km, a sarki kb. 6357 km – a különbség csak kb. 21 km).\n- Az Egyenlítő hossza kb. 40 000 km.\n- Egy hosszúsági kör (délkör, félkör) hossza kb. 20 000 km.\n- Ebből adódik: az Egyenlítő és bármely délkör mentén 1° kb. 111 km.\n- Felszíne kb. 510 millió km², ennek kb. 71%-a víz, 29%-a szárazföld.\n\nHasznos összefüggések:\n- az Egyenlítő hossza ≈ 2 × π × sugár (2 × 3,14 × 6370 ≈ 40 000 km);\n- a Föld egy forgás alatt az Egyenlítőn kb. 40 000 km-t tesz meg 24 óra alatt, vagyis ott a kerületi sebesség kb. 1670 km/h, a sarkok felé ez csökken.\n\nA Föld tehát nem tökéletes gömb, hanem a sarkoknál kissé lapult – ennek okát az emelt szintű „Föld alakja” kártya magyarázza.",
+   "diagram": null,
+   "concepts": [
+    "Föld",
+    "földrajzi fokhálózat",
+    "forgási ellipszoid"
+   ],
+   "processes": [],
+   "examTip": "Számolós feladatokban az Egyenlítőt 40 000 km-rel, 1°-ot 111 km-rel számold, hacsak a feladat mást nem ad meg.",
+   "selfCheck": [
+    {
+     "q": "Mekkora a Föld átlagos sugara?",
+     "a": "Kb. 6370 km."
+    },
+    {
+     "q": "Milyen hosszú az Egyenlítő?",
+     "a": "Kb. 40 000 km."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Föld egyenlítői sugara valamivel nagyobb, mint a sarki sugara.",
+     "true": true
+    },
+    {
+     "statement": "A Föld egy hosszúsági köre kb. 40 000 km hosszú.",
+     "true": false,
+     "correction": "A hosszúsági kör félkör, kb. 20 000 km; a 40 000 km az Egyenlítő (illetve egy teljes délkörgyűrű) hossza."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k2",
+   "explanation": "Az eltérítő erő (Coriolis-erő) a Föld tengely körüli forgásának következménye: a forgó Föld felszínén vízszintesen mozgó testek (levegő, víz) pályája eltérül.\n\nIránya:\n- az északi félgömbön a mozgás irányához képest jobbra,\n- a déli félgömbön balra térít;\n- az Egyenlítőn nincs vízszintes eltérítő hatás, a sarkok felé erősödik.\n\nHatásai:\n- Szelek: a térítőktől az Egyenlítő felé fújó passzát az északi félgömbön északkeleti, a délin délkeleti szél lesz; a nyugati szelek is így kapják irányukat.\n- Ciklonok és anticiklonok forgása: az északi félgömbön a ciklon az óramutató járásával ellentétesen, az anticiklon azzal megegyezően forog; a déli félgömbön fordítva.\n- Tengeráramlások: a nagy óceáni áramláskörök az északi félgömbön az óramutató járásával megegyezően, a délin ellentétesen keringenek.\n- A trópusi ciklonok az Egyenlítő közvetlen közelében nem alakulnak ki, mert ott hiányzik az eltérítés.",
+   "diagram": "circulation",
+   "concepts": [
+    "eltérítő erő (Coriolis-erő)",
+    "tengely körüli forgás"
+   ],
+   "processes": [
+    "ciklon-anticiklon"
+   ],
+   "examTip": "Gyakori kérdés: „Miért északkeleti a passzát az északi félgömbön?” – mert az Egyenlítő felé áramló levegőt az eltérítő erő jobbra (nyugat felé) téríti.",
+   "selfCheck": [
+    {
+     "q": "Merre térít az eltérítő erő a déli félgömbön?",
+     "a": "A mozgás irányához képest balra."
+    },
+    {
+     "q": "Hol nincs vízszintes eltérítő hatás?",
+     "a": "Az Egyenlítőn."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az északi félgömbön a ciklon az óramutató járásával ellentétesen forog.",
+     "true": true
+    },
+    {
+     "statement": "Az eltérítő erő a Föld Nap körüli keringése miatt lép fel.",
+     "true": false,
+     "correction": "Az eltérítő erő a Föld tengely körüli forgásának következménye."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k3",
+   "explanation": "A nappalok és az éjszakák váltakozásának két oka van:\n\n- A Föld gömb alakú (pontosabban közel gömb), ezért a Nap egyszerre mindig csak az egyik felét világítja meg. A megvilágított félgömbön nappal, a másikon éjszaka van. A kettőt elválasztó kör a fényhatár.\n- A Föld forog a tengelye körül (nyugatról keletre), így egy-egy pont hol a megvilágított, hol az árnyékos oldalra kerül.\n\nEgy teljes forgás a Naphoz viszonyítva 24 óra – ez egy nap (napszakok: reggel, délelőtt, dél, délután, este, éjjel). A csillagokhoz viszonyítva a forgás kb. 23 óra 56 perc; a különbség abból adódik, hogy a Föld közben a pályáján is továbbhalad.\n\nHa a Föld nem forogna, egy év alatt csak egyszer váltakozna nappal és éjszaka; ha nem lenne gömb alakú (hanem lapos korong), az egész felszínen egyszerre lenne nappal.\n\nA nappal és az éjszaka hossza a helytől és az évszaktól függ – ezt a tengelyferdeség okozza.",
+   "diagram": "daylength",
+   "concepts": [
+    "tengely körüli forgás",
+    "nap",
+    "napszakok"
+   ],
+   "processes": [
+    "nappalok-hossza"
+   ],
+   "examTip": "Ha a kérdés a váltakozás okát kérdezi, KÉT okot írj: gömb alak és tengely körüli forgás. A keringés itt nem ok!",
+   "selfCheck": [
+    {
+     "q": "Mi a két oka a nappalok és éjszakák váltakozásának?",
+     "a": "A Föld gömb alakja és tengely körüli forgása."
+    },
+    {
+     "q": "Mennyi idő egy forgás a Naphoz viszonyítva?",
+     "a": "24 óra."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A fényhatár választja el a megvilágított és az árnyékos félgömböt.",
+     "true": true
+    },
+    {
+     "statement": "A nappalok és éjszakák váltakozását a Föld Nap körüli keringése okozza.",
+     "true": false,
+     "correction": "A váltakozást a tengely körüli forgás és a gömb alak okozza; a keringés az évszakokért (a tengelyferdeséggel együtt) felelős."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k4",
+   "explanation": "A Föld nyugatról keletre forog a tengelye körül (az északi pólus felől nézve az óramutató járásával ellentétesen). Mi a forgó Földön állunk, ezért úgy látjuk, mintha az égbolt forogna ellenkező irányban: az égitestek látszólag keletről nyugatra vonulnak.\n\nKövetkezmények:\n- A Nap keleten (pontosabban a keleti égbolton) kel, délben – nálunk délen – delel, és nyugaton nyugszik. Ugyanígy kel és nyugszik a Hold és a csillagok is.\n- Az északi égbolt csillagai a Sarkcsillag körül látszanak forogni, mert a Sarkcsillag nagyjából a forgástengely meghosszabbításában van.\n- Keleten előbb kel a Nap: a keletebbre fekvő helyeken előbb van dél, ezért a helyi idő kelet felé „előrébb jár”. Debrecenben pl. kb. 10 perccel korábban delel a Nap, mint Budapesten.\n\nVigyázz: a Nap csak a tavaszi és őszi nap-éj egyenlőségkor kel pontosan keleten; nyáron északkeleten kel, télen délkeleten.",
+   "diagram": null,
+   "concepts": [
+    "tengely körüli forgás",
+    "Sarkcsillag",
+    "napszakok"
+   ],
+   "processes": [
+    "helyi-ido-zonaido"
+   ],
+   "examTip": "Ne keverd a valódi és a látszólagos irányt: a Föld Ny→K irányban forog, az égitestek látszólagos mozgása K→Ny irányú.",
+   "selfCheck": [
+    {
+     "q": "Milyen irányban forog a Föld?",
+     "a": "Nyugatról keletre."
+    },
+    {
+     "q": "Miért kel a Nap keleten?",
+     "a": "Mert a Föld nyugatról keletre forog, így az égitestek látszólag keletről nyugatra mozognak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A keletebbre fekvő városokban hamarabb delel a Nap.",
+     "true": true
+    },
+    {
+     "statement": "A Nap az év minden napján pontosan keleten kel fel.",
+     "true": false,
+     "correction": "Pontosan keleten csak a nap-éj egyenlőségek idején kel; nálunk nyáron északkeleten, télen délkeleten."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k5",
+   "explanation": "A Föld 24 óra alatt 360°-ot fordul. Ebből következik minden átváltás:\n\n- 360° : 24 óra = 15° óránként → 15 hosszúsági fok = 1 óra időkülönbség = 1 időzóna.\n- 60 perc : 15° = 4 perc → 1 hosszúsági fok = 4 perc időkülönbség.\n- 1 perc időkülönbség = 15 szögperc (15') hosszúságkülönbség.\n\nAz irány szabálya: kelet felé haladva a helyi idő később van (hozzáadunk), nyugat felé korábban (kivonunk).\n\nPéldák:\n- Budapest (k. h. 19°) és Greenwich (0°) között 19° × 4 perc = 76 perc = 1 óra 16 perc a helyi idők különbsége.\n- Két város között 3 óra a helyi idők különbsége → 3 × 15° = 45° a hosszúságkülönbség.\n- 2 óra 20 perc időkülönbség → 2 × 15° + 20 : 4 = 30° + 5° = 35°.\n\nHa a két pont különböző (keleti és nyugati) félgömbön van, a hosszúsági fokokat össze kell adni (pl. k. h. 20° és ny. h. 40° → 60° → 4 óra).",
+   "diagram": "time-zones",
+   "concepts": [
+    "helyi idő",
+    "időzóna",
+    "hosszúsági kör"
+   ],
+   "processes": [
+    "helyi-ido-zonaido"
+   ],
+   "examTip": "A két leggyakoribb hiba: rossz irány (kelet felé ADNI kell) és a félgömbhatár elfelejtése (eltérő félgömbön a fokokat összeadod).",
+   "selfCheck": [
+    {
+     "q": "Hány perc időkülönbséget jelent 1 hosszúsági fok?",
+     "a": "4 percet."
+    },
+    {
+     "q": "Mekkora a hosszúságkülönbség, ha a helyi idők különbsége 1 óra 40 perc?",
+     "a": "15° + 10° = 25°."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "15 hosszúsági fok különbség 1 óra helyiidő-különbséget jelent.",
+     "true": true
+    },
+    {
+     "statement": "A k. h. 30° és a ny. h. 15° közötti helyiidő-különbség 1 óra.",
+     "true": false,
+     "correction": "Eltérő félgömbön a fokokat össze kell adni: 45°, ami 3 óra különbség."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k6",
+   "explanation": "Helyi idő: a Nap delelésekor 12 óra van. Minden hosszúsági körön más, kelet felé fokonként 4 perccel több. Világidő: a greenwichi (0°) hosszúsági kör ideje.\n\nZónaidő: a gyakorlatban 24 időzónát használunk, mindegyik kb. 15° széles. A zónán belül egységesen a zóna középső hosszúsági körének helyi ideje érvényes. Magyarország a közép-európai időzónában van, ennek középső délköre a k. h. 15°, ideje a világidőnél 1 órával több (nyári időszámításkor 2 órával). Az időzónák határai gyakran országhatárokhoz igazodnak.\n\nHelyi idő kiszámítása:\n- hosszúságkülönbség × 4 perc → időkülönbség;\n- kelet felé hozzáadod, nyugat felé kivonod.\n\nPélda: Greenwichben 12:00 (helyi idő). Budapesten (k. h. 19°): 19 × 4 = 76 perc → 13:16 helyi idő; zónaidő 13:00.\n\nZónaidő kiszámítása: a zónák számának különbsége = órakülönbség. Ha Budapesten 10:00 (télen, világidő+1), Tokióban (világidő+9) 8 órával később, 18:00 van; New Yorkban (világidő–5) 6 órával korábban, 4:00.",
+   "diagram": "time-zones",
+   "concepts": [
+    "helyi idő",
+    "zónaidő",
+    "időzóna",
+    "világidő"
+   ],
+   "processes": [
+    "helyi-ido-zonaido"
+   ],
+   "examTip": "Mindig nézd meg, helyi időt vagy zónaidőt kérdeznek! A helyi idő percre pontos (4 perc/fok), a zónaidő egész órákban tér el (néhány kivételtől eltekintve).",
+   "selfCheck": [
+    {
+     "q": "Mi a zónaidő?",
+     "a": "Az időzóna középső hosszúsági körének helyi ideje, amelyet az egész zónában használnak."
+    },
+    {
+     "q": "Greenwichben 12:00 van. Mennyi a helyi idő a ny. h. 30°-on?",
+     "a": "10:00 (30 × 4 = 120 perc, nyugat felé kivonunk)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Magyarország télen a világidőnél 1 órával előrébb járó zónaidőt használja.",
+     "true": true
+    },
+    {
+     "statement": "Egy időzónán belül minden településen ugyanakkor delel a Nap.",
+     "true": false,
+     "correction": "A delelés a helyi időhöz kötött, és a zónán belül is hosszúsági fokonként 4 perccel eltér; csak az órák mutatnak azonos időt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k7",
+   "explanation": "A Föld a Nap körül ellipszis alakú pályán kering, amelynek egyik gyújtópontjában a Nap áll. A pálya alig tér el a körtől.\n\nA pálya jellemzői:\n- átlagos naptávolság kb. 150 millió km (1 csillagászati egység);\n- napközelpont: kb. 147 millió km, január elején;\n- naptávolpont: kb. 152 millió km, július elején;\n- a keringés iránya – a forgáshoz hasonlóan – nyugatról keletre (az északi pólus felől nézve az óramutató járásával ellentétes);\n- átlagos pályasebesség kb. 30 km/s, napközelben gyorsabb;\n- a pálya síkja az ekliptika síkja; a forgástengely ehhez a síkhoz képest ferde.\n\nA keringés ideje egy napév (tropikus év): kb. 365 nap 5 óra 48 perc, kerekítve 365 és negyed nap. Mivel ez nem egész szám, a naptári év 365 nap, és négyévente szökőévvel (366 nap) igazítjuk ki.\n\nFontos: az évszakokat nem a naptávolság változása okozza – a Föld éppen az északi félgömb telén van a legközelebb a Naphoz.",
+   "diagram": "seasons",
+   "concepts": [
+    "Nap körüli keringés",
+    "ekliptika",
+    "napév",
+    "év",
+    "szökőév"
+   ],
+   "processes": [
+    "evszakok"
+   ],
+   "examTip": "Igaz–hamis kedvenc: „Nyáron azért van meleg, mert közelebb vagyunk a Naphoz.” – HAMIS. Napközelben (január elején) nálunk tél van.",
+   "selfCheck": [
+    {
+     "q": "Mikor van a Föld napközelben?",
+     "a": "Január elején."
+    },
+    {
+     "q": "Mennyi a keringés ideje?",
+     "a": "Kb. 365 nap 6 óra (pontosabban 365 nap 5 óra 48 perc)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Föld pályája ellipszis, de alig tér el a körtől.",
+     "true": true
+    },
+    {
+     "statement": "Az északi félgömbön azért van nyár, mert ekkor a Föld napközelben jár.",
+     "true": false,
+     "correction": "A Föld július elején naptávolban jár; a nyarat a tengelyferdeség miatti nagyobb napmagasság és hosszabb nappalok okozzák."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k8",
+   "explanation": "A keringéssel kapcsolatos ábrákon a Föld négy nevezetes pályahelyzetét szokták bemutatni a Nap körül. Az értelmezéshez ezeket nézd meg:\n\n- A forgástengely iránya minden helyzetben azonos (önmagával párhuzamos marad, az északi vége a Sarkcsillag felé mutat).\n- Melyik pólus hajlik a Nap felé? Ha az északi, akkor az északi félgömbön nyár van (nyári napforduló, június 21–22.); ha a déli, akkor nálunk tél (téli napforduló, december 21–22.).\n- Ha egyik pólus sem hajlik a Nap felé, a fényhatár mindkét sarkon áthalad: nap-éj egyenlőség (március 20–21. vagy szeptember 22–23.).\n- Hol merőlegesek a napsugarak? Nyári napfordulón a Ráktérítőn (é. sz. 23,5°), téli napfordulón a Baktérítőn (d. sz. 23,5°), nap-éj egyenlőségkor az Egyenlítőn.\n- A keringés iránya: az északi pólus felől nézve az óramutató járásával ellentétes. Ebből tudod eldönteni, melyik nap-éj egyenlőség a tavaszi és melyik az őszi: a tavaszi a téli napfordulót követő helyzet.\n\nAz ábrákon szereplhet a napközel–naptávol helyzete is (január eleje, július eleje).",
+   "diagram": "seasons",
+   "concepts": [
+    "Nap körüli keringés",
+    "tengelyferdeség",
+    "nyári és téli napforduló",
+    "tavaszi és őszi nap-éj egyenlőség"
+   ],
+   "processes": [
+    "evszakok"
+   ],
+   "examTip": "Ábránál először keresd meg, melyik helyzetben billen az északi pólus a Nap felé – ez a nyári napforduló. Innen a keringés irányában jön az őszi nap-éj egyenlőség.",
+   "selfCheck": [
+    {
+     "q": "Hogyan ismered fel az ábrán a nyári napfordulót?",
+     "a": "Az északi pólus a Nap felé hajlik, a napsugarak a Ráktérítőn merőlegesek."
+    },
+    {
+     "q": "Változik-e a forgástengely iránya keringés közben?",
+     "a": "Nem, önmagával párhuzamos marad."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Nap-éj egyenlőségkor a fényhatár mindkét sarkon áthalad.",
+     "true": true
+    },
+    {
+     "statement": "A forgástengely mindig a Nap felé dől.",
+     "true": false,
+     "correction": "A forgástengely iránya a térben állandó; ezért hol az északi, hol a déli pólus hajlik a Nap felé."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k9",
+   "explanation": "Négy nevezetes nap van az évben (az északi félgömb szemszögéből):\n\n- Tavaszi nap-éj egyenlőség – március 20–21.: a Nap delelése az Egyenlítőn merőleges, a Föld minden pontján (a sarkokat kivéve) kb. 12 óra a nappal és 12 óra az éjszaka. A csillagászati tavasz kezdete.\n- Nyári napforduló – június 21–22.: a napsugarak a Ráktérítőn (é. sz. 23,5°) merőlegesek. Az északi félgömbön ez a leghosszabb nappal, az északi sarkkörön túl sarki nappal van. A csillagászati nyár kezdete.\n- Őszi nap-éj egyenlőség – szeptember 22–23.: ismét az Egyenlítőn merőlegesek a sugarak, mindenhol egyenlő a nappal és az éjszaka. A csillagászati ősz kezdete.\n- Téli napforduló – december 21–22.: a sugarak a Baktérítőn (d. sz. 23,5°) merőlegesek. Nálunk ez a legrövidebb nappal, az északi sarkkörön túl sarki éjszaka van. A csillagászati tél kezdete.\n\nA déli félgömbön minden fordítva van: ott júniusban kezdődik a csillagászati tél, decemberben a nyár.",
+   "diagram": "seasons",
+   "concepts": [
+    "tavaszi és őszi nap-éj egyenlőség",
+    "nyári és téli napforduló",
+    "csillagászati évszakok (tavasz, nyár, ősz, tél)"
+   ],
+   "processes": [
+    "evszakok",
+    "nappalok-hossza"
+   ],
+   "examTip": "Jelöld mindig a félgömböt! „A nyári napforduló június 21.” csak az északi félgömbre igaz – a déli félgömbön ez a téli napforduló.",
+   "selfCheck": [
+    {
+     "q": "Hol merőlegesek a napsugarak a téli napfordulón?",
+     "a": "A Baktérítőn (d. sz. 23,5°)."
+    },
+    {
+     "q": "Mikor van az őszi nap-éj egyenlőség?",
+     "a": "Szeptember 22–23-án."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Nap-éj egyenlőségkor a napsugarak az Egyenlítőn merőlegesek.",
+     "true": true
+    },
+    {
+     "statement": "A nyári napfordulón a napsugarak a Baktérítőn merőlegesek.",
+     "true": false,
+     "correction": "A nyári napfordulón (június 21–22.) a Ráktérítőn merőlegesek a napsugarak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k10",
+   "explanation": "Az évszakok kialakulásának oka a tengelyferdeség és a Nap körüli keringés együttese.\n\n- A Föld forgástengelye kb. 23,5°-kal tér el a pályasíkra (ekliptikára) állított merőlegestől, azaz a pályasíkkal kb. 66,5°-os szöget zár be.\n- A tengely iránya a keringés során a térben állandó (az északi vége a Sarkcsillag felé mutat).\n- Ezért a keringés egyik szakaszában az északi, a másikban a déli félgömb hajlik a Nap felé.\n\nAmelyik félgömb a Nap felé hajlik:\n- ott magasabban delel a Nap, a sugarak nagyobb hajlásszögben érkeznek, így egységnyi felületre több energia jut;\n- ott hosszabbak a nappalok, tovább tart a felmelegedés;\n- ezért ott nyár van, a másik félgömbön egyidejűleg tél.\n\nHa nem lenne tengelyferdeség (a tengely merőleges lenne a pályasíkra), nem lennének évszakok: egész évben mindenhol 12 órás nappal lenne, és a Nap minden nap ugyanolyan magasan delelne.",
+   "diagram": "seasons",
+   "concepts": [
+    "tengelyferdeség",
+    "csillagászati évszakok (tavasz, nyár, ősz, tél)",
+    "ekliptika",
+    "Nap körüli keringés"
+   ],
+   "processes": [
+    "evszakok"
+   ],
+   "examTip": "Esszékérdésnél a két kulcselem: a sugarak hajlásszöge (energia egységnyi felületre) és a nappalok hossza. A naptávolságot NE írd okként!",
+   "selfCheck": [
+    {
+     "q": "Mekkora szöget zár be a forgástengely a pályasíkkal?",
+     "a": "Kb. 66,5°-ot (a merőlegestől 23,5°-kal tér el)."
+    },
+    {
+     "q": "Mi lenne, ha nem lenne tengelyferdeség?",
+     "a": "Nem lennének évszakok, mindenhol egész évben 12 órás lenne a nappal."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nap felé hajló félgömbön hosszabbak a nappalok és nagyobb a napsugarak hajlásszöge.",
+     "true": true
+    },
+    {
+     "statement": "Az évszakok elsősorban a Föld–Nap távolság változása miatt alakulnak ki.",
+     "true": false,
+     "correction": "Az évszakok oka a tengelyferdeség és a keringés; a távolságváltozás hatása elhanyagolható."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--k11",
+   "explanation": "Időszámításunk a Föld és a Hold mozgásain alapul.\n\nNapi időszámítás:\n- nap: a Föld egy tengely körüli forgása a Naphoz viszonyítva, 24 óra; a csillagokhoz viszonyítva kb. 23 óra 56 perc;\n- valódi napidő: a Nap tényleges delelésén alapul, de nem egyenletes (az ellipszispálya és a tengelyferdeség miatt), ezért a középnapidőt használjuk, amely egyenletesre átlagolt.\n\nHavi időszámítás: két újhold között kb. 29,5 nap telik el – a hónap eredete.\n\nÉvi időszámítás:\n- napév: a Föld keringési ideje két tavaszi nap-éj egyenlőség között, kb. 365 nap 5 óra 48 perc;\n- naptári év: egész napokból áll, 365 vagy 366 nap.\n- szökőév: a maradék kb. negyed napokat négyévente egy szökőnappal (február 29.) igazítjuk ki.\n\nNaptárak:\n- Juliánus-naptár (Kr. e. 46-tól): minden 4. év szökőév – így évente kb. 11 perccel hosszabb a napévnél.\n- Gergely-naptár (1582-től): a 100-zal osztható évek közül csak a 400-zal oszthatók szökőévek (1900 nem, 2000 igen).",
+   "diagram": null,
+   "concepts": [
+    "napi és évi időszámítás",
+    "napév",
+    "naptári év",
+    "szökőév",
+    "Juliánus-naptár",
+    "Gergely-naptár"
+   ],
+   "processes": [],
+   "examTip": "Tipikus kérdés: „Szökőév volt-e 1900?” – Nem, mert 100-zal osztható, de 400-zal nem. 2000 viszont szökőév volt.",
+   "selfCheck": [
+    {
+     "q": "Miért van szükség szökőévre?",
+     "a": "Mert a napév kb. negyed nappal hosszabb 365 napnál."
+    },
+    {
+     "q": "Szökőév lesz-e 2100?",
+     "a": "Nem, mert 100-zal osztható, de 400-zal nem."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Gergely-naptárban 2000 szökőév volt.",
+     "true": true
+    },
+    {
+     "statement": "A naptári év pontosan megegyezik a napév hosszával.",
+     "true": false,
+     "correction": "A naptári év egész napokból áll (365 vagy 366), a napév kb. 365 nap 5 óra 48 perc; a különbséget a szökőévek egyenlítik ki."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--e1",
+   "explanation": "A Föld nem tökéletes gömb: a tengely körüli forgás miatt a sarkoknál lapult, az Egyenlítőnél kidudorodó.\n\nMiért? A forgás miatt minden pontra a forgástengelytől kifelé mutató centrifugális (tehetetlenségi) erő hat. Ez az Egyenlítőn a legnagyobb, mert ott a legnagyobb a kerületi sebesség, a sarkokon nulla. A Föld anyaga – kialakulásakor képlékeny volt – ennek hatására az Egyenlítőnél „kifelé tolódott”.\n\nAz eredmény:\n- forgási ellipszoid: az a test, amely egy ellipszis kistengelye körüli forgatásával jön létre;\n- az egyenlítői sugár kb. 6378 km, a sarki kb. 6357 km, a különbség kb. 21 km – kicsi, ezért a Föld szemre gömb.\n\nA valódi földalak még ennél is szabálytalanabb, ezt geoidnak nevezzük: a nyugalmi tengerszint (és annak a szárazföld alatti képzelt folytatása) által meghatározott felület. Ezt a belső tömegeloszlás egyenetlenségei alakítják.\n\nKövetkezmény: a nehézségi gyorsulás a sarkokon kicsit nagyobb, mint az Egyenlítőn.",
+   "diagram": null,
+   "concepts": [
+    "forgási ellipszoid",
+    "földalak (geoid)",
+    "tengely körüli forgás"
+   ],
+   "processes": [],
+   "examTip": "A lapultság okát (forgás → centrifugális erő → Egyenlítőnél kidudorodás) láncként írd le; a „gravitáció” egymagában nem magyarázza a lapultságot.",
+   "selfCheck": [
+    {
+     "q": "Miért lapult a Föld a sarkoknál?",
+     "a": "A forgás miatti centrifugális erő az Egyenlítőnél a legnagyobb, ott kidudorodik."
+    },
+    {
+     "q": "Mi a geoid?",
+     "a": "A nyugalmi tengerszint által meghatározott, szabálytalan valódi földalak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Föld egyenlítői sugara kb. 21 km-rel nagyobb a sarki sugaránál.",
+     "true": true
+    },
+    {
+     "statement": "A centrifugális erő a sarkokon a legnagyobb.",
+     "true": false,
+     "correction": "A centrifugális erő az Egyenlítőn a legnagyobb, a sarkokon nulla."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--e2",
+   "explanation": "A nappalok hosszát az szabja meg, hogy egy szélességi kör mekkora része esik a megvilágított oldalra. Mivel a tengely ferde, a fényhatár – a nap-éj egyenlőségeket kivéve – nem halad át a sarkokon, ezért a szélességi köröket nem felezi.\n\n- Nap-éj egyenlőségkor (március 20–21., szeptember 22–23.): a fényhatár áthalad a sarkokon, minden szélességi kört felez → mindenhol kb. 12 óra a nappal.\n- Az Egyenlítőn egész évben kb. 12 óra a nappal, mert az Egyenlítőt a fényhatár mindig felezi.\n- Nyári napforduló (június 21–22.): az északi félgömbön a szélességi körök nagyobb része világos → a nappal hosszabb, mint 12 óra, és észak felé egyre hosszabb. Az északi sarkkörön (66,5°) 24 órás nappal, attól északra sarki nappal van; a déli sarkkörön túl sarki éjszaka.\n- Téli napforduló (december 21–22.): fordítva – nálunk ez a legrövidebb nappal.\n- A sarkokon fél évig tart a nappal és fél évig az éjszaka.\n\nÖsszefoglalva: minél messzebb vagy az Egyenlítőtől, annál nagyobb a nappalok hosszának évi ingadozása.",
+   "diagram": "daylength",
+   "concepts": [
+    "tengelyferdeség",
+    "nyári és téli napforduló",
+    "tavaszi és őszi nap-éj egyenlőség",
+    "Nap körüli keringés"
+   ],
+   "processes": [
+    "nappalok-hossza"
+   ],
+   "examTip": "Gyakori kérdés: „Hol van egész évben 12 órás nappal?” – az Egyenlítőn. „Hol 24 órás a nappal a nyári napfordulón először?” – az északi sarkkörön.",
+   "selfCheck": [
+    {
+     "q": "Hol a leghosszabb a nappal június 21-én?",
+     "a": "Az északi sarkkörön túl (sarki nappal), az északi félgömbön észak felé haladva egyre hosszabb."
+    },
+    {
+     "q": "Miért 12 órás a nappal az Egyenlítőn egész évben?",
+     "a": "Mert a fényhatár az Egyenlítőt mindig felezi."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az északi sarkon nyáron fél évig tart a nappal.",
+     "true": true
+    },
+    {
+     "statement": "A nyári napfordulón az északi félgömbön minél délebbre megyünk, annál hosszabb a nappal.",
+     "true": false,
+     "correction": "Az északi félgömbön a nyári napfordulón észak felé haladva egyre hosszabb a nappal."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--e3",
+   "explanation": "A delelési magasság a delelő Nap és a vízszintes (horizont) által bezárt szög. Ha 90°, a Nap a zenitben van.\n\nAlapképlet: delelési magasság = 90° – (a hely földrajzi szélessége és annak a szélességi körnek a szögtávolsága, ahol a Nap éppen merőleges).\n\nA merőleges sugarak helye:\n- nap-éj egyenlőség: Egyenlítő (0°);\n- június 21–22.: Ráktérítő (é. sz. 23,5°);\n- december 21–22.: Baktérítő (d. sz. 23,5°).\n\nPélda – Budapest (é. sz. 47,5°):\n- nap-éj egyenlőség: 90° – 47,5° = 42,5°;\n- nyári napforduló: 90° – (47,5° – 23,5°) = 66°;\n- téli napforduló: 90° – (47,5° + 23,5°) = 19°.\n\nDéli félgömbi példa (d. sz. 30°):\n- június: 90° – (30° + 23,5°) = 36,5°;\n- december: 90° – (30° – 23,5°) = 83,5°.\n\nFigyelj: ha a hely és a merőleges sugarak helye ugyanazon a félgömbön van, kivonod a szélességeket, ha különbözőn, összeadod. A térítők között a Nap északon is delelhet.",
+   "diagram": "solar-angle",
+   "concepts": [
+    "delelési magasság",
+    "zenit",
+    "tengelyferdeség",
+    "nyári és téli napforduló"
+   ],
+   "processes": [
+    "evszakok"
+   ],
+   "examTip": "Ellenőrizd az eredményt: a nyári delelési magasság nagyobb, mint a téli, és a kettő különbsége mindig 47° (2 × 23,5°) a térítőkön kívül.",
+   "selfCheck": [
+    {
+     "q": "Mekkora a Nap delelési magassága nap-éj egyenlőségkor az é. sz. 40°-on?",
+     "a": "50°."
+    },
+    {
+     "q": "Hol delel a Nap a zenitben június 21-én?",
+     "a": "A Ráktérítőn (é. sz. 23,5°)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Egyenlítőn nap-éj egyenlőségkor 90°-os a delelési magasság.",
+     "true": true
+    },
+    {
+     "statement": "Budapesten a téli napfordulón a delelési magasság 42,5°.",
+     "true": false,
+     "correction": "A 42,5° a nap-éj egyenlőségkori érték; a téli napfordulón 90° – 71° = 19°."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-3-a-fold-es-mozgasai--e4",
+   "explanation": "Ha valaki kelet felé körbeutazza a Földet, minden időzónában egy órával előre kell állítania az óráját – a teljes kör után így egy nappal „előrébb” járna. Ezt a hibát a dátumválasztó vonal szünteti meg.\n\n- Nagyjából a 180°-os hosszúsági kör mentén, a Csendes-óceánon húzódik; a szárazföldeket és szigetcsoportokat kikerüli, ezért töredezett.\n- Két oldalán ugyanaz az óraidő, de más a dátum: a nyugati (ázsiai) oldalon egy nappal később van.\n\nSzabály:\n- nyugat felé átlépve (pl. Amerikából Ázsia felé) egy napot előre lapozunk (hétfőből kedd lesz);\n- kelet felé átlépve (pl. Ázsiából Amerika felé) egy napot visszalapozunk (keddből hétfő lesz).\n\nFeladatmegoldás: számold ki a zónaidőt a szokásos módon, majd ha az útvonal átlépi a 180°-ot, módosítsd a dátumot. Példa: Tokióból (világidő+9) kedden 10:00-kor induló, 8 órás repülés a Hawaii-szigetekre (világidő–10) érkezése: tokiói idő szerint 18:00, ez 19 órával kevesebb → hétfő 23:00 – vagyis „korábbi” napon érkezik, mint ahogy elindult.",
+   "diagram": "time-zones",
+   "concepts": [
+    "dátumválasztó vonal",
+    "zónaidő",
+    "időzóna",
+    "világidő"
+   ],
+   "processes": [
+    "helyi-ido-zonaido"
+   ],
+   "examTip": "Emlékezz: ha a világidőhöz képest számolsz zónaidőt (+12 és –12 között), a dátumváltás automatikusan kijön. A gyakori hiba az irány felcserélése – kelet felé átlépve VISSZA kell lapozni.",
+   "selfCheck": [
+    {
+     "q": "Merre haladva kell a dátumválasztó vonalon egy napot előre lapozni?",
+     "a": "Nyugat felé (Amerikából Ázsia felé)."
+    },
+    {
+     "q": "Nagyjából melyik hosszúsági kör mentén húzódik?",
+     "a": "A 180°-os mentén."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A dátumválasztó vonal két oldalán az óraidő azonos, de a dátum eltér.",
+     "true": true
+    },
+    {
+     "statement": "Ázsiából Amerika felé átlépve a dátumválasztó vonalat egy nappal előre kell lapozni.",
+     "true": false,
+     "correction": "Kelet felé (Ázsiából Amerikába) átlépve egy nappal vissza kell lapozni."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-4-az-urkutatas--e1",
+   "explanation": "Az űrkutatás legfontosabb mérföldkövei, amelyeket érdemes tudnod:\n\n- 1957: a Szovjetunió felbocsátja az első mesterséges holdat, a Szputnyik–1-et – az űrkorszak kezdete.\n- 1961: Jurij Gagarin az első ember a világűrben (Vosztok–1), egyszer megkerülte a Földet.\n- 1969: az Apollo–11 űrhajóval Neil Armstrong az első ember, aki a Holdra lépett (Buzz Aldrinnal együtt).\n- 1971: az első űrállomás, a szovjet Szaljut–1.\n- 1977: a Voyager–1 és –2 űrszondák indítása; később elhagyták a bolygók térségét.\n- 1981: az első amerikai űrrepülőgép (űrsikló), a Columbia útja.\n- 1990: a Hubble-űrtávcső pályára állítása.\n- 1998: a Nemzetközi Űrállomás (ISS) építésének kezdete; 2000 óta folyamatosan lakott.\n- 2021: a James Webb-űrtávcső felbocsátása.\n\nAz űrkutatás eleinte a hidegháborús verseny része volt (Szovjetunió – Egyesült Államok), ma inkább nemzetközi együttműködés, és egyre több magáncég is részt vesz benne.",
+   "diagram": null,
+   "concepts": [
+    "Jurij Gagarin",
+    "Neil Armstrong",
+    "űrállomás",
+    "űrrepülőgép (űrsikló)",
+    "űrtávcső"
+   ],
+   "processes": [],
+   "examTip": "Az évszámokat és a „kik voltak az elsők” párosokat (Szputnyik–1957, Gagarin–1961, Armstrong–1969) a vizsga gyakran kérdezi párosítós feladatban.",
+   "selfCheck": [
+    {
+     "q": "Ki volt az első ember a világűrben, és mikor?",
+     "a": "Jurij Gagarin, 1961-ben."
+    },
+    {
+     "q": "Mi volt az első mesterséges hold?",
+     "a": "A Szputnyik–1 (1957)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Neil Armstrong 1969-ben lépett a Holdra.",
+     "true": true
+    },
+    {
+     "statement": "Az első mesterséges holdat az Egyesült Államok bocsátotta fel 1961-ben.",
+     "true": false,
+     "correction": "Az első mesterséges hold a szovjet Szputnyik–1 volt, 1957-ben."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-4-az-urkutatas--e2",
+   "explanation": "Az űrkutatás eszközei és szerepük:\n\n- Hordozórakéta: minden eszközt ez juttat a világűrbe; le kell győznie a Föld tömegvonzását.\n- Műhold (mesterséges hold): a Föld körül kering; távközlés, időjárás-megfigyelés, helymeghatározás, távérzékelés.\n- Űrszonda: ember nélküli eszköz, amely más égitestekhez repül, elhalad mellettük, pályára áll körülöttük vagy leszáll rájuk (pl. Mars-járók).\n- Űrhajó: embereket szállító jármű (pl. Vosztok, Apollo, Szojuz).\n- Űrrepülőgép (űrsikló): többször felhasználható, repülőgépszerűen leszálló űreszköz; az amerikai űrsiklók 1981 és 2011 között repültek.\n- Űrállomás: hosszabb ideig lakott, Föld körül keringő kutatóbázis (Szaljut, Mir, Nemzetközi Űrállomás); súlytalansági kísérletek, orvosi és anyagtudományi kutatások.\n- Űrtávcső: a légkör zavaró hatásán kívül figyeli a Világegyetemet, olyan hullámhosszakon is, amelyeket a légkör elnyel (Hubble, James Webb).\n\nKülön gond az űrszemét: kiégett rakétafokozatok, működésképtelen műholdak, törmelékek, amelyek veszélyeztetik a működő eszközöket.",
+   "diagram": null,
+   "concepts": [
+    "űrállomás",
+    "űrszonda",
+    "űrtávcső",
+    "űrhajó",
+    "űrrepülőgép (űrsikló)",
+    "űrszemét"
+   ],
+   "processes": [],
+   "examTip": "Ne keverd az űrszondát és az űrhajót: a szonda ember nélküli, más égitestek kutatására indul; az űrhajó embert szállít.",
+   "selfCheck": [
+    {
+     "q": "Miért előnyösebb az űrtávcső a földi távcsőnél?",
+     "a": "Mert nem zavarja a légkör, és olyan sugárzást is észlel, amelyet a légkör elnyel."
+    },
+    {
+     "q": "Mi az űrszemét?",
+     "a": "A Föld körül keringő, már nem működő eszközök és törmelékeik."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az űrszondák ember nélküli eszközök.",
+     "true": true
+    },
+    {
+     "statement": "Az űrrepülőgép egyszer használatos, a légkörben elégő eszköz.",
+     "true": false,
+     "correction": "Az űrrepülőgép (űrsikló) többször felhasználható, repülőgépszerűen leszálló űreszköz."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-4-az-urkutatas--e3",
+   "explanation": "A mesterséges égitestek nélkül a Világegyetemről alkotott tudásunk töredéke lenne.\n\nA Naprendszer megismerése:\n- az űrszondák közelről fényképezték és mérték a bolygókat, holdakat (pl. Voyager-szondák a gázbolygóknál, Cassini a Szaturnusznál, New Horizons a Plútónál);\n- Mars-járók vizsgálták a Mars kőzeteit, és egykori folyékony víz nyomait találták;\n- üstökösökre, kisbolygókra is küldtek szondát, sőt mintát is hoztak róluk.\n\nA Tejútrendszer és más galaxisok megismerése:\n- az űrtávcsövek (Hubble, James Webb) a légkör zavaró hatása nélkül, infravörös és más hullámhosszakon is észlelnek;\n- így távoli, nagyon régi galaxisokat is láthatunk, ami az ősrobbanás-elmélet ellenőrzését is segíti.\n\nExobolygók:\n- az exobolygó más csillag körül keringő bolygó;\n- az űrtávcsövek (pl. a Kepler-űrtávcső) a csillag fényének apró, ismétlődő elhalványulásából (amikor a bolygó elvonul előtte) ezreket fedeztek fel;\n- a cél a Földhöz hasonló, lakható zónában keringő bolygók keresése.",
+   "diagram": null,
+   "concepts": [
+    "exobolygó",
+    "űrszonda",
+    "űrtávcső",
+    "Tejútrendszer (Galaktika, Galaxis)",
+    "Naprendszer"
+   ],
+   "processes": [],
+   "examTip": "Az exobolygó nem a Naprendszer távoli bolygója, hanem MÁS csillag körül keringő bolygó – ez a meghatározás gyakori vizsgakérdés.",
+   "selfCheck": [
+    {
+     "q": "Mi az exobolygó?",
+     "a": "Naprendszeren kívüli, más csillag körül keringő bolygó."
+    },
+    {
+     "q": "Hogyan fedezhető fel egy exobolygó űrtávcsővel?",
+     "a": "Például a csillag fényének ismétlődő, kis mértékű elhalványulásából, amikor a bolygó elvonul előtte."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az űrtávcsövek a földi légkör zavaró hatásától mentesen figyelhetik az égboltot.",
+     "true": true
+    },
+    {
+     "statement": "A Plútó a Naprendszer legtávolabbi exobolygója.",
+     "true": false,
+     "correction": "A Plútó a Naprendszer törpebolygója; exobolygónak a más csillagok körül keringő bolygókat nevezzük."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-4-az-urkutatas--e4",
+   "explanation": "Az űrkutatás eredményeit a mindennapokban is használjuk – sokszor észre sem vesszük.\n\nMűholdas szolgáltatások:\n- távközlés: televízió- és rádióadások, telefon, internet a távoli területeken is;\n- helymeghatározás és navigáció (GPS, Galileo): közlekedés, logisztika, mezőgazdaság;\n- időjárás-előrejelzés: felhőzet, ciklonok, hurrikánok követése;\n- távérzékelés: térképezés, erdőirtás, aszály, árvíz, olajszennyezés megfigyelése, katasztrófavédelem;\n- éghajlatkutatás: a jégtakaró, a tengerszint, az ózonréteg változásának mérése.\n\nTechnológiai „melléktermékek”:\n- hatékonyabb napelemek, új, könnyű és hőálló anyagok, hőszigetelő fóliák;\n- az elektronika miniatürizálása;\n- orvosi alkalmazások: távfelügyeleti (telemedicinális) eszközök, az űrhajósok egészségének vizsgálatából származó ismeretek;\n- víztisztítási és élelmiszer-tartósítási eljárások.\n\nFeleletnél csoportosíts (kommunikáció, navigáció, megfigyelés, technológia), és minden csoporthoz adj konkrét példát.",
+   "diagram": null,
+   "concepts": [
+    "műhold",
+    "globális helymeghatározó rendszer (GPS)",
+    "távérzékelés"
+   ],
+   "processes": [],
+   "examTip": "A „mondjon példát” típusú kérdésnél konkrét alkalmazást nevezz meg (pl. „műholdas időjárás-előrejelzés”), ne csak annyit, hogy „a technika fejlődése”.",
+   "selfCheck": [
+    {
+     "q": "Nevezz meg két mindennapi műholdas szolgáltatást!",
+     "a": "Pl. GPS-navigáció és műholdas televízió (vagy időjárás-előrejelzés)."
+    },
+    {
+     "q": "Hogyan segíti a távérzékelés a katasztrófavédelmet?",
+     "a": "Követhető vele az árvíz, az erdőtűz, a hurrikánok mozgása."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az időjárás-előrejelzés ma nagymértékben műholdas adatokra támaszkodik.",
+     "true": true
+    },
+    {
+     "statement": "Az űrkutatás eredményeinek nincs mindennapi gyakorlati haszna.",
+     "true": false,
+     "correction": "Az űrkutatás eredményei a távközlésben, a navigációban, az időjárás-előrejelzésben és számos technológiában hasznosulnak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "2-4-az-urkutatas--e5",
+   "explanation": "Magyar vonatkozású eredmények az űrkutatásban:\n\n- Bay Zoltán: 1946-ban radarjelet küldött a Holdra, és kimutatta a visszavert jelet (holdradar-kísérlet) – ez a radarcsillagászat egyik első eredménye.\n- Farkas Bertalan: az első magyar űrhajós; 1980-ban a szovjet Szojuz–36 űrhajóval a Szaljut–6 űrállomásra repült, ahol magyar kísérleteket is végzett.\n- Pille: magyar fejlesztésű sugárzásmérő (doziméter), amelyet először Farkas Bertalan repülésén használtak, és később más űrállomásokon, a Nemzetközi Űrállomáson is alkalmaztak.\n- Magyar szakemberek műszereket építettek nemzetközi űrszondákra, pl. a Halley-üstököst vizsgáló Vega-szondák (1986) televíziós rendszerének fejlesztésében is részt vettek.\n- Masat–1 (2012): az első magyar építésű műhold, egyetemi hallgatók munkája.\n- Simonyi Károly (Charles Simonyi): magyar származású szoftvermérnök, 2007-ben és 2009-ben űrturistaként járt a Nemzetközi Űrállomáson.\n- Kapu Tibor: 2025-ben a második magyar kutató űrhajósként dolgozott a Nemzetközi Űrállomáson (HUNOR-program).",
+   "diagram": null,
+   "concepts": [
+    "Bay Zoltán",
+    "Farkas Bertalan",
+    "űrállomás",
+    "műhold"
+   ],
+   "processes": [],
+   "examTip": "A két „kötelező” név: Bay Zoltán (holdradar, 1946) és Farkas Bertalan (első magyar űrhajós, 1980). Ezeket évszámmal együtt tudd!",
+   "selfCheck": [
+    {
+     "q": "Ki volt az első magyar űrhajós, és mikor repült?",
+     "a": "Farkas Bertalan, 1980-ban."
+    },
+    {
+     "q": "Mi fűződik Bay Zoltán nevéhez?",
+     "a": "A Holdról visszavert radarjel kimutatása 1946-ban."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Pille magyar fejlesztésű sugárzásmérő műszer.",
+     "true": true
+    },
+    {
+     "statement": "Farkas Bertalan a Nemzetközi Űrállomáson dolgozott 1980-ban.",
+     "true": false,
+     "correction": "Farkas Bertalan 1980-ban a szovjet Szaljut–6 űrállomáson járt; a Nemzetközi Űrállomás építése csak 1998-ban kezdődött."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

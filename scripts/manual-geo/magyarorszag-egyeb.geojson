@@ -1,0 +1,2841 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--bodrog",
+    "name": "Bodrog",
+    "confidence": "medium",
+    "note": "Ondava–Latorca összefolyásától (SK) Sárospatakon át Tokajig, ott ömlik a Tiszába"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.8,
+      48.44
+     ],
+     [
+      21.76,
+      48.41
+     ],
+     [
+      21.73,
+      48.37
+     ],
+     [
+      21.7,
+      48.35
+     ],
+     [
+      21.66,
+      48.34
+     ],
+     [
+      21.62,
+      48.33
+     ],
+     [
+      21.57,
+      48.315
+     ],
+     [
+      21.52,
+      48.29
+     ],
+     [
+      21.47,
+      48.26
+     ],
+     [
+      21.43,
+      48.235
+     ],
+     [
+      21.4,
+      48.2
+     ],
+     [
+      21.37,
+      48.17
+     ],
+     [
+      21.36,
+      48.15
+     ],
+     [
+      21.4,
+      48.12
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--drava",
+    "name": "Dráva",
+    "confidence": "medium",
+    "note": "Ormožtól; Legrádnál felveszi a Murát, Barcs–Drávaszabolcs határfolyó, Eszéken át a Dunába"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      16.15,
+      46.4
+     ],
+     [
+      16.35,
+      46.32
+     ],
+     [
+      16.55,
+      46.26
+     ],
+     [
+      16.75,
+      46.26
+     ],
+     [
+      16.88,
+      46.3
+     ],
+     [
+      16.99,
+      46.24
+     ],
+     [
+      17.1,
+      46.16
+     ],
+     [
+      17.2,
+      46.1
+     ],
+     [
+      17.3,
+      46.05
+     ],
+     [
+      17.42,
+      45.97
+     ],
+     [
+      17.55,
+      45.92
+     ],
+     [
+      17.7,
+      45.88
+     ],
+     [
+      17.85,
+      45.83
+     ],
+     [
+      18,
+      45.79
+     ],
+     [
+      18.15,
+      45.78
+     ],
+     [
+      18.22,
+      45.79
+     ],
+     [
+      18.4,
+      45.72
+     ],
+     [
+      18.55,
+      45.62
+     ],
+     [
+      18.7,
+      45.56
+     ],
+     [
+      18.93,
+      45.54
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--hernad",
+    "name": "Hernád",
+    "confidence": "medium",
+    "note": "Kassától, Hidasnémetinél lép be, Gesztely alatt a Sajóba ömlik"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.25,
+      48.75
+     ],
+     [
+      21.27,
+      48.65
+     ],
+     [
+      21.25,
+      48.57
+     ],
+     [
+      21.23,
+      48.5
+     ],
+     [
+      21.22,
+      48.44
+     ],
+     [
+      21.2,
+      48.37
+     ],
+     [
+      21.17,
+      48.3
+     ],
+     [
+      21.08,
+      48.26
+     ],
+     [
+      21.01,
+      48.22
+     ],
+     [
+      20.98,
+      48.15
+     ],
+     [
+      20.97,
+      48.09
+     ],
+     [
+      20.96,
+      48.03
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--koros",
+    "name": "Körös",
+    "confidence": "medium",
+    "note": "Fehér-/Kettős-Körös Gyulától Békésen át, Gyomaendrődtől Hármas-Körös: Szarvas, Csongrádnál a Tiszába"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      21.33,
+      46.62
+     ],
+     [
+      21.25,
+      46.66
+     ],
+     [
+      21.17,
+      46.72
+     ],
+     [
+      21.1,
+      46.77
+     ],
+     [
+      21.02,
+      46.8
+     ],
+     [
+      20.95,
+      46.85
+     ],
+     [
+      20.85,
+      46.92
+     ],
+     [
+      20.75,
+      46.92
+     ],
+     [
+      20.65,
+      46.89
+     ],
+     [
+      20.55,
+      46.87
+     ],
+     [
+      20.45,
+      46.86
+     ],
+     [
+      20.33,
+      46.84
+     ],
+     [
+      20.27,
+      46.8
+     ],
+     [
+      20.2,
+      46.74
+     ],
+     [
+      20.15,
+      46.7
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--mura",
+    "name": "Mura",
+    "confidence": "medium",
+    "note": "Radgonától; Muraszemenye–Letenye–Őrtilos között határfolyó, Legrádnál a Drávába"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      16,
+      46.68
+     ],
+     [
+      16.15,
+      46.62
+     ],
+     [
+      16.25,
+      46.53
+     ],
+     [
+      16.35,
+      46.48
+     ],
+     [
+      16.45,
+      46.47
+     ],
+     [
+      16.55,
+      46.47
+     ],
+     [
+      16.65,
+      46.45
+     ],
+     [
+      16.73,
+      46.42
+     ],
+     [
+      16.8,
+      46.37
+     ],
+     [
+      16.85,
+      46.32
+     ],
+     [
+      16.88,
+      46.3
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--raba",
+    "name": "Rába",
+    "confidence": "medium",
+    "note": "Feldbachtól; Szentgotthárd–Körmend–Sárvár–Győr, a Mosoni-Dunába"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      15.89,
+      46.95
+     ],
+     [
+      16.1,
+      46.94
+     ],
+     [
+      16.27,
+      46.95
+     ],
+     [
+      16.4,
+      46.97
+     ],
+     [
+      16.52,
+      47
+     ],
+     [
+      16.6,
+      47.02
+     ],
+     [
+      16.72,
+      47.08
+     ],
+     [
+      16.82,
+      47.15
+     ],
+     [
+      16.94,
+      47.25
+     ],
+     [
+      17.03,
+      47.33
+     ],
+     [
+      17.1,
+      47.42
+     ],
+     [
+      17.2,
+      47.5
+     ],
+     [
+      17.32,
+      47.58
+     ],
+     [
+      17.45,
+      47.63
+     ],
+     [
+      17.58,
+      47.68
+     ],
+     [
+      17.64,
+      47.7
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--sajo",
+    "name": "Sajó",
+    "confidence": "medium",
+    "note": "Rozsnyótól; Bánréve–Kazincbarcika–Miskolc, Tiszaújváros mellett a Tiszába"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      20.53,
+      48.66
+     ],
+     [
+      20.45,
+      48.55
+     ],
+     [
+      20.38,
+      48.45
+     ],
+     [
+      20.33,
+      48.36
+     ],
+     [
+      20.35,
+      48.3
+     ],
+     [
+      20.43,
+      48.28
+     ],
+     [
+      20.52,
+      48.27
+     ],
+     [
+      20.62,
+      48.25
+     ],
+     [
+      20.71,
+      48.21
+     ],
+     [
+      20.8,
+      48.15
+     ],
+     [
+      20.86,
+      48.1
+     ],
+     [
+      20.91,
+      48.04
+     ],
+     [
+      20.96,
+      48
+     ],
+     [
+      21,
+      47.96
+     ],
+     [
+      21.04,
+      47.91
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--szamos",
+    "name": "Szamos",
+    "confidence": "medium",
+    "note": "Szatmárnémetitől; Csengernél lép be, Olcsvánál (Vásárosnamény mellett) a Tiszába"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      23.1,
+      47.7
+     ],
+     [
+      22.95,
+      47.77
+     ],
+     [
+      22.88,
+      47.79
+     ],
+     [
+      22.78,
+      47.82
+     ],
+     [
+      22.68,
+      47.84
+     ],
+     [
+      22.6,
+      47.89
+     ],
+     [
+      22.52,
+      47.95
+     ],
+     [
+      22.45,
+      48
+     ],
+     [
+      22.38,
+      48.05
+     ],
+     [
+      22.32,
+      48.09
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--velencei-to",
+    "name": "Velencei-tó",
+    "confidence": "medium",
+    "note": "DNy–ÉK irányú tó Pákozd, Gárdony és Velence között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       18.52,
+       47.17
+      ],
+      [
+       18.56,
+       47.175
+      ],
+      [
+       18.6,
+       47.19
+      ],
+      [
+       18.63,
+       47.21
+      ],
+      [
+       18.66,
+       47.225
+      ],
+      [
+       18.655,
+       47.235
+      ],
+      [
+       18.62,
+       47.225
+      ],
+      [
+       18.58,
+       47.215
+      ],
+      [
+       18.55,
+       47.205
+      ],
+      [
+       18.525,
+       47.185
+      ],
+      [
+       18.52,
+       47.17
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--kis-balaton",
+    "name": "Kis-Balaton",
+    "confidence": "medium",
+    "note": "Zala-torkolati mocsárvilág Keszthelytől DNy-ra"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.17,
+       46.63
+      ],
+      [
+       17.22,
+       46.62
+      ],
+      [
+       17.26,
+       46.65
+      ],
+      [
+       17.26,
+       46.7
+      ],
+      [
+       17.22,
+       46.71
+      ],
+      [
+       17.18,
+       46.68
+      ],
+      [
+       17.17,
+       46.63
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--hevizi-to",
+    "name": "Hévízi-tó",
+    "confidence": "medium",
+    "note": "Kis termáltó Hévíz központjában"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.1855,
+       46.789
+      ],
+      [
+       17.1885,
+       46.789
+      ],
+      [
+       17.189,
+       46.7905
+      ],
+      [
+       17.187,
+       46.7915
+      ],
+      [
+       17.1855,
+       46.7905
+      ],
+      [
+       17.1855,
+       46.789
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--szegedi-feher-to",
+    "name": "szegedi Fehér-tó",
+    "confidence": "medium",
+    "note": "Szegedtől ÉNy-ra, Sándorfalva felé"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.07,
+       46.32
+      ],
+      [
+       20.11,
+       46.31
+      ],
+      [
+       20.13,
+       46.33
+      ],
+      [
+       20.11,
+       46.355
+      ],
+      [
+       20.08,
+       46.35
+      ],
+      [
+       20.07,
+       46.32
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--vizrajz--szelidi-to",
+    "name": "Szelidi-tó",
+    "confidence": "medium",
+    "note": "Duna-holtág Dunapataj mellett, Kalocsától É-ra"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       19.035,
+       46.61
+      ],
+      [
+       19.042,
+       46.61
+      ],
+      [
+       19.045,
+       46.625
+      ],
+      [
+       19.043,
+       46.64
+      ],
+      [
+       19.037,
+       46.64
+      ],
+      [
+       19.034,
+       46.625
+      ],
+      [
+       19.035,
+       46.61
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--ajka",
+    "name": "Ajka",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.56,
+     47.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--algyo",
+    "name": "Algyő",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.21,
+     46.33
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--baja",
+    "name": "Baja",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.96,
+     46.18
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--balassagyarmat",
+    "name": "Balassagyarmat",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.3,
+     48.07
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--balatonfured",
+    "name": "Balatonfüred",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.89,
+     46.96
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--berente",
+    "name": "Berente",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.67,
+     48.24
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--buk",
+    "name": "Bük",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.75,
+     47.38
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--dunaujvaros",
+    "name": "Dunaújváros",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.93,
+     46.97
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--esztergom",
+    "name": "Esztergom",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.74,
+     47.79
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--godollo",
+    "name": "Gödöllő",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.36,
+     47.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--gyongyos",
+    "name": "Gyöngyös",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.93,
+     47.78
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--gyula",
+    "name": "Gyula",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.28,
+     46.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--hajduszoboszlo",
+    "name": "Hajdúszoboszló",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.4,
+     47.44
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--harkany",
+    "name": "Harkány",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.24,
+     45.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--hatvan",
+    "name": "Hatvan",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.67,
+     47.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--hegyeshalom",
+    "name": "Hegyeshalom",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.16,
+     47.91
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--heviz",
+    "name": "Hévíz",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.19,
+     46.79
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--hodmezovasarhely",
+    "name": "Hódmezővásárhely",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.33,
+     46.42
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--jaszbereny",
+    "name": "Jászberény",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.91,
+     47.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--jaszfenyszaru",
+    "name": "Jászfényszaru",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.72,
+     47.57
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--kalocsa",
+    "name": "Kalocsa",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.98,
+     46.53
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--keszthely",
+    "name": "Keszthely",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.25,
+     46.77
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--komarom",
+    "name": "Komárom",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.12,
+     47.74
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--koszeg",
+    "name": "Kőszeg",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.54,
+     47.39
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--mako",
+    "name": "Makó",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.48,
+     46.21
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--mohacs",
+    "name": "Mohács",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.68,
+     45.99
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--nagykanizsa",
+    "name": "Nagykanizsa",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.99,
+     46.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--oroshaza",
+    "name": "Orosháza",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.67,
+     46.56
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--ozd",
+    "name": "Ózd",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.29,
+     48.22
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--paks",
+    "name": "Paks",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.86,
+     46.62
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--papa",
+    "name": "Pápa",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.47,
+     47.33
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--sarospatak",
+    "name": "Sárospatak",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.57,
+     48.32
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--siofok",
+    "name": "Siófok",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.05,
+     46.91
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--sopron",
+    "name": "Sopron",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.59,
+     47.68
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--szazhalombatta",
+    "name": "Százhalombatta",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.91,
+     47.32
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--szentendre",
+    "name": "Szentendre",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.08,
+     47.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--szentgotthard",
+    "name": "Szentgotthárd",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.27,
+     46.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--tata",
+    "name": "Tata",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.32,
+     47.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--tihany",
+    "name": "Tihany",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.89,
+     46.91
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--tiszaujvaros",
+    "name": "Tiszaújváros",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.08,
+     47.93
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--tokaj",
+    "name": "Tokaj",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.41,
+     48.12
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--varpalota",
+    "name": "Várpalota",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.14,
+     47.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--veresegyhaz",
+    "name": "Veresegyház",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.29,
+     47.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--visegrad",
+    "name": "Visegrád",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.97,
+     47.79
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--visonta",
+    "name": "Visonta",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.03,
+     47.78
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--zalakaros",
+    "name": "Zalakaros",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.13,
+     46.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--zahony",
+    "name": "Záhony",
+    "confidence": "high",
+    "note": "Városközpont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.18,
+     48.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--telepulesek--budapesti-agglomeracio",
+    "name": "Budapesti agglomeráció",
+    "confidence": "medium",
+    "note": "Agglomeráció középpontja (Budapest); a kategória pontot ír elő"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.04,
+     47.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--aggteleki-nemzeti-park",
+    "name": "Aggteleki Nemzeti Park",
+    "confidence": "medium",
+    "note": "Gömör–Tornai-karszt: Aggtelek, Jósvafő, Szögliget a szlovák határ mentén"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.49,
+       48.44
+      ],
+      [
+       20.6,
+       48.42
+      ],
+      [
+       20.72,
+       48.44
+      ],
+      [
+       20.82,
+       48.47
+      ],
+      [
+       20.88,
+       48.52
+      ],
+      [
+       20.84,
+       48.55
+      ],
+      [
+       20.74,
+       48.55
+      ],
+      [
+       20.65,
+       48.53
+      ],
+      [
+       20.55,
+       48.51
+      ],
+      [
+       20.5,
+       48.48
+      ],
+      [
+       20.49,
+       48.44
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--balaton-felvideki-nemzeti-park",
+    "name": "Balaton-felvidéki Nemzeti Park",
+    "confidence": "medium",
+    "note": "Keszthelyi-hg, Tapolcai-medence, Badacsony, Tihany a É-i parton + Kis-Balaton"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        17.22,
+        46.8
+       ],
+       [
+        17.3,
+        46.79
+       ],
+       [
+        17.4,
+        46.81
+       ],
+       [
+        17.5,
+        46.81
+       ],
+       [
+        17.62,
+        46.85
+       ],
+       [
+        17.7,
+        46.89
+       ],
+       [
+        17.8,
+        46.93
+       ],
+       [
+        17.88,
+        46.94
+       ],
+       [
+        17.88,
+        46.98
+       ],
+       [
+        17.78,
+        46.99
+       ],
+       [
+        17.65,
+        46.98
+       ],
+       [
+        17.5,
+        46.96
+       ],
+       [
+        17.4,
+        46.97
+       ],
+       [
+        17.3,
+        46.94
+       ],
+       [
+        17.24,
+        46.88
+       ],
+       [
+        17.22,
+        46.8
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        17.16,
+        46.62
+       ],
+       [
+        17.22,
+        46.61
+       ],
+       [
+        17.27,
+        46.65
+       ],
+       [
+        17.27,
+        46.71
+       ],
+       [
+        17.22,
+        46.72
+       ],
+       [
+        17.17,
+        46.68
+       ],
+       [
+        17.16,
+        46.62
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--bukki-nemzeti-park",
+    "name": "Bükki Nemzeti Park",
+    "confidence": "medium",
+    "note": "A Bükk-fennsík és peremei Eger és Miskolc között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.3,
+       48.02
+      ],
+      [
+       20.4,
+       47.97
+      ],
+      [
+       20.55,
+       47.97
+      ],
+      [
+       20.68,
+       48.02
+      ],
+      [
+       20.7,
+       48.08
+      ],
+      [
+       20.62,
+       48.13
+      ],
+      [
+       20.48,
+       48.15
+      ],
+      [
+       20.36,
+       48.12
+      ],
+      [
+       20.3,
+       48.02
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--duna-drava-nemzeti-park",
+    "name": "Duna–Dráva Nemzeti Park",
+    "confidence": "low",
+    "note": "Gemenc (Szekszárd–Baja), Béda–Karapancsa (Mohács alatt), Dráva-mente Barcs–Drávaszabolcs"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        18.78,
+        46.18
+       ],
+       [
+        18.88,
+        46.17
+       ],
+       [
+        18.93,
+        46.25
+       ],
+       [
+        18.92,
+        46.35
+       ],
+       [
+        18.86,
+        46.4
+       ],
+       [
+        18.8,
+        46.38
+       ],
+       [
+        18.78,
+        46.28
+       ],
+       [
+        18.78,
+        46.18
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        18.63,
+        45.905
+       ],
+       [
+        18.75,
+        45.915
+       ],
+       [
+        18.86,
+        45.925
+       ],
+       [
+        18.87,
+        45.95
+       ],
+       [
+        18.78,
+        45.965
+       ],
+       [
+        18.7,
+        45.955
+       ],
+       [
+        18.65,
+        45.93
+       ],
+       [
+        18.63,
+        45.905
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        17.3,
+        46.08
+       ],
+       [
+        17.42,
+        46
+       ],
+       [
+        17.55,
+        45.95
+       ],
+       [
+        17.7,
+        45.910000000000004
+       ],
+       [
+        17.85,
+        45.86
+       ],
+       [
+        18,
+        45.82
+       ],
+       [
+        18.15,
+        45.81
+       ],
+       [
+        18.22,
+        45.82
+       ],
+       [
+        18.22,
+        45.87
+       ],
+       [
+        18.15,
+        45.86
+       ],
+       [
+        18,
+        45.87
+       ],
+       [
+        17.85,
+        45.91
+       ],
+       [
+        17.7,
+        45.96
+       ],
+       [
+        17.55,
+        46
+       ],
+       [
+        17.42,
+        46.05
+       ],
+       [
+        17.3,
+        46.129999999999995
+       ],
+       [
+        17.3,
+        46.08
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--duna-ipoly-nemzeti-park",
+    "name": "Duna–Ipoly Nemzeti Park",
+    "confidence": "low",
+    "note": "Pilis és Visegrádi-hg (Duna jobb part), Börzsöny és Ipoly-völgy (bal part)"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        18.78,
+        47.65
+       ],
+       [
+        18.9,
+        47.6
+       ],
+       [
+        19.02,
+        47.62
+       ],
+       [
+        19.06,
+        47.68
+       ],
+       [
+        19.05,
+        47.75
+       ],
+       [
+        18.98,
+        47.785
+       ],
+       [
+        18.88,
+        47.78
+       ],
+       [
+        18.8,
+        47.73
+       ],
+       [
+        18.78,
+        47.65
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        18.85,
+        47.85
+       ],
+       [
+        18.95,
+        47.82
+       ],
+       [
+        19.08,
+        47.85
+       ],
+       [
+        19.12,
+        47.93
+       ],
+       [
+        19.05,
+        48.01
+       ],
+       [
+        18.92,
+        48.02
+       ],
+       [
+        18.84,
+        47.95
+       ],
+       [
+        18.85,
+        47.85
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--ferto-hansag-nemzeti-park",
+    "name": "Fertő–Hanság Nemzeti Park",
+    "confidence": "low",
+    "note": "A Fertő magyar része és a Hanság Kapuvár–Bősárkány között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       16.66,
+       47.65
+      ],
+      [
+       16.75,
+       47.62
+      ],
+      [
+       16.85,
+       47.62
+      ],
+      [
+       16.92,
+       47.65
+      ],
+      [
+       17.05,
+       47.65
+      ],
+      [
+       17.2,
+       47.64
+      ],
+      [
+       17.3,
+       47.68
+      ],
+      [
+       17.25,
+       47.74
+      ],
+      [
+       17.1,
+       47.72
+      ],
+      [
+       16.95,
+       47.685
+      ],
+      [
+       16.86,
+       47.685
+      ],
+      [
+       16.75,
+       47.69
+      ],
+      [
+       16.68,
+       47.71
+      ],
+      [
+       16.66,
+       47.65
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagyi-nemzeti-park",
+    "name": "Hortobágyi Nemzeti Park",
+    "confidence": "medium",
+    "note": "Hortobágyi puszta a Tisza és Debrecen között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.85,
+       47.55
+      ],
+      [
+       21,
+       47.45
+      ],
+      [
+       21.2,
+       47.47
+      ],
+      [
+       21.35,
+       47.55
+      ],
+      [
+       21.33,
+       47.68
+      ],
+      [
+       21.18,
+       47.75
+      ],
+      [
+       21,
+       47.75
+      ],
+      [
+       20.88,
+       47.68
+      ],
+      [
+       20.85,
+       47.55
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--kiskunsagi-nemzeti-park",
+    "name": "Kiskunsági Nemzeti Park",
+    "confidence": "low",
+    "note": "Felső-Kiskunság (Apaj), szikes tavak (Fülöpszállás), Bugac, Tisza-mente (Lakitelek–Alpár), Pusztaszer"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        19.05,
+        47.08
+       ],
+       [
+        19.15,
+        47.05
+       ],
+       [
+        19.25,
+        47.1
+       ],
+       [
+        19.22,
+        47.18
+       ],
+       [
+        19.1,
+        47.18
+       ],
+       [
+        19.05,
+        47.08
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        19.15,
+        46.78
+       ],
+       [
+        19.25,
+        46.76
+       ],
+       [
+        19.3,
+        46.83
+       ],
+       [
+        19.25,
+        46.9
+       ],
+       [
+        19.16,
+        46.88
+       ],
+       [
+        19.15,
+        46.78
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        19.55,
+        46.64
+       ],
+       [
+        19.68,
+        46.62
+       ],
+       [
+        19.75,
+        46.67
+       ],
+       [
+        19.68,
+        46.72
+       ],
+       [
+        19.56,
+        46.7
+       ],
+       [
+        19.55,
+        46.64
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        19.95,
+        46.84
+       ],
+       [
+        20.05,
+        46.83
+       ],
+       [
+        20.08,
+        46.88
+       ],
+       [
+        20.02,
+        46.92
+       ],
+       [
+        19.95,
+        46.9
+       ],
+       [
+        19.95,
+        46.84
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        20.08,
+        46.48
+       ],
+       [
+        20.18,
+        46.47
+       ],
+       [
+        20.22,
+        46.53
+       ],
+       [
+        20.14,
+        46.56
+       ],
+       [
+        20.07,
+        46.53
+       ],
+       [
+        20.08,
+        46.48
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--koros-maros-nemzeti-park",
+    "name": "Körös–Maros Nemzeti Park",
+    "confidence": "low",
+    "note": "Dévaványai-Ecsegi puszták, Körös-ártér (Szarvas), Kardoskúti Fehér-tó, Maros-ártér (Makó), Mágor-puszta (Vésztő)"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        20.85,
+        47
+       ],
+       [
+        21,
+        46.98
+       ],
+       [
+        21.08,
+        47.05
+       ],
+       [
+        21,
+        47.12
+       ],
+       [
+        20.88,
+        47.1
+       ],
+       [
+        20.85,
+        47
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        20.5,
+        46.84
+       ],
+       [
+        20.62,
+        46.86
+       ],
+       [
+        20.7,
+        46.91
+       ],
+       [
+        20.6,
+        46.93
+       ],
+       [
+        20.5,
+        46.89
+       ],
+       [
+        20.5,
+        46.84
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        20.58,
+        46.46
+       ],
+       [
+        20.66,
+        46.46
+       ],
+       [
+        20.68,
+        46.51
+       ],
+       [
+        20.62,
+        46.53
+       ],
+       [
+        20.57,
+        46.5
+       ],
+       [
+        20.58,
+        46.46
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        20.22,
+        46.23
+       ],
+       [
+        20.35,
+        46.2
+       ],
+       [
+        20.48,
+        46.18
+       ],
+       [
+        20.5,
+        46.21
+       ],
+       [
+        20.36,
+        46.24
+       ],
+       [
+        20.24,
+        46.26
+       ],
+       [
+        20.22,
+        46.23
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        21.15,
+        46.9
+       ],
+       [
+        21.25,
+        46.89
+       ],
+       [
+        21.28,
+        46.95
+       ],
+       [
+        21.2,
+        46.98
+       ],
+       [
+        21.14,
+        46.95
+       ],
+       [
+        21.15,
+        46.9
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--orsegi-nemzeti-park",
+    "name": "Őrségi Nemzeti Park",
+    "confidence": "medium",
+    "note": "Őrség, Vendvidék és a Rába-völgy Szentgotthárd–Őriszentpéter–Körmend között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       16.25,
+       46.92
+      ],
+      [
+       16.33,
+       46.875
+      ],
+      [
+       16.4,
+       46.84
+      ],
+      [
+       16.55,
+       46.8
+      ],
+      [
+       16.62,
+       46.85
+      ],
+      [
+       16.55,
+       46.95
+      ],
+      [
+       16.4,
+       46.98
+      ],
+      [
+       16.3,
+       46.97
+      ],
+      [
+       16.25,
+       46.92
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--aggteleki-es-szlovak-karsztvidek",
+    "name": "Aggteleki- és Szlovák-karsztvidék",
+    "confidence": "medium",
+    "note": "Határon átnyúló karszt: Aggtelek–Jósvafő és a szlovák Gömör–Tornai-karszt"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.4,
+       48.45
+      ],
+      [
+       20.6,
+       48.42
+      ],
+      [
+       20.85,
+       48.47
+      ],
+      [
+       20.95,
+       48.6
+      ],
+      [
+       20.8,
+       48.69
+      ],
+      [
+       20.55,
+       48.69
+      ],
+      [
+       20.35,
+       48.62
+      ],
+      [
+       20.4,
+       48.45
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--budapest-andrassy-ut-a-millenniumi-foldalattival",
+    "name": "Budapest Andrássy út a Millenniumi földalattival",
+    "confidence": "medium",
+    "note": "Deák tértől az Andrássy úton (Opera, Oktogon, Kodály körönd) a Hősök teréig"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      19.0544,
+      47.4977
+     ],
+     [
+      19.0551,
+      47.5017
+     ],
+     [
+      19.0583,
+      47.5025
+     ],
+     [
+      19.0638,
+      47.5053
+     ],
+     [
+      19.071,
+      47.5097
+     ],
+     [
+      19.0744,
+      47.5117
+     ],
+     [
+      19.0779,
+      47.5149
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--budapest-varnegyed-es-a-pesti-duna-part",
+    "name": "Budapest Várnegyed és a pesti Duna-part",
+    "confidence": "medium",
+    "note": "Budai Vár, Gellért-hegy és a pesti rakpart Szabadság híd–Margit híd között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       19.028,
+       47.483
+      ],
+      [
+       19.05,
+       47.484
+      ],
+      [
+       19.058,
+       47.487
+      ],
+      [
+       19.054,
+       47.5
+      ],
+      [
+       19.05,
+       47.512
+      ],
+      [
+       19.045,
+       47.515
+      ],
+      [
+       19.036,
+       47.508
+      ],
+      [
+       19.03,
+       47.5
+      ],
+      [
+       19.028,
+       47.483
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--holloko",
+    "name": "Hollókő",
+    "confidence": "high",
+    "note": "Ófalu és vár, Cserhát"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.59,
+     47.997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--pannonhalmi-foapatsag",
+    "name": "Pannonhalmi Főapátság",
+    "confidence": "high",
+    "note": "Bencés főapátság Pannonhalmán"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.755,
+     47.553
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--pecsi-okereszteny-sirkamrak",
+    "name": "Pécsi ókeresztény sírkamrák",
+    "confidence": "high",
+    "note": "Sopianae sírkamrák a pécsi Dóm tér környékén"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.228,
+     46.077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagy",
+    "name": "Hortobágy",
+    "confidence": "medium",
+    "note": "Hortobágyi Nemzeti Park – a Puszta kultúrtáj"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.83,
+       47.55
+      ],
+      [
+       20.98,
+       47.43
+      ],
+      [
+       21.2,
+       47.45
+      ],
+      [
+       21.38,
+       47.55
+      ],
+      [
+       21.35,
+       47.7
+      ],
+      [
+       21.18,
+       47.77
+      ],
+      [
+       20.98,
+       47.77
+      ],
+      [
+       20.86,
+       47.69
+      ],
+      [
+       20.83,
+       47.55
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "magyarorszag--nemzeti-parkok-vilagoroksegek--tokaj-hegyalja-borvideke",
+    "name": "Tokaj-Hegyalja borvidéke",
+    "confidence": "medium",
+    "note": "Zempléni-hg DK-i lejtői Abaújszántó–Tokaj–Sárospatak–Sátoraljaújhely"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       21.18,
+       48.2
+      ],
+      [
+       21.25,
+       48.14
+      ],
+      [
+       21.38,
+       48.11
+      ],
+      [
+       21.45,
+       48.17
+      ],
+      [
+       21.52,
+       48.26
+      ],
+      [
+       21.62,
+       48.33
+      ],
+      [
+       21.67,
+       48.37
+      ],
+      [
+       21.64,
+       48.42
+      ],
+      [
+       21.55,
+       48.38
+      ],
+      [
+       21.42,
+       48.32
+      ],
+      [
+       21.3,
+       48.3
+      ],
+      [
+       21.2,
+       48.3
+      ],
+      [
+       21.15,
+       48.25
+      ],
+      [
+       21.18,
+       48.2
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

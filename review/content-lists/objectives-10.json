@@ -1,0 +1,262 @@
+[
+ {
+  "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei",
+  "title": "10.1. A globálissá váló környezetszennyezés és következményei",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k1",
+    "level": "kozep",
+    "text": "Ismertesse példák alapján a lokális szennyeződés globális következményeit."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k2",
+    "level": "kozep",
+    "text": "Mutassa be a környezetkárosítás és a környezeti katasztrófák társadalmi következményeit, életkörülményekre gyakorolt hatását példák alapján."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k3",
+    "level": "kozep",
+    "text": "Mutassa be a változásokra történő felkészülés és a változások mérséklésének, megállításának lehetőségeit."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k4",
+    "level": "kozep",
+    "text": "Ismertesse a megoldásokra irányuló nemzetközi törekvéseket, indokolja az összefogás szükségességét."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k5",
+    "level": "kozep",
+    "text": "Mutassa be az emberi tevékenység szerepét a természetes életközösségek, élőhelyek számának csökkenésében."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k6",
+    "level": "kozep",
+    "text": "Ismertesse e folyamat következményeit."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e1",
+    "level": "emelt",
+    "text": "Értelmezze a környezeti válság kialakulásának okait és folyamatát."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e2",
+    "level": "emelt",
+    "text": "Mutassa be a földrajzi környezet társadalmi tevékenységek hatására bekövetkezett változásait."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e3",
+    "level": "emelt",
+    "text": "Elemezzen a témához kapcsolódó forrásokat."
+   },
+   {
+    "id": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e4",
+    "level": "emelt",
+    "text": "Alkosson véleményt konkrét példák, esetelemzések alapján."
+   }
+  ]
+ },
+ {
+  "id": "10-2-demografiai-es-urbanizacios-problemak",
+  "title": "10.2. Demográfiai és urbanizációs problémák",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "10-2-demografiai-es-urbanizacios-problemak--k1",
+    "level": "kozep",
+    "text": "Mutassa be a népességszám alakulásának társadalmi-gazdasági következményeit és összefüggéseit."
+   },
+   {
+    "id": "10-2-demografiai-es-urbanizacios-problemak--k2",
+    "level": "kozep",
+    "text": "Ismertesse a népességrobbanás kialakulásának okait, következményeit és területi jellemzőit."
+   },
+   {
+    "id": "10-2-demografiai-es-urbanizacios-problemak--k3",
+    "level": "kozep",
+    "text": "Mutassa be példák alapján a nagyvárosok terjeszkedésének környezeti következményeit."
+   },
+   {
+    "id": "10-2-demografiai-es-urbanizacios-problemak--k4",
+    "level": "kozep",
+    "text": "Mutassa be az összefüggést a városi életforma és a környezet fokozott terhelése között."
+   },
+   {
+    "id": "10-2-demografiai-es-urbanizacios-problemak--k5",
+    "level": "kozep",
+    "text": "Elemezzen a témához kapcsolódó adatokat, ábrákat, szövegeket."
+   },
+   {
+    "id": "10-2-demografiai-es-urbanizacios-problemak--e1",
+    "level": "emelt",
+    "text": "Igazolja példák alapján az urbanizációs folyamatok eltérő területi jellemzőit és ezek összefüggéseit a környezet állapotával."
+   }
+  ]
+ },
+ {
+  "id": "10-3-elelmezes-es-egeszseg",
+  "title": "10.3. Élelmezés és egészség",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "10-3-elelmezes-es-egeszseg--k1",
+    "level": "kozep",
+    "text": "Ismerje fel az élelmiszer termelésének és fogyasztásának területi ellentmondásait."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--k2",
+    "level": "kozep",
+    "text": "Ismerje a társadalmi-gazdasági fejlettség és a lakosság általános egészségi állapota közötti összefüggéseket, értelmezze a társadalmi-gazdasági egyenlőtlenségből fakadó következményeket."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--k3",
+    "level": "kozep",
+    "text": "Elemezzen a témához kapcsolódó forrásokat."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--e1",
+    "level": "emelt",
+    "text": "Ismertesse az élelmezési válság kialakulásához vezető társadalmi-gazdasági és környezeti folyamatok összefüggéseit."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--e2",
+    "level": "emelt",
+    "text": "Bizonyítsa példákkal a fokozódó mezőgazdasági termelés környezeti hatásait."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--e3",
+    "level": "emelt",
+    "text": "Magyarázza a bioszféra és a talaj sérülékenysége, valamint az élelmiszerellátás összefüggéseit."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--e4",
+    "level": "emelt",
+    "text": "Jellemezze a biogazdálkodást."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--e5",
+    "level": "emelt",
+    "text": "Ismertesse a genetikailag módosított termékek előállításának okait, elemezzen a témához kapcsolódó forrásokat."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--e6",
+    "level": "emelt",
+    "text": "Következtessen a földrajzi elhelyezkedésből, a természet- és társadalomföldrajzi jellemzőkből a különböző térségek vízigényére."
+   },
+   {
+    "id": "10-3-elelmezes-es-egeszseg--e7",
+    "level": "emelt",
+    "text": "Mutassa be a vízigény kielégítésének korlátait, a vízhiány következményeit."
+   }
+  ]
+ },
+ {
+  "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei",
+  "title": "10.4. A mind nagyobb méretű fogyasztás és a gazdasági növekedés következményei",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k1",
+    "level": "kozep",
+    "text": "Ismertesse a hulladékgazdálkodás jelentőségét, vesse össze a különböző megoldási lehetőségeket."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k2",
+    "level": "kozep",
+    "text": "Mutassa be példák alapján a hulladékok újrahasznosításának lehetőségeit."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k3",
+    "level": "kozep",
+    "text": "Mutassa be a fenntartható gazdaság jellemzőit, érveljen ennek fontossága mellett."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k4",
+    "level": "kozep",
+    "text": "Ismertesse példák segítségével az egyén szerepét, felelősségét a fenntartható gazdaság kialakításában."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k5",
+    "level": "kozep",
+    "text": "Ismerje a fogyasztói társadalom és a tudatos fogyasztói közösségek fő jellemzőit."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k6",
+    "level": "kozep",
+    "text": "Mutassa be a megújuló és a nem megújuló energiahordozók fő jellemzőit, felhasználásuk lehetőségeit, korlátait és környezeti következményeit."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e1",
+    "level": "emelt",
+    "text": "Mutassa be a nyersanyag- és energiaválság kialakulásának folyamatát."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e2",
+    "level": "emelt",
+    "text": "Igazolja az energia- és nyersanyag-hatékony gazdálkodás lényegét, az alternatív energiaforrások hasznosításának jelentőségét."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e3",
+    "level": "emelt",
+    "text": "Mutassa be a környezeti szempontok érvényesíthetőségét a termelésben és a fogyasztásban."
+   },
+   {
+    "id": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e4",
+    "level": "emelt",
+    "text": "Hasonlítsa össze fogyasztóvédelmi szempontból a hagyományos és elektronikus vásárlást."
+   }
+  ]
+ },
+ {
+  "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa",
+  "title": "10.5. A környezet- és a természetvédelem feladatai, a globális béke fenntartása",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k1",
+    "level": "kozep",
+    "text": "Ismerje fel a globális környezeti problémákat hírekben, folyamatokban, jelenségekben, és mutassa be kialakulásuk fő okait."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k2",
+    "level": "kozep",
+    "text": "Ismertesse a globális környezeti problémákkal foglalkozó legfontosabb nemzetközi szervezetek fő tevékenységeit."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k3",
+    "level": "kozep",
+    "text": "Soroljon fel a természeti-táji értékek és az emberiség kultúrkincsének védelmében tett lépéseket, igazolja ezek fontosságát."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k4",
+    "level": "kozep",
+    "text": "Mutassa be az egyén társadalmi szerepvállalásának lehetőségeit, a tevékeny közreműködés példáit a környezet védelmében."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k5",
+    "level": "kozep",
+    "text": "Értelmezze a fenntarthatóság fogalmát, a fenntarthatóság elérésének lehetőségeit."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k6",
+    "level": "kozep",
+    "text": "Mutassa be példák alapján a helyi szerveződések, illetve a regionális és nemzetközi összefogás feladatát és lehetőségeit a környezet védelme és a fenntarthatóság elérése érdekében."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--e1",
+    "level": "emelt",
+    "text": "Ismertesse források alapján a környezet védelmében született fő nemzetközi egyezményeket, irányelveket, célkitűzéseket, mutassa be a megvalósítás eredményeit és nehézségeit."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--e2",
+    "level": "emelt",
+    "text": "Mutassa be a háborúk, fegyveres konfliktusok földrajzi sajátosságokra visszavezethető okait és következményeit."
+   },
+   {
+    "id": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--e3",
+    "level": "emelt",
+    "text": "Ismertesse a legfontosabb nemzetközi humanitárius szervezetek fő tevékenységeit."
+   }
+  ]
+ }
+]

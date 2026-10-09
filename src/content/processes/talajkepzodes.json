@@ -1,0 +1,124 @@
+{
+  "id": "talajkepzodes",
+  "title": "A talajképződés",
+  "summary": "A talaj a kőzetburok legfelső, termőképességgel rendelkező laza takarója, amely az anyakőzet, az éghajlat, az élőlények, a domborzat és az idő együttes hatására, a geoszférák kölcsönhatásában képződik. Az érett talajban jellegzetes szintek (A-, B-, C-szint) alakulnak ki.",
+  "causes": [
+    "A talajképződés kiindulópontja az aprózódott és mállott anyakőzet (alapkőzet).",
+    "Az éghajlat (hőmérséklet, csapadék) szabja meg a mállás, a lebontás és a vízmozgás erősségét.",
+    "Az élőlények szerves anyagot juttatnak a talajba, a lebontó szervezetek humuszt hoznak létre.",
+    "A domborzat, a talajvíz és az eltelt idő is befolyásolja, milyen talaj és milyen vastag szelvény alakul ki."
+  ],
+  "course": [
+    "Az anyakőzet aprózódik és mállik, laza törmelék keletkezik (C-szint).",
+    "A törmeléken élőlények telepednek meg; elhalt maradványaikból szerves anyag halmozódik fel.",
+    "A lebontó szervezetek a szerves anyagot humusszá alakítják; kialakul a sötét színű, humuszos A-szint.",
+    "A lefelé szivárgó víz a felső szintből oldható anyagokat és finom részecskéket mos ki (kilúgozás), amelyek lejjebb, a B-szintben felhalmozódnak.",
+    "Hosszú idő alatt kialakul az érett talajszelvény, amelynek típusa az éghajlattól és a növényzettől függ (zonális talajok)."
+  ],
+  "consequences": [
+    "Létrejön a termőképességgel rendelkező talaj, amely víz-, levegő- és tápanyagtartalmával a növények élőhelye.",
+    "Az éghajlati övezeteknek megfelelően eltérő zonális talajok alakulnak ki (pl. mezőségi talaj, barna erdőtalaj, podzol, laterittalaj).",
+    "Ahol az anyakőzet vagy a víz hatása erősebb az éghajlaténál, azonális talajok (pl. öntéstalaj, láptalaj, rendzina, szikes talaj) jönnek létre.",
+    "A talaj nagyon lassan képződik, ezért gyakorlatilag nem megújuló erőforrás, védelme kiemelten fontos."
+  ],
+  "steps": [
+    {
+      "title": "Anyakőzet (C-szint): aprózódás, mállás",
+      "caption": "A felszíni kőzet aprózódással és mállással laza törmelékké alakul. Ez az anyakőzet, a talajszelvény legalsó, C-szintje."
+    },
+    {
+      "title": "Élőlények megtelepedése, szerves anyag",
+      "caption": "A törmeléken előbb zuzmók, mohák, majd magasabb rendű növények telepednek meg. Elhalt maradványaik szerves anyagként halmozódnak fel."
+    },
+    {
+      "title": "Humuszképződés (A-szint)",
+      "caption": "A talajlakó lebontó szervezetek a szerves anyagot humusszá alakítják. Így jön létre a sötét színű, tápanyagban gazdag felső, A-szint."
+    },
+    {
+      "title": "Kilúgozás és felhalmozódás (B-szint)",
+      "caption": "A lefelé szivárgó víz a felső szintből oldható anyagokat és agyagot mos ki (kilúgozási szint). Ezek lejjebb kiválnak, és létrejön a felhalmozódási, B-szint."
+    },
+    {
+      "title": "Érett talajszelvény",
+      "caption": "Hosszú idő alatt kialakul az A-, B- és C-szintből álló érett talajszelvény. Jellegét elsősorban az éghajlat és a növényzet határozza meg."
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Mezőföld löszös anyakőzetén, füves növényzet alatt vastag humuszrétegű, termékeny mezőségi talaj képződött.",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--mezofold"
+      ]
+    },
+    {
+      "text": "A Mátra lombhullató erdei alatt barna erdőtalaj alakult ki, amelyben a kilúgozás és a B-szintbeli felhalmozódás jól megfigyelhető.",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--matra"
+      ]
+    },
+    {
+      "text": "Szibéria tajgáján a hideg, nedves éghajlaton erősen kilúgozott, savanyú szürke erdőtalaj (podzol) jellemző.",
+      "places": [
+        "azsia--tajak--sziberia"
+      ]
+    },
+    {
+      "text": "Az Amazonas-medencében az intenzív mállás és kilúgozás miatt tápanyagszegény laterittalaj képződik.",
+      "places": [
+        "amerika--tajak--amazonas-medence"
+      ]
+    }
+  ],
+  "concepts": [
+    "talaj",
+    "anyakőzet (alapkőzet)",
+    "humusz",
+    "talajszemcse",
+    "talajlevegő",
+    "termőképesség",
+    "zonális és azonális talaj",
+    "talajszintek (A-, B-, C-szint)",
+    "kilúgozási szint",
+    "felhalmozódási szint",
+    "mezőségi talaj",
+    "barna erdőtalaj",
+    "szürke erdőtalaj (podzol)",
+    "laterittalaj"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a talajképződés folyamatát! Mutasd be a talajképző tényezőket és az érett talajszelvény szintjeit!",
+    "elements": [
+      {
+        "text": "Talajképző tényezők: anyakőzet, éghajlat, élőlények, domborzat (víz), idő.",
+        "points": 2
+      },
+      {
+        "text": "Az anyakőzet aprózódik és mállik, ez a C-szint.",
+        "points": 1
+      },
+      {
+        "text": "Élőlények telepednek meg, elhalt maradványaik szerves anyagként halmozódnak fel.",
+        "points": 1
+      },
+      {
+        "text": "A lebontó szervezetek humuszt képeznek; kialakul a humuszos A-szint.",
+        "points": 2
+      },
+      {
+        "text": "A szivárgó víz a felső szintből kilúgozza az oldható anyagokat, amelyek a B-szintben (felhalmozódási szint) halmozódnak fel.",
+        "points": 2
+      },
+      {
+        "text": "Az érett talaj típusát főként az éghajlat és a növényzet szabja meg (zonális talajok), pl. mezőségi talaj vagy barna erdőtalaj.",
+        "points": 1
+      },
+      {
+        "text": "A talaj lassan képződik, ezért védelme fontos (gyakorlatilag nem megújuló).",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A talaj az anyakőzet, az éghajlat, az élőlények, a domborzat és az idő együttes hatására képződik. Először az anyakőzet aprózódik és mállik, ebből lesz a talajszelvény legalsó, C-szintje. A törmeléken élőlények telepednek meg, elhalt maradványaikból szerves anyag halmozódik fel, amelyet a lebontó szervezetek humusszá alakítanak, így létrejön a sötét, humuszos A-szint. A lefelé szivárgó víz a felső szintből kilúgozza az oldható anyagokat és az agyagot, amelyek lejjebb, a B-szintben (felhalmozódási szint) halmozódnak fel. Hosszú idő alatt kialakul az érett talajszelvény, amelynek típusát főként az éghajlat és a növényzet határozza meg, például füves területen mezőségi talaj, lombhullató erdő alatt barna erdőtalaj. Mivel a talaj nagyon lassan képződik, gyakorlatilag nem megújuló erőforrás, ezért védenünk kell."
+  },
+  "generated": true,
+  "reviewed": false
+}

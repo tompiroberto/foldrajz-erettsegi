@@ -1,0 +1,108 @@
+{
+  "id": "varosodas-szakaszai",
+  "title": "A városfejlődés szakaszai",
+  "summary": "A városfejlődés (urbanizáció) a fejlett országokban jól elkülöníthető szakaszokban zajlott: a városokba áramlástól az elővárosokba költözésen és a nagyvárosok népességvesztésén át a belvárosok megújulásáig. A fejlődő országok ma többnyire az első szakaszban vannak.",
+  "causes": [
+    "Az iparosodás munkahelyeket teremtett a városokban, a mezőgazdaság gépesítése pedig felszabadította a falusi munkaerőt.",
+    "A városok jobb ellátást, magasabb jövedelmet, szolgáltatásokat kínálnak (vonzó tényezők), a vidéki szegénység taszít.",
+    "Később a belvárosi zsúfoltság, szennyezés és drágaság, valamint az autózás és a közlekedés fejlődése a kiköltözést segítette.",
+    "A városrehabilitáció és a szolgáltató gazdaság belvárosi munkahelyei újra vonzóvá tették a városközpontokat."
+  ],
+  "course": [
+    "Urbanizáció: a népesség a falvakból a városokba áramlik, a városok népessége gyorsan nő.",
+    "Szuburbanizáció: a módosabb lakosság a város környéki településekre költözik, kialakul a településhalmaz (agglomeráció).",
+    "Dezurbanizáció: a nagyvárosok és agglomerációk népessége csökken, a népesség kisebb városokba, vidékre költözik.",
+    "Reurbanizáció: a felújított belvárosokba visszaköltöznek a lakók, főként fiatal, magasan képzett rétegek."
+  ],
+  "consequences": [
+    "A fejlett országokban a népesség nagy része városokban él, a városok térbeli szerkezete (city, lakóövek) átalakul.",
+    "A szuburbanizáció növeli az ingázást és a forgalmat, a városkörnyék beépül.",
+    "A fejlődő országokban a gyors városodás nem jár együtt elegendő munkahellyel és infrastruktúrával: nyomornegyedek, urbanizációs ártalmak jelennek meg.",
+    "A reurbanizáció a belvárosok megújulását, de az ingatlanárak növekedését és a régi lakók kiszorulását is hozhatja."
+  ],
+  "steps": [
+    {
+      "title": "Urbanizáció: a népesség a városokba áramlik",
+      "caption": "Az iparosodás munkahelyei és a városi szolgáltatások vonzzák a falusi népességet. A városok népessége gyorsan nő, kiterjednek."
+    },
+    {
+      "title": "Szuburbanizáció: kiköltözés az elővárosokba",
+      "caption": "A zsúfoltság, a szennyezés és a drága lakások elől a jobb módúak a város környéki településekre költöznek. Kialakul az agglomeráció, megnő az ingázás."
+    },
+    {
+      "title": "Dezurbanizáció: a nagyvárosok népessége csökken",
+      "caption": "A népesség a nagyvárosokból és agglomerációikból kisebb városokba, vidéki térségekbe költözik. A nagyváros lakossága fogyni kezd."
+    },
+    {
+      "title": "Reurbanizáció: visszaáramlás a megújuló belvárosokba",
+      "caption": "A városrehabilitáció nyomán megújult belvárosok újra vonzóvá válnak. Főként fiatal, képzett rétegek költöznek vissza a városközpontokba."
+    }
+  ],
+  "examples": [
+    {
+      "text": "A rendszerváltás után a Budapesti agglomerációban erős szuburbanizáció indult: sokan költöztek Budapestről a környező településekre (pl. Gödöllő, Szentendre környékére).",
+      "places": [
+        "magyarorszag--telepulesek--budapesti-agglomeracio",
+        "magyarorszag--telepulesek--budapest"
+      ]
+    },
+    {
+      "text": "Londonban a lehanyatlott dokkvidék (Docklands) rehabilitációja után irodák és lakóépületek épültek, ami a reurbanizáció példája.",
+      "places": [
+        "europa--varosok--london"
+      ]
+    },
+    {
+      "text": "Mumbaiban és Lagosban ma is gyors az urbanizáció; a beáramló népesség jelentős része nyomornegyedekben él.",
+      "places": [
+        "azsia--varosok--mumbai-bombay",
+        "afrika--varosok--lagos"
+      ]
+    }
+  ],
+  "concepts": [
+    "városfejlődés (urbanizáció)",
+    "városodás",
+    "városiasodás",
+    "elővárosodás (szuburbanizáció)",
+    "ellenvárosodás (dezurbanizáció)",
+    "reurbanizáció",
+    "településhalmaz (agglomeráció)",
+    "városrehabilitáció",
+    "ingázás",
+    "nyomornegyed",
+    "urbanizációs ártalmak"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a városfejlődés szakaszait! Mutasd be az egyes szakaszok okait, és hasonlítsd össze a fejlett és a fejlődő országok városodását!",
+    "elements": [
+      {
+        "text": "Urbanizáció: a népesség a városokba áramlik az ipari munkahelyek és a városi szolgáltatások miatt.",
+        "points": 2
+      },
+      {
+        "text": "Szuburbanizáció: a jobb módúak kiköltöznek az elővárosokba (zsúfoltság, szennyezés, közlekedés fejlődése), kialakul az agglomeráció, nő az ingázás.",
+        "points": 2
+      },
+      {
+        "text": "Dezurbanizáció: a nagyvárosok népessége csökken, a népesség kisebb településekre költözik.",
+        "points": 1
+      },
+      {
+        "text": "Reurbanizáció: városrehabilitáció után visszaköltözés a megújult belvárosokba.",
+        "points": 2
+      },
+      {
+        "text": "A fejlődő országok többsége az első szakaszban van; a városodás gyorsabb, mint a munkahelyteremtés: nyomornegyedek.",
+        "points": 2
+      },
+      {
+        "text": "Helyes példa (pl. Budapesti agglomeráció – szuburbanizáció, London Docklands – reurbanizáció).",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A városfejlődés első szakasza az urbanizáció, amikor az iparosodás munkahelyei és a városi szolgáltatások miatt a falusi népesség a városokba áramlik. A második szakaszban a belvárosi zsúfoltság, szennyezés és drágaság, valamint a közlekedés fejlődése miatt a jobb módú lakosság az elővárosokba költözik (szuburbanizáció), kialakul az agglomeráció, és nő az ingázás, ahogy a rendszerváltás után a Budapesti agglomerációban is történt. A harmadik szakaszban, a dezurbanizáció idején a nagyvárosok népessége csökken, mert sokan kisebb településekre, vidékre költöznek. A negyedik szakaszban a városrehabilitáció nyomán megújult belvárosokba visszaáramlik a népesség, ez a reurbanizáció, amire London dokkvidéke példa. A fejlődő országok többsége még az első szakaszban van, ahol a városodás sokkal gyorsabb a munkahelyteremtésnél, ezért nagy nyomornegyedek alakulnak ki."
+  },
+  "generated": true,
+  "reviewed": false
+}

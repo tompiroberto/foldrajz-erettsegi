@@ -1,0 +1,2059 @@
+{
+  "facts": {
+    "europa--a-foldresz-reszei--del-europa": {
+      "fekves": "Európa déli része kb. az é. sz. 36–47° között: a Pireneusi-, az Appennini- és a Balkán-félsziget a hozzájuk tartozó szigetekkel. Északon az Alpok, a Pireneusok és a Balkán-hegység, délen a Földközi-tenger határolja.",
+      "facts": [
+        "Nagy részén mediterrán éghajlat uralkodik: forró, száraz nyár, enyhe, csapadékos tél.",
+        "Az eurázsiai hegységrendszer fiatal gyűrthegységei szabdalják, gyakori a földrengés és a vulkánosság.",
+        "Jellemző a mediterrán gazdálkodás (olíva, szőlő, citrusfélék) és a tengerparti idegenforgalom."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "mediterrán gazdálkodás",
+        "gyűrthegység"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--a-foldresz-reszei--eszak-europa": {
+      "fekves": "Európa északi része kb. az é. sz. 55–71° között: a Skandináv-félsziget, Finnország, Dánia és az Atlanti-óceánon Izland. Az Atlanti-óceán, az Északi-tenger és a Balti-tenger veszi körül.",
+      "facts": [
+        "Keleti részének alapja a Balti-pajzs ősmasszívuma, nyugaton a kaledóniai Skandináv-hegység húzódik.",
+        "A jégkori eljegesedés nyomai: fjordok, jégvájta tavak, morénák.",
+        "Az Észak-atlanti-áramlás miatt partjai a szélességhez képest enyhék (pozitív hőmérsékleti anomália).",
+        "Országai fejlett jóléti államok."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "fjord",
+        "pozitív és negatív hőmérsékleti anomália",
+        "jóléti állam"
+      ],
+      "processes": [
+        "jeg-munkaja",
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--a-foldresz-reszei--kelet-europa": {
+      "fekves": "Európa keleti része kb. az é. sz. 45–56° (Oroszország európai részével északabbra is) és a k. h. 22–40° között; Ukrajna, Belarusz, Moldova és Oroszország európai része tartozik ide. Nyugaton Kelet-Közép-Európával, délen a Fekete-tengerrel határos.",
+      "facts": [
+        "Felszínét a Kelet-európai-síkság táblás vidéke uralja.",
+        "Az éghajlat kelet felé egyre szárazföldibb, nő az évi hőingás.",
+        "Délen a löszön kialakult mezőségi talajon (csernozjom) jelentős a gabonatermesztés.",
+        "Fő folyói a Volga, a Dnyeper és a Don."
+      ],
+      "concepts": [
+        "táblás vidék",
+        "mezőségi talaj",
+        "nedves kontinentális éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--a-foldresz-reszei--kelet-kozep-europa": {
+      "fekves": "Európa középső-keleti része kb. az é. sz. 42–55° és a k. h. 12–30° között, a Balti-tengertől a Fekete-tengerig és a Balkánig. Nyugaton Közép-Európával, keleten Kelet-Európával határos; tengelye a Kárpátok és a Duna.",
+      "facts": [
+        "Országai 1989–1990 körül tértek át a tervutasításos gazdaságról a piacgazdaságra.",
+        "Többségük 2004-ben vagy 2007-ben csatlakozott az Európai Unióhoz.",
+        "A rendszerváltás után jelentős működőtőke érkezett, főként az autó- és elektronikai iparba.",
+        "Lengyelország, Csehország, Szlovákia és Magyarország alkotja a Visegrádi Együttműködést."
+      ],
+      "concepts": [
+        "gazdasági rendszerváltoztatás",
+        "piacgazdaság",
+        "működőtőke-befektetés",
+        "Visegrádi Együttműködés (V4)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--a-foldresz-reszei--kozep-europa": {
+      "fekves": "Európa középső része kb. az é. sz. 45–55° és a k. h. 6–24° között. Északon az Északi- és a Balti-tenger, délen az Alpok határolja; nyugaton Nyugat-Európával, keleten Kelet-Közép-Európával szomszédos.",
+      "facts": [
+        "Felszíne északról délre három sávra tagolódik: alföldek, variszkuszi röghegységek, majd az Alpok gyűrthegysége.",
+        "Éghajlata átmenet az óceáni és a szárazföldi között: nedves kontinentális.",
+        "Itt fekszik Európa vezető gazdasága, Németország, a Rajna mentén nagy ipari körzetekkel."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "gyűrthegység",
+        "nedves kontinentális éghajlat",
+        "variszkuszi"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--a-foldresz-reszei--nyugat-europa": {
+      "fekves": "Európa nyugati, atlanti része kb. az é. sz. 43–61° és a ny. h. 11°–k. h. 7° között: a Brit-szigetek, Franciaország és a Benelux-államok. Nyugaton az Atlanti-óceán, északon az Északi-tenger határolja.",
+      "facts": [
+        "Óceáni éghajlatú: a nyugatias szelek és az Észak-atlanti-áramlás enyhe telet, hűvös nyarat, egész évben csapadékot hoz.",
+        "Nagy-Britannia az ipari forradalom kiindulópontja volt.",
+        "A világgazdaság egyik centrumtérsége, magas a szolgáltatások aránya."
+      ],
+      "concepts": [
+        "óceáni éghajlat",
+        "nyugatias szelek",
+        "világgazdasági pólus (centrum térség)"
+      ],
+      "processes": [
+        "altalanos-legkorzes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--alpok": {
+      "fekves": "Ív alakú hegység kb. az é. sz. 44–48° és a k. h. 5–16° között, Franciaország, Olaszország, Svájc, Németország, Ausztria és Szlovénia területén. Északon a Svájci-középföld és a Bajor-medence, délen a Pó-alföld határolja.",
+      "facts": [
+        "Az eurázsiai hegységrendszer fiatal gyűrthegysége, az afrikai és az eurázsiai lemez ütközésével keletkezett.",
+        "A jégkori eljegesedés U alakú völgyeket, kárfülkéket és morénával elgátolt tavakat hozott létre.",
+        "Jól megfigyelhető a függőleges földrajzi övezetesség; éghajlatválasztó hegység.",
+        "Jelentős a vízenergia-termelés és a téli-nyári idegenforgalom."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "eurázsiai és pacifikus hegységképződés",
+        "U alakú völgy (teknővölgy)",
+        "függőleges földrajzi övezetesség"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--appenninek": {
+      "fekves": "Az Appennini-félsziget gerincét alkotó hegység kb. az é. sz. 38–45° között, Olaszországban. Északon a Pó-alföld, keletre az Adriai-, nyugatra a Tirrén-tenger.",
+      "facts": [
+        "Az eurázsiai hegységrendszer fiatal gyűrthegysége.",
+        "Gyakoriak a földrengések, mert a térség lemezhatár közelében fekszik.",
+        "Nagy részét üledékes kőzetek, köztük mészkő építik fel."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "földrengés"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--appennini-felsziget": {
+      "fekves": "Dél-Európa középső félszigete kb. az é. sz. 38–44° és a k. h. 10–18,5° között. Keletről az Adriai-, délről a Jón-, nyugatról a Tirrén-tenger mossa; északon a Pó-alföld kapcsolja a kontinenshez.",
+      "facts": [
+        "Gerincét az Appenninek gyűrthegysége alkotja.",
+        "Működő vulkánjai közé tartozik a Vezúv; gyakori a földrengés.",
+        "Éghajlata mediterrán, a mezőgazdaságban fontos az olíva, a szőlő és a citrusfélék."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "rétegvulkán"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--balkan-felsziget": {
+      "fekves": "Dél-Európa keleti félszigete kb. az é. sz. 36–46° és a k. h. 13,5–30° között; északi határa a Duna–Száva vonal. Az Adriai-, a Jón-, az Égei-, a Márvány- és a Fekete-tenger veszi körül.",
+      "facts": [
+        "Felszíne hegyvidékes: Dinári-hegység, Balkán-hegység, Rodope.",
+        "A partvidék mediterrán, a belső területek éghajlata szárazföldibb.",
+        "Etnikailag és vallásilag sokszínű; Jugoszlávia felbomlása után több új állam jött létre."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--balkan-hegyseg": {
+      "fekves": "Bulgáriát nyugat–keleti irányban átszelő hegység kb. az é. sz. 42,5–44° és a k. h. 22–27,5° között. Északon a Duna menti síkság, délen a Felső-Trákiai-síkság határolja, keleten a Fekete-tengerig ér.",
+      "facts": [
+        "Az eurázsiai hegységrendszer gyűrthegysége, a félsziget névadója.",
+        "Éghajlatválasztó: északról hideg légtömegeket tart vissza."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "éghajlatválasztó hegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--becsi-medence": {
+      "fekves": "Kis medence kb. az é. sz. 48° és a k. h. 16–17° körül, Ausztria keleti részén, kis része Szlovákiában és Csehországban. Az Alpok és a Kárpátok között fekszik, a Duna szeli át.",
+      "facts": [
+        "Az Alpok és a Kárpátok közötti tektonikus süllyedék.",
+        "Üledékeiben kőolaj- és földgázlelőhelyek vannak.",
+        "Itt fekszik Bécs, a Duna menti kereskedelmi útvonalak csomópontja."
+      ],
+      "concepts": [
+        "tektonikus medence",
+        "kőolaj",
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--brit-szigetek": {
+      "fekves": "Európa északnyugati partjainál kb. az é. sz. 50–60° és a ny. h. 11°–k. h. 2° között fekvő szigetcsoport (Nagy-Britannia, Írország és kisebb szigetek). Keletről az Északi-tenger, délről a La Manche, nyugatról az Atlanti-óceán határolja.",
+      "facts": [
+        "A kontinens szárazföldi talapzatán (selfen) fekszik.",
+        "Óceáni éghajlatú: enyhe tél, hűvös nyár, egész évben csapadék.",
+        "Északi részén kaledóniai, délebbre variszkuszi eredetű lepusztult hegységek vannak.",
+        "A jégkorban jég borította, nyomai a jégvájta tavak és völgyek."
+      ],
+      "concepts": [
+        "szárazföldi talapzat (self)",
+        "óceáni éghajlat",
+        "kaledóniai",
+        "variszkuszi"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--ciprus": {
+      "fekves": "Sziget a Földközi-tenger keleti medencéjében, kb. é. sz. 35°, k. h. 33° körül. Törökországtól délre, Szíriától és Libanontól nyugatra fekszik.",
+      "facts": [
+        "Mediterrán éghajlatú; jelentős az idegenforgalom.",
+        "1974 óta megosztott: a déli görög és az északi török rész között ENSZ-felügyelt övezet húzódik.",
+        "A Ciprusi Köztársaság 2004-ben lett az Európai Unió tagja."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--csallokoz": {
+      "fekves": "Folyami sziget kb. é. sz. 48°, k. h. 17–18° között Szlovákia délnyugati részén. A Duna (északon a Kis-Duna) ágai fogják közre, Pozsonytól Komáromig.",
+      "facts": [
+        "Európa legnagyobb folyami szigete, a Duna hordalékából épült fel.",
+        "Kavicsos hordaléka alatt jelentős talajvíz- (ivóvíz-) készlet van.",
+        "Magyar többségű terület; a Duna elterelésével itt épült a bősi vízerőmű."
+      ],
+      "concepts": [
+        "hordalék",
+        "sziget",
+        "talajvíz"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--cseh-medence": {
+      "fekves": "Csehország nyugati részét elfoglaló medence kb. az é. sz. 49–51° és a k. h. 12,5–16° között. Az Érchegység, a Szudéták, a Cseh-erdő és a Cseh–Morva-dombság keretezi.",
+      "facts": [
+        "Variszkuszi röghegységek keretezik; a medence ősi rögös szerkezetű terület.",
+        "Az Elba és mellékfolyója, a Moldva vízgyűjtője.",
+        "Északnyugati peremén barnakőszén-lelőhelyek vannak; központja Prága."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "variszkuszi",
+        "vízgyűjtő terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--dalmacia": {
+      "fekves": "Az Adriai-tenger keleti partvidéke kb. az é. sz. 43–45° és a k. h. 15–18° között, Horvátországban. A Dinári-hegység és a tenger között húzódik.",
+      "facts": [
+        "Névadója a dalmát parttípusnak: a parttal párhuzamos hegyláncok elsüllyedésével hosszanti szigetsorok keletkeztek.",
+        "Mészkőből felépülő, karsztos terület.",
+        "Mediterrán éghajlatú, jelentős a tengerparti idegenforgalom."
+      ],
+      "concepts": [
+        "tagolt és tagolatlan part",
+        "mészkő",
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--deli-karpatok": {
+      "fekves": "A Kárpátok déli vonulata kb. az é. sz. 44,5–46° és a k. h. 21,5–27° között, Romániában. Északon az Erdélyi-medence, délen a Román-alföld határolja.",
+      "facts": [
+        "Főként kristályos kőzetekből (gránit, kristályos pala) épül fel.",
+        "Magashegységi jellegű, csúcsain jégkori kárfülkék és tengerszemek vannak.",
+        "A Duna a Vaskapunál, az Olt a Vöröstoronyi-szorosnál töri át."
+      ],
+      "concepts": [
+        "kárfülke",
+        "tengerszem",
+        "szoros"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--dinari-hegyseg": {
+      "fekves": "Az Adriai-tenger keleti partjával párhuzamos hegység kb. az é. sz. 42–46° és a k. h. 13,5–21,5° között (Szlovénia, Horvátország, Bosznia-Hercegovina, Montenegró, Albánia). Északon a Pannon-medence, nyugaton az Adriai-tenger határolja.",
+      "facts": [
+        "Az eurázsiai hegységrendszer gyűrthegysége.",
+        "Főként mészkőből áll; a karsztjelenségek (víznyelők, töbrök, poljék) klasszikus területe.",
+        "Gyakoriak a földrengések."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "mészkő",
+        "polje",
+        "dolina (töbör)"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--duna-delta": {
+      "fekves": "A Duna torkolatvidéke kb. é. sz. 45°, k. h. 29° körül, Románia (kisebb részben Ukrajna) területén, a Fekete-tenger nyugati partján.",
+      "facts": [
+        "Deltatorkolat: a Duna hordalékából épül, három fő ágra (Kilia, Szulina, Szent György) bomlik.",
+        "Nádasokban, vizes élőhelyekben gazdag, madárvilága kiemelkedő.",
+        "Bioszféra-rezervátum és a világörökség része."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "bioszféra rezervátum",
+        "világörökség"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--erdelyi-medence": {
+      "fekves": "Medence Románia középső részén kb. az é. sz. 46–47° és a k. h. 23,5–25° között. Keleten és északon a Keleti-, délen a Déli-Kárpátok, nyugaton az Erdélyi-szigethegység zárja körül.",
+      "facts": [
+        "Dombsági jellegű medence, fő folyói a Maros, a Szamos és az Olt.",
+        "Jelentős földgázkészlete (metángáz) van.",
+        "Kősótelepein sóbányák működtek (pl. Parajd, Torda)."
+      ],
+      "concepts": [
+        "medence",
+        "földgáz",
+        "kősó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--erdelyi-szigethegyseg-erdelyi-kozephegyseg": {
+      "fekves": "Hegyvidék kb. az é. sz. 46–47° és a k. h. 22–23,5° között Romániában. Nyugaton az Alföld, keleten az Erdélyi-medence határolja.",
+      "facts": [
+        "Nevét onnan kapta, hogy fiatalabb üledékek közül szigetszerűen emelkedik ki.",
+        "Ősi kristályos rögök, mészkőterületek és vulkáni hegyek alkotják.",
+        "Az Erdélyi-érchegységben régóta folyik arany- és ezüstbányászat.",
+        "A Körösök forrásvidéke."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "érc"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--etna": {
+      "fekves": "Vulkán Szicília keleti partján, kb. é. sz. 37,8°, k. h. 15° körül, Catania közelében, a Jón-tenger partján.",
+      "facts": [
+        "Európa legmagasabb működő vulkánja, rétegvulkán.",
+        "Az afrikai és az eurázsiai kőzetlemez közeledéséhez kapcsolódik.",
+        "Termékeny vulkáni talajú lejtőin szőlőt és citrusféléket termesztenek."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "láva"
+      ],
+      "processes": [
+        "vulkani-mukodes",
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--eszakkeleti-karpatok": {
+      "fekves": "A Kárpátok északkeleti szakasza kb. az é. sz. 48–49,5° és a k. h. 21,5–25° között, főként Ukrajna (Kárpátalja), valamint Szlovákia, Lengyelország és Románia területén. Délnyugaton az Alföld, északkeleten a Kelet-európai-síkság határolja.",
+      "facts": [
+        "Külső vonulatai flisből (homokkő, agyagpala) épülnek, belső oldalán vulkáni vonulat húzódik.",
+        "Itt ered a Tisza.",
+        "Hágói közül nevezetes a Vereckei-hágó."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "hágó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--eszaknyugati-karpatok": {
+      "fekves": "A Kárpátok északnyugati szakasza kb. az é. sz. 48–50° és a k. h. 17–21,5° között, főként Szlovákiában, valamint Lengyelország és Csehország határvidékén. Délen a Kisalföld és az Alföld, északon a Lengyel-középhegység szegélyezi.",
+      "facts": [
+        "Itt emelkedik a Kárpátok legmagasabb része, a Magas-Tátra.",
+        "Övezetes felépítésű: külső flisvonulat, kristályos magvú hegységek, belső vulkáni vonulat.",
+        "Belső vulkáni hegységeiben (pl. Selmeci-hegység) régi ércbányászat folyt."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "érc"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--finn-tovidek": {
+      "fekves": "Finnország középső-déli része kb. az é. sz. 61–64° és a k. h. 23–31° között. Délen a Finn-öböl partvidéke, keleten Oroszország határolja.",
+      "facts": [
+        "A Balti-pajzs ősmasszívumán fekszik.",
+        "Tavai a jégkori jég vájta mélyedésekben és morénák mögött gyűltek össze.",
+        "Tajgaerdők borítják, a fa- és papíripar nyersanyagbázisa."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "jégvájta tó",
+        "tajga"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--francia-kozephegyseg": {
+      "fekves": "Franciaország déli-középső részén kb. az é. sz. 43,5–46° és a k. h. 1,5–5° között. Keleten a Rhône völgye, északon a Párizsi-medence, délnyugaton az Aquitániai-medence határolja.",
+      "facts": [
+        "Variszkuszi röghegység, amelyet a harmadidőszakban vulkáni működés is érintett.",
+        "Kialudt vulkáni kúpjai (Auvergne) jól megőrződtek.",
+        "Itt ered a Loire."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "variszkuszi",
+        "megfiatalított rögös szerkezetű hegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--german-alfold": {
+      "fekves": "Észak-Németország síksága kb. az é. sz. 51–55° és a k. h. 7–15° között. Északon az Északi- és a Balti-tenger, délen a Német-középhegység határolja.",
+      "facts": [
+        "Jégkori feltöltött síkság morénákkal és tóhátságokkal.",
+        "Déli szegélyén löszön termékeny talajok alakultak ki.",
+        "Folyói (Elba, Weser, Odera) az Északi- és a Balti-tengerbe tartanak; nagyvárosai Berlin és Hamburg."
+      ],
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság",
+        "moréna",
+        "tóhátság",
+        "lösz"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--hargita": {
+      "fekves": "Vulkáni hegység Romániában, a Székelyföldön kb. az é. sz. 46–47° és a k. h. 25,5° körül. A Keleti-Kárpátok belső vulkáni vonulatának része, nyugatra az Erdélyi-medence fekszik.",
+      "facts": [
+        "Andezitből felépülő, fiatal vulkáni hegység.",
+        "Déli részén, a Csomádban található a Szent Anna-tó krátertava.",
+        "Gazdag a vulkáni utóműködés jelenségeiben: borvizek (savanyúvizek), mofetták."
+      ],
+      "concepts": [
+        "andezit",
+        "vulkáni utóműködés",
+        "savanyúvíz",
+        "mofetta"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--holland-melyfold": {
+      "fekves": "Hollandia és Belgium északi részének alacsony síksága kb. az é. sz. 51–53,5° és a k. h. 2,5–7° között, az Északi-tenger partján, a Rajna és a Maas torkolatvidékén.",
+      "facts": [
+        "Jelentős része tengerszint alatti mélyföld.",
+        "A tengertől gátakkal elhódított, lecsapolt területek a polderek.",
+        "Intenzív kertészet, virág- és zöldségtermesztés folyik."
+      ],
+      "concepts": [
+        "mélyföld",
+        "polder",
+        "árvízvédelmi gát"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--izland": {
+      "fekves": "Sziget az Atlanti-óceán északi részén kb. az é. sz. 63,5–66,5° és a ny. h. 13,5–24,5° között, közvetlenül az északi sarkkör alatt, Grönland és Norvégia között.",
+      "facts": [
+        "Az Atlanti-óceáni-hátság felszínre emelkedő része: távolodó lemezszegélyen fekszik, alatta forró pont is van.",
+        "Gyakoriak a hasadékvulkáni kitörések; gejzírek, hőforrások találhatók rajta.",
+        "Energiaigényét nagyrészt geotermikus és vízenergia fedezi.",
+        "Gleccserek borítják egyes részeit; fontos a halászat."
+      ],
+      "concepts": [
+        "óceánközépi hátság",
+        "hasadékvulkán",
+        "gejzír",
+        "gleccser"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "vulkani-mukodes",
+        "forro-pont"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--karpat-medence-pannon-medence": {
+      "fekves": "Közép-Európa délkeleti részén, kb. az é. sz. 45–49° és a k. h. 16–26° között fekvő medence. A Kárpátok, az Alpok és a Dinári-hegység öleli körül; Magyarország teljes egészében itt fekszik.",
+      "facts": [
+        "Tektonikus süllyedék, amelyet a Pannon-tenger üledékei és a folyók hordaléka töltött fel.",
+        "Vékony földkérge miatt nagy a geotermikus gradiens, gazdag hévizekben.",
+        "Vízrajzilag szinte egységes: a Duna és a Tisza vízgyűjtője.",
+        "Éghajlatára óceáni, kontinentális és mediterrán hatások is jutnak."
+      ],
+      "concepts": [
+        "süllyedékterület",
+        "geotermikus gradiens",
+        "hévíz",
+        "vízgyűjtő terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--karpatok": {
+      "fekves": "Kb. 1500 km hosszú hegységív kb. az é. sz. 44,5–50° és a k. h. 17–27° között, Szlovákia, Lengyelország, Ukrajna, Románia (és kis részben Csehország, Szerbia) területén. A Kárpát-medencét öleli körül a Pozsonyi-kaputól a Vaskapuig.",
+      "facts": [
+        "Az eurázsiai hegységrendszer fiatal gyűrthegysége.",
+        "Övezetes felépítésű: külső flisöv, kristályos magvú vonulatok, belső vulkáni koszorú.",
+        "Legmagasabb csúcsa a Magas-Tátrában lévő Gerlachfalvi-csúcs."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "eurázsiai és pacifikus hegységképződés"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--kelet-europai-siksag": {
+      "fekves": "Európa legnagyobb síksága kb. az é. sz. 46–68° és a k. h. 21–60° között, a Baltikumtól az Urálig, a Jeges-tengertől a Fekete- és a Kaszpi-tengerig.",
+      "facts": [
+        "Táblás vidék: az ősi aljzatot vízszintes üledékrétegek fedik.",
+        "Északi részét a jégkorban jégtakaró borította, déli részén löszös mezőségi talaj van.",
+        "Jól megfigyelhető rajta a vízszintes övezetesség a tundrától a füves pusztáig.",
+        "Fő folyói a Volga, a Dnyeper és a Don."
+      ],
+      "concepts": [
+        "táblás vidék",
+        "vízszintes földrajzi övezetesség",
+        "mezőségi talaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--keleti-alpok": {
+      "fekves": "Az Alpok keleti része kb. az é. sz. 45,5–48° és a k. h. 9,5–16° között, főként Ausztriában, Olaszország északkeleti részén, Svájc keleti és Szlovénia északi részén. Keleten a Bécsi-medence és az Alpokalja határolja.",
+      "facts": [
+        "Alacsonyabb és szélesebb, mint a Nyugati-Alpok; legmagasabb csúcsa a Grossglockner.",
+        "Északi és déli vonulatai mészkőből, középső része kristályos kőzetekből áll.",
+        "Jelentős az idegenforgalom és a vízenergia-hasznosítás."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "mészkő"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--keleti-karpatok": {
+      "fekves": "A Kárpátok keleti vonulata kb. az é. sz. 45,5–48° és a k. h. 24–26,5° között Romániában. Nyugaton az Erdélyi-medence, keleten a Moldvai-hátság határolja.",
+      "facts": [
+        "Három párhuzamos övből áll: külső flis, középső kristályos és belső vulkáni vonulat (Kelemen, Görgényi, Hargita).",
+        "Itt található a Gyilkos-tó és a Békás-szoros.",
+        "Külső előterében kőolaj- és földgázlelőhelyek vannak."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--kreta": {
+      "fekves": "Görögország legnagyobb szigete kb. é. sz. 35°, k. h. 23,5–26,5° között. Az Égei-tengert délről zárja le, délre a Földközi-tenger nyílt része fekszik.",
+      "facts": [
+        "Mediterrán éghajlatú; jellegzetes az olívatermesztés.",
+        "Közelében az afrikai lemez az eurázsiai alá bukik, ezért gyakoriak a földrengések.",
+        "Jelentős az idegenforgalom."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "alábukás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--krim-felsziget": {
+      "fekves": "Félsziget a Fekete-tenger északi partján kb. az é. sz. 44,5–46° és a k. h. 32,5–36,5° között; keletről az Azovi-tenger határolja. Nemzetközileg elismerten Ukrajna része.",
+      "facts": [
+        "Északi része sztyepp jellegű síkság, déli peremén a Krími-hegység húzódik.",
+        "A hegység által védett déli partvidék éghajlata mediterrán jellegű, kedvelt üdülőterület.",
+        "Szevasztopol fontos hadikikötő."
+      ],
+      "concepts": [
+        "sztyepp",
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--lengyel-alfold": {
+      "fekves": "Lengyelország középső síksága kb. az é. sz. 51–53° és a k. h. 15–23,5° között. Északon a Lengyel-tóhátság, délen a Lengyel-középhegység határolja.",
+      "facts": [
+        "Jégkori feltöltött síkság; a jég peremén futó olvadékvizek ősfolyamvölgyeket alakítottak ki.",
+        "Fő folyói a Visztula, az Odera és a Warta; itt fekszik Varsó.",
+        "Homokos, gyengébb talajain jellemző a rozs és a burgonya termesztése."
+      ],
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság",
+        "ősfolyamvölgy"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--lengyel-kozephegyseg": {
+      "fekves": "Dél-Lengyelország alacsony hegy- és dombvidéke kb. az é. sz. 50–51,5° és a k. h. 19–23,5° között. Északon a Lengyel-alföld, délen a Kárpátok előtere határolja.",
+      "facts": [
+        "Idős, erősen lepusztult röghegység, legismertebb tagja a Szent Kereszt-hegység.",
+        "Nyugati szomszédságában fekszik a Felső-sziléziai-kőszénmedence."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--lengyel-tohatsag": {
+      "fekves": "Észak-Lengyelország dombvidéke kb. az é. sz. 53–54,5° és a k. h. 14,5–23° között, a Balti-tenger partvidéke és a Lengyel-alföld között.",
+      "facts": [
+        "A jégtakaró végmoréna-vonulataiból álló tóhátság.",
+        "Tavai (pl. a Mazuri-tavak) jégvájta mélyedésekben és morénák mögött alakultak ki.",
+        "Erdős, tavas táj, jelentős a vízi turizmus."
+      ],
+      "concepts": [
+        "tóhátság",
+        "morénasánc",
+        "moréna által elgátolt tó"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--londoni-medence": {
+      "fekves": "Dél-Anglia medencéje kb. é. sz. 51,5°, a ny. h. 1,5°–k. h. 1,5° között, a Temze alsó szakaszán. Keleten az Északi-tenger felé nyílik.",
+      "facts": [
+        "Üledékes kőzetekkel (krétamészkő, agyag) kitöltött medence.",
+        "A Temze tölcsértorkolattal ömlik a tengerbe.",
+        "Itt fekszik London, a világ egyik vezető pénzügyi központja."
+      ],
+      "concepts": [
+        "üledékes kőzet",
+        "tölcsértorkolat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--magas-tatra": {
+      "fekves": "Hegység kb. é. sz. 49,2°, k. h. 20° körül, Szlovákia és Lengyelország határán. Az Északnyugati-Kárpátok része, délen a Poprádi-medence határolja.",
+      "facts": [
+        "A Kárpátok legmagasabb hegysége, csúcsa a Gerlachfalvi-csúcs (2655 m).",
+        "Főként gránitból épül fel.",
+        "Jégkori formakincse gazdag: kárfülkék, tengerszemek, U alakú völgyek.",
+        "Nemzeti park, kedvelt turistacélpont."
+      ],
+      "concepts": [
+        "gránit",
+        "kárfülke",
+        "tengerszem",
+        "U alakú völgy (teknővölgy)"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--mont-blanc": {
+      "fekves": "Hegycsúcs a Nyugati-Alpokban, kb. é. sz. 45,8°, k. h. 6,9° körül, Franciaország és Olaszország határán.",
+      "facts": [
+        "Az Alpok legmagasabb csúcsa (kb. 4800 m).",
+        "Lejtőiről nagy gleccserek ereszkednek le.",
+        "Alatta közúti alagút köti össze Franciaországot és Olaszországot."
+      ],
+      "concepts": [
+        "gleccser",
+        "hóhatár"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--morva-medence": {
+      "fekves": "Csehország keleti részén fekvő medence kb. az é. sz. 49–50° és a k. h. 16,5–17,5° között. Nyugaton a Cseh–Morva-dombság, keleten a Kárpátok határolja, a Morva folyó szeli át.",
+      "facts": [
+        "A Morva-kapu révén természetes átjáró a Duna-vidék és az Odera völgye (Szilézia) között.",
+        "Termékeny mezőgazdasági terület."
+      ],
+      "concepts": [
+        "medence"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--nemet-kozephegyseg": {
+      "fekves": "Németország középső részén húzódó hegyvidék kb. az é. sz. 49–52° és a k. h. 6–14,5° között. Északon a Germán-alföld, délen az Alpok előtere határolja.",
+      "facts": [
+        "Variszkuszi eredetű, lepusztult és rögökre tört röghegységek sora (pl. Harz, Rajnai-palahegység, Érchegység).",
+        "A rögök között medencék és árkok (pl. Rajnai-árok) húzódnak.",
+        "Peremein kőszénmedencék alakultak ki (pl. Ruhr-vidék)."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "variszkuszi",
+        "árok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--nyugati-alpok": {
+      "fekves": "Az Alpok nyugati, ív alakú része kb. az é. sz. 43,5–47° és a k. h. 5,5–9,5° között Franciaország, Svájc és Olaszország területén. Nyugaton a Rhône völgye, keleten a Pó-alföld határolja.",
+      "facts": [
+        "Magasabb és keskenyebb, mint a Keleti-Alpok, sok csúcsa 4000 m fölé emelkedik.",
+        "Itt található legmagasabb csúcsa, a Mont Blanc.",
+        "Kiterjedt gleccserei vannak."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "gleccser"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--parizsi-medence": {
+      "fekves": "Észak-Franciaország medencéje kb. az é. sz. 46,5–50° és a ny. h. 0,5°–k. h. 6,5° között. Délen a Francia-középhegység, keleten a Vogézek és az Ardennek határolja.",
+      "facts": [
+        "Üledékes rétegekből álló, tálszerű medence; a rétegek széle lépcsőzetesen emelkedik.",
+        "A Szajna és mellékfolyói vízgyűjtője; központja Párizs.",
+        "Termékeny talaján nagyüzemi búza- és cukorrépa-termesztés folyik."
+      ],
+      "concepts": [
+        "üledékes kőzet",
+        "medence"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--pennine-hegyseg-pennine": {
+      "fekves": "Észak-Anglia „gerince” kb. az é. sz. 53–55° és a ny. h. 1,5–2,5° között, Nagy-Britannia szigetén, észak–déli irányban.",
+      "facts": [
+        "Alacsony, lepusztult hegység.",
+        "Peremein kőszénmedencék vannak, amelyekre az ipari forradalom textil- és nehézipara települt (pl. Manchester, Leeds).",
+        "Az iparvidékek később szerkezetváltáson mentek át."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--pireneusi-iberiai-felsziget": {
+      "fekves": "Európa délnyugati félszigete kb. az é. sz. 36–44° és a ny. h. 9,5°–k. h. 3° között, Spanyolország és Portugália területén. Az Atlanti-óceán és a Földközi-tenger határolja; a Gibraltári-szoros választja el Afrikától.",
+      "facts": [
+        "Belsejét a Meseta magasföldje foglalja el.",
+        "Peremén fiatal gyűrthegységek (Pireneusok, Betikai-hegység) húzódnak.",
+        "Partvidéke mediterrán, belseje szárazabb, szélsőségesebb éghajlatú."
+      ],
+      "concepts": [
+        "fennsík",
+        "gyűrthegység",
+        "mediterrán éghajlat",
+        "tengerszoros"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--pireneusok": {
+      "fekves": "Hegység kb. az é. sz. 42–43,5° és a ny. h. 2°–k. h. 3° között, a Pireneusi-félsziget és a kontinens törzse között, Spanyolország és Franciaország határán (köztük Andorra).",
+      "facts": [
+        "Az eurázsiai hegységrendszer fiatal gyűrthegysége.",
+        "Nehezen járható, kevés hágójú hegység, éghajlatválasztó.",
+        "Gyorsfolyású patakjait vízenergia-termelésre hasznosítják."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "éghajlatválasztó hegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--po-alfold": {
+      "fekves": "Észak-Olaszország síksága kb. az é. sz. 44–46° és a k. h. 7–13° között. Északon és nyugaton az Alpok, délen az Appenninek, keleten az Adriai-tenger határolja.",
+      "facts": [
+        "Süllyedékterület, amelyet a Pó és mellékfolyóinak hordaléka töltött fel.",
+        "Olaszország legfejlettebb ipari-mezőgazdasági térsége (Milánó, Torino).",
+        "Öntözéses gazdálkodás: rizs, kukorica, búza."
+      ],
+      "concepts": [
+        "süllyedékterület",
+        "feltöltött és lepusztult (letarolt) síkság",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--roman-alfold": {
+      "fekves": "Dél-Románia síksága kb. az é. sz. 43,5–45,5° és a k. h. 22,5–28° között. Északon a Déli-Kárpátok, délen a Duna (a bolgár határ) határolja.",
+      "facts": [
+        "Löszös síkság, mezőségi talaján gabonát termesztenek.",
+        "Itt fekszik Bukarest.",
+        "Északi, kárpáti peremén kőolajlelőhelyek vannak (Ploiești környéke)."
+      ],
+      "concepts": [
+        "lösz",
+        "mezőségi talaj",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--skandinav-felsziget": {
+      "fekves": "Európa legnagyobb félszigete kb. az é. sz. 55–71° és a k. h. 5–31° között, Norvégia és Svédország területén. Nyugaton az Atlanti-óceán (Norvég-tenger), délen az Északi-tenger, keleten a Balti-tenger határolja.",
+      "facts": [
+        "Keleti részének alapja a Balti-pajzs ősmasszívuma, nyugaton a Skandináv-hegység húzódik.",
+        "Nyugati partja fjordokkal tagolt.",
+        "Az Észak-atlanti-áramlás miatt nyugati partjai télen sem fagynak be."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "fjord",
+        "pozitív és negatív hőmérsékleti anomália"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--skandinav-hegyseg": {
+      "fekves": "Hegység a Skandináv-félsziget nyugati részén kb. az é. sz. 58,5–70° és a k. h. 5,5–24° között, Norvégia és Svédország határvidékén.",
+      "facts": [
+        "A kaledóniai hegységképződés során keletkezett, később lepusztult, majd újra kiemelkedett.",
+        "A jégkori gleccserek fjordokat és U alakú völgyeket formáltak.",
+        "Éghajlatválasztó: nyugati oldala csapadékos, keleti oldala szárazabb.",
+        "Bővizű folyóit vízenergia-termelésre hasznosítják."
+      ],
+      "concepts": [
+        "kaledóniai",
+        "fjord",
+        "éghajlatválasztó hegység"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--szicilia": {
+      "fekves": "A Földközi-tenger legnagyobb szigete kb. az é. sz. 36,5–38,5° és a k. h. 12,5–15,5° között, Olaszországhoz tartozik. A Messinai-szoros választja el az Appennini-félszigettől.",
+      "facts": [
+        "Keleti részén emelkedik az Etna.",
+        "Mediterrán éghajlatú; citrusféléket, olívát, búzát termesztenek.",
+        "Olaszország fejletlenebb déli részéhez tartozik."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "rétegvulkán",
+        "tengerszoros"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--szilezia": {
+      "fekves": "Történelmi tájegység az Odera felső és középső szakaszán, kb. az é. sz. 50–52° és a k. h. 15–19° között, nagyrészt Lengyelországban, kis részben Csehországban. Délen a Szudéták és a Kárpátok határolja.",
+      "facts": [
+        "A Felső-sziléziai-kőszénmedence Európa egyik jelentős feketekőszén-vidéke.",
+        "A szénre nehézipar települt (Katowice környéke), amely szerkezetváltáson megy át.",
+        "A szénégetés miatt jelentős volt a légszennyezés és a savas eső."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "válságágazat",
+        "savas csapadék"
+      ],
+      "processes": [
+        "savas-eso"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--szudetak": {
+      "fekves": "Hegyvidék kb. az é. sz. 50–51,5° és a k. h. 14–17,5° között, Csehország és Lengyelország (kis részben Németország) határán. A Cseh-medencét északkeletről keretezi, északra Szilézia fekszik.",
+      "facts": [
+        "Variszkuszi eredetű röghegység; legmagasabb tagja az Óriás-hegység.",
+        "Erdeit a környező iparvidékek okozta savas eső súlyosan károsította."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "variszkuszi",
+        "savas csapadék"
+      ],
+      "processes": [
+        "savas-eso"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--ural": {
+      "fekves": "Észak–déli irányú hegység kb. az é. sz. 50–68° és a k. h. 56–67° között Oroszországban (déli vége Kazahsztánban). Nyugaton a Kelet-európai-síkság, keleten a Nyugat-szibériai-alföld határolja.",
+      "facts": [
+        "Hagyományosan Európa és Ázsia határa.",
+        "Idős, a variszkuszi hegységképződéskor gyűrődött, erősen lepusztult hegység.",
+        "Ércekben gazdag (vasérc, színesfémércek), rá nehézipar települt."
+      ],
+      "concepts": [
+        "variszkuszi",
+        "vasérc",
+        "érc"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--vezuv": {
+      "fekves": "Vulkán Olaszországban, kb. é. sz. 40,8°, k. h. 14,4° körül, a Nápolyi-öböl partján, Nápolytól délkeletre.",
+      "facts": [
+        "Működő rétegvulkán.",
+        "I. sz. 79-es kitörése betemette Pompeiit és Herculaneumot.",
+        "Sűrűn lakott környezete miatt Európa egyik legveszélyesebb vulkánja."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "vulkáni hamu"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--ardennek": {
+      "fekves": "Hegyvidék kb. az é. sz. 49,5–50,5° és a k. h. 4–6° között, Belgium déli részén, Luxemburgban és Franciaország északkeleti szélén. A Maas töri át.",
+      "facts": [
+        "Variszkuszi, erősen lepusztult röghegység.",
+        "Északi peremén húzódó kőszénmedencékre épült a belga nehézipar, amely később hanyatlásnak indult."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "variszkuszi",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--korzika": {
+      "fekves": "Sziget a Földközi-tengerben kb. az é. sz. 41,5–43° és a k. h. 8,5–9,5° között, Franciaországhoz tartozik. Délen a Bonifacio-szoros választja el Szardíniától.",
+      "facts": [
+        "Hegyes sziget, nagy részét kristályos kőzetek (gránit) építik fel.",
+        "Mediterrán éghajlatú, jellemző növényzete a macchia.",
+        "Jelentős az idegenforgalom."
+      ],
+      "concepts": [
+        "gránit",
+        "macchia",
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--stromboli": {
+      "fekves": "Vulkáni sziget a Tirrén-tengerben, kb. é. sz. 38,8°, k. h. 15,2° körül, a Lipari-szigetek tagja, Szicíliától északra.",
+      "facts": [
+        "Szinte folyamatosan működő rétegvulkán, gyakori kisebb robbanásos kitörésekkel.",
+        "Állandó működése miatt a „Földközi-tenger világítótornyának” nevezik."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "kráter"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--szardinia": {
+      "fekves": "A Földközi-tenger második legnagyobb szigete kb. az é. sz. 39–41,5° és a k. h. 8–10° között, Olaszországhoz tartozik. Korzikától délre, a Tirrén-tenger nyugati szélén fekszik.",
+      "facts": [
+        "Nagy részét ősi kristályos kőzetek (gránit) építik fel.",
+        "Mediterrán éghajlatú; hagyományos a juhtenyésztés.",
+        "Jelentős a tengerparti idegenforgalom."
+      ],
+      "concepts": [
+        "gránit",
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--szent-gotthard-hago": {
+      "fekves": "Hágó a svájci Alpokban, kb. é. sz. 46,6°, k. h. 8,6° körül, a Reuss (Rajna-vízgyűjtő) és a Ticino (Pó-vízgyűjtő) völgye között.",
+      "facts": [
+        "Az Alpokon átvezető egyik legfontosabb észak–déli közlekedési útvonal.",
+        "Alatta közúti és vasúti alagutak futnak, köztük a Gotthárd-bázisalagút.",
+        "Környékén ered a Rajna, a Rhône és a Ticino: fontos vízválasztó."
+      ],
+      "concepts": [
+        "hágó",
+        "vízválasztó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--vaskapu": {
+      "fekves": "Szoros a Dunán kb. é. sz. 44,6°, k. h. 22,3° körül, Szerbia és Románia határán, ahol a folyó a Déli-Kárpátok és a Szerb-érchegység között tör át.",
+      "facts": [
+        "A Duna áttörésvölgye, a Kárpát-medence délkeleti kapuja.",
+        "Duzzasztógátas vízerőmű épült itt, amely a hajózást is segíti."
+      ],
+      "concepts": [
+        "szoros"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tajak--vereckei-hago": {
+      "fekves": "Hágó az Északkeleti-Kárpátokban kb. é. sz. 48,8°, k. h. 23° körül, Ukrajnában (Kárpátalja és Lviv megye határán).",
+      "facts": [
+        "A hagyomány szerint a honfoglaló magyarok itt keltek át a Kárpátokon.",
+        "A Kárpát-medencét a Kelet-európai-síksággal összekötő átjáró."
+      ],
+      "concepts": [
+        "hágó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--adriai-tenger": {
+      "fekves": "A Földközi-tenger északi beltengere kb. az é. sz. 40–46° és a k. h. 12–20° között, az Appennini- és a Balkán-félsziget között. Délen az Otrantói-szoros köti a Jón-tengerhez.",
+      "facts": [
+        "Keleti (dalmát) partja tagolt, szigetekben gazdag; nyugati, olasz partja tagolatlan.",
+        "Északi részébe a Pó torkollik.",
+        "Fontos kikötői Trieszt és Fiume (Rijeka)."
+      ],
+      "concepts": [
+        "beltenger",
+        "tagolt és tagolatlan part"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--balti-tenger": {
+      "fekves": "Észak-Európa beltengere kb. az é. sz. 54–66° és a k. h. 10–30° között, a Skandináv-félsziget, Finnország, a Baltikum, Lengyelország, Németország és Dánia között. A dán szorosok kötik az Északi-tengerhez.",
+      "facts": [
+        "Sekély beltenger, amely a jégkor után alakult ki mai formájára.",
+        "Sótartalma kicsi: sok folyó ömlik bele, a párolgás gyenge.",
+        "Északi öblei télen befagynak."
+      ],
+      "concepts": [
+        "beltenger",
+        "sótartalom"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--boden-to": {
+      "fekves": "Tó az Alpok északi előterében kb. é. sz. 47,5°, k. h. 9–9,7° között, Németország, Svájc és Ausztria határán.",
+      "facts": [
+        "Jégkori gleccser vájta medencében fekszik.",
+        "A Rajna átfolyik rajta.",
+        "Fontos ivóvízforrás és idegenforgalmi terület."
+      ],
+      "concepts": [
+        "jégvájta tó",
+        "ivóvíz"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--dnyeper": {
+      "fekves": "Folyó a Kelet-európai-síkságon kb. az é. sz. 46,5–56° és a k. h. 30–35° között. Oroszországban ered, Belaruszon és Ukrajnán át a Fekete-tengerbe ömlik.",
+      "facts": [
+        "Európa egyik leghosszabb folyója.",
+        "Síkvidéki folyó, rajta víztározók és vízerőművek láncolata épült.",
+        "Partján fekszik Kijev."
+      ],
+      "concepts": [
+        "víztározó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--don": {
+      "fekves": "Folyó Oroszország európai részén kb. az é. sz. 47–54° és a k. h. 37–44° között, a Kelet-európai-síkságon; az Azovi-tengerbe ömlik.",
+      "facts": [
+        "Lassú folyású síkvidéki folyó, télen befagy.",
+        "Csatorna köti össze a Volgával.",
+        "Torkolatánál fekszik Rosztov."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--duna": {
+      "fekves": "Folyó Közép- és Délkelet-Európában kb. az é. sz. 43,5–49° és a k. h. 8–29° között: a Fekete-erdőben ered, és deltával ömlik a Fekete-tengerbe. Tíz országon folyik át, Magyarországot észak–déli irányban szeli ketté.",
+      "facts": [
+        "Európa második leghosszabb folyója (kb. 2850 km).",
+        "Kora nyári árhulláma (zöldár) az alpi hóolvadásból és a csapadékból ered; télen jeges ár is előfordulhat.",
+        "Nemzetközi vízi út, a Duna–Majna–Rajna vízi úton át az Északi-tengerrel is összeköttetésben áll."
+      ],
+      "concepts": [
+        "vízjárás",
+        "árvíz",
+        "deltatorkolat",
+        "belvízi és tengerhajózás"
+      ],
+      "processes": [
+        "folyo-munkaja",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--duna-majna-rajna-vizi-ut": {
+      "fekves": "Hajózható vízi út Németországban (Bajorország) kb. az é. sz. 49–50° és a k. h. 8–12° között; a Majna–Duna-csatorna Bamberg és Kelheim között köti össze a Majnát a Dunával.",
+      "facts": [
+        "Összeköti az Északi-tengert a Fekete-tengerrel.",
+        "A csatorna zsilipekkel küzdi le az európai fő vízválasztót.",
+        "Teljes hosszában 1992-ben nyílt meg."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás",
+        "vízválasztó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--elba": {
+      "fekves": "Folyó kb. az é. sz. 50–54° és a k. h. 10–16,5° között: Csehországban, az Óriás-hegységben ered, Németországon át az Északi-tengerbe ömlik.",
+      "facts": [
+        "Fő mellékfolyója a Moldva (Prága).",
+        "Tölcsértorkolatánál fekszik Hamburg, Németország legnagyobb kikötője.",
+        "Partján fekszik Drezda is."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--egei-tenger": {
+      "fekves": "A Földközi-tenger keleti medencéjének része kb. az é. sz. 36,5–41° és a k. h. 22,5–28° között, Görögország és Törökország között. A Dardanellákon és a Márvány-tengeren át kapcsolódik a Fekete-tengerhez.",
+      "facts": [
+        "Szigetekben rendkívül gazdag (pl. Kükládok).",
+        "Lemezhatár közelében fekszik, gyakori a földrengés; a Szantorini kalderája vulkáni eredetű.",
+        "Jelentős a hajózás és az idegenforgalom."
+      ],
+      "concepts": [
+        "sziget",
+        "kaldera",
+        "földrengés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--eszaki-tenger": {
+      "fekves": "Az Atlanti-óceán peremtengere kb. az é. sz. 51–61° és a ny. h. 4°–k. h. 10° között, a Brit-szigetek, Norvégia, Dánia, Németország és a Benelux-államok között.",
+      "facts": [
+        "Sekély, a szárazföldi talapzaton (selfen) fekvő tenger.",
+        "Aljzatából jelentős kőolajat és földgázt termel ki Norvégia és Nagy-Britannia.",
+        "Hagyományos halászterület; partjain gyakori a vihardagály."
+      ],
+      "concepts": [
+        "peremtenger",
+        "szárazföldi talapzat (self)",
+        "kőolaj",
+        "vihardagály"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--fekete-tenger": {
+      "fekves": "Beltenger Délkelet-Európa és Kis-Ázsia között kb. az é. sz. 41–47° és a k. h. 27,5–42° között. A Boszporusz, a Márvány-tenger és a Dardanellák köti a Földközi-tengerhez.",
+      "facts": [
+        "Mélyebb vízrétegei oxigénhiányosak, kénhidrogént tartalmaznak.",
+        "Beleömlik a Duna és a Dnyeper; északkeleten az Azovi-tenger kapcsolódik hozzá.",
+        "Partjain jelentős az idegenforgalom."
+      ],
+      "concepts": [
+        "beltenger",
+        "tengerszoros"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--foldkozi-tenger": {
+      "fekves": "Európa, Afrika és Ázsia közötti beltenger kb. az é. sz. 31–46° és a ny. h. 5°–k. h. 36° között. Nyugaton a Gibraltári-szoros köti az Atlanti-óceánhoz, délkeleten a Szuezi-csatorna a Vörös-tengerhez.",
+      "facts": [
+        "Párolgása meghaladja a beömlő vízmennyiséget, ezért sótartalma magas.",
+        "Az afrikai és az eurázsiai lemez közeledése miatt partvidékén gyakori a földrengés és a vulkánosság.",
+        "Névadója a mediterrán éghajlatnak; fontos hajózási és idegenforgalmi térség."
+      ],
+      "concepts": [
+        "földközi tenger",
+        "sótartalom",
+        "mediterrán éghajlat"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--garda-to": {
+      "fekves": "Észak-Olaszország tava kb. é. sz. 45,5°, k. h. 10,5–11° között, az Alpok déli lábánál, a Pó-alföld peremén.",
+      "facts": [
+        "Olaszország legnagyobb tava.",
+        "Jégkori gleccser vájta medencéjét morénák zárják el délről.",
+        "Enyhe éghajlata miatt mediterrán növények is megélnek partján; kedvelt üdülőhely."
+      ],
+      "concepts": [
+        "moréna által elgátolt tó",
+        "jégvájta tó"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--genfi-to": {
+      "fekves": "Tó kb. é. sz. 46,4°, k. h. 6–7° között, Svájc és Franciaország határán, az Alpok és a Jura között.",
+      "facts": [
+        "Az Alpok egyik legnagyobb tava, jégkori gleccser formálta medencében.",
+        "A Rhône átfolyik rajta.",
+        "Partján fekszik Genf, számos nemzetközi szervezet székhelye."
+      ],
+      "concepts": [
+        "jégvájta tó"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--gyilkos-to": {
+      "fekves": "Tó a Keleti-Kárpátokban, Romániában, kb. é. sz. 46,8°, k. h. 25,8° körül, a Békás-szoros közelében.",
+      "facts": [
+        "Hegyomlás (földcsuszamlás) torlaszolta el a Békás-patak völgyét, így keletkezett.",
+        "Vizéből az elárasztott erdő fáinak csonkjai állnak ki."
+      ],
+      "concepts": [
+        "tömegmozgások (csuszamlás, suvadás, omlás, folyás)",
+        "tó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--la-manche": {
+      "fekves": "Tengerszoros (csatorna) Nagy-Britannia és Franciaország között kb. az é. sz. 48,5–51° és a ny. h. 6,5°–k. h. 1,5° között; az Atlanti-óceánt köti össze az Északi-tengerrel.",
+      "facts": [
+        "Legkeskenyebb része a Doveri-szoros (Calais-i-szoros).",
+        "Alatta vasúti alagút (Csatorna-alagút) köti össze Angliát és Franciaországot.",
+        "A világ egyik legforgalmasabb hajózási útvonala; jelentős a tengerjárás."
+      ],
+      "concepts": [
+        "tengerszoros",
+        "tengerjárás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--ladoga-to": {
+      "fekves": "Tó Északnyugat-Oroszországban kb. az é. sz. 60–62° és a k. h. 30–33° között, a Finn-öböltől északkeletre, Finnország határa közelében.",
+      "facts": [
+        "Európa legnagyobb tava.",
+        "Medencéjét a jégkori jégtakaró formálta.",
+        "A Néva vezeti le vizét a Finn-öbölbe, Szentpéterváron át."
+      ],
+      "concepts": [
+        "jégvájta tó"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--odera": {
+      "fekves": "Folyó kb. az é. sz. 49,5–53,5° és a k. h. 14–18,5° között: Csehországban ered, Lengyelországon át a Balti-tengerbe ömlik; alsó szakasza a német–lengyel határ.",
+      "facts": [
+        "Felső szakasza Szilézia ipari vidékén halad át.",
+        "Mellékfolyójával, a Neissével együtt alkotja a német–lengyel határt.",
+        "Torkolatánál fekszik Szczecin kikötője."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--olt": {
+      "fekves": "Folyó Romániában kb. az é. sz. 43,5–46,5° és a k. h. 24–26° között: a Keleti-Kárpátokban, a Székelyföldön ered, és a Román-alföldön át a Dunába ömlik.",
+      "facts": [
+        "A Déli-Kárpátokat a Vöröstoronyi-szorosban töri át.",
+        "A Duna egyik jelentős romániai mellékfolyója; vízerőművek sora épült rajta."
+      ],
+      "concepts": [
+        "szoros",
+        "fő- és mellékfolyó"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--po": {
+      "fekves": "Olaszország folyója kb. é. sz. 44,5–45,5° és a k. h. 7–12,5° között: a Nyugati-Alpokban ered, kelet felé a Pó-alföldön át az Adriai-tengerbe ömlik.",
+      "facts": [
+        "Olaszország leghosszabb folyója.",
+        "Alpi mellékfolyói nyáron is bő vizet hoznak (hóolvadás, gleccserek).",
+        "Sok hordalékot szállít, deltája gyorsan épül; árvizei ellen gátak védenek."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "hordalék",
+        "árvízvédelmi gát"
+      ],
+      "processes": [
+        "folyo-munkaja",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--rajna": {
+      "fekves": "Folyó kb. az é. sz. 46,5–52° és a k. h. 4–10° között: a svájci Alpokban ered, a Boden-tavon és a Rajnai-árkon át, a Rajnai-palahegységet áttörve Hollandiában ömlik az Északi-tengerbe.",
+      "facts": [
+        "Európa legforgalmasabb belvízi hajózási útja.",
+        "Vízjárása kiegyenlített: nyáron a gleccserek, télen az eső táplálja.",
+        "Mentén fekszik a Ruhr-vidék, torkolatánál Rotterdam."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás",
+        "vízjárás",
+        "árok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--rh-ne": {
+      "fekves": "Folyó kb. az é. sz. 43,5–46,5° és a k. h. 4,5–8,5° között: Svájcban, a Rhône-gleccserből ered, átfolyik a Genfi-tavon, majd Franciaországban deltával ömlik a Földközi-tengerbe.",
+      "facts": [
+        "Nagy esésű, bővizű folyó; vízerőművek és atomerőművek sora települt mellé.",
+        "A Rhône–Saône völgye fontos észak–déli közlekedési folyosó (Lyon).",
+        "Deltája a Camargue mocsaras vidéke."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "gleccser"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--szajna": {
+      "fekves": "Folyó Észak-Franciaországban kb. az é. sz. 47,5–49,5° és a k. h. 0,5–5° között, a Párizsi-medencében; a La Manche-ba ömlik.",
+      "facts": [
+        "Az óceáni éghajlat miatt vízjárása viszonylag kiegyenlített.",
+        "Partján fekszik Párizs.",
+        "Tölcsértorkolatánál van Le Havre kikötője."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "vízjárás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--szava": {
+      "fekves": "Folyó kb. az é. sz. 44,5–46,5° és a k. h. 13,5–20,5° között: Szlovéniában, a Júliai-Alpokban ered, Horvátországon és a bosnyák–horvát határon át Belgrádnál a Dunába ömlik.",
+      "facts": [
+        "Vízhozam szerint a Duna legbővizűbb mellékfolyója.",
+        "A Duna–Száva vonal a Balkán-félsziget szokásos északi határa.",
+        "Partján fekszik Zágráb és Belgrád."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó",
+        "vízhozam"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--szent-anna-to": {
+      "fekves": "Krátertó a Keleti-Kárpátok belső vulkáni vonulatában, a Csomád-hegységben, Romániában, kb. é. sz. 46,1°, k. h. 25,9° körül.",
+      "facts": [
+        "Kialudt vulkán kráterében kialakult tó.",
+        "Vizét csak a csapadék táplálja.",
+        "Szomszédságában, egy másik kráterben a Mohos-tőzegláp található."
+      ],
+      "concepts": [
+        "krátertó",
+        "láp"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--tajo-tejo": {
+      "fekves": "Folyó a Pireneusi-félszigeten kb. é. sz. 39–41° és a ny. h. 9–1,5° között: Spanyolországban ered, a Mesetán át nyugat felé folyik, Lisszabonnál ömlik az Atlanti-óceánba.",
+      "facts": [
+        "A Pireneusi-félsziget leghosszabb folyója.",
+        "Mediterrán vízjárású: nyáron kevés a vize.",
+        "Lisszabonnál tölcsértorkolattal ömlik az óceánba."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "vízjárás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--temze": {
+      "fekves": "Folyó Dél-Angliában kb. é. sz. 51,5°, a ny. h. 2°–k. h. 0,5° között; a Londoni-medencén át az Északi-tengerbe ömlik.",
+      "facts": [
+        "Tölcsértorkolatában erős a tengerjárás hatása.",
+        "Londont a vihardagálytól a Temze-gát védi.",
+        "Partján fekszik London."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "tengerjárás",
+        "vihardagály"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--ural-folyo": {
+      "fekves": "Folyó kb. az é. sz. 47–55° és a k. h. 51–59,5° között: az Urál déli részén ered, Oroszországon és Kazahsztánon át a Kaszpi-tengerbe ömlik.",
+      "facts": [
+        "Alsó szakaszát hagyományosan Európa és Ázsia határának tekintik.",
+        "Belső lefolyású területhez tartozik, mert a lefolyástalan Kaszpi-tengerbe torkollik."
+      ],
+      "concepts": [
+        "lefolyásos és belső lefolyású terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--vag": {
+      "fekves": "Folyó Szlovákiában kb. az é. sz. 48–49,5° és a k. h. 17,5–19,5° között: a Tátra vidékén ered, és Komáromnál ömlik a Dunába.",
+      "facts": [
+        "Szlovákia leghosszabb folyója.",
+        "Vízerőművek és víztározók sora épült rajta.",
+        "A Duna bal oldali mellékfolyója."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó",
+        "víztározó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--visztula": {
+      "fekves": "Folyó Lengyelországban kb. az é. sz. 49–54,5° és a k. h. 18–23° között: a Nyugati-Beszkidekben ered, és Gdańsk közelében a Balti-tengerbe ömlik.",
+      "facts": [
+        "Lengyelország leghosszabb folyója.",
+        "Partján fekszik Krakkó és Varsó.",
+        "Torkolatánál deltát épít."
+      ],
+      "concepts": [
+        "deltatorkolat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--volga": {
+      "fekves": "Folyó Oroszország európai részén kb. az é. sz. 46–58° és a k. h. 32,5–50° között: a Valdaji-hátságon ered, és deltával ömlik a Kaszpi-tengerbe.",
+      "facts": [
+        "Európa leghosszabb folyója.",
+        "Belső lefolyású: a lefolyástalan Kaszpi-tengerbe torkollik.",
+        "Víztározók és vízerőművek láncolata épült rajta; csatorna köti a Donhoz."
+      ],
+      "concepts": [
+        "lefolyásos és belső lefolyású terület",
+        "deltatorkolat",
+        "víztározó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--botteni-obol": {
+      "fekves": "A Balti-tenger északi öble kb. az é. sz. 60–66° és a k. h. 17–25,5° között, Svédország és Finnország között.",
+      "facts": [
+        "Sótartalma nagyon kicsi, télen befagy.",
+        "A jégkori jégtakaró elolvadása óta partvidéke lassan emelkedik."
+      ],
+      "concepts": [
+        "öböl",
+        "sótartalom",
+        "izosztázia"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--ebro": {
+      "fekves": "Folyó Északkelet-Spanyolországban kb. az é. sz. 40,5–43° és a ny. h. 4,5°–k. h. 1° között: a Kantábriai-hegységben ered, és deltával ömlik a Földközi-tengerbe.",
+      "facts": [
+        "Spanyolország legbővizűbb folyója.",
+        "Medencéjében öntözéses gazdálkodás folyik.",
+        "Deltáján rizst termesztenek."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--ijssel-to": {
+      "fekves": "Tó Hollandia északi részén kb. é. sz. 52,5–53°, k. h. 5–6° között, az Északi-tenger egykori öblének helyén.",
+      "facts": [
+        "A Zuiderzee öböl gáttal való elzárásával keletkezett mesterséges, édesvizű tó.",
+        "Területének egy részén polderek létesültek."
+      ],
+      "concepts": [
+        "mesterséges tó",
+        "polder"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--loire": {
+      "fekves": "Folyó Franciaországban kb. az é. sz. 45–48° és a ny. h. 2°–k. h. 4,5° között: a Francia-középhegységben ered, és Nantes-nál az Atlanti-óceánba ömlik.",
+      "facts": [
+        "Franciaország leghosszabb folyója.",
+        "Tölcsértorkolattal ömlik az óceánba.",
+        "Völgyének kastélyai a világörökség részei."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--ohridi-to": {
+      "fekves": "Tó a Balkán-félszigeten kb. é. sz. 41°, k. h. 20,7° körül, Észak-Macedónia és Albánia határán.",
+      "facts": [
+        "Tektonikus eredetű, Európa egyik legmélyebb és legidősebb tava.",
+        "Sok bennszülött (endemikus) faj él benne.",
+        "Környezetével együtt a világörökség része."
+      ],
+      "concepts": [
+        "tektonikus eredetű tó",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--vizrajz--popradi-to": {
+      "fekves": "Tengerszem a Magas-Tátra déli oldalán, Szlovákiában, kb. é. sz. 49,2°, k. h. 20,1° körül.",
+      "facts": [
+        "Jégkori gleccser vájta mélyedésben kialakult tengerszem.",
+        "A Tátra egyik kedvelt turistacélpontja."
+      ],
+      "concepts": [
+        "tengerszem",
+        "jégvájta tó"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--ausztria": {
+      "fekves": "Közép-európai, tengerparttal nem rendelkező ország kb. az é. sz. 46,5–49° és a k. h. 9,5–17° között. Szomszédai: Németország, Csehország, Szlovákia, Magyarország, Szlovénia, Olaszország, Svájc és Liechtenstein.",
+      "facts": [
+        "Területének nagy részét a Keleti-Alpok foglalja el, északon a Duna völgye, keleten a Bécsi-medence.",
+        "Jelentős a téli-nyári idegenforgalom és a vízenergia-termelés.",
+        "1995 óta az Európai Unió tagja; fővárosa Bécs."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--belgium": {
+      "fekves": "Nyugat-európai ország kb. az é. sz. 49,5–51,5° és a k. h. 2,5–6,5° között, az Északi-tenger partján. Szomszédai: Hollandia, Németország, Luxemburg és Franciaország.",
+      "facts": [
+        "Nyelvileg megosztott: északon flamandok (holland nyelv), délen vallonok (francia nyelv) élnek.",
+        "Brüsszel az Európai Unió és a NATO központja.",
+        "A vallon szénbányászat és nehézipar hanyatlott; Antwerpen nagy tengeri kikötő."
+      ],
+      "concepts": [
+        "Európai Unió",
+        "Észak-atlanti Szerződés Szervezete (NATO)",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--bosznia-hercegovina": {
+      "fekves": "Balkáni ország kb. az é. sz. 42,5–45,5° és a k. h. 15,5–19,5° között, a Dinári-hegységben. Szomszédai: Horvátország, Szerbia és Montenegró; csak rövid szakaszon éri el az Adriai-tengert.",
+      "facts": [
+        "Felszíne hegyvidékes, karsztos.",
+        "Jugoszlávia felbomlása utáni háború (1992–1995) után két országrészre tagolódik.",
+        "Fővárosa Szarajevó."
+      ],
+      "concepts": [
+        "mészkő"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--bulgaria": {
+      "fekves": "A Balkán-félsziget keleti részén fekvő ország kb. az é. sz. 41–44° és a k. h. 22,5–28,5° között. Északon a Duna választja el Romániától, keletre a Fekete-tenger, szomszédai még Szerbia, Észak-Macedónia, Görögország és Törökország.",
+      "facts": [
+        "Középen a Balkán-hegység szeli át, délen a Rodope húzódik.",
+        "Jellegzetes terméke a rózsaolaj (Rózsa-völgy).",
+        "Fekete-tengeri partján jelentős az idegenforgalom; 2007 óta EU-tag."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--csehorszag": {
+      "fekves": "Közép-európai, tengerparttal nem rendelkező ország kb. az é. sz. 48,5–51° és a k. h. 12–19° között. Szomszédai: Németország, Lengyelország, Szlovákia és Ausztria.",
+      "facts": [
+        "Nyugati részét a rögös hegységekkel keretezett Cseh-medence, keleti részét a Morva-medence foglalja el.",
+        "Fejlett gépipar és autóipar; barnakőszén-bányászat.",
+        "A Visegrádi Együttműködés tagja, 2004 óta EU-tag; fővárosa Prága."
+      ],
+      "concepts": [
+        "rögös szerkezetű hegység",
+        "Visegrádi Együttműködés (V4)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--dania": {
+      "fekves": "Észak-európai ország kb. az é. sz. 54,5–58° és a k. h. 8–15° között, a Jütland-félszigeten és a szomszédos szigeteken. Az Északi- és a Balti-tenger között fekszik, szárazföldi szomszédja csak Németország.",
+      "facts": [
+        "Alacsony, jégkori moréna-síkság.",
+        "Fejlett, szövetkezeti alapú állattenyésztés (sertés, tejtermékek).",
+        "Élen jár a szélenergia hasznosításában."
+      ],
+      "concepts": [
+        "moréna",
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--eszak-macedonia": {
+      "fekves": "Balkáni, tengerparttal nem rendelkező ország kb. az é. sz. 41–42,5° és a k. h. 20,5–23° között. Szomszédai: Szerbia, Koszovó, Bulgária, Görögország és Albánia.",
+      "facts": [
+        "Hegyvidékes ország, tengelyét a Vardar völgye adja.",
+        "Délnyugati határán fekszik az Ohridi-tó.",
+        "Fővárosa Szkopje."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--esztorszag": {
+      "fekves": "A legészakibb balti állam kb. az é. sz. 57,5–59,5° és a k. h. 22–28° között, a Balti-tenger és a Finn-öböl partján. Szomszédai Lettország és Oroszország.",
+      "facts": [
+        "Lakói finnugor népcsoporthoz tartoznak.",
+        "Energiatermelése sokáig az olajpalára épült.",
+        "Fejlett az informatika és a digitális közigazgatás; 2004 óta EU-tag."
+      ],
+      "concepts": [
+        "Európai Unió",
+        "információs társadalom"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--finnorszag": {
+      "fekves": "Észak-európai ország kb. az é. sz. 60–70° és a k. h. 20,5–31,5° között. Szomszédai: Svédország, Norvégia és Oroszország; délen a Finn-öböl, nyugaton a Botteni-öböl határolja.",
+      "facts": [
+        "A Balti-pajzson fekszik, tavakban gazdag (Finn-tóvidék).",
+        "Nagy részét tajga borítja; jelentős a fa- és papíripar.",
+        "Fejlett elektronikai ipar és jóléti állam; nyelve finnugor."
+      ],
+      "concepts": [
+        "tajga",
+        "ősföld (ősmasszívum)",
+        "jóléti állam"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--franciaorszag": {
+      "fekves": "Nyugat-európai ország, európai területe kb. az é. sz. 42–51° és a ny. h. 5°–k. h. 8° között; tengerentúli területei is vannak. Az Atlanti-óceán, a La Manche és a Földközi-tenger határolja; szomszédai Belgium, Luxemburg, Németország, Svájc, Olaszország, Spanyolország és Andorra.",
+      "facts": [
+        "Az Európai Unió legnagyobb mezőgazdasági termelője (gabona, szőlő, tejtermékek).",
+        "Villamosenergia-termelésében kiemelkedő az atomenergia aránya.",
+        "Erősen központosított ország, Párizs a gazdaság és a közlekedés központja."
+      ],
+      "concepts": [
+        "Európai Unió",
+        "óceáni éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--gorogorszag": {
+      "fekves": "A Balkán-félsziget déli részén fekvő ország kb. az é. sz. 35–42° és a k. h. 19,5–28° között, sok szigettel. A Jón- és az Égei-tenger veszi körül; szárazföldi szomszédai Albánia, Észak-Macedónia, Bulgária és Törökország.",
+      "facts": [
+        "Tagolt partú, hegyes ország; gyakoriak a földrengések.",
+        "Mediterrán éghajlatú, fontos az olívatermesztés és az idegenforgalom.",
+        "Nagy kereskedelmi hajóflottája van; 2010 körül súlyos adósságválságba került."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "adósságválság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--hollandia": {
+      "fekves": "Nyugat-európai ország, európai része kb. az é. sz. 51–53,5° és a k. h. 3,5–7° között, az Északi-tenger partján; a Karib-térségben is vannak területei. Szomszédai Németország és Belgium.",
+      "facts": [
+        "Területének jelentős része tengerszint alatti, gátakkal védett polder.",
+        "Rotterdam Európa legnagyobb tengeri kikötője, a Rajna torkolatánál.",
+        "Intenzív kertészet és virágtermesztés; jelentős földgázkészlet (Groningen)."
+      ],
+      "concepts": [
+        "polder",
+        "mélyföld",
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--horvatorszag": {
+      "fekves": "Ország a Pannon-medence délnyugati része és az Adriai-tenger között, kb. az é. sz. 42,5–46,5° és a k. h. 13,5–19,5° között. Szomszédai: Szlovénia, Magyarország, Szerbia, Bosznia-Hercegovina és Montenegró.",
+      "facts": [
+        "Tagolt, szigetekben gazdag tengerpartja (Dalmácia, Isztria) a tengerparti idegenforgalom központja.",
+        "Északkeleti, pannon részén (Szlavónia) a mezőgazdaság jelentős.",
+        "2013 óta az Európai Unió tagja; fővárosa Zágráb."
+      ],
+      "concepts": [
+        "tagolt és tagolatlan part",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--irorszag": {
+      "fekves": "Ország Írország szigetén kb. az é. sz. 51,5–55,5° és a ny. h. 6–10,5° között, az Atlanti-óceánban. Egyetlen szárazföldi szomszédja az Egyesült Királysághoz tartozó Észak-Írország.",
+      "facts": [
+        "Óceáni éghajlatú; a rétek és legelők miatt jelentős a szarvasmarha-tenyésztés.",
+        "Az 1990-es évektől a külföldi működőtőke (informatika, gyógyszeripar) gyors fejlődést hozott.",
+        "1973 óta az Európai Unió (akkor EGK) tagja."
+      ],
+      "concepts": [
+        "óceáni éghajlat",
+        "működőtőke-befektetés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--koszovo": {
+      "fekves": "Tengerparttal nem rendelkező terület a Balkán-félszigeten kb. az é. sz. 42–43,5° és a k. h. 20–22° között. Szomszédai: Szerbia, Észak-Macedónia, Albánia és Montenegró.",
+      "facts": [
+        "2008-ban kiáltotta ki függetlenségét Szerbiától; nem minden ország ismeri el.",
+        "Lakosságának többsége albán.",
+        "Népessége fiatal, a születési arány Európában kiemelkedően magas."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--lengyelorszag": {
+      "fekves": "Ország kb. az é. sz. 49–55° és a k. h. 14–24° között, a Balti-tenger partján. Szomszédai: Németország, Csehország, Szlovákia, Ukrajna, Belarusz, Litvánia és Oroszország (Kalinyingrád).",
+      "facts": [
+        "Nagy részét a jégkori Lengyel-alföld és tóhátság foglalja el, délen a Kárpátok és a Szudéták.",
+        "Sziléziában jelentős a kőszénbányászat.",
+        "A Visegrádi Együttműködés tagja, 2004 óta EU-tag; fővárosa Varsó."
+      ],
+      "concepts": [
+        "tóhátság",
+        "Visegrádi Együttműködés (V4)",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--lettorszag": {
+      "fekves": "Balti állam kb. az é. sz. 55,5–58° és a k. h. 21–28° között, a Balti-tenger és a Rigai-öböl partján. Szomszédai: Észtország, Litvánia, Belarusz és Oroszország.",
+      "facts": [
+        "Alacsony, jégkori eredetű síkság, erdőkben gazdag.",
+        "Jelentős orosz nyelvű kisebbség él itt.",
+        "2004 óta EU-tag; fővárosa Riga, a Daugava torkolatánál."
+      ],
+      "concepts": [
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--litvania": {
+      "fekves": "A legdélebbi balti állam kb. az é. sz. 54–56,5° és a k. h. 21–27° között, a Balti-tenger partján. Szomszédai: Lettország, Belarusz, Lengyelország és Oroszország (Kalinyingrádi terület).",
+      "facts": [
+        "A legnépesebb balti állam.",
+        "Jégkori síkság morénákkal és tavakkal.",
+        "2004 óta EU-tag; fővárosa Vilnius."
+      ],
+      "concepts": [
+        "Európai Unió",
+        "moréna"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--luxemburg": {
+      "fekves": "Kis nyugat-európai, tengerparttal nem rendelkező ország kb. é. sz. 49,5–50°, k. h. 6° körül. Szomszédai: Belgium, Németország és Franciaország.",
+      "facts": [
+        "Egy főre jutó GDP-je a világ legmagasabbjai közé tartozik.",
+        "Nemzetközi pénzügyi központ, több EU-intézmény (pl. az EU Bírósága) székhelye.",
+        "Iparát egykor a helyi vasércre épülő acélgyártás jellemezte."
+      ],
+      "concepts": [
+        "bruttó hazai termék (GDP)",
+        "Európai Unió Bírósága"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--malta": {
+      "fekves": "Szigetország a Földközi-tenger középső részén, kb. é. sz. 36°, k. h. 14,5° körül, Szicíliától délre.",
+      "facts": [
+        "Az Európai Unió legkisebb területű és népességű tagállama.",
+        "Mediterrán éghajlatú; ivóvizét részben tengervíz sótalanításával nyeri.",
+        "Fő bevételi forrása az idegenforgalom, a hajózás és a pénzügyi szolgáltatások."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--montenegro": {
+      "fekves": "Kis balkáni ország az Adriai-tenger partján kb. az é. sz. 42–43,5° és a k. h. 18,5–20,5° között. Szomszédai: Bosznia-Hercegovina, Szerbia, Koszovó, Albánia és Horvátország.",
+      "facts": [
+        "Felszíne a Dinári-hegység karsztos hegyvidéke.",
+        "Partján a Kotori-öböl mélyen benyúló, hegyekkel övezett öböl.",
+        "2006-ban vált függetlenné; fontos az idegenforgalom."
+      ],
+      "concepts": [
+        "mészkő",
+        "öböl"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--nagy-britannia-anglia-skocia-wales-es-eszak-irorszag-egyesult-kiralysaga": {
+      "fekves": "Szigetország a Brit-szigeteken kb. az é. sz. 50–61° és a ny. h. 8°–k. h. 2° között (tengerentúli területei is vannak). Az Atlanti-óceán, az Északi-tenger és a La Manche veszi körül; szárazföldi szomszédja csak Írország.",
+      "facts": [
+        "Az ipari forradalom (18. század) kiindulópontja, a szénre és a textiliparra épült.",
+        "A hagyományos iparágak hanyatlása után szerkezetváltás: ma a szolgáltatások, főként London pénzügyi szektora a meghatározó.",
+        "Az Északi-tengerből kőolajat és földgázt termel ki.",
+        "2020-ban kilépett az Európai Unióból."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "ipar utáni (posztindusztriális) társadalom",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--nemetorszag": {
+      "fekves": "Közép-európai ország kb. az é. sz. 47–55° és a k. h. 6–15° között, az Északi- és a Balti-tenger partján. Kilenc szomszédja van (Dánia, Lengyelország, Csehország, Ausztria, Svájc, Franciaország, Luxemburg, Belgium, Hollandia).",
+      "facts": [
+        "Felszíne északról délre: Germán-alföld, Német-középhegység, Alpok előtere és Bajor-Alpok.",
+        "Az Európai Unió legnagyobb gazdasága; vezető ágazatai az autóipar, a gépipar és a vegyipar.",
+        "A Ruhr-vidék kőszénre épült nehézipara szerkezetváltáson ment át.",
+        "1990-ben egyesült újra."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "Európai Unió",
+        "húzóágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--norvegia": {
+      "fekves": "Észak-európai ország a Skandináv-félsziget nyugati részén kb. az é. sz. 58–71° és a k. h. 5–31° között (sarkvidéki szigetekkel). Az Atlanti-óceán és az Északi-tenger határolja; szomszédai Svédország, Finnország és Oroszország.",
+      "facts": [
+        "Partja fjordokkal tagolt, felszínét a Skandináv-hegység uralja.",
+        "Villamos energiáját szinte teljesen vízerőművek adják.",
+        "Jelentős északi-tengeri kőolaj- és földgáztermelő; fontos a halászat.",
+        "Nem tagja az Európai Uniónak."
+      ],
+      "concepts": [
+        "fjord",
+        "kőolaj",
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--olaszorszag": {
+      "fekves": "Dél-európai ország kb. az é. sz. 35,5–47° és a k. h. 6,5–18,5° között, az Appennini-félszigeten, Szicílián és Szardínián. Északon az Alpok határolja; szomszédai Franciaország, Svájc, Ausztria és Szlovénia.",
+      "facts": [
+        "Éles a fejlettségbeli különbség az iparosodott Észak (Pó-alföld) és az elmaradottabb Dél között.",
+        "Működő vulkánjai (Vezúv, Etna, Stromboli) vannak, gyakori a földrengés.",
+        "Jelentős az idegenforgalom és a mediterrán mezőgazdaság."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "rétegvulkán"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--oroszorszag": {
+      "fekves": "A világ legnagyobb területű országa Kelet-Európában és Észak-Ázsiában, kb. az é. sz. 41–82° között, a k. h. 19°-tól a Bering-szorosig. Európai része az Urál hegységtől nyugatra a Kelet-európai-síkságon fekszik.",
+      "facts": [
+        "Népességének többsége az európai részen él; fővárosa Moszkva.",
+        "A világ egyik legnagyobb kőolaj- és földgázexportőre.",
+        "Területén a tundrától a sztyeppig sok természetföldrajzi öv megtalálható."
+      ],
+      "concepts": [
+        "kőolaj",
+        "földgáz",
+        "vízszintes földrajzi övezetesség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--portugalia": {
+      "fekves": "A Pireneusi-félsziget nyugati részén fekvő ország, szárazföldi része kb. az é. sz. 37–42° és a ny. h. 6–9,5° között; hozzá tartozik az Azori-szigetek és Madeira. Nyugaton és délen az Atlanti-óceán, keleten és északon Spanyolország határolja.",
+      "facts": [
+        "Éghajlata óceáni hatású mediterrán.",
+        "A világ vezető parafatermelője.",
+        "Fővárosa, Lisszabon a Tajo tölcsértorkolatánál fekszik; jelentős az idegenforgalom."
+      ],
+      "concepts": [
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--romania": {
+      "fekves": "Ország kb. az é. sz. 43,5–48,5° és a k. h. 20–30° között, a Fekete-tenger partján. Szomszédai: Magyarország, Ukrajna, Moldova, Bulgária és Szerbia.",
+      "facts": [
+        "A Kárpátok íve tagolja: Erdély, Havasalföld (Román-alföld) és Moldva.",
+        "Kőolaj- és földgázkészletekkel rendelkezik.",
+        "Erdélyben jelentős magyar kisebbség él; 2007 óta EU-tag."
+      ],
+      "concepts": [
+        "kőolaj",
+        "földgáz",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--spanyolorszag": {
+      "fekves": "Dél-európai ország a Pireneusi-félsziget nagy részén kb. az é. sz. 36–44° és a ny. h. 9,5°–k. h. 3,5° között; hozzá tartoznak a Baleár- és a Kanári-szigetek. Szomszédai Portugália, Franciaország és Andorra.",
+      "facts": [
+        "Belsejét a Meseta magasföldje foglalja el.",
+        "Öntözéses zöldség- és gyümölcstermesztés, olíva; jelentős az autóipar.",
+        "A tengerparti idegenforgalom egyik vezető országa; több autonóm közössége (pl. Katalónia, Baszkföld) van."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "fennsík"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--svajc": {
+      "fekves": "Közép-európai, tengerparttal nem rendelkező ország kb. az é. sz. 46–48° és a k. h. 6–10,5° között. Szomszédai: Németország, Ausztria, Liechtenstein, Olaszország és Franciaország.",
+      "facts": [
+        "Felszíne: Jura, Svájci-középföld és az Alpok; itt ered a Rajna és a Rhône.",
+        "Négy hivatalos nyelve van (német, francia, olasz, rétoromán).",
+        "Fejlett pénzügyi szektor, gyógyszer- és precíziós ipar; nem tagja az EU-nak."
+      ],
+      "concepts": [
+        "gyűrthegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "folyo-munkaja",
+  "title": "A folyó munkája: bevágódás, oldalazás, feltöltés",
+  "summary": "A folyó munkavégző képessége a víz mennyiségétől és sebességétől (az esésétől) függ. Ennek megfelelően a felső szakaszon bevágódik, a középsőn oldalaz, az alsón feltölt, a torkolatnál pedig delta vagy tölcsértorkolat alakul ki.",
+  "causes": [
+    "A folyó munkavégző képessége a vízhozamtól és az áramlási sebességtől függ, a sebességet főként a meder esése határozza meg.",
+    "A szállított hordalék mennyisége és szemcsemérete is befolyásolja, hogy a folyó pusztít vagy épít.",
+    "Az esés a forrástól a torkolat felé általában csökken, ezért a folyó munkája szakaszonként változik."
+  ],
+  "course": [
+    "A felső szakaszon nagy az esés, a folyó a mederfeneket mélyíti (bevágódik), V alakú völgyet alakít ki.",
+    "A középső szakaszon kisebb az esés, a folyó kanyarogni kezd, a külső ívet pusztítja, a belső ívre hordalékot rak (oldalazás).",
+    "Az alsó szakaszon kicsi az esés, a lelassuló folyó lerakja hordalékát: zátonyok, szigetek alakulnak ki, a levágott kanyarulatokból holtágak lesznek.",
+    "A torkolatnál a hordalékban gazdag folyó deltát épít, ahol erős a tengerjárás vagy kevés a hordalék, tölcsértorkolat alakul ki."
+  ],
+  "consequences": [
+    "A folyók völgyei és síkságai fontos települési és közlekedési területek.",
+    "A feltöltő szakaszok és a delták termékeny öntéstalajai kedveznek a mezőgazdaságnak.",
+    "A kanyargó, feltöltő folyók hajózása nehéz, árvízveszélyük nagy, ezért folyószabályozásra van szükség.",
+    "A tölcsértorkolatok kedvező helyet adnak nagy tengeri kikötőknek."
+  ],
+  "steps": [
+    {
+      "title": "Felső szakasz: bevágódás, V alakú völgy",
+      "caption": "A nagy esés miatt gyors a víz, a folyó a görgetett hordalékkal mélyíti medrét. A bevágódás és a lejtők lepusztulása V alakú völgyet hoz létre.",
+      "icon": "mountain"
+    },
+    {
+      "title": "Középső szakasz: oldalazás, kanyarulatok",
+      "caption": "Az esés csökken, a folyó kanyarogni kezd: a sodorvonal felőli külső ívet pusztítja, a belső ívre hordalékot rak. A völgy kiszélesedik.",
+      "icon": "waves"
+    },
+    {
+      "title": "Alsó szakasz: feltöltés, zátonyok, holtágak",
+      "caption": "A kis esés miatt lelassuló folyó lerakja hordalékát, zátonyok és szigetek képződnek. A levágódó kanyarulatokból holtágak lesznek.",
+      "icon": "layers"
+    },
+    {
+      "title": "Torkolat: delta vagy tölcsértorkolat",
+      "caption": "Hordalékban gazdag folyónál és gyenge tengerjárásnál delta épül. Ha erős a tengerjárás és kevés a hordalék, a víz kisöpri a torkolatot: tölcsértorkolat alakul ki.",
+      "icon": "droplets"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Duna a Duna-deltával, a Nílus a Földközi-tengerbe épülő deltájával torkollik; mindkettő hordalékban gazdag folyó.",
+      "places": [
+        "europa--tajak--duna-delta",
+        "afrika--vizrajz--nilus"
+      ]
+    },
+    {
+      "text": "A Temze és a Szajna tölcsértorkolattal ömlik a tengerbe, ahol erős a tengerjárás; ez kedvez a kikötőknek.",
+      "places": [
+        "europa--vizrajz--temze",
+        "europa--vizrajz--szajna"
+      ]
+    },
+    {
+      "text": "A Tisza az Alföldön feltöltő jellegű, erősen kanyargó folyó volt; a szabályozáskor levágott kanyarulataiból holtágak lettek.",
+      "places": [
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--fo-tajegysegek--alfold"
+      ]
+    },
+    {
+      "text": "A Duna a Dunakanyarban átmetszi a hegységet, az Alföldön már feltöltő szakaszjellegű.",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--dunakanyar",
+        "magyarorszag--vizrajz--duna"
+      ]
+    }
+  ],
+  "concepts": [
+    "a folyók munkavégző képessége",
+    "bevágódó",
+    "oldalazó és feltöltő szakaszjelleg",
+    "V alakú völgy",
+    "sodorvonal",
+    "hordalék",
+    "zátony",
+    "holtág",
+    "deltatorkolat",
+    "tölcsértorkolat",
+    "hordalékkúp"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a folyók munkáját a forrástól a torkolatig! Térj ki a munkavégző képességet meghatározó tényezőkre és a torkolattípusok kialakulására!",
+    "elements": [
+      {
+        "text": "A munkavégző képesség a vízhozamtól és a sebességtől (eséstől) függ.",
+        "points": 2
+      },
+      {
+        "text": "Felső szakasz: nagy esés, bevágódás, V alakú völgy.",
+        "points": 2
+      },
+      {
+        "text": "Középső szakasz: oldalazás, a külső ív pusztul, a belső íven lerakódás, kanyarulatok.",
+        "points": 2
+      },
+      {
+        "text": "Alsó szakasz: feltöltés, zátonyok, szigetek, holtágak.",
+        "points": 2
+      },
+      {
+        "text": "Torkolat: sok hordalék, gyenge tengerjárás esetén delta; erős tengerjárás esetén tölcsértorkolat.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A folyó munkavégző képessége a vízhozamától és a sebességétől függ, a sebességet pedig elsősorban a meder esése határozza meg. A felső szakaszon nagy az esés, ezért a folyó medrét mélyíti, bevágódik, és V alakú völgyet alakít ki. A középső szakaszon az esés csökken, a folyó oldalazni kezd: a külső ívet pusztítja, a belső ívre hordalékot rak, így kanyarulatok jönnek létre. Az alsó szakaszon a kis esés miatt a lelassuló folyó lerakja hordalékát, zátonyok, szigetek képződnek, a levágott kanyarulatokból holtágak lesznek. A torkolatnál a hordalékban gazdag folyó gyenge tengerjárás mellett deltát épít (pl. Duna, Nílus), erős tengerjárás esetén pedig tölcsértorkolat alakul ki (pl. Temze)."
+  },
+  "generated": true,
+  "reviewed": false
+}

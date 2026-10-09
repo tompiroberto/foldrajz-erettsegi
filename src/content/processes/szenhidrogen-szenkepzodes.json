@@ -1,0 +1,60 @@
+{
+  "id": "szenhidrogen-szenkepzodes",
+  "title": "A szén, a kőolaj és a földgáz keletkezése",
+  "summary": "A kőszén szárazföldi mocsári növényzetből, a kőolaj és a földgáz főként tengeri apró élőlények (plankton) szerves anyagából keletkezett, levegőtől elzárva, nagy nyomáson és hőmérsékleten, hosszú földtörténeti idő alatt. Mindhárom szerves eredetű, nem megújuló energiahordozó.",
+  "causes": [
+    "Nagy mennyiségű szerves anyag halmozódott fel: mocsárerdők növényzete, illetve sekély tengerek planktonja.",
+    "Az elhalt szerves anyag oxigénszegény környezetbe került, így nem bomlott le teljesen.",
+    "Az anyagot vastag üledék temette be, a mélyben nőtt a nyomás és a hőmérséklet."
+  ],
+  "course": [
+    "Szénképződés (szénülés): a növényi maradványokból előbb tőzeg, majd a betemetődés során lignit, barnakőszén, feketekőszén, végül antracit lesz.",
+    "A szénülés során nő a széntartalom és a fűtőérték, csökken a víz- és illóanyag-tartalom.",
+    "Kőolaj és földgáz: a tengerfenéki iszapban felhalmozódott planktonból a mélyben, hő és nyomás hatására szénhidrogének keletkeznek.",
+    "A szénhidrogének a likacsos tárolókőzetben (homokkő, mészkő) felfelé vándorolnak, és a vízzáró kőzet (agyag, só) alatt, csapdában (pl. redőboltozatban) halmozódnak fel."
+  ],
+  "consequences": [
+    "A szénfajták kora és minősége összefügg: az idősebb, mélyebbre került szén általában jobb minőségű.",
+    "A szénhidrogén-lelőhelyek gyakran üledékes medencékben, kontinentális talapzatokon, gyűrthegységek előterében találhatók.",
+    "Kialakulásuk évmilliókat igényel, ezért nem megújuló energiahordozók.",
+    "Elégetésük szén-dioxidot juttat a légkörbe, ami fokozza az üvegházhatást."
+  ],
+  "steps": [
+    { "title": "Szerves anyag felhalmozódása", "caption": "Mocsárerdőkben vastag növényi maradvány, sekély tengerekben elhalt plankton halmozódik fel. Ez a szén, illetve a szénhidrogének alapanyaga.", "icon": "leaf" },
+    { "title": "Elzáródás a levegőtől", "caption": "A szerves anyagot víz és iszap fedi be, oxigénszegény környezetbe kerül, ezért nem bomlik le teljesen. A mocsarakban így tőzeg keletkezik.", "icon": "droplets" },
+    { "title": "Betemetődés: nő a nyomás és a hőmérséklet", "caption": "Az egymásra rakódó üledékek egyre mélyebbre süllyesztik a szerves anyagot, ahol nő a nyomás és a hőmérséklet.", "icon": "arrow-down" },
+    { "title": "Szénülés: tőzeg → lignit → barnakőszén → feketekőszén → antracit", "caption": "A növényi anyag fokozatosan szenesedik: a széntartalom és a fűtőérték nő, a víztartalom csökken. Az antracit a legjobb minőségű szénfajta.", "icon": "layers" },
+    { "title": "Kőolaj és földgáz képződése", "caption": "A tengeri iszapban eltemetett planktonból a mélyben, megfelelő hőmérsékleten kőolaj, magasabb hőmérsékleten főleg földgáz keletkezik.", "icon": "thermometer" },
+    { "title": "Vándorlás és csapdázódás", "caption": "A víznél könnyebb szénhidrogének felfelé vándorolnak a likacsos tárolókőzetben, és a vízzáró réteg alatt, például redőboltozatban halmozódnak fel.", "icon": "arrow-up" },
+    { "title": "Kitermelés és felhasználás", "caption": "A szenet mélyművelésű vagy külszíni bányákban, a kőolajat és a földgázt fúrással termelik ki. Energiahordozók és vegyipari alapanyagok.", "icon": "fuel" }
+  ],
+  "examples": [
+    { "text": "A Perzsa (Arab)-öböl térségének üledékes rétegei a világ legnagyobb kőolajkészleteit rejtik; a térség legnagyobb termelője Szaúd-Arábia.", "places": ["azsia--vizrajz--perzsa-arab-obol", "azsia--orszagok--szaud-arabia"] },
+    { "text": "A Nyugat-szibériai-alföld üledékes medencéje hatalmas kőolaj- és földgázkészletet rejt.", "places": ["azsia--tajak--nyugat-sziberiai-alfold"] },
+    { "text": "A Ruhr-vidék feketekőszene a karbon időszak mocsárerdeiből keletkezett, erre épült Németország nehézipara.", "places": ["europa--iparvidekek--ruhr-videk"] },
+    { "text": "Hazánkban a Mecsekben feketekőszén, Tatabánya környékén barnakőszén, Visontán lignit, Algyőnél kőolaj és földgáz található.", "places": ["magyarorszag--egyeb-tajak-teruletek--mecsek", "magyarorszag--telepulesek--tatabanya", "magyarorszag--telepulesek--visonta", "magyarorszag--telepulesek--algyo"] }
+  ],
+  "concepts": [
+    "szerves eredetű üledékes kőzet",
+    "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+    "kőolaj",
+    "földgáz",
+    "ásványi nyersanyag",
+    "redőboltozat"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a kőszén, valamint a kőolaj és a földgáz keletkezését! Hasonlítsd össze kiinduló anyagukat és képződésük körülményeit!",
+    "elements": [
+      { "text": "A kőszén szárazföldi mocsári növényzetből keletkezett.", "points": 1 },
+      { "text": "A kőolaj és a földgáz főként tengeri plankton szerves anyagából keletkezett.", "points": 1 },
+      { "text": "Feltétel: levegőtől elzárt, oxigénszegény környezet, betemetődés, nagy nyomás és hőmérséklet.", "points": 2 },
+      { "text": "Szénülés sorrendje: tőzeg, lignit, barnakőszén, feketekőszén, antracit; nő a széntartalom és a fűtőérték.", "points": 2 },
+      { "text": "A szénhidrogének a tárolókőzetben vándorolnak, és vízzáró réteg alatt, csapdában (pl. redőboltozat) halmozódnak fel.", "points": 2 },
+      { "text": "Hosszú földtörténeti idő alatt keletkeztek, ezért nem megújuló energiahordozók.", "points": 1 },
+      { "text": "Helyes példa (pl. Perzsa-öböl, Ruhr-vidék, Mecsek, Algyő).", "points": 1 }
+    ],
+    "modelAnswer": "A kőszén szárazföldi mocsárerdők növényzetéből, a kőolaj és a földgáz főként sekély tengerek planktonjának szerves anyagából keletkezett. Mindkét esetben az elhalt szerves anyag levegőtől elzárt, oxigénszegény környezetbe került, majd az üledékek betemették, és a mélyben nagy nyomás és hőmérséklet hatott rá. A szénülés során tőzegből lignit, barnakőszén, feketekőszén, végül antracit lett, miközben nőtt a széntartalom és a fűtőérték; hazánkban például a Mecsekben feketekőszén található. A keletkezett kőolaj és földgáz a likacsos tárolókőzetben felfelé vándorolt, és a vízzáró réteg alatt, csapdákban, például redőboltozatokban halmozódott fel, mint a Perzsa-öböl térségében vagy Algyőnél. Mivel keletkezésük évmilliókat igényelt, ezek nem megújuló energiahordozók."
+  },
+  "generated": true,
+  "reviewed": false
+}

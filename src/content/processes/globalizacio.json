@@ -1,0 +1,129 @@
+{
+  "id": "globalizacio",
+  "title": "A globalizáció és a termelés áttelepülése",
+  "summary": "A globalizáció a világgazdaság egységesülése: a termelés, a kereskedelem, a tőke és az információ áramlása átlépi az országhatárokat. A transznacionális vállalatok a termelés egyes lépéseit oda telepítik, ahol a legolcsóbban és leghatékonyabban végezhetők.",
+  "causes": [
+    "A tudományos-technikai forradalom olcsóvá és gyorssá tette a szállítást (konténeres hajózás, légi szállítás) és a kommunikációt (internet).",
+    "A kereskedelmi korlátok (vámok) lebontása és a tőkeáramlás szabaddá válása megkönnyítette a határokon átnyúló működést.",
+    "Az 1970-es évek kőolajár-robbanásai és válságai után a vállalatok a költségek csökkentésére törekedtek.",
+    "A fejlődő és átalakuló országokban olcsó munkaerő, kedvező adózás és nagy, bővülő piac kínálkozott."
+  ],
+  "course": [
+    "A transznacionális vállalatok (TNC) anyavállalata a fejlett országban marad, ahol az irányítás és a kutatás-fejlesztés folyik.",
+    "A munkaigényes, kevésbé képzett munkát igénylő termelési lépéseket olcsó munkaerejű országokba telepítik (leányvállalatok).",
+    "Az alkatrészeket több országban gyártják, és egy helyen szerelik össze: kialakul a világtermék.",
+    "A tőke, az áruk és az információ egyre szabadabban áramlik, nő a nemzetközi munkamegosztás."
+  ],
+  "consequences": [
+    "A befogadó országokban munkahelyek, tőke és technológia jelenik meg, gyors iparosodás indul (pl. Kína, újonnan iparosodott országok).",
+    "A kibocsátó országokban egyes iparágak leépülnek, munkanélküliség és szerkezetváltás jelentkezik.",
+    "Nő a TNC-k gazdasági és politikai befolyása, az országok gazdasága kölcsönösen függ egymástól, a válságok gyorsan terjednek.",
+    "Nőnek a társadalmi-gazdasági egyenlőtlenségek, és a környezetszennyezés egy része a kevésbé szabályozott országokba települ át."
+  ],
+  "steps": [
+    {
+      "title": "Technikai forradalom",
+      "caption": "A közlekedés és a hírközlés fejlődése (konténeres hajózás, légi szállítás, internet) olcsóvá és gyorssá teszi a távolsági kapcsolatokat.",
+      "icon": "plane"
+    },
+    {
+      "title": "Kereskedelmi korlátok lebontása",
+      "caption": "A vámok csökkentése és a tőkeáramlás szabaddá válása megnyitja a piacokat.",
+      "icon": "globe"
+    },
+    {
+      "title": "Transznacionális vállalatok",
+      "caption": "A TNC anyavállalata a fejlett országban irányít, kutat és fejleszt, leányvállalatai a világ sok országában működnek.",
+      "icon": "building"
+    },
+    {
+      "title": "A termelés áttelepülése",
+      "caption": "A munkaigényes gyártást olcsó munkaerejű, kedvező adózású országokba telepítik.",
+      "icon": "factory"
+    },
+    {
+      "title": "Világtermék",
+      "caption": "Az alkatrészek sok országban készülnek, összeszerelésük egy helyen történik, a terméket világszerte értékesítik.",
+      "icon": "ship"
+    },
+    {
+      "title": "Nyertesek és vesztesek",
+      "caption": "A befogadó országokban gyors iparosodás indul, a kibocsátó országok régi iparvidékein munkanélküliség jelentkezik; nőnek az egyenlőtlenségek.",
+      "icon": "users"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Kína tengerparti különleges gazdasági övezeteibe (pl. Sencsen) a külföldi tőke tömegesen telepített munkaigényes gyártást; az ország a „világ gyárává” vált.",
+      "places": [
+        "azsia--orszagok--kina",
+        "azsia--varosok--sencsen"
+      ]
+    },
+    {
+      "text": "Detroit autóipara a termelés áttelepülése és a verseny miatt leépült, a város népessége jelentősen csökkent.",
+      "places": [
+        "amerika--varosok--detroit"
+      ]
+    },
+    {
+      "text": "Magyarországon német autógyártó TNC-k leányvállalatai működnek, pl. Győrben (Audi) és Kecskeméten (Mercedes).",
+      "places": [
+        "magyarorszag--telepulesek--gyor",
+        "magyarorszag--telepulesek--kecskemet"
+      ]
+    },
+    {
+      "text": "Bengaluru (Bangalore) a fejlett országok informatikai és szolgáltatási feladatainak kiszervezéséből gyarapodott.",
+      "places": [
+        "azsia--varosok--bengaluru-bangalore"
+      ]
+    }
+  ],
+  "concepts": [
+    "globalizáció",
+    "transznacionális vállalat (TNC)",
+    "anyavállalat",
+    "leányvállalat",
+    "világtermék",
+    "tudományos-technikai forradalom",
+    "kőolajár-robbanás",
+    "globális világgazdaság",
+    "nemzetközi munkamegosztás",
+    "működőtőke",
+    "társadalmi-gazdasági egyenlőtlenség",
+    "újonnan iparosodott országok"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el, mi tette lehetővé a globalizációt, és miért települ át a termelés egy része a fejlődő országokba! Mutasd be a folyamat előnyeit és hátrányait!",
+    "elements": [
+      {
+        "text": "A tudományos-technikai forradalom olcsóvá, gyorssá tette a szállítást és a kommunikációt.",
+        "points": 2
+      },
+      {
+        "text": "A kereskedelmi korlátok lebontása, a tőkeáramlás szabaddá válása.",
+        "points": 1
+      },
+      {
+        "text": "A TNC-k anyavállalata a fejlett országban (irányítás, K+F), leányvállalatai a világ sok pontján működnek.",
+        "points": 2
+      },
+      {
+        "text": "Áttelepülés oka: olcsó munkaerő, kedvező adózás, új piacok, enyhébb környezetvédelmi előírások.",
+        "points": 2
+      },
+      {
+        "text": "Világtermék: több országban gyártott alkatrészekből összeszerelt termék.",
+        "points": 1
+      },
+      {
+        "text": "Előny: munkahely, tőke, technológia a befogadó országokban; hátrány: leépülés és munkanélküliség a régi ipari térségekben, egyenlőtlenségek, kiszolgáltatottság.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A globalizációt a tudományos-technikai forradalom tette lehetővé, amely a konténeres hajózással, a légi szállítással és az internettel olcsóvá és gyorssá tette a szállítást és a kommunikációt, a vámok lebontása és a tőkeáramlás szabaddá válása pedig megnyitotta a piacokat. A folyamat fő szereplői a transznacionális vállalatok, amelyek anyavállalata a fejlett országban végzi az irányítást és a kutatás-fejlesztést, leányvállalataik pedig a világ számos országában termelnek. A munkaigényes gyártást az olcsó munkaerő, a kedvező adózás, az új piacok és az enyhébb környezetvédelmi előírások miatt telepítik át a fejlődő országokba, például Kínába. Így jön létre a világtermék, amelynek alkatrészei több országban készülnek, és egy helyen szerelik össze. A befogadó országok munkahelyekhez, tőkéhez és technológiához jutnak, a régi iparvidékeken (pl. Detroit) viszont munkanélküliség jelentkezik, és világszerte nőnek a társadalmi-gazdasági egyenlőtlenségek."
+  },
+  "generated": true,
+  "reviewed": false
+}

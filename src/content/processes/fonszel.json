@@ -1,0 +1,103 @@
+{
+  "id": "fonszel",
+  "title": "A főnszél",
+  "summary": "A főn a hegység szélárnyékos oldalán leszálló, száraz, meleg szél. Azért melegebb, mint a hegység túloldalán volt, mert a szél felőli oldalon lassabban hűlt, mint ahogy a túloldalon leszállva felmelegszik.",
+  "causes": [
+    "A légáramlás útjába hegység kerül, ezért a levegő kénytelen felemelkedni.",
+    "A felemelkedő, telítetlen levegő 100 méterenként kb. 1 °C-ot hűl, a telítetté vált levegő a kicsapódáskor felszabaduló hő miatt csak kb. 0,5 °C-ot.",
+    "A leszálló levegő összenyomódik, és 100 méterenként kb. 1 °C-ot melegszik."
+  ],
+  "course": [
+    "A szél felőli (szélhatás) oldalon a levegő felemelkedik és lehűl, a harmatpontot elérve felhő képződik.",
+    "A felhőképződés szintje fölött a levegő már csak kb. 0,5 °C-ot hűl 100 méterenként, a lejtőn csapadék hullik.",
+    "A gerincen átbukó levegő vízgőztartalmának jelentős részét már elvesztette.",
+    "A szélárnyékos oldalon a levegő leszáll, és végig kb. 1 °C-ot melegszik 100 méterenként, ezért azonos magasságban melegebb és szárazabb lesz, mint a túloldalon volt."
+  ],
+  "consequences": [
+    "A szélárnyékos oldalon hirtelen felmelegedés, alacsony relatív páratartalom, derült idő jellemző.",
+    "Tavasszal a főn gyors hóolvadást, lavinaveszélyt és áradást okozhat.",
+    "A száraz, meleg szél növeli az erdőtüzek veszélyét, és sok embernél rossz közérzetet okoz.",
+    "A hegység két oldalán eltérő a csapadék: a szél felőli oldal csapadékos, a szélárnyékos oldal szárazabb."
+  ],
+  "steps": [
+    {
+      "title": "A légáramlás eléri a hegységet és felemelkedik",
+      "caption": "A nedves levegő a hegység lejtőjén kénytelen felemelkedni. Telítetlen állapotban 100 méterenként kb. 1 °C-ot hűl.",
+      "icon": "mountain"
+    },
+    {
+      "title": "Szélhatás oldal: lehűlés, kicsapódás, csapadék",
+      "caption": "A harmatpontot elérve a vízgőz kicsapódik, felhő képződik, és csapadék hullik. A felszabaduló hő miatt a levegő itt már csak kb. 0,5 °C-ot hűl 100 méterenként.",
+      "icon": "cloud-rain"
+    },
+    {
+      "title": "A gerincen átbukó levegő már szárazabb",
+      "caption": "A csapadékkal a levegő vízgőztartalmának jelentős része a szél felőli oldalon maradt. A gerincen átbukó levegő hideg, de szárazabb.",
+      "icon": "mountain-snow"
+    },
+    {
+      "title": "Szélárnyékos oldal: leszálló, gyorsan felmelegedő, száraz, meleg szél",
+      "caption": "A leszálló levegő összenyomódik, és 100 méterenként kb. 1 °C-ot melegszik. Mivel felfelé lassabban hűlt, mint lefelé melegszik, a lábánál melegebb és szárazabb, mint a túloldalon volt.",
+      "icon": "thermometer"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Az Alpokban a hegység északi völgyeiben gyakori a déli áramláskor kialakuló főn, amely tavasszal gyors hóolvadást és lavinaveszélyt okoz.",
+      "places": [
+        "europa--tajak--alpok"
+      ]
+    },
+    {
+      "text": "A Sziklás-hegység keleti előterében a főn típusú szél télen hirtelen felmelegedést és gyors hóolvadást okoz.",
+      "places": [
+        "amerika--tajak--sziklas-hegyseg"
+      ]
+    },
+    {
+      "text": "Az Andok keleti, szélárnyékos oldalán is főn jellegű, száraz, meleg szél fúj.",
+      "places": [
+        "amerika--tajak--andok"
+      ]
+    }
+  ],
+  "concepts": [
+    "helyi szelek (parti szél, hegy-völgyi szél, városi szél, főn)",
+    "harmatpont",
+    "kicsapódás",
+    "felhő- és csapadékképződés",
+    "telítettség"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a főnszél kialakulását! Indokold, miért melegebb a szélárnyékos oldalon leszálló levegő!",
+    "elements": [
+      {
+        "text": "A légáramlás útjába eső hegység előtt a levegő felemelkedik.",
+        "points": 1
+      },
+      {
+        "text": "A telítetlen levegő emelkedéskor kb. 1 °C/100 m-t hűl.",
+        "points": 2
+      },
+      {
+        "text": "A harmatpont elérése után kicsapódás, felhő- és csapadékképződés; ekkor csak kb. 0,5 °C/100 m a lehűlés.",
+        "points": 2
+      },
+      {
+        "text": "A gerincen átjutó levegő szárazabb, nedvességét a szél felőli oldalon elvesztette.",
+        "points": 1
+      },
+      {
+        "text": "A leszálló levegő kb. 1 °C/100 m-t melegszik.",
+        "points": 2
+      },
+      {
+        "text": "Ezért a szélárnyékos oldalon azonos magasságban melegebb, szárazabb a levegő.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A főn akkor alakul ki, amikor a légáramlás útjába hegység kerül, és a levegő kénytelen a lejtőn felemelkedni. A telítetlen levegő emelkedés közben 100 méterenként kb. 1 °C-ot hűl, majd a harmatpontot elérve vízgőze kicsapódik, felhő képződik és csapadék hullik, ekkor a felszabaduló hő miatt már csak kb. 0,5 °C-ot hűl 100 méterenként. A gerincen átbukó levegő nedvességének nagy részét a szél felőli oldalon elvesztette, ezért szárazabb. A szélárnyékos oldalon leszálló levegő összenyomódik, és 100 méterenként kb. 1 °C-ot melegszik. Mivel felfelé részben lassabban hűlt, mint ahogy lefelé melegszik, a hegység lábánál azonos magasságban melegebb és szárazabb, mint a túloldalon volt."
+  },
+  "generated": true,
+  "reviewed": false
+}

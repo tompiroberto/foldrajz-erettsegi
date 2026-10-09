@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "amerika--vizrajz--szent-lorinc-folyo",
+        "name": "Szent Lőrinc-folyó",
+        "confidence": "medium",
+        "note": "Az Ontario-tó kifolyásától (Kingston) Montréalon és Québecen át a Szent Lőrinc-öbölig; a Natural Earth csak egy rövid szakaszt tartalmaz."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-76.48, 44.23],
+          [-75.68, 44.59],
+          [-74.73, 45.02],
+          [-73.55, 45.5],
+          [-72.54, 46.34],
+          [-71.21, 46.81],
+          [-70.5, 47.2],
+          [-69.7, 48.1],
+          [-68.4, 48.8],
+          [-66.5, 49.4],
+          [-64.6, 49.6]
+        ]
+      }
+    }
+  ]
+}

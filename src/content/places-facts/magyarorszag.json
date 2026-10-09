@@ -1,0 +1,2923 @@
+{
+  "facts": {
+    "magyarorszag--fo-tajegysegek--alfold": {
+      "fekves": "A Kárpát-medence középső és keleti részén, kb. é. sz. 45–48,5° és k. h. 18–23° között terül el, Magyarország területének mintegy felét foglalja el. Nyugaton a Dunántúl, északon az Északi-középhegység határolja, a Duna és a Tisza szeli át, délen és keleten Szerbiába és Romániába nyúlik át.",
+      "facts": [
+        "Fiatal süllyedékterület, amelyet a folyók negyedidőszaki hordaléka, lösz és futóhomok töltött fel.",
+        "Hazánk legszárazabb, legnagyobb évi hőingású nagytája; nyáron gyakori az aszály.",
+        "Jellemző talajai a mezőségi talaj, az öntés- és réti talaj, valamint a szikes talajok.",
+        "Fontos szántóföldi növénytermesztő terület (búza, kukorica, napraforgó)."
+      ],
+      "concepts": [
+        "alföld",
+        "süllyedékterület",
+        "mezőségi talaj",
+        "aszály"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--fo-tajegysegek--alpokalja": {
+      "fekves": "Az ország nyugati határszélén, kb. é. sz. 46,7–47,8° és k. h. 16,2–16,9° között húzódik Ausztria határa mentén. Keletre a Kisalföld és a Dunántúli-dombság, nyugatra az Alpok keleti nyúlványai határolják.",
+      "facts": [
+        "Része a Soproni- és a Kőszegi-hegység, az Alpok legkeletibb, kristályos palákból álló nyúlványai.",
+        "Hazánk legcsapadékosabb, leghűvösebb nyarú tája az óceáni hatás miatt.",
+        "Erdőkben gazdag; jellemző talaja a barna erdőtalaj."
+      ],
+      "concepts": [
+        "átalakult kőzet",
+        "palás kőzetek",
+        "barna erdőtalaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--fo-tajegysegek--dunantuli-dombvidek": {
+      "fekves": "A Dunántúl déli részén, kb. é. sz. 45,8–47° és k. h. 16,4–18,9° között fekszik; északon a Balaton és a Dunántúli-középhegység, délen a Dráva, keleten a Duna határolja.",
+      "facts": [
+        "Pannon-tengeri üledékekre rakódott löszös, homokos dombság, sűrű völgyhálózattal.",
+        "Kiemelkedő hegységei a Mecsek és a Villányi-hegység.",
+        "Enyhébb telű, szubmediterrán hatású éghajlat; fontos szőlő- és bortermelés (Villány, Szekszárd)."
+      ],
+      "concepts": [
+        "dombság",
+        "lösz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--fo-tajegysegek--dunantuli-kozephegyseg": {
+      "fekves": "A Dunántúl északi részén, kb. é. sz. 46,8–47,8° és k. h. 17,2–19,1° között, délnyugat–északkeleti irányban húzódik a Balatontól a Dunakanyarig. Északon a Kisalföld, délen a Mezőföld és a Balaton határolja.",
+      "facts": [
+        "Főként középidei (triász) mészkőből és dolomitból felépülő rögös szerkezetű hegység.",
+        "Árkok és medencék (pl. Móri-árok) tagolják önálló rögökre: Bakony, Vértes, Gerecse, Pilis, Budai-hegység.",
+        "Ásványkincsei: karsztbauxit, barnakőszén, mangánérc.",
+        "A bányászat karsztvízszint-süllyedést okozott (források elapadása)."
+      ],
+      "concepts": [
+        "rög",
+        "mészkő",
+        "dolomit",
+        "laterit- és karsztbauxit"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--fo-tajegysegek--eszaki-kozephegyseg": {
+      "fekves": "Az ország északi részén, kb. é. sz. 47,8–48,5° és k. h. 18,8–21,6° között, a Dunakanyartól a Bodrogig húzódik a szlovák határ mentén. Délen az Alföld, északon a Nyugati-Kárpátok határolja.",
+      "facts": [
+        "Nagyobb része a harmadidőszaki (miocén) vulkánosság andezit-, riolit- és tufakőzeteiből épül fel.",
+        "A Bükk és az Aggteleki-karszt középidei mészkőből áll.",
+        "Itt található hazánk legmagasabb pontja, a Kékes (1014 m) a Mátrában.",
+        "Medencéiben barnakőszén, a Mátraalján lignit található."
+      ],
+      "concepts": [
+        "andezit",
+        "riolit",
+        "rétegvulkán",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--fo-tajegysegek--kisalfold": {
+      "fekves": "Az ország északnyugati részén, kb. é. sz. 47,1–48° és k. h. 16,8–18,3° között, a Duna két oldalán terül el, északon Szlovákiába nyúlik át. Délen a Dunántúli-középhegység, nyugaton az Alpokalja határolja.",
+      "facts": [
+        "Süllyedékterület, amelyet a Duna és mellékfolyói (Rába) hordaléka töltött fel.",
+        "Részei: Győri-medence, Szigetköz, Marcal-medence, Hanság és a Fertő vidéke.",
+        "Jó mezőgazdasági adottságú, iparosodott táj; központja Győr."
+      ],
+      "concepts": [
+        "alföld",
+        "hordalékkúp",
+        "süllyedékterület"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt": {
+      "fekves": "Az Északi-középhegység északi szélén, kb. é. sz. 48,5°, k. h. 20,6° körül, Borsod-Abaúj-Zemplén megyében, a szlovák határon fekszik; folytatása a Szlovák-karszt.",
+      "facts": [
+        "Középidei (triász) mészkőből felépülő karsztvidék.",
+        "Felszínén víznyelők és töbrök, mélyében cseppköves barlangok (pl. Baradla-barlang).",
+        "Az Aggteleki Nemzeti Park része; barlangjai a világörökség részei."
+      ],
+      "concepts": [
+        "mészkő",
+        "víznyelő",
+        "dolina (töbör)",
+        "karsztbarlang"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--badacsony": {
+      "fekves": "A Balaton északi partján, kb. é. sz. 46,8°, k. h. 17,5°-on, Veszprém megyében, a Tapolcai-medence délkeleti szélén emelkedik.",
+      "facts": [
+        "Bazalt tanúhegy: a puhább pannon üledékeket a pliocén bazalttakaró védte meg a lepusztulástól.",
+        "Oldalában bazaltorgonák láthatók.",
+        "Jelentős szőlő- és bortermelő hely; a Balaton-felvidéki Nemzeti Park része."
+      ],
+      "concepts": [
+        "tanúhegy",
+        "bazalt"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--bakony": {
+      "fekves": "A Dunántúli-középhegység legnagyobb tagja, kb. é. sz. 47–47,4° és k. h. 17,3–18,1° között; északon a Kisalföld, délen a Balaton-felvidék, keleten a Móri-árok határolja.",
+      "facts": [
+        "Főként középidei mészkő és dolomit építi fel; karsztos rögvidék.",
+        "Jelentős bauxit- és mangánérc-előfordulások (pl. Úrkút: mangánérc).",
+        "Erdőkben gazdag, csapadékosabb terület."
+      ],
+      "concepts": [
+        "mészkő",
+        "dolomit",
+        "laterit- és karsztbauxit"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--balaton-felvidek": {
+      "fekves": "A Balaton északi partja mentén, kb. é. sz. 46,8–47,1° és k. h. 17,4–18,1° között, a Bakony és a Balaton között húzódik.",
+      "facts": [
+        "Változatos kőzetek: perm vörös homokkő, triász mészkő és dolomit, pliocén bazalt.",
+        "Bazalt tanúhegyei a Tapolcai-medencében emelkednek.",
+        "Szőlőtermesztés és idegenforgalom; a Balaton-felvidéki Nemzeti Park védi."
+      ],
+      "concepts": [
+        "tanúhegy",
+        "homokkő",
+        "bazalt"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--baradla-barlang": {
+      "fekves": "Az Aggteleki-karsztban, kb. é. sz. 48,5°, k. h. 20,5°-on, Aggtelek és Jósvafő között, Borsod-Abaúj-Zemplén megyében; szlovákiai folytatása a Domica-barlang.",
+      "facts": [
+        "Hazánk egyik leghosszabb és legismertebb cseppköves karsztbarlangja.",
+        "A szénsavas víz mészkőoldó munkájával keletkezett; benne barlangi patak folyik.",
+        "Az Aggteleki- és Szlovák-karszt barlangjaként a világörökség része."
+      ],
+      "concepts": [
+        "karsztbarlang",
+        "cseppkő",
+        "barlangi patak"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--baranyai-dombsag": {
+      "fekves": "A Dunántúli-dombság délkeleti részén, kb. é. sz. 45,9–46,3° és k. h. 18,3–18,7° között, Baranya megyében, a Mecsek és a Duna között fekszik.",
+      "facts": [
+        "Löszös dombság, termékeny talajokkal.",
+        "Mezőgazdasági terület, szőlő- és gyümölcstermesztéssel."
+      ],
+      "concepts": [
+        "dombság",
+        "lösz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--belso-somogy": {
+      "fekves": "Somogy megye déli részén, kb. é. sz. 46,1–46,6° és k. h. 17,1–17,9° között, Külső-Somogy és a Dráva-mellék között fekszik.",
+      "facts": [
+        "Futóhomokkal borított, homokbuckás síkság-dombság, a Dunántúl jellegzetes homokvidéke.",
+        "Gyenge termőképességű talajok; nagy kiterjedésű erdők és vadgazdálkodás."
+      ],
+      "concepts": [
+        "homok",
+        "homokbucka (dűne)"
+      ],
+      "processes": [
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--bodrogkoz": {
+      "fekves": "Az ország északkeleti szélén, kb. é. sz. 48,1–48,4° és k. h. 21,5–22,1° között, a Bodrog és a Tisza között, Borsod-Abaúj-Zemplén megyében fekszik, a szlovák és az ukrán határ közelében.",
+      "facts": [
+        "Alacsony ártéri síkság, a folyószabályozás előtt mocsaras, árvízjárta terület volt.",
+        "Ma is gyakori a belvíz; jellemzők a réti és öntéstalajok."
+      ],
+      "concepts": [
+        "ártér",
+        "belvíz",
+        "öntéstalaj"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--borsodi-medence": {
+      "fekves": "Az Északi-középhegységben, kb. é. sz. 48,2°, k. h. 20,3–20,8° között, a Sajó völgyében, a Bükk és a Cserehát között fekszik.",
+      "facts": [
+        "Harmadidőszaki barnakőszén-telepeire nehézipar (kohászat, vegyipar, energiatermelés) települt.",
+        "A szénbányászat és a kohászat hanyatlása után válságterületté vált."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "válságágazat",
+        "gazdasági szerkezetváltás"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--borzsony": {
+      "fekves": "Az Északi-középhegység nyugati tagja, kb. é. sz. 47,8–48°, k. h. 18,8–19,1° között, a Duna és az Ipoly között, Pest és Nógrád megyében.",
+      "facts": [
+        "Miocén rétegvulkán maradványa; andezit és andezittufa építi fel.",
+        "Legmagasabb pontja a Csóványos (938 m).",
+        "A Duna–Ipoly Nemzeti Park része."
+      ],
+      "concepts": [
+        "andezit",
+        "rétegvulkán",
+        "vulkáni törmelékes kőzet (tufa)"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--budai-hegyseg": {
+      "fekves": "A Dunántúli-középhegység északkeleti részén, kb. é. sz. 47,5°, k. h. 18,9°-on, Budapest nyugati részén, a Duna jobb partja mentén emelkedik.",
+      "facts": [
+        "Triász mészkő- és dolomitrögökből áll, vetődésekkel tagolt hegység.",
+        "Hévizes eredetű barlangjai ismertek (Pál-völgyi-, Szemlő-hegyi-barlang).",
+        "A peremén húzódó törésvonal mentén feltörő hévizekre épültek a budai gyógyfürdők."
+      ],
+      "concepts": [
+        "dolomit",
+        "hévíz",
+        "törésvonal",
+        "karsztbarlang"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--bukk": {
+      "fekves": "Az Északi-középhegység középső-keleti részén, kb. é. sz. 47,9–48,2° és k. h. 20,3–20,8° között, Eger és Miskolc között, Heves és Borsod-Abaúj-Zemplén megyében.",
+      "facts": [
+        "Hazánk legnagyobb mészkőhegysége; főként középidei mészkő, mellette vulkáni kőzetek is felépítik.",
+        "Karsztformák: víznyelők, barlangok, karsztforrások (pl. Miskolctapolca).",
+        "Legmagasabb pontja az Istállós-kő (959 m); a Bükki Nemzeti Park védi."
+      ],
+      "concepts": [
+        "mészkő",
+        "karsztbarlang",
+        "karsztforrás"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--bukk-fennsik": {
+      "fekves": "A Bükk központi részén, kb. é. sz. 48,1°, k. h. 20,5°-on, Heves és Borsod-Abaúj-Zemplén megye határán fekszik.",
+      "facts": [
+        "A hegység legmagasabb, mészkőből álló, tönkösödött fennsíkja.",
+        "Fedetlen karszt: karrmezők, töbrök, víznyelők jellemzik."
+      ],
+      "concepts": [
+        "fennsík",
+        "karrmező",
+        "dolina (töbör)",
+        "víznyelő"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--csepel-sziget": {
+      "fekves": "A Duna Budapest alatti szakaszán, kb. é. sz. 47,1–47,4°, k. h. 19°-on fekszik, a főág és a Ráckevei (Soroksári)-Duna-ág között.",
+      "facts": [
+        "Hazánk legnagyobb dunai szigete; a folyó feltöltő munkájával, zátonyokból keletkezett.",
+        "Északi csücske Budapest része (Csepel, ipari hagyományok).",
+        "A Ráckevei-Duna-ág zsilipekkel szabályozott mellékág."
+      ],
+      "concepts": [
+        "sziget",
+        "zátony"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--cserehat": {
+      "fekves": "Az Északi-középhegység keleti részén, kb. é. sz. 48,3–48,5° és k. h. 20,7–21,1° között, a Sajó és a Hernád között, a szlovák határ mentén fekszik.",
+      "facts": [
+        "Laza harmadidőszaki üledékekből álló, alacsony dombság.",
+        "Aprófalvas, elöregedő, hátrányos helyzetű térség."
+      ],
+      "concepts": [
+        "dombság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--cserhat": {
+      "fekves": "Az Északi-középhegységben, kb. é. sz. 47,8–48° és k. h. 19,1–19,8° között, a Börzsöny és a Mátra között, főként Nógrád megyében.",
+      "facts": [
+        "Erősen szétszabdalt vulkáni hegység: andezit telérek és tufák váltakoznak üledékes kőzetekkel.",
+        "Területén fekszik Hollókő világörökségi falu."
+      ],
+      "concepts": [
+        "andezit",
+        "telér"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--drava-menti-siksag-drava-mellek": {
+      "fekves": "A Dunántúl déli szélén, kb. é. sz. 45,8–46,2° és k. h. 17,2–18,4° között, a Dráva bal partján, a horvát határ mentén húzódik.",
+      "facts": [
+        "A Dráva hordalékából felépült alacsony ártéri síkság, holtágakkal.",
+        "Ártéri erdői és vizes élőhelyei a Duna–Dráva Nemzeti Park részei."
+      ],
+      "concepts": [
+        "ártér",
+        "holtág"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--duna-menti-siksag": {
+      "fekves": "Az Alföld nyugati szélén, kb. é. sz. 46–47,4°, k. h. 19°-on, a Duna bal partja mentén húzódik Budapesttől a déli határig.",
+      "facts": [
+        "A Duna hordalékából felépült ártéri síkság; a folyószabályozás ármentesítette.",
+        "Holtágak, szikes foltok jellemzik; Kalocsa környéke fűszerpaprikájáról ismert."
+      ],
+      "concepts": [
+        "ármentesített terület (mentesített ártér)",
+        "holtág"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze": {
+      "fekves": "Az Alföld nyugati részén, kb. é. sz. 46–47,5° és k. h. 18,9–20,2° között, a Duna és a Tisza között terül el, Pest, Bács-Kiskun és Csongrád-Csanád megyében.",
+      "facts": [
+        "Nagy részét az Ős-Duna hordalékkúpján kialakult homokhátság foglalja el, futóhomokbuckákkal.",
+        "Hazánk egyik legszárazabb, aszályos vidéke; gond a talajvízszint süllyedése.",
+        "Tanyás települések, szőlő- és gyümölcstermesztés (Kecskemét)."
+      ],
+      "concepts": [
+        "hordalékkúp",
+        "homokbucka (dűne)",
+        "aszály",
+        "tanya"
+      ],
+      "processes": [
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--dunakanyar": {
+      "fekves": "Kb. é. sz. 47,8°, k. h. 19°-on, Esztergom és Vác között, ahol a Duna a Visegrádi-hegység és a Börzsöny között áttör.",
+      "facts": [
+        "A Duna a felemelkedő vulkáni hegységek közé bevágódva alakította ki szűk völgyét (Visegrádi-szoros).",
+        "Itt fordul a Duna kelet–nyugati irányból déli irányba.",
+        "Kiemelt idegenforgalmi térség (Esztergom, Visegrád, Szentendre, Vác)."
+      ],
+      "concepts": [
+        "szoros"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--dunazug-hegyseg": {
+      "fekves": "A Dunántúli-középhegység északkeleti tagja, kb. é. sz. 47,4–47,8°, k. h. 18,8–19,1° között, a Duna által határolt „zugban”, Budapest és a Dunakanyar között.",
+      "facts": [
+        "Két része a Pilis és a Budai-hegység.",
+        "Triász mészkő- és dolomitrögök; hévizes eredetű barlangok.",
+        "Budapest közelsége miatt fontos kirándulóterület."
+      ],
+      "concepts": [
+        "mészkő",
+        "dolomit",
+        "rög"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--gerecse": {
+      "fekves": "A Dunántúli-középhegység északi tagja, kb. é. sz. 47,5–47,8°, k. h. 18,4–18,7° között, Komárom-Esztergom megyében, a Vértes és a Pilis között, a Duna mentén.",
+      "facts": [
+        "Főként triász és jura mészkőből álló rögös hegység; értékes díszítőkövek (vörös mészkő).",
+        "Peremén barnakőszén-bányászat folyt (Tatabánya)."
+      ],
+      "concepts": [
+        "mészkő",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--godolloi-dombsag": {
+      "fekves": "Budapesttől keletre, kb. é. sz. 47,4–47,8°, k. h. 19,2–19,6° között, Pest megyében, a Cserhát déli előterében fekszik.",
+      "facts": [
+        "Löszös, homokos dombság.",
+        "A budapesti agglomeráció része; településeinek népessége a kiköltözések miatt nő."
+      ],
+      "concepts": [
+        "dombság",
+        "lösz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--gyori-medence": {
+      "fekves": "A Kisalföld központi része, kb. é. sz. 47,5–48°, k. h. 16,9–18,1° között, Győr-Moson-Sopron és Komárom-Esztergom megyében.",
+      "facts": [
+        "Süllyedékterület, amelyet a Duna és a Rába hordaléka töltött fel.",
+        "Jó termőtalajú mezőgazdasági terület; központja az iparosodott Győr."
+      ],
+      "concepts": [
+        "süllyedékterület",
+        "hordalékkúp"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--hajdusag": {
+      "fekves": "A Tiszántúl északi részén, kb. é. sz. 47,4–47,9°, k. h. 21,3–21,6° között, Hajdú-Bihar megyében, a Hortobágy és a Nyírség között.",
+      "facts": [
+        "Löszös síkság, kiváló mezőségi talajjal; az ország egyik legjobb szántóföldi területe.",
+        "Hajdúvárosok vidéke; Hajdúszoboszló termálvizéről ismert."
+      ],
+      "concepts": [
+        "lösz",
+        "mezőségi talaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--hortobagy": {
+      "fekves": "A Tiszántúl északi részén, kb. é. sz. 47,4–47,8°, k. h. 20,9–21,3° között, a Tisza és a Hajdúság között, Hajdú-Bihar megyében.",
+      "facts": [
+        "Egykori ártéri síkság, a folyószabályozás után kiszáradt szikes puszta.",
+        "Hagyományos legeltető állattartás (szürke marha, racka).",
+        "Hazánk első nemzeti parkja (1973); kultúrtájként világörökség."
+      ],
+      "concepts": [
+        "szikes talajok",
+        "szikesedés",
+        "nemzeti park"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--irott-ko": {
+      "fekves": "A Kőszegi-hegységben, kb. é. sz. 47,35°, k. h. 16,45°-on, Vas megyében, a magyar–osztrák határon emelkedik.",
+      "facts": [
+        "A Dunántúl legmagasabb pontja (882 m).",
+        "Az Alpok keleti nyúlványához tartozik; átalakult kőzetek (kristályos palák) építik fel."
+      ],
+      "concepts": [
+        "átalakult kőzet",
+        "palás kőzetek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--jaszsag": {
+      "fekves": "Az Alföld északi részén, kb. é. sz. 47,3–47,6°, k. h. 19,7–20,2° között, Jász-Nagykun-Szolnok megye északi részén, a Zagyva mentén.",
+      "facts": [
+        "A Zagyva és a Tarna hordalékával feltöltött síkság.",
+        "Központja Jászberény; jelentős feldolgozóipar települt ide (Jászberény, Jászfényszaru)."
+      ],
+      "concepts": [
+        "hordalékkúp"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--keszthelyi-hegyseg": {
+      "fekves": "A Dunántúli-középhegység délnyugati tagja, kb. é. sz. 46,8°, k. h. 17,3°-on, a Balaton nyugati csücske fölött, Zala és Veszprém megye határán.",
+      "facts": [
+        "Főként triász dolomitból felépülő rögös hegység.",
+        "Lábánál tör fel a Hévízi-tó meleg vizű forrása."
+      ],
+      "concepts": [
+        "dolomit",
+        "rög"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--kekes": {
+      "fekves": "A Mátrában, kb. é. sz. 47,9°, k. h. 20°-on, Heves megyében emelkedik.",
+      "facts": [
+        "Hazánk legmagasabb pontja (1014 m).",
+        "Miocén vulkáni kőzet, andezit építi fel.",
+        "Évi középhőmérséklete az országban a legalacsonyabbak közé tartozik (függőleges övezetesség)."
+      ],
+      "concepts": [
+        "andezit",
+        "függőleges földrajzi övezetesség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--kiskunsag": {
+      "fekves": "A Duna–Tisza közének középső részén, kb. é. sz. 46,4–47,1°, k. h. 19–19,9° között, főként Bács-Kiskun megyében.",
+      "facts": [
+        "Futóhomokbuckák és szikes tavak váltakozó vidéke.",
+        "Értékeit a Kiskunsági Nemzeti Park védi (pl. Bugac).",
+        "Tanyás gazdálkodás, szőlő- és gyümölcstermesztés."
+      ],
+      "concepts": [
+        "homokbucka (dűne)",
+        "szikes talajok",
+        "tanya"
+      ],
+      "processes": [
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--koros-maros-koze": {
+      "fekves": "Az Alföld délkeleti részén, kb. é. sz. 46,2–46,8°, k. h. 20,2–21,3° között, a Körösök és a Maros között, Békés és Csongrád-Csanád megyében, a román határ mentén.",
+      "facts": [
+        "Nagyrészt a Maros hordalékkúpján kialakult löszös síkság.",
+        "Kiváló mezőségi talajai miatt az ország egyik legjobb mezőgazdasági vidéke.",
+        "Hazánk egyik legnaposabb, legmelegebb nyarú tája."
+      ],
+      "concepts": [
+        "hordalékkúp",
+        "mezőségi talaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--koszegi-hegyseg": {
+      "fekves": "Az Alpokalja része, kb. é. sz. 47,4°, k. h. 16,5°-on, Vas megyében, a magyar–osztrák határon.",
+      "facts": [
+        "Az Alpok keleti nyúlványa; kristályos palák (átalakult kőzetek) építik fel.",
+        "Itt emelkedik a Dunántúl legmagasabb pontja, az Írott-kő (882 m).",
+        "Csapadékos, erdős hegység."
+      ],
+      "concepts": [
+        "átalakult kőzet",
+        "palás kőzetek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--kulso-somogy": {
+      "fekves": "A Balatontól délre, kb. é. sz. 46,5–46,9°, k. h. 17,6–18,3° között, Somogy megyében fekszik.",
+      "facts": [
+        "Löszös dombság, amelyet közel észak–déli irányú (meridionális) völgyek tagolnak.",
+        "Mezőgazdasági terület, a Balaton déli partjának háttere."
+      ],
+      "concepts": [
+        "dombság",
+        "lösz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--marcal-medence": {
+      "fekves": "A Kisalföld déli részén, kb. é. sz. 47,1–47,5°, k. h. 17,1–17,6° között, a Bakonytól nyugatra, a Marcal folyó mentén.",
+      "facts": [
+        "A Marcal völgyét kísérő alacsony medence a Kisalföld peremén.",
+        "Peremén bazalt tanúhegyek emelkednek (pl. Ság-hegy, Somló)."
+      ],
+      "concepts": [
+        "tanúhegy",
+        "bazalt"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--matra": {
+      "fekves": "Az Északi-középhegység középső tagja, kb. é. sz. 47,8–48°, k. h. 19,7–20,1° között, Heves és Nógrád megyében.",
+      "facts": [
+        "Miocén rétegvulkán maradványa; andezit és andezittufa építi fel.",
+        "Itt emelkedik hazánk legmagasabb pontja, a Kékes (1014 m).",
+        "Déli lábánál szőlőtermesztés (Gyöngyös), lignitbányászat (Visonta), Recsken rézérc."
+      ],
+      "concepts": [
+        "andezit",
+        "rétegvulkán",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "processes": [
+        "vulkani-mukodes",
+        "erckepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--mecsek": {
+      "fekves": "A Dunántúli-dombság szigethegysége, kb. é. sz. 46,1–46,3°, k. h. 17,9–18,5° között, Baranya megyében, Pécs fölött.",
+      "facts": [
+        "Változatos kőzetek: perm homokkő, triász mészkő, jura feketekőszén, kréta vulkáni kőzetek.",
+        "Hazánk egyetlen jelentős feketekőszén-lelőhelye volt (Pécs, Komló); uránércet is bányásztak.",
+        "Legmagasabb pontja a Zengő (682 m)."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "homokkő"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--mezofold": {
+      "fekves": "A Dunántúl keleti részén, kb. é. sz. 46,5–47,3°, k. h. 18,1–18,9° között, a Duna jobb partja mentén, főként Fejér megyében.",
+      "facts": [
+        "Vastag löszréteggel borított síkság; kiváló mezőségi talajok.",
+        "A Duna menti löszös magaspart csuszamlásveszélyes (pl. Dunaújváros, Dunaföldvár)."
+      ],
+      "concepts": [
+        "lösz",
+        "mezőségi talaj",
+        "tömegmozgások (csuszamlás, suvadás, omlás, folyás)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--mohacsi-sziget": {
+      "fekves": "A Duna déli szakaszán, kb. é. sz. 45,9–46,2°, k. h. 18,7–19° között, Mohácstól északra, a Duna bal partján, a Duna és mellékágai között fekszik.",
+      "facts": [
+        "A Duna feltöltő munkájával keletkezett ártéri sziget.",
+        "A folyószabályozás után mentesített, mezőgazdaságilag művelt terület."
+      ],
+      "concepts": [
+        "sziget",
+        "ármentesített terület (mentesített ártér)"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--mori-arok": {
+      "fekves": "A Dunántúli-középhegységben, kb. é. sz. 47,2–47,5°, k. h. 18,2°-on, Fejér és Komárom-Esztergom megyében, a Bakony és a Vértes között.",
+      "facts": [
+        "Tektonikus árok, amely a Bakonyt választja el a Vértestől.",
+        "A törésvonal mentén pusztított az 1810-es móri földrengés.",
+        "Fontos átjáró, a Móri borvidék helye."
+      ],
+      "concepts": [
+        "árok",
+        "törésvonal"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--nagykunsag": {
+      "fekves": "A Tiszántúl középső részén, kb. é. sz. 47–47,4°, k. h. 20,4–21,1° között, a Tisza bal partján, Jász-Nagykun-Szolnok megyében.",
+      "facts": [
+        "Alacsony síkság löszös, réti és szikes talajokkal.",
+        "Szántóföldi gazdálkodás vidéke (pl. Karcag, Kisújszállás környéke)."
+      ],
+      "concepts": [
+        "szikes talajok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--nogradi-medence": {
+      "fekves": "Az Északi-középhegységben, kb. é. sz. 48,1°, k. h. 19,3–19,8° között, Nógrád megyében, Salgótarján környékén.",
+      "facts": [
+        "Harmadidőszaki barnakőszén-telepeire épült a bányászat és a vasipar.",
+        "A szénbányászat megszűnése után válságterületté vált."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--nyirseg": {
+      "fekves": "Az Alföld északkeleti részén, kb. é. sz. 47,5–48,1°, k. h. 21,6–22,3° között, Szabolcs-Szatmár-Bereg és Hajdú-Bihar megyében.",
+      "facts": [
+        "Hordalékkúp-síkság, amelyet a szél futóhomokbuckákká formált.",
+        "Laza homoktalajain almát, burgonyát, dohányt termesztenek.",
+        "Központja Nyíregyháza."
+      ],
+      "concepts": [
+        "hordalékkúp",
+        "homokbucka (dűne)"
+      ],
+      "processes": [
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--orseg": {
+      "fekves": "Az ország délnyugati szélén, kb. é. sz. 46,8–47°, k. h. 16,3–16,6° között, Vas megyében, az osztrák és a szlovén határ közelében.",
+      "facts": [
+        "Kavicsos, agyagos dombvidék, csapadékos éghajlattal és savanyú talajokkal; nagy erdőkkel.",
+        "Hagyományos szeres településszerkezet jellemzi.",
+        "Az Őrségi Nemzeti Park védi."
+      ],
+      "concepts": [
+        "nemzeti park"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--pesti-siksag": {
+      "fekves": "Az Alföld északnyugati részén, kb. é. sz. 47,1–47,8°, k. h. 19–19,3° között, a Duna bal partja mentén, Budapest pesti oldalán és Pest megyében.",
+      "facts": [
+        "A Duna teraszos hordaléksíksága; erre épült Pest.",
+        "A budapesti agglomeráció sűrűn beépült része."
+      ],
+      "concepts": [
+        "folyóterasz"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--pilis": {
+      "fekves": "A Dunántúli-középhegység északkeleti részén, kb. é. sz. 47,7°, k. h. 18,9°-on, a Dunakanyartól délre, Pest és Komárom-Esztergom megyében.",
+      "facts": [
+        "Triász mészkő- és dolomitrög; legmagasabb pontja a Pilis-tető (756 m).",
+        "Erdős kirándulóterület a főváros közelében."
+      ],
+      "concepts": [
+        "mészkő",
+        "rög"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--somogyi-dombsag": {
+      "fekves": "A Dunántúli-dombság középső része, kb. é. sz. 46,2–46,9°, k. h. 17,4–18,3° között, Somogy megyében, a Balaton és a Dráva között.",
+      "facts": [
+        "Részei a löszös Külső-Somogy és a homokos Belső-Somogy.",
+        "Mezőgazdasági és erdőgazdálkodási terület."
+      ],
+      "concepts": [
+        "dombság",
+        "lösz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--soproni-hegyseg": {
+      "fekves": "Az Alpokalja északi része, kb. é. sz. 47,7°, k. h. 16,5°-on, Győr-Moson-Sopron megyében, Sopron mellett, az osztrák határon.",
+      "facts": [
+        "Az Alpok legkeletibb nyúlványa; kristályos palák (gneisz, csillámpala) építik fel.",
+        "Csapadékos, erdős hegység."
+      ],
+      "concepts": [
+        "átalakult kőzet",
+        "palás kőzetek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--szekszardi-dombsag": {
+      "fekves": "A Dunántúli-dombság keleti szélén, kb. é. sz. 46,2–46,5°, k. h. 18,6°-on, Tolna megyében, Szekszárd mellett, a Duna völgye felett.",
+      "facts": [
+        "Vastag löszös dombság, jellegzetes löszmélyutakkal.",
+        "A Szekszárdi borvidék helye."
+      ],
+      "concepts": [
+        "lösz",
+        "dombság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--szentendrei-sziget": {
+      "fekves": "A Duna szigete, kb. é. sz. 47,6–47,8°, k. h. 19,1°-on, Szentendre és Vác között, a Dunakanyar alatt, Pest megyében.",
+      "facts": [
+        "A Duna kavicsos hordalékából épült sziget.",
+        "Parti szűrésű kútjai Budapest ivóvízellátásának fontos bázisai."
+      ],
+      "concepts": [
+        "sziget",
+        "ivóvíz"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--szigetkoz": {
+      "fekves": "A Kisalföld északi részén, kb. é. sz. 47,7–48°, k. h. 17,2–17,7° között, a Duna főága és a Mosoni-Duna között, Győr-Moson-Sopron megyében.",
+      "facts": [
+        "A Duna hordalékkúpján kialakult ágrendszer szigetekkel és holtágakkal.",
+        "A Duna elterelése (bősi vízlépcső) miatt vízpótlásra szorul."
+      ],
+      "concepts": [
+        "hordalékkúp",
+        "holtág"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--tapolcai-medence": {
+      "fekves": "A Balaton-felvidék nyugati részén, kb. é. sz. 46,9°, k. h. 17,3–17,6° között, Veszprém megyében, a Keszthelyi-hegység és a Bakony között.",
+      "facts": [
+        "Bazalt tanúhegyek (Badacsony, Szent György-hegy, Csobánc, Gulács) emelkednek ki belőle.",
+        "Tapolcán karsztos tavasbarlang található."
+      ],
+      "concepts": [
+        "tanúhegy",
+        "bazalt"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--tihanyi-felsziget": {
+      "fekves": "A Balaton északi partján, kb. é. sz. 46,9°, k. h. 17,9°-on, Veszprém megyében, a tóba benyúló félsziget.",
+      "facts": [
+        "Vulkáni eredetű félsziget; az utóműködés nyomai a gejzírkúpok.",
+        "Belső-tava egykori vulkáni mélyedésben alakult ki.",
+        "Hazánk első tájvédelmi körzete (1952)."
+      ],
+      "concepts": [
+        "vulkáni utóműködés",
+        "gejzír"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--tiszantul": {
+      "fekves": "Az Alföld keleti része, kb. é. sz. 46,1–48,4°, k. h. 20,1–22,8° között, a Tisza bal partjától a román határig.",
+      "facts": [
+        "Részei: Nyírség, Hajdúság, Hortobágy, Nagykunság, Körös-vidék, Körös–Maros köze.",
+        "Gyakori a belvíz és a szikesedés; a folyószabályozás ármentesítette."
+      ],
+      "concepts": [
+        "belvíz",
+        "szikes talajok",
+        "ármentesített terület (mentesített ártér)"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--tokaji-zempleni-hegyseg": {
+      "fekves": "Az Északi-középhegység keleti tagja, kb. é. sz. 48,1–48,5°, k. h. 21,2–21,6° között, Borsod-Abaúj-Zemplén megyében, a Hernád és a Bodrog között, a szlovák határig.",
+      "facts": [
+        "Miocén vulkáni hegység; riolit, andezit és tufa építi fel.",
+        "Vulkáni eredetű ásványkincsei közül ismert a perlit.",
+        "Déli lejtőin fekszik a világörökségi Tokaj-hegyaljai borvidék."
+      ],
+      "concepts": [
+        "riolit",
+        "andezit",
+        "vulkáni törmelékes kőzet (tufa)"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--tolnai-dombsag": {
+      "fekves": "A Dunántúli-dombság keleti részén, kb. é. sz. 46,3–46,7°, k. h. 18,1–18,6° között, Tolna megyében.",
+      "facts": [
+        "Vastag lösszel borított dombság.",
+        "Szántóföldi gazdálkodás és szőlőtermesztés."
+      ],
+      "concepts": [
+        "lösz",
+        "dombság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg": {
+      "fekves": "A Dunántúli-középhegység keleti szélén, kb. é. sz. 47,3°, k. h. 18,6°-on, Fejér megyében, a Velencei-tó északi partján.",
+      "facts": [
+        "Hazánk legidősebb felszíni kőzete, a karbon időszaki gránit építi fel.",
+        "A gránit mállásával gyapjúzsákszerű formák, ingókövek keletkeztek.",
+        "Északkeleti részén andezit is előfordul."
+      ],
+      "concepts": [
+        "gránit",
+        "mélységi magmás kőzet",
+        "mállás"
+      ],
+      "processes": [
+        "aprozodas-malas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--vertes": {
+      "fekves": "A Dunántúli-középhegység középső tagja, kb. é. sz. 47,3–47,5°, k. h. 18,3–18,5° között, Fejér és Komárom-Esztergom megyében, a Móri-árok és a Gerecse között.",
+      "facts": [
+        "Főként dolomitból és mészkőből álló rög, meredek délkeleti vetődéses peremmel.",
+        "Peremén barnakőszén-bányászat folyt (Oroszlány)."
+      ],
+      "concepts": [
+        "dolomit",
+        "rög",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--villanyi-hegyseg": {
+      "fekves": "Hazánk legdélebbi hegysége, kb. é. sz. 45,9°, k. h. 18,3–18,5° között, Baranya megyében, a horvát határ közelében.",
+      "facts": [
+        "Középidei mészkőből felépülő rögös hegység.",
+        "Szubmediterrán éghajlatú, híres borvidék (Villány).",
+        "Lábánál tör fel Harkány gyógyvize."
+      ],
+      "concepts": [
+        "mészkő",
+        "rög"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--visegradi-hegyseg": {
+      "fekves": "Az Északi-középhegység legnyugatibb tagja, kb. é. sz. 47,7–47,8°, k. h. 18,8–19,1° között, a Dunakanyar déli oldalán, Pest és Komárom-Esztergom megyében.",
+      "facts": [
+        "Miocén vulkáni hegység; andezit és andezittufa építi fel.",
+        "A Dunakanyar a Visegrádi-hegység és a Börzsöny között alakult ki."
+      ],
+      "concepts": [
+        "andezit",
+        "vulkáni törmelékes kőzet (tufa)"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--egyeb-tajak-teruletek--zalai-dombsag": {
+      "fekves": "A Dunántúl délnyugati részén, kb. é. sz. 46,5–47°, k. h. 16,4–17,2° között, főként Zala megyében.",
+      "facts": [
+        "Pannon üledékekből álló, észak–déli völgyekkel tagolt dombság.",
+        "Csapadékos, erdős vidék.",
+        "Mélyében kőolaj- és földgáztelepek vannak."
+      ],
+      "concepts": [
+        "dombság",
+        "kőolaj",
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--balaton": {
+      "fekves": "A Dunántúl középső részén, kb. é. sz. 46,7–47,1° és k. h. 17,2–18,2° között, északnyugat–délkeleti irányban nyúlik el; északról a Balaton-felvidék, délről Külső-Somogy határolja.",
+      "facts": [
+        "Közép-Európa legnagyobb tava (kb. 594 km²), átlagosan csak kb. 3 m mély.",
+        "Tektonikus süllyedékben kialakult, földtörténetileg fiatal tó.",
+        "Fő tápláló folyója a Zala, lefolyása a Sió (siófoki zsilip).",
+        "Sekély vize nyáron gyorsan felmelegszik; veszélyezteti a feltöltődés és az eutrofizáció."
+      ],
+      "concepts": [
+        "tektonikus eredetű tó",
+        "feltöltődés",
+        "eutrofizáció"
+      ],
+      "processes": [
+        "to-feltoltodese"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--bodrog": {
+      "fekves": "Az ország északkeleti szélén, kb. é. sz. 48,1–48,4°, k. h. 21,4–21,8° között folyik; Szlovákiából érkezik, és Tokajnál ömlik a Tiszába.",
+      "facts": [
+        "A Tisza jobb parti mellékfolyója.",
+        "Lassú, kanyargó síkvidéki folyó; a Bodrogköz nyugati határa."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--drava": {
+      "fekves": "Az Alpokban ered, kb. k. h. 16–19° és é. sz. 45,5–46,5° között folyik; nagyobb magyarországi szakaszán a magyar–horvát határt alkotja, és Eszék alatt a Dunába ömlik.",
+      "facts": [
+        "Alpi vízjárású: a hóolvadás miatt nyár elején árad.",
+        "A Duna jobb parti mellékfolyója.",
+        "Ártéri élőhelyeit a Duna–Dráva Nemzeti Park védi."
+      ],
+      "concepts": [
+        "vízjárás",
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--duna": {
+      "fekves": "A Fekete-erdőben ered és a Fekete-tengerbe ömlik, kb. k. h. 8–29° és é. sz. 43,5–49° között; Magyarországon előbb a szlovák határon folyik, majd a Dunakanyartól észak–déli irányban szeli át az országot.",
+      "facts": [
+        "Európa második leghosszabb folyója (kb. 2850 km), tíz országon folyik át.",
+        "Két árhulláma van: tavaszi (jeges) ár és kora nyári „zöldár” az alpi hóolvadásból.",
+        "Fontos nemzetközi hajóút (Rajna–Majna–Duna vízi út).",
+        "Deltatorkolattal ömlik a Fekete-tengerbe."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "vízjárás",
+        "belvízi és tengerhajózás"
+      ],
+      "processes": [
+        "folyo-munkaja",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--ferto": {
+      "fekves": "Hazánk legnyugatibb tava, kb. é. sz. 47,8°, k. h. 16,8°-on, Győr-Moson-Sopron megyében; nagyobb része Ausztriához tartozik.",
+      "facts": [
+        "Sekély, enyhén sós vizű, nádasokkal benőtt tó; a múltban többször kiszáradt.",
+        "A Fertő–Hanság Nemzeti Park része; a Fertő kultúrtáj világörökség."
+      ],
+      "concepts": [
+        "fertő",
+        "kiszáradás"
+      ],
+      "processes": [
+        "to-feltoltodese"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--hernad": {
+      "fekves": "Szlovákiából érkezik, kb. é. sz. 48–48,8°, k. h. 21–21,3° között folyik Borsod-Abaúj-Zemplén megyében, és a Sajóba torkollik.",
+      "facts": [
+        "A Sajó mellékfolyója, a Tisza vízgyűjtőjén.",
+        "Völgye a Cserehát és a Zempléni-hegység között fontos közlekedési folyosó Kassa felé."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--hevizi-to": {
+      "fekves": "A Keszthelyi-hegység lábánál, kb. é. sz. 46,8°, k. h. 17,2°-on, Zala megyében, Hévíz városában fekszik.",
+      "facts": [
+        "Európa legnagyobb természetes meleg vizű gyógytava.",
+        "Forrásvize karsztvíz és mélyből feltörő hévíz keveréke; télen sem fagy be.",
+        "A közeli bauxitbányászat karsztvízszint-süllyesztése veszélyeztette."
+      ],
+      "concepts": [
+        "hévíz",
+        "gyógyvíz",
+        "karsztvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--ipoly": {
+      "fekves": "Szlovákiában ered, kb. é. sz. 47,8–48,6°, k. h. 18,7–19,8° között folyik, nagyrészt a magyar–szlovák határon, és Szobnál ömlik a Dunába.",
+      "facts": [
+        "A Duna bal parti mellékfolyója.",
+        "Nagy részében határfolyó; völgye a Duna–Ipoly Nemzeti Park része."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--kis-balaton": {
+      "fekves": "A Balaton délnyugati csücskénél, kb. é. sz. 46,7°, k. h. 17,2°-on, Zala és Somogy megye határán, a Zala torkolatánál fekszik.",
+      "facts": [
+        "A Balaton egykori, feltöltődött öble; mocsaras, nádas terület.",
+        "A Kis-Balaton Vízvédelmi Rendszer tározói megszűrik a Zala hordalékát és tápanyagait.",
+        "Jelentős madárvédelmi terület."
+      ],
+      "concepts": [
+        "mocsár",
+        "eutrofizáció",
+        "víztározó"
+      ],
+      "processes": [
+        "to-feltoltodese"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--koros": {
+      "fekves": "Ágai Erdélyben erednek; a Körös kb. é. sz. 46,6–47°, k. h. 20,1–21,3° között szeli át a Tiszántúlt, és Csongrádnál ömlik a Tiszába.",
+      "facts": [
+        "Forrásai (Fekete-, Fehér-, Sebes-Körös) a magyar határ közelében egyesülnek.",
+        "Hegyvidéki vízgyűjtője miatt gyors, heves árhullámai vannak.",
+        "Szabályozott folyó, sok holtággal (pl. Szarvas környékén)."
+      ],
+      "concepts": [
+        "árvíz",
+        "holtág"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--maros": {
+      "fekves": "A Keleti-Kárpátokban ered, kb. k. h. 20–25,7° és é. sz. 46–47° között folyik Románián át, és Szegednél ömlik a Tiszába.",
+      "facts": [
+        "A Tisza bal parti mellékfolyója.",
+        "Hordalékkúpján alakult ki a Körös–Maros köze."
+      ],
+      "concepts": [
+        "hordalékkúp",
+        "fő- és mellékfolyó"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--mura": {
+      "fekves": "Az Alpokban ered, kb. é. sz. 46,3–46,7°, k. h. 16–16,9° között rövid szakaszon a magyar–horvát határon folyik, és a Drávába torkollik.",
+      "facts": [
+        "Alpi vízjárású folyó, nyár eleji árhullámmal.",
+        "A Dráva bal parti mellékfolyója."
+      ],
+      "concepts": [
+        "vízjárás",
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--raba": {
+      "fekves": "Ausztriában ered, Szentgotthárdnál lép be, kb. é. sz. 47–47,7°, k. h. 16–17,6° között folyik a Kisalföldön át, és Győrnél a Mosoni-Dunába torkollik.",
+      "facts": [
+        "A Duna jobb parti vízgyűjtőjének folyója, a Kisalföld egyik feltöltője.",
+        "Hirtelen áradásokra hajlamos."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--sajo": {
+      "fekves": "Szlovákiában ered, kb. é. sz. 47,9–48,7°, k. h. 20,3–21° között folyik Borsod-Abaúj-Zemplén megyében, és Tiszaújváros közelében a Tiszába ömlik.",
+      "facts": [
+        "Völgyében alakult ki a borsodi iparvidék (Ózd, Kazincbarcika, Miskolc).",
+        "Az ipari szennyezés régóta terhelte vizét."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó",
+        "vízszennyező források"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--sio": {
+      "fekves": "A Balaton keleti végén, Siófoknál ered, kb. é. sz. 46,3–46,9°, k. h. 18,1–18,9° között folyik délkeletre, és a Dunába torkollik.",
+      "facts": [
+        "A Balaton egyetlen lefolyása; a siófoki zsilippel szabályozzák a tó vízszintjét.",
+        "Mesterségesen szabályozott, csatornázott vízfolyás."
+      ],
+      "concepts": [
+        "folyószabályozás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--szamos": {
+      "fekves": "Erdélyből érkezik, kb. é. sz. 47,7–48,1°, k. h. 22,3–23,1° között folyik Szabolcs-Szatmár-Bereg megyében, és Vásárosnamény közelében a Tiszába ömlik.",
+      "facts": [
+        "A Tisza bal parti mellékfolyója.",
+        "A 2000-es nagybányai ciánszennyezés a Szamoson át jutott a Tiszába."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó",
+        "vízszennyező források"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--szegedi-feher-to": {
+      "fekves": "Szegedtől északra, kb. é. sz. 46,3°, k. h. 20,1°-on, Csongrád-Csanád megyében, a Tisza mellett fekszik.",
+      "facts": [
+        "Egykori szikes tó, ma halastórendszer.",
+        "Jelentős madárvonulási és madárvédelmi terület."
+      ],
+      "concepts": [
+        "szikes talajok",
+        "állóvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--szelidi-to": {
+      "fekves": "A Duna menti síkságon, kb. é. sz. 46,6°, k. h. 19°-on, Bács-Kiskun megyében, Kalocsa közelében fekszik.",
+      "facts": [
+        "A Duna egykori kanyarulatának maradványa, morotvató.",
+        "Kedvelt fürdőhely."
+      ],
+      "concepts": [
+        "morotvató",
+        "holtág"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--tisza": {
+      "fekves": "Az Északkeleti-Kárpátokban (Ukrajna) ered, kb. k. h. 20–24° és é. sz. 45–48,5° között folyik; Tiszabecsnél lép be, észak–déli irányban szeli át az Alföldet, és Szerbiában ömlik a Dunába.",
+      "facts": [
+        "Hazánk leghosszabb folyója; teljes hossza kb. 960 km.",
+        "A 19. századi szabályozás (Vásárhelyi Pál) jelentősen lerövidítette és ármentesítette.",
+        "Kis esésű folyó; két árhulláma van: tavaszi és kora nyári.",
+        "Vízlépcsői: Tiszalök és Kisköre (Tisza-tó)."
+      ],
+      "concepts": [
+        "folyószabályozás",
+        "ármentesített terület (mentesített ártér)",
+        "árvízvédelmi gát"
+      ],
+      "processes": [
+        "arviz",
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--tisza-to": {
+      "fekves": "A Tisza középső szakaszán, kb. é. sz. 47,6°, k. h. 20,6°-on, Heves, Jász-Nagykun-Szolnok és Borsod-Abaúj-Zemplén megye határán fekszik.",
+      "facts": [
+        "Hazánk legnagyobb mesterséges tava; a kiskörei vízlépcső duzzasztásával jött létre.",
+        "Szerepe: öntözés, árvízvédelem, energiatermelés, idegenforgalom.",
+        "Jelentős madárvédelmi terület."
+      ],
+      "concepts": [
+        "mesterséges tó",
+        "víztározó",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--velencei-to": {
+      "fekves": "A Mezőföld északi szélén, kb. é. sz. 47,2°, k. h. 18,6°-on, Fejér megyében, a Velencei-hegység lábánál fekszik.",
+      "facts": [
+        "Hazánk harmadik legnagyobb természetes tava; sekély, tektonikus eredetű.",
+        "Nyáron gyorsan felmelegszik; nádasok borítják nagy részét.",
+        "Vízszintjét tározókkal pótolják."
+      ],
+      "concepts": [
+        "tektonikus eredetű tó",
+        "feltöltődés"
+      ],
+      "processes": [
+        "to-feltoltodese"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--zagyva": {
+      "fekves": "A Cserhát és a Mátra vidékéről ered, kb. é. sz. 47,2–48,1°, k. h. 19,7–20,2° között folyik délre, és Szolnoknál ömlik a Tiszába.",
+      "facts": [
+        "A Tisza jobb parti mellékfolyója.",
+        "Völgye Salgótarján, Hatvan és a Jászság felé fontos közlekedési folyosó."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--vizrajz--zala": {
+      "fekves": "A Dunántúl délnyugati részén, kb. é. sz. 46,7–47°, k. h. 16,4–17,2° között folyik Zala megyében, és a Kis-Balatonon át ömlik a Balatonba.",
+      "facts": [
+        "A Balaton legfontosabb tápláló folyója.",
+        "Hordaléka és tápanyagai a tó eutrofizációját okozzák; ezeket a Kis-Balaton szűri."
+      ],
+      "concepts": [
+        "eutrofizáció"
+      ],
+      "processes": [
+        "to-feltoltodese"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--ajka": {
+      "fekves": "Veszprém megyében, kb. é. sz. 47,1°, k. h. 17,6°-on, a Bakony nyugati peremén fekszik.",
+      "facts": [
+        "Timföldgyártás központja volt a bakonyi bauxitra települve.",
+        "A 2010-es vörösiszap-katasztrófa a timföldgyár zagytározójának gátszakadásából eredt.",
+        "Korábban szénbányászat és hőerőmű, ismert üvegipar."
+      ],
+      "concepts": [
+        "környezeti katasztrófa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--algyo": {
+      "fekves": "Csongrád-Csanád megyében, kb. é. sz. 46,3°, k. h. 20,2°-on, Szegedtől északra, a Tisza mellett fekszik.",
+      "facts": [
+        "Itt található hazánk legnagyobb kőolaj- és földgázmezője.",
+        "A szénhidrogén a pannon üledékek porózus rétegeiben halmozódott fel."
+      ],
+      "concepts": [
+        "kőolaj",
+        "földgáz"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--baja": {
+      "fekves": "Bács-Kiskun megyében, kb. é. sz. 46,2°, k. h. 19°-on, a Duna bal partján fekszik.",
+      "facts": [
+        "Dunai kikötő és hídváros, fontos átkelőhely.",
+        "A Bácska vidékének központja."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--balassagyarmat": {
+      "fekves": "Nógrád megyében, kb. é. sz. 48,1°, k. h. 19,3°-on, az Ipoly mentén, a szlovák határon fekszik.",
+      "facts": [
+        "Határ menti kisváros, az Ipoly-völgy központja.",
+        "A palóc néprajzi csoport kulturális központja."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--balatonfured": {
+      "fekves": "Veszprém megyében, kb. é. sz. 47°, k. h. 17,9°-on, a Balaton északi partján fekszik.",
+      "facts": [
+        "Szénsavas forrásvizére (savanyúvíz) épült a szívkórház és a fürdőhely.",
+        "A Balaton vitorlás- és idegenforgalmi központja."
+      ],
+      "concepts": [
+        "savanyúvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--berente": {
+      "fekves": "Borsod-Abaúj-Zemplén megyében, kb. é. sz. 48,2°, k. h. 20,7°-on, a Sajó völgyében, Kazincbarcika szomszédságában fekszik.",
+      "facts": [
+        "A borsodi barnakőszénre települt hőerőmű helye volt.",
+        "A Borsodi-medence iparvidékének része; a szénbányászat megszűnése érintette."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "gazdasági szerkezetváltás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--bekescsaba": {
+      "fekves": "Békés megye székhelye, kb. é. sz. 46,7°, k. h. 21,1°-on, a Tiszántúl délkeleti részén, a román határ közelében fekszik.",
+      "facts": [
+        "Élelmiszeripari központ a termékeny alföldi mezőgazdasági vidéken.",
+        "Jelentős szlovák nemzetiségi közösség él itt."
+      ],
+      "concepts": [
+        "nemzetiség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--budapest": {
+      "fekves": "Az ország fővárosa, kb. é. sz. 47,5°, k. h. 19,1°-on, a Duna két partján fekszik, ahol a Dunántúli-középhegység és az Alföld találkozik.",
+      "facts": [
+        "Népessége kb. 1,7 millió fő; az ország messze legnagyobb városa.",
+        "Buda hegyvidéki, Pest síkvidéki része a Duna két partján.",
+        "A Duna menti törésvonalon feltörő hévizekre gyógyfürdők épültek.",
+        "Az ország politikai, gazdasági, kulturális és közlekedési központja."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)",
+        "hévíz",
+        "gyógyvíz"
+      ],
+      "processes": [
+        "varosodas-szakaszai"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--buk": {
+      "fekves": "Vas megyében, kb. é. sz. 47,4°, k. h. 16,8°-on, a Kisalföld délnyugati peremén, az osztrák határ közelében fekszik.",
+      "facts": [
+        "Termálvizét kőolajkutatás közben tárták fel.",
+        "Jelentős gyógyfürdőhely, sok külföldi vendéggel."
+      ],
+      "concepts": [
+        "hévíz",
+        "gyógyvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--debrecen": {
+      "fekves": "Hajdú-Bihar megye székhelye, kb. é. sz. 47,5°, k. h. 21,6°-on, a Tiszántúl északi részén, a Nyírség és a Hajdúság határán fekszik.",
+      "facts": [
+        "Hazánk második legnépesebb városa, a Tiszántúl központja.",
+        "Egyetemi város; jelentős gyógyszer- és járműipar.",
+        "Nemzetközi repülőtérrel rendelkezik."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--dunaujvaros": {
+      "fekves": "Fejér megyében, kb. é. sz. 47°, k. h. 18,9°-on, a Duna jobb partján, a Mezőföld keleti szélén fekszik.",
+      "facts": [
+        "Az 1950-es években szocialista iparvárosként épült a vaskohászatra.",
+        "A dunai szállítás tette lehetővé a nyersanyag (vasérc, koksz) behozatalát.",
+        "A löszös magaspart csuszamlásveszélyes."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "lösz"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--eger": {
+      "fekves": "Heves megye székhelye, kb. é. sz. 47,9°, k. h. 20,4°-on, a Bükk délnyugati lábánál fekszik.",
+      "facts": [
+        "Az Egri borvidék központja; pincéit riolittufába vájták.",
+        "Termálfürdő és történelmi belváros; jelentős idegenforgalom."
+      ],
+      "concepts": [
+        "vulkáni törmelékes kőzet (tufa)",
+        "riolit"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--esztergom": {
+      "fekves": "Komárom-Esztergom megyében, kb. é. sz. 47,8°, k. h. 18,7°-on, a Duna jobb partján, a szlovák határon fekszik.",
+      "facts": [
+        "Az ország egyházi központja (érseki székhely, Bazilika).",
+        "Japán tulajdonú autógyár (Suzuki) működik itt.",
+        "A Mária Valéria híd köti össze Párkánnyal."
+      ],
+      "concepts": [
+        "transznacionális vállalat (TNC)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--godollo": {
+      "fekves": "Pest megyében, kb. é. sz. 47,6°, k. h. 19,4°-on, a Gödöllői-dombságon, Budapesttől keletre fekszik.",
+      "facts": [
+        "A budapesti agglomeráció része; sokan ingáznak a fővárosba.",
+        "Agrár-felsőoktatási központ; ismert a Grassalkovich-kastély."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)",
+        "ingázás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--gyongyos": {
+      "fekves": "Heves megyében, kb. é. sz. 47,8°, k. h. 19,9°-on, a Mátra déli lábánál fekszik.",
+      "facts": [
+        "A Mátrai borvidék központja.",
+        "Közelében, Visontán lignitre települt hőerőmű működik."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--gyor": {
+      "fekves": "Győr-Moson-Sopron megye székhelye, kb. é. sz. 47,7°, k. h. 17,6°-on, a Kisalföldön, a Mosoni-Duna, a Rába és a Rábca találkozásánál fekszik.",
+      "facts": [
+        "Jelentős járműipari központ (Audi motor- és autógyár).",
+        "A Bécs–Budapest közlekedési tengely mentén fekszik; folyami kikötő.",
+        "A Nyugat-Dunántúl gazdasági központja."
+      ],
+      "concepts": [
+        "transznacionális vállalat (TNC)",
+        "ipari park"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--gyula": {
+      "fekves": "Békés megyében, kb. é. sz. 46,6°, k. h. 21,3°-on, a Fehér-Körös mentén, a román határon fekszik.",
+      "facts": [
+        "Termálvízre épült fürdőváros (Várfürdő).",
+        "Gótikus téglavára hazánkban egyedülálló síkvidéki vár."
+      ],
+      "concepts": [
+        "hévíz",
+        "gyógyvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--hajduszoboszlo": {
+      "fekves": "Hajdú-Bihar megyében, kb. é. sz. 47,4°, k. h. 21,4°-on, a Hajdúságban, Debrecentől délnyugatra fekszik.",
+      "facts": [
+        "Termálvizét földgázkutatás közben fedezték fel.",
+        "Hazánk egyik leglátogatottabb gyógyfürdőhelye."
+      ],
+      "concepts": [
+        "hévíz",
+        "gyógyvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--harkany": {
+      "fekves": "Baranya megyében, kb. é. sz. 45,9°, k. h. 18,2°-on, a Villányi-hegység lábánál, a horvát határ közelében fekszik.",
+      "facts": [
+        "Kénes gyógyvizéről ismert fürdőhely.",
+        "A gyógyvíz törésvonal mentén tör fel."
+      ],
+      "concepts": [
+        "gyógyvíz",
+        "hévíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--hatvan": {
+      "fekves": "Heves megyében, kb. é. sz. 47,7°, k. h. 19,7°-on, a Zagyva völgyében, a Cserhát és a Mátra előterében fekszik.",
+      "facts": [
+        "Fontos vasúti és közúti csomópont (Budapest–Miskolc, Salgótarján, Szolnok felé).",
+        "A Zagyva-völgy kapuja az Alföld felé."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--hegyeshalom": {
+      "fekves": "Győr-Moson-Sopron megyében, kb. é. sz. 47,9°, k. h. 17,2°-on, a Kisalföld északnyugati részén, az osztrák határon fekszik.",
+      "facts": [
+        "A Bécs–Budapest tengely legforgalmasabb közúti és vasúti határátkelője.",
+        "Az M1 autópálya határátkelőhelye."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--heviz": {
+      "fekves": "Zala megyében, kb. é. sz. 46,8°, k. h. 17,2°-on, a Keszthelyi-hegység lábánál, Keszthelytől északnyugatra fekszik.",
+      "facts": [
+        "A Hévízi-tóra épült gyógyfürdőváros.",
+        "Reumatológiai gyógyászat; jelentős külföldi vendégforgalom."
+      ],
+      "concepts": [
+        "gyógyvíz",
+        "hévíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--hodmezovasarhely": {
+      "fekves": "Csongrád-Csanád megyében, kb. é. sz. 46,4°, k. h. 20,3°-on, a Tisza bal partja közelében, a Dél-Alföldön fekszik.",
+      "facts": [
+        "Hagyományos alföldi mezőváros, kiterjedt tanyás határral.",
+        "Az ország egyik legnagyobb közigazgatási területű városa."
+      ],
+      "concepts": [
+        "tanya"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--jaszbereny": {
+      "fekves": "Jász-Nagykun-Szolnok megyében, kb. é. sz. 47,5°, k. h. 19,9°-on, a Zagyva mentén, a Jászság központjaként fekszik.",
+      "facts": [
+        "A Jászság központja.",
+        "Hűtőgépgyártásáról ismert; ma külföldi tulajdonú vállalat működteti."
+      ],
+      "concepts": [
+        "transznacionális vállalat (TNC)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--jaszfenyszaru": {
+      "fekves": "Jász-Nagykun-Szolnok megyében, kb. é. sz. 47,6°, k. h. 19,7°-on, a Jászság északnyugati részén fekszik.",
+      "facts": [
+        "Dél-koreai elektronikai vállalat (Samsung) gyára települt ide.",
+        "Példa a külföldi működőtőke vidéki zöldmezős beruházására."
+      ],
+      "concepts": [
+        "transznacionális vállalat (TNC)",
+        "barnamezős (rekonstrukciós) és zöldmezős beruházás"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--kalocsa": {
+      "fekves": "Bács-Kiskun megyében, kb. é. sz. 46,5°, k. h. 19°-on, a Duna menti síkságon fekszik.",
+      "facts": [
+        "A fűszerpaprika-termesztés és -feldolgozás központja.",
+        "Érseki székhely."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--kaposvar": {
+      "fekves": "Somogy megye székhelye, kb. é. sz. 46,4°, k. h. 17,8°-on, a Kapos völgyében, a Somogyi-dombság közepén fekszik.",
+      "facts": [
+        "Somogy megye és a Dél-Dunántúl egyik központja.",
+        "Egyetemi város, élelmiszeripari hagyományokkal."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--kecskemet": {
+      "fekves": "Bács-Kiskun megye székhelye, kb. é. sz. 46,9°, k. h. 19,7°-on, a Duna–Tisza közi homokhátságon fekszik.",
+      "facts": [
+        "Német autógyár (Mercedes-Benz) zöldmezős beruházása működik itt.",
+        "Gyümölcs- (kajszibarack) és szőlőtermesztés központja; tanyás határ."
+      ],
+      "concepts": [
+        "transznacionális vállalat (TNC)",
+        "tanya"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--keszthely": {
+      "fekves": "Zala megyében, kb. é. sz. 46,8°, k. h. 17,3°-on, a Balaton nyugati partján fekszik.",
+      "facts": [
+        "Agrár-felsőoktatási hagyomány (Georgikon) és Festetics-kastély.",
+        "A nyugati Balaton-part idegenforgalmi központja."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--komarom": {
+      "fekves": "Komárom-Esztergom megyében, kb. é. sz. 47,7°, k. h. 18,1°-on, a Duna jobb partján, a szlovák határon, Révkomárommal szemben fekszik.",
+      "facts": [
+        "Határ menti ikerváros; Duna-híd és határátkelő.",
+        "Ismert erődrendszere van; ipari park is működik itt."
+      ],
+      "concepts": [
+        "ipari park"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--koszeg": {
+      "fekves": "Vas megyében, kb. é. sz. 47,4°, k. h. 16,5°-on, a Kőszegi-hegység lábánál, az osztrák határ közelében fekszik.",
+      "facts": [
+        "Középkori belvárosa miatt jelentős idegenforgalom.",
+        "Csapadékos, erdős hegyvidék lábánál fekszik."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--mako": {
+      "fekves": "Csongrád-Csanád megyében, kb. é. sz. 46,2°, k. h. 20,5°-on, a Maros jobb partján, a román határ közelében fekszik.",
+      "facts": [
+        "A hagymatermesztés hagyományos központja.",
+        "Termálvízre épült gyógyfürdője van."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--miskolc": {
+      "fekves": "Borsod-Abaúj-Zemplén megye székhelye, kb. é. sz. 48,1°, k. h. 20,8°-on, a Bükk keleti lábánál, a Sajó és a Hernád völgyének közelében fekszik.",
+      "facts": [
+        "Az ország egyik legnépesebb városa; nehézipari központ volt (diósgyőri kohászat).",
+        "A kohászat hanyatlása után szerkezetváltásra szorult.",
+        "Miskolctapolcán karsztvízre épült barlangfürdő működik."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--mohacs": {
+      "fekves": "Baranya megyében, kb. é. sz. 46°, k. h. 18,7°-on, a Duna jobb partján, a déli határ közelében fekszik.",
+      "facts": [
+        "Dunai kikötő és kompátkelő.",
+        "Közelében fekszik a Mohácsi-sziget."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--nagykanizsa": {
+      "fekves": "Zala megyében, kb. é. sz. 46,5°, k. h. 17°-on, a Zalai-dombság délkeleti részén, a horvát határ közelében fekszik.",
+      "facts": [
+        "Közlekedési csomópont a Horvátország felé vezető útvonalon.",
+        "Környékén kőolaj- és földgázkitermelés folyik."
+      ],
+      "concepts": [
+        "kőolaj",
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--nyiregyhaza": {
+      "fekves": "Szabolcs-Szatmár-Bereg megye székhelye, kb. é. sz. 48°, k. h. 21,7°-on, a Nyírség közepén fekszik.",
+      "facts": [
+        "A Nyírség és az ország északkeleti részének központja.",
+        "Élelmiszer- és gumiipar; egyetemi város."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--oroshaza": {
+      "fekves": "Békés megyében, kb. é. sz. 46,6°, k. h. 20,7°-on, a Körös–Maros közén fekszik.",
+      "facts": [
+        "Az üveggyártás (síküveg) hazai központja; a gyártáshoz helyben kitermelt földgázt használtak.",
+        "Gyopárosfürdő termálvizéről ismert."
+      ],
+      "concepts": [
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--ozd": {
+      "fekves": "Borsod-Abaúj-Zemplén megyében, kb. é. sz. 48,2°, k. h. 20,3°-on, a Sajó-völgy nyugati részén, a szlovák határ közelében fekszik.",
+      "facts": [
+        "A vaskohászat egykori jelentős központja.",
+        "A kohászat megszűnése után munkanélküliséggel küzdő válságterület."
+      ],
+      "concepts": [
+        "válságágazat",
+        "gazdasági szerkezetváltás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--paks": {
+      "fekves": "Tolna megyében, kb. é. sz. 46,6°, k. h. 18,9°-on, a Duna jobb partján fekszik.",
+      "facts": [
+        "Itt működik hazánk egyetlen atomerőműve.",
+        "Az atomerőmű adja a hazai villamosenergia-termelés mintegy felét.",
+        "A telephely a Duna hűtővize miatt előnyös."
+      ],
+      "concepts": [
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--papa": {
+      "fekves": "Veszprém megyében, kb. é. sz. 47,3°, k. h. 17,5°-on, a Bakonyalján, a Kisalföld déli peremén fekszik.",
+      "facts": [
+        "Történelmi kisváros, a Bakonyalja központja.",
+        "Katonai repülőtér működik itt."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--pecs": {
+      "fekves": "Baranya megye székhelye, kb. é. sz. 46,1°, k. h. 18,2°-on, a Mecsek déli lejtőin fekszik.",
+      "facts": [
+        "A feketekőszén- és uránércbányászat megszűnése után szerkezetváltásra szorult.",
+        "Ókeresztény sírkamrái világörökség; egyetemi város.",
+        "Mecsek védte, szubmediterrán hatású éghajlat."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "világörökség",
+        "gazdasági szerkezetváltás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--salgotarjan": {
+      "fekves": "Nógrád megye székhelye, kb. é. sz. 48,1°, k. h. 19,8°-on, a Nógrádi-medencében, a szlovák határ közelében fekszik.",
+      "facts": [
+        "A barnakőszén-bányászatra és vasiparra épült város, ma válságterület.",
+        "Közelében bazaltvulkáni hegyek (Salgó, Somoskő) emelkednek."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "bazalt",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--sarospatak": {
+      "fekves": "Borsod-Abaúj-Zemplén megyében, kb. é. sz. 48,3°, k. h. 21,6°-on, a Bodrog partján, a Zempléni-hegység lábánál fekszik.",
+      "facts": [
+        "Történelmi iskolaváros (református kollégium) és Rákóczi-vár.",
+        "A Tokaj-hegyaljai borvidék része."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--siofok": {
+      "fekves": "Somogy megyében, kb. é. sz. 46,9°, k. h. 18,1°-on, a Balaton keleti végén, a déli parton, a Sió kifolyásánál fekszik.",
+      "facts": [
+        "A Balaton legnagyobb üdülővárosa.",
+        "Itt szabályozzák zsilippel a tó vízszintjét (Sió-zsilip)."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--sopron": {
+      "fekves": "Győr-Moson-Sopron megyében, kb. é. sz. 47,7°, k. h. 16,6°-on, a Soproni-hegység lábánál, az osztrák határ közelében fekszik.",
+      "facts": [
+        "Sokan ingáznak innen Ausztriába dolgozni.",
+        "Történelmi belvárosa és a közeli Fertő miatt jelentős idegenforgalom.",
+        "Erdészeti felsőoktatás központja."
+      ],
+      "concepts": [
+        "ingázás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szazhalombatta": {
+      "fekves": "Pest megyében, kb. é. sz. 47,3°, k. h. 18,9°-on, a Duna jobb partján, Budapesttől délre fekszik.",
+      "facts": [
+        "Itt működik hazánk legnagyobb kőolaj-finomítója (Dunai Finomító).",
+        "A finomító a Barátság kőolajvezetéken kapja az importolajat; hőerőmű is működik itt."
+      ],
+      "concepts": [
+        "kőolaj"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szeged": {
+      "fekves": "Csongrád-Csanád megye székhelye, kb. é. sz. 46,3°, k. h. 20,2°-on, a Tisza és a Maros összefolyásánál, a déli határ közelében fekszik.",
+      "facts": [
+        "Az 1879-es nagy árvíz után körutas-sugárutas szerkezettel épült újjá.",
+        "A Dél-Alföld központja, egyetemi város.",
+        "Az ország egyik legnaposabb városa."
+      ],
+      "concepts": [
+        "árvíz",
+        "központi szerepkör (központi funkció)"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szekesfehervar": {
+      "fekves": "Fejér megye székhelye, kb. é. sz. 47,2°, k. h. 18,4°-on, a Mezőföld északi szélén, a Velencei-tó és a Bakony között fekszik.",
+      "facts": [
+        "Jelentős elektronikai és járműipari központ, ipari parkokkal.",
+        "Középkori koronázóváros."
+      ],
+      "concepts": [
+        "ipari park"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szekszard": {
+      "fekves": "Tolna megye székhelye, kb. é. sz. 46,3°, k. h. 18,7°-on, a Szekszárdi-dombság lábánál, a Duna völgye felett fekszik.",
+      "facts": [
+        "A Szekszárdi borvidék központja.",
+        "Löszös dombvidék és dunai ártér határán fekszik."
+      ],
+      "concepts": [
+        "lösz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szentendre": {
+      "fekves": "Pest megyében, kb. é. sz. 47,7°, k. h. 19,1°-on, a Duna jobb partján, a Dunakanyar bejáratánál fekszik.",
+      "facts": [
+        "Művészváros, szabadtéri néprajzi múzeum (skanzen); jelentős idegenforgalom.",
+        "A budapesti agglomeráció része."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szentgotthard": {
+      "fekves": "Vas megyében, kb. é. sz. 47°, k. h. 16,3°-on, a Rába mentén, az osztrák és a szlovén határ közelében fekszik.",
+      "facts": [
+        "Külföldi tulajdonú autóipari motorgyár települt ide.",
+        "Itt lép be a Rába Magyarországra."
+      ],
+      "concepts": [
+        "transznacionális vállalat (TNC)"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szolnok": {
+      "fekves": "Jász-Nagykun-Szolnok megye székhelye, kb. é. sz. 47,2°, k. h. 20,2°-on, a Zagyva és a Tisza torkolatánál fekszik.",
+      "facts": [
+        "Fontos vasúti és közúti csomópont, tiszai átkelőhely.",
+        "Vegyipar és élelmiszeripar; katonai repülőtér."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--szombathely": {
+      "fekves": "Vas megye székhelye, kb. é. sz. 47,2°, k. h. 16,6°-on, a nyugati határ közelében, az Alpokalja előterében fekszik.",
+      "facts": [
+        "Hazánk egyik legrégebbi városa (a római Savaria).",
+        "Ipari parkok; sokan ingáznak Ausztriába."
+      ],
+      "concepts": [
+        "ipari park",
+        "ingázás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--tata": {
+      "fekves": "Komárom-Esztergom megyében, kb. é. sz. 47,7°, k. h. 18,3°-on, a Gerecse és a Vértes közötti átjáróban fekszik.",
+      "facts": [
+        "Karsztforrásairól és tavairól „a vizek városa”.",
+        "A szénbányászat karsztvízszint-süllyesztése elapasztotta forrásait."
+      ],
+      "concepts": [
+        "karsztforrás",
+        "karsztvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--tatabanya": {
+      "fekves": "Komárom-Esztergom megye székhelye, kb. é. sz. 47,6°, k. h. 18,4°-on, a Gerecse és a Vértes között fekszik.",
+      "facts": [
+        "Barnakőszén-bányászatra épült iparváros.",
+        "A bányászat megszűnése után ipari parkokkal (elektronika, autóipari beszállítók) vált át."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "ipari park",
+        "gazdasági szerkezetváltás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--tihany": {
+      "fekves": "Veszprém megyében, kb. é. sz. 46,9°, k. h. 17,9°-on, a Tihanyi-félszigeten, a Balaton északi partján fekszik.",
+      "facts": [
+        "Bencés apátságának 1055-ös alapítólevele a magyar nyelv egyik legkorábbi emléke.",
+        "A félszigeten vulkáni utóműködésből származó gejzírkúpok láthatók."
+      ],
+      "concepts": [
+        "gejzír",
+        "vulkáni utóműködés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--tiszaujvaros": {
+      "fekves": "Borsod-Abaúj-Zemplén megyében, kb. é. sz. 47,9°, k. h. 21,1°-on, a Tisza jobb partján, a Sajó torkolata közelében fekszik.",
+      "facts": [
+        "Petrolkémiai és műanyagipari központ.",
+        "Szocialista iparvárosként épült."
+      ],
+      "concepts": [
+        "kőolaj"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--tokaj": {
+      "fekves": "Borsod-Abaúj-Zemplén megyében, kb. é. sz. 48,1°, k. h. 21,4°-on, a Bodrog és a Tisza összefolyásánál, a Tokaji-hegység lábánál fekszik.",
+      "facts": [
+        "A világörökségi Tokaj-hegyaljai borvidék névadója (aszúbor).",
+        "A vulkáni talaj és a folyók kedvező mikroklímája segíti a szőlőtermesztést."
+      ],
+      "concepts": [
+        "világörökség",
+        "mikroklíma"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--vac": {
+      "fekves": "Pest megyében, kb. é. sz. 47,8°, k. h. 19,1°-on, a Duna bal partján, a Dunakanyarban fekszik.",
+      "facts": [
+        "Püspöki székhely, történelmi belváros.",
+        "Cementgyártás a közeli mészkőre települve.",
+        "A budapesti agglomeráció északi kapuja."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--varpalota": {
+      "fekves": "Veszprém megyében, kb. é. sz. 47,2°, k. h. 18,1°-on, a Bakony keleti szélén, a Mezőföld határán fekszik.",
+      "facts": [
+        "Barnakőszén-bányászat és vegyipar egykori központja.",
+        "Szomszédságában (Pét) műtrágyagyártás folyik."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--veresegyhaz": {
+      "fekves": "Pest megyében, kb. é. sz. 47,7°, k. h. 19,3°-on, Budapesttől északkeletre, a Gödöllői-dombságon fekszik.",
+      "facts": [
+        "A budapesti agglomeráció gyorsan növekvő települése.",
+        "Népességnövekedése a fővárosból való kiköltözés (szuburbanizáció) eredménye."
+      ],
+      "concepts": [
+        "elővárosodás (szuburbanizáció)",
+        "településhalmaz (agglomeráció)"
+      ],
+      "processes": [
+        "varosodas-szakaszai"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--veszprem": {
+      "fekves": "Veszprém megye székhelye, kb. é. sz. 47,1°, k. h. 17,9°-on, a Bakony déli peremén, a Balatontól északra fekszik.",
+      "facts": [
+        "Egyetemi város, vegyipari hagyományokkal.",
+        "A Bakony és a Balaton-felvidék központja."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--visegrad": {
+      "fekves": "Pest megyében, kb. é. sz. 47,8°, k. h. 19°-on, a Duna jobb partján, a Dunakanyarban, a Visegrádi-hegység lábánál fekszik.",
+      "facts": [
+        "Középkori királyi palota és fellegvár.",
+        "A Visegrádi Együttműködés (V4) névadója."
+      ],
+      "concepts": [
+        "Visegrádi Együttműködés (V4)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--visonta": {
+      "fekves": "Heves megyében, kb. é. sz. 47,8°, k. h. 20°-on, a Mátraalján, Gyöngyöstől keletre fekszik.",
+      "facts": [
+        "Külszíni lignitbánya és rá települt hőerőmű (Mátrai Erőmű).",
+        "A lignit alacsony fűtőértékű, ezért a bánya mellett égetik el."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--zalaegerszeg": {
+      "fekves": "Zala megye székhelye, kb. é. sz. 46,8°, k. h. 16,8°-on, a Zala völgyében, a Zalai-dombságon fekszik.",
+      "facts": [
+        "Zala megye központja; kőolajipari hagyományokkal.",
+        "Göcsej néprajzi táj központja."
+      ],
+      "concepts": [
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--zalakaros": {
+      "fekves": "Zala megyében, kb. é. sz. 46,6°, k. h. 17,1°-on, a Kis-Balatontól délre fekszik.",
+      "facts": [
+        "Termálvizét kőolajkutatás közben tárták fel.",
+        "Gyógyfürdőjére épült idegenforgalmi település."
+      ],
+      "concepts": [
+        "gyógyvíz",
+        "hévíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--zahony": {
+      "fekves": "Szabolcs-Szatmár-Bereg megyében, kb. é. sz. 48,4°, k. h. 22,2°-on, a Tisza mentén, az ukrán határon fekszik.",
+      "facts": [
+        "Vasúti határátkelő és átrakóállomás.",
+        "Itt találkozik a széles (keleti) és a normál nyomtávú vasút."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--telepulesek--budapesti-agglomeracio": {
+      "fekves": "Budapest és a körülötte fekvő Pest megyei települések, kb. é. sz. 47,5°, k. h. 19°-on, a Duna két partján.",
+      "facts": [
+        "Hazánk legnagyobb, egyközpontú agglomerációja.",
+        "Az 1990-es évektől erős szuburbanizáció jellemzi.",
+        "Napi ingázás a fővárosba; zsúfolt közlekedési kapcsolatok."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)",
+        "egyközpontú és sokközpontú agglomeráció",
+        "elővárosodás (szuburbanizáció)",
+        "ingázás"
+      ],
+      "processes": [
+        "varosodas-szakaszai"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--aggteleki-nemzeti-park": {
+      "fekves": "Az ország északi határán, kb. é. sz. 48,4–48,5°, k. h. 20,5–20,9° között, Borsod-Abaúj-Zemplén megyében, a szlovák határ mentén fekszik.",
+      "facts": [
+        "1985-ben alapították, elsősorban a karsztjelenségek védelmére.",
+        "Területén van az Aggteleki-karszt és a Baradla-barlang.",
+        "Barlangjai a világörökség részei."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "karsztbarlang"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--balaton-felvideki-nemzeti-park": {
+      "fekves": "A Balaton északi és nyugati partvidékén, kb. é. sz. 46,6–47°, k. h. 17,2–17,9° között, Veszprém és Zala megyében fekszik.",
+      "facts": [
+        "1997-ben alapították.",
+        "Védi a Tapolcai-medence bazalt tanúhegyeit, a Tihanyi-félszigetet és a Kis-Balatont.",
+        "Földtani értékei a vulkáni formák és a karsztjelenségek."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "tanúhegy"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--bukki-nemzeti-park": {
+      "fekves": "Az Északi-középhegységben, kb. é. sz. 48–48,1°, k. h. 20,3–20,7° között, Heves és Borsod-Abaúj-Zemplén megyében fekszik.",
+      "facts": [
+        "1977-ben alapították.",
+        "A Bükk mészkőhegységének karsztformáit, barlangjait és erdeit védi."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "mészkő"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--duna-drava-nemzeti-park": {
+      "fekves": "Az ország déli részén, kb. é. sz. 45,8–46,4°, k. h. 17,3–18,9° között, a Duna és a Dráva mentén, Baranya, Somogy, Tolna és Bács-Kiskun megyében fekszik.",
+      "facts": [
+        "1996-ban alapították.",
+        "Ártéri erdőket, holtágakat és vizes élőhelyeket védi (pl. Gemenc, Béda-Karapancsa)."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "ártér",
+        "holtág"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--duna-ipoly-nemzeti-park": {
+      "fekves": "A Dunakanyar környékén, kb. é. sz. 47,6–48°, k. h. 18,8–19,1° között, Pest, Komárom-Esztergom és Nógrád megyében fekszik.",
+      "facts": [
+        "1997-ben alapították.",
+        "Védi a Börzsöny, a Visegrádi-hegység és a Pilis erdeit, valamint az Ipoly-völgyet."
+      ],
+      "concepts": [
+        "nemzeti park"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--ferto-hansag-nemzeti-park": {
+      "fekves": "A Kisalföld északnyugati részén, kb. é. sz. 47,6–47,8°, k. h. 16,7–17,3° között, Győr-Moson-Sopron megyében, az osztrák határon fekszik.",
+      "facts": [
+        "1991-ben alapították; osztrák nemzeti parkkal határon átnyúló védett terület.",
+        "A Fertő tavát, nádasait és a Hanság lápvidékét védi."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "láp"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagyi-nemzeti-park": {
+      "fekves": "A Tiszántúl északi részén, kb. é. sz. 47,5–47,8°, k. h. 20,9–21,4° között, Hajdú-Bihar megyében fekszik.",
+      "facts": [
+        "Hazánk első nemzeti parkja (1973).",
+        "A szikes pusztát, a vizes élőhelyeket és a hagyományos legeltetést védi.",
+        "A Hortobágy kultúrtájként világörökség."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "szikes talajok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--kiskunsagi-nemzeti-park": {
+      "fekves": "A Duna–Tisza közén, kb. é. sz. 46,5–47,2°, k. h. 19,1–20,2° között, főként Bács-Kiskun megyében, több elkülönült részterületen fekszik.",
+      "facts": [
+        "1975-ben alapították.",
+        "Futóhomokbuckás és szikes tavas területeket véd (pl. Bugac)."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "homokbucka (dűne)",
+        "szikes talajok"
+      ],
+      "processes": [
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--koros-maros-nemzeti-park": {
+      "fekves": "Az Alföld délkeleti részén, kb. é. sz. 46,2–47,1°, k. h. 20,2–21,3° között, Békés és Csongrád-Csanád megyében fekszik.",
+      "facts": [
+        "1997-ben alapították.",
+        "Folyóvölgyeket, holtágakat, szikes pusztákat és a túzok élőhelyeit védi."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "holtág",
+        "szikes talajok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--orsegi-nemzeti-park": {
+      "fekves": "Az ország délnyugati sarkában, kb. é. sz. 46,8–47°, k. h. 16,3–16,6° között, Vas megyében, az osztrák és a szlovén határ mentén fekszik.",
+      "facts": [
+        "2002-ben alapították, hazánk legfiatalabb nemzeti parkja.",
+        "Erdőket, szeres településeket és a hagyományos kultúrtájat védi."
+      ],
+      "concepts": [
+        "nemzeti park"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--aggteleki-es-szlovak-karsztvidek": {
+      "fekves": "Kb. é. sz. 48,4–48,7°, k. h. 20,4–20,9° között, a magyar–szlovák határ két oldalán, Borsod-Abaúj-Zemplén megyében és Szlovákiában.",
+      "facts": [
+        "1995 óta világörökség (természeti érték), Magyarország és Szlovákia közös helyszíne.",
+        "Több száz barlangja középidei mészkőben, karsztos oldással alakult ki."
+      ],
+      "concepts": [
+        "világörökség",
+        "karsztbarlang"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--budapest-andrassy-ut-a-millenniumi-foldalattival": {
+      "fekves": "Budapest pesti oldalán, kb. é. sz. 47,5°, k. h. 19,1°-on, a belvárostól a Hősök teréig húzódik.",
+      "facts": [
+        "2002 óta a budapesti világörökségi helyszín része.",
+        "Alatta fut a kontinens első földalatti vasútja (1896)."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--budapest-varnegyed-es-a-pesti-duna-part": {
+      "fekves": "Budapest belső részén, kb. é. sz. 47,5°, k. h. 19°-on, a Duna két partján: a budai Várhegyen és a pesti rakparton.",
+      "facts": [
+        "1987 óta világörökség.",
+        "A Várhegyet forrásmészkő borítja; alatta hévizes eredetű barlangrendszer húzódik."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--ferto": {
+      "fekves": "A Fertő-tó vidéke, kb. é. sz. 47,7–47,9°, k. h. 16,7–16,9° között, Győr-Moson-Sopron megyében és Ausztriában.",
+      "facts": [
+        "A Fertő / Neusiedlersee kultúrtáj 2001 óta közös magyar–osztrák világörökség.",
+        "Sekély, szikes, nádas sztyepptó és a körülötte kialakult hagyományos tájhasználat."
+      ],
+      "concepts": [
+        "világörökség",
+        "fertő"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--holloko": {
+      "fekves": "Nógrád megyében, kb. é. sz. 48°, k. h. 19,6°-on, a Cserhát hegyei között fekszik.",
+      "facts": [
+        "1987 óta világörökség: hagyományos palóc falu.",
+        "Ószerű, egyutcás falu a vár alatt; élő hagyományok."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--hortobagy": {
+      "fekves": "A Tiszántúl északi részén, kb. é. sz. 47,4–47,8°, k. h. 20,8–21,4° között, Hajdú-Bihar megyében.",
+      "facts": [
+        "1999 óta világörökség: Hortobágyi Nemzeti Park – a Puszta kultúrtáj.",
+        "Évszázados legeltető állattartás formálta szikes puszta."
+      ],
+      "concepts": [
+        "világörökség",
+        "szikes talajok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--pannonhalmi-foapatsag": {
+      "fekves": "Győr-Moson-Sopron megyében, kb. é. sz. 47,6°, k. h. 17,8°-on, a Kisalföld déli peremén, egy dombtetőn fekszik.",
+      "facts": [
+        "1996 óta világörökség; az ezer évnél régebbi bencés főapátság.",
+        "Környéke a Pannonhalmi borvidék."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--pecsi-okereszteny-sirkamrak": {
+      "fekves": "Pécs belvárosában, kb. é. sz. 46,1°, k. h. 18,2°-on, a Mecsek déli lábánál.",
+      "facts": [
+        "2000 óta világörökség; a római kori Sopianae temetőjének festett sírkamrái.",
+        "A késő római (ókeresztény) építészet és művészet kiemelkedő emléke."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nemzeti-parkok-vilagoroksegek--tokaj-hegyalja-borvideke": {
+      "fekves": "A Tokaji (Zempléni)-hegység déli és keleti lejtőin, kb. é. sz. 48,1–48,4°, k. h. 21,1–21,7° között, Borsod-Abaúj-Zemplén megyében.",
+      "facts": [
+        "2002 óta világörökség: történelmi borvidéki kultúrtáj.",
+        "Vulkáni talaj, a Bodrog és a Tisza ködös mikroklímája segíti az aszúbor készítését."
+      ],
+      "concepts": [
+        "világörökség",
+        "mikroklíma"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--baranya-megye": {
+      "fekves": "Az ország déli részén, kb. é. sz. 45,8–46,4°, k. h. 17,6–18,9° között; délen a Dráva és a horvát határ, keleten a Duna határolja. Székhelye Pécs.",
+      "facts": [
+        "Domborzatát a Mecsek, a Villányi-hegység és a Baranyai-dombság adja.",
+        "A Dél-Dunántúl régió része; a bányászat megszűnése után szerkezetváltó megye.",
+        "Híres borvidékei: Villány, Pécs."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--bacs-kiskun-megye": {
+      "fekves": "Az Alföld nyugati részén, kb. é. sz. 45,9–47,1°, k. h. 18,7–20,1° között, a Duna–Tisza közén, a szerb határig. Székhelye Kecskemét.",
+      "facts": [
+        "Hazánk legnagyobb területű megyéje.",
+        "Homokhátsági mezőgazdaság (szőlő, gyümölcs), tanyás településszerkezet.",
+        "A Dél-Alföld régió része."
+      ],
+      "concepts": [
+        "tanya",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--bekes-megye": {
+      "fekves": "Az Alföld délkeleti részén, kb. é. sz. 46,3–47,2°, k. h. 20,4–21,7° között, a román határ mentén. Székhelye Békéscsaba.",
+      "facts": [
+        "Termékeny síkság, jelentős szántóföldi gazdálkodás.",
+        "A Körösök vidéke; a Dél-Alföld régió része.",
+        "Fogyó, öregedő népességű, a fővárostól távoli megye."
+      ],
+      "concepts": [
+        "öregedő és fiatalodó társadalom",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--borsod-abauj-zemplen-megye": {
+      "fekves": "Az ország északkeleti részén, kb. é. sz. 47,7–48,6°, k. h. 20–22,1° között, a szlovák határ mentén. Székhelye Miskolc.",
+      "facts": [
+        "Domborzata változatos: Bükk, Zempléni-hegység, Aggteleki-karszt, Cserehát, Sajó-völgy.",
+        "A borsodi nehézipar hanyatlása után szerkezetváltó, magas munkanélküliségű térség.",
+        "Az Észak-Magyarország régió része."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--csongrad-csanad-megye": {
+      "fekves": "Az Alföld déli részén, kb. é. sz. 46,1–46,8°, k. h. 19,7–20,8° között, a Tisza két oldalán, a szerb és a román határ mentén. Székhelye Szeged.",
+      "facts": [
+        "Hazánk egyik legnaposabb vidéke.",
+        "Kőolaj- és földgázkitermelés (Algyő); paprika- és zöldségtermesztés.",
+        "A Dél-Alföld régió része."
+      ],
+      "concepts": [
+        "kőolaj",
+        "földgáz",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--fejer-megye": {
+      "fekves": "A Dunántúl keleti részén, kb. é. sz. 46,6–47,6°, k. h. 18–19° között, a Duna jobb partjáig. Székhelye Székesfehérvár.",
+      "facts": [
+        "Nagy részét a löszös Mezőföld foglalja el, kiváló termőtalajjal.",
+        "Ipari központjai Székesfehérvár és Dunaújváros.",
+        "A Közép-Dunántúl régió része."
+      ],
+      "concepts": [
+        "lösz",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--gyor-moson-sopron-megye": {
+      "fekves": "Az ország északnyugati sarkában, kb. é. sz. 47,3–48°, k. h. 16,4–18° között, az osztrák és a szlovák határ mentén. Székhelye Győr.",
+      "facts": [
+        "A Kisalföld nagy részét foglalja el; Szigetköz, Hanság, Fertő.",
+        "Az egyik legfejlettebb vidéki megye (járműipar, határ menti fekvés).",
+        "A Nyugat-Dunántúl régió része."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--hajdu-bihar-megye": {
+      "fekves": "A Tiszántúl északi részén, kb. é. sz. 46,9–47,9°, k. h. 20,8–22,1° között, a román határ mentén. Székhelye Debrecen.",
+      "facts": [
+        "Tájai: Hortobágy, Hajdúság, a Nyírség déli része.",
+        "Kiváló mezőségi talajok, termálvizek (Hajdúszoboszló).",
+        "Az Észak-Alföld régió része."
+      ],
+      "concepts": [
+        "mezőségi talaj",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--heves-megye": {
+      "fekves": "Az ország északi részén, kb. é. sz. 47,4–48,2°, k. h. 19,5–20,7° között, a Mátra, a Bükk és az Alföld találkozásánál. Székhelye Eger.",
+      "facts": [
+        "Hegyvidéki északi és alföldi déli része van; itt a Kékes (1014 m).",
+        "Borvidékei: Eger, Mátra; lignitre települt hőerőmű (Visonta).",
+        "Az Észak-Magyarország régió része."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--jasz-nagykun-szolnok-megye": {
+      "fekves": "Az Alföld közepén, kb. é. sz. 46,7–47,7°, k. h. 19,6–21° között, a Tisza középső szakaszának két oldalán. Székhelye Szolnok.",
+      "facts": [
+        "Tájai: Jászság, Nagykunság, Tiszazug.",
+        "Szántóföldi gazdálkodás; a Tisza-tó részben ide tartozik.",
+        "Az Észak-Alföld régió része."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--komarom-esztergom-megye": {
+      "fekves": "Az ország északi részén, kb. é. sz. 47,3–47,8°, k. h. 17,9–18,9° között, a Duna jobb partján, a szlovák határ mentén. Székhelye Tatabánya.",
+      "facts": [
+        "Hazánk legkisebb területű megyéje.",
+        "Bányászati múlt után feldolgozóipari központtá vált (Tatabánya, Esztergom, Komárom).",
+        "A Közép-Dunántúl régió része."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--nograd-megye": {
+      "fekves": "Az ország északi részén, kb. é. sz. 47,7–48,2°, k. h. 19–20,1° között, az Ipoly mentén, a szlovák határon. Székhelye Salgótarján.",
+      "facts": [
+        "Hazánk legkisebb népességű megyéje.",
+        "Barnakőszén-bányászata megszűnt; aprófalvas, elöregedő térség.",
+        "Az Észak-Magyarország régió része."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--pest-megye": {
+      "fekves": "Az ország közepén, kb. é. sz. 46,9–48,1°, k. h. 18,7–20,1° között, Budapest körül, a Duna két partján. Székhelye Budapest (a főváros nem része a megyének).",
+      "facts": [
+        "Hazánk legnépesebb megyéje.",
+        "Nagy része a budapesti agglomeráció, erős szuburbanizációval.",
+        "Önálló Pest régiót alkot."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)",
+        "elővárosodás (szuburbanizáció)",
+        "régió"
+      ],
+      "processes": [
+        "varosodas-szakaszai"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--somogy-megye": {
+      "fekves": "A Dunántúl déli részén, kb. é. sz. 45,9–47°, k. h. 16,9–18,2° között, a Balaton déli partjától a Dráváig (horvát határ). Székhelye Kaposvár.",
+      "facts": [
+        "Domborzatát a Somogyi-dombság (Külső- és Belső-Somogy) adja.",
+        "Balaton-parti idegenforgalom, erdő- és vadgazdálkodás.",
+        "A Dél-Dunántúl régió része."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--szabolcs-szatmar-bereg-megye": {
+      "fekves": "Az ország északkeleti sarkában, kb. é. sz. 47,6–48,4°, k. h. 21–22,9° között, az ukrán, a román és a szlovák határ mentén. Székhelye Nyíregyháza.",
+      "facts": [
+        "Tájai: Nyírség, Szatmár–Beregi-síkság, Rétköz.",
+        "Almatermesztés központja; fiatalabb korösszetételű népesség.",
+        "Az Észak-Alföld régió része; a fejletlenebb megyék közé tartozik."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--tolna-megye": {
+      "fekves": "A Dunántúl délkeleti részén, kb. é. sz. 46,1–46,8°, k. h. 18,1–19° között, a Duna jobb partján. Székhelye Szekszárd.",
+      "facts": [
+        "Löszös dombságok (Tolnai-, Szekszárdi-dombság) és dunai ártér.",
+        "Itt működik a paksi atomerőmű.",
+        "A Dél-Dunántúl régió része."
+      ],
+      "concepts": [
+        "lösz",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--vas-megye": {
+      "fekves": "Az ország nyugati szélén, kb. é. sz. 46,7–47,5°, k. h. 16,1–17,3° között, az osztrák és a szlovén határ mentén. Székhelye Szombathely.",
+      "facts": [
+        "Tájai: Alpokalja (Kőszegi-hegység), Őrség, Vasi-hegyhát, Rába-völgy.",
+        "Csapadékos, erdős vidék; határ menti ingázás Ausztriába.",
+        "A Nyugat-Dunántúl régió része."
+      ],
+      "concepts": [
+        "ingázás",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--veszprem-megye": {
+      "fekves": "A Dunántúl középső részén, kb. é. sz. 46,7–47,5°, k. h. 17,1–18,3° között, a Bakony és a Balaton északi partja vidékén. Székhelye Veszprém.",
+      "facts": [
+        "Domborzatát a Bakony és a Balaton-felvidék adja.",
+        "Bauxit-, mangánérc- és szénbányászati múlt; vegyipar.",
+        "A Közép-Dunántúl régió része."
+      ],
+      "concepts": [
+        "laterit- és karsztbauxit",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--megyek--zala-megye": {
+      "fekves": "Az ország délnyugati részén, kb. é. sz. 46,3–47°, k. h. 16,4–17,5° között, a szlovén és a horvát határ mentén. Székhelye Zalaegerszeg.",
+      "facts": [
+        "Domborzatát a Zalai-dombság adja; a Balaton nyugati része ide tartozik.",
+        "Kőolaj- és földgázkitermelés; termálfürdők (Hévíz, Zalakaros).",
+        "A Nyugat-Dunántúl régió része."
+      ],
+      "concepts": [
+        "kőolaj",
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--alfold-es-eszak-nagyregio": {
+      "fekves": "Az ország keleti és északi része, kb. é. sz. 45,9–48,6°, k. h. 18,7–22,9° között, az Alföldtől az Északi-középhegységig.",
+      "facts": [
+        "Három régióból áll: Észak-Magyarország, Észak-Alföld, Dél-Alföld.",
+        "A három nagyrégió közül a legnagyobb területű és népességű.",
+        "Egy főre jutó GDP-je a legalacsonyabb az országban."
+      ],
+      "concepts": [
+        "régió",
+        "bruttó hazai termék (GDP)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--dunantul-nagyregio": {
+      "fekves": "Az ország nyugati része, a Dunától nyugatra, kb. é. sz. 45,8–48°, k. h. 16,1–19° között.",
+      "facts": [
+        "Három régióból áll: Nyugat-Dunántúl, Közép-Dunántúl, Dél-Dunántúl.",
+        "Északi része fejlett, iparosodott, délen fejletlenebb térségek is vannak."
+      ],
+      "concepts": [
+        "régió",
+        "bruttó hazai termék (GDP)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--kozep-magyarorszag-nagyregio": {
+      "fekves": "Az ország közepén, kb. é. sz. 46,9–48,1°, k. h. 18,7–20,1° között, Budapest és Pest megye területe.",
+      "facts": [
+        "Két régióból áll: Budapest és Pest.",
+        "Itt koncentrálódik a gazdasági teljesítmény jelentős része; az egy főre jutó GDP itt a legmagasabb."
+      ],
+      "concepts": [
+        "régió",
+        "bruttó hazai termék (GDP)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--budapest-regio": {
+      "fekves": "Kb. é. sz. 47,5°, k. h. 19,1°-on, a főváros közigazgatási területe a Duna két partján.",
+      "facts": [
+        "A legfejlettebb hazai régió; az egy főre jutó GDP itt messze a legmagasabb.",
+        "Az ország politikai, pénzügyi és szolgáltatási központja."
+      ],
+      "concepts": [
+        "régió",
+        "bruttó hazai termék (GDP)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--del-alfold-regio": {
+      "fekves": "Az Alföld déli része, kb. é. sz. 45,9–47,2°, k. h. 18,7–21,7° között, a szerb és a román határ mentén.",
+      "facts": [
+        "Megyéi: Bács-Kiskun, Békés, Csongrád-Csanád; központja Szeged.",
+        "Jelentős mezőgazdaság, kőolaj- és földgázkitermelés."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--del-dunantul-regio": {
+      "fekves": "A Dunántúl déli része, kb. é. sz. 45,8–47°, k. h. 16,9–19° között, a horvát határ mentén.",
+      "facts": [
+        "Megyéi: Baranya, Somogy, Tolna; központja Pécs.",
+        "Ritkán lakott, aprófalvas térség; a bányászat megszűnése után lassú szerkezetváltás."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--eszak-alfold-regio": {
+      "fekves": "Az Alföld északkeleti része, kb. é. sz. 46,7–48,4°, k. h. 19,6–22,9° között, a román, az ukrán és a szlovák határ mentén.",
+      "facts": [
+        "Megyéi: Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg; központja Debrecen.",
+        "Az ország egyik legkevésbé fejlett régiója."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--eszak-magyarorszag-regio": {
+      "fekves": "Az ország északi része, kb. é. sz. 47,4–48,6°, k. h. 19–22,1° között, a szlovák határ mentén.",
+      "facts": [
+        "Megyéi: Borsod-Abaúj-Zemplén, Heves, Nógrád; központja Miskolc.",
+        "Egykori nehézipari térség; a szerkezetváltás után az egyik legkevésbé fejlett régió."
+      ],
+      "concepts": [
+        "régió",
+        "gazdasági szerkezetváltás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--kozep-dunantul-regio": {
+      "fekves": "A Dunántúl középső és északkeleti része, kb. é. sz. 46,6–47,8°, k. h. 17,1–19° között.",
+      "facts": [
+        "Megyéi: Fejér, Komárom-Esztergom, Veszprém; központja Székesfehérvár.",
+        "Iparosodott, működőtőkét vonzó régió (elektronika, járműipar)."
+      ],
+      "concepts": [
+        "régió",
+        "működőtőke"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--nyugat-dunantul-regio": {
+      "fekves": "A Dunántúl nyugati része, kb. é. sz. 46,3–48°, k. h. 16,1–18° között, az osztrák, a szlovák, a szlovén és a horvát határ mentén.",
+      "facts": [
+        "Megyéi: Győr-Moson-Sopron, Vas, Zala; központja Győr.",
+        "Budapest után az egyik legfejlettebb régió (járműipar, nyugati határ közelsége)."
+      ],
+      "concepts": [
+        "régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "magyarorszag--nagyregiok-regiok--pest-regio": {
+      "fekves": "Az ország közepén, kb. é. sz. 46,9–48,1°, k. h. 18,7–20,1° között, Budapestet körülölelve; területe Pest megyéé.",
+      "facts": [
+        "Pest megye önálló régiót alkot, elválasztva Budapesttől.",
+        "Fejlettsége a főváros nélkül számolva jóval alacsonyabb, így több uniós támogatásra jogosult.",
+        "Az agglomeráció miatt népessége nő."
+      ],
+      "concepts": [
+        "régió",
+        "regionális politika",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  }
+}

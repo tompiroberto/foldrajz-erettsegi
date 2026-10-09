@@ -1,0 +1,180 @@
+/* ---------- Atlas map (blank contour-map style) ---------- */
+
+.atlas-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: var(--sea, #cfe6ea);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  touch-action: none;
+  user-select: none;
+  cursor: grab;
+  font-family: var(--font-map);
+}
+.atlas-map:active { cursor: grabbing; }
+.atlas-map .map-sea { fill: var(--sea, #cfe6ea); }
+.atlas-map .map-graticule { fill: none; stroke: color-mix(in srgb, var(--ink) 14%, transparent); stroke-width: 0.5; vector-effect: non-scaling-stroke; }
+.atlas-map .map-land path { fill: var(--land, #f7f4ec); stroke: color-mix(in srgb, var(--ink) 35%, transparent); stroke-width: 0.6; vector-effect: non-scaling-stroke; }
+.atlas-map .map-counties path { fill: none; stroke: color-mix(in srgb, var(--ink) 22%, transparent); stroke-width: 0.5; stroke-dasharray: 3 2; vector-effect: non-scaling-stroke; }
+.atlas-map .map-lakes path { fill: var(--sea, #cfe6ea); stroke: color-mix(in srgb, #2a6f86 50%, transparent); stroke-width: 0.5; vector-effect: non-scaling-stroke; }
+.atlas-map .map-loading { font-family: var(--font-body); fill: var(--muted); font-size: 18px; }
+.atlas-map .map-zoom-k { font-family: var(--font-body); fill: var(--muted); font-size: 14px; }
+
+.hatch-line { stroke: color-mix(in srgb, var(--accent) 55%, transparent); stroke-width: 1.4; }
+.hatch-line-sel { stroke: var(--accent-2); stroke-width: 3; }
+
+.atlas-map .item { cursor: pointer; }
+.atlas-map .item-polygon { fill: transparent; stroke: color-mix(in srgb, var(--accent) 45%, transparent); stroke-width: 0.8; stroke-dasharray: 3 2; vector-effect: non-scaling-stroke; transition: fill 0.15s; }
+.atlas-map .item-polygon:hover { fill: color-mix(in srgb, var(--accent) 16%, transparent); stroke-dasharray: none; }
+.atlas-map .item-polygon.is-selected { stroke: #b47b00; stroke-width: 2.5; stroke-dasharray: none; }
+
+.atlas-map .item-line .hit { fill: none; stroke: transparent; stroke-width: 14; vector-effect: non-scaling-stroke; }
+.atlas-map .item-line .stroke { fill: none; stroke: #2b6cb0; stroke-width: 1.8; vector-effect: non-scaling-stroke; stroke-linecap: round; stroke-linejoin: round; }
+.atlas-map .item-line:hover .stroke { stroke-width: 3; }
+.atlas-map .item-line.is-selected .stroke { stroke: #b47b00; stroke-width: 3.5; }
+.atlas-map .current-warm .stroke { stroke: #d64545; stroke-width: 2.4; }
+.atlas-map .current-cold .stroke { stroke: #2563eb; stroke-width: 2.4; }
+.atlas-map .flow { fill: none; stroke: #fff; stroke-opacity: 0.8; stroke-width: 1.2; stroke-dasharray: 2 14; vector-effect: non-scaling-stroke; animation: flow 1.6s linear infinite; pointer-events: none; }
+@keyframes flow { to { stroke-dashoffset: -16; } }
+.arrow-warm { fill: #d64545; }
+.arrow-cold { fill: #2563eb; }
+
+.atlas-map .marker { cursor: pointer; transform-box: view-box; }
+.atlas-map .marker .pt { fill: #fff; stroke: var(--ink); stroke-width: 1.6; }
+.atlas-map .marker .pt-capital { fill: var(--ink); }
+.atlas-map .marker.is-point .pt-capital + .pt { fill: none; }
+.atlas-map .marker .num-bg { fill: #fff; stroke: var(--ink); stroke-width: 1.2; }
+.atlas-map .marker .num { font-family: var(--font-body); font-size: 10px; font-weight: 700; fill: var(--ink); font-variant-numeric: tabular-nums; pointer-events: none; }
+.atlas-map .marker.is-selected .num-bg,
+.atlas-map .marker.is-selected .pt { fill: var(--accent-2); stroke-width: 2.2; }
+.atlas-map .marker .label {
+  font-size: 13px;
+  font-weight: 600;
+  fill: var(--ink);
+  paint-order: stroke;
+  stroke: var(--land, #fff);
+  stroke-width: 3.5px;
+  stroke-linejoin: round;
+  letter-spacing: 0.02em;
+  pointer-events: none;
+}
+.atlas-map .marker .label.is-water { font-style: italic; fill: #1f5a8a; letter-spacing: 0.04em; }
+.atlas-map .click-marker circle { fill: none; stroke: #b47b00; stroke-width: 2.5; }
+.atlas-map .click-marker path { stroke: #b47b00; stroke-width: 2; }
+
+.atlas-map.is-blank .item-polygon { fill-opacity: 0; stroke-opacity: 0; }
+.atlas-map.is-blank .item-line .stroke { stroke-opacity: 0; }
+
+[data-theme='dark'] .atlas-map .marker .num-bg,
+[data-theme='dark'] .atlas-map .marker .pt { fill: #e8edf2; stroke: #0f1620; }
+[data-theme='dark'] .atlas-map .marker .num { fill: #0f1620; }
+[data-theme='dark'] .atlas-map .item-line .stroke { stroke: #7cb6f2; }
+[data-theme='dark'] .atlas-map .marker .label.is-water { fill: #9cc9f0; }
+
+/* ---------- Map page layout ---------- */
+
+.topo-map-page {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr) auto;
+  gap: 16px;
+  padding: 16px;
+  min-height: calc(100dvh - var(--header-h));
+  align-items: start;
+}
+.map-panel {
+  position: sticky;
+  top: calc(var(--header-h) + 16px);
+  max-height: calc(100dvh - var(--header-h) - 32px);
+  overflow-y: auto;
+  background: var(--glass);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+.map-panel-inner { display: flex; flex-direction: column; gap: 14px; padding: 16px; }
+.map-panel fieldset { border: 0; margin: 0; padding: 0; }
+.map-panel legend,
+.legend-like { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; padding: 0; }
+.map-title { font-size: 1.6rem; margin: 0; }
+.chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.number-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.number-list button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-align: left;
+  border: 0;
+  background: transparent;
+  padding: 5px 6px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.92rem;
+}
+.number-list button:hover,
+.number-list button.active { background: var(--tint); }
+.num-chip {
+  display: inline-grid;
+  place-items: center;
+  min-width: 24px;
+  height: 24px;
+  border-radius: 999px;
+  border: 1.5px solid var(--ink);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+.map-stage { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.map-toolbar { display: flex; align-items: center; gap: 6px; }
+.map-filter-toggle { display: none; }
+.map-drawer {
+  position: sticky;
+  top: calc(var(--header-h) + 16px);
+  width: 320px;
+  max-height: calc(100dvh - var(--header-h) - 32px);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; margin: 0; }
+.facts dt { font-weight: 600; color: var(--muted); font-size: 0.85rem; }
+.facts dd { margin: 0; }
+.flashcard { display: flex; flex-direction: column; gap: 10px; align-items: flex-start; }
+.grade-row kbd,
+.flashcard kbd { font-family: var(--font-body); font-size: 0.7rem; padding: 0 5px; border: 1px solid currentColor; border-radius: 4px; opacity: 0.7; }
+
+@media (max-width: 1200px) {
+  .topo-map-page { grid-template-columns: 280px minmax(0, 1fr); }
+  .map-drawer { grid-column: 2; position: static; width: auto; max-height: none; overflow: visible; }
+}
+@media (max-width: 760px) {
+  .topo-map-page { grid-template-columns: 1fr; padding: 10px 10px calc(var(--tabbar-h) + 10px); }
+  .map-filter-toggle { display: inline-flex; }
+  .map-panel {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: var(--tabbar-h);
+    top: auto;
+    z-index: 30;
+    max-height: 70dvh;
+    border-radius: var(--radius) var(--radius) 0 0;
+    transform: translateY(105%);
+    transition: transform 0.3s ease;
+    box-shadow: var(--shadow-lift);
+  }
+  .map-panel.is-open { transform: none; }
+  .map-drawer { grid-column: 1; }
+}
+
+.atlas-map .map-land path.is-neighbour { fill: color-mix(in srgb, var(--land, #f7f4ec) 80%, var(--ink) 6%); }
+.atlas-map .map-land path.is-home { stroke: var(--ink); stroke-width: 1.8; }
+
+/* Térképszerkesztő */
+.edit-draft .draft-line { fill: none; stroke: #E0A100; stroke-width: 3; stroke-dasharray: 6 4; vector-effect: non-scaling-stroke; }
+.edit-draft .draft-poly { fill: rgba(224, 161, 0, 0.2); stroke: #E0A100; stroke-width: 2.5; stroke-dasharray: 6 4; vector-effect: non-scaling-stroke; }
+.edit-draft .draft-pt { fill: #E0A100; stroke: #1B1B1B; stroke-width: 1.5px; }
+.editor-panel { border-top: 1px dashed var(--line); padding-top: 12px; }
+.draft-bar { flex-wrap: wrap; padding: 4px 8px; border-radius: 10px; background: color-mix(in srgb, #E0A100 14%, var(--paper)); }

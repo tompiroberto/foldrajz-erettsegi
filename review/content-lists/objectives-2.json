@@ -1,0 +1,235 @@
+[
+ {
+  "id": "2-1-a-vilagegyetem",
+  "title": "2.1. A Világegyetem",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "2-1-a-vilagegyetem--k1",
+    "level": "kozep",
+    "text": "Ismerje a Tejútrendszer alakját, méreteit és a Naprendszer Tejútrendszerben elfoglalt helyzetét."
+   },
+   {
+    "id": "2-1-a-vilagegyetem--k2",
+    "level": "kozep",
+    "text": "Igazodjon el a csillagászati időbeli és térbeli nagyságrendekben."
+   },
+   {
+    "id": "2-1-a-vilagegyetem--k3",
+    "level": "kozep",
+    "text": "Különítse el a csillagok és a bolygók tartalmi jegyeit."
+   },
+   {
+    "id": "2-1-a-vilagegyetem--k4",
+    "level": "kozep",
+    "text": "Értelmezze a csillagképek látszólagosságát, mondjon példákat azokra."
+   },
+   {
+    "id": "2-1-a-vilagegyetem--e1",
+    "level": "emelt",
+    "text": "Ismerje a Világegyetem keletkezésére vonatkozó, legszélesebb körben elfogadott elméletet."
+   },
+   {
+    "id": "2-1-a-vilagegyetem--e2",
+    "level": "emelt",
+    "text": "Ismerje a bolygók mozgásának törvényszerűségeit."
+   }
+  ]
+ },
+ {
+  "id": "2-2-a-nap-es-kiseroi",
+  "title": "2.2. A Nap és kísérői",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "2-2-a-nap-es-kiseroi--k1",
+    "level": "kozep",
+    "text": "Sorolja fel a Naprendszert alkotó égitesttípusokat, ismerje azok legfőbb jellemzőit."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--k2",
+    "level": "kozep",
+    "text": "Ismertesse a Nap jellemzőit (átmérője, távolsága a Földtől, anyagi összetétele, belső és felszíni hőmérséklete)."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--k3",
+    "level": "kozep",
+    "text": "Mutassa be a Nap földi életet meghatározó szerepét."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--k4",
+    "level": "kozep",
+    "text": "Sorolja fel a Föld- és a Jupiter-típusú bolygókat, ismerje a Naphoz viszonyított sorrendjüket, mutassa be közös és egyedi jellemzőiket."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--k5",
+    "level": "kozep",
+    "text": "Ismertesse a Hold mozgásának sajátosságait."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--k6",
+    "level": "kozep",
+    "text": "Azonosítsa kép vagy ábra alapján a holdfázisokat."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--k7",
+    "level": "kozep",
+    "text": "Különböztesse meg a nap- és a holdfogyatkozás jelenségét, értse azok kialakulásának okait."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--k8",
+    "level": "kozep",
+    "text": "Magyarázza meg a meteoroid, a meteor és a meteorit közötti különbséget."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--e1",
+    "level": "emelt",
+    "text": "Ismertesse a Nap gömbhéjas szerkezetét, a Nap szféráinak jelenségeit és ezek hatását a földi életre."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--e2",
+    "level": "emelt",
+    "text": "Elemezzen a Naprendszer bolygóiról készült adatsorokat és végezzen azok alapján összehasonlításokat."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--e3",
+    "level": "emelt",
+    "text": "Mutassa be a naptávolság, a hőmérséklet és az anyageloszlás összefüggéseit."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--e4",
+    "level": "emelt",
+    "text": "Készítsen egyszerű ábrát a holdfázisokról, illetve a nap- és holdfogyatkozásról."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--e5",
+    "level": "emelt",
+    "text": "Jellemezze a Hold felszínét."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--e6",
+    "level": "emelt",
+    "text": "Magyarázza meg a Hold légkörhiányának következményeit."
+   },
+   {
+    "id": "2-2-a-nap-es-kiseroi--e7",
+    "level": "emelt",
+    "text": "Mutassa be az üstökösök felépítését és mozgásuk jellemzőit."
+   }
+  ]
+ },
+ {
+  "id": "2-3-a-fold-es-mozgasai",
+  "title": "2.3. A Föld és mozgásai",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "2-3-a-fold-es-mozgasai--k1",
+    "level": "kozep",
+    "text": "Ismerje a Föld méreteit (sugár, Egyenlítő hossza)."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k2",
+    "level": "kozep",
+    "text": "Ismertesse az eltérítő erő (Coriolis-erő) hatásait."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k3",
+    "level": "kozep",
+    "text": "Magyarázza meg a nappalok és az éjszakák váltakozását."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k4",
+    "level": "kozep",
+    "text": "Ismerje az égitestek látszólagos napi K-Ny-i járását, a forgás Ny-K-i irányát."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k5",
+    "level": "kozep",
+    "text": "Alkalmazza az alapvető átváltásokat: 15 hosszúsági fok = 1 óra időkülönbség = 1 időzóna, 1 hosszúsági fok = 4 perc időkülönbség."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k6",
+    "level": "kozep",
+    "text": "Számítsa ki a helyi időt és a zónaidőt."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k7",
+    "level": "kozep",
+    "text": "Ismerje a keringés pályájának jellemzőit, a keringés idejét."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k8",
+    "level": "kozep",
+    "text": "Értelmezzen a keringéssel kapcsolatos ábrákat."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k9",
+    "level": "kozep",
+    "text": "Ismerje a tavaszi és az őszi nap-éj egyenlőség, a nyári és a téli napforduló fogalmát és időpontját."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k10",
+    "level": "kozep",
+    "text": "Értelmezze a forgástengely ferdesége és az évszakok kialakulása közötti összefüggést."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--k11",
+    "level": "kozep",
+    "text": "Ismerje a Föld mozgásaihoz kapcsolódó időbeli léptékeket."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--e1",
+    "level": "emelt",
+    "text": "Ismerje a Föld alakja és tengely körüli forgása közötti összefüggést."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--e2",
+    "level": "emelt",
+    "text": "Magyarázza meg a nappalok és az éjszakák hosszának változását."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--e3",
+    "level": "emelt",
+    "text": "Számítsa ki a Nap delelési magasságát a nevezetes időpontokban bármely földrajzi helyen."
+   },
+   {
+    "id": "2-3-a-fold-es-mozgasai--e4",
+    "level": "emelt",
+    "text": "Alkalmazza feladatmegoldás során a dátumválasztó vonal következményét."
+   }
+  ]
+ },
+ {
+  "id": "2-4-az-urkutatas",
+  "title": "2.4. Az űrkutatás",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "2-4-az-urkutatas--e1",
+    "level": "emelt",
+    "text": "Mutassa be az űrkutatás legfontosabb mérföldköveit."
+   },
+   {
+    "id": "2-4-az-urkutatas--e2",
+    "level": "emelt",
+    "text": "Sorolja fel az űrkutatás eszközeit, és ismerje azok szerepét."
+   },
+   {
+    "id": "2-4-az-urkutatas--e3",
+    "level": "emelt",
+    "text": "Mutassa be a mesterséges égitestek jelentőségét a Naprendszer, a Tejútrendszer és más galaxisok, exobolygók megismerésében."
+   },
+   {
+    "id": "2-4-az-urkutatas--e4",
+    "level": "emelt",
+    "text": "Mondjon példákat az űrkutatás eredményeinek gyakorlati hasznosítására."
+   },
+   {
+    "id": "2-4-az-urkutatas--e5",
+    "level": "emelt",
+    "text": "Nevezzen meg az űrkutatáshoz kapcsolódó magyar vonatkozású eredményeket."
+   }
+  ]
+ }
+]

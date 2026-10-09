@@ -1,0 +1,1632 @@
+{
+ "id": "2018-tavasz",
+ "year": 2018,
+ "season": "tavasz",
+ "date": "2018. május 18.",
+ "label": "Érettségi 2018. május",
+ "files": {
+  "feladatlap": "foldrajz_emelt_2018_tavasz_feladatlap.pdf",
+  "utmutato": "foldrajz_emelt_2018_tavasz_utmutato.pdf"
+ },
+ "sourceUrl": "https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok/emelt_szint_2018tavasz/emelt_11nap",
+ "totalPoints": 200,
+ "generated": true,
+ "reviewed": false,
+ "tasks": [
+  {
+   "no": 1,
+   "title": "Repülőút a fokhálózaton, méretarány",
+   "instruction": "Egy repülőgép az é. sz. 47°; k. h. 19° (Budapest) indulási helyéről a leírásban szereplő útvonalat járja be. Olvassa el a leírásokat, és válaszoljon a kérdésekre!",
+   "context": "",
+   "pages": [
+    3,
+    4
+   ],
+   "guidePages": [
+    3
+   ],
+   "points": 15,
+   "needsFigure": false,
+   "subtopics": [
+    "1-2-tajekozodas-a-terkepen-es-a-terkeppel",
+    "1-1-a-terkep"
+   ],
+   "concepts": [
+    "méretarány",
+    "földrajzi fokhálózat",
+    "szélességi kör",
+    "hosszúsági kör",
+    "földgömb",
+    "fő- és mellékvilágtájak"
+   ],
+   "places": [
+    "magyarorszag--telepulesek--budapest",
+    "fold--foldreszek--afrika",
+    "fold--foldreszek--ausztralia"
+   ],
+   "parts": [
+    {
+     "label": "1",
+     "type": "calculation",
+     "prompt": "Először nyugat felé halad A pontba, útvonala egy 1:5 000 000 méretarányú térképen 6,2 cm. Hány kilométert tett meg A pontig? A számítást itt végezze! Eredmény: … km",
+     "points": 2,
+     "solution": "A számítás elve: 6,2 x 5 000 000 = 31000 000 cm = 310 (1 pont). Eredmény: 310 km-t tett meg. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "2",
+     "type": "calculation",
+     "prompt": "A pontból, amely a kiindulási állomással azonos szélességi körön fekszik, a k. h. 15° mentén dél felé repül 62°-ot, és így eljut B pontba. Melyik szélességi körön fekszik B pont? A számítást itt végezze!",
+     "points": 2,
+     "solution": "A számítás elve: 62° - 47° = 15° (1 pont). Eredmény: d. sz. 15° (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "3",
+     "type": "calculation",
+     "prompt": "Hány kilométerre fekszik B pont A-tól? A számítást itt végezze! Eredmény: … km",
+     "points": 2,
+     "solution": "A számítás elve: mivel 1° = 111,1 km; 62° x 111,1 km = 6888,2 (1 pont). Eredmény: 6888,2 km (1 pont). Megjegyzés: a 111 km-rel történő számítás is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "4",
+     "type": "calculation",
+     "prompt": "Egy 1:80 000 000 méretarányú térképen mekkora távolságra lenne egymástól A és B pont? A számítást itt végezze! Eredmény: … cm",
+     "points": 2,
+     "solution": "A számítás elve: 6888,2 km = 688 820 000 cm; 688 820 000 : 80 000 000 = 8,6 (1 pont). Eredmény: 8,6 cm-re lenne egymástól a két pont ezen a térképen. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "5",
+     "type": "calculation",
+     "prompt": "B pontból újra felszáll a repülőgép, és kelet felé halad pontosan 120°-ot C pontba. Melyik hosszúsági körön fekszik C pont? A számítást itt végezze!",
+     "points": 2,
+     "solution": "A számítás elve: 120° + 15° = 135° (1 pont). Eredmény: k. h. 135° (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "6",
+     "type": "short-answer",
+     "prompt": "Milyen irányban kellene elindulnia a repülőnek, ha C pontból egyenesen vissza akarna térni a kiindulási állomására (Budapestre)?",
+     "points": 1,
+     "items": [
+      {
+       "n": "6",
+       "text": "Irány C pontból Budapest felé",
+       "answer": "Északnyugat"
+      }
+     ],
+     "solution": "Északnyugat felé.",
+     "autoCheck": true
+    },
+    {
+     "label": "7",
+     "type": "short-answer",
+     "prompt": "Melyik kontinenseken fekszik B és C pont? B pont: … C pont: …",
+     "points": 2,
+     "items": [
+      {
+       "n": "B",
+       "text": "B pont",
+       "answer": "Afrika"
+      },
+      {
+       "n": "C",
+       "text": "C pont",
+       "answer": "Ausztrália"
+      }
+     ],
+     "solution": "B pont: Afrikában. (1 pont) C pont: Ausztráliában. (1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "8",
+     "type": "calculation",
+     "prompt": "A kiindulási hely C ponttól egy 1:110 000 000 méretarányú földgömbön 14 centiméterre van. Mekkora ez a távolság a valóságban? A számítást itt végezze! Eredmény: … km",
+     "points": 2,
+     "solution": "110 000 000 cm x 14 cm = 1 540 000 000 cm = 15 400 km (1 pont). Eredmény: 15 400 km (1 pont). Megjegyzés: más helyes elven megkapott eredmény is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "title": "Delelési magasság június 22-én",
+   "instruction": "Két világutazó – Péter és Zoltán – az egyik nevezetes időpontban, június 22-én csillagászati megfigyeléseket végez. Péter helyének földrajzi koordinátái: é. sz. 5°; k. h. 115°.",
+   "context": "",
+   "pages": [
+    4,
+    5
+   ],
+   "guidePages": [
+    3
+   ],
+   "points": 6,
+   "needsFigure": false,
+   "subtopics": [
+    "2-3-a-fold-es-mozgasai"
+   ],
+   "concepts": [
+    "delelési magasság",
+    "nyári és téli napforduló",
+    "zenit"
+   ],
+   "places": [
+    "fold--foldrajzi-fokhalozat--rakterito"
+   ],
+   "note": "Az útmutatóban a részpontszámok sorai elcsúsztak, ezért a három kérdés egy részként, összesen 6 ponttal szerepel.",
+   "parts": [
+    {
+     "label": "",
+     "type": "calculation",
+     "prompt": "1. Hány fokos szögben látja delelni a Napot Péter? A számítást itt végezze! Eredmény: … fokos szögben. 2. Milyen irányban látja delelni a Napot Péter? 3. Zoltán ugyanezen a napon, Péterrel azonos hosszúsági körön, 42,5°-os szögben látja delelni a Napot a déli horizont felett. Melyik szélességi körön végzi a megfigyelést Zoltán? A számítást itt végezze! Eredmény: … -i szélesség …°",
+     "points": 6,
+     "solution": "1. Számítás elve: mivel június 22-én a Nap a Ráktérítőn delel: 23,5° - 5° = 18,5°; 90° - 18,5° = 71,5°. Eredmény: 71,5°-os szögben. 2. Északi irányban. 3. Számítás elve: 90° - 42,5° = 47,5°; 23,5° + 47,5° = 71°. Eredmény: észak(i szélesség) 71°. (Összesen 6 pont)",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "title": "Vulkáni utóműködés, forrópontos vulkanizmus",
+   "instruction": "Oldja meg a vulkánossággal kapcsolatos feladatokat!",
+   "context": "",
+   "pages": [
+    5,
+    6
+   ],
+   "guidePages": [
+    3,
+    4
+   ],
+   "points": 16,
+   "needsFigure": true,
+   "figureNote": "Ábra a forrópont feletti vulkánlánc kialakulásáról, sorszámozott vulkánokkal.",
+   "subtopics": [
+    "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei"
+   ],
+   "concepts": [
+    "vulkáni utóműködés",
+    "fumarola",
+    "szolfatára",
+    "gejzír",
+    "mofetta",
+    "savanyúvíz",
+    "forrópontos vulkán",
+    "kőzetlemez"
+   ],
+   "places": [
+    "amerika--tajak--hawaii-szigetek",
+    "magyarorszag--egyeb-tajak-teruletek--balaton-felvidek"
+   ],
+   "parts": [
+    {
+     "label": "a1",
+     "type": "short-answer",
+     "prompt": "Válaszoljon a vulkáni utóműködésekkel kapcsolatos kérdésekre! 1) Mely vulkáni utóműködésre ismer a számokkal jelölt leírásokban? Írja a fogalmat a leírás után a vonalra!",
+     "points": 4,
+     "items": [
+      {
+       "n": "1",
+       "text": "100 °C feletti hőmérsékletű, főleg vízgőzből álló, de egyéb gázokat is tartalmazó kigőzölgés.",
+       "answer": "Fumarola"
+      },
+      {
+       "n": "2",
+       "text": "Kénvegyületeket tartalmazó, általában forró kigőzölgés.",
+       "answer": "Szolfatára"
+      },
+      {
+       "n": "3",
+       "text": "Időszakosan működő, a forró vizet magasba lövellő forrás.",
+       "answer": "Gejzír"
+      },
+      {
+       "n": "4",
+       "text": "Szén-dioxidot tartalmazó gázfeltörés.",
+       "answer": "Mofetta"
+      }
+     ],
+     "solution": "1. Fumarola; 2. Szolfatára; 3. Gejzír; 4. Mofetta (1-1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "a2",
+     "type": "short-answer",
+     "prompt": "2) A fenti feladatban nem volt szó egy, hazánkban több helyen (pl. a Balaton-felvidéken) is előforduló vulkáni utóműködésről. Nevezze meg a vulkáni utóműködés termékét!",
+     "points": 1,
+     "solution": "Szénsavas víz / borvíz / csevice / savanyú víz",
+     "autoCheck": false
+    },
+    {
+     "label": "a3",
+     "type": "short-answer",
+     "prompt": "3) A vulkáni utóműködés a gazdaság számára is hasznosítható. Nevezzen meg három hasznosítási lehetőséget!",
+     "points": 3,
+     "solution": "Energiatermelés / ásványvíz / gyógyvíz / kénkitermelés / turizmus / idegenforgalom / szén-dioxid-kitermelés (1+1+1 pont). Megjegyzés: bármelyik három említése elfogadható. Más helyes példa is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "diagram",
+     "prompt": "Tanulmányozza az alábbi ábrát, majd válaszoljon a forrópontos vulkanizmussal kapcsolatos kérdésekre! 1. A kőzetlemezek mely részén, területén alakulhat ki a forrópontos vulkanizmus? 2. Mit nevezünk forrópontnak? 3. Az ábrán szereplő vulkánok közül melyik a legidősebb? Írja a megfelelő sorszámot a négyzetbe! 4. Fogalmazza meg, miért eltérő korúak az egyes vulkáni kúpok! 5. Nevezzen meg egy példát forrópont felett keletkező vulkánra!",
+     "points": 8,
+     "solution": "1. A kőzetlemezek belső területein / a lemezszegélyektől távol. (1 pont) 2. Hosszú ideig fennálló magma feláramlás (köpenyben kialakuló hőoszlop), ami átolvasztja a kőzetlemezt. (1+1 pont) 3. Beírva: 1. (1 pont) 4. A hosszú ideig (akár több százezer / millió évig) fennálló magma feláramlás fölött a kőzetlemez elmozdul, így a magma mindig más helyen olvasztja át a kőzetlemezt, és a forró ponttól távolodva egyre idősödő vulkáni lánc alakul ki. (1+1+1 pont) 5. Hawaii-szigetek vulkánjai (1 pont). Megjegyzés: másképpen megfogalmazott helyes válasz, más helyes példa is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "title": "A légkör kialakulása",
+   "instruction": "Válaszoljon a Föld légkörének kialakulásával kapcsolatos kérdésekre!",
+   "context": "",
+   "pages": [
+    7
+   ],
+   "guidePages": [
+    4
+   ],
+   "points": 7,
+   "needsFigure": false,
+   "subtopics": [
+    "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet",
+    "3-2-1-a-legkor-anyaga-es-szerkezete"
+   ],
+   "concepts": [
+    "őslégkör (elsődleges légkör)",
+    "másodlagos légkör",
+    "mai légkör",
+    "ózonréteg",
+    "mészkő"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "a",
+     "type": "short-answer",
+     "prompt": "Nevezze meg a Föld elsődleges, kozmikus eredetű őslégkörének két legfontosabb összetevőjét!",
+     "points": 2,
+     "solution": "Hidrogén, hélium, metán, ammónia, kén-hidrogén, vízgőz. Megjegyzés: bármelyik kettő említése elfogadható. (1+1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Hogyan került a Föld másodlagos légkörébe szén-dioxid és nitrogén?",
+     "points": 1,
+     "solution": "A vulkáni tevékenység / vulkanizmus során.",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "Hasonlítsa össze az ősidei (kb. 2,5 milliárd évvel ezelőtti) és a jelenlegi légkör szén-dioxid-tartalmát! Írja a megfelelő relációs jelet a négyzetbe! (jelenlegi légköri CO2-koncentráció □ 2,5 milliárd évvel ezelőtti CO2-koncentráció)",
+     "points": 1,
+     "items": [
+      {
+       "n": "c",
+       "text": "jelenlegi légköri CO2-koncentráció □ 2,5 milliárd évvel ezelőtti CO2-koncentráció",
+       "answer": "<"
+      }
+     ],
+     "solution": "<",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Melyik üledékes kőzet képződéséhez járult hozzá a légköri szén-dioxid?",
+     "points": 1,
+     "items": [
+      {
+       "n": "d",
+       "text": "Üledékes kőzet",
+       "answer": "Mészkő"
+      }
+     ],
+     "solution": "Mészkő",
+     "autoCheck": true
+    },
+    {
+     "label": "e",
+     "type": "short-answer",
+     "prompt": "Melyik földtörténeti időben kezdődött meg a légköri ózon kialakulása? Nevezze meg azt a biokémiai folyamatot, amely lehetővé tette a légköri ózon kialakulását illetve megteremtette annak feltételét!",
+     "points": 2,
+     "solution": "Óidőben / az óidő elején (1 pont). Fotoszintézis (1 pont).",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "title": "Üvegházgázok jellemzői",
+   "instruction": "Tanulmányozza az üvegházhatású gázok néhány jellemzőjét bemutató táblázatot, és oldja meg a hozzá kapcsolódó feladatokat!",
+   "context": "CH4 = metán; N2O = dinitrogén-oxid. ppm és ppb az adott anyag koncentrációját jelölő egységek: ppm = az adott összetevő mennyiségét adja meg a levegő 1 millió részecskéjéből, ppb = az adott összetevő mennyiségét adja meg a levegő 1 milliárd részecskéjéből. A „jelenlegi” ebben az esetben a 2000-es évek elejét jelenti. (Forrás: http://mek.oszk.hu/01400/01452/html/legkor/index.html)",
+   "pages": [
+    8,
+    9
+   ],
+   "guidePages": [
+    4,
+    5
+   ],
+   "points": 9,
+   "needsFigure": true,
+   "figureNote": "Táblázat az üvegházgázok (pl. CH4, N2O, freonok) ipari forradalom előtti és jelenlegi koncentrációjáról, éves kibocsátásáról és légköri tartózkodási idejéről.",
+   "subtopics": [
+    "3-2-6-a-legszennyezes-kovetkezmenyei",
+    "3-2-2-a-levego-felmelegedese"
+   ],
+   "concepts": [
+    "üvegházgázok",
+    "az üvegházhatás fokozódása",
+    "savas csapadék",
+    "ózonréteg-elvékonyodás (ózonritkulás)",
+    "légszennyező anyagok"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "a",
+     "type": "short-answer",
+     "prompt": "Nevezzen meg egy olyan légköri anyagot (összetevőt), amely bizonyítottan üvegházhatású, de nem szerepel a táblázatban!",
+     "points": 1,
+     "solution": "Vízgőz",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Mely, az ipari forradalom előtt is a légkörben lévő üvegházgáz koncentrációja emelkedett a legnagyobb mértékben?",
+     "points": 1,
+     "solution": "Metán (CH4)",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "A táblázatban szereplő összetevők közül melyik kerül évente a legkisebb mennyiségben a légkörbe?",
+     "points": 1,
+     "solution": "Freon-11",
+     "autoCheck": false
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "A légkörben lehet-e még az a dinitrogén-oxid (N2O) részecske, amely 1960-ban került a londoni Oxford téren a levegőbe? Válaszát indokolja! Válasz: … Indoklás: … Egy másik, légkörbe kerülő nitrogén vegyület, a nitrogén-dioxid (NO2) szintén súlyos környezetkárosodást okozhat. Nevezze meg ezt a környezetkárosító jelenséget!",
+     "points": 3,
+     "solution": "Válasz: igen (1 pont). Indoklás: mert a tartózkodási ideje 150 év, és 1960 óta kevesebb idő telt el máig. (1 pont) Savas csapadék kialakulása. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "e",
+     "type": "short-answer",
+     "prompt": "Milyen eredetűek, honnan kerülnek a légkörbe a freongázok? Nevezzen meg két példát! Az üvegházhatás fokozásán kívül milyen káros hatásuk van a légkörbe kerülő freonvegyületeknek?",
+     "points": 3,
+     "solution": "Hűtő és/vagy légkondicionáló berendezésekben használt anyagok / szórópalackok (spray-k) hajtóanyaga. (1+1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható. Károsan befolyásolják az ózon képződését / az ózonképződés és -bomlás egyensúlyát megbontják / hozzájárulnak az ózonréteg vékonyodásához. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "title": "Tengerek és sótartalmuk",
+   "instruction": "Oldja meg a tengerekkel kapcsolatos feladatokat!",
+   "context": "",
+   "pages": [
+    9,
+    10
+   ],
+   "guidePages": [
+    5
+   ],
+   "points": 11,
+   "needsFigure": true,
+   "figureNote": "Térképvázlat számokkal (1–4) jelölt tengerekkel és egy öböllel.",
+   "subtopics": [
+    "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai"
+   ],
+   "concepts": [
+    "sótartalom",
+    "beltenger",
+    "tenger",
+    "öböl",
+    "hasadékvölgy"
+   ],
+   "places": [
+    "europa--vizrajz--fekete-tenger",
+    "europa--vizrajz--balti-tenger",
+    "afrika--vizrajz--voros-tenger",
+    "afrika--vizrajz--guineai-obol"
+   ],
+   "note": "Az a) rész útmutató-sorai a szövegkivonatban egy sorral elcsúsztak; a sorrend (1. Fekete-tenger, 2. Balti-tenger, 3. Vörös-tenger, 4. Guineai-öböl) a b) rész útmutató-válaszaival egyértelműen összhangban van, de az útmutató 5. oldalán ellenőrizendő.",
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg a térképvázlaton számokkal jelölt vízrajzi elemeket!",
+     "points": 4,
+     "items": [
+      {
+       "n": "1",
+       "text": "… - tenger",
+       "answer": "Fekete-tenger"
+      },
+      {
+       "n": "2",
+       "text": "… - tenger",
+       "answer": "Balti-tenger / Keleti-tenger"
+      },
+      {
+       "n": "3",
+       "text": "… - tenger",
+       "answer": "Vörös-tenger"
+      },
+      {
+       "n": "4",
+       "text": "… - öböl",
+       "answer": "Guineai-öböl"
+      }
+     ],
+     "solution": "1. Fekete-tenger; 2. Balti-tenger / Keleti-tenger; 3. Vörös-tenger; 4. Guineai-öböl (1-1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "matching",
+     "prompt": "A következő állítások a térképvázlaton a számokkal jelölt földrajzi helyek vizére vonatkoznak. Írja az állítások elé azt a számot, amelyikhez az állítás kapcsolható!",
+     "points": 7,
+     "items": [
+      {
+       "n": "1",
+       "text": "Az innen származó víz sókoncentrációja a legnagyobb a számozott helyszínekről vett vízminták közül.",
+       "answer": "3"
+      },
+      {
+       "n": "2",
+       "text": "A négy helyszínről vett minta közül ennek a víznek a legmagasabb a fagyáspontja.",
+       "answer": "2"
+      },
+      {
+       "n": "3",
+       "text": "Beltengerhez kapcsolódó beltenger.",
+       "answer": "1"
+      },
+      {
+       "n": "4",
+       "text": "Kisebb sótartalmát az alacsonyabb léghőmérsékletnek és a kismértékű párolgásnak, valamint a beömlő bővizű folyóknak köszönheti.",
+       "answer": "2"
+      },
+      {
+       "n": "5",
+       "text": "Sótartalma az erős párolgás és a bőséges csapadék egyensúlya miatt a világtengerek átlagához közelít.",
+       "answer": "4"
+      },
+      {
+       "n": "6",
+       "text": "Partvidéke a kontinensének kőolajban egyik leggazdagabb lelőhelye.",
+       "answer": "4"
+      },
+      {
+       "n": "7",
+       "text": "Két ősmasszívum egymástól távolodó kőzetlemezei között kialakuló árokrendszerben helyezkedik el.",
+       "answer": "3"
+      }
+     ],
+     "solution": "1. 3; 2. 2; 3. 1; 4. 2; 5. 4; 6. 4; 7. 3. Minden helyes válasz 1 pont.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "title": "Szoláris és földrajzi övezetesség",
+   "instruction": "Az alábbi ábra a napsugarak hajlásszöge és az övezetesség kialakulása közötti összefüggést mutatja be. A nyilak a napsugarak hajlásszögét mutatják. Tanulmányozza az ábrát, és oldja meg a feladatokat!",
+   "context": "",
+   "pages": [
+    10,
+    11
+   ],
+   "guidePages": [
+    5
+   ],
+   "points": 13,
+   "needsFigure": true,
+   "figureNote": "A Föld vázlata június 22-én, nyilakkal jelölt napsugár-hajlásszögekkel és övezethatárokkal.",
+   "subtopics": [
+    "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek"
+   ],
+   "concepts": [
+    "szoláris és valódi éghajlati övezetek",
+    "földrajzi övezetesség",
+    "delelési magasság",
+    "forró övezet",
+    "mérsékelt övezet",
+    "hideg övezet"
+   ],
+   "places": [
+    "fold--foldrajzi-fokhalozat--bakterito"
+   ],
+   "parts": [
+    {
+     "label": "1",
+     "type": "short-answer",
+     "prompt": "Hogyan nevezzük a napsugarak hajlásszöge alapján meghatározható övezetességi rendszert?",
+     "points": 1,
+     "solution": "Szoláris éghajlati övezetesség.",
+     "autoCheck": false
+    },
+    {
+     "label": "2",
+     "type": "short-answer",
+     "prompt": "Értelmezze az ábrát! Fogalmazza meg, hogyan határolhatók el az egyes övezetek a Nap delelési magassága, illetve a nappalok és az éjszakák váltakozása alapján! Forró övezet: … Hideg övezet: … Mérsékelt övezet: …",
+     "points": 3,
+     "solution": "Forró övezet: évente legalább egyszer merőlegesen delel a Nap. (1 pont) Hideg övezet: évente legalább egyszer nem kel föl vagy nem nyugszik le a Nap. (1 pont) Mérsékelt övezet: mindig fölkel és lenyugszik a Nap, de sohasem delel merőlegesen. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "3",
+     "type": "short-answer",
+     "prompt": "Nevezze meg a forró és a déli mérsékelt övezet határát kijelölő szélességi kört!",
+     "points": 1,
+     "items": [
+      {
+       "n": "3",
+       "text": "A forró és a déli mérsékelt övezet határa",
+       "answer": "Baktérítő"
+      }
+     ],
+     "solution": "Baktérítő.",
+     "autoCheck": true
+    },
+    {
+     "label": "4",
+     "type": "short-answer",
+     "prompt": "Mely tényezők módosíthatják a napsugarak hajlásszöge alapján kijelölt övezetek határait? Nevezzen meg három módosító tényezőt!",
+     "points": 3,
+     "solution": "A szárazföld és a tenger szabálytalan elhelyezkedése / eltérő felmelegedése / domborzat / szélrendszerek / tengeráramlások / tengerszint feletti magasság. Megjegyzés: bármelyik három említése elfogadható. (1+1+1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "5",
+     "type": "short-answer",
+     "prompt": "Az éghajlat meghatározó jelentőségű számos egyéb természetföldrajzi tényező, természeti jellemző kialakításában. Soroljon fel négy ilyen tényezőt, amelyek az éghajlattól függenek!",
+     "points": 4,
+     "solution": "Természetes növényzet / állatvilág / talaj / felszínformáló külső erők (felszínformálódás) / vízjárás / természeti eredetű környezeti problémák / termesztett növények. (1+1+1+1 pont) Megjegyzés: bármelyik négy említése elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "6",
+     "type": "short-answer",
+     "prompt": "Az éghajlat hatására a természeti és egyes társadalmi-gazdasági tényezők is övezetesen rendeződnek. Hogyan nevezzük az övezetességnek ezt a rendszerét?",
+     "points": 1,
+     "solution": "Földrajzi övezetesség.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "title": "Gazdaságilag aktív és inaktív népesség",
+   "instruction": "Egészítse ki a táblázatot a megadott fogalmak felhasználásával! Írja a fogalom betűjelét a táblázatba a megfelelő helyre!",
+   "context": "",
+   "pages": [
+    12
+   ],
+   "guidePages": [
+    6
+   ],
+   "points": 5,
+   "needsFigure": false,
+   "subtopics": [
+    "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag"
+   ],
+   "concepts": [
+    "aktív kereső",
+    "eltartott",
+    "munkanélküli"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "table",
+     "prompt": "Egészítse ki a táblázatot a megadott fogalmak felhasználásával! Írja a fogalom betűjelét a táblázatba a megfelelő helyre! (Gazdaságilag aktív népesség | Gazdaságilag inaktív (nem aktív) népesség)",
+     "points": 5,
+     "items": [
+      {
+       "n": "A",
+       "text": "eltartottak",
+       "answer": "inaktív"
+      },
+      {
+       "n": "B",
+       "text": "általános iskolás tanulók",
+       "answer": "inaktív"
+      },
+      {
+       "n": "C",
+       "text": "foglalkoztatottak",
+       "answer": "aktív"
+      },
+      {
+       "n": "D",
+       "text": "munkanélküliek",
+       "answer": "aktív"
+      },
+      {
+       "n": "E",
+       "text": "van jövedelmük (pl. GYES, nyugdíj), de nem dolgoznak",
+       "answer": "inaktív"
+      }
+     ],
+     "solution": "Gazdaságilag aktív népesség: C, D. Gazdaságilag inaktív (nem aktív) népesség: A, B, E. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "title": "A foglalkozási szerkezet változása",
+   "instruction": "Tanulmányozza az ábrát, majd oldja meg a foglalkozási szerkezet változásával kapcsolatos feladatokat!",
+   "context": "(Forrás: http://www.tankonyvtar.hu/hu/tartalom/tamop425/0010_2A_09_Farago_Tamas_Bevezetes_a_torteneti_demografiaba/ch09s04.html)",
+   "pages": [
+    12,
+    13
+   ],
+   "guidePages": [
+    6
+   ],
+   "points": 11,
+   "needsFigure": true,
+   "figureNote": "Grafikon a foglalkoztatottak számának ágazatonkénti (A, B, C görbe) változásáról Magyarországon, valamint kördiagram a GDP ágazati megoszlásáról (2016).",
+   "subtopics": [
+    "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag",
+    "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi"
+   ],
+   "concepts": [
+    "foglalkoztatási szerkezet",
+    "foglalkozási átrétegződés",
+    "mezőgazdaság",
+    "ipar",
+    "szolgáltatások",
+    "gazdasági szerkezetváltás",
+    "munkanélküli",
+    "bruttó hazai termék (GDP)"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "1",
+     "type": "short-answer",
+     "prompt": "Határozza meg mi a foglalkoztatási szerkezet!",
+     "points": 2,
+     "solution": "A foglalkoztatási (foglalkozási) szerkezet azt mutatja meg, hogy az aktív keresők hogyan oszlanak meg a gazdasági ágazatok (szektorok) (mezőgazdaság, ipar, szolgáltatás) között. (1+1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "2",
+     "type": "diagram",
+     "prompt": "Nevezze meg, hogy mely gazdasági ágazatokat jelölik az ábra nagybetűkkel jelölt görbéi!",
+     "points": 3,
+     "items": [
+      {
+       "n": "A",
+       "text": "A.",
+       "answer": "mezőgazdaság"
+      },
+      {
+       "n": "B",
+       "text": "B.",
+       "answer": "ipar"
+      },
+      {
+       "n": "C",
+       "text": "C.",
+       "answer": "szolgáltatások"
+      }
+     ],
+     "solution": "A. mezőgazdaság; B. ipar; C. szolgáltatások (1-1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "3",
+     "type": "short-answer",
+     "prompt": "Fogalmazza meg a foglalkozási szerkezet 1960 és 1990 közötti átalakulásának két fő jellemzőjét a grafikon alapján!",
+     "points": 2,
+     "solution": "A mezőgazdaságban dolgozók száma (1960-tól) fokozatosan csökkent / Az iparban és / a szolgáltatásban dolgozók száma (az 1950-es évektől) gyorsan nőtt / A szolgáltatásban dolgozók száma az 1950-es évektől kevésbé nőtt, mint az iparban dolgozóké. (1+1 pont) Megjegyzés: bármelyik kettő említése elfogadható. Másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "4",
+     "type": "short-answer",
+     "prompt": "Miért csökkenhetett az 1990-es évek után valamennyi ágazatban a foglalkoztatottak létszáma?",
+     "points": 1,
+     "solution": "A rendszerváltozás után nőtt a munkanélküliség, mert sok munkahely megszűnt. / Nőtt a termelés hatékonysága, ezért kevesebb munkaerő kellett. Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "5",
+     "type": "diagram",
+     "prompt": "A kördiagram a GDP nemzetgazdasági ágazatonkénti megoszlását mutatja Magyarországon 2016-ban. Egészítse ki a jelkulcsot, nevezze meg az egyes színekkel, illetve számokkal jelölt ágazatokat!",
+     "points": 3,
+     "items": [
+      {
+       "n": "1",
+       "text": "1.",
+       "answer": "szolgáltatások"
+      },
+      {
+       "n": "2",
+       "text": "2.",
+       "answer": "mezőgazdaság"
+      },
+      {
+       "n": "3",
+       "text": "3.",
+       "answer": "ipar"
+      }
+     ],
+     "solution": "1. szolgáltatások; 2. mezőgazdaság; 3. ipar (1-1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "title": "Detroit népességváltozása",
+   "instruction": "Tanulmányozza Detroit népességszámának változását, majd válaszoljon a kérdésekre!",
+   "context": "",
+   "pages": [
+    14
+   ],
+   "guidePages": [
+    6
+   ],
+   "points": 7,
+   "needsFigure": true,
+   "figureNote": "Diagram Detroit népességszámának változásáról évtizedenként.",
+   "subtopics": [
+    "amerikai-egyesult-allamok",
+    "5-2-telepulestipusok-urbanizacio"
+   ],
+   "concepts": [
+    "válságágazat",
+    "gazdasági szerkezetváltás",
+    "népességmozgás (migráció)"
+   ],
+   "places": [
+    "amerika--varosok--detroit",
+    "amerika--vizrajz--nagy-tavak-erie-felso-huron-michigan-ontario-to"
+   ],
+   "parts": [
+    {
+     "label": "1",
+     "type": "short-answer",
+     "prompt": "Mely évtizedek közötti időszak nevezhető a város aranykorának a demográfiai folyamatok alapján? Miért?",
+     "points": 2,
+     "solution": "1920 – 1950 / 1930 – 1950 közötti időszak. (1 pont) Jelentősen nőtt a város népességszáma. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "2",
+     "type": "short-answer",
+     "prompt": "Mi volt a város gazdaságának alapja? Nevezze meg az iparágat!",
+     "points": 1,
+     "solution": "Nehézipar / kohászat / autógyártás",
+     "autoCheck": false
+    },
+    {
+     "label": "3",
+     "type": "short-answer",
+     "prompt": "Mi az összefüggés a város népességszámának alakulása és az USA gazdaságának területi-szerkezeti átrendeződése között? Melyik iparvidékhez tartozik a város?",
+     "points": 4,
+     "solution": "A hagyományos nehézipari körzet a gyártási technológiai átalakulás miatt válságba került → munkahelyek szűntek meg → jelentős volt az elvándorlás (1+1+1 pont). Megjegyzés: azonos logikán alapuló, de másképpen megfogalmazott válasz is elfogadható. Nagy-tavak iparvidék / Északi körzet. (1 pont)",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "title": "A kibővített Panama-csatorna",
+   "instruction": "Válaszoljon a kérdésekre a szemelvény elolvasása után!",
+   "context": "Átadták a kibővített Panama-csatornát, ezzel közel háromszorosára nő a vízi út kapacitása, napi 35-40 hajó is áthaladhat rajta. A csatorna jelenleg a világ tengerein közlekedő hajók 98 százalékát képes fogadni. Ázsiából a Mexikói-öbölbe a tengeri út átlag több mint két héttel rövidebb, mint az egyiptomi Szuezi-csatornán át. A mostani bővítés nyomán az eddigi 5 ezer helyett akár 14 ezer konténert szállító hajók is átkelhetnek a Panama-csatornán. A tavaly kétirányúvá vált Szuezi-csatornán is csökkent 6-8 órával az átkelési idő. A Panama-csatorna bővítése átalakítja a globális tengeri kereskedelmi hajózást. Ázsiából Amerikába három útvonal létezik: a) nyugat felé a Szuezi-csatornán át; b) kelet felé az USA nyugati partjára; c) kelet felé, és át a Panama-csatornán elérve a Mexikói-öböl és a keleti part kikötőit. Az átrendeződésre számítva New York, Houston, Miami több milliárd dolláros beruházással fejlesztette és bővítette a kikötőt. (A HVG 2016. 28. száma nyomán)",
+   "pages": [
+    15,
+    16
+   ],
+   "guidePages": [
+    7
+   ],
+   "points": 11,
+   "needsFigure": true,
+   "figureNote": "Világtérkép-vázlat a hajózási útvonalak berajzolásához.",
+   "subtopics": [
+    "6-3-a-globalizacio",
+    "9-6-1-amerika-altalanos-foldrajza"
+   ],
+   "concepts": [
+    "belvízi és tengerhajózás",
+    "globalizáció"
+   ],
+   "places": [
+    "amerika--vizrajz--panama-csatorna",
+    "afrika--vizrajz--szuezi-csatorna",
+    "amerika--vizrajz--mexikoi-obol",
+    "amerika--varosok--houston",
+    "amerika--varosok--miami",
+    "amerika--varosok--new-york",
+    "afrika--orszagok--egyiptom"
+   ],
+   "parts": [
+    {
+     "label": "1",
+     "type": "short-answer",
+     "prompt": "Miért lehet kedvelt hajózási útvonal a kibővített Panama-csatorna? Fogalmazzon meg két okot!",
+     "points": 2,
+     "solution": "Nagyobb teherhajók is használhatják, / több teherhajót tud fogadni, / majdnem minden hajó használhatja / rövidebb az út / több konténert szállító (nagyobb) konténerszállítók is használhatják / a rövidebb idő (út) miatti üzemanyag-megtakaírtás. (1+1 pont) Megjegyzés: bármelyik kettő említése elfogadható. Másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "2",
+     "type": "short-answer",
+     "prompt": "Melyik útvonalon várható nagy forgalomnövekedés? Miért? Melyik útvonal szerepe csökkenhet ezzel?",
+     "points": 3,
+     "solution": "Ázsiából a Mexikói-öbölbe irányuló útvonalon. / A c útvonalon. (1 pont) Két héttel rövidebb a tengeri út, mint a Szuezi-csatornán át. (1 pont) A Szuezi-csatornán át történő hajózásé. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "3",
+     "type": "map",
+     "prompt": "Rajzolja a térképvázlatba a szemelvényben szereplő, Ázsiából Amerikába irányuló három hajózási útvonalat! Írja az útvonal mellé a szövegben olvasható útvonal betűjelét!",
+     "points": 3,
+     "solution": "a) berajzolása (1 pont); b) berajzolása (1 pont); c) berajzolása (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "4",
+     "type": "short-answer",
+     "prompt": "A Mexikói-öböl mely kikötőjének nőhet meg a hajóforgalma a cikk alapján?",
+     "points": 1,
+     "items": [
+      {
+       "n": "4",
+       "text": "Kikötő a Mexikói-öbölben",
+       "answer": "Houston"
+      }
+     ],
+     "solution": "Houston",
+     "autoCheck": true
+    },
+    {
+     "label": "5",
+     "type": "short-answer",
+     "prompt": "Milyen gazdasági előnye származik a csatorna használatából a Szuezi- és a Panama-csatornát üzemeltető országoknak?",
+     "points": 1,
+     "solution": "Tranzitbevétel / üzemeltetési díj.",
+     "autoCheck": false
+    },
+    {
+     "label": "6",
+     "type": "short-answer",
+     "prompt": "Melyik ország tartja fenn a Szuezi-csatornát?",
+     "points": 1,
+     "items": [
+      {
+       "n": "6",
+       "text": "A Szuezi-csatornát fenntartó ország",
+       "answer": "Egyiptom"
+      }
+     ],
+     "solution": "Egyiptom",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "title": "Adóparadicsomok",
+   "instruction": "Az alábbi információk alapján válaszoljon a kérdésekre!",
+   "context": "Bahamák: Nincs személyi jövedelemadó, társasági adó és öröklési adó, a cégeknek évi 200 USD-t kell fizetniük. Belize: Nincs társasági adó. A cégalapítás díja 100 USD, 100 USD éves díj. Mauritius: Nincs társasági adó. A cégfenntartás éves díja 100 USD.",
+   "pages": [
+    16
+   ],
+   "guidePages": [
+    7
+   ],
+   "points": 2,
+   "needsFigure": false,
+   "subtopics": [
+    "6-4-a-monetaris-vilag",
+    "banankoztarsasagok-adoparadicsomok"
+   ],
+   "concepts": [
+    "adóparadicsom",
+    "offshore cég"
+   ],
+   "places": [
+    "amerika--tajak--bahama-szigetek"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "type": "short-answer",
+     "prompt": "Hogyan nevezik összefoglaló néven a szövegben szereplő területeket? Miért települ ide sok cég? Fogalmazza meg a fő okot!",
+     "points": 2,
+     "solution": "Adóparadicsomnak. (1 pont) Az ott bejegyzett (off-shore) cégek számára adókedvezményeket, esetenként adómentességet biztosítanak, így ezek a cégek törvényesen mentesülhetnek az adózás alól. (1 pont) Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 13,
+   "title": "Magyarország vízfolyásai és városai",
+   "instruction": "Tanulmányozza a térképvázlatot, és oldja meg a feladatokat!",
+   "context": "",
+   "pages": [
+    16,
+    17
+   ],
+   "guidePages": [
+    7,
+    8
+   ],
+   "points": 24,
+   "needsFigure": true,
+   "figureNote": "Magyarország (és a Kárpát-medence) térképvázlata kisbetűkkel jelölt vízfolyásokkal és számokkal jelölt városokkal.",
+   "subtopics": [
+    "7-2-magyarorszag-termeszeti-adottsagai",
+    "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi",
+    "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe"
+   ],
+   "concepts": [
+    "fő- és mellékfolyó"
+   ],
+   "places": [
+    "magyarorszag--vizrajz--sio",
+    "magyarorszag--vizrajz--hernad",
+    "magyarorszag--vizrajz--maros",
+    "europa--vizrajz--vag",
+    "magyarorszag--vizrajz--zagyva",
+    "magyarorszag--telepulesek--kaposvar",
+    "magyarorszag--telepulesek--sopron",
+    "magyarorszag--telepulesek--zalaegerszeg",
+    "magyarorszag--telepulesek--szeged",
+    "magyarorszag--telepulesek--debrecen",
+    "magyarorszag--telepulesek--kecskemet",
+    "magyarorszag--telepulesek--tatabanya",
+    "magyarorszag--telepulesek--eger",
+    "magyarorszag--telepulesek--miskolc"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg a térképvázlatban kisbetűvel jelölt vízfolyásokat!",
+     "points": 5,
+     "items": [
+      {
+       "n": "a",
+       "text": "a.",
+       "answer": "Sió"
+      },
+      {
+       "n": "b",
+       "text": "b.",
+       "answer": "Hernád"
+      },
+      {
+       "n": "c",
+       "text": "c.",
+       "answer": "Maros"
+      },
+      {
+       "n": "d",
+       "text": "d.",
+       "answer": "Vág"
+      },
+      {
+       "n": "e",
+       "text": "e.",
+       "answer": "Zagyva"
+      }
+     ],
+     "solution": "a. Sió; b. Hernád; c. Maros; d. Vág; e. Zagyva. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "map",
+     "prompt": "Karikázza be annak a folyónak a betűjelét, amelyik a Duna bal oldali mellékfolyója!",
+     "points": 1,
+     "items": [
+      {
+       "n": "b",
+       "text": "A Duna bal oldali mellékfolyójának betűjele",
+       "answer": "d"
+      }
+     ],
+     "solution": "Bekarikázva: d. Megjegyzés: A bekarikázás az a) pontban vagy a térképvázlaton is elfogadható.",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "table",
+     "prompt": "A térképvázlatban jelölt városok közül melyikre vonatkoznak az alábbi megállapítások? Írja a megfelelő várost jelölő számot és a város nevét a vonalra!",
+     "points": 18,
+     "items": [
+      {
+       "n": "1",
+       "text": "Ebben a városban működik az ország egyetlen cukorgyára.",
+       "answer": "6. Kaposvár"
+      },
+      {
+       "n": "2",
+       "text": "A „hűség városának” is nevezik.",
+       "answer": "1. Sopron"
+      },
+      {
+       "n": "3",
+       "text": "Nyugat-dunántúli megyeszékhely, nevét a várost érintő folyóról kapta.",
+       "answer": "16. Zalaegerszeg"
+      },
+      {
+       "n": "4",
+       "text": "A Dél-Alföld régió központja.",
+       "answer": "13. Szeged"
+      },
+      {
+       "n": "5",
+       "text": "Egyetemi város, a református vallás jelentős hazai központja.",
+       "answer": "10. Debrecen"
+      },
+      {
+       "n": "6",
+       "text": "Ez az alföldi város mezőgazdasági, élelmiszeripari központként vált ismertté, de napjainkra a gépkocsigyártás vált a meghatározó gazdasági ágává.",
+       "answer": "11. Kecskemét"
+      },
+      {
+       "n": "7",
+       "text": "A Vértes és a Gerecse találkozásánál fekvő város fejlődését az egykori bányászat alapozta meg.",
+       "answer": "2. Tatabánya"
+      },
+      {
+       "n": "8",
+       "text": "A szőlő és a bor városa, de fontos történelmi emlékhely is.",
+       "answer": "8. Eger"
+      },
+      {
+       "n": "9",
+       "text": "A város idegenforgalmi látványosságai közé tartozik a szépen felújított diósgyőri vár és a barlangfürdő.",
+       "answer": "14. Miskolc"
+      }
+     ],
+     "solution": "1. 6. Kaposvár; 2. 1. Sopron; 3. 16. Zalaegerszeg; 4. 13. Szeged; 5. 10. Debrecen; 6. 11. Kecskemét; 7. 2. Tatabánya; 8. 8. Eger; 9. 14. Miskolc (soronként 1+1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "title": "A Duna–Majna–Rajna vízi út és városai",
+   "instruction": "Tanulmányozza a térképvázlatot, és oldja meg a hozzá kapcsolódó feladatokat!",
+   "context": "",
+   "pages": [
+    18,
+    19
+   ],
+   "guidePages": [
+    8,
+    9
+   ],
+   "points": 25,
+   "needsFigure": true,
+   "figureNote": "Európa térképvázlata kisbetűkkel jelölt vízrajzi elemekkel és számokkal (1–6) jelölt városokkal.",
+   "subtopics": [
+    "8-1-europa-altalanos-termeszetfoldrajzi-kepe",
+    "8-3-az-europai-unio",
+    "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe"
+   ],
+   "concepts": [
+    "belvízi és tengerhajózás",
+    "Európai Unió",
+    "pénzügyi (monetáris) unió",
+    "Kőolaj-exportáló Országok Szervezete (OPEC)"
+   ],
+   "places": [
+    "europa--vizrajz--eszaki-tenger",
+    "europa--vizrajz--rajna",
+    "europa--vizrajz--duna",
+    "europa--vizrajz--rh-ne",
+    "europa--vizrajz--adriai-tenger",
+    "europa--vizrajz--duna-majna-rajna-vizi-ut",
+    "europa--varosok--rotterdam",
+    "europa--varosok--belgrad",
+    "europa--varosok--becs",
+    "europa--varosok--koln",
+    "europa--varosok--pozsony",
+    "europa--varosok--parizs",
+    "europa--varosok--amszterdam",
+    "europa--varosok--velence",
+    "europa--varosok--praga",
+    "europa--varosok--london"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg a kisbetűkkel jelölt vízrajzi fogalmakat!",
+     "points": 5,
+     "items": [
+      {
+       "n": "a",
+       "text": "a.",
+       "answer": "Északi-tenger"
+      },
+      {
+       "n": "b",
+       "text": "b.",
+       "answer": "Rajna"
+      },
+      {
+       "n": "c",
+       "text": "c.",
+       "answer": "Duna"
+      },
+      {
+       "n": "d",
+       "text": "d.",
+       "answer": "Rhône"
+      },
+      {
+       "n": "e",
+       "text": "e.",
+       "answer": "Adriai-tenger"
+      }
+     ],
+     "solution": "a: Északi-tenger; b: Rajna; c: Duna; d: Rhône; e: Adriai-tenger. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Melyik vízi útnak a részei a b és c betűvel jelölt folyók?",
+     "points": 1,
+     "items": [
+      {
+       "n": "b",
+       "text": "Vízi út",
+       "answer": "Duna–Majna–Rajna vízi út"
+      }
+     ],
+     "solution": "A Duna–Majna–Rajna vízi úté.",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "short-answer",
+     "prompt": "Melyik nagy kikötőváros fekszik a b jelű folyó torkolatában?",
+     "points": 1,
+     "items": [
+      {
+       "n": "c",
+       "text": "Kikötőváros",
+       "answer": "Rotterdam"
+      }
+     ],
+     "solution": "Rotterdam.",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Mi a gazdasági haszna a b és c betűvel jelölt folyókon át vezető vízi útnak? Fogalmazzon meg két előnyt!",
+     "points": 2,
+     "solution": "Lehetővé teszi a vízi közlekedést két tenger között, / szárazföld belsejében lévő országok számára is tengeri kapcsolatot jelent / olcsó összeköttetés az országok között. (1+1 pont) Megjegyzés: bármelyik kettő említése elfogadható. Másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "e",
+     "type": "short-answer",
+     "prompt": "A térképvázlaton szereplő vízi út mellett található, de a térképvázlaton egy kivételével nem bejelölt városok közül melyekre vonatkoznak a következő megállapítások? Nevezze meg a városokat!",
+     "points": 4,
+     "items": [
+      {
+       "n": "1",
+       "text": "A vízi út partján fekvő főváros, országa nem tagja az Európai Uniónak.",
+       "answer": "Belgrád"
+      },
+      {
+       "n": "2",
+       "text": "Több nemzetközi szervezet, például: az OPEC székhelye is ebben a fővárosban van.",
+       "answer": "Bécs"
+      },
+      {
+       "n": "3",
+       "text": "Különleges szépségű dómja mellett vegyiparáról (Bayer Művek) és autógyártásáról (Ford) híres.",
+       "answer": "Köln"
+      },
+      {
+       "n": "4",
+       "text": "Főváros, melynek jelentős kőolajfinomítója és autógyára (Volkswagen) is van.",
+       "answer": "Pozsony"
+      }
+     ],
+     "solution": "1. Belgrád; 2. Bécs; 3. Köln; 4. Pozsony. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    },
+    {
+     "label": "f",
+     "type": "map",
+     "prompt": "Nevezze meg a térképen az alábbi számokkal jelölt városokat! Döntse el, hogy az ország, amelyben a város fekszik tagja-e az euróövezetnek! Írjon I betűt, ha igen, és N betűt, ha nem tagja!",
+     "points": 12,
+     "items": [
+      {
+       "n": "1",
+       "text": "1. város; tagja-e az ország az euróövezetnek?",
+       "answer": "Párizs; I"
+      },
+      {
+       "n": "2",
+       "text": "2. város; tagja-e az ország az euróövezetnek?",
+       "answer": "Amszterdam; I"
+      },
+      {
+       "n": "3",
+       "text": "3. város; tagja-e az ország az euróövezetnek?",
+       "answer": "Velence; I"
+      },
+      {
+       "n": "4",
+       "text": "4. város; tagja-e az ország az euróövezetnek?",
+       "answer": "Prága; N"
+      },
+      {
+       "n": "5",
+       "text": "5. város; tagja-e az ország az euróövezetnek?",
+       "answer": "Bécs; I"
+      },
+      {
+       "n": "6",
+       "text": "6. város; tagja-e az ország az euróövezetnek?",
+       "answer": "London; N"
+      }
+     ],
+     "solution": "1. Párizs – I; 2. Amszterdam – I; 3. Velence – I; 4. Prága – N; 5. Bécs – I; 6. London – N (soronként 1+1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "title": "Észak-Amerika országai, folyói és városai",
+   "instruction": "Tanulmányozza a térképvázlatot, majd oldja meg a hozzá kapcsolódó feladatokat!",
+   "context": "",
+   "pages": [
+    20,
+    21
+   ],
+   "guidePages": [
+    9
+   ],
+   "points": 27,
+   "needsFigure": true,
+   "figureNote": "Észak-Amerika térképvázlata római számokkal jelölt országokkal, kisbetűkkel jelölt folyókkal, tóval és számokkal (1–9) jelölt városokkal.",
+   "subtopics": [
+    "amerikai-egyesult-allamok",
+    "kanada",
+    "mexiko"
+   ],
+   "concepts": [
+    "világváros (globális város)",
+    "technopolisz"
+   ],
+   "places": [
+    "amerika--orszagok--kanada",
+    "amerika--varosok--ottawa",
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "amerika--varosok--washington",
+    "amerika--orszagok--mexiko",
+    "amerika--varosok--mexikovaros",
+    "amerika--vizrajz--colorado",
+    "amerika--vizrajz--mississippi",
+    "amerika--vizrajz--szent-lorinc-folyo",
+    "amerika--vizrajz--nagy-tavak-erie-felso-huron-michigan-ontario-to",
+    "amerika--varosok--miami",
+    "amerika--varosok--san-francisco",
+    "amerika--varosok--los-angeles",
+    "amerika--varosok--houston",
+    "amerika--varosok--new-orleans",
+    "amerika--varosok--atlanta",
+    "amerika--varosok--chicago",
+    "amerika--varosok--new-york",
+    "amerika--tajak--szilicium-volgy"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg a római számmal jelölt országokat és fővárosukat! Mi a közös gazdasági, társadalmi, politikai jellemzője az I. és a II. számmal jelölt ország fővárosának?",
+     "points": 7,
+     "items": [
+      {
+       "n": "I.",
+       "text": "I. ország, főváros",
+       "answer": "Kanada, Ottawa"
+      },
+      {
+       "n": "II.",
+       "text": "II. ország, főváros",
+       "answer": "USA/Amerikai Egyesült Államok, Washington"
+      },
+      {
+       "n": "III.",
+       "text": "III. ország, főváros",
+       "answer": "Mexikó, Mexikóváros"
+      }
+     ],
+     "solution": "I. Kanada – Ottawa; II. USA/Amerikai Egyesült Államok – Washington; III. Mexikó – Mexikóváros. Minden helyes válasz 1 pont. (6 pont) Nem a főváros az ország gazdasági központja / nem a gazdasági, csak politikai szerepe jelentős / nem a főváros a legnépesebb város. (1 pont) Megjegyzés: Másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "map",
+     "prompt": "Nevezze meg a kisbetűkkel jelölt folyókat illetve tavat!",
+     "points": 4,
+     "items": [
+      {
+       "n": "a",
+       "text": "a.",
+       "answer": "Colorado"
+      },
+      {
+       "n": "b",
+       "text": "b.",
+       "answer": "Mississippi"
+      },
+      {
+       "n": "c",
+       "text": "c.",
+       "answer": "Szent Lőrinc-folyó"
+      },
+      {
+       "n": "d",
+       "text": "d.",
+       "answer": "Felső-tó"
+      }
+     ],
+     "solution": "a. Colorado; b. Mississippi; c. Szent Lőrinc-folyó; d. Felső-tó (1-1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "table",
+     "prompt": "Nevezze meg a számokkal jelölt városokat! Írja a városok neve után a rájuk jellemző gazdasági tevékenység betűjelét! Nem tud minden városhoz tevékenységet kapcsolni. A lehetséges válaszok számánál több beírása pontlevonással jár. Válaszoljon a várost jelölő szám beírásával! − Közelében jött létre a Szilícium-völgy: … − Az ENSZ székhelye: …",
+     "points": 16,
+     "options": [
+      "a) filmipar",
+      "b) repülőgépgyártás",
+      "c) nemzetközi pénzügyi, tőzsdei szolgáltatások",
+      "d) vegyipar",
+      "e) űrkutatás"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "1. város (tevékenység)",
+       "answer": "Miami"
+      },
+      {
+       "n": "2",
+       "text": "2. város (tevékenység)",
+       "answer": "San Francisco"
+      },
+      {
+       "n": "3",
+       "text": "3. város (tevékenység)",
+       "answer": "Los Angeles – a)"
+      },
+      {
+       "n": "4",
+       "text": "4. város (tevékenység)",
+       "answer": "Houston – e)"
+      },
+      {
+       "n": "5",
+       "text": "5. város (tevékenység)",
+       "answer": "New Orleans – d)"
+      },
+      {
+       "n": "6",
+       "text": "6. város (tevékenység)",
+       "answer": "Atlanta – b)"
+      },
+      {
+       "n": "7",
+       "text": "7. város (tevékenység)",
+       "answer": "Washington"
+      },
+      {
+       "n": "8",
+       "text": "8. város (tevékenység)",
+       "answer": "Chicago"
+      },
+      {
+       "n": "9",
+       "text": "9. város (tevékenység)",
+       "answer": "New York – c)"
+      },
+      {
+       "n": "Sz",
+       "text": "Közelében jött létre a Szilícium-völgy",
+       "answer": "2."
+      },
+      {
+       "n": "ENSZ",
+       "text": "Az ENSZ székhelye",
+       "answer": "9."
+      }
+     ],
+     "solution": "1. Miami; 2. San Francisco; 3. Los Angeles – a); 4. Houston – e); 5. New Orleans – d); 6. Atlanta – b); 7. Washington; 8. Chicago; 9. New York – c). Minden jó helyre beírt városnév és betűjel 1-1 pont. Megjegyzés: A lehetséges válaszok számánál több beírása pontlevonással jár, de 0-nál kevesebb pont nem adható. (14 pont) Szilícium-völgy: 2. (1 pont); ENSZ székhelye: 9. (1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "title": "Vízhiány La Pazban",
+   "instruction": "Olvassa el a szemelvényt, majd válaszoljon a kérdésekre!",
+   "context": "Az emberiség fele szomjazni fog. La Paz 3600 méter magasan fekszik az Andok bolíviai részén, ez a világ legmagasabban elhelyezkedő adminisztratív székhelye. A gleccserek, amelyek egykor vízzel látták el a több milliós várost, visszahúzódtak, a legnagyobb teljesen el is olvadt. A novembertől februárig szokásos esőzések kiszámíthatatlanok lettek, pedig ezek töltenék meg a víztározókat egész évre. A kormány november elején vészhelyzetet hirdetett: a hatóságok egy éjjel 94 helyen egyszerűen elzárták a vizet, ezzel nagyjából 800 ezren maradtak teljesen víz nélkül. ... La Paz elsőként lépett abba a korba, ahol a víz a legértékesebb kincs, és ahol a vízhasználatot szigorúan ellenőrzik. A városban vannak olyan kerületek, ahol már hónapok óta csak minden harmadik napon van víz, akkor is csak néhány óráig. A lakók ilyenkor mindent megpróbálnak teletölteni: kádat, hordót, vödröket, lábasokat, még a szemeteskukákat is. Kénytelenek ezt tenni, hiszen három napig ebből tudnak főzni, mosni, fürödni. (Forrás: http://index.hu/tudomany/2017/03/04/teszt_az_emberiseg_fele_szomjazni_fog cikk nyomán)",
+   "pages": [
+    22
+   ],
+   "guidePages": [
+    10
+   ],
+   "points": 5,
+   "needsFigure": false,
+   "subtopics": [
+    "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei",
+    "latin-amerika",
+    "3-3-4-a-vizburok-mint-gazdasagi-eroforras"
+   ],
+   "concepts": [
+    "passzátszelek",
+    "átmeneti öv",
+    "éghajlatváltozás (klímaváltozás)",
+    "gleccser",
+    "ivóvíz"
+   ],
+   "places": [
+    "amerika--tajak--andok",
+    "amerika--orszagok--bolivia"
+   ],
+   "parts": [
+    {
+     "label": "1",
+     "type": "short-answer",
+     "prompt": "Mivel magyarázható a novembertől februárig tartó csapadékos időszak kialakulása?",
+     "points": 1,
+     "solution": "Ebben az időszakban kerül a passzát szélrendszer felszálló ágának hatása alá a terület.",
+     "autoCheck": false
+    },
+    {
+     "label": "2",
+     "type": "short-answer",
+     "prompt": "Melyik éghajlati övben helyezkedik el a nagyváros?",
+     "points": 1,
+     "items": [
+      {
+       "n": "2",
+       "text": "Éghajlati öv",
+       "answer": "átmeneti öv"
+      }
+     ],
+     "solution": "Az átmeneti övben.",
+     "autoCheck": true
+    },
+    {
+     "label": "3",
+     "type": "short-answer",
+     "prompt": "Igazolja a cikk alapján, hogy kiszámíthatatlanná vált a csapadékos időszak csapadékmennyisége is!",
+     "points": 1,
+     "solution": "Novemberben (a csapadékos évszakban) rendelték el a vízkorlátozást.",
+     "autoCheck": false
+    },
+    {
+     "label": "4",
+     "type": "short-answer",
+     "prompt": "Hogyan lehetne mérsékelni a csökkenő vízmennyiség okozta problémát? Fogalmazzon meg egy javaslatot!",
+     "points": 1,
+     "solution": "Víztakarékos módszerek alkalmazása / a lehulló csapadék felfogása és hasznosítása (pl. olyan folyamatokhoz, amihez nem ivóvíz tisztaságú vízre van szükség) / a víz újrahasznosítása. Megjegyzés: bármelyik említése elfogadható. Másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "5",
+     "type": "short-answer",
+     "prompt": "Mi lehet a társadalmi következménye a szemelvényben olvasható problémának?",
+     "points": 1,
+     "solution": "Elvándorlás / migráció / a közigazgatási funkció áthelyezése / a város hanyatlása / betegségek, járványok kialakulása. Megjegyzés: bármelyik említése elfogadható. Másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 17,
+   "title": "Klímaváltozás és síturizmus a Pireneusokban",
+   "instruction": "A táblázat a Pireneusokban található síközpont várható hómennyiségének változását tartalmazza a hőmérsékletváltozás függvényében. Tanulmányozza a táblázatot, és oldja meg a feladatokat!",
+   "context": "A hó mennyiségének változása hőmérsékletemelkedés esetén (Forrás: Modeling climate change effects on winter ski tourism in Andorra). Síterepek: Pal Arinsal, Grand Valira. Oszlopok: Magasság (m); +2 °C-os hőmérséklet-emelkedés esetén: természetes hó, hóágyú használata esetén; +4 °C-os hőmérséklet-emelkedés esetén: természetes hó, hóágyú használata esetén. Sorok: 1900 m: -30%, -25%, -95%, -95%; 2300 m: 0%, 0%, -3%, 0%; 2150 m: 0%, 0%, -17%, -14%; 2450 m: 0%, 0%, 0%, 0%.",
+   "pages": [
+    23
+   ],
+   "guidePages": [
+    10
+   ],
+   "points": 6,
+   "needsFigure": true,
+   "figureNote": "Táblázat két andorrai síterep (Pal Arinsal, Grand Valira) magasságonkénti hómennyiség-változásáról +2 és +4 °C-os felmelegedés esetén; a sorok síterephez rendelése a szövegkivonatból nem látszik.",
+   "subtopics": [
+    "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei",
+    "4-7-a-fuggoleges-foldrajzi-ovezetesseg",
+    "8-4-3-del-europa-orszagai"
+   ],
+   "concepts": [
+    "éghajlatváltozás (klímaváltozás)",
+    "globális felmelegedés",
+    "hóhatár"
+   ],
+   "places": [
+    "europa--tajak--pireneusok"
+   ],
+   "parts": [
+    {
+     "label": "1",
+     "type": "multiple-choice",
+     "prompt": "Melyik az a magasság, ami alatt már biztosan veszélyezteti a sítúrizmust a felmelegedés? Karikázza be a helyes válasz betűjelét!",
+     "points": 1,
+     "options": [
+      "A) 2450 m",
+      "B) 2300 m",
+      "C) 1900 m",
+      "D) 2151 m"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "A helyes válasz betűjele",
+       "answer": "C"
+      }
+     ],
+     "solution": "Bekarikázva: C",
+     "autoCheck": true
+    },
+    {
+     "label": "2",
+     "type": "short-answer",
+     "prompt": "A változások ismeretében melyik síterepen tervezne hosszú távú fejlesztést? Indokolja választását! Síterep: … Indoklás: …",
+     "points": 2,
+     "solution": "Síterep: Grand Valira (1 pont). Indoklás: mert a hőmérséklet emelkedése nem érinti a magasan fekvő pályákat, illetve az alacsonyabban fekvő pályák is használhatók maradnak. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "3",
+     "type": "short-answer",
+     "prompt": "Melyik síterepen és milyen magasság felett lehet mesterséges eszközökkel teljes mértékben ellensúlyozni a felmelegedés okozta problémát? Síterep: … Magasság: …",
+     "points": 1,
+     "solution": "Síterep: Pal Arinsal 2300 m felett",
+     "autoCheck": false
+    },
+    {
+     "label": "4",
+     "type": "short-answer",
+     "prompt": "Hogyan mérsékelhető a klímaváltozás okozta kedvezőtlen változás a pireneusi síterepeken? Fogalmazzon meg két javaslatot!",
+     "points": 2,
+     "solution": "Több hóágyú / mesterséges hópótlás / magasabbra kell telepíteni a síterepet / egyéb turisztikai ágazatok fejlesztése pl. túrázás, hegymászás. (1+1 pont) Megjegyzés: bármelyik kettő említése elfogadható. Másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  }
+ ]
+}

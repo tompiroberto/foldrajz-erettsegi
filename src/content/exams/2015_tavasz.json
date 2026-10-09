@@ -1,0 +1,1890 @@
+{
+ "id": "2015-tavasz",
+ "year": 2015,
+ "season": "tavasz",
+ "date": "2015. május 14.",
+ "label": "Érettségi 2015. május",
+ "files": {
+  "feladatlap": "foldrajz_emelt_2015_tavasz_feladatlap.pdf",
+  "utmutato": "foldrajz_emelt_2015_tavasz_utmutato.pdf"
+ },
+ "sourceUrl": "https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok/emelt_szint_2015tavasz/emelt_9nap",
+ "totalPoints": 200,
+ "generated": true,
+ "reviewed": false,
+ "tasks": [
+  {
+   "no": 1,
+   "title": "A Nap delelése nevezetes napokon",
+   "instruction": "Az ábrák az északi félgömb ugyanazon pontjáról készültek olyan időpontban, amikor a Nap éppen valamelyik nevezetes szélességi körön delel a horizont felett 90°-ban.",
+   "context": "",
+   "pages": [
+    3
+   ],
+   "guidePages": [
+    3
+   ],
+   "points": 8,
+   "needsFigure": true,
+   "figureNote": "Három ábra (a, b, c) a Nap látszólagos napi útjáról ugyanazon északi félgömbi megfigyelési helyről; az a) ábrán üres égtáj-négyszögek.",
+   "subtopics": [
+    "2-3-a-fold-es-mozgasai"
+   ],
+   "concepts": [
+    "nyári és téli napforduló",
+    "tavaszi és őszi nap-éj egyenlőség",
+    "delelési magasság",
+    "zenit",
+    "csillagászati évszakok (tavasz, nyár, ősz, tél)"
+   ],
+   "places": [
+    "fold--foldrajzi-fokhalozat--egyenlito",
+    "fold--foldrajzi-fokhalozat--bakterito"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "diagram",
+     "prompt": "Írja az a) jelű ábra négyszögeibe az égtájak kezdőbetűjét úgy, ahogy azok helyzete az északi félgömbre jellemző!",
+     "points": 1,
+     "solution": "Az égtájak helyes beírása az a) ábrába (1 pont). Lásd az útmutató 3. oldalát.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "matching",
+     "prompt": "Válaszoljon a megfelelő ábra betűjelének a beírásával!",
+     "points": 6,
+     "items": [
+      {
+       "n": "1",
+       "text": "A csillagászati nyár kezdetére jellemző.",
+       "answer": "a"
+      },
+      {
+       "n": "2",
+       "text": "A Nap ekkor delel az Egyenlítő felett a felszínre merőlegesen.",
+       "answer": "b"
+      },
+      {
+       "n": "3",
+       "text": "Az év folyamán ez a legrövidebb nappal.",
+       "answer": "c"
+      },
+      {
+       "n": "4",
+       "text": "Június 22-én fordulhat elő ez a helyzet.",
+       "answer": "a"
+      },
+      {
+       "n": "5",
+       "text": "Egy évben kétszer fordulhat elő ez a helyzet.",
+       "answer": "b"
+      },
+      {
+       "n": "6",
+       "text": "A Nap ilyenkor a Baktérítő felett delel a felszínre merőlegesen.",
+       "answer": "c"
+      }
+     ],
+     "solution": "A csillagászati nyár kezdetére jellemző: a; A Nap ekkor delel az Egyenlítő felett merőlegesen: b; Az év folyamán ez a legrövidebb nappal: c; Június 22-én fordulhat elő ez a helyzet: a; Egy évben kétszer fordulhat elő ez a helyzet: b; A Nap ilyenkor a Baktérítő felett delel merőlegesen: c. Minden helyes válasz 1 pont.",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "multiple-choice",
+     "prompt": "Húzza alá, hol található az ábrán látható helyszín!",
+     "points": 1,
+     "options": [
+      "az é.sz. 20°-án",
+      "az é.sz. 40°án",
+      "az é.sz. 80°án"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "Az ábrán látható helyszín",
+       "answer": "az é.sz. 40°án"
+      }
+     ],
+     "solution": "Aláhúzva: é.sz. 40°",
+     "autoCheck": false
+    }
+   ],
+   "note": "Az a) rész megoldása az ábrába rajzolt égtájak (útmutató 3. oldala). A b) rész útmutató-táblázatában a betűjelek egy sorral elcsúsztak; a párosítás (a–b–c–a–b–c) az egymáshoz tartozó állítások egyezése alapján egyértelmű, de a PDF-ben ellenőrizendő. A c) rész választási lehetőségeinek sorrendje a szövegkivonatból nem biztos."
+  },
+  {
+   "no": 2,
+   "title": "Delelési magasság számítása",
+   "instruction": "Hány fokos szögben látják delelni a Napot a látóhatár felett az é.sz. 15°; ny.h. 60°-án található megfigyelő állomás tudósai az alábbi dátumokon?",
+   "context": "",
+   "pages": [
+    4
+   ],
+   "guidePages": [
+    3
+   ],
+   "points": 9,
+   "needsFigure": false,
+   "subtopics": [
+    "2-3-a-fold-es-mozgasai"
+   ],
+   "concepts": [
+    "delelési magasság",
+    "nyári és téli napforduló",
+    "tavaszi és őszi nap-éj egyenlőség",
+    "tengelyferdeség"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "calculation",
+     "prompt": "Hány fokos szögben látják delelni a Napot a látóhatár felett az é.sz. 15°; ny.h. 60°-án található megfigyelő állomás tudósai az alábbi dátumokon? A számítást itt végezze! Melyik égtáj irányában látják delelni a Napot a horizont felett a nyári és a téli napforduló idején? Írja az égtáj betűjelét a vonalra!",
+     "points": 9,
+     "items": [
+      {
+       "n": "1",
+       "text": "március 21.",
+       "answer": "75°"
+      },
+      {
+       "n": "2",
+       "text": "június 22.",
+       "answer": "81,5°"
+      },
+      {
+       "n": "3",
+       "text": "szeptember 23.",
+       "answer": "75°"
+      },
+      {
+       "n": "4",
+       "text": "december 22.",
+       "answer": "51,5°"
+      },
+      {
+       "n": "5",
+       "text": "A nyári napforduló idején:",
+       "answer": "É"
+      },
+      {
+       "n": "6",
+       "text": "A téli napforduló idején:",
+       "answer": "D"
+      }
+     ],
+     "solution": "Számítás elve: 90° – φ = 90° – 15° = 75° (1 pont); Március 21. 75° (1 pont); Szeptember 23. 75° (1 pont). Számítás elve: (90° + φ − 23,5°) = 90° − 8,5° = 81,5° (1 pont); Június 22. 81,5° (1 pont). Számítás elve: (90° − φ) − 23,5° = 90° − 15° − 23,5° = 51,5° (1 pont); December 22. 51,5° (1 pont). A nyári napforduló idején: É (1 pont); A téli napforduló idején: D (1 pont). Megjegyzés: más elven megkapott helyes eredmény is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "title": "Térképészeti fogalmak",
+   "instruction": "Mely fogalmakat ismeri fel a meghatározások alapján? Írja a megfelelő fogalmat a meghatározás után!",
+   "context": "",
+   "pages": [
+    4,
+    5
+   ],
+   "guidePages": [
+    4
+   ],
+   "points": 8,
+   "needsFigure": false,
+   "subtopics": [
+    "1-1-a-terkep",
+    "1-2-tajekozodas-a-terkepen-es-a-terkeppel",
+    "1-3-taverzekeles-es-terinformatika"
+   ],
+   "concepts": [
+    "vonalas aránymérték",
+    "tengerszint feletti magasság",
+    "abszolút és relatív magasság",
+    "hosszúsági kör",
+    "távérzékelés",
+    "Greenwich"
+   ],
+   "places": [
+    "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "type": "short-answer",
+     "prompt": "Mely fogalmakat ismeri fel a meghatározások alapján? Írja a megfelelő fogalmat a meghatározás után!",
+     "points": 8,
+     "items": [
+      {
+       "n": "1",
+       "text": "A kicsinyítés mértékének rajzban történő megjelenítése.",
+       "answer": "Vonalas aránymérték / vonalas mérték"
+      },
+      {
+       "n": "2",
+       "text": "A tenger középszintjétől számított magasság.",
+       "answer": "Abszolút magasság / tengerszint feletti magasság"
+      },
+      {
+       "n": "3",
+       "text": "Keleti és nyugati félgömbre osztja a Földet.",
+       "answer": "Kezdő hosszúsági kör / kezdő délkör / kezdő meridián"
+      },
+      {
+       "n": "4",
+       "text": "Az azonos tengerszint feletti magasságban levő pontokat összekötő, önmagába visszatérő görbe vonal.",
+       "answer": "Szintvonal"
+      },
+      {
+       "n": "5",
+       "text": "A kis területeket nagy részletességgel ábrázoló térkép ilyen.",
+       "answer": "Nagy méretarányú térkép"
+      },
+      {
+       "n": "6",
+       "text": "A földfelszín által kibocsátott, illetve visszavert elektromágneses sugarak alapján történő adatgyűjtés és feldolgozás.",
+       "answer": "Távérzékelés"
+      },
+      {
+       "n": "7",
+       "text": "Az a művelet, melynek során a térképi északi irányt egyeztetjük a valós északi iránnyal.",
+       "answer": "(Térkép)tájolás"
+      },
+      {
+       "n": "8",
+       "text": "A hegycsúcsnak a hegy lábához viszonyított magasságát fejezi ki.",
+       "answer": "Relatív magasság"
+      }
+     ],
+     "solution": "1. Vonalas aránymérték / vonalas mérték; 2. Abszolút magasság / tengerszint feletti magasság; 3. Kezdő hosszúsági kör / kezdő délkör / kezdő meridián; 4. Szintvonal; 5. Nagy méretarányú térkép; 6. Távérzékelés; 7. (Térkép)tájolás; 8. Relatív magasság (1-1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "title": "Kőzetlemezek az Atlanti- és Csendes-óceán térségében",
+   "instruction": "Oldja meg a térkép és az ábrák alapján a feladatokat!",
+   "context": "",
+   "pages": [
+    5,
+    6
+   ],
+   "guidePages": [
+    4
+   ],
+   "points": 16,
+   "needsFigure": true,
+   "figureNote": "Térképvázlat A–E betűvel jelölt kőzetlemezekkel, lemezmozgást modellező számozott ábrák, valamint táblázat a kéregtípusok összetételéről és sűrűségéről.",
+   "subtopics": [
+    "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei",
+    "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi"
+   ],
+   "concepts": [
+    "kőzetlemez",
+    "mélytengeri árok",
+    "óceánközépi hátság",
+    "hasadékvölgy",
+    "bazalt",
+    "óceáni kéreg",
+    "kontinentális kéreg",
+    "közeledő és elcsúszó lemezmozgás"
+   ],
+   "places": [
+    "fold--kozetlemezek--nazca-lemez",
+    "fold--kozetlemezek--del-amerikai-lemez",
+    "fold--kozetlemezek--csendes-oceani-lemez",
+    "fold--kozetlemezek--afrikai-lemez",
+    "fold--kozetlemezek--eszak-amerikai-lemez"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg a nagybetűkkel jelölt kőzetlemezeket!",
+     "points": 5,
+     "items": [
+      {
+       "n": "A",
+       "text": "A",
+       "answer": "Nazca-lemez"
+      },
+      {
+       "n": "B",
+       "text": "B",
+       "answer": "Dél-amerikai-lemez"
+      },
+      {
+       "n": "C",
+       "text": "C",
+       "answer": "Csendes-óceáni-lemez"
+      },
+      {
+       "n": "D",
+       "text": "D",
+       "answer": "Afrikai-lemez"
+      },
+      {
+       "n": "E",
+       "text": "E",
+       "answer": "Észak-amerikai-lemez"
+      }
+     ],
+     "solution": "A. Nazca-lemez; B. Dél-amerikai-lemez; C. Csendes-óceáni-lemez; D. Afrikai-lemez; E. Észak-amerikai-lemez (1-1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Nevezze meg a „B” kőzetlemezt nyugatról és keletről „határoló” szerkezeti képződmény típusát! Nevezze meg a „B” és „D” kőzetlemezek között felszínre ömlő lávából keletkező kőzetet!",
+     "points": 3,
+     "items": [
+      {
+       "n": "1",
+       "text": "nyugatról",
+       "answer": "mélytengeri árok"
+      },
+      {
+       "n": "2",
+       "text": "keletről",
+       "answer": "óceán(közép)i hátság / hasadékvölgy"
+      },
+      {
+       "n": "3",
+       "text": "A „B” és „D” kőzetlemezek között felszínre ömlő lávából keletkező kőzet",
+       "answer": "Bazalt"
+      }
+     ],
+     "solution": "Nyugatról: mélytengeri árok, keletről: óceán(közép)i hátság / hasadékvölgy (1+1 pont). Bazalt (1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "diagram",
+     "prompt": "Melyik ábra modellezi az a) pontban található térképvázlat kőzetlemezeinek egymáshoz viszonyított alábbi mozgását? Írja a megfelelő ábra sorszámát a vonalra!",
+     "points": 4,
+     "items": [
+      {
+       "n": "1",
+       "text": "A „C” és az „A” kőzetlemezek:",
+       "answer": "1"
+      },
+      {
+       "n": "2",
+       "text": "A „C” és az „E” kőzetlemezek:",
+       "answer": "3 / 2"
+      },
+      {
+       "n": "3",
+       "text": "A „B” és a „D” kőzetlemezek:",
+       "answer": "1"
+      },
+      {
+       "n": "4",
+       "text": "Az „A” és a „B” kőzetlemezek:",
+       "answer": "2"
+      }
+     ],
+     "solution": "1. 1. (ábra); 2. 3. (ábra); 3. 1. (ábra); 4. 2. (ábra) (1-1 pont). Megjegyzés: a 2. pontban 3. (ábra) és 2. (ábra) megoldás is elfogadható.",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "table",
+     "prompt": "Egészítse ki a táblázatot! Mely fogalomhoz, jellemzőhöz kapcsolhatók a táblázat nagybetűi? Írja a megfelelő betűjelet a fogalom, illetve az állítás száma elé! (Összetétel (%): A – SiO2 66, Al2O3 15,2, K2O 3,4, FeO 4,5, MgO 2,2, CaO 4,2, Na2O 3,9; B – SiO2 54,4, Al2O3 16,1, K2O 0,34, FeO 10,6, MgO 6,3, CaO 8,5, Na2O 2,8. Átlagos vastagsága: C, D. Sűrűsége: 2,7 g/cm3, 3 g/cm3.)",
+     "points": 4,
+     "items": [
+      {
+       "n": "1",
+       "text": "35 km",
+       "answer": "C"
+      },
+      {
+       "n": "2",
+       "text": "6 km",
+       "answer": "D"
+      },
+      {
+       "n": "3",
+       "text": "szárazföldi kéreg",
+       "answer": "A"
+      },
+      {
+       "n": "4",
+       "text": "óceáni kéreg",
+       "answer": "B"
+      }
+     ],
+     "solution": "1. C; 2. D; 3. A; 4. B. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "title": "Ciklonok és anticiklonok",
+   "instruction": "Döntse el, hogy igazak vagy hamisak a következő megállapítások! Írjon I betűt az igaz, és H betűt a hamis megállapítások sorszáma elé!",
+   "context": "",
+   "pages": [
+    7
+   ],
+   "guidePages": [
+    4
+   ],
+   "points": 8,
+   "needsFigure": false,
+   "subtopics": [
+    "3-2-3-a-levego-mozgasa"
+   ],
+   "concepts": [
+    "mérsékelt övezeti ciklon és anticiklon",
+    "hideg- és melegfront",
+    "okklúziós front",
+    "trópusi ciklon (hurrikán, tájfun)",
+    "tornádó",
+    "futóáramlás",
+    "légnyomás"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "true-false",
+     "prompt": "Döntse el, hogy igazak vagy hamisak a következő megállapítások! Írjon I betűt az igaz, és H betűt a hamis megállapítások sorszáma elé!",
+     "points": 8,
+     "items": [
+      {
+       "n": "1",
+       "text": "A ciklon belsejében a levegő lefelé áramlik.",
+       "answer": "H"
+      },
+      {
+       "n": "2",
+       "text": "Az északi mérsékelt övezetben mindig a hidegfront után alakul ki a melegfront.",
+       "answer": "H"
+      },
+      {
+       "n": "3",
+       "text": "Az anticiklonok derült időjárást okoznak.",
+       "answer": "I"
+      },
+      {
+       "n": "4",
+       "text": "A tornádó tipikus trópusi ciklon.",
+       "answer": "H"
+      },
+      {
+       "n": "5",
+       "text": "A ciklon melegfrontjának érkezését gomolyfelhő-képződés jelzi.",
+       "answer": "H"
+      },
+      {
+       "n": "6",
+       "text": "Okklúziós front akkor keletkezik, ha a hidegfront és a melegfront összeolvad.",
+       "answer": "I"
+      },
+      {
+       "n": "7",
+       "text": "A futóáramlások a ciklon leggyorsabb légáramlatai.",
+       "answer": "H"
+      },
+      {
+       "n": "8",
+       "text": "Az anticiklon közepében a környezetéhez képest magasabb a légnyomás.",
+       "answer": "I"
+      }
+     ],
+     "solution": "1. H; 2. H; 3. I; 4. H; 5. H; 6. I; 7. H; 8. I. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "title": "A légkör fogalmai",
+   "instruction": "Az A oszlopban fogalmakat, a B oszlopban hozzájuk tartozó meghatározásokat, illetve jellemzőket olvashat. Keresse meg az egyes fogalmakhoz kapcsolódó megállapításokat! Írja a meghatározások betűjelét a fogalmak sorszáma elé! Egy fogalomhoz több meghatározás is kapcsolódhat. Nem tartozik minden fogalomhoz meghatározás. Az ilyen fogalom elé írjon X-jelet! A lehetséges helyes válaszok számánál több beírása pontlevonással jár.",
+   "context": "",
+   "pages": [
+    7
+   ],
+   "guidePages": [
+    5
+   ],
+   "points": 12,
+   "needsFigure": false,
+   "subtopics": [
+    "3-2-1-a-legkor-anyaga-es-szerkezete",
+    "3-2-4-felho-es-csapadekkepzodes",
+    "3-2-2-a-levego-felmelegedese"
+   ],
+   "concepts": [
+    "harmatpont",
+    "sugárzás-visszaverő képesség (albedó)",
+    "időjárás",
+    "tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom",
+    "talaj menti (felszíni) csapadékfajták (harmat, dér, zúzmara)",
+    "telítettség"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "matching",
+     "prompt": "Keresse meg az egyes fogalmakhoz kapcsolódó megállapításokat! Írja a meghatározások betűjelét a fogalmak sorszáma elé! Egy fogalomhoz több meghatározás is kapcsolódhat. Nem tartozik minden fogalomhoz meghatározás. Az ilyen fogalom elé írjon X-jelet!",
+     "points": 12,
+     "options": [
+      "a) Azok a légköri gázok, amelyeknek a mennyisége hosszú időn keresztül változatlan.",
+      "b) Az a hőmérséklet, melyen az adott vízgőztartalmú levegő telítetté válik.",
+      "c) A felszín sugárzást visszaverő képessége.",
+      "d) Azt mutatja meg, hogy mennyi vízgőz van a levegőben adott pillanatban.",
+      "e) Talajmenti csapadék 0 °C felett.",
+      "f) A levegő fizikai jellemzőinek állandó változása.",
+      "g) Közéjük tartozik a légköri CO2.",
+      "h) Amikor a levegő ezt a hőmérsékletet eléri, 100%-os a vízgőztartalma.",
+      "i) Értékét g/m3-ben fejezzük ki.",
+      "j) A felszín tárgyain válik ki fagypont alatti hőmérsékleten.",
+      "k) Közéjük tartozik a légkörben található argon."
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "harmat",
+       "answer": "e"
+      },
+      {
+       "n": "2",
+       "text": "albedó",
+       "answer": "c"
+      },
+      {
+       "n": "3",
+       "text": "időjárás",
+       "answer": "f"
+      },
+      {
+       "n": "4",
+       "text": "harmatpont",
+       "answer": "b, h"
+      },
+      {
+       "n": "5",
+       "text": "tényleges vízgőztartalom",
+       "answer": "i, d"
+      },
+      {
+       "n": "6",
+       "text": "állandó gázok",
+       "answer": "k, a"
+      },
+      {
+       "n": "7",
+       "text": "dér",
+       "answer": "j"
+      },
+      {
+       "n": "8",
+       "text": "relatív vízgőztartalom",
+       "answer": "X"
+      },
+      {
+       "n": "9",
+       "text": "változó gázok",
+       "answer": "g"
+      }
+     ],
+     "solution": "1. e; 2. c; 3. f; 4. b, h; 5. i, d; 6. k, a; 7. j; 8. X; 9. g. Minden helyes válasz 1 pont. Megjegyzés: a lehetséges helyes válaszok számánál több beírása pontlevonással jár, de 0 pontnál kevesebb nem adható.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "title": "A víz körforgása",
+   "instruction": "Tanulmányozza az ábrát, és válaszoljon a kérdésekre!",
+   "context": "",
+   "pages": [
+    8,
+    9
+   ],
+   "guidePages": [
+    5
+   ],
+   "points": 10,
+   "needsFigure": true,
+   "figureNote": "A víz körforgásának ábrája A–G betűkkel jelölt folyamatokkal (párolgás, csapadék, lefolyás stb.).",
+   "subtopics": [
+    "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai"
+   ],
+   "concepts": [
+    "a víz körforgása",
+    "vízháztartás (párolgás-párologtatás, csapadék, lefolyás)",
+    "aszály",
+    "globális felmelegedés",
+    "éghajlatváltozás (klímaváltozás)"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "a",
+     "type": "diagram",
+     "prompt": "Mely folyamatot szemlélteti az ábra? Mi tartja mozgásban?",
+     "points": 2,
+     "solution": "A víz körforgását. (1 pont) A napsugárzás / Nap energiája tartja mozgásban. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "diagram",
+     "prompt": "Mi a szerepe a jelenségben az E és F betűkkel jelölt folyamatnak?",
+     "points": 1,
+     "solution": "A szárazföld vizeinek a világtengerbe juttatása / lefolyás / a víz levezetése.",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "diagram",
+     "prompt": "Földi léptékben igaz-e az alábbi egyenlet? Indokolja a válaszát! A + G = B + C",
+     "points": 2,
+     "solution": "Válasz: igaz. (1 pont) Indoklás: Földi méretekben a párolgás és a csapadékhullás egyensúlyban van. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "d",
+     "type": "diagram",
+     "prompt": "Írja fel a betűk segítségével az egyensúlyi egyenletet a tengerek szempontjából! … + … + … = G",
+     "points": 3,
+     "solution": "E + F + B = G (1+1+1 pont). Minden helyes betű 1 pont. A betűk sorrendje felcserélhető.",
+     "autoCheck": false
+    },
+    {
+     "label": "e",
+     "type": "short-answer",
+     "prompt": "Mi történik egy adott területen pl. Európában, ha „A” folyamat felerősödik? Mely globális folyamat idézheti elő ezt?",
+     "points": 2,
+     "solution": "Ha nagyobb a vízveszteség (párolgás), mint a lehulló csapadék mennyisége, akkor a terület szárazabbá válik / szárazodás következik be / aszályos időszak alakul ki / negatív lesz a vízháztartási egyenleg. (1 pont) Az „A” növekedését a globális felmelegedés / éghajlatváltozás okozhatja / az időjárási szélsőségek fokozódása (1 pont). Megjegyzés: másképpen megfogalmazott helyes válasz is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "title": "Tengeráramlások",
+   "instruction": "Válaszoljon a tengeráramlásokkal kapcsolatos kérdésekre!",
+   "context": "",
+   "pages": [
+    9
+   ],
+   "guidePages": [
+    5
+   ],
+   "points": 6,
+   "needsFigure": false,
+   "subtopics": [
+    "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai"
+   ],
+   "concepts": [
+    "hideg és meleg tengeráramlás",
+    "óceáni vízkörzés",
+    "eltérítő erő (Coriolis-erő)",
+    "szélrendszer"
+   ],
+   "places": [
+    "fold--tengeraramlasok--labrador-aramlas",
+    "fold--tengeraramlasok--eszak-atlanti-aramlas"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "short-answer",
+     "prompt": "Milyen irányba mozognak az Egyenlítőhöz képest a következő tengeráramlások? Labrador-áramlás; Észak-atlanti-áramlás. Írjon X-et a meleg tengeráramlás neve elé!",
+     "points": 3,
+     "items": [
+      {
+       "n": "1",
+       "text": "Labrador-áramlás",
+       "answer": "közeledik / az Egyenlítő felé mozog"
+      },
+      {
+       "n": "2",
+       "text": "Észak-atlanti-áramlás",
+       "answer": "távolodik / Egyenlítőtől távolodik"
+      },
+      {
+       "n": "3",
+       "text": "Melyik elé kerül X (meleg tengeráramlás)?",
+       "answer": "Észak-atlanti-áramlás"
+      }
+     ],
+     "solution": "Labrador-áramlás: közeledik / az Egyenlítő felé mozog. (1 pont) Észak-atlanti-áramlás: távolodik / Egyenlítőtől távolodik. (1 pont) X jel az Észak-atlanti-áramlás neve előtt (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "short-answer",
+     "prompt": "Mely tényezők alakítják ki a tengeráramlások irányát? Nevezzen meg egy, a tengeráráramlást kialakító tényezőt! Nevezzen meg a tengeráráramlás irányát módosító két tényezőt!",
+     "points": 3,
+     "solution": "Mozgató tényező: állandó szelek / állandó szélrendszerek szelei (1 pont). Módosító tényező: kontinensek elhelyezkedése / Coriolis-erő / a Föld forgásából származó eltérítő hatás (1+1 pont). Megjegyzés: bármelyik kettő elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "title": "Mediterrán és monszun terület",
+   "instruction": "Tanulmányozza az ábrát, a diagramokat, és olvassa el a megállapításokat, majd írja a sorszámukat a táblázatban a megfelelő helyre! (Ne feledkezzen el az ábra és a diagramok sorszámairól sem!)",
+   "context": "",
+   "pages": [
+    10
+   ],
+   "guidePages": [
+    6
+   ],
+   "points": 16,
+   "needsFigure": true,
+   "figureNote": "Négy számozott ábra (1–4): egy vázlat és éghajlati diagramok, amelyek a mediterrán vagy a monszun területhez köthetők.",
+   "subtopics": [
+    "4-6-a-vizszintes-foldrajzi-ovezetesseg"
+   ],
+   "concepts": [
+    "mediterrán terület",
+    "mediterrán éghajlat",
+    "monszunterület",
+    "mérsékelt övezeti monszunéghajlat",
+    "keménylombú erdő",
+    "babérlombú erdő",
+    "macchia",
+    "terra rossa"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "matching",
+     "prompt": "Írja a sorszámukat a táblázatban a megfelelő helyre! (Mediterrán terület / Monszun terület / Mindkettőre vonatkozik / Egyikre sem vonatkozik)",
+     "points": 16,
+     "items": [
+      {
+       "n": "1",
+       "text": "1. ábra/diagram",
+       "answer": "Monszun terület"
+      },
+      {
+       "n": "2",
+       "text": "2. ábra/diagram",
+       "answer": "Mediterrán terület"
+      },
+      {
+       "n": "3",
+       "text": "3. ábra/diagram",
+       "answer": "Monszun terület"
+      },
+      {
+       "n": "4",
+       "text": "4. ábra/diagram",
+       "answer": "Mediterrán terület"
+      },
+      {
+       "n": "5",
+       "text": "A folyók vízjárása ezen a területen ingadozó.",
+       "answer": "Mindkettőre vonatkozik"
+      },
+      {
+       "n": "6",
+       "text": "A csapadékot a nyugatias szelek ciklonjai szállítják a területre.",
+       "answer": "Mediterrán terület"
+      },
+      {
+       "n": "7",
+       "text": "A passzát szélrendszer leszálló ága is alakítja az éghajlatát.",
+       "answer": "Mediterrán terület"
+      },
+      {
+       "n": "8",
+       "text": "Jellemző talaja a podzol.",
+       "answer": "Egyikre sem vonatkozik"
+      },
+      {
+       "n": "9",
+       "text": "Természetes növényzete a keménylombú erdő.",
+       "answer": "Mediterrán terület"
+      },
+      {
+       "n": "10",
+       "text": "Jellemzően a kontinensek keleti oldalán alakul ki.",
+       "answer": "Monszun terület"
+      },
+      {
+       "n": "11",
+       "text": "Természetes növényzete a lombhullató erdő.",
+       "answer": "Egyikre sem vonatkozik"
+      },
+      {
+       "n": "12",
+       "text": "Talaja a terra rossa.",
+       "answer": "Mediterrán terület"
+      },
+      {
+       "n": "13",
+       "text": "A szárazföldek és a nagy víztömegek eltérő felmelegedése játszik szerepet éghajlatának kialakulásában.",
+       "answer": "Monszun terület"
+      },
+      {
+       "n": "14",
+       "text": "Természetes növényzete a babérlombú erdő.",
+       "answer": "Monszun terület"
+      },
+      {
+       "n": "15",
+       "text": "Másodlagos, bozótos növényzetét macchiának nevezzük.",
+       "answer": "Mediterrán terület"
+      },
+      {
+       "n": "16",
+       "text": "Természetes növényzete az alacsony- és magasfüvű préri.",
+       "answer": "Egyikre sem vonatkozik"
+      }
+     ],
+     "solution": "Mediterrán terület: 2, 4, 6, 7, 9, 12, 15; Monszun terület: 1, 3, 10, 13, 14; Mindkettőre vonatkozik: 5; Egyikre sem vonatkozik: 8, 11, 16. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "title": "A tanyák kialakulása és típusai",
+   "instruction": "Oldja meg a településföldrajzzal kapcsolatos feladatokat!",
+   "context": "",
+   "pages": [
+    11
+   ],
+   "guidePages": [
+    6
+   ],
+   "points": 6,
+   "needsFigure": true,
+   "figureNote": "Három alaprajzi vázlat (a, b, c) különböző tanyatípusokról.",
+   "subtopics": [
+    "5-2-telepulestipusok-urbanizacio",
+    "7-3-magyarorszag-tarsadalmi-jellemzoi"
+   ],
+   "concepts": [
+    "tanya",
+    "bokor-",
+    "sor- és szórt tanya",
+    "folyószabályozás"
+   ],
+   "places": [
+    "magyarorszag--fo-tajegysegek--alfold"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "short-answer",
+     "prompt": "Válaszoljon röviden az alábbi kérdésekre!",
+     "points": 3,
+     "items": [
+      {
+       "n": "1",
+       "text": "A magyar történelem mely időszakához/eseményéhez köthető a hazai tanyavilág kiépülésének első hulláma?",
+       "answer": "A 18. században / a török kiűzése után / betelepítések a 18. században."
+      },
+      {
+       "n": "2",
+       "text": "Széchenyi István és Vásárhelyi Pál nevéhez fűződnek a főként az alföldi térséget érintő nagyszabású munkálatok, amelyek lendületet adtak az új földterületeken a tanyák kialakulásának. Mi volt ez az egész Alföld életére kiható fejlesztés?",
+       "answer": "A folyószabályozás (és árvízvédelem)."
+      },
+      {
+       "n": "3",
+       "text": "A tanyák kialakulását segítette a II. világháború utáni, a földterületek tulajdonviszonyát átalakító intézkedés. Mi volt ez?",
+       "answer": "A földosztás."
+      }
+     ],
+     "solution": "1. A 18. században / a török kiűzése után / betelepítések a 18. században. 2. A folyószabályozás (és árvízvédelem). 3. A földosztás. (1-1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "diagram",
+     "prompt": "Nevezze meg a tanyatípusokat! Írja a nevüket az ábra alá a vonalra!",
+     "points": 3,
+     "items": [
+      {
+       "n": "a",
+       "text": "a)",
+       "answer": "bokortanya / tanya bokor"
+      },
+      {
+       "n": "b",
+       "text": "b)",
+       "answer": "szórt tanya"
+      },
+      {
+       "n": "c",
+       "text": "c)",
+       "answer": "sortanya"
+      }
+     ],
+     "solution": "a) bokortanya / tanya bokor; b) szórt tanya; c) sortanya (1-1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "title": "Születések és halálozások régiónként",
+   "instruction": "Tanulmányozza az alábbi térképeket, és oldja meg a hozzájuk kapcsolódó feladatokat!",
+   "context": "Élveszületés ezer lakosra (2012); Halálozás ezer lakosra (2012). Forrás: www.ksh.hu",
+   "pages": [
+    12
+   ],
+   "guidePages": [
+    6
+   ],
+   "points": 4,
+   "needsFigure": true,
+   "figureNote": "Két Magyarország-térkép a régiók élveszületési és halálozási arányszámairól (2012).",
+   "subtopics": [
+    "7-3-magyarorszag-tarsadalmi-jellemzoi",
+    "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi"
+   ],
+   "concepts": [
+    "természetes szaporodás",
+    "természetes fogyás"
+   ],
+   "places": [
+    "magyarorszag--nagyregiok-regiok--kozep-dunantul-regio",
+    "magyarorszag--nagyregiok-regiok--eszak-alfold-regio",
+    "magyarorszag--nagyregiok-regiok--del-alfold-regio",
+    "magyarorszag--nagyregiok-regiok--kozep-magyarorszag-nagyregio"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "type": "map",
+     "prompt": "Tanulmányozza az alábbi térképeket, és oldja meg a hozzájuk kapcsolódó feladatokat!",
+     "points": 4,
+     "items": [
+      {
+       "n": "1",
+       "text": "Mely régióban volt 8,6–9 ‰ között a születési arányszám?",
+       "answer": "Közép-Dunántúl"
+      },
+      {
+       "n": "2",
+       "text": "Mennyi volt a halálozási ráta az Észak-Alföldön? (Adja meg a mértékegységet is!)",
+       "answer": "12,1–12,5‰"
+      },
+      {
+       "n": "3",
+       "text": "Melyik hazai régióban volt a legnagyobb a természetes fogyás?",
+       "answer": "Dél-Alföld"
+      },
+      {
+       "n": "4",
+       "text": "Melyik hazai régióban volt a legkisebb a természetes fogyás?",
+       "answer": "Közép-Magyarország"
+      }
+     ],
+     "solution": "1. Közép-Dunántúl; 2. 12,1–12,5‰; 3. Dél-Alföld; 4. Közép-Magyarország (1-1 pont)",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "title": "A korfa típusai",
+   "instruction": "Egészítse ki az alábbi mondatokat a megadott szókészlet felhasználásával! Van olyan kifejezés, amit többször is fel kell használnia.",
+   "context": "alacsony, csökken, egyensúlyban levő, elöregedő, férfiak, fiatalodó, fiatalok, harang, idős, koreloszlását, magas, nemenkénti, nők, piramis, urna",
+   "pages": [
+    13
+   ],
+   "guidePages": [
+    7
+   ],
+   "points": 16,
+   "needsFigure": false,
+   "subtopics": [
+    "5-1-a-nepesseg-foldrajzi-jellemzoi"
+   ],
+   "concepts": [
+    "korfa",
+    "öregedő és fiatalodó társadalom",
+    "születéskor várható átlagos élettartam",
+    "népességfogyás"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "short-answer",
+     "prompt": "A lakosság (1.)… (2.)… ábrázoló diagramot korfának nevezzük. A korfa egy adott népesség megoszlását oly módon mutatja be, hogy az egyes korcsoportokhoz tartozóan a (3.)… számát a jobboldalon, a (4.)… számát a baloldalon ábrázolja egymásra helyezett szalagdiagramokkal. A/az (5.)… alakú korfa a/az (6.)… társadalom korfája, hiszen sok a fiatal és (7.)… a halandóság, a születéskor várható átlagos élettartam (8.)… Ez jellemző ma a természeti népekre, a fejlődő országok egy részére. A/az (9.)… alakú korfa a/az (10.)… társadalom korfája, itt a fiatalok és a középkorúak aránya közel azonos, a korfa csak a/az (11.)… korcsoportokban keskenyedik el, és veszi fel jellegzetes alakját. A/az (12.)… alakú korfa a/az (13.)… társadalom korfája, keskeny alapú, felfelé kissé szélesedő alakú, amit a (14.)… arányának csökkenése és az idősek arányának növekedése okoz. A születéskor várható átlagos élettartam (15.)…, de a kedvezőtlen folyamatok miatt (16.)… a népességszám. Ilyen korfa jellemző többek között Magyarország népességére is.",
+     "points": 16,
+     "items": [
+      {
+       "n": "1",
+       "text": "(1.)",
+       "answer": "nemenkénti"
+      },
+      {
+       "n": "2",
+       "text": "(2.)",
+       "answer": "korelosztását"
+      },
+      {
+       "n": "3",
+       "text": "(3.)",
+       "answer": "nők"
+      },
+      {
+       "n": "4",
+       "text": "(4.)",
+       "answer": "férfiak"
+      },
+      {
+       "n": "5",
+       "text": "(5.)",
+       "answer": "piramis"
+      },
+      {
+       "n": "6",
+       "text": "(6.)",
+       "answer": "fiatalodó"
+      },
+      {
+       "n": "7",
+       "text": "(7.)",
+       "answer": "magas"
+      },
+      {
+       "n": "8",
+       "text": "(8.)",
+       "answer": "alacsony"
+      },
+      {
+       "n": "9",
+       "text": "(9.)",
+       "answer": "harang"
+      },
+      {
+       "n": "10",
+       "text": "(10.)",
+       "answer": "egyensúlyban levő"
+      },
+      {
+       "n": "11",
+       "text": "(11.)",
+       "answer": "idős"
+      },
+      {
+       "n": "12",
+       "text": "(12.)",
+       "answer": "urna"
+      },
+      {
+       "n": "13",
+       "text": "(13.)",
+       "answer": "elöregedő"
+      },
+      {
+       "n": "14",
+       "text": "(14.)",
+       "answer": "fiatalok"
+      },
+      {
+       "n": "15",
+       "text": "(15.)",
+       "answer": "magas"
+      },
+      {
+       "n": "16",
+       "text": "(16.)",
+       "answer": "csökken"
+      }
+     ],
+     "solution": "A lakosság nemenkénti korelosztását ábrázoló diagramot korfának nevezzük. A korfa egy adott népesség megoszlását oly módon mutatja be, hogy az egyes korcsoportokhoz tartozóan a nők számát a jobboldalon, a férfiak számát a baloldalon ábrázolja egymásra helyezett szalagdiagramokkal. A/az piramis alakú korfa a/az fiatalodó társadalom korfája, hiszen sok a fiatal és magas a halandóság, a születéskor várható átlagos élettartam alacsony. Ez jellemző ma a természeti népekre, a fejlődő országok egy részére. A/az harang alakú korfa a/az egyensúlyban levő társadalom korfája, itt a fiatalok és a középkorúak aránya közel azonos, a korfa csak a/az idős korcsoportokban keskenyedik el, és veszi fel jellegzetes alakját. A/az urna alakú korfa a/az elöregedő társadalom korfája, keskeny alapú, felfelé kissé szélesedő alakú, amit a fiatalok arányának csökkenése és az idősek arányának növekedése okoz. A születéskor várható átlagos élettartam magas, de a kedvezőtlen folyamatok miatt csökken a népességszám. Ilyen korfa jellemző többek között Magyarország népességére is. Minden jó helyre beírt megfelelő fogalom 1 pont.",
+     "autoCheck": true
+    }
+   ],
+   "note": "A szókészletben „koreloszlását”, az útmutatóban „korelosztását” szerepel; a hiányzó helyek számozása (1–16) a strukturáláskor került be."
+  },
+  {
+   "no": 13,
+   "title": "Pénzügyi és kereskedelmi fogalmak",
+   "instruction": "Mely fogalmat ismeri fel a meghatározások alapján? Írja a megfelelő fogalom nevét az egyes meghatározások után!",
+   "context": "",
+   "pages": [
+    14
+   ],
+   "guidePages": [
+    7
+   ],
+   "points": 10,
+   "needsFigure": false,
+   "subtopics": [
+    "6-4-a-monetaris-vilag",
+    "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag"
+   ],
+   "concepts": [
+    "embargó",
+    "konvertibilitás",
+    "értékpapírok (állampapír, kötvény, részvény)",
+    "kamat",
+    "tőzsdeindex",
+    "valutaárfolyam",
+    "kvóta",
+    "készpénz"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "short-answer",
+     "prompt": "Mely fogalmat ismeri fel a meghatározások alapján? Írja a megfelelő fogalom nevét az egyes meghatározások után!",
+     "points": 10,
+     "items": [
+      {
+       "n": "1",
+       "text": "Többnyire politikai okokból elrendelt kereskedelmi tilalom.",
+       "answer": "Embargó"
+      },
+      {
+       "n": "2",
+       "text": "Egy valuta szabad átválthatósága.",
+       "answer": "Konvertibilitás"
+      },
+      {
+       "n": "3",
+       "text": "Olyan speciális okirat, amelynek tulajdonosai pénzbeli követeléssel léphetnek fel a kibocsátójukkal szemben.",
+       "answer": "Értékpapír / Kötvény"
+      },
+      {
+       "n": "4",
+       "text": "A hitel ára.",
+       "answer": "Kamat"
+      },
+      {
+       "n": "5",
+       "text": "A tőzsde vezető részvényeinek árfolyamváltozását mutatja egy adott kiindulási (bázis) értékhez viszonyítva.",
+       "answer": "Tőzsdeindex"
+      },
+      {
+       "n": "6",
+       "text": "Az a hitelállomány, melyet egy ország egy másik országtól vagy nemzetközi pénzintézetektől vett fel.",
+       "answer": "Külső adósság(állomány)"
+      },
+      {
+       "n": "7",
+       "text": "Egy valutának egy másik valutához viszonyított értéke.",
+       "answer": "(Valuta)árfolyam"
+      },
+      {
+       "n": "8",
+       "text": "Minden olyan felhalmozott érték (pl. pénz, tudás), amely értéktöbblet létrehozására alkalmas.",
+       "answer": "Tőke"
+      },
+      {
+       "n": "9",
+       "text": "Egy másik országból behozott termékre kivetett mennyiségi korlátozás.",
+       "answer": "Kvóta"
+      },
+      {
+       "n": "10",
+       "text": "A bankjegyek és érmék összessége.",
+       "answer": "Készpénz"
+      }
+     ],
+     "solution": "1. Embargó; 2. Konvertibilitás; 3. Értékpapír / Kötvény; 4. Kamat; 5. Tőzsdeindex; 6. Külső adósság(állomány); 7. (Valuta)árfolyam; 8. Tőke; 9. Kvóta; 10. Készpénz. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "title": "Államháztartási hiány",
+   "instruction": "Olvassa el az alábbi szöveget, és oldja meg a hozzá kapcsolódó számítási feladatot!",
+   "context": "„Államháztartási hiány rátája a GDP arányában kifejezett, tervezett vagy tényleges államháztartási hiányt jelenti.” Magyarországon a bruttó hazai termék értéke 2013-ban 29 114 milliárd Ft volt. Az államháztartás bevételei 11 704 milliárd Ft-ot tettek ki, a deficit 984 milliárd Ft volt.",
+   "pages": [
+    15
+   ],
+   "guidePages": [
+    7
+   ],
+   "points": 4,
+   "needsFigure": false,
+   "subtopics": [
+    "6-4-a-monetaris-vilag"
+   ],
+   "concepts": [
+    "államháztartás",
+    "költségvetés",
+    "mérleghiány (deficit)",
+    "bruttó hazai termék (GDP)"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "1",
+     "type": "calculation",
+     "prompt": "Mennyi volt az államháztartás kiadása Magyarországon 2013-ban? A számítást itt végezze! Államháztartási kiadás: … Ft",
+     "points": 2,
+     "solution": "A számítás elve: 11 704 – x = –984 (1 pont); x = 12 688; 11 704 + 984 = 12 688. Államháztartási kiadás: 12 688 milliárd Ft. (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "2",
+     "type": "calculation",
+     "prompt": "Mennyi volt az államháztartási hiány rátája 2013-ban? A számítást itt végezze! Az eredményt két tizedesjegyre kerekítse! A hiány rátája: … %",
+     "points": 2,
+     "solution": "A számítás elve: 984 / 29114 * 100 = 3,38 (1 pont). A hiány: 3,38% (1 pont). Megjegyzés: más elven megkapott helyes eredmény is elfogadható.",
+     "autoCheck": false
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "title": "Franciaország",
+   "instruction": "Tanulmányozza a térképvázlatot és oldja meg a feladatokat!",
+   "context": "",
+   "pages": [
+    16,
+    17
+   ],
+   "guidePages": [
+    8
+   ],
+   "points": 17,
+   "needsFigure": true,
+   "figureNote": "Franciaország térképvázlata a–d betűvel jelölt vízrajzi elemekkel, A–B hegységekkel és 1–4 számmal jelölt városokkal.",
+   "subtopics": [
+    "franciaorszag",
+    "8-3-az-europai-unio"
+   ],
+   "concepts": [
+    "Európai Parlament",
+    "integráció"
+   ],
+   "places": [
+    "europa--orszagok--franciaorszag",
+    "europa--vizrajz--rh-ne",
+    "europa--vizrajz--szajna",
+    "europa--vizrajz--la-manche",
+    "europa--vizrajz--foldkozi-tenger",
+    "europa--tajak--pireneusok",
+    "europa--tajak--alpok",
+    "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer",
+    "europa--varosok--marseille",
+    "europa--varosok--lyon",
+    "europa--varosok--strasbourg",
+    "europa--varosok--parizs"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg a kisbetűvel jelölt vízrajzi elemeket! a) b) c) d)",
+     "points": 4,
+     "solution": "Az útmutatóban szereplő nevek: Rhône, Szajna, La Manche, Földközi-tenger (1-1 pont); a betűjelekhez rendelésük a szövegkivonatban elcsúszott. Lásd az útmutató 8. oldalát.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "map",
+     "prompt": "Mely hegységeket jelölik a térképvázlaton a nagybetűk? Mely hegységrendszer tagjai?",
+     "points": 3,
+     "items": [
+      {
+       "n": "A",
+       "text": "A.",
+       "answer": "Pireneusok"
+      },
+      {
+       "n": "B",
+       "text": "B.",
+       "answer": "Alpok"
+      },
+      {
+       "n": "3",
+       "text": "Mely hegységrendszer tagjai?",
+       "answer": "Eurázsiai-hegységrendszer"
+      }
+     ],
+     "solution": "A. Pireneusok (1 pont); B. Alpok (1 pont); Eurázsiai-hegységrendszer (1 pont)",
+     "autoCheck": false
+    },
+    {
+     "label": "c",
+     "type": "map",
+     "prompt": "Nevezze meg a számokkal jelölt városokat, majd írja az állítások betűjelét a város neve után a vonalra!",
+     "points": 8,
+     "options": [
+      "A. Az Európai Parlament székhelye.",
+      "B. Cseppfolyósított földgáz és kőolaj érkezik ide Afrikából és Közel-Keletről.",
+      "C. Elővárosai az autógyártás központjai.",
+      "D. A főváros után az ország legjelentősebb gazdasági központja."
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "1.",
+       "answer": "Marseille: B"
+      },
+      {
+       "n": "2",
+       "text": "2.",
+       "answer": "Lyon: D"
+      },
+      {
+       "n": "3",
+       "text": "3.",
+       "answer": "Strasbourg: A"
+      },
+      {
+       "n": "4",
+       "text": "4.",
+       "answer": "Párizs: C"
+      }
+     ],
+     "solution": "1. Marseille: B; 2. Lyon: D; 3. Strasbourg: A; 4. Párizs: C (1+1 pont mindegyik)",
+     "autoCheck": false
+    },
+    {
+     "label": "d",
+     "type": "short-answer",
+     "prompt": "Mióta tagja az ország az európai integrációnak?",
+     "points": 1,
+     "solution": "1957 / az alapítás óta",
+     "autoCheck": false
+    },
+    {
+     "label": "e",
+     "type": "short-answer",
+     "prompt": "Egészítse ki az alábbi mondatot! Az elektromos áram ¾ részét … erőművek állítják elő.",
+     "points": 1,
+     "solution": "Atom- / nukleáris",
+     "autoCheck": false
+    }
+   ],
+   "note": "Az a) rész útmutató-sorai elcsúsztak (a nevek és az a–d betűjelek nem párosíthatók megbízhatóan); a betűkhöz rendelést az útmutató 8. oldalán kell ellenőrizni."
+  },
+  {
+   "no": 16,
+   "title": "A Közel-Kelet országai",
+   "instruction": "Oldja meg a közel-keleti országokkal kapcsolatos feladatokat!",
+   "context": "",
+   "pages": [
+    18,
+    19
+   ],
+   "guidePages": [
+    8,
+    9
+   ],
+   "points": 21,
+   "needsFigure": true,
+   "figureNote": "A Közel-Kelet térképrészlete 1–7 városokkal és A–D vízrajzi elemekkel, valamint az olajországok gazdaságát bemutató kitöltendő folyamatábra.",
+   "subtopics": [
+    "delnyugat-azsia"
+   ],
+   "concepts": [
+    "kőolaj",
+    "földgáz",
+    "vendégmunkás",
+    "Kőolaj-exportáló Országok Szervezete (OPEC)",
+    "működőtőke"
+   ],
+   "places": [
+    "afrika--varosok--kairo",
+    "azsia--varosok--jeruzsalem",
+    "azsia--varosok--bagdad",
+    "azsia--varosok--teheran",
+    "azsia--varosok--rijad",
+    "azsia--varosok--mekka",
+    "afrika--vizrajz--nilus",
+    "afrika--vizrajz--voros-tenger",
+    "azsia--vizrajz--tigris",
+    "azsia--vizrajz--perzsa-arab-obol"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "map",
+     "prompt": "Nevezze meg a térképrészleten számokkal jelölt városokat és betűkkel jelölt vízrajzi fogalmakat!",
+     "points": 11,
+     "items": [
+      {
+       "n": "1",
+       "text": "1.",
+       "answer": "Kairó"
+      },
+      {
+       "n": "2",
+       "text": "2.",
+       "answer": "Jeruzsálem / Tel Aviv – Jaffa"
+      },
+      {
+       "n": "3",
+       "text": "3.",
+       "answer": "Haifa"
+      },
+      {
+       "n": "4",
+       "text": "4.",
+       "answer": "Bagdad"
+      },
+      {
+       "n": "5",
+       "text": "5.",
+       "answer": "Teherán"
+      },
+      {
+       "n": "6",
+       "text": "6.",
+       "answer": "Rijád"
+      },
+      {
+       "n": "7",
+       "text": "7.",
+       "answer": "Mekka"
+      },
+      {
+       "n": "A",
+       "text": "A. (folyó)",
+       "answer": "Nílus"
+      },
+      {
+       "n": "B",
+       "text": "B. -tenger",
+       "answer": "Vörös-tenger"
+      },
+      {
+       "n": "C",
+       "text": "C. (folyó)",
+       "answer": "Tigris"
+      },
+      {
+       "n": "D",
+       "text": "D. -öböl",
+       "answer": "Perzsa- (Arab) öböl"
+      }
+     ],
+     "solution": "1. Kairó; 2. Jeruzsálem; 3. Haifa; 4. Bagdad; 5. Teherán; 6. Rijád; 7. Mekka; A. Nílus; B. Vörös-tenger; C. Tigris; D. Perzsa- (Arab) öböl. Minden helyes válasz 1 pont. Megjegyzés: a térkép méretarányából adódóan a 2.-ban Tel Aviv – Jaffa is elfogadható.",
+     "autoCheck": false
+    },
+    {
+     "label": "b",
+     "type": "diagram",
+     "prompt": "Egészítse ki a szókészlet segítségével az olajországok gazdaságára jellemző folyamatábrát! Írja a sorszámokat a megfelelő helyre!",
+     "points": 10,
+     "options": [
+      "1. alumíniumkohászat",
+      "2. cementgyártás",
+      "3. könnyűipar",
+      "4. műanyaggyártás",
+      "5. kén kinyerése (szénhidrogénekből)",
+      "6. szervetlen vegyipar",
+      "7. szociális juttatások",
+      "8. tengervíz-sótalanítás",
+      "9. tőkeexport",
+      "10. vendégmunkások"
+     ],
+     "solution": "A kitöltött folyamatábra a szövegkivonatból nem olvasható ki. Minden jó helyre beírt szám 1 pont. Megjegyzés: a 7 és a 9 felcserélhető. Lásd az útmutató 9. oldalát.",
+     "autoCheck": false
+    }
+   ],
+   "note": "A b) rész megoldása (a folyamatábra kitöltése) csak a PDF-ben látható: az útmutató 9. oldalán ellenőrizendő."
+  },
+  {
+   "no": 17,
+   "title": "Kakukktojás – hazánk földrajza",
+   "instruction": "Oldja meg a hazánk földrajzával kapcsolatos feladatokat! Az egyes feladatokban a helyes válaszok számánál több megnevezése pontlevonással jár.",
+   "context": "",
+   "pages": [
+    19,
+    20
+   ],
+   "guidePages": [
+    9
+   ],
+   "points": 10,
+   "needsFigure": false,
+   "subtopics": [
+    "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe",
+    "7-2-magyarorszag-termeszeti-adottsagai",
+    "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi"
+   ],
+   "concepts": [
+    "lösz",
+    "fő- és mellékfolyó",
+    "kőolaj",
+    "földgáz"
+   ],
+   "places": [
+    "magyarorszag--telepulesek--sopron",
+    "magyarorszag--telepulesek--balassagyarmat",
+    "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+    "magyarorszag--egyeb-tajak-teruletek--nyirseg",
+    "magyarorszag--vizrajz--zala",
+    "magyarorszag--vizrajz--mura",
+    "magyarorszag--telepulesek--siofok",
+    "magyarorszag--telepulesek--vac",
+    "magyarorszag--telepulesek--pecs",
+    "magyarorszag--vizrajz--duna"
+   ],
+   "parts": [
+    {
+     "label": "a",
+     "type": "select-many",
+     "prompt": "A felsoroltak közül melyik két város nem megyeszékhely? Írja a nevüket a vonalra!",
+     "points": 2,
+     "options": [
+      "Nyíregyháza",
+      "Sopron",
+      "Szekszárd",
+      "Balassagyarmat",
+      "Békéscsaba",
+      "Salgótarján",
+      "Eger"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "A két város",
+       "answer": "Sopron, Balassagyarmat"
+      }
+     ],
+     "solution": "Sopron, Balassagyarmat (1+1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "b",
+     "type": "select-many",
+     "prompt": "Írja a vonalra annak a két tájnak a nevét, amelyik nem löszvidék!",
+     "points": 2,
+     "options": [
+      "Körös–Maros köze",
+      "Duna–Tisza köze",
+      "Nagykunság",
+      "Mezőföld",
+      "Hajdúság",
+      "Nyírség",
+      "Tolnai-dombság"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "A két táj",
+       "answer": "Duna–Tisza köze, Nyírség"
+      }
+     ],
+     "solution": "Duna–Tisza köze, Nyírség (1+1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "c",
+     "type": "select-many",
+     "prompt": "Írja a vonalra annak a két folyónak a nevét, amelynek a vize nem közvetlenül a Dunába ömlik!",
+     "points": 2,
+     "options": [
+      "Ipoly",
+      "Tisza",
+      "Dráva",
+      "Rába",
+      "Sió",
+      "Zala",
+      "Mura"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "A két folyó",
+       "answer": "Zala, Mura"
+      }
+     ],
+     "solution": "Zala, Mura (1+1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "d",
+     "type": "select-many",
+     "prompt": "Írja annak a két településnek a nevét a vonalra, amelyik nem folyótorkolatban helyezkedik el!",
+     "points": 2,
+     "options": [
+      "Szolnok",
+      "Siófok",
+      "Cegléd",
+      "Szeged",
+      "Győr",
+      "Révkomárom"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "A két település",
+       "answer": "Siófok, Cegléd"
+      }
+     ],
+     "solution": "Siófok, Cegléd (1+1 pont)",
+     "autoCheck": true
+    },
+    {
+     "label": "e",
+     "type": "select-many",
+     "prompt": "Írja annak a két településnek a nevét a vonalra, amelynek gazdasága nem kapcsolódik szénhidrogén bányászatához vagy feldolgozásához!",
+     "points": 2,
+     "options": [
+      "Szeged",
+      "Zalaegerszeg",
+      "Vác",
+      "Hajdúszoboszló",
+      "Pécs",
+      "Tiszaújváros",
+      "Százhalombatta"
+     ],
+     "items": [
+      {
+       "n": "1",
+       "text": "A két település",
+       "answer": "Vác, Pécs"
+      }
+     ],
+     "solution": "Vác, Pécs (1+1 pont). Megjegyzés: a lehetséges helyes válaszok számánál több pontlevonással jár, de 0-nál kevesebb pont nem adható.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 18,
+   "title": "Sorrendbe állítás – hazai települések és tájak",
+   "instruction": "Állítsa a megadott szempontoknak megfelelően sorrendbe a földrajzi fogalmakat!",
+   "context": "",
+   "pages": [
+    20
+   ],
+   "guidePages": [
+    9,
+    10
+   ],
+   "points": 2,
+   "needsFigure": false,
+   "subtopics": [
+    "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe",
+    "7-2-magyarorszag-termeszeti-adottsagai"
+   ],
+   "concepts": [
+    "tényleges és viszonylagos földrajzi fekvés",
+    "a földtörténet időegységei (idő, időszak, kor)"
+   ],
+   "places": [
+    "magyarorszag--telepulesek--baja",
+    "magyarorszag--telepulesek--hatvan",
+    "magyarorszag--telepulesek--nagykanizsa",
+    "magyarorszag--telepulesek--oroshaza",
+    "magyarorszag--telepulesek--szekesfehervar",
+    "magyarorszag--telepulesek--veszprem",
+    "magyarorszag--telepulesek--zahony",
+    "magyarorszag--egyeb-tajak-teruletek--bukk",
+    "magyarorszag--egyeb-tajak-teruletek--kiskunsag",
+    "magyarorszag--egyeb-tajak-teruletek--matra",
+    "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg"
+   ],
+   "parts": [
+    {
+     "label": "1",
+     "type": "ordering",
+     "prompt": "Állítsa elhelyezkedésük alapján nyugat-kelet irány szerint sorrendbe az alábbi településeket! Írja az 1. sorszámot a legnyugatabbra fekvő település neve mellé!",
+     "points": 1,
+     "items": [
+      {
+       "n": "1",
+       "text": "Baja",
+       "answer": "4"
+      },
+      {
+       "n": "2",
+       "text": "Hatvan",
+       "answer": "5"
+      },
+      {
+       "n": "3",
+       "text": "Nagykanizsa",
+       "answer": "1"
+      },
+      {
+       "n": "4",
+       "text": "Orosháza",
+       "answer": "6"
+      },
+      {
+       "n": "5",
+       "text": "Székesfehérvár",
+       "answer": "3"
+      },
+      {
+       "n": "6",
+       "text": "Veszprém",
+       "answer": "2"
+      },
+      {
+       "n": "7",
+       "text": "Záhony",
+       "answer": "7"
+      }
+     ],
+     "solution": "4. Baja; 5. Hatvan; 1. Nagykanizsa; 6. Orosháza; 3. Székesfehérvár; 2. Veszprém; 7. Záhony. Megjegyzés: csak a helyes sorrend esetén jár 1 pont.",
+     "autoCheck": true
+    },
+    {
+     "label": "2",
+     "type": "ordering",
+     "prompt": "Állítsa fő felépítő kőzetük kialakulásának ideje alapján sorrendbe az alábbi hazai tájakat! Írja az 1. sorszámot a legidősebb kőzetből felépülő táj neve mellé!",
+     "points": 1,
+     "items": [
+      {
+       "n": "1",
+       "text": "Bükk",
+       "answer": "2"
+      },
+      {
+       "n": "2",
+       "text": "Kiskunság",
+       "answer": "4"
+      },
+      {
+       "n": "3",
+       "text": "Mátra",
+       "answer": "3"
+      },
+      {
+       "n": "4",
+       "text": "Velencei-hegység",
+       "answer": "1"
+      }
+     ],
+     "solution": "2. Bükk; 4. Kiskunság; 3. Mátra; 1. Velencei-hegység. Megjegyzés: csak a helyes sorrend esetén jár 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "title": "Hazai települések felismerése",
+   "instruction": "Mely hazai településekre ismer a leírások alapján? Írja a megfelelő település nevét a meghatározások után a pontozott vonalra!",
+   "context": "",
+   "pages": [
+    21
+   ],
+   "guidePages": [
+    10
+   ],
+   "points": 6,
+   "needsFigure": false,
+   "subtopics": [
+    "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi",
+    "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe"
+   ],
+   "concepts": [],
+   "places": [
+    "magyarorszag--telepulesek--paks",
+    "magyarorszag--telepulesek--mohacs",
+    "magyarorszag--telepulesek--papa",
+    "magyarorszag--telepulesek--dunaujvaros",
+    "magyarorszag--telepulesek--esztergom",
+    "magyarorszag--telepulesek--ajka"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "type": "short-answer",
+     "prompt": "Mely hazai településekre ismer a leírások alapján? Írja a megfelelő település nevét a meghatározások után a pontozott vonalra!",
+     "points": 6,
+     "items": [
+      {
+       "n": "1",
+       "text": "A hazai áramtermelés felét szolgáltató erőmű található itt:",
+       "answer": "Paks"
+      },
+      {
+       "n": "2",
+       "text": "A legdélebbi hazai dunai kikötő:",
+       "answer": "Mohács"
+      },
+      {
+       "n": "3",
+       "text": "A Bakony északi lábánál fekvő iskolaváros, az egyik legnagyobb hazai húsüzem telephelye:",
+       "answer": "Pápa"
+      },
+      {
+       "n": "4",
+       "text": "Az egyetlen hazai település, ahol ma is folyik nyersvasgyártás:",
+       "answer": "Dunaújváros"
+      },
+      {
+       "n": "5",
+       "text": "A katolikus egyház hazai központja:",
+       "answer": "Esztergom"
+      },
+      {
+       "n": "6",
+       "text": "Az egykori bányászati és alumíniumipari központ gazdaságában az üveggyártás ma is kiemelkedő jelentőségű:",
+       "answer": "Ajka"
+      }
+     ],
+     "solution": "1. Paks; 2. Mohács; 3. Pápa; 4. Dunaújváros; 5. Esztergom; 6. Ajka. Minden helyes válasz 1 pont.",
+     "autoCheck": true
+    }
+   ]
+  },
+  {
+   "no": 20,
+   "title": "A népességnövekedés környezeti hatásai",
+   "instruction": "Rendszerezze a népességszám gyors növekedéséből levezethető környezeti folyamatokat! Írja az egyes jelenségek, folyamatok sorszámát az ábrába a megfelelő helyre!",
+   "context": "",
+   "pages": [
+    21
+   ],
+   "guidePages": [
+    10
+   ],
+   "points": 11,
+   "needsFigure": true,
+   "figureNote": "Kitöltendő folyamatábra, amely a „Népességszám növekedése” mezőből indul.",
+   "subtopics": [
+    "10-2-demografiai-es-urbanizacios-problemak",
+    "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei"
+   ],
+   "concepts": [
+    "túlnépesedés",
+    "erdőirtás",
+    "talajpusztulás (talajerózió)",
+    "éghajlatváltozás (klímaváltozás)",
+    "a biológiai sokféleség (biodiverzitás) csökkenése"
+   ],
+   "places": [],
+   "parts": [
+    {
+     "label": "",
+     "type": "diagram",
+     "prompt": "Rendszerezze a népességszám gyors növekedéséből levezethető környezeti folyamatokat! Írja az egyes jelenségek, folyamatok sorszámát az ábrába a megfelelő helyre!",
+     "points": 11,
+     "options": [
+      "1. Árvízveszély",
+      "2. Erdők kiirtása",
+      "3. Növekvő nyersanyag- és élelmiszerigény",
+      "4. Globális klímaváltozás",
+      "5. A mezőgazdaság növekvő területigénye",
+      "6. Csökkenő CO2-megkötés",
+      "7. Fajok kipusztulása",
+      "8. Ősi kultúrák pusztulása",
+      "9. Talajpusztulás",
+      "10. Csökkenő vízmegtartás",
+      "11. Csökkenő hozamok"
+     ],
+     "solution": "A kitöltött ábra a szövegkivonatból nem olvasható ki. Minden jó helyre beírt szám 1 pont. Megjegyzés: a 7 és a 8, valamint a 10-1, 9-11 és a 6-4 páros sorrendje egymással felcserélhető. Lásd az útmutató 10. oldalát.",
+     "autoCheck": false
+    }
+   ],
+   "note": "A megoldás (a folyamatábra kitöltése) csak a PDF-ben látható: az útmutató 10. oldalán ellenőrizendő."
+  }
+ ]
+}

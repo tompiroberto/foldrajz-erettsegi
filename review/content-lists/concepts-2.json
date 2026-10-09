@@ -1,0 +1,130 @@
+[
+ {
+  "topicNo": 2,
+  "subtopic": "2.1. A Világegyetem",
+  "kozep": [
+   "fényév",
+   "csillagászati egység (CSE)",
+   "csillag",
+   "bolygó",
+   "csillagrendszer (galaxis)",
+   "csillagkép"
+  ],
+  "emelt": [
+   "ősrobbanás",
+   "a bolygók mozgástörvényei"
+  ]
+ },
+ {
+  "topicNo": 2,
+  "subtopic": "2.2 A Nap és kísérői",
+  "kozep": [
+   "nap- és holdfogyatkozás",
+   "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)",
+   "nagybolygó",
+   "kőzetbolygó (Föld-típusú bolygó)",
+   "gázbolygó (Jupiter-típusú bolygó)",
+   "gyűrűrendszer",
+   "hold",
+   "törpebolygó",
+   "kisbolygó (aszteroida)",
+   "üstökös",
+   "meteoroid",
+   "meteor",
+   "meteorit",
+   "bolygóközi anyag"
+  ],
+  "emelt": [
+   "a Nap gömbhéjai (mag, sugárzási öv, áramlási öv, fotoszféra, kromoszféra, napkorona)",
+   "plazma",
+   "magfúzió (termonukleáris folyamat)",
+   "napkitörés",
+   "napszél",
+   "napfolt",
+   "sarki fény",
+   "naptevékenység",
+   "holdtenger",
+   "meteoritkráter",
+   "az üstökös részei (mag, kóma, csóva)"
+  ]
+ },
+ {
+  "topicNo": 2,
+  "subtopic": "2.3 A Föld és mozgásai",
+  "kozep": [
+   "tengely körüli forgás",
+   "eltérítő erő (Coriolis-erő)",
+   "Nap körüli keringés",
+   "nap",
+   "napszakok",
+   "év",
+   "napi és évi időszámítás",
+   "helyi idő",
+   "zónaidő",
+   "időzóna",
+   "napév",
+   "naptári év",
+   "szökőév",
+   "ekliptika",
+   "tengelyferdeség",
+   "tavaszi és őszi nap-éj egyenlőség",
+   "nyári és téli napforduló",
+   "csillagászati évszakok (tavasz, nyár, ősz, tél)"
+  ],
+  "emelt": [
+   "forgási ellipszoid",
+   "földalak (geoid)",
+   "zenit",
+   "valódi napidő",
+   "középnapidő",
+   "világidő",
+   "delelési magasság",
+   "dátumválasztó vonal"
+  ]
+ },
+ {
+  "topicNo": 2,
+  "subtopic": "2.4. Az űrkutatás",
+  "kozep": [],
+  "emelt": [
+   "űrállomás",
+   "űrszonda",
+   "űrtávcső",
+   "űrhajó",
+   "űrrepülőgép (űrsikló)",
+   "űrszemét",
+   "exobolygó"
+  ]
+ },
+ {
+  "topicNo": 2,
+  "subtopic": "A 2. témakörhöz tartozó egyedi fogalmak",
+  "kozep": [
+   "Világegyetem (Univerzum)",
+   "Tejútrendszer (Galaktika, Galaxis)",
+   "Naprendszer",
+   "Nap",
+   "Hold",
+   "Merkúr",
+   "Vénusz",
+   "Föld",
+   "Mars",
+   "Jupiter",
+   "Szaturnusz",
+   "Uránusz",
+   "Neptunusz",
+   "Plútó",
+   "Nagy Göncöl",
+   "Kis Göncöl"
+  ],
+  "emelt": [
+   "Johannes Kepler",
+   "Jurij Gagarin",
+   "Neil Armstrong",
+   "Bay Zoltán",
+   "Farkas Bertalan",
+   "Juliánus-naptár",
+   "Gergely-naptár"
+  ]
+ }
+]

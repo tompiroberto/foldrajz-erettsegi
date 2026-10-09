@@ -1,0 +1,3454 @@
+{
+  "entries": [
+    {
+      "id": "vizhaztartas",
+      "term": "vízháztartás",
+      "aliases": [
+        "vízmérleg"
+      ],
+      "sourceLabels": [
+        "vízháztartás (párolgás-párologtatás, csapadék, lefolyás)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Egy terület vízbevételeinek és vízkiadásainak mérlege. Bevétel a csapadék (és a hozzáfolyás), kiadás a párolgás-párologtatás, a lefolyás és a beszivárgás. Ha a párolgás tartósan meghaladja a csapadékot, a terület vízhiányos.",
+      "example": "Az Alföldön nyáron a párolgás nagyobb a csapadéknál, ezért gyakori az aszály és szükséges az öntözés.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "vizhaztartas-parolgas-parologtatas",
+        "vizhaztartas-csapadek",
+        "vizhaztartas-lefolyas",
+        "a-viz-korforgasa"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizhaztartas-parolgas-parologtatas",
+      "term": "párolgás-párologtatás",
+      "aliases": [
+        "párolgás",
+        "párologtatás",
+        "evapotranszspiráció"
+      ],
+      "sourceLabels": [],
+      "parent": "vizhaztartas",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A párolgás során a víz a szabad vízfelszínről és a talajból légnemű halmazállapotba kerül; a párologtatás a növények leveleken át történő vízleadása. A kettő együtt a vízháztartás legfontosabb kiadási tétele, mértéke a hőmérséklettel, a széllel és a növényborítottsággal nő.",
+      "example": "A trópusi esőerdő növényzete hatalmas vízmennyiséget párologtat, ez táplálja a helyi csapadékot.",
+      "examplePlaces": [],
+      "related": [
+        "vizhaztartas",
+        "a-viz-korforgasa"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "légkör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizhaztartas-csapadek",
+      "term": "csapadék (a vízháztartásban)",
+      "aliases": [
+        "csapadék"
+      ],
+      "sourceLabels": [],
+      "parent": "vizhaztartas",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A légkörből cseppfolyós vagy szilárd halmazállapotban a felszínre jutó víz; a szárazföldek vízháztartásának fő bevételi forrása. Egy része elpárolog, más része lefolyik vagy beszivárog a talajba.",
+      "example": "A Duna vízgyűjtőjén az Alpokban hulló csapadék és hó táplálja a folyó nyári áradását.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "vizhaztartas",
+        "vizhaztartas-lefolyas",
+        "a-viz-korforgasa"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "időjárás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizhaztartas-lefolyas",
+      "term": "lefolyás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "vizhaztartas",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A csapadéknak az a része, amely a felszínen vagy a felszín alatt a vízfolyásokba, végül a tengerekbe jut. Mértéke a csapadéktól, a párolgástól, a lejtésviszonyoktól, a kőzetek vízáteresztő képességétől és a növényzettől függ.",
+      "example": "Meredek, kopár hegyoldalon a lefolyás gyors és nagy, ezért hirtelen áradások alakulhatnak ki.",
+      "examplePlaces": [],
+      "related": [
+        "vizhaztartas",
+        "vizgyujto-terulet",
+        "lefolyasos-es-belso-lefolyasu-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "a-viz-korforgasa",
+      "term": "a víz körforgása",
+      "aliases": [
+        "vízkörforgás"
+      ],
+      "sourceLabels": [
+        "a víz körforgása"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A víz folyamatos mozgása és halmazállapot-változása a vízburok, a légkör, a szárazföldek és az élővilág között; a Nap energiája és a gravitáció működteti. A kis körforgásban a tenger felett elpárolgó víz oda is hullik vissza, a nagy körforgásban a szárazföldre hullott csapadék lefolyással jut vissza a tengerbe.",
+      "example": "Az Atlanti-óceán felett elpárolgó víz Európa felett csapadékként hullik le, majd a folyók (pl. a Rajna) visszaszállítják a tengerbe.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean",
+        "europa--vizrajz--rajna"
+      ],
+      "related": [
+        "vizhaztartas",
+        "vilagtenger"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "légkör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vilagtenger",
+      "term": "világtenger",
+      "aliases": [],
+      "sourceLabels": [
+        "világtenger"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Az óceánok és tengerek összefüggő, sós vizű víztömege, amely a Föld felszínének kb. 71%-át borítja és a Föld vízkészletének túlnyomó részét (kb. 97%) tartalmazza. Óceánokra és tengerekre tagolódik.",
+      "example": "A Csendes-, az Atlanti-, az Indiai- és a Jeges-óceán, valamint tengereik egységes világtengert alkotnak.",
+      "examplePlaces": [
+        "fold--oceanok--csendes-ocean"
+      ],
+      "related": [
+        "ocean",
+        "tenger",
+        "sotartalom"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ocean",
+      "term": "óceán",
+      "aliases": [],
+      "sourceLabels": [
+        "óceán"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A világtenger kontinensek közötti, nagy kiterjedésű és nagy mélységű része, amelynek önálló áramlási és árapályrendszere van. Aljzatát óceáni kőzetlemez alkotja.",
+      "example": "A legnagyobb és legmélyebb óceán a Csendes-óceán; itt található a Mariana-árok is.",
+      "examplePlaces": [
+        "fold--oceanok--csendes-ocean",
+        "fold--nagyszerkezeti-egysegek--mariana-arok"
+      ],
+      "related": [
+        "vilagtenger",
+        "tenger",
+        "oceani-vizkorzes"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tenger",
+      "term": "tenger",
+      "aliases": [],
+      "sourceLabels": [
+        "tenger"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A világtenger kisebb, szárazföldekkel, szigetekkel részben elhatárolt része, amelynek nincs önálló áramlási rendszere. Hőmérsékletét, sótartalmát erősen befolyásolja a környező szárazföld (éghajlat, befolyó folyók). Fekvése szerint lehet beltenger, peremtenger vagy földközi tenger.",
+      "example": "A Balti-tenger beltenger, az Északi-tenger peremtenger.",
+      "examplePlaces": [
+        "europa--vizrajz--balti-tenger",
+        "europa--vizrajz--eszaki-tenger"
+      ],
+      "related": [
+        "ocean",
+        "beltenger",
+        "peremtenger",
+        "foldkozi-tenger"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "beltenger",
+      "term": "beltenger",
+      "aliases": [],
+      "sourceLabels": [
+        "beltenger"
+      ],
+      "parent": "tenger",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Szárazföldbe mélyen benyúló tenger, amely a világtengerrel csak keskeny tengerszoroson keresztül áll kapcsolatban. Vize lassan cserélődik, ezért sótartalmát erősen befolyásolja a párolgás és a befolyó folyók vize.",
+      "example": "A Fekete-tenger a Boszporuszon át kapcsolódik a világtengerhez; a Balti-tenger a sok befolyó folyó miatt kis sótartalmú.",
+      "examplePlaces": [
+        "europa--vizrajz--fekete-tenger",
+        "azsia--vizrajz--boszporusz",
+        "europa--vizrajz--balti-tenger"
+      ],
+      "related": [
+        "tenger",
+        "tengerszoros",
+        "sotartalom"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "peremtenger",
+      "term": "peremtenger",
+      "aliases": [],
+      "sourceLabels": [
+        "peremtenger"
+      ],
+      "parent": "tenger",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Az óceánok szélén elhelyezkedő tenger, amelyet szigetek, félszigetek csak részben választanak el az óceántól, így széles kapcsolatban áll vele. Többnyire a szárazföldi talapzat felett fekszik, ezért viszonylag sekély.",
+      "example": "Az Északi-tenger a self felett fekvő peremtenger; jelentős halászata és kőolaj-, földgáztermelése van.",
+      "examplePlaces": [
+        "europa--vizrajz--eszaki-tenger",
+        "azsia--vizrajz--japan-keleti-tenger"
+      ],
+      "related": [
+        "tenger",
+        "szarazfoldi-talapzat"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldkozi-tenger",
+      "term": "földközi tenger",
+      "aliases": [],
+      "sourceLabels": [
+        "földközi tenger"
+      ],
+      "parent": "tenger",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "Kontinensek közé ékelődött, nagy mélységű tenger, amely tengerszorosokon keresztül kapcsolódik az óceánhoz. Figyelj: a „földközi tenger” típusnév, az Európai Földközi-tenger ennek csak egyik példája.",
+      "example": "Az Európai Földközi-tenger Európa, Ázsia és Afrika között fekszik, a Gibraltári-szoroson át kapcsolódik az Atlanti-óceánhoz; az Amerikai Földközi-tengert a Karib-tenger és a Mexikói-öböl alkotja.",
+      "examplePlaces": [
+        "europa--vizrajz--foldkozi-tenger",
+        "afrika--vizrajz--gibraltari-szoros",
+        "amerika--vizrajz--karib-antilla-tenger",
+        "amerika--vizrajz--mexikoi-obol"
+      ],
+      "related": [
+        "tenger",
+        "beltenger",
+        "tengerszoros"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tengerszoros",
+      "term": "tengerszoros",
+      "aliases": [],
+      "sourceLabels": [
+        "tengerszoros"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Két szárazföld (vagy sziget) közötti keskeny vízfelület, amely két tengert vagy tengert és óceánt köt össze. Hajózási és stratégiai jelentősége nagy.",
+      "example": "A Gibraltári-szoros a Földközi-tengert, a Bering-szoros a Csendes-óceánt és a Jeges-tengert köti össze.",
+      "examplePlaces": [
+        "afrika--vizrajz--gibraltari-szoros",
+        "azsia--vizrajz--bering-szoros",
+        "azsia--vizrajz--boszporusz"
+      ],
+      "related": [
+        "beltenger",
+        "tenger"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "obol",
+      "term": "öböl",
+      "aliases": [],
+      "sourceLabels": [
+        "öböl"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A tengernek (óceánnak, tónak) a szárazföldbe benyúló, széles szájjal nyíló része. Vize szabadon cserélődik a nyílt tengerrel.",
+      "example": "A Guineai-öböl Nyugat-Afrika partjainál, a Botteni-öböl a Balti-tenger északi részén található.",
+      "examplePlaces": [
+        "afrika--vizrajz--guineai-obol",
+        "europa--vizrajz--botteni-obol"
+      ],
+      "related": [
+        "tenger"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szarazfoldi-talapzat",
+      "term": "szárazföldi talapzat (self)",
+      "aliases": [
+        "self",
+        "kontinentális talapzat"
+      ],
+      "sourceLabels": [
+        "szárazföldi talapzat (self)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A kontinensek tenger alá nyúló, enyhén lejtő pereme, amely általában kb. 200 m mélységig tart; kontinentális kéreg alkotja. Gazdag élővilága miatt fontos halászterület, üledékeiben gyakran kőolaj és földgáz található.",
+      "example": "Az Északi-tenger selfjén kőolaj- és földgázmezőket termelnek ki.",
+      "examplePlaces": [
+        "europa--vizrajz--eszaki-tenger"
+      ],
+      "related": [
+        "kontinentalis-lejto",
+        "peremtenger",
+        "halaszat"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "kőzetburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kontinentalis-lejto",
+      "term": "kontinentális lejtő",
+      "aliases": [],
+      "sourceLabels": [
+        "kontinentális lejtő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A szárazföldi talapzat pereméről az óceánmedence mélytengeri síksága felé meredeken lejtő felszín. A kontinentális és az óceáni kéreg határának közelében húzódik.",
+      "example": "Az Atlanti-óceán partjai mentén a self szélétől a kontinentális lejtő vezet le a mélytengeri síkságra.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "szarazfoldi-talapzat",
+        "ocean"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "kőzetburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fajlagos-hokapacitas",
+      "term": "fajlagos hőkapacitás (fajhő)",
+      "aliases": [
+        "fajhő"
+      ],
+      "sourceLabels": [
+        "fajlagos hőkapacitás (fajhő)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Az a hőmennyiség, amely 1 kg anyag hőmérsékletét 1 °C-kal emeli. A víz fajhője nagy (kb. 4,2 kJ/kg·°C), a kőzeteké jóval kisebb, ezért a víz lassan melegszik fel és lassan hűl le, sok hőt tárol.",
+      "example": "Nyári napon a homokos part gyorsan felforrósodik, a Balaton vize viszont csak lassan melegszik.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton"
+      ],
+      "related": [
+        "huto-futo-hatas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sotartalom",
+      "term": "sótartalom",
+      "aliases": [
+        "sótartalom (szalinitás)"
+      ],
+      "sourceLabels": [
+        "sótartalom"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Az 1 kg tengervízben oldott sók mennyisége, ezrelékben (‰) megadva; a világtenger átlagos sótartalma kb. 35‰. Ahol a párolgás erős és kevés a csapadék és a hozzáfolyás, ott nagyobb; ahol sok a csapadék, a befolyó folyóvíz vagy az olvadó jég, ott kisebb.",
+      "example": "A Vörös-tenger sótartalma a nagy párolgás miatt az átlagnál nagyobb, a Balti-tengeré a sok befolyó folyó miatt kisebb.",
+      "examplePlaces": [
+        "afrika--vizrajz--voros-tenger",
+        "europa--vizrajz--balti-tenger",
+        "azsia--vizrajz--holt-tenger"
+      ],
+      "related": [
+        "vilagtenger",
+        "beltenger"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "huto-futo-hatas",
+      "term": "hűtő-fűtő hatás",
+      "aliases": [],
+      "sourceLabels": [
+        "hűtő-fűtő hatás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A nagy vízfelületek hőmérséklet-kiegyenlítő hatása: nagy fajhőjük miatt nyáron lassan melegszenek fel és hűtik környezetüket, télen lassan hűlnek le és fűtik azt. Ezért tengerparton kisebb az évi hőingás (óceáni éghajlat).",
+      "example": "A Balaton partján ősszel később jönnek a fagyok, mint a környező tájakon, ezért kedvező a szőlőtermesztés.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton",
+        "magyarorszag--egyeb-tajak-teruletek--badacsony"
+      ],
+      "related": [
+        "fajlagos-hokapacitas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hullamzas",
+      "term": "hullámzás",
+      "aliases": [],
+      "sourceLabels": [
+        "hullámzás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A víz felszínének főként a szél által keltett, ismétlődő emelkedése és süllyedése. A vízrészecskék közel körpályán mozognak, a víz tehát nem halad előre, csak a hullámforma és az energia; a mozgás a mélységgel gyorsan gyengül. A sekély partközelben a hullám megtörik és pusztítja a partot (abrázió).",
+      "example": "A Balatonon erős északi szélben a déli, sekély parton magas, törő hullámok alakulnak ki.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton"
+      ],
+      "related": [
+        "tengerjaras",
+        "vihardagaly"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "felszínformálás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hideg-es-meleg-tengeraramlas",
+      "term": "hideg és meleg tengeráramlás",
+      "aliases": [
+        "tengeráramlás"
+      ],
+      "sourceLabels": [
+        "hideg és meleg tengeráramlás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A tengerjáráson kívül a tengervíz nagy kiterjedésű, állandó irányú vízszintes mozgása. Fő hajtóereje az állandó szelek (passzát, nyugati szelek), irányát a Coriolis-erő és a kontinensek partjai térítik el. A környezeténél melegebb vagy hidegebb vizet szállító áramlás a partvidék éghajlatát módosítja.",
+      "example": "A Golf-áramlás és folytatása, az Észak-atlanti-áramlás meleg, a Labrador-áramlás hideg tengeráramlás.",
+      "examplePlaces": [
+        "fold--tengeraramlasok--golf-aramlas",
+        "fold--tengeraramlasok--labrador-aramlas"
+      ],
+      "related": [
+        "meleg-tengeraramlas",
+        "hideg-tengeraramlas",
+        "oceani-vizkorzes",
+        "homersekleti-anomalia"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat",
+        "légkörzés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "meleg-tengeraramlas",
+      "term": "meleg tengeráramlás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hideg-es-meleg-tengeraramlas",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Környezeténél melegebb vizet szállító tengeráramlás, amely általában az alacsonyabb szélességek felől a magasabbak felé halad. Partvidékén enyhébb, csapadékosabb az éghajlat.",
+      "example": "Az Észak-atlanti-áramlás miatt Norvégia kikötői télen is jégmentesek; a Kuro-shio Japán déli partjait melegíti.",
+      "examplePlaces": [
+        "fold--tengeraramlasok--eszak-atlanti-aramlas",
+        "fold--tengeraramlasok--kuro-shio-aramlas",
+        "fold--tengeraramlasok--braziliai-aramlas"
+      ],
+      "related": [
+        "hideg-es-meleg-tengeraramlas",
+        "hideg-tengeraramlas",
+        "pozitiv-homersekleti-anomalia"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hideg-tengeraramlas",
+      "term": "hideg tengeráramlás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hideg-es-meleg-tengeraramlas",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "Környezeténél hidegebb vizet szállító tengeráramlás, amely a magas szélességek felől halad vagy a mélyből feláramló hideg vízből táplálkozik. Lehűti a fölötte lévő levegőt, ezért partvidékén csökken a csapadék; a térítők mentén parti sivatagok kísérik. Tápanyagban gazdag vize kiváló halászterület.",
+      "example": "A Humboldt-áramlás mellett az Atacama-sivatag, a Benguela-áramlás mellett a Namib-sivatag húzódik.",
+      "examplePlaces": [
+        "fold--tengeraramlasok--humboldt-aramlas",
+        "amerika--tajak--atacama-sivatag",
+        "fold--tengeraramlasok--benguela-aramlas",
+        "afrika--tajak--namib-sivatag"
+      ],
+      "related": [
+        "hideg-es-meleg-tengeraramlas",
+        "meleg-tengeraramlas",
+        "negativ-homersekleti-anomalia",
+        "halaszat"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tengerjaras",
+      "term": "tengerjárás",
+      "aliases": [
+        "árapály"
+      ],
+      "sourceLabels": [
+        "tengerjárás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A tenger szintjének szabályos, periodikus emelkedése és süllyedése, amelyet főként a Hold (kisebb mértékben a Nap) tömegvonzása és a Föld–Hold rendszer keringéséből adódó erő hoz létre. Egy helyen naponta általában kétszer van dagály és kétszer apály.",
+      "example": "A La Manche partjain a tengerjárás nagy szintkülönbsége miatt a kikötők csak dagálykor hajózhatók könnyen; Franciaországban árapály-erőművet is építettek.",
+      "examplePlaces": [
+        "europa--vizrajz--la-manche"
+      ],
+      "related": [
+        "apaly",
+        "dagaly",
+        "szokoar",
+        "vakar",
+        "vihardagaly"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "csillagászat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "apaly",
+      "term": "apály",
+      "aliases": [],
+      "sourceLabels": [
+        "apály"
+      ],
+      "parent": "tengerjaras",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A tengerjárás során a vízszint süllyedésének szakasza, illetve a legalacsonyabb vízállás. Ilyenkor lapos partokon széles sávban szárazra kerül a tengerfenék.",
+      "example": "Az Északi-tenger lapos, holland–német partvidékén apálykor gyalog is bejárható a kiszáradt tengerfenék (watt).",
+      "examplePlaces": [
+        "europa--vizrajz--eszaki-tenger"
+      ],
+      "related": [
+        "tengerjaras",
+        "dagaly"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "dagaly",
+      "term": "dagály",
+      "aliases": [],
+      "sourceLabels": [
+        "dagály"
+      ],
+      "parent": "tengerjaras",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "kozep",
+      "definition": "A tengerjárás során a vízszint emelkedésének szakasza, illetve a legmagasabb vízállás. A Föld Hold felé eső és azzal ellentétes oldalán egyszerre alakul ki.",
+      "example": "Tölcsértorkolatú folyókba (pl. a Temzébe) dagálykor a tengervíz mélyen benyomul, ami segíti a hajózást.",
+      "examplePlaces": [
+        "europa--vizrajz--temze"
+      ],
+      "related": [
+        "tengerjaras",
+        "apaly",
+        "szokoar"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szokoar",
+      "term": "szökőár",
+      "aliases": [],
+      "sourceLabels": [
+        "szökőár"
+      ],
+      "parent": "tengerjaras",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "A legnagyobb szintkülönbségű tengerjárás, amely újholdkor és teliholdkor alakul ki, amikor a Nap, a Föld és a Hold egy egyenesbe esik, így a Nap és a Hold árkeltő hatása összeadódik. Figyelj: a szökőár nem azonos a cunamival!",
+      "example": "Holdtöltekor a La Manche partján a szokásosnál magasabb dagály és alacsonyabb apály figyelhető meg.",
+      "examplePlaces": [
+        "europa--vizrajz--la-manche"
+      ],
+      "related": [
+        "tengerjaras",
+        "vakar",
+        "dagaly"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "csillagászat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vakar",
+      "term": "vakár",
+      "aliases": [],
+      "sourceLabels": [
+        "vakár"
+      ],
+      "parent": "tengerjaras",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "A legkisebb szintkülönbségű tengerjárás, amely első és utolsó negyedkor alakul ki, amikor a Nap és a Hold a Földről nézve derékszögben áll, így árkeltő hatásuk részben kioltja egymást.",
+      "example": "A Hold első negyedekor a tengerparti kikötőkben a dagály alacsonyabb, az apály magasabb a szokásosnál.",
+      "examplePlaces": [],
+      "related": [
+        "tengerjaras",
+        "szokoar"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "csillagászat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vihardagaly",
+      "term": "vihardagály",
+      "aliases": [],
+      "sourceLabels": [
+        "vihardagály"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "A szárazföld felé fújó viharos szél által a partra torlasztott víz okozta rendkívüli vízszintemelkedés, amely különösen veszélyes, ha dagállyal (szökőárral) esik egybe. Alacsony partvidékeken súlyos áradásokat okoz.",
+      "example": "Az Északi-tenger vihardagályai ellen Hollandia a Holland-mélyföldet hatalmas gátrendszerrel védi.",
+      "examplePlaces": [
+        "europa--vizrajz--eszaki-tenger",
+        "europa--tajak--holland-melyfold"
+      ],
+      "related": [
+        "tengerjaras",
+        "dagaly",
+        "polder"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "homersekleti-anomalia",
+      "term": "pozitív és negatív hőmérsékleti anomália",
+      "aliases": [
+        "hőmérsékleti anomália"
+      ],
+      "sourceLabels": [
+        "pozitív és negatív hőmérsékleti anomália"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "Egy hely átlagos hőmérsékletének eltérése az adott szélességi kör átlaghőmérsékletétől. Főként a tengeráramlások, a szárazföld–tenger eloszlás és a domborzat okozza.",
+      "example": "Ugyanazon szélességen Norvégia partvidéke télen jóval enyhébb, a Labrador-félsziget jóval hidegebb az átlagnál.",
+      "examplePlaces": [
+        "europa--orszagok--norvegia",
+        "amerika--tajak--labrador-felsziget"
+      ],
+      "related": [
+        "pozitiv-homersekleti-anomalia",
+        "negativ-homersekleti-anomalia",
+        "hideg-es-meleg-tengeraramlas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "pozitiv-homersekleti-anomalia",
+      "term": "pozitív hőmérsékleti anomália",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "homersekleti-anomalia",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "A szélességi kör átlagánál magasabb hőmérséklet, amelyet leggyakrabban meleg tengeráramlás okoz.",
+      "example": "Az Észak-atlanti-áramlás miatt Nyugat- és Észak-Európa partvidékén télen jóval enyhébb az idő, mint a szélességi kör átlaga.",
+      "examplePlaces": [
+        "fold--tengeraramlasok--eszak-atlanti-aramlas",
+        "europa--orszagok--norvegia"
+      ],
+      "related": [
+        "homersekleti-anomalia",
+        "meleg-tengeraramlas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "negativ-homersekleti-anomalia",
+      "term": "negatív hőmérsékleti anomália",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "homersekleti-anomalia",
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "A szélességi kör átlagánál alacsonyabb hőmérséklet, amelyet hideg tengeráramlás, a kontinentalitás vagy a nagy tengerszint feletti magasság okoz.",
+      "example": "A Labrador-áramlás miatt a Labrador-félsziget sokkal hidegebb, mint az azonos szélességen fekvő Brit-szigetek.",
+      "examplePlaces": [
+        "fold--tengeraramlasok--labrador-aramlas",
+        "amerika--tajak--labrador-felsziget"
+      ],
+      "related": [
+        "homersekleti-anomalia",
+        "hideg-tengeraramlas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oceani-vizkorzes",
+      "term": "óceáni vízkörzés",
+      "aliases": [],
+      "sourceLabels": [
+        "óceáni vízkörzés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.1 A vízburok tagolódása, tulajdonságai és mozgásai",
+      "level": "emelt",
+      "definition": "Az óceánok felszíni és mélységi áramlásainak összefüggő rendszere. A felszíni áramlások az általános légkörzés szélrendszereit követik: a passzát hajtja az egyenlítői áramlásokat, a nyugati szelek a Nyugati-szél-áramlást, így az óceánmedencékben nagy áramlási körök alakulnak ki (az északi félgömbön az óramutató járásával egyező, a délin ellentétes irányban). A mélységi áramlásokat a víz hőmérséklet- és sótartalom-különbségéből adódó sűrűségkülönbség hajtja.",
+      "example": "Az Atlanti-óceán északi részén az Észak-egyenlítői-áramlás, a Golf-áramlás, az Észak-atlanti-áramlás és a Kanári-áramlás zárt kört alkot.",
+      "examplePlaces": [
+        "fold--tengeraramlasok--eszak-egyenlitoi-aramlas",
+        "fold--tengeraramlasok--golf-aramlas",
+        "fold--tengeraramlasok--kanari-aramlas",
+        "fold--tengeraramlasok--nyugati-szel-aramlas"
+      ],
+      "related": [
+        "hideg-es-meleg-tengeraramlas",
+        "ocean",
+        "el-nino"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "légkörzés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "alloviz",
+      "term": "állóvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "állóvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Természetes vagy mesterséges mélyedésben összegyűlt, nem (vagy alig) folyó felszíni víz. Típusai a tó, a fertő, a mocsár és a láp, amelyek egyben a tavak pusztulásának egymást követő szakaszai is lehetnek.",
+      "example": "A Balaton tó, a Kis-Balaton mocsaras, lápos terület.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton",
+        "magyarorszag--vizrajz--kis-balaton"
+      ],
+      "related": [
+        "to",
+        "ferto",
+        "mocsar",
+        "lap",
+        "feltoltodes"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "to",
+      "term": "tó",
+      "aliases": [],
+      "sourceLabels": [
+        "tó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Szárazföldi mélyedésben (tómedencében) felgyűlt állóvíz, amely nem áll közvetlen kapcsolatban a világtengerrel, és nagyobb részén szabad vízfelülete van. Medencéje keletkezése szerint lehet kimélyített vagy elgátolt; vízutánpótlását csapadék, befolyó vízfolyások és források adják.",
+      "example": "A Balaton Közép-Európa legnagyobb tava; a Bajkál-tó a Föld legmélyebb tava.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton",
+        "azsia--vizrajz--bajkal-to"
+      ],
+      "related": [
+        "alloviz",
+        "tomedence",
+        "feltoltodes"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ferto",
+      "term": "fertő",
+      "aliases": [],
+      "sourceLabels": [
+        "fertő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Sekély állóvíz, amelyben a nyílt vízfelület és a hínáros, nádas, gyékényes foltok váltakoznak. A tó feltöltődésének a mocsár előtti szakasza.",
+      "example": "A Fertő (Fertő tó) nagy részét nádas borítja, a nyílt vízfelületek között csatornák húzódnak.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--ferto"
+      ],
+      "related": [
+        "to",
+        "mocsar",
+        "feltoltodes"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mocsar",
+      "term": "mocsár",
+      "aliases": [],
+      "sourceLabels": [
+        "mocsár"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Sekély, növényzettel csaknem teljesen benőtt, tartósan vagy időszakosan vízzel borított terület, ahol a növényi maradványok a vízben nagyrészt lebomlanak. A tavak feltöltődésének késői szakasza.",
+      "example": "A Kis-Balaton területe a Zala torkolatánál mocsaras, nádas vidék.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--kis-balaton",
+        "magyarorszag--vizrajz--zala"
+      ],
+      "related": [
+        "ferto",
+        "lap",
+        "feltoltodes"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lap",
+      "term": "láp",
+      "aliases": [],
+      "sourceLabels": [
+        "láp"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Vízzel borított, növényzettel benőtt terület, ahol a víz alá kerülő növényi maradványok oxigénhiány miatt nem bomlanak le teljesen, hanem tőzeggé alakulnak. A feltöltődés egyik végső szakasza.",
+      "example": "A Hanság egykori lápjain tőzeg halmozódott fel, amelyet a lecsapolás után ki is termeltek.",
+      "examplePlaces": [],
+      "related": [
+        "mocsar",
+        "feltoltodes",
+        "lecsapolodas"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "talaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tomedence",
+      "term": "kimélyített és elgátolt tómedence",
+      "aliases": [
+        "tómedence"
+      ],
+      "sourceLabels": [
+        "kimélyített és elgátolt tómedence"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A tómedencéket keletkezésük szerint két nagy csoportba soroljuk: a kimélyített medencét valamilyen erő (kéregmozgás, jég, szél, vulkáni működés, karsztos oldás, folyó) mélyítette ki, az elgátolt medencében egy völgyet természetes gát zár el.",
+      "example": "A Bajkál-tó kimélyített (tektonikus), a Gyilkos-tó hegyomlással elgátolt tómedencében fekszik.",
+      "examplePlaces": [
+        "azsia--vizrajz--bajkal-to",
+        "europa--vizrajz--gyilkos-to"
+      ],
+      "related": [
+        "kimelyitett-tomedence",
+        "elgatolt-tomedence",
+        "to"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "felszínformálás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kimelyitett-tomedence",
+      "term": "kimélyített tómedence",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tomedence",
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan tómedence, amelyet belső vagy külső erő mélyített ki: kéregmozgás (tektonikus tó), jég (jégvájta tó, tengerszem), szél (szélvájta tó), vulkáni működés (krátertó, kalderató) vagy karsztos oldás (poljetó).",
+      "example": "A finn tavak medencéit a pleisztocén belföldi jégtakaró vájta ki.",
+      "examplePlaces": [
+        "europa--tajak--finn-tovidek"
+      ],
+      "related": [
+        "tomedence",
+        "tektonikus-eredetu-to",
+        "jegvajta-to",
+        "szelvajta-to",
+        "kraterto"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "elgatolt-tomedence",
+      "term": "elgátolt tómedence",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tomedence",
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan tómedence, amelyben egy völgyet természetes gát zár el: moréna, hegyomlás, földcsuszamlás, lávafolyás vagy folyóhordalék. A mesterséges tavak gátjai ennek emberi megfelelői.",
+      "example": "A Gyilkos-tavat a Keleti-Kárpátokban egy hegyomlás torlasza duzzasztotta fel.",
+      "examplePlaces": [
+        "europa--vizrajz--gyilkos-to",
+        "europa--tajak--keleti-karpatok"
+      ],
+      "related": [
+        "tomedence",
+        "morena-altal-elgatolt-to",
+        "mesterseges-to"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "jegvajta-to",
+      "term": "jégvájta tó",
+      "aliases": [
+        "glaciális tó"
+      ],
+      "sourceLabels": [
+        "jégvájta tó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A gleccserek vagy a belföldi jégtakaró által kivájt mélyedésben keletkezett tó. A pleisztocén jégtakaró egykori területén tóvidékeket alkotnak, magashegységekben tengerszemként jelennek meg.",
+      "example": "A Finn-tóvidék tavai, a Ladoga-tó és az észak-amerikai Nagy-tavak medencéjét is a jég formálta.",
+      "examplePlaces": [
+        "europa--tajak--finn-tovidek",
+        "europa--vizrajz--ladoga-to",
+        "amerika--vizrajz--nagy-tavak-erie-felso-huron-michigan-ontario-to"
+      ],
+      "related": [
+        "tengerszem",
+        "morena-altal-elgatolt-to",
+        "kimelyitett-tomedence"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "jég-munkája"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "morotvato",
+      "term": "morotvató",
+      "aliases": [
+        "holtág",
+        "morotva"
+      ],
+      "sourceLabels": [
+        "morotvató"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A folyó lefűződött, elhagyott kanyarulatában (meanderében) visszamaradt, patkó alakú tó. Kialakulhat természetes úton vagy folyószabályozáskor végzett kanyarulat-átvágással.",
+      "example": "A Tisza mentén a 19. századi folyószabályozás átvágásai nyomán számos holtág maradt vissza.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "kimelyitett-tomedence",
+        "folyoszabalyozas"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "felszínformálás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szelvajta-to",
+      "term": "szélvájta tó",
+      "aliases": [],
+      "sourceLabels": [
+        "szélvájta tó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A szél kifúvó (deflációs) munkája által kimélyített, általában sekély mélyedésben kialakult tó. Száraz, homokos területeken jellemző, vize gyakran szikes és nyáron kiszáradhat.",
+      "example": "A Duna–Tisza közén a homokbuckák közötti kifúvásos mélyedésekben sekély szikes tavak alakultak ki.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+        "magyarorszag--egyeb-tajak-teruletek--kiskunsag"
+      ],
+      "related": [
+        "kimelyitett-tomedence",
+        "idoszakos-to"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "felszínformálás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "morena-altal-elgatolt-to",
+      "term": "moréna által elgátolt tó",
+      "aliases": [],
+      "sourceLabels": [
+        "moréna által elgátolt tó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan tó, amelynek medencéjét a gleccser által lerakott végmoréna gátja zárja el. Gyakran a jég által kimélyített völgyben fekszik, ezért hosszan elnyúlt.",
+      "example": "Az Alpok déli peremén a Garda-tó jégvájta völgyét végmoréna-sáncok zárják el.",
+      "examplePlaces": [
+        "europa--vizrajz--garda-to",
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "elgatolt-tomedence",
+        "jegvajta-to"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "jég-munkája"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tektonikus-eredetu-to",
+      "term": "tektonikus eredetű tó",
+      "aliases": [],
+      "sourceLabels": [
+        "tektonikus eredetű tó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Kéregmozgások (vetődés, árkos vagy medencés süllyedés) során kialakult medencében felgyűlt tó. Az árokban kialakult tavak hosszan elnyúltak és nagyon mélyek lehetnek.",
+      "example": "A Bajkál-tó és a Tanganyika-tó tektonikus árokban fekszik; a Balaton medencéje is tektonikus süllyedéssel keletkezett.",
+      "examplePlaces": [
+        "azsia--vizrajz--bajkal-to",
+        "afrika--vizrajz--tanganyika-to",
+        "magyarorszag--vizrajz--balaton"
+      ],
+      "related": [
+        "kimelyitett-tomedence",
+        "to"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "lemeztektonika"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kraterto",
+      "term": "krátertó",
+      "aliases": [],
+      "sourceLabels": [
+        "krátertó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Kialudt vulkán kráterében összegyűlt csapadékvízből keletkezett tó. Kerek alakú, rendszerint kis kiterjedésű.",
+      "example": "A Szent Anna-tó a Csomád-hegység kialudt vulkánjának kráterében található.",
+      "examplePlaces": [
+        "europa--vizrajz--szent-anna-to"
+      ],
+      "related": [
+        "kalderato",
+        "kimelyitett-tomedence"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "vulkanizmus"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "maradvanyto",
+      "term": "maradványtó",
+      "aliases": [
+        "reliktum tó"
+      ],
+      "sourceLabels": [
+        "maradványtó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Egykori nagyobb víztömeg, többnyire tenger visszahúzódása vagy elzáródása után visszamaradt tó. Vize gyakran sós.",
+      "example": "A Kaszpi-tenger egy egykori tenger maradványa, ezért vize sós.",
+      "examplePlaces": [
+        "azsia--vizrajz--kaszpi-tenger"
+      ],
+      "related": [
+        "to",
+        "lefolyasos-es-belso-lefolyasu-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mesterseges-to",
+      "term": "mesterséges tó",
+      "aliases": [
+        "víztározó"
+      ],
+      "sourceLabels": [
+        "mesterséges tó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Emberi tevékenységgel létrehozott tó: gáttal elzárt völgyben (víztározó), bányagödörben (bányató) vagy kiásott medencében. Szolgálhat vízellátást, öntözést, energiatermelést, árvízvédelmet és üdülést, de megváltoztatja a környezetet (elönti a völgyet, visszatartja a hordalékot).",
+      "example": "A Tisza-tó a Kiskörei vízlépcső duzzasztásával jött létre; a Nílus Asszuáni-gátja mögött a Nasszer-tó keletkezett.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza-to",
+        "afrika--vizrajz--asszuani-gat-asszuani-nagy-gat"
+      ],
+      "related": [
+        "viztarozo",
+        "elgatolt-tomedence"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "feltoltodes",
+      "term": "feltöltődés",
+      "aliases": [],
+      "sourceLabels": [
+        "feltöltődés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A tavak természetes pusztulásának leggyakoribb módja: a befolyó vízfolyások hordaléka és az elhalt növényi maradványok fokozatosan kitöltik a medencét. Szakaszai: tó → fertő → mocsár, láp → szárazulat; a tápanyagterhelés (eutrofizáció) gyorsítja.",
+      "example": "A Zala hordalékától a Kis-Balaton feltöltődött; mai mocsárvilága a Balatont is védi.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--kis-balaton",
+        "magyarorszag--vizrajz--zala"
+      ],
+      "related": [
+        "ferto",
+        "mocsar",
+        "lap",
+        "eutrofizacio",
+        "lecsapolodas",
+        "kiszaradas"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lecsapolodas",
+      "term": "lecsapolódás",
+      "aliases": [
+        "lecsapolás"
+      ],
+      "sourceLabels": [
+        "lecsapolódás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A tavak pusztulásának az a módja, amikor a tóból kifolyó vízfolyás bevágja medrét, és a tó vize lefolyik. Ha az ember csatornákkal vezeti el a vizet, lecsapolásról beszélünk.",
+      "example": "A 19. században lecsapolták az Ecsedi-láp és a Hanság nagy részét, hogy szántóföldet nyerjenek.",
+      "examplePlaces": [],
+      "related": [
+        "feltoltodes",
+        "kiszaradas",
+        "lap"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kiszaradas",
+      "term": "kiszáradás",
+      "aliases": [],
+      "sourceLabels": [
+        "kiszáradás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A tavak pusztulásának az a módja, amikor a párolgás tartósan meghaladja a vízutánpótlást (csapadék, hozzáfolyás). Száraz éghajlaton jellemző; felgyorsítja a befolyó folyók vizének öntözésre való elvezetése.",
+      "example": "Az Aral-tó területe az Amu-darja és a Szir-darja vizének öntözésre való elvezetése miatt drámaian lecsökkent; a Csád-tó is erősen zsugorodott.",
+      "examplePlaces": [
+        "azsia--vizrajz--aral-to",
+        "afrika--vizrajz--csad-to"
+      ],
+      "related": [
+        "feltoltodes",
+        "lecsapolodas",
+        "idoszakos-to",
+        "ontozoviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizgyujto-terulet",
+      "term": "vízgyűjtő terület",
+      "aliases": [
+        "vízgyűjtő"
+      ],
+      "sourceLabels": [
+        "vízgyűjtő terület"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Az a terület, amelynek felszíni (és felszín alatti) vizeit egy folyó a mellékfolyóival együtt összegyűjti. Határa a vízválasztó.",
+      "example": "Magyarország teljes területe a Duna vízgyűjtőjéhez tartozik.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "vizvalaszto",
+        "fo-es-mellekfolyo",
+        "vizjaras"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizvalaszto",
+      "term": "vízválasztó",
+      "aliases": [],
+      "sourceLabels": [
+        "vízválasztó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A szomszédos vízgyűjtő területeket elválasztó vonal, amely többnyire hegygerinceken, magaslatokon húzódik. Két oldalán a vizek különböző folyókba, tengerekbe folynak le.",
+      "example": "A Nagy-Vízválasztó-hegység Ausztrália keleti partja és a belső területek vizeit választja el.",
+      "examplePlaces": [
+        "ausztralia-es-oceania--tajak--nagy-vizvalaszto-hegyseg"
+      ],
+      "related": [
+        "vizgyujto-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fo-es-mellekfolyo",
+      "term": "fő- és mellékfolyó",
+      "aliases": [],
+      "sourceLabels": [
+        "fő- és mellékfolyó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A folyóhálózat tagjai: a főfolyó közvetlenül tengerbe vagy tóba torkollik, a mellékfolyó egy másik folyóba ömlik. Egy mellékfolyónak is lehetnek további mellékfolyói.",
+      "example": "A Duna főfolyó (a Fekete-tengerbe ömlik), a Tisza a Duna, a Maros a Tisza mellékfolyója.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna",
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--vizrajz--maros"
+      ],
+      "related": [
+        "fofolyo",
+        "mellekfolyo",
+        "vizgyujto-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fofolyo",
+      "term": "főfolyó",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "fo-es-mellekfolyo",
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan folyó, amely közvetlenül tengerbe, óceánba vagy (belső lefolyású területen) tóba torkollik, és összegyűjti mellékfolyói vizét.",
+      "example": "A Volga főfolyó, a Kaszpi-tengerbe ömlik.",
+      "examplePlaces": [
+        "europa--vizrajz--volga"
+      ],
+      "related": [
+        "fo-es-mellekfolyo",
+        "mellekfolyo"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mellekfolyo",
+      "term": "mellékfolyó",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "fo-es-mellekfolyo",
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan vízfolyás, amely nem tengerbe, hanem egy másik folyóba torkollik, és annak vízhozamát növeli.",
+      "example": "A Dráva a Duna, a Szamos és a Körös a Tisza mellékfolyója.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--drava",
+        "magyarorszag--vizrajz--szamos",
+        "magyarorszag--vizrajz--koros"
+      ],
+      "related": [
+        "fo-es-mellekfolyo",
+        "fofolyo"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lefolyasos-es-belso-lefolyasu-terulet",
+      "term": "lefolyásos és belső lefolyású terület",
+      "aliases": [],
+      "sourceLabels": [
+        "lefolyásos és belső lefolyású terület"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A szárazföldek két típusa aszerint, hogy vizeik eljutnak-e a világtengerbe. A lefolyásos terület vizei a tengerbe jutnak, a belső lefolyású terület vizei egy tengerrel nem összefüggő tóban vagy mélyedésben érnek véget, illetve elpárolognak, elszivárognak.",
+      "example": "A Duna vízgyűjtője lefolyásos, a Volgáé belső lefolyású (a Kaszpi-tengerbe ömlik).",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna",
+        "europa--vizrajz--volga",
+        "azsia--vizrajz--kaszpi-tenger"
+      ],
+      "related": [
+        "lefolyasos-terulet",
+        "belso-lefolyasu-terulet",
+        "vizgyujto-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lefolyasos-terulet",
+      "term": "lefolyásos terület",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "lefolyasos-es-belso-lefolyasu-terulet",
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan terület, amelynek felszíni vizei folyók útján a világtengerbe jutnak. A szárazföldek nagyobb része ilyen.",
+      "example": "A Kárpát-medence vizeit a Duna a Fekete-tengerbe szállítja.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence",
+        "europa--vizrajz--fekete-tenger"
+      ],
+      "related": [
+        "lefolyasos-es-belso-lefolyasu-terulet",
+        "belso-lefolyasu-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belso-lefolyasu-terulet",
+      "term": "belső lefolyású terület",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "lefolyasos-es-belso-lefolyasu-terulet",
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan terület, amelynek vizei nem jutnak el a világtengerbe, hanem egy lefolyástalan tóban vagy medencében érnek véget, ahol elpárolognak. Főleg száraz éghajlatú medencékben jellemző; tavai gyakran sósak.",
+      "example": "A Volga a Kaszpi-tengerbe, a Szir-darja és az Amu-darja az Aral-tóba szállítja vizét.",
+      "examplePlaces": [
+        "azsia--vizrajz--kaszpi-tenger",
+        "azsia--vizrajz--aral-to",
+        "europa--tajak--kelet-europai-siksag"
+      ],
+      "related": [
+        "lefolyasos-es-belso-lefolyasu-terulet",
+        "maradvanyto",
+        "kiszaradas"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "idoszakos-vizfolyas",
+      "term": "időszakos vízfolyás",
+      "aliases": [
+        "vádi"
+      ],
+      "sourceLabels": [
+        "időszakos vízfolyás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "Olyan vízfolyás, amelynek medrében csak az év egy részében, például esős évszakban vagy hóolvadás után, folyik víz. Száraz éghajlaton jellemző (vádi), de hazánkban is sok kis patak nyáron kiszárad.",
+      "example": "A Szahara vádijaiban csak a ritka, heves záporok után folyik rövid ideig víz.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "vizjaras",
+        "villamaradas",
+        "idoszakos-to"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizallas",
+      "term": "vízállás",
+      "aliases": [],
+      "sourceLabels": [
+        "vízállás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A folyó (tó) vízszintjének magassága egy viszonyítási ponthoz, a vízmérce „0” pontjához képest, általában centiméterben megadva. Értéke negatív is lehet, ha a víz a 0 pont alatt van.",
+      "example": "A Duna budapesti vízmércéjén árvízkor magas, aszályos nyáron alacsony, akár negatív vízállást is mérnek.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "vizhozam",
+        "vizjaras",
+        "arviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizhozam",
+      "term": "vízhozam",
+      "aliases": [],
+      "sourceLabels": [
+        "vízhozam"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A folyó adott keresztszelvényén egységnyi idő alatt átfolyó víz mennyisége, m³/s-ban megadva. Kiszámítása: vízhozam = a meder keresztmetszetének területe (m²) × a víz átlagos sebessége (m/s).",
+      "example": "Ha a meder keresztmetszete 2000 m² és a víz átlagsebessége 1,5 m/s, a vízhozam 3000 m³/s.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "vizallas",
+        "vizjaras"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "számolás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizjaras",
+      "term": "vízjárás",
+      "aliases": [],
+      "sourceLabels": [
+        "vízjárás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A folyó vízállásának és vízhozamának időbeli, főként évszakos változása. Az éghajlat (a csapadék évi eloszlása, a hóolvadás, a párolgás) és a vízgyűjtő adottságai határozzák meg; lehet kiegyenlített vagy szélsőséges.",
+      "example": "A Duna vízjárásában két árhullám jelentkezik: a tavaszi hóolvadás okozta ár és a nyár eleji zöldár, amelyet az Alpok hó- és jégolvadása, valamint a csapadék okoz.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna",
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "vizallas",
+        "vizhozam",
+        "arviz",
+        "vizgyujto-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "arviz",
+      "term": "árvíz",
+      "aliases": [
+        "áradás"
+      ],
+      "sourceLabels": [
+        "árvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "kozep",
+      "definition": "A folyó vízszintjének rendkívüli megemelkedése, amikor a víz kilép a medréből és elönti az árteret (vagy szabályozott folyónál a hullámteret). Kiváltója lehet nagy mennyiségű csapadék, hirtelen hóolvadás vagy jégtorlasz.",
+      "example": "A Tisza árvizei a Kárpátokból egyszerre érkező hólé és esővíz miatt alakulnak ki.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza",
+        "europa--tajak--karpatok"
+      ],
+      "related": [
+        "vizjaras",
+        "arter",
+        "ar-es-belvizvedelem",
+        "villamaradas"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tengerszem",
+      "term": "tengerszem",
+      "aliases": [
+        "kártó"
+      ],
+      "sourceLabels": [
+        "tengerszem"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "emelt",
+      "definition": "Magashegységben, az egykori gleccser által kivájt katlanban (kárfülkében) kialakult kis kiterjedésű, viszonylag mély, hideg vizű jégvájta tó.",
+      "example": "A Magas-Tátra tengerszemei közül ismert a Poprádi-tó.",
+      "examplePlaces": [
+        "europa--tajak--magas-tatra",
+        "europa--vizrajz--popradi-to"
+      ],
+      "related": [
+        "jegvajta-to"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "jég-munkája"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "poljeto",
+      "term": "poljetó",
+      "aliases": [],
+      "sourceLabels": [
+        "poljetó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "emelt",
+      "definition": "Karsztvidéken, a polje (nagy kiterjedésű, lapos aljú, oldásos és tektonikus eredetű karsztos medence) vízzáró üledékkel borított aljzatán összegyűlt tó. Vízszintje a karsztvíz szintjétől függően erősen ingadozik, gyakran időszakos.",
+      "example": "A Dinári-hegység poljéiban csapadékos időszakban tavak alakulnak ki, száraz időben elszivárognak.",
+      "examplePlaces": [
+        "europa--tajak--dinari-hegyseg"
+      ],
+      "related": [
+        "karsztviz",
+        "idoszakos-to",
+        "kimelyitett-tomedence"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "karszt"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kalderato",
+      "term": "kalderató",
+      "aliases": [],
+      "sourceLabels": [
+        "kalderató"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "emelt",
+      "definition": "A kalderában – a vulkán kiürült magmakamrája fölött beszakadt, a kráternél jóval nagyobb, katlanszerű mélyedésben – felgyűlt tó.",
+      "example": "Az Egyesült Államokban a Kráter-tó (Crater Lake) neve ellenére kalderató.",
+      "examplePlaces": [
+        "amerika--vizrajz--krater-to"
+      ],
+      "related": [
+        "kraterto",
+        "kimelyitett-tomedence"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "vulkanizmus"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "idoszakos-to",
+      "term": "időszakos tó",
+      "aliases": [],
+      "sourceLabels": [
+        "időszakos tó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "emelt",
+      "definition": "Olyan tó, amelynek medencéjét csak az év egy részében vagy csak csapadékos években borítja víz. Száraz éghajlaton, belső lefolyású medencékben és karsztvidékeken jellemző.",
+      "example": "Ausztrália belsejében az Eyre-tó medencéje legtöbbször száraz sósivatag, csak ritka esős években telik meg; a Duna–Tisza közi szikes tavak nyáron gyakran kiszáradnak.",
+      "examplePlaces": [
+        "ausztralia-es-oceania--tajak--ausztraliai-alfold",
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze"
+      ],
+      "related": [
+        "kiszaradas",
+        "poljeto",
+        "idoszakos-vizfolyas",
+        "belso-lefolyasu-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eutrofizacio",
+      "term": "eutrofizáció",
+      "aliases": [
+        "tápanyagdúsulás"
+      ],
+      "sourceLabels": [
+        "eutrofizáció"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.2 A felszíni vizek",
+      "level": "emelt",
+      "definition": "Az állóvizek tápanyagban (főként nitrát- és foszfátvegyületekben) való feldúsulása, amelyet a mezőgazdasági bemosódás és a szennyvíz okoz. Elszaporodnak az algák, a lebomlásuk oxigénhiányt, halpusztulást és gyorsuló feltöltődést okoz.",
+      "example": "A Balaton vízminőségének romlása miatt építették ki a Kis-Balaton vízvédelmi rendszerét, amely visszatartja a Zala tápanyagait.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton",
+        "magyarorszag--vizrajz--kis-balaton"
+      ],
+      "related": [
+        "feltoltodes",
+        "nitratosodas",
+        "vizszennyezo-forrasok",
+        "szennyviztisztitas"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszíni-vizek",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felszin-alatti-viz",
+      "term": "felszín alatti víz",
+      "aliases": [],
+      "sourceLabels": [
+        "felszín alatti víz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "A földkéreg kőzeteinek pórusaiban, réseiben és üregeiben elhelyezkedő víz, amely főként a csapadék beszivárgásából származik. Elhelyezkedése szerint talajnedvesség, talajvíz, rétegvíz (artézi víz), résvíz és karsztvíz lehet.",
+      "example": "Magyarország ivóvízellátása túlnyomórészt felszín alatti vizekre (rétegvízre, karsztvízre, parti szűrésű vízre) épül.",
+      "examplePlaces": [],
+      "related": [
+        "vizfogo-es-viztarto-kozetreteg",
+        "talajnedvesseg",
+        "talajviz",
+        "artezi-viz",
+        "resviz",
+        "karsztviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizfogo-es-viztarto-kozetreteg",
+      "term": "vízfogó és víztartó kőzetréteg",
+      "aliases": [],
+      "sourceLabels": [
+        "vízfogó és víztartó kőzetréteg"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "A kőzetrétegek vízvezető képességük szerint két fő csoportba sorolhatók: a vízfogó (vízzáró) réteg nem engedi át a vizet, a víztartó (vízáteresztő) réteg pórusaiban, repedéseiben tárolja és vezeti. A felszín alatti vizek a vízfogó rétegek feletti víztartó rétegekben halmozódnak fel.",
+      "example": "Az Alföldön a homok- és kavicsrétegek víztartók, a közéjük települt agyagrétegek vízfogók.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "vizfogo-kozetreteg",
+        "viztarto-kozetreteg",
+        "talajviz",
+        "artezi-viz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "kőzetek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizfogo-kozetreteg",
+      "term": "vízfogó kőzetréteg",
+      "aliases": [
+        "vízzáró réteg"
+      ],
+      "sourceLabels": [],
+      "parent": "vizfogo-es-viztarto-kozetreteg",
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Olyan kőzetréteg, amely nagyon apró pórusai vagy tömörsége miatt a vizet nem (vagy csak alig) engedi át, ezért felette a víz felgyülemlik.",
+      "example": "Az agyag tipikus vízfogó kőzet.",
+      "examplePlaces": [],
+      "related": [
+        "vizfogo-es-viztarto-kozetreteg",
+        "viztarto-kozetreteg"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "kőzetek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "viztarto-kozetreteg",
+      "term": "víztartó kőzetréteg",
+      "aliases": [
+        "vízáteresztő réteg"
+      ],
+      "sourceLabels": [],
+      "parent": "vizfogo-es-viztarto-kozetreteg",
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Olyan laza vagy repedezett kőzetréteg, amelynek pórusaiban, hézagaiban a víz tárolódik és mozog.",
+      "example": "A homok, a kavics és a repedezett mészkő jó víztartó.",
+      "examplePlaces": [],
+      "related": [
+        "vizfogo-es-viztarto-kozetreteg",
+        "vizfogo-kozetreteg"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "kőzetek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajnedvesseg",
+      "term": "talajnedvesség",
+      "aliases": [],
+      "sourceLabels": [
+        "talajnedvesség"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "A talaj pórusaiban, a felszín és a talajvízszint között elhelyezkedő víz. A növények vízellátásának közvetlen forrása; mennyisége a csapadéktól és a párolgástól függően gyorsan változik.",
+      "example": "Hosszan tartó nyári aszálykor az Alföldön a talajnedvesség kimerül, a növények hervadnak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "talajviz",
+        "felszin-alatti-viz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "talaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajviz",
+      "term": "talajvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "talajvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Az első vízzáró réteg feletti víztartó rétegben összegyűlt felszín alatti víz. Szintje a csapadék és a párolgás szerint ingadozik; mivel közel van a felszínhez, könnyen szennyeződik.",
+      "example": "Az Alföld csatornázatlan településein a talajvizet a szennyvíz és a műtrágya nitráttal szennyezte.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "talajnedvesseg",
+        "belviz",
+        "asott-kut",
+        "nitratosodas"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belviz",
+      "term": "belvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "belvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Síkvidéki mélyedésekben a felszínen összegyűlő víz, amely nem tud lefolyni vagy elszivárogni. Kialakulásához hozzájárul a magas talajvízszint, a nagy mennyiségű csapadék, a hirtelen hóolvadás fagyott talajon és a rossz vízáteresztő képességű talaj.",
+      "example": "A Tiszántúl mélyen fekvő, agyagos talajú területein tavasszal gyakran nagy kiterjedésű belvizek borítják a szántókat.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "talajviz",
+        "ar-es-belvizvedelem",
+        "belvizvedelem"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "vízgazdálkodás",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "artezi-viz",
+      "term": "artézi víz",
+      "aliases": [
+        "rétegvíz"
+      ],
+      "sourceLabels": [
+        "artézi víz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Két vízzáró réteg közé zárt, medence alakban települt víztartó rétegben nyomás alatt lévő víz. A réteg magasabban fekvő peremén szivárog be, ezért fúrás után a víz a nyomás hatására magától a felszínre tör.",
+      "example": "Ausztráliában a Nagy-Artézi-medence vize teszi lehetővé a legeltető állattartást a száraz belső területeken.",
+      "examplePlaces": [
+        "ausztralia-es-oceania--tajak--nagy-artezi-medence"
+      ],
+      "related": [
+        "artezi-kut",
+        "vizfogo-es-viztarto-kozetreteg",
+        "heviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "heviz",
+      "term": "hévíz",
+      "aliases": [
+        "termálvíz"
+      ],
+      "sourceLabels": [
+        "hévíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "A 30 °C-nál melegebb felszín alatti víz. A mélységgel a geotermikus gradiens szerint nő a kőzetek és a víz hőmérséklete; a Kárpát-medencében a vékony földkéreg miatt ez az átlagosnál nagyobb, ezért hazánk hévizekben gazdag.",
+      "example": "A Hévízi-tó vizét a mélyből feltörő meleg forrás táplálja, ezért télen sem fagy be.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--hevizi-to",
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "gyogyviz",
+        "asvanyviz",
+        "artezi-viz",
+        "karsztviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "asvanyviz",
+      "term": "ásványvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "ásványvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Olyan felszín alatti víz, amely a tankönyvi meghatározás szerint literenként legalább 1000 mg oldott ásványi anyagot tartalmaz, vagy valamely összetevője különleges élettani hatású. Hazánkban sok ásványvízforrás van, és a palackozott ásványvíz fontos termék.",
+      "example": "A Balaton-felvidéken számos szénsavas ásványvízforrás tör fel.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--balaton-felvidek"
+      ],
+      "related": [
+        "gyogyviz",
+        "heviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gyogyviz",
+      "term": "gyógyvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "gyógyvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Olyan ásvány- vagy hévíz, amelynek gyógyhatását orvosi vizsgálatok igazolták és hivatalosan elismerték. A gyógyturizmus alapja.",
+      "example": "A Hévízi-tó gyógyvize mozgásszervi betegségek kezelésére alkalmas; Hajdúszoboszló és Bük is gyógyfürdőiről ismert.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--hevizi-to"
+      ],
+      "related": [
+        "heviz",
+        "asvanyviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "szolgáltatás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "resviz",
+      "term": "résvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "résvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Tömör, vízzáró kőzetek (pl. gránit, andezit) repedéseiben, hasadékaiban tárolódó és mozgó víz. Mennyisége általában kicsi; hegyvidéken kis hozamú források formájában lép a felszínre.",
+      "example": "A Velencei-hegység gránitjának repedéseiben résvíz tárolódik.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg"
+      ],
+      "related": [
+        "felszin-alatti-viz",
+        "karsztviz",
+        "forras"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "karsztviz",
+      "term": "karsztvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "karsztvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "A karsztosodó kőzetek (mészkő, dolomit) oldással kitágult repedéseiben, járataiban, barlangjaiban tárolódó víz. Nagy mennyiségű, jó minőségű ivóvízforrás, de mivel a felszínről a szennyeződés szűrés nélkül gyorsan lejut, nagyon érzékeny a szennyezésre.",
+      "example": "Az Aggteleki-karszt és a Bükk karsztvize karsztforrásokban lép a felszínre, és több település ivóvizét adja.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt",
+        "magyarorszag--egyeb-tajak-teruletek--bukk"
+      ],
+      "related": [
+        "forras",
+        "resviz",
+        "heviz",
+        "poljeto"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "karszt"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "forras",
+      "term": "forrás",
+      "aliases": [],
+      "sourceLabels": [
+        "forrás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "A felszín alatti víz természetes, koncentrált felszínre lépési helye. Ott alakul ki, ahol a víztartó réteg és a vízfogó réteg határa a felszínt metszi, vagy ahol a víz repedések mentén feltör; vize lehet hideg, langyos vagy meleg.",
+      "example": "A Hévízi-tavat egy mélyből feltörő meleg forrás táplálja; az Aggteleki-karszt peremén karsztforrások fakadnak.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--hevizi-to",
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt"
+      ],
+      "related": [
+        "karsztviz",
+        "resviz",
+        "heviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "artezi-kut",
+      "term": "artézi kút",
+      "aliases": [
+        "pozitív kút"
+      ],
+      "sourceLabels": [
+        "artézi kút"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.3 A felszín alatti vizek",
+      "level": "kozep",
+      "definition": "Artézi vizet feltáró fúrt kút, amelyből a víz a rétegben uralkodó nyomás hatására magától, szivattyúzás nélkül a felszínre tör (pozitív kút). Ha a víz nem éri el a felszínt, szivattyúzni kell (negatív kút).",
+      "example": "Az Alföld településein a 19. század végétől fúrt artézi kutak adtak egészséges ivóvizet; Budapesten Zsigmondy Vilmos fúrta a városligeti artézi kutat.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "artezi-viz",
+        "furt-kut"
+      ],
+      "tags": [
+        "3-témakör",
+        "felszín-alatti-vizek",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizgazdalkodas",
+      "term": "vízgazdálkodás",
+      "aliases": [],
+      "sourceLabels": [
+        "vízgazdálkodás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A vízkészletek feltárásának, hasznosításának, védelmének és a vizek kártételei elleni védekezésnek az összehangolt tevékenysége. Feladata a lakossági és ipari vízellátás, az öntözés, a szennyvízelvezetés és -tisztítás, az ár- és belvízvédelem, valamint a vízi utak és a vízenergia hasznosítása.",
+      "example": "A Duna vízgyűjtőjén az országok közösen gazdálkodnak a vízzel, mert a szennyezés és az árvíz nem áll meg a határon.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "ar-es-belvizvedelem",
+        "ivoviz",
+        "szennyviztisztitas",
+        "viztarozo"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "fenntarthatóság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ar-es-belvizvedelem",
+      "term": "ár- és belvízvédelem",
+      "aliases": [],
+      "sourceLabels": [
+        "ár- és belvízvédelem"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A vízgazdálkodásnak az a része, amely a folyók árvizei és a síkvidéki belvizek kártételei elleni védekezéssel foglalkozik. Magyarországon különösen nagy a jelentősége, mert az ország jelentős része folyók egykori árterén fekszik.",
+      "example": "A Tisza mentén az árvízvédelmi gátak, a belvízcsatornák és a szivattyútelepek együtt védik a Tiszántúlt.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "arvizvedelem",
+        "belvizvedelem",
+        "vizgazdalkodas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "arvizvedelem",
+      "term": "árvízvédelem",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "ar-es-belvizvedelem",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A folyók áradásai elleni védekezés: árvízvédelmi gátak építése és erősítése, folyószabályozás, vésztározók és víztározók létesítése, árvíz-előrejelzés, valamint a hullámtér rendben tartása.",
+      "example": "A Tisza mentén a gátak magasítása mellett vésztározókat is létesítettek az árvízcsúcsok csökkentésére.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "ar-es-belvizvedelem",
+        "arvizvedelmi-gat",
+        "vesztarozo",
+        "folyoszabalyozas",
+        "arviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belvizvedelem",
+      "term": "belvízvédelem",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "ar-es-belvizvedelem",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A belvizek elleni védekezés: a felgyűlt vizet csatornahálózattal és szivattyútelepekkel a folyókba vezetik, vagy belvíztározókban tárolják, hogy később öntözésre használják.",
+      "example": "A Tiszántúlon sűrű belvízcsatorna-hálózat és szivattyútelepek vezetik el a tavaszi belvizet.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "ar-es-belvizvedelem",
+        "belviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "arvizvedelmi-gat",
+      "term": "árvízvédelmi gát",
+      "aliases": [
+        "töltés"
+      ],
+      "sourceLabels": [
+        "árvízvédelmi gát"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A folyó mentén, a medertől bizonyos távolságban épített földmű (töltés), amely megakadályozza, hogy az árvíz elöntse a mögötte fekvő területet. A gát és a meder közötti sáv a hullámtér, a gát mögötti védett terület az ármentesített terület.",
+      "example": "A Tisza és a Körösök mentén hosszú árvízvédelmi gátrendszer védi az Alföldet.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--vizrajz--koros"
+      ],
+      "related": [
+        "hullamter",
+        "armentesitett-terulet",
+        "arvizvedelem"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "arter",
+      "term": "ártér",
+      "aliases": [],
+      "sourceLabels": [
+        "ártér"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A folyó menti alacsony, sík terület, amelyet a folyó árvízkor természetes állapotban eláraszt, és amelyre hordalékot rak le. Szabályozott folyónál a gátak az árteret hullámtérre és ármentesített területre osztják.",
+      "example": "A Tisza szabályozás előtti ártere a Tiszántúl nagy részét időszakosan víz alatt tartotta.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "hullamter",
+        "armentesitett-terulet",
+        "arviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "felszíni-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hullamter",
+      "term": "hullámtér",
+      "aliases": [],
+      "sourceLabels": [
+        "hullámtér"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "Az árvízvédelmi gátak és a folyó medre közötti terület, amelyet a folyó árvízkor elönt. Beépíteni nem szabad, mert szűkítené az árvíz levonulásának útját; ártéri erdők, legelők jellemzik.",
+      "example": "A Tisza hullámterén ártéri ligeterdők és holtágak találhatók.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "arter",
+        "arvizvedelmi-gat",
+        "armentesitett-terulet"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "armentesitett-terulet",
+      "term": "ármentesített terület (mentesített ártér)",
+      "aliases": [
+        "mentesített ártér"
+      ],
+      "sourceLabels": [
+        "ármentesített terület (mentesített ártér)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "Az egykori ártérnek az árvízvédelmi gátakkal az árvíztől megvédett része. Itt települések, szántóföldek, utak létesülhetnek, de gátszakadáskor ezek veszélyben vannak.",
+      "example": "A 19. századi Tisza-szabályozás után az Alföld nagy kiterjedésű ármentesített területein szántóföldi gazdálkodás alakult ki.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "arter",
+        "hullamter",
+        "arvizvedelmi-gat",
+        "folyoszabalyozas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vesztarozo",
+      "term": "vésztározó",
+      "aliases": [
+        "árapasztó tározó",
+        "szükségtározó"
+      ],
+      "sourceLabels": [
+        "vésztározó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "Gátakkal körülvett, a folyó mentén kijelölt terület, amelybe rendkívüli árvíz idején a vizet szabályozottan kivezetik, így csökkentik az árhullám tetőzését. Árvízmentes időben szárazon áll és mezőgazdaságilag hasznosítható.",
+      "example": "A Tisza mentén épített árapasztó tározók nagy árvizeknél tehermentesítik a gátakat.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "viztarozo",
+        "arvizvedelem",
+        "polder"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "viztarozo",
+      "term": "víztározó",
+      "aliases": [],
+      "sourceLabels": [
+        "víztározó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "Gáttal elzárt völgyben vagy medencében tartósan vizet tároló mesterséges tó. Szolgálhat ivóvíz- és öntözővíz-ellátást, vízenergia-termelést, árvízvédelmet, hajózást és üdülést; hátránya a terület elöntése, a hordalék visszatartása és az élővilág átalakulása.",
+      "example": "A Tisza-tó a Kiskörei víztározó; a Jangce Három-szurdok-gátja mögött hatalmas tározó épült.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza-to",
+        "azsia--vizrajz--harom-szurdok-gat"
+      ],
+      "related": [
+        "mesterseges-to",
+        "vesztarozo",
+        "ontozoviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ivoviz",
+      "term": "ivóvíz",
+      "aliases": [],
+      "sourceLabels": [
+        "ivóvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "Emberi fogyasztásra alkalmas, egészségügyi előírásoknak megfelelő minőségű víz. Forrása lehet rétegvíz, karsztvíz, parti szűrésű víz vagy tisztított felszíni víz.",
+      "example": "Budapest ivóvizének nagy részét a Szentendrei- és a Csepel-sziget parti szűrésű csápos kútjai adják.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--szentendrei-sziget",
+        "magyarorszag--egyeb-tajak-teruletek--csepel-sziget"
+      ],
+      "related": [
+        "csapos-kut",
+        "karsztviz",
+        "artezi-viz",
+        "kozmuollo"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ontozoviz",
+      "term": "öntözővíz",
+      "aliases": [],
+      "sourceLabels": [
+        "öntözővíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A mezőgazdasági növények vízigényének kiegészítésére felhasznált víz, amelyet folyókból, tározókból vagy felszín alatti vízből nyernek. Kis sótartalmúnak kell lennie, mert a helytelen öntözés (pl. száraz éghajlaton) a talaj szikesedését okozhatja.",
+      "example": "Egyiptom mezőgazdasága a Nílus vizének öntözésen alapul; az Aral-tó zsugorodását a túlzott öntözés okozta.",
+      "examplePlaces": [
+        "afrika--vizrajz--nilus",
+        "azsia--vizrajz--aral-to"
+      ],
+      "related": [
+        "viztarozo",
+        "kiszaradas",
+        "vizgazdalkodas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "mezőgazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ipari-viz",
+      "term": "ipari víz",
+      "aliases": [],
+      "sourceLabels": [
+        "ipari víz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "Az ipari folyamatokban (hűtés, gőzfejlesztés, mosás, oldás, nyersanyag) felhasznált víz, amelynek minősége nem kell, hogy elérje az ivóvízét. Legnagyobb felhasználói az erőművek, a vegyipar és a kohászat.",
+      "example": "A Paksi Atomerőmű hűtővizét a Dunából nyeri.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "vizforgatas",
+        "vizszennyezo-forrasok",
+        "ivoviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "ipar"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szennyviztisztitas",
+      "term": "szennyvíztisztítás",
+      "aliases": [],
+      "sourceLabels": [
+        "szennyvíztisztítás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A háztartásokban, az iparban és a mezőgazdaságban keletkezett szennyvíz szennyezőanyagainak eltávolítása, mielőtt a vizet visszavezetik a természetbe. Fokozatai a mechanikai, a biológiai és a kémiai tisztítás.",
+      "example": "Budapest szennyvizét a csepeli központi szennyvíztisztító telep tisztítja, mielőtt a Dunába engedik.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--csepel-sziget",
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "szennyviztisztitas-fokozatai",
+        "kozmuollo",
+        "vizszennyezo-forrasok"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szennyviztisztitas-fokozatai",
+      "term": "mechanikai, biológiai és kémiai szennyvíztisztítás",
+      "aliases": [],
+      "sourceLabels": [
+        "mechanikai",
+        "biológiai és kémiai szennyvíztisztítás"
+      ],
+      "parent": "szennyviztisztitas",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A szennyvíztisztítás egymásra épülő fokozatai: a mechanikai tisztítás a szilárd anyagokat, a biológiai a szerves anyagokat, a kémiai a maradék oldott szennyezőket (pl. foszfát, nitrát) távolítja el.",
+      "example": "Egy korszerű tisztítótelepen a szennyvíz rácsokon, homokfogón, ülepítőn, majd eleveniszapos medencén és vegyszeres kezelésen halad át.",
+      "examplePlaces": [],
+      "related": [
+        "mechanikai-szennyviztisztitas",
+        "biologiai-szennyviztisztitas",
+        "kemiai-szennyviztisztitas",
+        "szennyviztisztitas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mechanikai-szennyviztisztitas",
+      "term": "mechanikai szennyvíztisztítás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "szennyviztisztitas-fokozatai",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A szennyvíztisztítás első fokozata: rácsokkal, szűrőkkel, homokfogóval és ülepítéssel eltávolítják a szennyvízből a szilárd, úszó és leülepedő anyagokat.",
+      "example": "A rács fennakasztja a nagyobb hulladékot, az ülepítőben a lebegő iszap leülepszik.",
+      "examplePlaces": [],
+      "related": [
+        "szennyviztisztitas-fokozatai",
+        "biologiai-szennyviztisztitas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "biologiai-szennyviztisztitas",
+      "term": "biológiai szennyvíztisztítás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "szennyviztisztitas-fokozatai",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A szennyvíztisztítás második fokozata: mikroorganizmusok (baktériumok) levegőztetett medencékben lebontják a vízben oldott és lebegő szerves anyagokat.",
+      "example": "Az eleveniszapos medencékben a befújt levegő segíti a baktériumok bontó munkáját.",
+      "examplePlaces": [],
+      "related": [
+        "szennyviztisztitas-fokozatai",
+        "mechanikai-szennyviztisztitas",
+        "kemiai-szennyviztisztitas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kemiai-szennyviztisztitas",
+      "term": "kémiai szennyvíztisztítás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "szennyviztisztitas-fokozatai",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A szennyvíztisztítás harmadik fokozata: vegyszerek segítségével kicsapják, megkötik vagy semlegesítik a vízben maradt oldott szennyezőket, főként a foszfor- és nitrogénvegyületeket, a nehézfémeket, és fertőtlenítik a vizet.",
+      "example": "A foszfát vegyszeres kicsapása csökkenti a befogadó tavak eutrofizációját.",
+      "examplePlaces": [],
+      "related": [
+        "szennyviztisztitas-fokozatai",
+        "eutrofizacio"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizszennyezo-forrasok",
+      "term": "vízszennyező források",
+      "aliases": [],
+      "sourceLabels": [
+        "vízszennyező források"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A vizek szennyezésének okozói: a tisztítatlan kommunális szennyvíz, az ipari szennyvíz és ipari balesetek, a mezőgazdaság (műtrágya, növényvédő szerek, állattartás), a közlekedés (olaj, hajózás) és a hulladéklerakók csurgalékvize. Lehetnek pontszerűek (pl. szennyvízkivezetés) vagy kiterjedtek (pl. szántóföldek bemosódása).",
+      "example": "2000-ben egy romániai bánya ciántartalmú szennyvize jutott a Szamoson át a Tiszába, és súlyos halpusztulást okozott.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--szamos",
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "szennyviztisztitas",
+        "nitratosodas",
+        "eutrofizacio",
+        "ipari-viz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belvizi-es-tengerhajozas",
+      "term": "belvízi és tengerhajózás",
+      "aliases": [
+        "vízi közlekedés"
+      ],
+      "sourceLabels": [
+        "belvízi és tengerhajózás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A vízi szállítás két fő ága. Előnye, hogy nagy tömegű árut olcsón, kevés energiával szállít; hátránya a lassúság és a természeti feltételektől (vízállás, jég, partok) való függés.",
+      "example": "A Duna belvízi út, a Szuezi-csatornán áthaladó hajók tengerhajózást végeznek.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna",
+        "afrika--vizrajz--szuezi-csatorna"
+      ],
+      "related": [
+        "belvizi-hajozas",
+        "tengerhajozas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "szolgáltatás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belvizi-hajozas",
+      "term": "belvízi hajózás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "belvizi-es-tengerhajozas",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "Folyókon, tavakon és mesterséges csatornákon folyó hajózás, amely főként tömegárut (gabona, érc, építőanyag) szállít. Akadályozza az alacsony vízállás, a jégzajlás és a vízesések, zuhatagok; ezeket csatornákkal, zsilipekkel küszöbölik ki.",
+      "example": "A Duna–Majna–Rajna vízi út összeköti az Északi-tengert a Fekete-tengerrel.",
+      "examplePlaces": [
+        "europa--vizrajz--duna-majna-rajna-vizi-ut",
+        "europa--vizrajz--rajna"
+      ],
+      "related": [
+        "belvizi-es-tengerhajozas",
+        "tengerhajozas",
+        "folyoszabalyozas"
+      ],
+      "tags": [
+        "3-témakör",
+        "szolgáltatás",
+        "vízgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tengerhajozas",
+      "term": "tengerhajózás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "belvizi-es-tengerhajozas",
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A tengereken és óceánokon folyó hajózás, amely a nemzetközi áruszállítás legnagyobb részét bonyolítja le konténer-, ömlesztettáru- és tartályhajókkal. Kulcsfontosságúak a tengerszorosok és a tengeri csatornák.",
+      "example": "A Panama-csatorna az Atlanti- és a Csendes-óceán közötti hajóutat rövidíti le.",
+      "examplePlaces": [
+        "amerika--vizrajz--panama-csatorna",
+        "afrika--vizrajz--szuezi-csatorna"
+      ],
+      "related": [
+        "belvizi-es-tengerhajozas",
+        "tengerszoros"
+      ],
+      "tags": [
+        "3-témakör",
+        "szolgáltatás",
+        "globalizáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "halaszat",
+      "term": "halászat",
+      "aliases": [],
+      "sourceLabels": [
+        "halászat"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "kozep",
+      "definition": "A vizek élővilágának (halak, rákok, kagylók) gazdasági célú kifogása. A tengeri halászat legfontosabb területei a szárazföldi talapzatok és a hideg, tápanyagban gazdag feláramló vizek, ahol sok a plankton.",
+      "example": "Peru partjainál a Humboldt-áramlás tápanyagdús vizében hatalmas szardella-halászat folyik.",
+      "examplePlaces": [
+        "fold--tengeraramlasok--humboldt-aramlas",
+        "europa--vizrajz--eszaki-tenger"
+      ],
+      "related": [
+        "szarazfoldi-talapzat",
+        "hideg-tengeraramlas",
+        "tulhalaszas",
+        "el-nino"
+      ],
+      "tags": [
+        "3-témakör",
+        "mezőgazdaság",
+        "vízburok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "villamaradas",
+      "term": "villámáradás",
+      "aliases": [
+        "hirtelen áradás"
+      ],
+      "sourceLabels": [
+        "villámáradás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "Kis vízgyűjtőjű vízfolyáson rövid idő alatt lehulló, nagy intenzitású csapadék nyomán néhány óra alatt kialakuló, gyorsan levonuló, pusztító áradás. Főként meredek lejtőjű hegyvidéken és száraz területek időszakos vízmedreiben jellemző, előrejelzése nehéz.",
+      "example": "A Mátra völgyeiben egy-egy heves nyári felhőszakadás után a kis patakok órák alatt elönthetik a településeket.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--matra"
+      ],
+      "related": [
+        "arviz",
+        "idoszakos-vizfolyas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "felszíni-vizek",
+        "időjárás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "folyoszabalyozas",
+      "term": "folyószabályozás",
+      "aliases": [],
+      "sourceLabels": [
+        "folyószabályozás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A folyó medrének és vízjárásának emberi beavatkozással történő átalakítása: kanyarulatok átvágása, árvízvédelmi gátak építése, mederkotrás, partbiztosítás, duzzasztóművek építése. Célja az árvízvédelem, az ármentesítés és a hajózhatóság javítása; hátránya, hogy a hullámtérre szorított árvizek magasabban tetőznek és eltűnnek az ártéri élőhelyek.",
+      "example": "A Tisza 19. századi szabályozása Széchenyi István kezdeményezésére, Vásárhelyi Pál tervei alapján indult; a kanyarulat-átvágások jelentősen lerövidítették a folyót.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "armentesitett-terulet",
+        "arvizvedelmi-gat",
+        "morotvato",
+        "arvizvedelem"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "Magyarország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozmuollo",
+      "term": "közműolló",
+      "aliases": [],
+      "sourceLabels": [
+        "közműolló"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A vezetékes ivóvízhálózat és a szennyvízcsatorna-hálózat kiépítettsége közötti különbség. Ha nagy, a bevezetett víz szennyvízként a talajba szivárog, és szennyezi a talajvizet.",
+      "example": "Magyarországon a rendszerváltás idején még nagy volt a közműolló, azóta a csatornázás jelentősen csökkentette.",
+      "examplePlaces": [],
+      "related": [
+        "nitratosodas",
+        "szennyviztisztitas",
+        "ivoviz",
+        "talajviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem",
+        "település"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nitratosodas",
+      "term": "nitrátosodás",
+      "aliases": [],
+      "sourceLabels": [
+        "nitrátosodás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A talajvíz és a sekély rétegvizek nitráttartalmának megnövekedése a túlzott műtrágyázás, a szakszerűtlen trágyakezelés és a csatornázatlan települések szennyvize miatt. Az ilyen víz ivásra alkalmatlan, különösen a csecsemőkre veszélyes.",
+      "example": "Az alföldi tanyák ásott kútjainak vize sok helyen a nitrátosodás miatt nem iható.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tiszantul"
+      ],
+      "related": [
+        "talajviz",
+        "kozmuollo",
+        "asott-kut",
+        "eutrofizacio",
+        "vizszennyezo-forrasok"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "környezetvédelem",
+        "mezőgazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizforgatas",
+      "term": "vízforgatás",
+      "aliases": [],
+      "sourceLabels": [
+        "vízforgatás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "Az ipari vízfelhasználás takarékos módja: az egyszer felhasznált vizet tisztítás, illetve lehűtés után zárt rendszerben újra felhasználják. Csökkenti a vízkivételt és a szennyvízkibocsátást.",
+      "example": "Az erőművek hűtőtornyaiban lehűtött vizet ismét a hűtőkörbe vezetik.",
+      "examplePlaces": [],
+      "related": [
+        "ipari-viz",
+        "vizgazdalkodas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "ipar",
+        "fenntarthatóság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "asott-kut",
+      "term": "ásott kút",
+      "aliases": [],
+      "sourceLabels": [
+        "ásott kút"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "Kézzel vagy géppel kiásott, nagy átmérőjű, sekély kút, amely a talajvizet tárja fel. Vize a felszín közelsége miatt könnyen szennyeződik (pl. nitráttal), ezért ivásra gyakran alkalmatlan.",
+      "example": "Az alföldi tanyák gémeskútjai ásott kutak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--hortobagy"
+      ],
+      "related": [
+        "talajviz",
+        "furt-kut",
+        "nitratosodas"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "furt-kut",
+      "term": "fúrt kút",
+      "aliases": [],
+      "sourceLabels": [
+        "fúrt kút"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "Mélyfúrással létesített, csővel bélelt kút, amely a mélyebb, védettebb rétegvizet, artézi vizet vagy hévizet tárja fel. Vize általában jobb minőségű, mint az ásott kutaké.",
+      "example": "A termálfürdők hévizét többnyire mélyfúrású kutak hozzák a felszínre.",
+      "examplePlaces": [],
+      "related": [
+        "asott-kut",
+        "artezi-kut",
+        "heviz"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "csapos-kut",
+      "term": "csápos kút",
+      "aliases": [
+        "parti szűrésű kút"
+      ],
+      "sourceLabels": [
+        "csápos kút"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "Folyó partján, a kavicsos-homokos hordalékba mélyített függőleges akna, amelyből sugárirányban vízszintes szűrőcsöveket („csápokat”) hajtanak ki. A folyó vize a kavicsrétegen átszűrődve tisztul meg (parti szűrésű víz).",
+      "example": "A Szentendrei-sziget csápos kútjai Budapest ivóvízellátásának gerincét adják.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--szentendrei-sziget",
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "ivoviz",
+        "furt-kut"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "felszín-alatti-vizek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "polder",
+      "term": "polder",
+      "aliases": [],
+      "sourceLabels": [
+        "polder"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "Gátakkal körülzárt, lecsapolt és szivattyúkkal szárazon tartott, gyakran tengerszint alatti terület, amelyet egykor tenger, tó vagy mocsár borított. Elsősorban Hollandiára jellemző; termékeny mezőgazdasági terület.",
+      "example": "Hollandiában a Zuiderzee lezárásával létrejött IJssel-tó egy részét lecsapolták és polderré alakították.",
+      "examplePlaces": [
+        "europa--tajak--holland-melyfold",
+        "europa--vizrajz--ijssel-to",
+        "europa--orszagok--hollandia"
+      ],
+      "related": [
+        "vihardagaly",
+        "lecsapolodas",
+        "vesztarozo"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízgazdálkodás",
+        "Európa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tulhalaszas",
+      "term": "túlhalászás",
+      "aliases": [],
+      "sourceLabels": [
+        "túlhalászás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A halállomány természetes megújulási képességét meghaladó mértékű halászat, amely az állomány összeomlásához és a tengeri ökoszisztéma károsodásához vezet. Mérséklésére halászati kvótákat, tilalmi időket és védett területeket vezetnek be.",
+      "example": "Új-Fundland partjainál a tőkehalállomány a túlhalászás miatt az 1990-es évek elején összeomlott, ezért halászati tilalmat rendeltek el.",
+      "examplePlaces": [
+        "amerika--orszagok--kanada"
+      ],
+      "related": [
+        "halaszat",
+        "szarazfoldi-talapzat"
+      ],
+      "tags": [
+        "3-témakör",
+        "mezőgazdaság",
+        "környezetvédelem",
+        "fenntarthatóság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "el-nino",
+      "term": "El Niño",
+      "aliases": [],
+      "sourceLabels": [
+        "El Niño"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.3.4 A vízburok mint gazdasági erőforrás",
+      "level": "emelt",
+      "definition": "A Csendes-óceán egyenlítői, keleti részén néhány évente bekövetkező jelenség, amikor a passzátszelek gyengülése miatt Dél-Amerika nyugati partjainál a szokásosnál melegebb felszíni víz jelenik meg, és leáll a hideg, tápanyagdús víz feláramlása. Következménye a halfogás visszaesése, Peru partvidékén heves esőzések, Ausztráliában és Délkelet-Ázsiában aszály.",
+      "example": "El Niño éveiben a perui szardellahalászat a Humboldt-áramlás gyengülése miatt erősen visszaesik.",
+      "examplePlaces": [
+        "fold--oceanok--csendes-ocean",
+        "fold--tengeraramlasok--humboldt-aramlas"
+      ],
+      "related": [
+        "oceani-vizkorzes",
+        "hideg-tengeraramlas",
+        "halaszat"
+      ],
+      "tags": [
+        "3-témakör",
+        "vízburok",
+        "éghajlat",
+        "légkörzés"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  ]
+}

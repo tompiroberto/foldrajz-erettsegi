@@ -1,0 +1,124 @@
+{
+  "id": "altalanos-legkorzes",
+  "title": "Az általános légkörzés: passzát, nyugatias és sarki szelek",
+  "summary": "Az Egyenlítő és a sarkok eltérő felmelegedése miatt a Földön övezetesen elrendeződő nyomásövek és állandó szélrendszerek alakulnak ki. A szelek irányát az eltérítő erő módosítja.",
+  "causes": [
+    "A napsugarak hajlásszöge az Egyenlítő környékén a legnagyobb, a sarkok felé csökken, ezért a felszín egyenlőtlenül melegszik fel.",
+    "A felmelegedett levegő felemelkedik (alacsony nyomás), a lehűlt levegő leszáll (magas nyomás): övezetes nyomásövek jönnek létre.",
+    "A szél a magas nyomású övek felől az alacsony nyomásúak felé fúj, irányát a Föld forgásából eredő eltérítő erő módosítja."
+  ],
+  "course": [
+    "Az Egyenlítő mentén a felmelegedett, nedves levegő felemelkedik, egyenlítői alacsony nyomású öv alakul ki.",
+    "A magasban a térítők felé áramló levegő a térítők környékén leszáll, és térítői magas nyomású övet hoz létre.",
+    "A térítőktől az Egyenlítő felé fújnak a passzátszelek (északi félgömbön északkeleti, déli félgömbön délkeleti irányból).",
+    "A térítői magas nyomású övből a sarkok felé áramló levegőből lesznek a mérsékelt övezet nyugatias szelei; a sarki magas nyomásból a sarki szelek fújnak a mérsékelt övezet felé."
+  ],
+  "consequences": [
+    "Az egyenlítői övben a felszálló levegő miatt egész évben bőséges csapadék hullik (esőerdők).",
+    "A térítők környékén a leszálló, melegedő levegő miatt alig van csapadék: itt vannak a forró övezeti sivatagok.",
+    "A mérsékelt övezetben a nyugatias szelek az óceán felől nedves levegőt szállítanak, ciklonokat hoznak; a kontinensek nyugati partja óceáni éghajlatú.",
+    "A nyomásövek a Nap járásával (a hőmérsékleti egyenlítő vándorlásával) évszakosan eltolódnak, így alakul ki pl. a szavanna esős és száraz évszaka."
+  ],
+  "steps": [
+    {
+      "title": "Egyenlítői alacsony nyomás: felszálló levegő",
+      "caption": "Az Egyenlítő mentén a nagy hajlásszögű napsugarak erősen felmelegítik a felszínt, a meleg, nedves levegő felemelkedik. A felszínen alacsony nyomású öv alakul ki, sok csapadékkal.",
+      "icon": "arrow-up"
+    },
+    {
+      "title": "Térítői magas nyomás: leszálló levegő",
+      "caption": "A magasban a térítők felé áramló levegő lehűl, és a térítők környékén leszáll. A leszálló, felmelegedő levegő magas nyomású, száraz övet hoz létre.",
+      "icon": "arrow-down"
+    },
+    {
+      "title": "Passzátszelek a térítőktől az Egyenlítő felé",
+      "caption": "A térítői magas nyomású öv felől a felszínen az Egyenlítő felé áramlik a levegő: ezek a passzátszelek. Az eltérítő erő miatt az északi félgömbön északkeleti, a délin délkeleti irányúak.",
+      "icon": "wind"
+    },
+    {
+      "title": "Nyugatias szelek a mérsékelt övezetben",
+      "caption": "A térítői magas nyomású övből a sarkok felé is áramlik levegő, amelyet az eltérítő erő nyugatias iránnyá alakít. A nyugatias szelek az óceánok felől nedves levegőt és ciklonokat szállítanak.",
+      "icon": "wind"
+    },
+    {
+      "title": "Sarki magas nyomás és sarki szelek",
+      "caption": "A sarkvidékek fölött a hideg, sűrű levegő leszáll, magas nyomás alakul ki. Innen a mérsékelt övezet felé keleties irányú, hideg sarki szelek fújnak.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "Az eltérítő erő hatása a szélirányra",
+      "caption": "A Föld forgása miatt a mozgó levegőt az eltérítő erő az északi félgömbön jobbra, a déli félgömbön balra téríti el. Ezért nem észak–déli irányúak az állandó szelek.",
+      "icon": "globe"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Kongó-medence és az Amazonas-medence az egyenlítői alacsony nyomású övben fekszik: egész évben felszálló légmozgás és sok csapadék jellemzi.",
+      "places": [
+        "afrika--tajak--kongo-medence",
+        "amerika--tajak--amazonas-medence"
+      ]
+    },
+    {
+      "text": "A Szahara és az Arab-félsziget a térítői magas nyomású övben, a passzátszelek forrásvidékén fekszik, ezért sivatag.",
+      "places": [
+        "afrika--tajak--szahara",
+        "azsia--tajak--arab-felsziget"
+      ]
+    },
+    {
+      "text": "Nyugat-Európa és a Brit-szigetek a nyugatias szelek övében fekszik: enyhe tél, hűvös nyár, egész évben csapadék jellemzi.",
+      "places": [
+        "europa--a-foldresz-reszei--nyugat-europa",
+        "europa--tajak--brit-szigetek"
+      ]
+    },
+    {
+      "text": "Az Antarktisz fölött állandó sarki magas nyomás van, innen hideg sarki szelek fújnak.",
+      "places": [
+        "fold--egyeb--deli-sarkvidek-antarktisz"
+      ]
+    }
+  ],
+  "concepts": [
+    "általános légkörzés (nagy földi légkörzés)",
+    "szélrendszer",
+    "passzátszelek",
+    "nyugatias szelek",
+    "sarki szelek",
+    "légnyomás",
+    "hőmérsékleti (termikus) egyenlítő"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el az általános légkörzés rendszerét! Térj ki a nyomásövek kialakulására és az állandó szelek irányára!",
+    "elements": [
+      {
+        "text": "Az eltérő felmelegedés oka a napsugarak hajlásszögének változása a szélességgel.",
+        "points": 1
+      },
+      {
+        "text": "Egyenlítői alacsony nyomás: a meleg levegő felemelkedik.",
+        "points": 2
+      },
+      {
+        "text": "Térítői magas nyomás: a magasban odaáramló levegő leszáll.",
+        "points": 2
+      },
+      {
+        "text": "Passzátszelek a térítőktől az Egyenlítő felé (É-on északkeleti, D-en délkeleti).",
+        "points": 2
+      },
+      {
+        "text": "Nyugatias szelek a mérsékelt övezetben, sarki szelek a sarki magas nyomásból.",
+        "points": 2
+      },
+      {
+        "text": "Az eltérítő erő az északi félgömbön jobbra, a délin balra téríti a szeleket.",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A napsugarak hajlásszöge az Egyenlítőtől a sarkok felé csökken, ezért a felszín egyenlőtlenül melegszik fel, és övezetes nyomásövek alakulnak ki. Az Egyenlítő mentén a felmelegedett, nedves levegő felemelkedik, így ott alacsony nyomású öv jön létre, a magasban pedig a térítők felé áramló levegő a térítők környékén leszáll, és magas nyomású övet hoz létre. A térítői magas nyomású övből a felszínen az Egyenlítő felé fújnak a passzátszelek, amelyek az északi félgömbön északkeleti, a délin délkeleti irányúak. A térítőktől a sarkok felé áramló levegőből lesznek a mérsékelt övezet nyugatias szelei, a sarkvidékek hideg, magas nyomású területeiről pedig a sarki szelek fújnak. A szelek irányát a Föld forgásából eredő eltérítő erő alakítja ki, amely az északi félgömbön jobbra, a délin balra téríti el a mozgó levegőt."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": "fogyatkozasok",
+  "title": "Nap- és holdfogyatkozás",
+  "summary": "Fogyatkozás akkor jön létre, amikor a Nap, a Föld és a Hold egy egyenesbe kerül, és az egyik égitest árnyéka a másikra vetül. Napfogyatkozás csak újholdkor, holdfogyatkozás csak holdtöltekor lehetséges.",
+  "causes": [
+    "A Föld és a Hold is kúp alakú teljes árnyékot és körülötte félárnyékot vet a Nappal ellentétes irányba.",
+    "A Hold a Föld körül kering, így havonta egyszer a Nap és a Föld közé (újhold), egyszer a Föld mögé (holdtölte) kerül.",
+    "A Hold pályasíkja kb. 5°-kal hajlik az ekliptikához, ezért a három égitest csak ritkán kerül pontosan egy egyenesbe."
+  ],
+  "course": [
+    "Napfogyatkozáskor a Hold a Nap és a Föld közé kerül, árnyéka a Föld felszínére esik.",
+    "A Hold teljes árnyékának keskeny sávjában teljes, a félárnyék területén részleges napfogyatkozást látunk.",
+    "Holdfogyatkozáskor a Föld kerül a Nap és a Hold közé, a Hold belép a Föld árnyékába.",
+    "Holdfogyatkozás idején a Hold vöröses színű lehet, mert a Föld légköre a vörös fényt megtöri és a Hold felé téríti."
+  ],
+  "consequences": [
+    "A napfogyatkozás egy adott helyen ritka és rövid ideig (legfeljebb néhány percig) tart teljes formában.",
+    "A holdfogyatkozást a Föld teljes éjszakai oldaláról egyszerre láthatják, ezért egy helyről gyakrabban megfigyelhető.",
+    "A napfogyatkozás alatt sötétedés, lehűlés tapasztalható, és láthatóvá válik a napkorona.",
+    "Napfogyatkozást csak megfelelő szűrőn keresztül szabad nézni, különben szemsérülés következhet be."
+  ],
+  "steps": [
+    { "title": "A Nap, a Föld és a Hold helyzete", "caption": "A Nap megvilágítja a Földet és a Holdat, mindkettő árnyékot vet a Nappal ellentétes irányba. Fogyatkozás akkor van, ha a három égitest egy egyenesbe kerül.", "icon": "sun" },
+    { "title": "Napfogyatkozás: a Hold árnyéka a Földre esik (újholdkor)", "caption": "A Hold a Nap és a Föld közé kerül, és eltakarja előled a Napot. Ez csak újholdkor fordulhat elő.", "icon": "sun" },
+    { "title": "Teljes és részleges napfogyatkozás", "caption": "Ahol a Hold teljes árnyéka éri a felszínt, ott teljes, ahol csak a félárnyéka, ott részleges a napfogyatkozás. A teljes fogyatkozás sávja keskeny, és gyorsan végigvonul a Földön.", "icon": "globe" },
+    { "title": "Holdfogyatkozás: a Hold a Föld árnyékába kerül (holdtöltekor)", "caption": "A Föld a Nap és a Hold közé kerül, árnyéka a Holdra vetül. A jelenséget a Föld egész éjszakai oldaláról láthatod.", "icon": "globe" },
+    { "title": "Miért nincs minden hónapban fogyatkozás?", "caption": "A Hold pályasíkja kb. 5°-kal hajlik a Föld pályasíkjához, ezért újholdkor és holdtöltekor az árnyék többnyire elmegy a másik égitest fölött vagy alatt. Fogyatkozás csak akkor lehet, ha a Hold éppen a két pályasík metszésvonalának közelében jár.", "icon": "alert-triangle" }
+  ],
+  "examples": [
+    { "text": "1999. augusztus 11-én teljes napfogyatkozás volt Magyarországon, a teljes árnyék sávja a Balaton térségén haladt át.", "places": ["magyarorszag--vizrajz--balaton"] },
+    { "text": "2017. augusztus 21-én a teljes napfogyatkozás sávja nyugat–keleti irányban végighaladt az Amerikai Egyesült Államokon.", "places": ["amerika--orszagok--amerikai-egyesult-allamok"] }
+  ],
+  "concepts": [
+    "nap- és holdfogyatkozás",
+    "holdfázisok (újhold, első negyed, holdtölte/telihold, utolsó negyed)",
+    "Hold",
+    "Nap",
+    "ekliptika"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a nap- és a holdfogyatkozás kialakulását! Hasonlítsd össze a két jelenséget, és indokold, miért nincs minden hónapban fogyatkozás!",
+    "elements": [
+      { "text": "Fogyatkozás akkor jön létre, ha a Nap, a Föld és a Hold egy egyenesbe kerül.", "points": 1 },
+      { "text": "Napfogyatkozáskor a Hold kerül a Nap és a Föld közé, árnyéka a Földre esik.", "points": 2 },
+      { "text": "Napfogyatkozás csak újholdkor, holdfogyatkozás csak holdtöltekor lehetséges.", "points": 2 },
+      { "text": "Holdfogyatkozáskor a Föld kerül a Nap és a Hold közé, a Hold a Föld árnyékába lép.", "points": 2 },
+      { "text": "A teljes árnyékban teljes, a félárnyékban részleges fogyatkozás látható.", "points": 1 },
+      { "text": "A Hold pályasíkja kb. 5°-kal hajlik az ekliptikához, ezért nincs minden hónapban fogyatkozás.", "points": 2 }
+    ],
+    "modelAnswer": "Fogyatkozás akkor jön létre, ha a Nap, a Föld és a Hold egy egyenesbe kerül, és az egyik égitest árnyéka a másikra vetül. Napfogyatkozáskor a Hold kerül a Nap és a Föld közé, és árnyéka a Föld felszínére esik, ezért ez csak újholdkor lehetséges. Holdfogyatkozáskor a Föld kerül a Nap és a Hold közé, a Hold a Föld árnyékába lép, ami csak holdtöltekor fordulhat elő. A teljes árnyék területén teljes, a félárnyékban részleges fogyatkozást látunk. Azért nincs minden hónapban fogyatkozás, mert a Hold pályasíkja kb. 5°-kal hajlik az ekliptikához, így a három égitest csak ritkán kerül pontosan egy egyenesbe."
+  },
+  "generated": true,
+  "reviewed": false
+}

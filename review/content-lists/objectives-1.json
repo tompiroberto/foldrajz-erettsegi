@@ -1,0 +1,138 @@
+[
+ {
+  "id": "1-1-a-terkep",
+  "title": "1.1. A térkép",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "1-1-a-terkep--k1",
+    "level": "kozep",
+    "text": "Értelmezze a méretarány és az ábrázolt terület nagysága, valamint az ábrázolás részletessége közötti kapcsolatot."
+   },
+   {
+    "id": "1-1-a-terkep--k2",
+    "level": "kozep",
+    "text": "Ismertesse a domborzatábrázolás különböző módszereit."
+   },
+   {
+    "id": "1-1-a-terkep--k3",
+    "level": "kozep",
+    "text": "Ismerje fel térképen a domborzati formákat."
+   },
+   {
+    "id": "1-1-a-terkep--k4",
+    "level": "kozep",
+    "text": "Ismerje a földrajzi fokhálózat jellemzőit."
+   },
+   {
+    "id": "1-1-a-terkep--k5",
+    "level": "kozep",
+    "text": "Készítsen térképvázlatot, és alakítsa ki a jelrendszerét."
+   },
+   {
+    "id": "1-1-a-terkep--e1",
+    "level": "emelt",
+    "text": "Ismerje a vetület fogalmát és a legelterjedtebb vetülettípusokat, hasonlítsa össze jellemzőiket."
+   }
+  ]
+ },
+ {
+  "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel",
+  "title": "1.2. Tájékozódás a térképen és a térképpel",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k1",
+    "level": "kozep",
+    "text": "Értelmezze a térkép jelei, színei és számai által közölt információkat, alkalmazza azokat."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k2",
+    "level": "kozep",
+    "text": "Olvasson le információkat különböző méretarányú és tartalmú térképekről, keresztmetszetekről és tömbszelvényekről, elemezze és vesse össze azokat."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k3",
+    "level": "kozep",
+    "text": "Végezzen összehasonlító elemzést tematikus térképekkel."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k4",
+    "level": "kozep",
+    "text": "Oldjon meg egyszerű számítási feladatokat a méretarány felhasználásával."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k5",
+    "level": "kozep",
+    "text": "Számítsa ki a viszonylagos magasságot térképi információk alapján."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k6",
+    "level": "kozep",
+    "text": "Mérjen és határozzon meg távolságot térképi egyenes és görbe vonal mentén különböző eszközök segítségével."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--k7",
+    "level": "kozep",
+    "text": "Végezzen helymeghatározási és tájékozódási feladatokat térképen és térképpel."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e1",
+    "level": "emelt",
+    "text": "Határozzon meg távolságot az Egyenlítő vagy valamely hosszúsági kör mentén a földrajzi fokhálózat segítségével."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e2",
+    "level": "emelt",
+    "text": "Számítson területet a méretarány felhasználásával."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e3",
+    "level": "emelt",
+    "text": "Azonosítsa a szintvonalas térképet az arról készített keresztmetszettel."
+   },
+   {
+    "id": "1-2-tajekozodas-a-terkepen-es-a-terkeppel--e4",
+    "level": "emelt",
+    "text": "Értelmezzen a Föld háromdimenziós megjelenítését lehetővé tevő számítógépes programmal készült keresztmetszeteket, felszínmodelleket."
+   }
+  ]
+ },
+ {
+  "id": "1-3-taverzekeles-es-terinformatika",
+  "title": "1.3. Távérzékelés és térinformatika",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "1-3-taverzekeles-es-terinformatika--k1",
+    "level": "kozep",
+    "text": "Ismertesse a légi és az űrfelvételek felhasználási lehetőségeit."
+   },
+   {
+    "id": "1-3-taverzekeles-es-terinformatika--k2",
+    "level": "kozep",
+    "text": "Azonosítson környezeti elemeket térképvázlattal vagy térképpel történő összevetés alapján légi és űrfelvételeken."
+   },
+   {
+    "id": "1-3-taverzekeles-es-terinformatika--k3",
+    "level": "kozep",
+    "text": "Ismerjen fel változásokat, folyamatokat és vonjon le következtetéseket különböző térképek és műholdfelvételek összehasonlításával."
+   },
+   {
+    "id": "1-3-taverzekeles-es-terinformatika--k4",
+    "level": "kozep",
+    "text": "Ismerje a GPS működési elvét és jelentőségét."
+   },
+   {
+    "id": "1-3-taverzekeles-es-terinformatika--e1",
+    "level": "emelt",
+    "text": "Mutassa be a műholdfelvételek készítésének elvét, a műholdfelvételek típusait."
+   },
+   {
+    "id": "1-3-taverzekeles-es-terinformatika--e2",
+    "level": "emelt",
+    "text": "Ismertesse a földrajzi információs rendszer (GIS) szerepét."
+   }
+  ]
+ }
+]

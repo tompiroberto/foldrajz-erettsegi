@@ -1,0 +1,3547 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--appennini-felsziget",
+    "name": "Appennini-félsziget",
+    "confidence": "medium",
+    "note": "Pó-alföldtől délre, La Spezia–Rimini vonaltól; Szicília nélkül"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.85,
+       44.1
+      ],
+      [
+       10.25,
+       43.87
+      ],
+      [
+       10.31,
+       43.55
+      ],
+      [
+       10.5,
+       42.93
+      ],
+      [
+       11.21,
+       42.44
+      ],
+      [
+       11.8,
+       42.09
+      ],
+      [
+       12.62,
+       41.45
+      ],
+      [
+       13.57,
+       41.21
+      ],
+      [
+       14.25,
+       40.84
+      ],
+      [
+       14.77,
+       40.68
+      ],
+      [
+       15.62,
+       40.06
+      ],
+      [
+       16.03,
+       39.36
+      ],
+      [
+       15.88,
+       38.68
+      ],
+      [
+       15.65,
+       38.11
+      ],
+      [
+       16.06,
+       37.93
+      ],
+      [
+       17.13,
+       39.08
+      ],
+      [
+       16.5,
+       39.75
+      ],
+      [
+       17.2,
+       40.45
+      ],
+      [
+       17.99,
+       40.05
+      ],
+      [
+       18.36,
+       39.8
+      ],
+      [
+       18.49,
+       40.15
+      ],
+      [
+       17.95,
+       40.64
+      ],
+      [
+       16.87,
+       41.13
+      ],
+      [
+       16.18,
+       41.89
+      ],
+      [
+       14.99,
+       42
+      ],
+      [
+       14.21,
+       42.47
+      ],
+      [
+       13.5,
+       43.62
+      ],
+      [
+       12.57,
+       44.06
+      ],
+      [
+       9.85,
+       44.1
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--becsi-medence",
+    "name": "Bécsi-medence",
+    "confidence": "medium",
+    "note": "Alpok és Kis-Kárpátok között, Bécs–Wiener Neustadt–Záhorie"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       16.25,
+       48.25
+      ],
+      [
+       16.18,
+       48.05
+      ],
+      [
+       16.05,
+       47.85
+      ],
+      [
+       15.98,
+       47.68
+      ],
+      [
+       16.15,
+       47.62
+      ],
+      [
+       16.45,
+       47.75
+      ],
+      [
+       16.7,
+       47.95
+      ],
+      [
+       16.95,
+       48.12
+      ],
+      [
+       17.05,
+       48.25
+      ],
+      [
+       17.22,
+       48.5
+      ],
+      [
+       17.3,
+       48.75
+      ],
+      [
+       17.13,
+       48.86
+      ],
+      [
+       16.88,
+       48.76
+      ],
+      [
+       16.55,
+       48.55
+      ],
+      [
+       16.25,
+       48.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--csallokoz",
+    "name": "Csallóköz",
+    "confidence": "medium",
+    "note": "Duna és Kis-Duna közti sziget, Pozsony–Révkomárom"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.13,
+       48.12
+      ],
+      [
+       17.25,
+       48.05
+      ],
+      [
+       17.4,
+       47.97
+      ],
+      [
+       17.55,
+       47.88
+      ],
+      [
+       17.65,
+       47.8
+      ],
+      [
+       17.75,
+       47.79
+      ],
+      [
+       17.9,
+       47.76
+      ],
+      [
+       18.13,
+       47.76
+      ],
+      [
+       18.08,
+       47.83
+      ],
+      [
+       17.99,
+       47.92
+      ],
+      [
+       17.8,
+       48
+      ],
+      [
+       17.65,
+       48.08
+      ],
+      [
+       17.52,
+       48.15
+      ],
+      [
+       17.42,
+       48.17
+      ],
+      [
+       17.25,
+       48.17
+      ],
+      [
+       17.13,
+       48.12
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--cseh-medence",
+    "name": "Cseh-medence",
+    "confidence": "medium",
+    "note": "Érchegység, Szudéták, Cseh–Morva-dombság, Cseh-erdő által közrezárt terület"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12.5,
+       50
+      ],
+      [
+       12.9,
+       49.6
+      ],
+      [
+       13.4,
+       49.35
+      ],
+      [
+       13.9,
+       49
+      ],
+      [
+       14.4,
+       48.95
+      ],
+      [
+       14.8,
+       49.25
+      ],
+      [
+       15.3,
+       49.6
+      ],
+      [
+       15.9,
+       49.75
+      ],
+      [
+       16.3,
+       50
+      ],
+      [
+       16.1,
+       50.42
+      ],
+      [
+       15.4,
+       50.62
+      ],
+      [
+       14.8,
+       50.75
+      ],
+      [
+       14.2,
+       50.75
+      ],
+      [
+       13.6,
+       50.5
+      ],
+      [
+       13,
+       50.35
+      ],
+      [
+       12.5,
+       50
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--erdelyi-medence",
+    "name": "Erdélyi-medence",
+    "confidence": "medium",
+    "note": "Kolozsvár–Beszterce–Marosvásárhely–Nagyszeben–Gyulafehérvár között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       23.45,
+       46.85
+      ],
+      [
+       23.45,
+       46.6
+      ],
+      [
+       23.6,
+       46.35
+      ],
+      [
+       23.55,
+       46.05
+      ],
+      [
+       23.75,
+       45.9
+      ],
+      [
+       24.15,
+       45.8
+      ],
+      [
+       24.6,
+       45.85
+      ],
+      [
+       25,
+       45.95
+      ],
+      [
+       25.2,
+       46.15
+      ],
+      [
+       25.15,
+       46.45
+      ],
+      [
+       25,
+       46.75
+      ],
+      [
+       24.85,
+       47
+      ],
+      [
+       24.55,
+       47.2
+      ],
+      [
+       24.2,
+       47.25
+      ],
+      [
+       23.75,
+       47.1
+      ],
+      [
+       23.45,
+       46.85
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--erdelyi-szigethegyseg-erdelyi-kozephegyseg",
+    "name": "Erdélyi-szigethegység (Erdélyi-középhegység)",
+    "confidence": "medium",
+    "note": "Apuseni: Bihar, Gyalui-havasok, Erdélyi-érchegység, Meszes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       22.3,
+       46.85
+      ],
+      [
+       22.1,
+       46.7
+      ],
+      [
+       21.95,
+       46.45
+      ],
+      [
+       22.05,
+       46.2
+      ],
+      [
+       22.4,
+       46.05
+      ],
+      [
+       22.85,
+       45.9
+      ],
+      [
+       23.2,
+       45.95
+      ],
+      [
+       23.55,
+       46.15
+      ],
+      [
+       23.6,
+       46.45
+      ],
+      [
+       23.5,
+       46.75
+      ],
+      [
+       23.3,
+       46.95
+      ],
+      [
+       23,
+       47.15
+      ],
+      [
+       22.6,
+       47.05
+      ],
+      [
+       22.3,
+       46.85
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--eszakkeleti-karpatok",
+    "name": "Északkeleti-Kárpátok",
+    "confidence": "low",
+    "note": "Duklai-hágótól a Tisza forrásvidékéig (Ukrajna, Szlovákia, Lengyelország)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       21.55,
+       49.45
+      ],
+      [
+       21.5,
+       49.15
+      ],
+      [
+       21.7,
+       48.95
+      ],
+      [
+       22,
+       48.75
+      ],
+      [
+       22.4,
+       48.5
+      ],
+      [
+       23,
+       48.3
+      ],
+      [
+       23.6,
+       48.1
+      ],
+      [
+       24.2,
+       48
+      ],
+      [
+       24.6,
+       47.98
+      ],
+      [
+       24.85,
+       48.1
+      ],
+      [
+       24.6,
+       48.45
+      ],
+      [
+       24,
+       48.85
+      ],
+      [
+       23.4,
+       49.2
+      ],
+      [
+       22.8,
+       49.45
+      ],
+      [
+       22.2,
+       49.55
+      ],
+      [
+       21.55,
+       49.45
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--eszaknyugati-karpatok",
+    "name": "Északnyugati-Kárpátok",
+    "confidence": "medium",
+    "note": "Nyugati-Kárpátok: Kis-Kárpátoktól a Duklai-hágóig (Szlovákia, Dél-Lengyelország)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.05,
+       48.15
+      ],
+      [
+       17.3,
+       48.2
+      ],
+      [
+       17.6,
+       48.3
+      ],
+      [
+       18.1,
+       48.25
+      ],
+      [
+       18.6,
+       48.15
+      ],
+      [
+       19,
+       48
+      ],
+      [
+       19.8,
+       48.2
+      ],
+      [
+       20.4,
+       48.45
+      ],
+      [
+       21,
+       48.55
+      ],
+      [
+       21.55,
+       48.6
+      ],
+      [
+       21.6,
+       49
+      ],
+      [
+       21.65,
+       49.45
+      ],
+      [
+       21.3,
+       49.65
+      ],
+      [
+       20.6,
+       49.85
+      ],
+      [
+       19.8,
+       49.95
+      ],
+      [
+       19,
+       49.85
+      ],
+      [
+       18.4,
+       49.65
+      ],
+      [
+       17.95,
+       49.4
+      ],
+      [
+       17.7,
+       49
+      ],
+      [
+       17.35,
+       48.7
+      ],
+      [
+       17.05,
+       48.15
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--german-alfold",
+    "name": "Germán-alföld",
+    "confidence": "medium",
+    "note": "Észak-német-alföld a Középhegységtől az Északi- és Balti-tengerig"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.05,
+       52.25
+      ],
+      [
+       7,
+       51.6
+      ],
+      [
+       7.6,
+       52.05
+      ],
+      [
+       8.5,
+       52.3
+      ],
+      [
+       9.5,
+       52.25
+      ],
+      [
+       10.5,
+       52.1
+      ],
+      [
+       11.5,
+       51.8
+      ],
+      [
+       12.4,
+       51.3
+      ],
+      [
+       13.8,
+       51.15
+      ],
+      [
+       15,
+       51.3
+      ],
+      [
+       14.75,
+       52
+      ],
+      [
+       14.6,
+       52.6
+      ],
+      [
+       14.3,
+       53.3
+      ],
+      [
+       14.2,
+       53.9
+      ],
+      [
+       13.4,
+       54.3
+      ],
+      [
+       12.1,
+       54.15
+      ],
+      [
+       10.9,
+       54.1
+      ],
+      [
+       9.9,
+       54.75
+      ],
+      [
+       8.8,
+       54.85
+      ],
+      [
+       8.9,
+       54.3
+      ],
+      [
+       8.9,
+       53.85
+      ],
+      [
+       8.2,
+       53.55
+      ],
+      [
+       7.2,
+       53.25
+      ],
+      [
+       7.05,
+       52.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--hargita",
+    "name": "Hargita",
+    "confidence": "medium",
+    "note": "Vulkáni vonulat Csíki- és Udvarhelyi-medence között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       25.55,
+       46.75
+      ],
+      [
+       25.48,
+       46.68
+      ],
+      [
+       25.42,
+       46.5
+      ],
+      [
+       25.45,
+       46.3
+      ],
+      [
+       25.55,
+       46.15
+      ],
+      [
+       25.68,
+       46.12
+      ],
+      [
+       25.72,
+       46.25
+      ],
+      [
+       25.72,
+       46.45
+      ],
+      [
+       25.72,
+       46.65
+      ],
+      [
+       25.55,
+       46.75
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--holland-melyfold",
+    "name": "Holland-mélyföld",
+    "confidence": "medium",
+    "note": "Hollandia és Flandria alacsony síksága"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       2.55,
+       51.1
+      ],
+      [
+       3.2,
+       50.85
+      ],
+      [
+       4.4,
+       50.95
+      ],
+      [
+       5.3,
+       51.15
+      ],
+      [
+       5.9,
+       51
+      ],
+      [
+       6.1,
+       51.5
+      ],
+      [
+       6.8,
+       51.95
+      ],
+      [
+       7.05,
+       52.4
+      ],
+      [
+       7.2,
+       53.2
+      ],
+      [
+       6.8,
+       53.45
+      ],
+      [
+       5.5,
+       53.45
+      ],
+      [
+       4.75,
+       53
+      ],
+      [
+       4.55,
+       52.4
+      ],
+      [
+       4,
+       51.95
+      ],
+      [
+       3.5,
+       51.55
+      ],
+      [
+       3.4,
+       51.35
+      ],
+      [
+       2.55,
+       51.1
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--kelet-europai-siksag",
+    "name": "Kelet-európai-síkság",
+    "confidence": "low",
+    "note": "Lengyel határtól az Urálig, Balti- és Fehér-tengertől a Fekete-tengerig"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       23.5,
+       52
+      ],
+      [
+       23.5,
+       50.5
+      ],
+      [
+       24,
+       49.5
+      ],
+      [
+       25.5,
+       48.6
+      ],
+      [
+       27,
+       48.2
+      ],
+      [
+       28.5,
+       46
+      ],
+      [
+       30.5,
+       46.4
+      ],
+      [
+       31.5,
+       46.6
+      ],
+      [
+       33.5,
+       46.4
+      ],
+      [
+       37.5,
+       47
+      ],
+      [
+       40,
+       46.8
+      ],
+      [
+       44,
+       47.3
+      ],
+      [
+       47,
+       47
+      ],
+      [
+       51,
+       48.5
+      ],
+      [
+       57,
+       51
+      ],
+      [
+       58.5,
+       53
+      ],
+      [
+       59.5,
+       57
+      ],
+      [
+       59,
+       62
+      ],
+      [
+       60,
+       67.5
+      ],
+      [
+       54,
+       68
+      ],
+      [
+       40.5,
+       64.6
+      ],
+      [
+       34,
+       64.5
+      ],
+      [
+       32,
+       61.5
+      ],
+      [
+       30.3,
+       60
+      ],
+      [
+       28,
+       59.6
+      ],
+      [
+       23.5,
+       59
+      ],
+      [
+       21.5,
+       57.2
+      ],
+      [
+       21.1,
+       55.7
+      ],
+      [
+       23.8,
+       53.8
+      ],
+      [
+       23.5,
+       52
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--keleti-alpok",
+    "name": "Keleti-Alpok",
+    "confidence": "medium",
+    "note": "Bodeni-tó–Rajna–Splügen–Comói-tó vonaltól keletre, Bécsi-medencéig"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.6,
+       47.5
+      ],
+      [
+       9.5,
+       47.1
+      ],
+      [
+       9.35,
+       46.5
+      ],
+      [
+       9.3,
+       45.85
+      ],
+      [
+       9.9,
+       45.75
+      ],
+      [
+       10.4,
+       45.65
+      ],
+      [
+       11,
+       45.6
+      ],
+      [
+       11.6,
+       45.85
+      ],
+      [
+       12.3,
+       46
+      ],
+      [
+       13,
+       46.15
+      ],
+      [
+       13.7,
+       46.1
+      ],
+      [
+       14.5,
+       46.1
+      ],
+      [
+       15.3,
+       46.25
+      ],
+      [
+       15.6,
+       46.75
+      ],
+      [
+       15.9,
+       47.1
+      ],
+      [
+       16.3,
+       47.4
+      ],
+      [
+       16.05,
+       47.65
+      ],
+      [
+       16.2,
+       47.9
+      ],
+      [
+       16.15,
+       48.2
+      ],
+      [
+       15.7,
+       48.15
+      ],
+      [
+       15,
+       48
+      ],
+      [
+       14,
+       47.9
+      ],
+      [
+       13.1,
+       47.85
+      ],
+      [
+       12.4,
+       47.75
+      ],
+      [
+       11.5,
+       47.65
+      ],
+      [
+       10.5,
+       47.6
+      ],
+      [
+       9.6,
+       47.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--keleti-karpatok",
+    "name": "Keleti-Kárpátok",
+    "confidence": "medium",
+    "note": "Románia: Tisza-forrásvidéktől a Prahova-völgyig (Brassó), belső vulkáni vonulattal"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       24,
+       47.95
+      ],
+      [
+       24,
+       47.55
+      ],
+      [
+       24.5,
+       47.25
+      ],
+      [
+       24.8,
+       46.9
+      ],
+      [
+       25.15,
+       46.6
+      ],
+      [
+       25.6,
+       46.1
+      ],
+      [
+       25.5,
+       45.8
+      ],
+      [
+       25.3,
+       45.55
+      ],
+      [
+       25.6,
+       45.4
+      ],
+      [
+       26,
+       45.3
+      ],
+      [
+       26.5,
+       45.55
+      ],
+      [
+       26.6,
+       45.95
+      ],
+      [
+       26.45,
+       46.4
+      ],
+      [
+       26.25,
+       46.9
+      ],
+      [
+       26,
+       47.35
+      ],
+      [
+       25.6,
+       47.85
+      ],
+      [
+       24.9,
+       47.95
+      ],
+      [
+       24,
+       47.95
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--lengyel-alfold",
+    "name": "Lengyel-alföld",
+    "confidence": "low",
+    "note": "Közép-lengyel síkság a tóhátság és a középhegység között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.7,
+       52.6
+      ],
+      [
+       14.7,
+       51.7
+      ],
+      [
+       15.2,
+       51.4
+      ],
+      [
+       16.5,
+       51.15
+      ],
+      [
+       17.5,
+       51
+      ],
+      [
+       18.5,
+       51
+      ],
+      [
+       19.5,
+       51.1
+      ],
+      [
+       20.5,
+       51.35
+      ],
+      [
+       21.6,
+       51.3
+      ],
+      [
+       22.5,
+       51.4
+      ],
+      [
+       23.6,
+       51.6
+      ],
+      [
+       23.5,
+       52.3
+      ],
+      [
+       22,
+       52.6
+      ],
+      [
+       20.5,
+       52.75
+      ],
+      [
+       19,
+       52.7
+      ],
+      [
+       17.5,
+       52.85
+      ],
+      [
+       16,
+       52.75
+      ],
+      [
+       14.7,
+       52.6
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--lengyel-kozephegyseg",
+    "name": "Lengyel-középhegység",
+    "confidence": "low",
+    "note": "Kis-lengyelországi-hátság, Szent-kereszt-hegység, Lublini-hátság"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       18.9,
+       50.9
+      ],
+      [
+       19,
+       50.35
+      ],
+      [
+       19.4,
+       50.1
+      ],
+      [
+       20,
+       50.05
+      ],
+      [
+       20.8,
+       50.25
+      ],
+      [
+       21.5,
+       50.55
+      ],
+      [
+       22.5,
+       50.6
+      ],
+      [
+       23.4,
+       50.3
+      ],
+      [
+       23.6,
+       50.6
+      ],
+      [
+       23.3,
+       51.1
+      ],
+      [
+       22.3,
+       51.2
+      ],
+      [
+       21.5,
+       51.1
+      ],
+      [
+       20.7,
+       51.25
+      ],
+      [
+       19.8,
+       51.2
+      ],
+      [
+       18.9,
+       50.9
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--lengyel-tohatsag",
+    "name": "Lengyel-tóhátság",
+    "confidence": "medium",
+    "note": "Pomerániai és Mazúriai-tóhátság"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.6,
+       53.3
+      ],
+      [
+       14.9,
+       52.9
+      ],
+      [
+       15.8,
+       52.9
+      ],
+      [
+       17,
+       52.9
+      ],
+      [
+       18.2,
+       52.95
+      ],
+      [
+       19.2,
+       53.1
+      ],
+      [
+       20.3,
+       53.3
+      ],
+      [
+       21.5,
+       53.45
+      ],
+      [
+       22.5,
+       53.6
+      ],
+      [
+       23.2,
+       54
+      ],
+      [
+       22.8,
+       54.3
+      ],
+      [
+       21.5,
+       54.2
+      ],
+      [
+       20.2,
+       54.1
+      ],
+      [
+       19.2,
+       54.1
+      ],
+      [
+       18.5,
+       54.3
+      ],
+      [
+       17.8,
+       54.45
+      ],
+      [
+       16.8,
+       54.2
+      ],
+      [
+       15.5,
+       53.95
+      ],
+      [
+       14.6,
+       53.3
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--londoni-medence",
+    "name": "Londoni-medence",
+    "confidence": "medium",
+    "note": "Temze-medence a Chiltern és North Downs között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -1.5,
+       51.45
+      ],
+      [
+       -1.1,
+       51.3
+      ],
+      [
+       -0.6,
+       51.3
+      ],
+      [
+       0,
+       51.35
+      ],
+      [
+       0.5,
+       51.45
+      ],
+      [
+       1,
+       51.55
+      ],
+      [
+       1.4,
+       51.85
+      ],
+      [
+       0.9,
+       51.95
+      ],
+      [
+       0.3,
+       51.95
+      ],
+      [
+       -0.4,
+       51.8
+      ],
+      [
+       -1,
+       51.65
+      ],
+      [
+       -1.5,
+       51.45
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--magas-tatra",
+    "name": "Magas-Tátra",
+    "confidence": "medium",
+    "note": "Szlovák–lengyel határon, Gerlachfalvi-csúcs"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       19.93,
+       49.22
+      ],
+      [
+       19.92,
+       49.16
+      ],
+      [
+       20,
+       49.12
+      ],
+      [
+       20.12,
+       49.11
+      ],
+      [
+       20.25,
+       49.14
+      ],
+      [
+       20.3,
+       49.2
+      ],
+      [
+       20.22,
+       49.25
+      ],
+      [
+       20.12,
+       49.27
+      ],
+      [
+       20.02,
+       49.26
+      ],
+      [
+       19.93,
+       49.22
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--morva-medence",
+    "name": "Morva-medence",
+    "confidence": "low",
+    "note": "Morva folyó völgye Olomouc–Hodonín között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17,
+       49.75
+      ],
+      [
+       16.95,
+       49.4
+      ],
+      [
+       16.75,
+       49.2
+      ],
+      [
+       16.6,
+       49
+      ],
+      [
+       16.75,
+       48.8
+      ],
+      [
+       17.05,
+       48.75
+      ],
+      [
+       17.3,
+       48.85
+      ],
+      [
+       17.55,
+       49.05
+      ],
+      [
+       17.6,
+       49.35
+      ],
+      [
+       17.4,
+       49.65
+      ],
+      [
+       17,
+       49.75
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--nemet-kozephegyseg",
+    "name": "Német-középhegység",
+    "confidence": "low",
+    "note": "Rajnai-palahegységtől az Érchegységig, Harz, Türingiai-erdő"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       6.1,
+       50.6
+      ],
+      [
+       6.15,
+       50.1
+      ],
+      [
+       6.4,
+       49.5
+      ],
+      [
+       7,
+       49.25
+      ],
+      [
+       7.9,
+       49.2
+      ],
+      [
+       8.2,
+       49.6
+      ],
+      [
+       8.6,
+       49.8
+      ],
+      [
+       9,
+       49.55
+      ],
+      [
+       9.8,
+       50.1
+      ],
+      [
+       10.7,
+       50.25
+      ],
+      [
+       11.6,
+       50.4
+      ],
+      [
+       12.3,
+       50.25
+      ],
+      [
+       13.3,
+       50.6
+      ],
+      [
+       14.3,
+       50.85
+      ],
+      [
+       14.6,
+       51
+      ],
+      [
+       13.4,
+       51
+      ],
+      [
+       12.3,
+       51
+      ],
+      [
+       11.5,
+       51.5
+      ],
+      [
+       11.2,
+       51.85
+      ],
+      [
+       10.3,
+       52.05
+      ],
+      [
+       9.4,
+       52.2
+      ],
+      [
+       9.3,
+       51.9
+      ],
+      [
+       8.6,
+       51.45
+      ],
+      [
+       7.6,
+       51.35
+      ],
+      [
+       6.9,
+       50.75
+      ],
+      [
+       6.1,
+       50.6
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--nyugati-alpok",
+    "name": "Nyugati-Alpok",
+    "confidence": "medium",
+    "note": "Bodeni-tó–Rajna–Splügen–Comói-tó vonaltól nyugatra"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.5,
+       43.8
+      ],
+      [
+       8.3,
+       44.3
+      ],
+      [
+       7.7,
+       44.4
+      ],
+      [
+       7.3,
+       44.7
+      ],
+      [
+       7.3,
+       45.1
+      ],
+      [
+       7.7,
+       45.5
+      ],
+      [
+       8.3,
+       45.8
+      ],
+      [
+       8.9,
+       45.9
+      ],
+      [
+       9.3,
+       46
+      ],
+      [
+       9.35,
+       46.5
+      ],
+      [
+       9.5,
+       47.05
+      ],
+      [
+       9.5,
+       47.25
+      ],
+      [
+       8.8,
+       47.2
+      ],
+      [
+       8.2,
+       46.95
+      ],
+      [
+       7.4,
+       46.75
+      ],
+      [
+       6.8,
+       46.45
+      ],
+      [
+       6.2,
+       46.2
+      ],
+      [
+       5.8,
+       45.65
+      ],
+      [
+       5.6,
+       45.2
+      ],
+      [
+       5.6,
+       44.7
+      ],
+      [
+       6,
+       44
+      ],
+      [
+       6.6,
+       43.6
+      ],
+      [
+       7,
+       43.55
+      ],
+      [
+       7.5,
+       43.8
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--parizsi-medence",
+    "name": "Párizsi-medence",
+    "confidence": "medium",
+    "note": "Armorikai-hegyvidék, Ardennek, Vogézek és Francia-középhegység között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.4,
+       49.3
+      ],
+      [
+       -0.6,
+       48.7
+      ],
+      [
+       -0.4,
+       48
+      ],
+      [
+       0,
+       47.2
+      ],
+      [
+       0.8,
+       46.6
+      ],
+      [
+       2,
+       46.6
+      ],
+      [
+       3,
+       46.9
+      ],
+      [
+       4,
+       47.3
+      ],
+      [
+       5,
+       47.4
+      ],
+      [
+       5.9,
+       48
+      ],
+      [
+       6.4,
+       48.8
+      ],
+      [
+       5.6,
+       49.4
+      ],
+      [
+       4.8,
+       49.7
+      ],
+      [
+       3.8,
+       50.1
+      ],
+      [
+       2.5,
+       50.3
+      ],
+      [
+       1.4,
+       50.1
+      ],
+      [
+       0.2,
+       49.7
+      ],
+      [
+       -0.4,
+       49.3
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--pennine-hegyseg-pennine",
+    "name": "Pennine-hegység (Pennine)",
+    "confidence": "medium",
+    "note": "Anglia gerince, Peak Districttől a Tyne-ig"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -2.6,
+       55
+      ],
+      [
+       -2.7,
+       54.8
+      ],
+      [
+       -2.6,
+       54.5
+      ],
+      [
+       -2.5,
+       54.1
+      ],
+      [
+       -2.25,
+       53.7
+      ],
+      [
+       -2.1,
+       53.35
+      ],
+      [
+       -1.95,
+       53
+      ],
+      [
+       -1.65,
+       52.95
+      ],
+      [
+       -1.6,
+       53.2
+      ],
+      [
+       -1.65,
+       53.6
+      ],
+      [
+       -1.8,
+       54
+      ],
+      [
+       -1.9,
+       54.5
+      ],
+      [
+       -2,
+       55
+      ],
+      [
+       -2.6,
+       55
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--po-alfold",
+    "name": "Pó-alföld",
+    "confidence": "medium",
+    "note": "Alpok és Appenninek között, Torinótól az Adriáig (velencei síksággal)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.3,
+       44.65
+      ],
+      [
+       7.7,
+       44.45
+      ],
+      [
+       8.3,
+       44.8
+      ],
+      [
+       9,
+       44.9
+      ],
+      [
+       10,
+       44.85
+      ],
+      [
+       11,
+       44.55
+      ],
+      [
+       11.8,
+       44.2
+      ],
+      [
+       12.4,
+       44.1
+      ],
+      [
+       12.3,
+       44.6
+      ],
+      [
+       12.4,
+       45.2
+      ],
+      [
+       13.3,
+       45.75
+      ],
+      [
+       12.6,
+       45.9
+      ],
+      [
+       11.8,
+       45.8
+      ],
+      [
+       11,
+       45.55
+      ],
+      [
+       10.2,
+       45.65
+      ],
+      [
+       9.3,
+       45.8
+      ],
+      [
+       8.5,
+       45.75
+      ],
+      [
+       7.9,
+       45.5
+      ],
+      [
+       7.5,
+       45.1
+      ],
+      [
+       7.3,
+       44.65
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--roman-alfold",
+    "name": "Román-alföld",
+    "confidence": "medium",
+    "note": "Havasalföld: Kárpátok előtere és az Al-Duna között"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       23,
+       44.5
+      ],
+      [
+       22.7,
+       44.25
+      ],
+      [
+       23,
+       44.02
+      ],
+      [
+       24.2,
+       43.76
+      ],
+      [
+       25,
+       43.72
+      ],
+      [
+       26.1,
+       43.98
+      ],
+      [
+       27.3,
+       44.12
+      ],
+      [
+       27.9,
+       44.7
+      ],
+      [
+       28,
+       45.2
+      ],
+      [
+       27.9,
+       45.5
+      ],
+      [
+       27.3,
+       45.55
+      ],
+      [
+       26.7,
+       45.4
+      ],
+      [
+       26,
+       45
+      ],
+      [
+       25.2,
+       44.75
+      ],
+      [
+       24.4,
+       44.6
+      ],
+      [
+       23.6,
+       44.5
+      ],
+      [
+       23,
+       44.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--szilezia",
+    "name": "Szilézia",
+    "confidence": "low",
+    "note": "Alsó- és Felső-Szilézia (Odera mente), cseh-sziléziai résszel"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       15,
+       51.15
+      ],
+      [
+       15,
+       50.95
+      ],
+      [
+       15.8,
+       50.75
+      ],
+      [
+       16.4,
+       50.4
+      ],
+      [
+       17,
+       50.25
+      ],
+      [
+       17.6,
+       50.2
+      ],
+      [
+       18,
+       49.95
+      ],
+      [
+       18.6,
+       49.8
+      ],
+      [
+       19.1,
+       49.9
+      ],
+      [
+       19.3,
+       50.35
+      ],
+      [
+       18.8,
+       50.85
+      ],
+      [
+       18.2,
+       51.2
+      ],
+      [
+       17.3,
+       51.6
+      ],
+      [
+       16.4,
+       51.75
+      ],
+      [
+       15.5,
+       51.6
+      ],
+      [
+       15,
+       51.15
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--stromboli",
+    "name": "Stromboli",
+    "confidence": "high",
+    "note": "Vulkáncsúcs, Lipari-szigetek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.213,
+     38.789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--szent-gotthard-hago",
+    "name": "Szent Gotthárd-hágó",
+    "confidence": "high",
+    "note": "Hágó, Svájc (Uri/Ticino)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.566,
+     46.559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--vaskapu",
+    "name": "Vaskapu",
+    "confidence": "high",
+    "note": "Duna-áttörés, Kazán-szoros környéke (szerb–román határ)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.33,
+     44.62
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tajak--vereckei-hago",
+    "name": "Vereckei-hágó",
+    "confidence": "high",
+    "note": "Hágó, Ukrajna (Kárpátalja/Lviv határa)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.03,
+     48.81
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--vizrajz--duna-majna-rajna-vizi-ut",
+    "name": "Duna–Majna–Rajna vízi út",
+    "confidence": "medium",
+    "note": "Mainz (Majna-torkolat) → Majna → Bamberg → Majna–Duna-csatorna (Nürnberg) → Kelheim"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      8.29,
+      49.995
+     ],
+     [
+      8.68,
+      50.1
+     ],
+     [
+      8.92,
+      50.13
+     ],
+     [
+      9.15,
+      49.97
+     ],
+     [
+      9.26,
+      49.7
+     ],
+     [
+      9.52,
+      49.76
+     ],
+     [
+      9.58,
+      50
+     ],
+     [
+      9.7,
+      50.05
+     ],
+     [
+      9.77,
+      49.96
+     ],
+     [
+      9.93,
+      49.79
+     ],
+     [
+      10.07,
+      49.66
+     ],
+     [
+      10.16,
+      49.74
+     ],
+     [
+      10.22,
+      49.87
+     ],
+     [
+      10.23,
+      50.04
+     ],
+     [
+      10.51,
+      50.02
+     ],
+     [
+      10.89,
+      49.89
+     ],
+     [
+      11,
+      49.59
+     ],
+     [
+      11.03,
+      49.42
+     ],
+     [
+      11.1,
+      49.25
+     ],
+     [
+      11.2,
+      49.18
+     ],
+     [
+      11.44,
+      49.1
+     ],
+     [
+      11.59,
+      49.04
+     ],
+     [
+      11.68,
+      48.96
+     ],
+     [
+      11.88,
+      48.92
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--vizrajz--gyilkos-to",
+    "name": "Gyilkos-tó",
+    "confidence": "high",
+    "note": "Torlasztó, Békás-szoros mellett"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.79,
+     46.79
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--vizrajz--szent-anna-to",
+    "name": "Szent Anna-tó",
+    "confidence": "high",
+    "note": "Krátertó, Csomád"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.888,
+     46.126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--vizrajz--ohridi-to",
+    "name": "Ohridi-tó",
+    "confidence": "medium",
+    "note": "Észak-macedón–albán határtó"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.68,
+       41.18
+      ],
+      [
+       20.65,
+       41.13
+      ],
+      [
+       20.63,
+       41.06
+      ],
+      [
+       20.63,
+       40.98
+      ],
+      [
+       20.65,
+       40.91
+      ],
+      [
+       20.7,
+       40.9
+      ],
+      [
+       20.75,
+       40.92
+      ],
+      [
+       20.78,
+       41
+      ],
+      [
+       20.82,
+       41.07
+      ],
+      [
+       20.8,
+       41.13
+      ],
+      [
+       20.75,
+       41.17
+      ],
+      [
+       20.68,
+       41.18
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--vizrajz--popradi-to",
+    "name": "Poprádi-tó",
+    "confidence": "high",
+    "note": "Popradské pleso, Magas-Tátra"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.081,
+     49.154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tortenelmi-tajnevek--delvidek",
+    "name": "Délvidék",
+    "confidence": "medium",
+    "note": "Szűkebb értelemben a Vajdaság (Bácska, szerbiai Bánát, Szerémség)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       18.95,
+       45.92
+      ],
+      [
+       18.9,
+       45.75
+      ],
+      [
+       19,
+       45.5
+      ],
+      [
+       19.35,
+       45.22
+      ],
+      [
+       19.05,
+       45.2
+      ],
+      [
+       19.05,
+       44.95
+      ],
+      [
+       19.4,
+       44.92
+      ],
+      [
+       20,
+       44.8
+      ],
+      [
+       20.45,
+       44.83
+      ],
+      [
+       20.95,
+       44.75
+      ],
+      [
+       21.4,
+       44.78
+      ],
+      [
+       21.5,
+       45
+      ],
+      [
+       21.4,
+       45.2
+      ],
+      [
+       21,
+       45.35
+      ],
+      [
+       20.8,
+       45.5
+      ],
+      [
+       20.65,
+       45.75
+      ],
+      [
+       20.35,
+       46
+      ],
+      [
+       20.26,
+       46.12
+      ],
+      [
+       19.6,
+       46.17
+      ],
+      [
+       18.95,
+       45.92
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tortenelmi-tajnevek--erdely",
+    "name": "Erdély",
+    "confidence": "low",
+    "note": "Történelmi Erdély (Partium és Bánság nélkül)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       22.4,
+       45.45
+      ],
+      [
+       22.8,
+       45.25
+      ],
+      [
+       23.3,
+       45.3
+      ],
+      [
+       24,
+       45.35
+      ],
+      [
+       24.8,
+       45.3
+      ],
+      [
+       25.5,
+       45.4
+      ],
+      [
+       26,
+       45.5
+      ],
+      [
+       26.4,
+       45.85
+      ],
+      [
+       26.3,
+       46.2
+      ],
+      [
+       25.9,
+       46.75
+      ],
+      [
+       25.4,
+       47.25
+      ],
+      [
+       24.9,
+       47.45
+      ],
+      [
+       24.3,
+       47.5
+      ],
+      [
+       23.7,
+       47.35
+      ],
+      [
+       23.35,
+       47.15
+      ],
+      [
+       23.1,
+       46.9
+      ],
+      [
+       22.9,
+       46.6
+      ],
+      [
+       22.75,
+       46.35
+      ],
+      [
+       22.75,
+       45.9
+      ],
+      [
+       22.4,
+       45.45
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tortenelmi-tajnevek--felvidek",
+    "name": "Felvidék",
+    "confidence": "low",
+    "note": "Dél-Szlovákia magyar határ menti sávja, Pozsonytól Kassán át az ukrán határig"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.18,
+       48.02
+      ],
+      [
+       17.6,
+       47.86
+      ],
+      [
+       18.13,
+       47.77
+      ],
+      [
+       18.72,
+       47.81
+      ],
+      [
+       19,
+       48.09
+      ],
+      [
+       19.6,
+       48.28
+      ],
+      [
+       20.3,
+       48.33
+      ],
+      [
+       20.8,
+       48.6
+      ],
+      [
+       21.2,
+       48.54
+      ],
+      [
+       21.65,
+       48.46
+      ],
+      [
+       22.15,
+       48.42
+      ],
+      [
+       22.2,
+       48.65
+      ],
+      [
+       21.9,
+       48.8
+      ],
+      [
+       21.3,
+       48.8
+      ],
+      [
+       20.6,
+       48.75
+      ],
+      [
+       19.9,
+       48.55
+      ],
+      [
+       19.2,
+       48.45
+      ],
+      [
+       18.6,
+       48.35
+      ],
+      [
+       18,
+       48.35
+      ],
+      [
+       17.5,
+       48.35
+      ],
+      [
+       17.15,
+       48.2
+      ],
+      [
+       17.05,
+       48.1
+      ],
+      [
+       17.18,
+       48.02
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tortenelmi-tajnevek--muravidek",
+    "name": "Muravidék",
+    "confidence": "medium",
+    "note": "Prekmurje, a Murától északra (Szlovénia)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       16,
+       46.68
+      ],
+      [
+       16.1,
+       46.62
+      ],
+      [
+       16.25,
+       46.52
+      ],
+      [
+       16.4,
+       46.48
+      ],
+      [
+       16.55,
+       46.48
+      ],
+      [
+       16.52,
+       46.53
+      ],
+      [
+       16.42,
+       46.6
+      ],
+      [
+       16.32,
+       46.72
+      ],
+      [
+       16.3,
+       46.83
+      ],
+      [
+       16.1,
+       46.87
+      ],
+      [
+       16,
+       46.8
+      ],
+      [
+       16,
+       46.68
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tortenelmi-tajnevek--partium",
+    "name": "Partium",
+    "confidence": "low",
+    "note": "Szatmár, Bihar, Szilágy, Arad (Marostól É), Máramaros része"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.75,
+       46.17
+      ],
+      [
+       21.3,
+       46.15
+      ],
+      [
+       21.8,
+       46.12
+      ],
+      [
+       22.4,
+       46.05
+      ],
+      [
+       22.75,
+       46.35
+      ],
+      [
+       22.9,
+       46.6
+      ],
+      [
+       23.1,
+       46.9
+      ],
+      [
+       23.35,
+       47.15
+      ],
+      [
+       23.7,
+       47.4
+      ],
+      [
+       24.1,
+       47.6
+      ],
+      [
+       24,
+       47.92
+      ],
+      [
+       23.5,
+       47.95
+      ],
+      [
+       22.9,
+       47.96
+      ],
+      [
+       22.75,
+       47.8
+      ],
+      [
+       22.1,
+       47.55
+      ],
+      [
+       21.98,
+       47.35
+      ],
+      [
+       21.65,
+       47
+      ],
+      [
+       21.45,
+       46.65
+      ],
+      [
+       21.2,
+       46.4
+      ],
+      [
+       20.75,
+       46.17
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--tortenelmi-tajnevek--szekelyfold",
+    "name": "Székelyföld",
+    "confidence": "medium",
+    "note": "Hargita, Kovászna és Maros megye keleti része"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       24.5,
+       46.5
+      ],
+      [
+       24.7,
+       46.25
+      ],
+      [
+       25,
+       46.2
+      ],
+      [
+       25.3,
+       46.05
+      ],
+      [
+       25.55,
+       45.85
+      ],
+      [
+       25.8,
+       45.7
+      ],
+      [
+       26.15,
+       45.65
+      ],
+      [
+       26.4,
+       45.85
+      ],
+      [
+       26.3,
+       46.2
+      ],
+      [
+       26.05,
+       46.5
+      ],
+      [
+       25.95,
+       46.85
+      ],
+      [
+       25.6,
+       47.05
+      ],
+      [
+       25.2,
+       46.95
+      ],
+      [
+       24.75,
+       46.8
+      ],
+      [
+       24.5,
+       46.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--varosok--beregszasz",
+    "name": "Beregszász",
+    "confidence": "high",
+    "note": "Berehove, Ukrajna"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.644,
+     48.205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--varosok--karlovy-vary",
+    "name": "Karlovy Vary",
+    "confidence": "high",
+    "note": "Karlsbad, Csehország"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.871,
+     50.231
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--varosok--munkacs",
+    "name": "Munkács",
+    "confidence": "high",
+    "note": "Mukacseve, Ukrajna"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.717,
+     48.439
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--varosok--revkomarom",
+    "name": "Révkomárom",
+    "confidence": "high",
+    "note": "Komárno, Szlovákia"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.128,
+     47.763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--varosok--szekelyudvarhely",
+    "name": "Székelyudvarhely",
+    "confidence": "high",
+    "note": "Odorheiu Secuiesc, Románia"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.3,
+     46.305
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--iparvidekek--donyec-medence",
+    "name": "Donyec-medence",
+    "confidence": "medium",
+    "note": "Donbász: Donyeck–Luhanszk, Rosztovi terület nyugati része"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       37,
+       48.3
+      ],
+      [
+       37.1,
+       47.95
+      ],
+      [
+       37.6,
+       47.75
+      ],
+      [
+       38.5,
+       47.75
+      ],
+      [
+       39.3,
+       47.7
+      ],
+      [
+       40.3,
+       47.6
+      ],
+      [
+       40.6,
+       48
+      ],
+      [
+       40.2,
+       48.5
+      ],
+      [
+       39.4,
+       48.8
+      ],
+      [
+       38.6,
+       48.9
+      ],
+      [
+       37.8,
+       48.75
+      ],
+      [
+       37,
+       48.3
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--iparvidekek--kozep-angliai-iparvidek",
+    "name": "Közép-angliai iparvidék",
+    "confidence": "low",
+    "note": "Birmingham–Black Country–Manchester–Sheffield"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -2.25,
+       52.4
+      ],
+      [
+       -1.45,
+       52.35
+      ],
+      [
+       -1.1,
+       52.7
+      ],
+      [
+       -1.05,
+       53
+      ],
+      [
+       -1.3,
+       53.45
+      ],
+      [
+       -1.5,
+       53.85
+      ],
+      [
+       -2,
+       53.75
+      ],
+      [
+       -2.45,
+       53.6
+      ],
+      [
+       -2.95,
+       53.45
+      ],
+      [
+       -2.6,
+       53.2
+      ],
+      [
+       -2.25,
+       52.85
+      ],
+      [
+       -2.3,
+       52.6
+      ],
+      [
+       -2.25,
+       52.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--iparvidekek--olasz-ipari-haromszog",
+    "name": "Olasz ipari háromszög",
+    "confidence": "medium",
+    "note": "Milánó–Torinó–Genova háromszög"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.3,
+       45.55
+      ],
+      [
+       8.9,
+       45.6
+      ],
+      [
+       8.2,
+       45.35
+      ],
+      [
+       7.6,
+       45.15
+      ],
+      [
+       7.6,
+       45
+      ],
+      [
+       8.3,
+       44.7
+      ],
+      [
+       8.75,
+       44.4
+      ],
+      [
+       9,
+       44.38
+      ],
+      [
+       9.05,
+       44.75
+      ],
+      [
+       9,
+       45.25
+      ],
+      [
+       9.3,
+       45.55
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "europa--iparvidekek--ruhr-videk",
+    "name": "Ruhr-vidék",
+    "confidence": "medium",
+    "note": "Duisburg–Essen–Bochum–Dortmund–Hamm"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       6.6,
+       51.45
+      ],
+      [
+       6.8,
+       51.35
+      ],
+      [
+       7.1,
+       51.35
+      ],
+      [
+       7.45,
+       51.35
+      ],
+      [
+       7.6,
+       51.45
+      ],
+      [
+       7.9,
+       51.62
+      ],
+      [
+       7.85,
+       51.72
+      ],
+      [
+       7.4,
+       51.68
+      ],
+      [
+       7,
+       51.65
+      ],
+      [
+       6.75,
+       51.6
+      ],
+      [
+       6.6,
+       51.45
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

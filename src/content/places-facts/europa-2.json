@@ -1,0 +1,1848 @@
+{
+  "facts": {
+    "europa--orszagok--svedorszag": {
+      "fekves": "Észak-Európai ország az é. sz. 55–69° és a k. h. 11–24° között, a Skandináv-félsziget keleti felén. Nyugatról Norvégia, északkeletről Finnország határolja, keleti partját a Balti-tenger és a Botteni-öböl mossa.",
+      "facts": [
+        "Nagy része a Balti-ősföldhöz tartozik; felszínét a jégkorszaki eljegesedés formálta, ezért sok a jégvájta tó.",
+        "Északon (Kiruna) jelentős magmás eredetű vasérckészlet van.",
+        "A tajga fenyveseire épül fakitermelése, fa- és papíripara.",
+        "Alkotmányos monarchia, fejlett jóléti állam."
+      ],
+      "concepts": [
+        "alkotmányos monarchia",
+        "jóléti állam",
+        "jégvájta tó",
+        "tajga"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--szerbia": {
+      "fekves": "Délkelet-Európai, tengerparttal nem rendelkező ország az é. sz. 42–46° és a k. h. 19–23° között, a Balkán-félsziget északi részén. Északon Magyarországgal határos; fő folyói a Duna, a Tisza, a Száva és a Morava.",
+      "facts": [
+        "Északi része, a Vajdaság, az Alföld déli folytatása: termékeny mezőségi talajon gabonát termesztenek.",
+        "Fővárosa, Belgrád a Száva dunai torkolatánál fekszik.",
+        "A Vajdaságban jelentős magyar nemzeti kisebbség él."
+      ],
+      "concepts": [
+        "mezőségi talaj",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--szlovakia": {
+      "fekves": "Közép-Európai, tengerparttal nem rendelkező ország az é. sz. 48–50° és a k. h. 17–23° között. Délen Magyarország, nyugaton Ausztria és Csehország, északon Lengyelország, keleten Ukrajna határolja; déli határa nagyrészt a Duna és az Ipoly.",
+      "facts": [
+        "Nagy részét az Északnyugati-Kárpátok vonulatai (pl. Magas-Tátra) foglalják el.",
+        "Gazdaságában a külföldi működőtőkére épülő autóipar húzóágazat.",
+        "A Visegrádi Együttműködés tagja; 2004 óta EU-tag, 2009 óta az euró a fizetőeszköze.",
+        "Déli sávjában jelentős magyar nemzeti kisebbség él."
+      ],
+      "concepts": [
+        "Visegrádi Együttműködés (V4)",
+        "húzóágazat",
+        "működőtőke-befektetés",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--szlovenia": {
+      "fekves": "Közép-Európai ország az é. sz. 45–47° és a k. h. 13–17° között, az Alpok, a Dinári-hegység és a Pannon-medence találkozásánál. Szomszédai Olaszország, Ausztria, Magyarország és Horvátország; rövid partszakasza van az Adriai-tengeren.",
+      "facts": [
+        "A Karszt-fennsíkról kapta nevét a karsztosodás jelensége; híresek a cseppkőbarlangjai.",
+        "Északnyugati részét az Alpok (Júliai-Alpok) foglalja el.",
+        "Az egykori Jugoszlávia tagállama volt; 2004 óta EU-tag, 2007 óta az euróövezet tagja.",
+        "Északkeleti részén, a Muravidéken magyar nemzeti kisebbség él."
+      ],
+      "concepts": [
+        "karsztbarlang",
+        "cseppkő",
+        "nemzeti kisebbség"
+      ],
+      "processes": [
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--ukrajna": {
+      "fekves": "Kelet-Európai ország az é. sz. 45–52° és a k. h. 22–40° között, a Kelet-Európai-síkság délnyugati részén. Délen a Fekete- és az Azovi-tenger határolja; nyugaton Magyarországgal is határos, legfontosabb folyója a Dnyeper.",
+      "facts": [
+        "Mezőségi talaján (csernozjom) a sztyeppövezetben jelentős gabona- és napraforgó-termesztés folyik.",
+        "Keleti részén a Donyec-medence feketekőszenére épült a nehézipar.",
+        "Csernobilban 1986-ban történt Európa legsúlyosabb atomerőmű-balesete.",
+        "Nyugati részén, Kárpátalján magyar nemzeti kisebbség él."
+      ],
+      "concepts": [
+        "mezőségi talaj",
+        "sztyepp",
+        "radioaktív szennyeződés",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--vatikan": {
+      "fekves": "Törpeállam Dél-Európában, kb. é. sz. 42°, k. h. 12,5° körül. Teljes egészében Róma, Olaszország fővárosa veszi körül, a Tevere jobb partján.",
+      "facts": [
+        "Területét tekintve a világ legkisebb független állama.",
+        "A katolikus egyház központja, államfője a pápa (egyházi állam).",
+        "A Szent Péter-bazilika és a vatikáni épületegyüttes a világörökség része."
+      ],
+      "concepts": [
+        "abszolút monarchia",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--albania": {
+      "fekves": "Délkelet-Európai ország az é. sz. 40–43° és a k. h. 19–21° között, a Balkán-félsziget nyugati partján. Nyugaton az Adriai- és a Jón-tenger, szárazföldön Montenegró, Koszovó, Észak-Macedónia és Görögország határolja.",
+      "facts": [
+        "Belsejét a Dinári-hegység déli folytatásának hegyvidékei foglalják el.",
+        "Tengerparti síkságain mediterrán éghajlat uralkodik.",
+        "Lakosságának többsége muzulmán vallású, ami Európában ritka.",
+        "Európa szegényebb országai közé tartozik, jelentős a kivándorlás."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "ki- és bevándorlás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--feheroroszorszag": {
+      "fekves": "Kelet-Európai, tengerparttal nem rendelkező ország az é. sz. 51–56° és a k. h. 23–33° között, a Kelet-Európai-síkságon. Szomszédai Lengyelország, Litvánia, Lettország, Oroszország és Ukrajna.",
+      "facts": [
+        "Alacsony, jégkorszaki eredetű síkság, délen kiterjedt lápokkal és mocsarakkal (Polesszje).",
+        "Jelentős kálisó-bányászata a műtrágyagyártás alapja.",
+        "Az 1986-os csernobili baleset radioaktív szennyeződése különösen súlyosan érintette.",
+        "Gazdasága szorosan kötődik Oroszországhoz, nagy az állami tulajdon szerepe."
+      ],
+      "concepts": [
+        "láp",
+        "kálisó",
+        "radioaktív szennyeződés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--moldova": {
+      "fekves": "Kelet-Európai, tengerparttal nem rendelkező ország az é. sz. 45–48° és a k. h. 27–30° között. Nyugaton a Prut választja el Romániától, keleten Ukrajna határolja; keleti részén a Dnyeszter folyik át.",
+      "facts": [
+        "Termékeny mezőségi talajára épülő agrárország: szőlő-, bor-, gyümölcs- és gabonatermelés.",
+        "Európa egyik legszegényebb országa, jelentős a külföldi munkavállalás.",
+        "Lakóinak többsége román nyelvű."
+      ],
+      "concepts": [
+        "mezőségi talaj",
+        "agrárország"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--orszagok--monaco": {
+      "fekves": "Törpeállam Nyugat-Európában, kb. é. sz. 43,7°, k. h. 7,4° körül, a Földközi-tenger (Ligur-tenger) partján, a Francia Riviérán. Szárazföldön mindenütt Franciaország veszi körül.",
+      "facts": [
+        "A világ második legkisebb állama, népsűrűsége a világon az egyik legnagyobb.",
+        "Alkotmányos monarchia (hercegség).",
+        "Gazdasága az idegenforgalomra, a kaszinóra és a kedvező adózásra épül.",
+        "Mediterrán éghajlatú üdülőhely."
+      ],
+      "concepts": [
+        "alkotmányos monarchia",
+        "népsűrűség",
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--burgenland-orvidek": {
+      "fekves": "Ausztria legkeletibb tartománya az é. sz. 47–48° és a k. h. 16–17° között, az Alpok keleti lábánál. Keleten Magyarországgal határos, északi részén terül el a Fertő tó.",
+      "facts": [
+        "Az első világháború után, 1921-ben került Magyarországtól Ausztriához.",
+        "A sekély, sztyepptó jellegű Fertő tó és környéke a Fertő–Hanság térség része.",
+        "Szőlő- és bortermelése jelentős.",
+        "Ma is él itt kis létszámú magyar és horvát kisebbség."
+      ],
+      "concepts": [
+        "fertő",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--delvidek": {
+      "fekves": "A történelmi Magyarország déli, ma főleg Szerbiához (Vajdaság) és kisebb részben Horvátországhoz tartozó területe, kb. az é. sz. 45–46° és a k. h. 19–22° között. A Duna, a Tisza és a Dráva alsó szakaszai mentén, az Alföld déli részén terül el.",
+      "facts": [
+        "Az Alföld déli folytatása: sík, termékeny mezőségi talajú gabonatermő vidék.",
+        "Részei a Bácska, a Bánság nyugati fele és a Szerémség.",
+        "Jelentős magyar nemzeti kisebbség él itt (pl. Szabadka, Újvidék)."
+      ],
+      "concepts": [
+        "mezőségi talaj",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--erdely": {
+      "fekves": "Romániához tartozó történelmi tájegység az é. sz. 45–48° és a k. h. 22–26° között. Keletről a Keleti-Kárpátok, délről a Déli-Kárpátok, nyugatról az Erdélyi-szigethegység zárja közre az Erdélyi-medencét.",
+      "facts": [
+        "Az Erdélyi-medence földgázkészlete és kősótelepei (pl. Parajd, Torda) jelentősek.",
+        "Fő folyói a Maros, a Szamos és az Olt.",
+        "Jelentős magyar nemzeti kisebbség él itt, főleg a Székelyföldön."
+      ],
+      "concepts": [
+        "tektonikus medence",
+        "földgáz",
+        "kősó",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--felvidek": {
+      "fekves": "A történelmi Magyarország északi, ma nagyrészt Szlovákiához tartozó területe; a magyarlakta déli sáv kb. az é. sz. 48–49° és a k. h. 17–22° között húzódik. Délen a Duna és az Ipoly mentén Magyarországgal határos, északon az Északnyugati-Kárpátok határolják.",
+      "facts": [
+        "Délnyugati része a Kisalföld északi fele, a Duna-ágak közötti Csallóközzel.",
+        "Északi része az Északnyugati-Kárpátok hegyvidéke.",
+        "Déli sávjában jelentős magyar nemzeti kisebbség él (pl. Révkomárom, Dunaszerdahely)."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--karpatalja": {
+      "fekves": "Ukrajna legnyugatibb területe az é. sz. 48–49° és a k. h. 22–25° között, az Északkeleti-Kárpátok délnyugati lejtőin és a Felső-Tisza-vidéken. Magyarországgal, Szlovákiával, Lengyelországgal és Romániával határos.",
+      "facts": [
+        "Itt ered a Tisza (Fekete- és Fehér-Tisza összefolyásából).",
+        "A hegyvidék és az alföldi sáv között andezites vulkáni vonulatok (Vihorlát–Gutin) húzódnak.",
+        "Az alföldi peremen jelentős magyar nemzeti kisebbség él (Beregszász, Ungvár, Munkács)."
+      ],
+      "concepts": [
+        "andezit",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--muravidek": {
+      "fekves": "Szlovénia északkeleti része a Mura bal partján, kb. é. sz. 46,5°, k. h. 16,3° körül. Magyarországgal és Ausztriával határos, a Pannon-medence nyugati peremén fekszik.",
+      "facts": [
+        "Sík-dombos, mezőgazdasági jellegű vidék a Mura mentén.",
+        "A határ menti sávban magyar nemzeti kisebbség él (központja Lendva)."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--partium": {
+      "fekves": "Az Alföld keleti pereme és az Erdélyi-szigethegység előtere, ma Románia része, kb. az é. sz. 46–48° és a k. h. 21–24° között. Nyugaton Magyarországgal határos; a Szamos, a Körösök és a Maros vidéke.",
+      "facts": [
+        "Fő városai Nagyvárad, Arad és Szatmárnémeti.",
+        "Nagyvárad környékén hévízforrásokra épült gyógyfürdők vannak.",
+        "Jelentős magyar nemzeti kisebbség lakja."
+      ],
+      "concepts": [
+        "hévíz",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--szekelyfold": {
+      "fekves": "Erdély keleti része Romániában, kb. az é. sz. 46–47° és a k. h. 25–26° között, a Keleti-Kárpátok belső vulkáni vonulata (Hargita) és medencéi (Csíki-, Gyergyói-, Háromszéki-medence) területén. Itt ered az Olt és a Maros.",
+      "facts": [
+        "A Hargita a Kárpátok belső vulkáni koszorújához tartozó andezites hegység.",
+        "A Csomád kráterében fekszik a Szent Anna-tó, Közép-Európa egyik krátertava.",
+        "Gazdag utóvulkáni működésben: savanyúvíz-források, mofetták.",
+        "Lakóinak többsége magyar (székely)."
+      ],
+      "concepts": [
+        "krátertó",
+        "savanyúvíz",
+        "mofetta",
+        "vulkáni utóműködés"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--tortenelmi-tajnevek--vajdasag": {
+      "fekves": "Szerbia északi autonóm tartománya az é. sz. 45–46° és a k. h. 19–22° között, az Alföld déli részén. Északon Magyarországgal határos; a Duna és a Tisza szeli át.",
+      "facts": [
+        "Részei a Bácska, a Bánság és a Szerémség.",
+        "Termékeny mezőségi talaján gabona-, kukorica- és napraforgó-termesztés folyik.",
+        "Székhelye Újvidék; többnemzetiségű terület, jelentős magyar kisebbséggel."
+      ],
+      "concepts": [
+        "mezőségi talaj",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--amszterdam": {
+      "fekves": "Hollandia fővárosa, kb. é. sz. 52,4°, k. h. 4,9° körül, az Északi-tengerrel csatornán összekötött IJ-öböl partján. Az alacsonyan fekvő, részben tengerszint alatti holland síkságon épült.",
+      "facts": [
+        "Környékén a tengertől gátakkal elhódított polderek terülnek el.",
+        "A Randstad sokközpontú városegyüttes egyik központja.",
+        "Csatornákkal átszőtt kereskedő- és kikötőváros, ma pénzügyi és idegenforgalmi központ."
+      ],
+      "concepts": [
+        "polder",
+        "Randstad"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--arad": {
+      "fekves": "Romániai város kb. é. sz. 46,2°, k. h. 21,3° körül, a Maros partján, az Alföld keleti peremén. A magyar–román határ közelében, a Partium déli részén fekszik.",
+      "facts": [
+        "Itt végezték ki 1849-ben az aradi vértanúkat.",
+        "A Maros-völgyi útvonal közlekedési és ipari központja.",
+        "Jelentős magyar nemzeti kisebbség él a városban."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--athen": {
+      "fekves": "Görögország fővárosa kb. é. sz. 38°, k. h. 23,7° körül, az Attikai-félszigeten, az Égei-tenger Szaróni-öblének közelében. Kikötője Pireusz.",
+      "facts": [
+        "Mediterrán éghajlatú: forró, száraz nyár és enyhe, csapadékos tél.",
+        "Az ókori görög kultúra központja; az Akropolisz a világörökség része.",
+        "Agglomerációjában él az ország népességének jelentős része."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "világörökség",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--barcelona": {
+      "fekves": "Spanyolország második legnagyobb városa kb. é. sz. 41,4°, k. h. 2,2° körül, a Földközi-tenger partján, az Ibériai-félsziget északkeleti részén.",
+      "facts": [
+        "Katalónia központja; a katalánok erős nemzeti azonosságtudattal rendelkeznek.",
+        "Jelentős kikötő és iparváros (hagyományosan textil-, ma autó- és vegyipar).",
+        "Mediterrán éghajlatú, kiemelkedő idegenforgalmi központ."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "nemzeti azonosságtudat (identitás)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--belgrad": {
+      "fekves": "Szerbia fővárosa kb. é. sz. 44,8°, k. h. 20,5° körül, a Száva és a Duna összefolyásánál. Az Alföld déli pereme és a Balkán-félsziget dombvidékei találkozásánál fekszik.",
+      "facts": [
+        "Dunai kikötő és a Balkán felé vezető útvonalak közlekedési csomópontja.",
+        "Egykor Jugoszlávia fővárosa volt.",
+        "Szerbia legnagyobb ipari és szolgáltató központja."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--beregszasz": {
+      "fekves": "Kárpátaljai város Ukrajnában kb. é. sz. 48,2°, k. h. 22,6° körül, a magyar határ közelében, a Felső-Tisza-vidéki síkság és a vulkáni dombok találkozásánál.",
+      "facts": [
+        "Kárpátalja magyar kulturális központja, itt működik a kárpátaljai magyar főiskola.",
+        "Környékének vulkáni eredetű dombjain szőlőtermesztés folyik.",
+        "Lakóinak jelentős része magyar nemzetiségű."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--berlin": {
+      "fekves": "Németország fővárosa kb. é. sz. 52,5°, k. h. 13,4° körül, a Spree partján, az Észak-német-alföldön.",
+      "facts": [
+        "Jégkorszaki eredetű síkságon, egy ősfolyamvölgyben épült.",
+        "1961 és 1989 között a berlini fal osztotta ketté.",
+        "Németország újraegyesítése után ismét főváros; kormányzati, kulturális és szolgáltató központ."
+      ],
+      "concepts": [
+        "ősfolyamvölgy"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--bern": {
+      "fekves": "Svájc szövetségi székhelye kb. é. sz. 46,9°, k. h. 7,5° körül, az Aare kanyarulatában, a Svájci-középhegyvidéken (Svájci-fennsík).",
+      "facts": [
+        "Svájc szövetségi állam, a kantonok nagy önállóságot élveznek.",
+        "Középkori óvárosa a világörökség része.",
+        "Német nyelvű város a többnyelvű országban."
+      ],
+      "concepts": [
+        "szövetségi köztársaság",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--becs": {
+      "fekves": "Ausztria fővárosa kb. é. sz. 48,2°, k. h. 16,4° körül, a Duna partján, az Alpok keleti nyúlványai és a Kárpátok közötti kapuban, a Bécsi-medencében.",
+      "facts": [
+        "Az ENSZ egyik székhelye; itt működik az OPEC központja is.",
+        "A Bécsi-medencében kőolaj- és földgázmezők találhatók.",
+        "Közép-Európa egyik legfontosabb kulturális, kereskedelmi és szolgáltató központja."
+      ],
+      "concepts": [
+        "Egyesült Nemzetek Szervezete (ENSZ)",
+        "Kőolaj-exportáló Országok Szervezete (OPEC)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--birmingham": {
+      "fekves": "Nagy-Britannia második legnagyobb városa kb. é. sz. 52,5°, ny. h. 1,9° körül, Anglia középső részén.",
+      "facts": [
+        "A Közép-angliai iparvidék központja, a helyi szén- és vasércre épült az ipari forradalom idején.",
+        "Hagyományos gép- és autóipari központ.",
+        "A nehézipar hanyatlása után gazdasági szerkezetváltáson ment át."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--brasso": {
+      "fekves": "Erdélyi város Romániában kb. é. sz. 45,6°, k. h. 25,6° körül, a Barcasági-medencében, a Keleti- és a Déli-Kárpátok találkozásánál.",
+      "facts": [
+        "Erdélyi szászok alapították, a Barcaság központja.",
+        "Jelentős ipari (gépipar) és idegenforgalmi központ, közelében téli sportközpont.",
+        "Fontos átjáró Erdély és Havasalföld között."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--brema": {
+      "fekves": "Németországi kikötőváros kb. é. sz. 53,1°, k. h. 8,8° körül, a Weser partján, az Északi-tenger közelében, az Észak-német-alföldön.",
+      "facts": [
+        "Egykori Hanza-város, ma önálló városállam-tartomány.",
+        "Bremerhavennel együtt Németország egyik legfontosabb kikötője.",
+        "Jelentős a repülőgép-, autó- és élelmiszeripara."
+      ],
+      "concepts": [
+        "szövetségi köztársaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--brno": {
+      "fekves": "Csehország második legnagyobb városa kb. é. sz. 49,2°, k. h. 16,6° körül, Morvaország középső részén, a Svitava és a Svratka összefolyásánál.",
+      "facts": [
+        "Morvaország gazdasági és kulturális központja.",
+        "Hagyományos gépipari és vásárváros (nemzetközi vásárok).",
+        "Itt végezte öröklődési kísérleteit Gregor Mendel."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--brusszel": {
+      "fekves": "Belgium fővárosa kb. é. sz. 50,8°, k. h. 4,3° körül, a Belga-alföld középső részén.",
+      "facts": [
+        "Itt működik az Európai Bizottság és az Európai Unió Tanácsa; ezért gyakran az EU „fővárosának” nevezik.",
+        "A NATO központjának székhelye.",
+        "Kétnyelvű (francia és holland) város a szövetségi berendezkedésű Belgiumban."
+      ],
+      "concepts": [
+        "Európai Bizottság",
+        "Európai Unió Tanácsa",
+        "Észak-atlanti Szerződés Szervezete (NATO)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--bukarest": {
+      "fekves": "Románia fővárosa kb. é. sz. 44,4°, k. h. 26,1° körül, a Román-alföldön (Havasalföld), a Dâmbovița partján.",
+      "facts": [
+        "Románia legnagyobb városa, ipari, kereskedelmi és szolgáltató központja.",
+        "Közelében, a Kárpátok előterében fekszenek a ploieşti-i kőolajmezők.",
+        "Mérsékelten szárazföldi éghajlatú: forró nyár, hideg tél."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--constan-a": {
+      "fekves": "Romániai kikötőváros kb. é. sz. 44,2°, k. h. 28,6° körül, a Fekete-tenger partján, Dobrudzsában.",
+      "facts": [
+        "Románia legnagyobb tengeri kikötője.",
+        "A Duna–Fekete-tenger-csatorna köti össze a Dunával.",
+        "Környékén tengerparti üdülőhelyek sorakoznak."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--csernobil": {
+      "fekves": "Ukrajnai település kb. é. sz. 51,4°, k. h. 30,1° körül, a Pripjaty folyó mentén, a fehérorosz határ közelében.",
+      "facts": [
+        "1986-ban itt történt az atomenergia-felhasználás történetének egyik legsúlyosabb balesete.",
+        "A radioaktív szennyeződés Európa nagy részére eljutott, leginkább Ukrajnát és Fehéroroszországot sújtotta.",
+        "Az erőmű körül ma is lezárt övezet van."
+      ],
+      "concepts": [
+        "radioaktív szennyeződés",
+        "környezeti katasztrófa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--csikszereda": {
+      "fekves": "Székelyföldi város Romániában kb. é. sz. 46,4°, k. h. 25,8° körül, a Csíki-medencében, az Olt mentén, a Hargita keleti lábánál.",
+      "facts": [
+        "Hargita megye székhelye, magyar többségű város.",
+        "A zárt medencében gyakori a fordított hőrétegződés, ezért telei igen hidegek.",
+        "Környékén számos savanyúvíz-forrás fakad."
+      ],
+      "concepts": [
+        "fordított hőrétegződés (hőmérsékleti inverzió)",
+        "savanyúvíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--doneck": {
+      "fekves": "Kelet-ukrajnai város kb. é. sz. 48°, k. h. 37,8° körül, a Donyec-medence területén, az Azovi-tengertől északra.",
+      "facts": [
+        "A Donyec-medence ipari központja: feketekőszén-bányászat és kohászat.",
+        "A hagyományos nehézipar válságágazattá vált, a térség súlyos szerkezeti problémákkal küzd."
+      ],
+      "concepts": [
+        "válságágazat"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--dortmund": {
+      "fekves": "Németországi város kb. é. sz. 51,5°, k. h. 7,5° körül, a Ruhr-vidék keleti részén, Észak-Rajna–Vesztfáliában.",
+      "facts": [
+        "A Ruhr-vidék egyik központja, egykor a szénbányászat és az acélgyártás városa.",
+        "A nehézipar hanyatlása után szerkezetváltás: technológiai park, egyetem, szolgáltatások.",
+        "Csatorna köti össze az Északi-tenger felé vezető vízi úttal."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--drezda": {
+      "fekves": "Szászország székhelye Németországban kb. é. sz. 51°, k. h. 13,8° körül, az Elba völgyében, a cseh határ közelében.",
+      "facts": [
+        "Az Elba mentén fekvő barokk város, a második világháborúban súlyosan elpusztult.",
+        "Jelentős mikroelektronikai és csúcstechnológiai ipar települt ide.",
+        "Az Elba árvizei többször is veszélyeztették."
+      ],
+      "concepts": [
+        "árvíz"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--dublin": {
+      "fekves": "Írország fővárosa kb. é. sz. 53,3°, ny. h. 6,3° körül, az Ír-sziget keleti partján, az Ír-tenger öblében, a Liffey torkolatánál.",
+      "facts": [
+        "Óceáni éghajlatú: enyhe tél, hűvös nyár, egész évben csapadék.",
+        "Az alacsony társasági adó miatt sok transznacionális vállalat (informatika, gyógyszeripar) európai központja.",
+        "Az ország legnagyobb kikötője és gazdasági központja."
+      ],
+      "concepts": [
+        "óceáni éghajlat",
+        "transznacionális vállalat (TNC)",
+        "működőtőke-befektetés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--dubrovnik": {
+      "fekves": "Horvátországi kikötőváros kb. é. sz. 42,7°, k. h. 18,1° körül, az Adriai-tenger partján, Dalmácia déli részén, a Dinári-hegység lábánál.",
+      "facts": [
+        "Fallal körülvett középkori óvárosa a világörökség része.",
+        "Mediterrán éghajlatú, kiemelkedő idegenforgalmi célpont.",
+        "A tagolt, karsztos mészkőpart jellegzetes városa."
+      ],
+      "concepts": [
+        "világörökség",
+        "mediterrán éghajlat",
+        "tagolt és tagolatlan part"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--duisburg": {
+      "fekves": "Németországi város kb. é. sz. 51,4°, k. h. 6,8° körül, a Ruhr és a Rajna összefolyásánál, a Ruhr-vidék nyugati szélén.",
+      "facts": [
+        "Európa legnagyobb belvízi kikötője.",
+        "Jelentős vas- és acélipar, a Ruhr-vidék kohászati központja.",
+        "A Rajnán át közvetlen vízi kapcsolata van a rotterdami kikötővel."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--eszek": {
+      "fekves": "Horvátországi város kb. é. sz. 45,6°, k. h. 18,7° körül, a Dráva jobb partján, nem messze a Dráva dunai torkolatától, Szlavóniában.",
+      "facts": [
+        "Szlavónia gazdasági és kulturális központja.",
+        "Környéke termékeny síkság, jelentős a mezőgazdaság és az élelmiszeripar.",
+        "Kis létszámú magyar kisebbség is él itt."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--fiume-rijeka": {
+      "fekves": "Horvátország legnagyobb kikötővárosa kb. é. sz. 45,3°, k. h. 14,4° körül, az Adriai-tenger Kvarner-öblénél.",
+      "facts": [
+        "A Monarchia idején Magyarország tengeri kikötője volt.",
+        "Kikötő, hajógyártás és kőolaj-finomítás jellemzi.",
+        "Közelében indul az Adria-kőolajvezeték, amely Magyarországot is ellátja."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--frankfurt-am-main": {
+      "fekves": "Németországi város kb. é. sz. 50,1°, k. h. 8,7° körül, a Majna partján, Hessenben, nem messze a Majna rajnai torkolatától.",
+      "facts": [
+        "Az Európai Központi Bank székhelye.",
+        "Németország pénzügyi központja, itt működik a frankfurti értéktőzsde.",
+        "Nagy nemzetközi repülőtere és vásárai miatt fontos közlekedési és kereskedelmi csomópont."
+      ],
+      "concepts": [
+        "Európai Központi Bank",
+        "érték- és árutőzsde"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--gda-sk": {
+      "fekves": "Lengyelországi kikötőváros kb. é. sz. 54,4°, k. h. 18,6° körül, a Balti-tenger Gdański-öblénél, a Visztula torkolatvidékén.",
+      "facts": [
+        "Egykori Hanza-város, ma Lengyelország egyik legfontosabb tengeri kikötője.",
+        "Hajógyára az 1980-as Szolidaritás mozgalom kiindulópontja volt.",
+        "A Visztula itt deltatorkolattal ömlik a tengerbe."
+      ],
+      "concepts": [
+        "deltatorkolat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--genf": {
+      "fekves": "Svájci város kb. é. sz. 46,2°, k. h. 6,1° körül, a Genfi-tó délnyugati csücskén, ahol a Rhône kilép a tóból, a francia határ mellett.",
+      "facts": [
+        "Az ENSZ európai központja; itt működik a WHO és a WTO is.",
+        "A Nemzetközi Vöröskereszt alapításának helye és székhelye.",
+        "Francia nyelvű pénzügyi és diplomáciai központ."
+      ],
+      "concepts": [
+        "Egyesült Nemzetek Szervezete (ENSZ)",
+        "Egészségügyi Világszervezet (WHO)",
+        "Világkereskedelmi Szervezet (WTO)",
+        "Nemzetközi Vöröskereszt"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--genova": {
+      "fekves": "Olaszországi kikötőváros kb. é. sz. 44,4°, k. h. 8,9° körül, a Ligur-tenger partján, az Appenninek lejtőin.",
+      "facts": [
+        "Olaszország egyik legnagyobb tengeri kikötője.",
+        "Az olasz ipari háromszög (Milánó–Torino–Genova) csúcsa.",
+        "Hagyományos hajógyártó és kohászati város."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--gibraltar": {
+      "fekves": "Brit tengerentúli terület kb. é. sz. 36,1°, ny. h. 5,3° körül, az Ibériai-félsziget déli csücskén, Spanyolország szomszédságában.",
+      "facts": [
+        "A Gibraltári-szoros köti össze a Földközi-tengert az Atlanti-óceánnal, és választja el Európát Afrikától.",
+        "A szoros stratégiai jelentőségű hajózási útvonal.",
+        "A Gibraltári-szikla mészkőből áll."
+      ],
+      "concepts": [
+        "tengerszoros"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--glasgow": {
+      "fekves": "Skócia legnagyobb városa kb. é. sz. 55,9°, ny. h. 4,2° körül, a Clyde folyó partján, Nagy-Britanniában.",
+      "facts": [
+        "Hagyományos hajógyártó és nehézipari központ a Clyde mentén.",
+        "A hagyományos ágazatok hanyatlása után szerkezetváltás zajlott le.",
+        "Óceáni éghajlatú: enyhe, csapadékos tél, hűvös nyár."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "óceáni éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--graz": {
+      "fekves": "Ausztria második legnagyobb városa kb. é. sz. 47,1°, k. h. 15,4° körül, a Mura partján, Stájerországban.",
+      "facts": [
+        "Stájerország székhelye, egyetemi város.",
+        "Jelentős autóipari központ.",
+        "Óvárosa a világörökség része."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--hamburg": {
+      "fekves": "Németország második legnagyobb városa kb. é. sz. 53,6°, k. h. 10° körül, az Elba alsó szakaszán, az Északi-tengertől mintegy 100 km-re.",
+      "facts": [
+        "Németország legnagyobb tengeri kikötője; az Elba tölcsértorkolatán a tengerjárás a városig érvényesül.",
+        "Egykori Hanza-város, ma önálló városállam-tartomány.",
+        "Jelentős repülőgép-gyártás és kereskedelem."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "tengerjárás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--helsinki": {
+      "fekves": "Finnország fővárosa kb. é. sz. 60,2°, k. h. 24,9° körül, a Finn-öböl északi partján.",
+      "facts": [
+        "A Balti-ősföld gránitján épült, a jégkorszak által lecsiszolt partvidéken.",
+        "Kikötőjében télen a tenger befagy, jégtörőket alkalmaznak.",
+        "Finnország gazdasági központja; fontos a fa- és papíripar, valamint az infokommunikáció."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "gránit"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--karlovy-vary": {
+      "fekves": "Csehországi fürdőváros kb. é. sz. 50,2°, k. h. 12,9° körül, a Cseh-medence nyugati részén, az Ohře (Eger) völgyében, az Érchegység közelében.",
+      "facts": [
+        "Szénsavas hévízforrásaira épült világhírű gyógyfürdőváros.",
+        "A források a térség egykori vulkáni működéséhez kapcsolódnak."
+      ],
+      "concepts": [
+        "hévíz",
+        "gyógyvíz",
+        "vulkáni utóműködés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--kassa": {
+      "fekves": "Szlovákia második legnagyobb városa kb. é. sz. 48,7°, k. h. 21,3° körül, a Hernád völgyében, a magyar határ közelében.",
+      "facts": [
+        "Kelet-Szlovákia gazdasági központja, nagy vas- és acélművel.",
+        "Gótikus Szent Erzsébet-dómja a város jelképe.",
+        "Kis létszámú magyar kisebbség is él itt."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--katowice": {
+      "fekves": "Lengyelországi város kb. é. sz. 50,3°, k. h. 19° körül, Felső-Sziléziában, Lengyelország déli részén.",
+      "facts": [
+        "A Felső-sziléziai iparvidék központja: feketekőszén-bányászat és kohászat.",
+        "A széntüzelés miatt erős légszennyezés és savas csapadék sújtotta.",
+        "A nehézipar hanyatlásával szerkezetváltás zajlik."
+      ],
+      "concepts": [
+        "savas csapadék",
+        "gazdasági szerkezetváltás"
+      ],
+      "processes": [
+        "savas-eso"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--kijev": {
+      "fekves": "Ukrajna fővárosa kb. é. sz. 50,4°, k. h. 30,5° körül, a Dnyeper partján, a Kelet-Európai-síkságon.",
+      "facts": [
+        "A középkori Kijevi Rusz központja volt.",
+        "A Dnyeperen víztározók és vízerőművek épültek.",
+        "Ukrajna legnagyobb városa, ipari, kulturális és szolgáltató központja."
+      ],
+      "concepts": [
+        "víztározó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--kolozsvar": {
+      "fekves": "Erdélyi város Romániában kb. é. sz. 46,8°, k. h. 23,6° körül, a Kis-Szamos völgyében, az Erdélyi-medence nyugati peremén.",
+      "facts": [
+        "Erdély egyik legnagyobb városa, jelentős egyetemi és kulturális központ.",
+        "Az erdélyi magyarság egyik kulturális központja.",
+        "Dinamikusan fejlődő informatikai és szolgáltató ágazata van."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--koppenhaga": {
+      "fekves": "Dánia fővárosa kb. é. sz. 55,7°, k. h. 12,6° körül, Sjælland szigetén, az Øresund-szoros partján.",
+      "facts": [
+        "Az Øresund-híd és -alagút köti össze a svédországi Malmővel.",
+        "Fontos kikötő a Balti-tenger bejáratánál.",
+        "Dánia alkotmányos monarchia; jelentős a szélenergia hasznosítása."
+      ],
+      "concepts": [
+        "tengerszoros",
+        "alkotmányos monarchia",
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--koln": {
+      "fekves": "Németországi város kb. é. sz. 50,9°, k. h. 6,9° körül, a Rajna partján, Észak-Rajna–Vesztfáliában.",
+      "facts": [
+        "Fontos rajnai kikötő és közlekedési csomópont.",
+        "Jelentős vegy- és autóipara van.",
+        "Gótikus dómja a világörökség része."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--krakko": {
+      "fekves": "Lengyelországi város kb. é. sz. 50,1°, k. h. 20° körül, a Visztula partján, Lengyelország déli részén.",
+      "facts": [
+        "Lengyelország egykori fővárosa; óvárosa és a Wawel a világörökség része.",
+        "Közelében fekszik a wieliczkai kősóbánya.",
+        "Elővárosában, Nowa Hutában a szocialista iparosítás idején kohászati kombinát épült."
+      ],
+      "concepts": [
+        "világörökség",
+        "kősó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--linz": {
+      "fekves": "Ausztriai város kb. é. sz. 48,3°, k. h. 14,3° körül, a Duna partján, Felső-Ausztriában.",
+      "facts": [
+        "Ausztria nehézipari központja: vas- és acélgyártás, vegyipar.",
+        "Fontos dunai kikötő."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--lipcse": {
+      "fekves": "Németországi város kb. é. sz. 51,3°, k. h. 12,4° körül, Szászországban, az Észak-német-alföld déli peremén.",
+      "facts": [
+        "Hagyományos kereskedő- és vásárváros.",
+        "Környékén külszíni lignitbányászat folyt; a felhagyott bányagödrök rekultivációjával tavak jöttek létre.",
+        "Az újraegyesítés után jelentős autóipari beruházások települtek ide."
+      ],
+      "concepts": [
+        "rekultiváció",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--lisszabon": {
+      "fekves": "Portugália fővárosa kb. é. sz. 38,7°, ny. h. 9,1° körül, a Tejo tölcsértorkolatánál, az Atlanti-óceán partján.",
+      "facts": [
+        "1755-ben földrengés és az azt követő cunami pusztította el.",
+        "Mediterrán éghajlatú, az óceán közelsége enyhíti.",
+        "A felfedezések korában gyarmatbirodalom központja, ma az ország legnagyobb kikötője."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "földrengés",
+        "cunami",
+        "mediterrán éghajlat"
+      ],
+      "processes": [
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--liverpool": {
+      "fekves": "Angliai kikötőváros kb. é. sz. 53,4°, ny. h. 3° körül, a Mersey tölcsértorkolatánál, az Ír-tenger partján.",
+      "facts": [
+        "Az ipari forradalom idején Nagy-Britannia egyik fő Amerika felé néző kikötője.",
+        "Manchesterrel 1830-ban a világ egyik első vasútvonala kötötte össze.",
+        "A hagyományos kikötői és ipari tevékenység hanyatlása után városrehabilitáció zajlott."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "városrehabilitáció"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--ljubljana": {
+      "fekves": "Szlovénia fővárosa kb. é. sz. 46,1°, k. h. 14,5° körül, a Ljubljanai-medencében, a Ljubljanica partján.",
+      "facts": [
+        "Az Alpok és a Dinári-hegység karsztvidéke között fekszik.",
+        "Fontos közlekedési csomópont a Pannon-medence és az Adria között."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--london": {
+      "fekves": "Nagy-Britannia fővárosa kb. é. sz. 51,5°, ny. h. 0,1° körül, a Temze partján, a Londoni-medencében.",
+      "facts": [
+        "Világváros: a City a világ egyik vezető pénzügyi központja.",
+        "Greenwich-en halad át a kezdő (0°) délkör.",
+        "A Temzén vihardagály elleni gát védi a várost."
+      ],
+      "concepts": [
+        "világváros (globális város)",
+        "belső munkahelyöv (city)",
+        "vihardagály"
+      ],
+      "processes": [
+        "helyi-ido-zonaido"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--luxembourg": {
+      "fekves": "A Luxemburgi Nagyhercegség fővárosa kb. é. sz. 49,6°, k. h. 6,1° körül, Belgium, Franciaország és Németország határvidékén.",
+      "facts": [
+        "Itt működik az Európai Unió Bírósága.",
+        "Jelentős nemzetközi pénzügyi központ.",
+        "Az egy főre jutó GDP alapján a világ egyik leggazdagabb országának fővárosa."
+      ],
+      "concepts": [
+        "Európai Unió Bírósága",
+        "alkotmányos monarchia"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--lyon": {
+      "fekves": "Franciaországi város kb. é. sz. 45,8°, k. h. 4,8° körül, a Rhône és a Saône összefolyásánál.",
+      "facts": [
+        "Franciaország egyik legnagyobb agglomerációja.",
+        "Hagyományos selyemipari központ, ma vegy- és gyógyszeripar jellemzi.",
+        "A Rhône-völgyi észak–déli közlekedési folyosó csomópontja."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--madrid": {
+      "fekves": "Spanyolország fővárosa kb. é. sz. 40,4°, ny. h. 3,7° körül, az Ibériai-félsziget közepén, a Mesetán (Kasztíliai-fennsík).",
+      "facts": [
+        "Európa egyik legmagasabban fekvő fővárosa.",
+        "Fennsíki fekvése miatt nyara forró, tele hűvös, csapadéka kevés.",
+        "Az ország közlekedési, pénzügyi és szolgáltató központja."
+      ],
+      "concepts": [
+        "fennsík"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--manchester": {
+      "fekves": "Angliai város kb. é. sz. 53,5°, ny. h. 2,2° körül, a Penninek nyugati lábánál.",
+      "facts": [
+        "Az ipari forradalom idején a pamutipar világközpontja volt.",
+        "Hajózócsatorna köti össze a tengerrel.",
+        "A textilipar hanyatlása után szerkezetváltáson ment át."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--marosvasarhely": {
+      "fekves": "Erdélyi város Romániában kb. é. sz. 46,6°, k. h. 24,6° körül, a Maros partján, a Székelyföld nyugati peremén.",
+      "facts": [
+        "A Székelyföld egyik történelmi központja.",
+        "Az Erdélyi-medence földgázára épülő vegyipar (műtrágyagyártás) jellemzi.",
+        "Lakóinak jelentős része magyar."
+      ],
+      "concepts": [
+        "földgáz",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--marseille": {
+      "fekves": "Franciaországi kikötőváros kb. é. sz. 43,3°, k. h. 5,4° körül, a Földközi-tenger Lion-öblénél, a Rhône torkolatától keletre.",
+      "facts": [
+        "Franciaország legnagyobb tengeri kikötője.",
+        "Környékén jelentős kőolaj-finomítás és petrolkémia.",
+        "Mediterrán éghajlatú város."
+      ],
+      "concepts": [
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--milano": {
+      "fekves": "Olaszországi város kb. é. sz. 45,5°, k. h. 9,2° körül, a Pó-síkság északi részén, az Alpok előterében.",
+      "facts": [
+        "Olaszország gazdasági és pénzügyi központja, itt működik az olasz tőzsde.",
+        "Az olasz ipari háromszög csúcsa.",
+        "Nemzetközi divat- és vásárváros."
+      ],
+      "concepts": [
+        "érték- és árutőzsde"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--moszkva": {
+      "fekves": "Oroszország fővárosa kb. é. sz. 55,8°, k. h. 37,6° körül, a Moszkva folyó partján, a Kelet-Európai-síkság középső részén.",
+      "facts": [
+        "Európa legnépesebb városa.",
+        "Mérsékelten szárazföldi éghajlatú: hideg, havas tél, meleg nyár.",
+        "Sugaras úthálózat és vasúthálózat központja; az ország politikai és gazdasági központja."
+      ],
+      "concepts": [
+        "nedves kontinentális éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--munkacs": {
+      "fekves": "Kárpátaljai város Ukrajnában kb. é. sz. 48,4°, k. h. 22,7° körül, a Latorca partján, az Északkeleti-Kárpátok előterében.",
+      "facts": [
+        "Vára a magyar történelem fontos helyszíne (Zrínyi Ilona, Rákóczi-szabadságharc).",
+        "Kárpátalja egyik gazdasági központja.",
+        "Jelentős magyar kisebbség él itt."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--murmanszk": {
+      "fekves": "Oroszországi kikötőváros kb. é. sz. 69°, k. h. 33,1° körül, a Kola-félszigeten, a Barents-tenger egyik fjordjánál.",
+      "facts": [
+        "A világ legnagyobb városa az északi sarkkörön túl; télen sarki éjszaka, nyáron sarki nappal van.",
+        "Az Észak-atlanti-áramlás meleg vize miatt kikötője egész évben jégmentes.",
+        "Halászati és katonai flottabázis."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "pozitív és negatív hőmérsékleti anomália"
+      ],
+      "processes": [
+        "tengeraramlasok",
+        "nappalok-hossza"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--munchen": {
+      "fekves": "Bajorország székhelye Németországban kb. é. sz. 48,1°, k. h. 11,6° körül, az Isar partján, az Alpok északi előterében (Bajor-fennsík).",
+      "facts": [
+        "Jelentős autóipari és elektronikai központ, csúcstechnológiai ipar.",
+        "Időjárását időnként az Alpok felől érkező főnszél befolyásolja.",
+        "Az ország egyik legfontosabb kulturális és idegenforgalmi központja."
+      ],
+      "concepts": [
+        "húzóágazat",
+        "helyi szelek (parti szél, hegy-völgyi szél, városi szél, főn)"
+      ],
+      "processes": [
+        "fonszel"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--nagyvarad": {
+      "fekves": "Partiumi város Romániában kb. é. sz. 47°, k. h. 21,9° körül, a Sebes-Körös partján, az Alföld keleti peremén, a magyar határ közelében.",
+      "facts": [
+        "A Partium egyik legnagyobb városa, szecessziós épületeiről ismert.",
+        "Közelében hévízre épült gyógyfürdők (Félix- és Püspökfürdő) vannak.",
+        "Jelentős magyar kisebbség él itt."
+      ],
+      "concepts": [
+        "hévíz",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--napoly": {
+      "fekves": "Olaszországi város kb. é. sz. 40,8°, k. h. 14,2° körül, a Tirrén-tenger Nápolyi-öblénél, a Vezúv lábánál.",
+      "facts": [
+        "A közeli Vezúv rétegvulkán; Kr. u. 79-es kitörése temette be Pompejit.",
+        "Dél-Olaszország legnagyobb városa és kikötője.",
+        "A fejletlenebb déli országrész (Mezzogiorno) központja."
+      ],
+      "concepts": [
+        "rétegvulkán"
+      ],
+      "processes": [
+        "vulkani-mukodes",
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--odessza": {
+      "fekves": "Ukrajnai kikötőváros kb. é. sz. 46,5°, k. h. 30,7° körül, a Fekete-tenger északnyugati partján.",
+      "facts": [
+        "Ukrajna legnagyobb tengeri kikötője, fontos gabonaexport-kikötő.",
+        "Tengerparti üdülőváros."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--oslo": {
+      "fekves": "Norvégia fővárosa kb. é. sz. 59,9°, k. h. 10,7° körül, az Oslo-fjord északi végében.",
+      "facts": [
+        "A jégkorszaki gleccservölgyekből kialakult fjordos partvidék városa.",
+        "Norvégia gazdagsága az északi-tengeri kőolajra és földgázra, valamint a vízenergiára épül.",
+        "Norvégia nem tagja az Európai Uniónak."
+      ],
+      "concepts": [
+        "fjord"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--ostrava": {
+      "fekves": "Csehországi város kb. é. sz. 49,8°, k. h. 18,3° körül, az Odera mentén, a Morva-kapu közelében, a lengyel határ mellett.",
+      "facts": [
+        "A Sziléziai-szénmedence cseh részének központja: feketekőszén-bányászat és kohászat.",
+        "A nehézipar hanyatlása után szerkezetváltás zajlik."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "válságágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--parizs": {
+      "fekves": "Franciaország fővárosa kb. é. sz. 48,9°, k. h. 2,4° körül, a Szajna partján, a Párizsi-medence közepén.",
+      "facts": [
+        "Világváros, Franciaország politikai, gazdasági és kulturális központja.",
+        "A Párizsi-medence üledékes kőzetekből felépülő medence.",
+        "Itt működik az UNESCO és az OECD központja."
+      ],
+      "concepts": [
+        "világváros (globális város)",
+        "Gazdasági Együttműködési és Fejlesztési Szervezet (OECD)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--ploie-ti": {
+      "fekves": "Romániai város kb. é. sz. 44,9°, k. h. 26° körül, a Román-alföld északi részén, a Déli-Kárpátok (Kárpát-kanyar) előterében.",
+      "facts": [
+        "Románia kőolajiparának központja; a környék kőolajmezőire épültek finomítói.",
+        "Bukaresttől északra fekszik."
+      ],
+      "concepts": [
+        "kőolaj"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--plze": {
+      "fekves": "Csehországi város kb. é. sz. 49,7°, k. h. 13,4° körül, a Cseh-medence nyugati részén.",
+      "facts": [
+        "Jelentős gépipari központ (Škoda-művek).",
+        "Híres sörgyártásáról."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--podgorica": {
+      "fekves": "Montenegró fővárosa kb. é. sz. 42,5°, k. h. 19,3° körül, a Morača partján, a Shkodrai-tótól északra, a Dinári-hegység lábánál.",
+      "facts": [
+        "Montenegró legnagyobb városa és gazdasági központja.",
+        "Montenegró nem EU-tag, mégis az eurót használja fizetőeszközként."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--pozsony": {
+      "fekves": "Szlovákia fővárosa kb. é. sz. 48,1°, k. h. 17,1° körül, a Duna partján, a Kis-Kárpátok lábánál, az osztrák és a magyar határ közelében.",
+      "facts": [
+        "1536 és 1783 között Magyarország fővárosa, koronázó város volt.",
+        "Jelentős autóipar és kőolaj-finomítás jellemzi.",
+        "Szlovákia legfejlettebb térségének központja."
+      ],
+      "concepts": [
+        "működőtőke-befektetés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--praga": {
+      "fekves": "Csehország fővárosa kb. é. sz. 50,1°, k. h. 14,4° körül, a Moldva (Vltava) partján, a Cseh-medence közepén.",
+      "facts": [
+        "Történelmi belvárosa a világörökség része, kiemelkedő idegenforgalmi célpont.",
+        "Csehország politikai, gazdasági és kulturális központja."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--pri-tina": {
+      "fekves": "Koszovó fővárosa kb. é. sz. 42,7°, k. h. 21,2° körül, a Balkán-félsziget középső részén, a Koszovói-medencében.",
+      "facts": [
+        "Lakóinak többsége albán nemzetiségű.",
+        "Koszovó 2008-ban kikiáltotta függetlenségét, amelyet Szerbia nem ismer el.",
+        "Környékén jelentős lignitkészlet van."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--reykjavik": {
+      "fekves": "Izland fővárosa kb. é. sz. 64,1°, ny. h. 21,9° körül, Izland délnyugati partján, az Atlanti-óceánon.",
+      "facts": [
+        "A világ legészakibb fővárosa.",
+        "Izland az Atlanti-hátságon fekszik, ahol két kőzetlemez távolodik egymástól.",
+        "A várost geotermikus energiával (hévízzel) fűtik."
+      ],
+      "concepts": [
+        "óceánközépi hátság",
+        "hévíz"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--revkomarom": {
+      "fekves": "Szlovákiai város kb. é. sz. 47,8°, k. h. 18,1° körül, a Duna bal partján, a Vág torkolatánál, a magyarországi Komárommal szemben.",
+      "facts": [
+        "Magyar többségű város a Felvidéken.",
+        "Közúti és vasúti híd köti össze Komárommal.",
+        "Hagyományos hajógyártó és dunai kikötőváros."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--riga": {
+      "fekves": "Lettország fővárosa kb. é. sz. 57°, k. h. 24,1° körül, a Daugava torkolatánál, a Balti-tenger Rigai-öblénél.",
+      "facts": [
+        "A Baltikum legnagyobb városa.",
+        "Egykori Hanza-város, fontos kikötő.",
+        "Jelentős orosz nemzetiségű lakossága van."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--rostock": {
+      "fekves": "Németországi kikötőváros kb. é. sz. 54,1°, k. h. 12,2° körül, a Warnow torkolatánál, a Balti-tenger partján.",
+      "facts": [
+        "Egykori Hanza-város, ma Németország legjelentősebb balti-tengeri kikötője.",
+        "Kompjáratok kötik össze Skandináviával; hajógyártás."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--rotterdam": {
+      "fekves": "Hollandiai kikötőváros kb. é. sz. 51,9°, k. h. 4,5° körül, a Rajna–Maas deltatorkolatánál, az Északi-tenger közelében.",
+      "facts": [
+        "Európa legnagyobb tengeri kikötője (Europoort).",
+        "Jelentős kőolaj-finomítás és petrolkémiai ipar.",
+        "A Randstad városegyüttes része."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "Randstad"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--roma": {
+      "fekves": "Olaszország fővárosa kb. é. sz. 41,9°, k. h. 12,5° körül, a Tevere partján, az Appennini-félsziget nyugati oldalán.",
+      "facts": [
+        "Az ókori Római Birodalom központja; történelmi belvárosa a világörökség része.",
+        "Mediterrán éghajlatú.",
+        "Itt írták alá 1957-ben a Római Szerződést, amely létrehozta az Európai Gazdasági Közösséget."
+      ],
+      "concepts": [
+        "világörökség",
+        "mediterrán éghajlat",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--salzburg": {
+      "fekves": "Ausztriai város kb. é. sz. 47,8°, k. h. 13° körül, a Salzach partján, az Alpok északi peremén, a német határ közelében.",
+      "facts": [
+        "Nevét a környékén bányászott kősóról kapta.",
+        "Óvárosa a világörökség része; Mozart szülővárosa.",
+        "Jelentős idegenforgalmi központ."
+      ],
+      "concepts": [
+        "kősó",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--skopje-szkopje": {
+      "fekves": "Észak-Macedónia fővárosa kb. é. sz. 42°, k. h. 21,4° körül, a Vardar partján, a Balkán-félsziget középső részén.",
+      "facts": [
+        "1963-ban pusztító földrengés rombolta le.",
+        "A Vardar–Morava völgyi útvonal fontos csomópontja."
+      ],
+      "concepts": [
+        "földrengés"
+      ],
+      "processes": [
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--split": {
+      "fekves": "Horvátországi kikötőváros kb. é. sz. 43,5°, k. h. 16,5° körül, az Adriai-tenger partján, Dalmácia középső részén.",
+      "facts": [
+        "Diocletianus császár palotája a világörökség része.",
+        "Fontos kikötő, kompjáratok indulnak a dalmát szigetekre.",
+        "Mediterrán éghajlatú, karsztos mészkőpartok övezik."
+      ],
+      "concepts": [
+        "világörökség",
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--stockholm": {
+      "fekves": "Svédország fővárosa kb. é. sz. 59,3°, k. h. 18,1° körül, a Mälaren-tó és a Balti-tenger találkozásánál, szigeteken.",
+      "facts": [
+        "A Balti-ősföld jégkorszak által lecsiszolt sziklás partjain és szigetein épült.",
+        "Svédország gazdasági, pénzügyi és kulturális központja.",
+        "Itt adják át évente a Nobel-díjak többségét."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--strasbourg": {
+      "fekves": "Franciaországi város kb. é. sz. 48,6°, k. h. 7,8° körül, a Rajna bal partján, a német határon, Elzászban.",
+      "facts": [
+        "Az Európai Parlament székhelye, itt működik az Európa Tanács is.",
+        "A Felső-Rajnai-árokban fekszik, fontos rajnai kikötő."
+      ],
+      "concepts": [
+        "Európai Parlament",
+        "Európa Tanács",
+        "árok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--stuttgart": {
+      "fekves": "Baden-Württemberg székhelye Németországban kb. é. sz. 48,8°, k. h. 9,2° körül, a Neckar völgyében.",
+      "facts": [
+        "Világhírű autóipari központ (Mercedes-Benz, Porsche).",
+        "Jelentős elektronikai és gépipar, magas K+F-tevékenység."
+      ],
+      "concepts": [
+        "húzóágazat",
+        "kutatás-fejlesztés (K+F tevékenység)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--szabadka": {
+      "fekves": "Vajdasági város Szerbiában kb. é. sz. 46,1°, k. h. 19,7° körül, a Bácskában, a magyar határ közelében.",
+      "facts": [
+        "A Vajdaság magyar kulturális központja, jelentős magyar lakossággal.",
+        "Szecessziós városháza jellegzetes épülete.",
+        "Környéke a Duna–Tisza közi homokhátság folytatása."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--szarajevo": {
+      "fekves": "Bosznia-Hercegovina fővárosa kb. é. sz. 43,9°, k. h. 18,4° körül, a Dinári-hegység egyik medencéjében, a Miljacka partján.",
+      "facts": [
+        "1914-ben itt történt az első világháborúhoz vezető merénylet.",
+        "Többvallású város: muzulmán, ortodox és katolikus közösségek élnek itt.",
+        "Bosznia-Hercegovina többnemzetiségű állam (bosnyákok, szerbek, horvátok)."
+      ],
+      "concepts": [
+        "többnemzetiségű állam"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--szentpetervar": {
+      "fekves": "Oroszország második legnagyobb városa kb. é. sz. 59,9°, k. h. 30,3° körül, a Néva torkolatánál, a Finn-öböl keleti végén.",
+      "facts": [
+        "1712 és 1918 között Oroszország fővárosa volt; belvárosa a világörökség része.",
+        "Jelentős kikötő és hajógyártó központ.",
+        "Magas földrajzi szélessége miatt nyár elején „fehér éjszakák” vannak."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "processes": [
+        "nappalok-hossza"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--szekelyudvarhely": {
+      "fekves": "Székelyföldi város Romániában kb. é. sz. 46,3°, k. h. 25,3° körül, a Nagy-Küküllő partján, a Hargita nyugati lábánál.",
+      "facts": [
+        "A Székelyföld egyik történelmi központja.",
+        "Lakóinak túlnyomó többsége magyar."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--szofia": {
+      "fekves": "Bulgária fővárosa kb. é. sz. 42,7°, k. h. 23,3° körül, a Szófiai-medencében, a Vitosa-hegység lábánál.",
+      "facts": [
+        "Medencefekvése miatt télen gyakori a fordított hőrétegződés és a légszennyezés.",
+        "Bulgária politikai, gazdasági és kulturális központja.",
+        "Bulgária 2007 óta az Európai Unió tagja."
+      ],
+      "concepts": [
+        "fordított hőrétegződés (hőmérsékleti inverzió)",
+        "Európai Unió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--tallinn": {
+      "fekves": "Észtország fővárosa kb. é. sz. 59,4°, k. h. 24,7° körül, a Finn-öböl déli partján.",
+      "facts": [
+        "Egykori Hanza-város; óvárosa a világörökség része.",
+        "Észtország fejlett digitális közigazgatásáról és informatikai iparáról ismert.",
+        "Kompjáratok kötik össze Helsinkivel."
+      ],
+      "concepts": [
+        "világörökség",
+        "információs társadalom"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--temesvar": {
+      "fekves": "Romániai város kb. é. sz. 45,8°, k. h. 21,2° körül, a Béga partján, a Bánságban, az Alföld délkeleti részén.",
+      "facts": [
+        "A Bánság központja; 1989-ben itt kezdődött a romániai forradalom.",
+        "Sok külföldi működőtőke települt ide (autóipari beszállítók, informatika).",
+        "Magyar kisebbség is él itt."
+      ],
+      "concepts": [
+        "működőtőke-befektetés",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--torino": {
+      "fekves": "Olaszországi város kb. é. sz. 45,1°, k. h. 7,7° körül, a Pó partján, Piemontban, az Alpok lábánál.",
+      "facts": [
+        "Az olasz autóipar központja (FIAT).",
+        "Az olasz ipari háromszög egyik csúcsa."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--trieszt": {
+      "fekves": "Olaszországi kikötőváros kb. é. sz. 45,7°, k. h. 13,8° körül, az Adriai-tenger Trieszti-öblénél, a szlovén határ mellett.",
+      "facts": [
+        "Az Osztrák–Magyar Monarchia fő tengeri kikötője volt.",
+        "Innen indul az Alpokon át Közép-Európába vezető kőolajvezeték.",
+        "A Karszt-fennsík pereménél fekszik."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--ujvidek": {
+      "fekves": "A Vajdaság székhelye Szerbiában kb. é. sz. 45,3°, k. h. 19,8° körül, a Duna bal partján, a Tarcal-hegy (Fruška Gora) északi lábánál.",
+      "facts": [
+        "Szerbia második legnagyobb városa, a Vajdaság közigazgatási központja.",
+        "A Dunával szemközti partján áll a péterváradi erőd.",
+        "Jelentős magyar kisebbség él itt."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--ungvar": {
+      "fekves": "Kárpátalja székhelye Ukrajnában kb. é. sz. 48,6°, k. h. 22,3° körül, az Ung partján, a szlovák határ mellett.",
+      "facts": [
+        "Kárpátalja közigazgatási és kulturális központja.",
+        "Határvárosként fontos átkelő az Európai Unió felé.",
+        "Magyar kisebbség is él itt."
+      ],
+      "concepts": [
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--varso": {
+      "fekves": "Lengyelország fővárosa kb. é. sz. 52,2°, k. h. 21° körül, a Visztula partján, a Mazóviai-síkságon.",
+      "facts": [
+        "A második világháborúban szinte teljesen elpusztult; újjáépített óvárosa a világörökség része.",
+        "Lengyelország politikai, gazdasági és pénzügyi központja."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--velence": {
+      "fekves": "Olaszországi város kb. é. sz. 45,4°, k. h. 12,3° körül, az Adriai-tenger északi részén, egy lagúna szigetein.",
+      "facts": [
+        "Lagúnában, cölöpökre épült város, csatornákkal.",
+        "A vihardagály és a talajsüllyedés miatt gyakoriak az elöntések.",
+        "A város és lagúnája a világörökség része; a tömegturizmus komoly terhelés."
+      ],
+      "concepts": [
+        "lagúna",
+        "vihardagály",
+        "világörökség"
+      ],
+      "processes": [
+        "tenger-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--vilnius": {
+      "fekves": "Litvánia fővárosa kb. é. sz. 54,7°, k. h. 25,3° körül, a Neris partján, a fehérorosz határ közelében.",
+      "facts": [
+        "Barokk óvárosa a világörökség része.",
+        "Litvánia politikai és gazdasági központja; jelentős lengyel kisebbség él itt."
+      ],
+      "concepts": [
+        "világörökség",
+        "nemzeti kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--volgograd": {
+      "fekves": "Oroszországi város kb. é. sz. 48,7°, k. h. 44,5° körül, a Volga alsó szakaszán, a sztyeppövezetben.",
+      "facts": [
+        "A második világháborúban Sztálingrád néven a döntő csata helyszíne volt.",
+        "A Volgán víztározó és vízerőmű épült; a Volga–Don-csatorna a közelében kezdődik.",
+        "Szárazföldi éghajlatú: forró nyár, hideg tél, kevés csapadék."
+      ],
+      "concepts": [
+        "víztározó",
+        "sztyepp"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--zagrab": {
+      "fekves": "Horvátország fővárosa kb. é. sz. 45,8°, k. h. 16° körül, a Száva partján, a Medvednica-hegység lábánál.",
+      "facts": [
+        "Horvátország politikai, gazdasági és kulturális központja.",
+        "Közlekedési csomópont a Pannon-medence és az Adriai-tenger között."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--zurich": {
+      "fekves": "Svájc legnagyobb városa kb. é. sz. 47,4°, k. h. 8,5° körül, a Zürichi-tó északi végénél, a Limmat partján, a Svájci-középhegyvidéken.",
+      "facts": [
+        "Svájc pénzügyi központja, bankokkal és értéktőzsdével.",
+        "A Zürichi-tó medencéjét a jégkorszaki gleccser formálta.",
+        "Német nyelvű város, magas életszínvonallal."
+      ],
+      "concepts": [
+        "érték- és árutőzsde",
+        "jégvájta tó"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--antwerpen": {
+      "fekves": "Belgiumi kikötőváros kb. é. sz. 51,2°, k. h. 4,4° körül, a Schelde tölcsértorkolatánál, az Északi-tenger közelében.",
+      "facts": [
+        "Európa egyik legnagyobb tengeri kikötője.",
+        "Világhírű gyémántkereskedelmi és -csiszoló központ.",
+        "Jelentős petrolkémiai ipar települt a kikötőbe."
+      ],
+      "concepts": [
+        "tölcsértorkolat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--bilbao": {
+      "fekves": "Spanyolországi kikötőváros kb. é. sz. 43,3°, ny. h. 2,9° körül, a Baszkföldön, a Vizcayai-öböl közelében.",
+      "facts": [
+        "A helyi vasércre épült kohászat és hajógyártás központja volt.",
+        "A nehézipar hanyatlása után városrehabilitáció zajlott (Guggenheim Múzeum).",
+        "Óceáni éghajlatú, csapadékos város."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "városrehabilitáció",
+        "óceáni éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--chi-in-u": {
+      "fekves": "Moldova fővárosa kb. é. sz. 47°, k. h. 28,9° körül, az ország középső részén, a Bîc folyó partján.",
+      "facts": [
+        "Moldova legnagyobb városa, gazdasági és kulturális központja.",
+        "Élelmiszer- és boripara jelentős."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--goteborg": {
+      "fekves": "Svédország második legnagyobb városa kb. é. sz. 57,7°, k. h. 12° körül, a Göta-folyó torkolatánál, a Kattegat partján.",
+      "facts": [
+        "Svédország legnagyobb kikötője, a nyugati tengerek felé nyitott.",
+        "Jelentős autóipari központ (Volvo)."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--haga": {
+      "fekves": "Hollandiai város kb. é. sz. 52,1°, k. h. 4,3° körül, az Északi-tenger partján.",
+      "facts": [
+        "A holland kormány, a parlament és az uralkodó székhelye, bár a főváros Amszterdam.",
+        "Itt működik az ENSZ Nemzetközi Bírósága.",
+        "A Randstad városegyüttes része."
+      ],
+      "concepts": [
+        "Egyesült Nemzetek Szervezete (ENSZ)",
+        "Randstad"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--minszk": {
+      "fekves": "Fehéroroszország fővárosa kb. é. sz. 53,9°, k. h. 27,6° körül, az ország középső részén, a Kelet-Európai-síkságon.",
+      "facts": [
+        "A második világháború után szinte teljesen újjáépítették.",
+        "Az ország ipari központja, jelentős gépjármű- és gépgyártással (traktorok, teherautók)."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--nyizsnyij-novgorod": {
+      "fekves": "Oroszországi város kb. é. sz. 56,3°, k. h. 44° körül, a Volga és az Oka összefolyásánál, a Kelet-Európai-síkságon.",
+      "facts": [
+        "Jelentős autóipari és gépipari központ.",
+        "Fontos volgai kikötő."
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--sevilla": {
+      "fekves": "Spanyolországi város kb. é. sz. 37,4°, ny. h. 6° körül, a Guadalquivir partján, Andalúziában.",
+      "facts": [
+        "Andalúzia székhelye; a Guadalquivir a városig hajózható.",
+        "A gyarmati korban az amerikai kereskedelem fő kikötője volt.",
+        "Mediterrán éghajlatú, nyara Európa legforróbbjai közé tartozik."
+      ],
+      "concepts": [
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--thesszaloniki-szaloniki": {
+      "fekves": "Görögország második legnagyobb városa kb. é. sz. 40,7°, k. h. 22,9° körül, az Égei-tenger Thermai-öblénél, Makedóniában.",
+      "facts": [
+        "Fontos kikötő, a Balkán-félsziget belseje felé vezető Vardar–Morava útvonal végpontja.",
+        "Nemzetközi vásárváros."
+      ],
+      "concepts": [
+        "mediterrán éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--varosok--tirana": {
+      "fekves": "Albánia fővárosa kb. é. sz. 41,3°, k. h. 19,8° körül, az ország középső részén, a tengerparti síkság és a hegyvidék határán.",
+      "facts": [
+        "A vidékről érkező belső vándorlás miatt népessége gyorsan nőtt.",
+        "Albánia politikai és gazdasági központja."
+      ],
+      "concepts": [
+        "belföldi és nemzetközi vándorlás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--iparvidekek--donyec-medence": {
+      "fekves": "Ipari körzet Kelet-Európában, kb. az é. sz. 47,5–49° és a k. h. 37–41° között, Ukrajna keleti részén és az orosz határvidéken, a Donyec folyó mentén, az Azovi-tengertől északra.",
+      "facts": [
+        "Karbon időszaki feketekőszén-telepeire épült a bányászat és a kohászat.",
+        "A volt Szovjetunió egyik legfontosabb nehézipari körzete volt.",
+        "A hagyományos nehézipar válságba került, a térség elmaradott."
+      ],
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "válságágazat",
+        "karbon"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--iparvidekek--kozep-angliai-iparvidek": {
+      "fekves": "Ipari körzet Nagy-Britanniában, kb. az é. sz. 52–54° és az ny. h. 1–3° között, Anglia középső részén, a Penninek lábánál (Birmingham, Manchester, Sheffield vidéke).",
+      "facts": [
+        "Az ipari forradalom bölcsője: a helyben bányászott szénre és vasércre épült.",
+        "Hagyományos ágazatai a textilipar, a kohászat és a gépipar.",
+        "A hagyományos iparágak hanyatlása után gazdasági szerkezetváltás zajlott."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "válságágazat",
+        "barnamezős (rekonstrukciós) és zöldmezős beruházás"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--iparvidekek--olasz-ipari-haromszog": {
+      "fekves": "Észak-olaszországi ipari térség kb. az é. sz. 44–46° és a k. h. 7,5–9,5° között, a Milánó–Torino–Genova háromszögben, a Pó-síkság nyugati részén és a Ligur-tenger partján.",
+      "facts": [
+        "Olaszország legfejlettebb iparvidéke: autó-, gép-, textil- és vegyipar.",
+        "Az Alpok vízenergiája és Genova kikötője segítette kialakulását.",
+        "Fejlettsége éles ellentétben áll a déli országrész (Mezzogiorno) elmaradottságával."
+      ],
+      "concepts": [
+        "társadalmi-gazdasági egyenlőtlenség"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "europa--iparvidekek--ruhr-videk": {
+      "fekves": "Németország legnagyobb ipari körzete kb. az é. sz. 51–52° és a k. h. 6,5–8° között, Észak-Rajna–Vesztfáliában, a Rajna és a Ruhr mentén.",
+      "facts": [
+        "Karbon időszaki feketekőszén-telepeire épült a bányászat és a vas- és acélipar.",
+        "Sokközpontú agglomeráció (Duisburg, Essen, Bochum, Dortmund).",
+        "A szénbányászat felszámolása után gazdasági szerkezetváltás: szolgáltatások, egyetemek, barnamezős fejlesztések.",
+        "A Rajna olcsó vízi szállítást biztosít."
+      ],
+      "concepts": [
+        "egyközpontú és sokközpontú agglomeráció",
+        "gazdasági szerkezetváltás",
+        "barnamezős (rekonstrukciós) és zöldmezős beruházás",
+        "válságágazat"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  }
+}

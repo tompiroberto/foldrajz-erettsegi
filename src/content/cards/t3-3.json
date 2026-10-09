@@ -1,0 +1,597 @@
+{ "cards": [
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k1",
+  "explanation": "A vízburok a Föld összes vizét jelenti: a világtengert, a jeget, a felszín alatti vizeket, a tavakat, folyókat és a légkör vízgőzét.\n\n- A víz kb. 97%-a sós (világtenger), csak kb. 3%-a édesvíz.\n- Az édesvíz nagyobb része jégként van lekötve (Antarktisz, Grönland), a többi zöme felszín alatti víz; a tavak és folyók vize ehhez képest elenyésző.\n\nA víz körforgását a Nap energiája és a gravitáció hajtja:\n- párolgás (óceánokból) és párologtatás (növényekből),\n- a vízgőz szállítása a szelekkel,\n- kicsapódás, felhő- és csapadékképződés,\n- lefolyás (folyók) és beszivárgás (felszín alatti víz), majd vissza a tengerbe.\n\nKis körforgásról beszélünk, ha a tenger fölött elpárolgott víz oda is hullik vissza; nagy körforgásról, ha a szárazföldre hull, és onnan folyik vissza. A szárazföldi vízháztartás mérlege: csapadék = párolgás-párologtatás + lefolyás (+ készletváltozás).",
+  "diagram": "water-cycle",
+  "concepts": ["a víz körforgása", "vízháztartás (párolgás-párologtatás, csapadék, lefolyás)", "világtenger"],
+  "processes": ["viz-korforgasa"],
+  "examTip": "Ábraelemzésnél sorrendben nevezd meg a lépéseket (párolgás → szállítás → kicsapódás → csapadék → lefolyás/beszivárgás), és mondd ki, hogy a folyamat energiaforrása a Nap.",
+  "selfCheck": [
+    { "q": "Mi a különbség a kis és a nagy vízkörforgás között?", "a": "A kis körforgásban a tenger fölött elpárolgott víz a tengerbe hullik vissza, a nagyban a szárazföldre jut, és lefolyással tér vissza." },
+    { "q": "Hol van az édesvíz legnagyobb része?", "a": "Jégként a sarkvidéki jégtakarókban (Antarktisz, Grönland) és a gleccserekben." }
+  ],
+  "trueFalse": [
+    { "statement": "A víz körforgását a napsugárzás energiája tartja fenn.", "true": true },
+    { "statement": "A Föld édesvízkészletének legnagyobb része a tavakban és a folyókban található.", "true": false, "correction": "A legtöbb édesvíz jégben van lekötve, utána a felszín alatti vizek következnek; a tavak és folyók részesedése nagyon kicsi." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k2",
+  "explanation": "A világtenger összefüggő víztömeg, amelyet óceánokra és tengerekre tagolunk.\n\nÓceán:\n- nagy, önálló medence, aljzata óceáni kéreg,\n- nagy átlagmélység, saját áramlásrendszer, viszonylag állandó sótartalom (kb. 35‰).\n\nTenger:\n- az óceán kisebb, sekélyebb része, gyakran a szárazföldi talapzaton (self) helyezkedik el,\n- nincs önálló áramlásrendszere, hőmérséklete és sótartalma jobban függ a környező szárazföldtől.\n\nA tengerek típusai:\n- peremtenger: az óceán szélén, széles kapcsolattal (Északi-tenger),\n- beltenger: szárazföldbe mélyen benyúló, szűk szorossal kapcsolódik (Balti-tenger, Fekete-tenger),\n- földközi tenger: kontinensek között fekszik (Földközi-tenger, Európa–Afrika–Ázsia között).\n\nTengerszoros: két tengert összekötő keskeny víz (Gibraltári-szoros). Öböl: a szárazföldbe benyúló, széles nyílású tengerrész (Biscayai-öböl).",
+  "diagram": null,
+  "concepts": ["óceán", "tenger", "peremtenger", "beltenger", "tengerszoros", "szárazföldi talapzat (self)"],
+  "processes": [],
+  "examTip": "Gyakori térképes feladat: egy tengerről el kell döntened, perem- vagy beltenger-e. Figyeld, hogy széles nyílással vagy keskeny szoroson át kapcsolódik-e az óceánhoz.",
+  "selfCheck": [
+    { "q": "Milyen kéreg alkotja az óceánok aljzatát?", "a": "Óceáni kéreg; a sekély tengerek nagy része viszont a szárazföldi talapzaton, kontinentális kérgen fekszik." },
+    { "q": "Milyen típusú tenger a Balti-tenger?", "a": "Beltenger: mélyen a szárazföldbe nyúlik, és csak szűk szorosokon keresztül kapcsolódik az óceánhoz." }
+  ],
+  "trueFalse": [
+    { "statement": "Az Északi-tenger peremtenger.", "true": true },
+    { "statement": "A tengereknek az óceánokhoz hasonlóan önálló áramlásrendszerük van.", "true": false, "correction": "Önálló áramlásrendszere csak az óceánoknak van; a tengerek vizét a kapcsolódó óceán áramlásai és a helyi hatások mozgatják." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k3",
+  "explanation": "A víz fajlagos hőkapacitása (fajhője) nagy: ugyanannyi hő a vizet sokkal kevésbé melegíti fel, mint a kőzetet. Ezért a víz:\n- lassan melegszik fel és lassan hűl le,\n- sok hőt tárol, és azt lassan adja le.\n\nEbből következik a tengerek hűtő-fűtő hatása: nyáron hűtik, télen melegítik a partvidéket, így az óceáni éghajlat kiegyenlített, kicsi az évi hőingás. A felmelegedést segíti, hogy a napsugárzás néhány tíz méter mélyre is behatol, és a hullámzás átkeveri a vizet.\n\nFagyáspont és sűrűség:\n- az édesvíz 0 °C-on fagy, és kb. 4 °C-on a legnagyobb a sűrűsége,\n- a tengervíz a sótartalom miatt kb. −2 °C-on fagy meg, és lehűlve egyre sűrűbb lesz, ezért lesüllyed, és folyamatos átkeveredés indul.\n\nEzért fagy be a tenger nehezebben, mint egy tó. A jég könnyebb a víznél, a felszínen úszik, és szigeteli az alatta lévő vizet.",
+  "diagram": null,
+  "concepts": ["fajlagos hőkapacitás (fajhő)", "hűtő-fűtő hatás", "sótartalom"],
+  "processes": [],
+  "examTip": "Ha a kérdés a tengerpart és a szárazföld belsejének hőingását hasonlítja össze, mindig a víz nagy fajhőjével és a hűtő-fűtő hatással érvelj.",
+  "selfCheck": [
+    { "q": "Miért kisebb az évi hőingás a tengerparton?", "a": "Mert a víz nagy fajhője miatt lassan melegszik és hűl, így nyáron hűt, télen melegít." },
+    { "q": "Miért fagy be nehezebben a tenger, mint egy tó?", "a": "Alacsonyabb a fagyáspontja, és a lehűlő, sűrűbb felszíni víz lesüllyed, így a víztömeg átkeveredik." }
+  ],
+  "trueFalse": [
+    { "statement": "A tengervíz fagyáspontja 0 °C alatt van.", "true": true },
+    { "statement": "A víz kis fajhője miatt melegszik fel gyorsan nyáron.", "true": false, "correction": "A víz fajhője nagy, ezért lassan melegszik fel és lassan hűl le." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k4",
+  "explanation": "A hullámzást elsősorban a szél hozza létre: a vízfelszín fölött súrlódva mozgó levegő energiát ad át a víznek.\n\nHogyan mozog a víz?\n- A vízrészecskék nagyjából helyben, körpályán mozognak; nem a víz halad előre, hanem a hullám energiája.\n- A körpályák mérete a mélységgel gyorsan csökken, a mélyben a víz nyugodt.\n- A hullám nagysága a szél erősségétől, tartósságától és attól függ, mekkora nyílt vízfelületen fúj.\n\nA part közelében:\n- a sekély vízben a hullám alja a fenékhez súrlódik, lelassul, a teteje előrebukik: kialakul a megtörő (törő) hullám,\n- a hullámverés pusztítja a partot (abrázió), és hordalékot szállít.\n\nNem a szél okozza a cunamit: azt tenger alatti földrengés vagy vulkánkitörés indítja el, és a nyílt óceánon alig észrevehető, partközelben viszont hatalmasra nő.",
+  "diagram": null,
+  "concepts": ["hullámzás", "abrázió"],
+  "processes": ["tenger-munkaja"],
+  "examTip": "Gyakori hiba azt írni, hogy a hullámzás során a víz vízszintesen halad. Hangsúlyozd: a részecskék körpályán mozognak, csak az energia terjed.",
+  "selfCheck": [
+    { "q": "Mi a hullámzás fő oka?", "a": "A szél, amely súrlódással energiát ad át a víz felszínének." },
+    { "q": "Miért törik meg a hullám a part közelében?", "a": "A sekély vízben a hullám alja a fenékhez súrlódik és lelassul, a teteje pedig előrebukik." }
+  ],
+  "trueFalse": [
+    { "statement": "A hullámzás hatása a mélységgel csökken.", "true": true },
+    { "statement": "A hullámzás során a víz tömegesen halad a part felé.", "true": false, "correction": "A vízrészecskék körpályán mozognak, csak a hullám energiája terjed tovább." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k5",
+  "explanation": "A tengeráramlások a világtenger nagy, állandó irányú vízmozgásai.\n\nKialakulásuk okai:\n- az állandó szelek (passzátszelek, nyugati szelek) magukkal sodorják a felszíni vizet,\n- a hőmérséklet és a sótartalom eltérése sűrűségkülönbséget okoz,\n- a Föld forgásából adódó eltérítő erő az északi félgömbön jobbra, a délin balra téríti a mozgást,\n- a kontinensek partjai terelik, megosztják az áramlásokat.\n\nA rendszer működése:\n- a passzátszelek az Egyenlítő mentén nyugat felé hajtják a vizet (egyenlítői áramlások),\n- a kontinensek keleti partjainál a víz a sarkok felé fordul: itt meleg áramlások haladnak (Golf-áramlás),\n- a nyugati szelek övében kelet felé folyik a víz,\n- a kontinensek nyugati partjainál a hideg víz az Egyenlítő felé áramlik (Kanári-áramlás).\n\nÍgy alakulnak ki a nagy körök: az északi félgömbön az óramutató járásával megegyező, a délin ellentétes irányban.",
+  "diagram": "circulation",
+  "concepts": ["hideg és meleg tengeráramlás", "passzátszelek", "általános légkörzés (nagy földi légkörzés)"],
+  "processes": ["tengeraramlasok", "altalanos-legkorzes"],
+  "examTip": "Szabály a vaktérképhez: a kontinensek keleti partján meleg, nyugati partján hideg áramlás halad a térítőköri övezetben. Ebből a legtöbb áramlást ki tudod következtetni.",
+  "selfCheck": [
+    { "q": "Melyik szél hajtja az egyenlítői áramlásokat nyugat felé?", "a": "A passzátszél." },
+    { "q": "Milyen irányú a nagy áramlási kör az északi félgömbön?", "a": "Az óramutató járásával megegyező." }
+  ],
+  "trueFalse": [
+    { "statement": "A kontinensek a tengeráramlások irányát is befolyásolják.", "true": true },
+    { "statement": "A térítőköri övezetben a kontinensek nyugati partjain meleg tengeráramlások haladnak.", "true": false, "correction": "A nyugati partokon hideg áramlások (pl. Kanári-, Benguela-áramlás), a keleti partokon meleg áramlások haladnak." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k6",
+  "explanation": "A meleg tengeráramlás melegebb, a hideg hidegebb a környező tengervíznél. A térképen általában piros és kék nyilakkal jelölik.\n\nFontos meleg áramlások:\n- Golf-áramlás és folytatása, az Észak-atlanti-áramlás,\n- Kuro-sio (Japán partjai),\n- Brazília-áramlás, Kelet-ausztráliai-áramlás.\n\nFontos hideg áramlások:\n- Labrador-áramlás, Kanári-áramlás, Kaliforniai-áramlás,\n- Humboldt- (Perui-) áramlás, Benguela-áramlás, Nyugat-ausztráliai-áramlás.\n\nÉghajlatmódosító hatásuk:\n- A meleg áramlás fűti a partvidéket, és a fölötte felmelegedő, párát felvevő levegő csapadékot hoz. Az Észak-atlanti-áramlás miatt enyhe a tél Nyugat-Európában, és Norvégia partjainál, sőt Murmanszkban sem fagy be a tenger.\n- A hideg áramlás hűti és szárítja a partvidéket: fölötte a levegő alulról hűl, stabil, nem képződik csapadék, csak köd. Ezért alakultak ki partmenti sivatagok (Atacama, Namíb).",
+  "diagram": null,
+  "concepts": ["hideg és meleg tengeráramlás", "hűtő-fűtő hatás"],
+  "processes": ["tengeraramlasok"],
+  "examTip": "Vaktérképen a nevek mellé az áramlás jellegét (meleg/hideg) is tudnod kell. A hideg áramlások és a partmenti sivatagok összekapcsolása nagyon gyakori kérdés.",
+  "selfCheck": [
+    { "q": "Melyik hideg áramlás kapcsolódik az Atacama-sivatag kialakulásához?", "a": "A Humboldt- (Perui-) áramlás." },
+    { "q": "Miért nem hoz csapadékot a hideg áramlás?", "a": "Fölötte a levegő alulról hűl, rétegződése stabil, nem emelkedik fel, ezért csak köd képződik." }
+  ],
+  "trueFalse": [
+    { "statement": "A Benguela-áramlás hideg tengeráramlás Afrika délnyugati partjainál.", "true": true },
+    { "statement": "A Kuro-sio hideg tengeráramlás.", "true": false, "correction": "A Kuro-sio meleg áramlás, amely Japán partjai mentén halad észak felé." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k7",
+  "explanation": "A tengerjárás (árapály) a tengerszint szabályos, naponta kétszer ismétlődő emelkedése (dagály) és süllyedése (apály).\n\nKialakulása:\n- A Hold vonzása a felé eső oldalon dagályhullámot emel.\n- A Föld túlsó oldalán a Föld–Hold rendszer közös keringéséből adódó tehetetlenségi (kirepítő) hatás miatt szintén dagály van.\n- A Föld e két dagályhullám alatt fordul el, ezért egy helyen nagyjából 12 és fél óránként követi egymást két dagály.\n- A Nap hatása gyengébb: újholdkor és holdtöltekor (a Nap és a Hold egy vonalban) szökőár, első és utolsó negyedkor vakár alakul ki.\n\nKövetkezmények:\n- természeti: tölcsértorkolatok kialakulása és tisztán tartása, vattok (Északi-tenger), ár-apály élővilága,\n- társadalmi-gazdasági: a kikötők és a hajózás alkalmazkodása, árapály-erőmű (Rance-torkolat, Franciaország), kagylógyűjtés, turizmus.\n\nKülönösen nagy a szintkülönbség tölcsérszerű öblökben, pl. a Fundy-öbölben (Kanada).",
+  "diagram": "tides",
+  "concepts": ["tengerjárás", "apály", "dagály", "szökőár", "vakár", "tölcsértorkolat"],
+  "processes": ["hold-mozgasa"],
+  "examTip": "A szökőárat ne keverd a cunamival! A szökőár a legnagyobb dagály (újhold, holdtölte idején), a cunami földrengés okozta óriáshullám.",
+  "selfCheck": [
+    { "q": "Mikor alakul ki szökőár?", "a": "Újholdkor és holdtöltekor, amikor a Nap, a Föld és a Hold egy egyenesbe esik." },
+    { "q": "Miért van dagály a Föld Holddal ellentétes oldalán is?", "a": "A Föld–Hold rendszer közös tömegközéppont körüli mozgásából adódó tehetetlenségi hatás miatt." }
+  ],
+  "trueFalse": [
+    { "statement": "Vakár az első és az utolsó negyed idején alakul ki.", "true": true },
+    { "statement": "A tengerjárást elsősorban a Nap vonzása okozza.", "true": false, "correction": "A fő ok a Hold vonzása; a Nap hatása kisebb, csak erősíti (szökőár) vagy gyengíti (vakár) a Holdét." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e1",
+  "explanation": "A sós víz és az édesvíz fizikai tulajdonságai eltérnek, ennek komoly természeti és gazdasági következményei vannak.\n\nEltérések és hatásaik:\n- Fagyáspont: a tengervíz kb. −2 °C-on fagy, ezért a tengerek nehezebben fagynak be, mint a tavak és a folyók.\n- Sűrűség: a sós víz sűrűbb, így a torkolatokban a beömlő édesvíz egy ideig a sós víz felett úszik. A nagyon sós Holt-tengerben az ember szinte elmerülés nélkül lebeg.\n- Sűrűségmaximum: az édesvíz kb. 4 °C-on a legsűrűbb, ezért a tavak alján télen is kb. 4 °C-os víz marad, és túlélnek az élőlények; a tengervíz lehűlve lesüllyed, ez a mélységi vízkörzést is hajtja.\n- Korrózió: a sós víz erősebben marja a fémeket (hajók, kikötői szerkezetek).\n\nGazdasági oldal:\n- a sós víz ivásra és öntözésre alkalmatlan, öntözéskor sófelhalmozódást okozna,\n- sótalanítása sok energiát igényel, ezért főleg a gazdag, száraz Perzsa-öböl menti országokban terjedt el.",
+  "diagram": null,
+  "concepts": ["sótartalom", "ivóvíz", "öntözővíz"],
+  "processes": [],
+  "examTip": "Ha egy jelenséget (befagyás, lebegés, sótalanítás) kell megmagyaráznod, mindig a fizikai tulajdonságból (fagyáspont, sűrűség) indulj ki, és abból vezesd le a következményt.",
+  "selfCheck": [
+    { "q": "Miért élhetnek túl a halak a befagyott tó alján?", "a": "Mert az édesvíz kb. 4 °C-on a legsűrűbb, ez a víz a mederben marad, a jég pedig szigetel." },
+    { "q": "Miért nem használható a tengervíz öntözésre?", "a": "Mert a talajban felhalmozódó só tönkreteszi a talajt és a növényeket." }
+  ],
+  "trueFalse": [
+    { "statement": "A folyótorkolatban az édesvíz a sósabb tengervíz felett helyezkedik el.", "true": true },
+    { "statement": "A sótalanítás olcsó, ezért a világon mindenhol ezzel oldják meg a vízhiányt.", "true": false, "correction": "A sótalanítás energiaigényes és drága, ezért főleg gazdag, száraz országokban (pl. Perzsa-öböl mentén) alkalmazzák." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e2",
+  "explanation": "A világtenger átlagos sótartalma kb. 35‰ (ezrelék), de területenként eltér. A sótartalmat a víz bevétele és vesztesége szabja meg.\n\nNöveli a sótartalmat:\n- az erős párolgás (a só visszamarad),\n- a kevés csapadék és a kevés beömlő folyóvíz,\n- a tengeri jég képződése (a jég kiszorítja a sót).\n\nCsökkenti a sótartalmat:\n- a bőséges csapadék,\n- a nagy folyók édesvize (hozzáfolyás),\n- a jég olvadása.\n\nPéldák:\n- A nyílt óceán felszínén a térítőköri magasnyomású övben a legnagyobb a sótartalom (sok napsütés, párolgás, kevés eső); az Egyenlítőnél a sok csapadék miatt kisebb.\n- A Vörös-tenger és a Perzsa-öböl nagyon sós: forró, száraz környezet, alig van befolyó folyó.\n- A Földközi-tenger sósabb az Atlanti-óceánnál, mert a párolgás felülmúlja a csapadékot és a hozzáfolyást.\n- A Balti-tenger igen kis sótartalmú: hűvös, kicsi a párolgás, sok folyó ömlik bele, és csak szűk szoroson cserélődik a vize.",
+  "diagram": null,
+  "concepts": ["sótartalom", "beltenger", "földközi tenger", "vízháztartás (párolgás-párologtatás, csapadék, lefolyás)"],
+  "processes": ["viz-korforgasa"],
+  "examTip": "Ha két tenger sótartalmát kell összehasonlítanod, sorold végig a három tényezőt: párolgás, csapadék, hozzáfolyás – és az óceánnal való vízcserét.",
+  "selfCheck": [
+    { "q": "Miért kicsi a Balti-tenger sótartalma?", "a": "Kicsi a párolgás, sok folyó ömlik bele, és csak szűk szorosokon keresztül cserélődik a vize az óceánnal." },
+    { "q": "Miért nagyobb a sótartalom a térítők körül, mint az Egyenlítőnél?", "a": "A térítőknél erős a párolgás és kevés a csapadék, az Egyenlítőnél sok csapadék hígítja a vizet." }
+  ],
+  "trueFalse": [
+    { "statement": "A Vörös-tenger sótartalma nagyobb a világtenger átlagánál.", "true": true },
+    { "statement": "A nagy folyók torkolatánál a tengervíz sótartalma megnő.", "true": false, "correction": "A beömlő édesvíz hígítja a tengervizet, ezért a torkolatoknál a sótartalom csökken." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e3",
+  "explanation": "A tengeráramlások hatását úgy bizonyítod, hogy azonos szélességen fekvő, de eltérő áramlás mellett elhelyezkedő helyeket hasonlítasz össze.\n\nTematikus térképen:\n- A januári izotermák Európa nyugati partjainál erősen észak felé kanyarodnak: az Észak-atlanti-áramlás miatt itt melegebb van, mint a szélességi kör átlaga. Ez pozitív hőmérsékleti anomália.\n- A hideg áramlások mentén (pl. Dél-Amerika nyugati partja) az izotermák az Egyenlítő felé hajlanak: negatív hőmérsékleti anomália.\n- A csapadéktérképen a hideg áramlások mentén keskeny, nagyon száraz partsávok (Atacama, Namíb) látszanak.\n\nÉghajlati diagramon:\n- Nyugat-Európa (pl. Bergen) diagramján a téli középhőmérséklet a fagypont felett van, és egész évben sok a csapadék, míg a hasonló szélességű, hideg áramlás mellett fekvő Labrador-partvidéken hosszú, kemény tél jellemző.\n- Afrika délnyugati partján (Namíb-sivatag) szinte nincs csapadék, a keleti, meleg áramlás menti partvidéken (Durban környéke) bőséges az eső.",
+  "diagram": "climate-chart",
+  "concepts": ["pozitív és negatív hőmérsékleti anomália", "hideg és meleg tengeráramlás", "hűtő-fűtő hatás"],
+  "processes": ["tengeraramlasok"],
+  "examTip": "Bizonyításnál mindig két, hasonló szélességi körön fekvő helyet vess össze, és nevezd meg az áramlást; a diagramról a januári hőmérsékletet és az évi csapadékot olvasd le.",
+  "selfCheck": [
+    { "q": "Mit jelent a pozitív hőmérsékleti anomália?", "a": "Egy hely hőmérséklete magasabb az adott szélességi kör átlagánál." },
+    { "q": "Hogyan jelenik meg a meleg áramlás hatása az izotermatérképen?", "a": "Az izotermák a sarkok felé kanyarodnak a partvidék mentén." }
+  ],
+  "trueFalse": [
+    { "statement": "Nyugat-Európa partjain télen pozitív hőmérsékleti anomália figyelhető meg.", "true": true },
+    { "statement": "A hideg tengeráramlások mentén a partvidék csapadékosabb a szélességi átlagnál.", "true": false, "correction": "A hideg áramlások mentén a levegő stabil, alig esik csapadék; ott partmenti sivatagok (Atacama, Namíb) alakulnak ki." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e4",
+  "explanation": "Az általános légkörzés és az óceáni vízkörzés egymáshoz kapcsolódó rendszerek.\n\nHasonlóságok:\n- mindkettőt a Nap egyenlőtlen felmelegítő hatása hajtja,\n- mindkettő hőt szállít az Egyenlítőtől a sarkok felé, kiegyenlítve az energiakülönbségeket,\n- mindkettőt eltéríti a Föld forgása (északon jobbra, délen balra).\n\nKapcsolatok:\n- a felszíni áramlásokat a szelek hajtják: a passzátszelek nyugat felé tolják a vizet (egyenlítői áramlások), a nyugati szelek kelet felé (pl. a Nyugati szelek áramlása az Antarktisz körül),\n- a tenger hőt és párát ad a légkörnek, így alakítja a légnyomást és a csapadékot.\n\nA mélyben sűrűségkülönbség mozgatja a vizet: a sarkvidéken a hideg, sós víz lesüllyed, és lassú, az egész Földre kiterjedő mélységi vízkörzést indít.\n\nA kapcsolat zavara az El Niño: ha a passzátszél gyengül, a meleg víz Dél-Amerika felé áramlik, a hideg, tápanyagdús víz feláramlása megszűnik Peru partjainál. Következménye: összeomló halászat, perui esőzések, aszály Ausztráliában és Indonéziában.",
+  "diagram": "circulation",
+  "concepts": ["óceáni vízkörzés", "általános légkörzés (nagy földi légkörzés)", "passzátszelek", "El Niño"],
+  "processes": ["altalanos-legkorzes", "tengeraramlasok"],
+  "examTip": "Az El Niño-t mindig ok-okozati láncként írd le: gyengülő passzát → meleg víz kelet felé → leálló feláramlás → halászat összeomlása és csapadék-rendellenességek.",
+  "selfCheck": [
+    { "q": "Mi a közös energiaforrása a légkörzésnek és a vízkörzésnek?", "a": "A Nap egyenlőtlen felmelegítő hatása." },
+    { "q": "Mi hajtja a mélységi vízkörzést?", "a": "A hőmérséklet és a sótartalom okozta sűrűségkülönbség (a sarkvidéki hideg, sós víz lesüllyed)." }
+  ],
+  "trueFalse": [
+    { "statement": "A passzátszelek az egyenlítői tengeráramlásokat nyugati irányba hajtják.", "true": true },
+    { "statement": "El Niño idején erősödik a hideg víz feláramlása Peru partjainál, ezért javul a halászat.", "true": false, "correction": "El Niño idején a feláramlás gyengül vagy megszűnik, a víz felmelegszik, a halállomány és a halászat visszaesik." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k1",
+  "explanation": "A tó a szárazföld zárt mélyedésében (tómedencében) összegyűlt állóvíz. A medence keletkezése szerint két nagy csoport van.\n\nKimélyített tómedence (valami kivájta, besüllyesztette):\n- tektonikus eredetű tó: kéregmozgás, árok, süllyedék (Bajkál-tó, Tanganyika-tó, Holt-tenger; a Balaton medencéje is süllyedéssel jött létre),\n- jégvájta tó: a gleccser mélyítette ki (Finnország, Kanada tavai; magashegységi tengerszemek a Tátrában),\n- szélvájta tó: a szél kifújta a laza üledéket (alföldi szikes tavak),\n- krátertó, kalderató: vulkáni eredetű (Szent Anna-tó, Crater Lake),\n- karsztos tavak: oldódással (poljetó a Dinári-hegységben).\n\nElgátolt tómedence (valami elzárta a víz útját):\n- moréna által elgátolt tó (Garda-tó, Comói-tó),\n- morotvató: a levágott folyókanyarulatból (Tisza holtágai),\n- földcsuszamlás gátolta tó (Gyilkos-tó).\n\nKülön csoport a maradványtó (egykori tenger maradéka: Kaszpi-tenger) és a mesterséges tó (Tisza-tó).",
+  "diagram": null,
+  "concepts": ["kimélyített és elgátolt tómedence", "tektonikus eredetű tó", "jégvájta tó", "morotvató", "krátertó", "maradványtó"],
+  "processes": [],
+  "examTip": "Egy tavat mindig két lépésben sorolj be: kimélyített vagy elgátolt-e, és azon belül mi alakította (tektonika, jég, szél, vulkán, folyó, ember).",
+  "selfCheck": [
+    { "q": "Milyen eredetű a Bajkál-tó?", "a": "Tektonikus eredetű, egy kéregárok mélyedésében keletkezett." },
+    { "q": "Hogyan keletkezik a morotvató?", "a": "A folyó levágja egy kanyarulatát, és a régi meder elzárt része tóvá válik." }
+  ],
+  "trueFalse": [
+    { "statement": "A Kaszpi-tenger maradványtó.", "true": true },
+    { "statement": "A morotvató a kimélyített tómedencék közé tartozik.", "true": false, "correction": "A morotvató elgátolt tómedencében alakul ki: a folyó hordaléka zárja el a levágott kanyarulatot." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k2",
+  "explanation": "A térképes feladatoknál tudnod kell, hol keresd az egyes tótípusokat. Gondolkodj úgy, hogy a tó helye utal a keletkezésére.\n\n- Tektonikus eredetű tó: árkokban, törésvonalak mentén. Bajkál-tó (Kelet-Szibéria), Kelet-afrikai-árok tavai (Tanganyika-, Malawi-tó), Holt-tenger. Hazánkban a Balaton és a Velencei-tó medencéje is süllyedéssel keletkezett.\n- Jégvájta tó: egykor eljegesedett területeken. Finn-tóvidék, Kanada, magashegységi tengerszemek (Tátra).\n- Moréna által elgátolt tó: hegységek előterében, völgyek kijáratánál. Garda-, Comói-tó (Alpok déli előtere).\n- Krátertó, kalderató: vulkáni vidékeken. Szent Anna-tó (Keleti-Kárpátok), Crater Lake (Észak-Amerika).\n- Morotvató: kanyargó folyók mentén, alföldeken. A Tisza holtágai.\n- Szélvájta tó: száraz, laza üledékes síkságokon. Alföldi szikes tavak.\n- Maradványtó: belső lefolyású medencékben. Kaszpi-tenger.\n- Mesterséges tó: völgyzárógátak mögött. Tisza-tó, a Három-szurdok-gát tava (Jangce).\n- Karsztos tó: mészkővidékeken. Poljetavak a Dinári-hegységben.",
+  "diagram": null,
+  "concepts": ["tektonikus eredetű tó", "jégvájta tó", "moréna által elgátolt tó", "krátertó", "szélvájta tó", "mesterséges tó"],
+  "processes": [],
+  "examTip": "A topográfiai listában szereplő tavaknál tanuld meg a keletkezési típust is. Gyakori párosítós feladat: tó neve – típus – elhelyezkedés.",
+  "selfCheck": [
+    { "q": "Hol találsz sok jégvájta tavat Európában?", "a": "Finnországban és Skandináviában, az egykor eljegesedett területeken." },
+    { "q": "Mondj példát krátertóra!", "a": "A Szent Anna-tó a Keleti-Kárpátokban." }
+  ],
+  "trueFalse": [
+    { "statement": "A Garda-tó morénagátas tó az Alpok déli előterében.", "true": true },
+    { "statement": "A Tanganyika-tó jégvájta tó.", "true": false, "correction": "A Tanganyika-tó tektonikus eredetű, a Kelet-afrikai-árokban fekszik." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k3",
+  "explanation": "A tavak földtörténeti léptékben rövid életűek. Pusztulásuknak három fő oka van.\n\n- Feltöltődés: a befolyó vizek hordaléka és az elhalt élőlények (nád, hínár, plankton) maradványai fokozatosan feltöltik a medencét.\n- Lecsapolódás: a tóból kifolyó vízfolyás bevágódik, és egyre mélyebbre csapolja le a tavat.\n- Kiszáradás: ha a párolgás tartósan nagyobb, mint a csapadék és a hozzáfolyás, a tó zsugorodik, vize sósabbá válik.\n\nA feltöltődés szakaszai:\n1. Tó: nagy, nyílt vízfelület.\n2. Fertő: a sekély vizet egyre nagyobb nádas tarkítja, a nyílt víz foltokban marad (Fertő tó).\n3. Mocsár: összefüggő növényzet, csak kisebb vízfoltok, a szerves anyag nem bomlik le teljesen.\n4. Láp: a felhalmozódó, levegőtlen helyen bomló növényi maradványokból tőzeg képződik.\n\nA folyamatot gyorsítja az eutrofizáció: a bemosódó tápanyagok (műtrágya, szennyvíz) miatt elszaporodnak az algák, és sok szerves anyag halmozódik fel.",
+  "diagram": null,
+  "concepts": ["feltöltődés", "lecsapolódás", "kiszáradás", "fertő", "mocsár", "láp"],
+  "processes": ["to-feltoltodese"],
+  "examTip": "A szakaszokat pontos sorrendben kérdezik: tó → fertő → mocsár → láp. Tudd megmondani azt is, hogy melyik szakaszban képződik tőzeg (lápban).",
+  "selfCheck": [
+    { "q": "Mi a lecsapolódás?", "a": "A tóból kifolyó vízfolyás bevágódik, és egyre mélyebbre lecsapolja a tavat." },
+    { "q": "Melyik szakaszban képződik tőzeg?", "a": "A lápban." }
+  ],
+  "trueFalse": [
+    { "statement": "Az eutrofizáció gyorsítja a tavak feltöltődését.", "true": true },
+    { "statement": "A feltöltődés sorrendje: tó, mocsár, fertő, láp.", "true": false, "correction": "A helyes sorrend: tó → fertő → mocsár → láp." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k4",
+  "explanation": "Az ember tavakat hoz létre és pusztít is el.\n\nKeletkezés emberi tevékenységgel:\n- víztározók gátak mögött energiatermelésre, öntözésre, árvízvédelemre (Tisza-tó, Három-szurdok-gát tava, Nasszer-tó),\n- bányatavak: kavics- és homokbányák felhagyott gödrei, külszíni bányák helyén,\n- halastavak, horgásztavak, záportározók.\n\nPusztítás emberi tevékenységgel:\n- Lecsapolás: a 19. században az Ecsedi-lápot és a Hanság nagy részét mezőgazdasági terület nyerése céljából csapolták le.\n- Vízelvonás: az Aral-tó a szovjet korszakban nagyrészt kiszáradt, mert az Amu-Darja és a Szir-Darja vizét gyapotföldek öntözésére vezették el. Visszamaradt sós, poros mederfenék, hanyatló halászat, egészségkárosodás.\n- Gyorsított feltöltődés: erdőirtás és talajerózió miatt több a hordalék.\n- Eutrofizáció: műtrágya és szennyvíz bemosódása. A Balaton vízminősége a 20. század második felében romlott; védelmére épült a Kis-Balaton Vízvédelmi Rendszer, amely a Zala hordalékát és tápanyagait szűri ki.",
+  "diagram": null,
+  "concepts": ["mesterséges tó", "víztározó", "eutrofizáció", "kiszáradás", "feltöltődés"],
+  "processes": ["to-feltoltodese"],
+  "examTip": "Az Aral-tó a vízburok-témakör kedvenc esettanulmánya: ok (öntözés a befolyó folyókból), folyamat (zsugorodás, sósodás), következmények (halászat összeomlása, sóviharok, egészségügyi gondok).",
+  "selfCheck": [
+    { "q": "Miért zsugorodott össze az Aral-tó?", "a": "A befolyó Amu-Darja és Szir-Darja vizét gyapotöntözésre vezették el, így a párolgás meghaladta a hozzáfolyást." },
+    { "q": "Mi a Kis-Balaton Vízvédelmi Rendszer feladata?", "a": "A Zala által szállított hordalék és tápanyagok visszatartása a Balaton védelmében." }
+  ],
+  "trueFalse": [
+    { "statement": "A Tisza-tó mesterséges tó.", "true": true },
+    { "statement": "Az Aral-tó zsugorodását elsősorban a klímaváltozás miatti csapadékcsökkenés okozta.", "true": false, "correction": "A fő ok az emberi vízelvonás: a befolyó folyók vizét öntözésre használták fel." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k5",
+  "explanation": "A tavakat sokféleképpen hasznosítja az ember. A hasznosítási módok gyakran versengenek egymással, ezért összehangolásuk a vízgazdálkodás feladata.\n\n- Ivóvíz- és ipari vízellátás: nagy tavak és víztározók vize tisztítás után (pl. a Balaton vize egyes parti települések ellátásában).\n- Öntözés: elsősorban a víztározók vize (Tisza-tó).\n- Energiatermelés: a gátak mögötti tározók vízerőműveket táplálnak (Három-szurdok-gát).\n- Halászat és haltenyésztés: természetes tavak, halastavak.\n- Hajózás és szállítás: az Észak-amerikai Nagy-tavak a Szent Lőrinc-folyón át az óceánig hajózhatók.\n- Idegenforgalom: fürdés, vitorlázás, horgászat (Balaton, Velencei-tó), gyógyturizmus (Hévízi-tó, Európa legnagyobb természetes gyógytava).\n- Nádgazdálkodás: a Fertő tó nádasai.\n- Természetvédelem, ökoturizmus: madárvédelmi területek (Tisza-tó, Kis-Balaton).\n- Sólepárlás: sós tavakban (Holt-tenger).",
+  "diagram": null,
+  "concepts": ["tó", "víztározó", "halászat", "öntözővíz"],
+  "processes": [],
+  "examTip": "Ne csak felsorold a hasznosítási módokat, hanem mindegyikhez adj konkrét példát; esszékérdésben említsd meg az ütközéseket is (pl. turizmus kontra természetvédelem).",
+  "selfCheck": [
+    { "q": "Mondj példát gyógyturizmusra épülő tóra!", "a": "A Hévízi-tó." },
+    { "q": "Hogyan kapcsolódnak a Nagy-tavak a világtengerhez hajózás szempontjából?", "a": "A Szent Lőrinc-folyón keresztül, így a tengerjáró hajók is elérik a tavakat." }
+  ],
+  "trueFalse": [
+    { "statement": "A Fertő tó nádasait a nádgazdálkodás is hasznosítja.", "true": true },
+    { "statement": "A tavakat kizárólag idegenforgalmi célra hasznosítják.", "true": false, "correction": "A tavakat ivóvíz- és öntözővíz-nyerésre, energiatermelésre, halászatra, hajózásra és természetvédelemre is használják." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k6",
+  "explanation": "A folyók leírásához pontos fogalmak kellenek.\n\n- Vízgyűjtő terület: az a terület, amelynek vize egy folyóba jut (pl. a Duna vízgyűjtője Európa nagy részére kiterjed).\n- Vízválasztó: a szomszédos vízgyűjtőket elválasztó vonal, általában gerinc vagy hát (Európai fő vízválasztó).\n- Főfolyó: tengerbe vagy tóba ömlik (Duna). Mellékfolyó: egy másik folyóba torkollik (Tisza a Dunába, a Szamos a Tiszába).\n- Lefolyásos terület: vize a világtengerbe jut. Belső lefolyású terület: vize nem éri el az óceánt, tóban vagy homokban tűnik el (Kaszpi-tenger és Aral-tó vízgyűjtője, Nagy-medence az USA-ban).\n- Időszakos vízfolyás: csak az esős évszakban van vize (vádi a sivatagokban).\n- Vízállás: a vízfelszín magassága egy vízmércén, cm-ben.\n- Vízhozam: a meder keresztmetszetén időegység alatt átfolyó víz mennyisége, m³/s-ban.\n- Vízjárás: a vízállás és a vízhozam időbeli (évszakos) változása.",
+  "diagram": null,
+  "concepts": ["vízgyűjtő terület", "vízválasztó", "fő- és mellékfolyó", "lefolyásos és belső lefolyású terület", "vízállás", "vízhozam"],
+  "processes": [],
+  "examTip": "A vízállást és a vízhozamot gyakran összekeverik: a vízállás magasság (cm), a vízhozam mennyiség időegység alatt (m³/s). A mértékegységgel azonnal megkülönböztetheted őket.",
+  "selfCheck": [
+    { "q": "Mi a vízhozam mértékegysége?", "a": "m³/s." },
+    { "q": "Mondj példát belső lefolyású területre!", "a": "A Kaszpi-tenger vízgyűjtője (vagy az Aral-tóé, a Nagy-medence)." }
+  ],
+  "trueFalse": [
+    { "statement": "A Tisza a Duna mellékfolyója.", "true": true },
+    { "statement": "A vízjárás a folyó vízállásának egy adott pillanatban mért értéke.", "true": false, "correction": "A vízjárás a vízállás és a vízhozam időbeli változása; az adott pillanatban mért érték a vízállás." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k7",
+  "explanation": "A folyó vízjárását főleg a vízgyűjtő éghajlata szabja meg: mikor, mennyi csapadék hullik, és mikor olvad a hó vagy a jég.\n\n- Egyenlítői éghajlat: egész évben sok eső, kiegyenlített, bővizű folyók (Amazonas, Kongó).\n- Szavanna és monszun: nyári esős évszakban árvíz, a száraz évszakban apadás (a Nílus nyári áradását az etióp-magasföldi esők okozzák; Gangesz).\n- Mediterrán éghajlat: téli bővíz, nyári kisvíz, a kis patakok ki is száradnak.\n- Óceáni éghajlat: kiegyenlített vízjárás, enyhe téli maximum (Temze, Szajna).\n- Kontinentális éghajlat: tavaszi hóolvadásos árvíz, télen befagyás, jégtorlasz (Volga, szibériai folyók).\n- Magashegységi gleccseres vízgyűjtő: nyári maximum a jég- és hóolvadás miatt.\n\nHazai példák:\n- Duna: kora nyári zöldár (alpesi hóolvadás és esők), télen-tavasszal jeges ár, ősszel kisvíz.\n- Tisza: tavaszi árvíz (kárpáti hóolvadás és eső), nyár végi–őszi kisvíz; szeszélyesebb vízjárású a Dunánál.",
+  "diagram": "climate-chart",
+  "concepts": ["vízjárás", "árvíz", "vízhozam"],
+  "processes": ["arviz"],
+  "examTip": "Ha éghajlati diagramot és vízjárási görbét kell összekapcsolnod, keresd meg a csapadékmaximum hónapját, és hideg éghajlatnál a hóolvadás idejét – ehhez igazodik az árhullám.",
+  "selfCheck": [
+    { "q": "Miért kiegyenlített az Amazonas vízjárása?", "a": "Mert vízgyűjtőjén egész évben bőséges a csapadék." },
+    { "q": "Mi okozza a Duna kora nyári zöldárát?", "a": "Az Alpokban olvadó hó és jég, valamint a kora nyári esők." }
+  ],
+  "trueFalse": [
+    { "statement": "A mediterrán éghajlatú területek folyói nyáron apadnak.", "true": true },
+    { "statement": "A kontinentális éghajlatú területek folyóinak árvize jellemzően ősszel jelentkezik.", "true": false, "correction": "Ezeken a területeken a tavaszi hóolvadás okozza a fő árvizet." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--k8",
+  "explanation": "A vízhozam (Q) megmutatja, mennyi víz folyik át a meder keresztmetszetén egy másodperc alatt.\n\nKéplet: Q = A × v\n- A: a meder átfolyási keresztmetszete (m²), egyszerűsítve szélesség × átlagos mélység,\n- v: a víz átlagos sebessége (m/s),\n- Q mértékegysége: m³/s.\n\nPélda:\nA folyó 200 m széles, átlagos mélysége 4 m, a víz sebessége 1,5 m/s.\n- A = 200 m × 4 m = 800 m²\n- Q = 800 m² × 1,5 m/s = 1200 m³/s\n\nHasznos átváltások:\n- km/h → m/s: oszd el 3,6-tal (pl. 5,4 km/h = 1,5 m/s),\n- napi vízmennyiség: szorozd meg 86 400-zal (ennyi másodperc egy nap).\n\nA képletet meg is fordíthatod: ha ismert a vízhozam és a keresztmetszet, v = Q / A; ha a sebesség, A = Q / v.\n\nÁrvízkor a vízállás emelkedik, így nő a keresztmetszet és rendszerint a sebesség is, ezért a vízhozam többszörösére nőhet.",
+  "diagram": null,
+  "concepts": ["vízhozam", "vízállás", "vízjárás"],
+  "processes": ["folyo-munkaja"],
+  "examTip": "A legtöbb pontot a mértékegységeken veszítik: mindent válts át méterre és másodpercre, mielőtt szorzol, és a végeredményhez írd oda: m³/s.",
+  "selfCheck": [
+    { "q": "Mennyi a vízhozam, ha a meder 50 m széles, átlagosan 2 m mély, a víz 1 m/s sebességű?", "a": "A = 100 m², Q = 100 m³/s." },
+    { "q": "Hogyan számolod ki a sebességet, ha ismert a vízhozam és a keresztmetszet?", "a": "v = Q / A." }
+  ],
+  "trueFalse": [
+    { "statement": "A vízhozam a keresztmetszet és az átlagos vízsebesség szorzata.", "true": true },
+    { "statement": "A vízhozam mértékegysége a centiméter.", "true": false, "correction": "Centiméterben a vízállást adjuk meg; a vízhozam mértékegysége m³/s." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-2-a-felszini-vizek--e1",
+  "explanation": "Térképen vagy műholdfelvételen a tó helye, alakja és mélysége árulkodik a keletkezéséről.\n\n- Hosszú, keskeny, nagyon mély tó törésvonal mentén: tektonikus eredetű (Bajkál-tó, a Föld legmélyebb tava; Tanganyika-tó).\n- Kicsi, kerek, viszonylag mély tó vulkáni kúp tetején: krátertó; nagy, kerek, mély medence beszakadt vulkán helyén: kalderató.\n- Sok apró, szabálytalan, sziklás partú tó egykor eljegesedett, lekoptatott területen: jégvájta tavak (Finnország, Kanada).\n- Hosszú, völgyben fekvő tó, alsó végén ív alakú dombsorral: moréna által elgátolt tó (Garda-tó).\n- Patkó vagy félhold alakú, sekély tó kanyargó folyó mellett: morotvató.\n- Sekély, ovális tó sík, laza üledékes vidéken, a szélirányhoz igazodva: szélvájta tó.\n- Hatalmas, sós, belső lefolyású víztömeg: maradványtó (Kaszpi-tenger).\n- Egyenes gátfal, mögötte elágazó, a völgyek mintázatát követő vízfelület: mesterséges tó.\n- Kis, kerek tó mészkővidéken: karsztos eredetű.",
+  "diagram": null,
+  "concepts": ["tektonikus eredetű tó", "krátertó", "kalderató", "jégvájta tó", "morotvató", "mesterséges tó"],
+  "processes": [],
+  "examTip": "Indoklásnál mindig nevezz meg legalább két bizonyítékot (alak és környezet, vagy mélység és környezet); egyetlen jellemző ritkán ér teljes pontot.",
+  "selfCheck": [
+    { "q": "Milyen tóra utal egy patkó alakú, sekély tó egy kanyargó folyó mellett?", "a": "Morotvatóra." },
+    { "q": "Milyen tóra utal az egyenes gátfal mögötti, elágazó vízfelület?", "a": "Mesterséges tóra (víztározóra)." }
+  ],
+  "trueFalse": [
+    { "statement": "A hosszú, keskeny és nagyon mély tavak gyakran tektonikus eredetűek.", "true": true },
+    { "statement": "A szélvájta tavak jellemzően mélyek és sziklás partúak.", "true": false, "correction": "A szélvájta tavak sekélyek, laza üledékes síkságon alakulnak ki; a sziklás partú tavak inkább jégvájta tavak." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-3-a-felszin-alatti-vizek--k1",
+  "explanation": "A felszíni és a felszín alatti vizek állandó kapcsolatban vannak: egymást táplálják.\n\nA felszínről a mélybe:\n- a csapadék egy része beszivárog, és talajvizet, rétegvizet, karsztvizet táplál,\n- áradáskor a folyó vize a parti üledékekbe szivárog, és megemeli a part menti talajvizet,\n- a tavak és víztározók is szivárgással adnak vizet a környezetüknek.\n\nA mélyből a felszínre:\n- a forrásokból a felszín alatti víz patakokat, folyókat táplál (karsztforrás: Tapolca),\n- kisvízkor a folyót szinte csak a beléje szivárgó talajvíz táplálja,\n- ha a talajvíz a felszínig emelkedik, belvíz alakul ki (Alföld, tavaszi hóolvadás után).\n\nGyakorlati jelentőség: a folyók menti kavicsrétegben a folyóvíz megszűrődik (parti szűrés), ezért ad Budapestnek jó ivóvizet a Szentendrei-sziget. Ha a felszín alatti vizet túlzottan kitermelik, a tavak, patakok is kiszáradhatnak (a Homokhátság tavai).",
+  "diagram": "water-cycle",
+  "concepts": ["felszín alatti víz", "talajvíz", "forrás", "belvíz", "karsztvíz"],
+  "processes": ["viz-korforgasa"],
+  "examTip": "Írj mindkét irányra példát: felszíni → felszín alatti (beszivárgás, áradáskor a folyó tölti a talajvizet) és felszín alatti → felszíni (forrás, belvíz, kisvízkori táplálás).",
+  "selfCheck": [
+    { "q": "Mi táplálja a folyót tartós szárazság idején?", "a": "A beléje szivárgó talajvíz és a források." },
+    { "q": "Mikor alakul ki belvíz?", "a": "Ha a talajvíz a felszínig emelkedik, vagy a víz nem tud elszivárogni (pl. hóolvadáskor fagyott talajon)." }
+  ],
+  "trueFalse": [
+    { "statement": "Árvízkor a folyó vize megemelheti a part menti talajvíz szintjét.", "true": true },
+    { "statement": "A belvíz a folyó gátjain átbukó víz.", "true": false, "correction": "A belvíz a mélyebb fekvésű területeken a felszínre jutó talajvíz és a meg nem szivárgó csapadék; a gátakon átbukó víz árvíz." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-3-a-felszin-alatti-vizek--k2",
+  "explanation": "A felszín alatti víz főleg a csapadék beszivárgásából keletkezik. A beszivárgás mértéke függ a csapadék mennyiségétől és hevességétől, a párolgástól, a kőzet áteresztőképességétől, a lejtéstől és a növényzettől.\n\nA kőzetek szerint vannak víztartó (homok, kavics, repedezett mészkő) és vízfogó (agyag) rétegek. A felszín alatti vizek típusai:\n- talajnedvesség: a talaj pórusaiban, a növények ezt használják,\n- talajvíz: az első vízfogó réteg felett; szintje a csapadékkal és a párolgással évszakosan ingadozik, ásott kúttal érhető el,\n- rétegvíz: két vízfogó réteg között, gyakran nyomás alatt; ha magától a felszínre tör, artézi víz (artézi kút, Alföld),\n- résvíz: tömör kőzetek (gránit) repedéseiben,\n- karsztvíz: mészkő oldott járataiban, karsztforrásokban lép a felszínre.\n\nMozgása: a gravitáció hatására lassan szivárog a lejtés irányába, a mélyebb pontok, források, folyók felé.",
+  "diagram": null,
+  "concepts": ["vízfogó és víztartó kőzetréteg", "talajnedvesség", "talajvíz", "artézi víz", "résvíz", "karsztvíz"],
+  "processes": ["viz-korforgasa"],
+  "examTip": "Keresztmetszeti ábrán azonosítsd a vízfogó rétegeket: a talajvíz az első vízfogó felett, a rétegvíz két vízfogó között helyezkedik el.",
+  "selfCheck": [
+    { "q": "Miért ingadozik a talajvíz szintje?", "a": "Mert közel van a felszínhez, így közvetlenül hat rá a csapadék és a párolgás." },
+    { "q": "Mi az artézi víz?", "a": "Két vízfogó réteg közötti, nyomás alatti rétegvíz, amely fúráskor magától a felszínre tör." }
+  ],
+  "trueFalse": [
+    { "statement": "Az agyag vízfogó kőzetréteg.", "true": true },
+    { "statement": "A talajvíz két vízfogó réteg között helyezkedik el.", "true": false, "correction": "A talajvíz az első vízfogó réteg felett van; a két vízfogó réteg közötti víz a rétegvíz." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-3-a-felszin-alatti-vizek--e1",
+  "explanation": "A geotermikus gradiens megmutatja, mennyivel emelkedik a hőmérséklet a mélység felé. Átlagosan kb. 3 °C-kal nő 100 méterenként.\n\nMagyarországon a földkéreg vékonyabb az átlagnál, ezért a Föld belső hője közelebb van a felszínhez: a hőmérséklet kb. 5 °C-kal nő 100 méterenként. Ezért hazánk felszín alatti vizei között sok a meleg víz.\n\nPélda számítás: ha a felszíni évi középhőmérséklet 11 °C, akkor 1000 m mélyen:\n11 °C + 10 × 5 °C = kb. 61 °C-os vizet várhatunk.\n\nA mélyben felmelegedő víz:\n- hévíz, ha 30 °C-nál melegebb (Hajdúszoboszló, Zalakaros),\n- gyakran ásványi anyagokat old: ásványvíz, és ha gyógyhatása igazolt, gyógyvíz (Hévízi-tó, budapesti gyógyfürdők).\n\nHasznosítás: gyógyfürdők, termálturizmus, épületek és üvegházak fűtése (Szentes), geotermikus energia. Vulkáni területeken (Izland) a víz forrón, gőzként tör fel: gejzír.",
+  "diagram": null,
+  "concepts": ["geotermikus gradiens", "hévíz", "gyógyvíz", "ásványvíz", "gejzír"],
+  "processes": [],
+  "examTip": "Számolós feladatnál ne felejtsd el hozzáadni a felszíni hőmérsékletet a mélységgel járó növekményhez, és figyelj, hogy a gradiens 100 m-re vagy 1 km-re van-e megadva.",
+  "selfCheck": [
+    { "q": "Miért nagyobb a geotermikus gradiens Magyarországon az átlagnál?", "a": "Mert a Pannon-medencében vékony a földkéreg, így a belső hő közelebb van a felszínhez." },
+    { "q": "Hány fokos lesz a víz 2000 m mélyen, ha a felszín 10 °C és a gradiens 5 °C/100 m?", "a": "10 + 20 × 5 = 110 °C." }
+  ],
+  "trueFalse": [
+    { "statement": "A hévíz 30 °C-nál melegebb felszín alatti víz.", "true": true },
+    { "statement": "Magyarországon a geotermikus gradiens kisebb a világátlagnál.", "true": false, "correction": "Hazánkban a vékony kéreg miatt nagyobb (kb. 5 °C/100 m), mint az átlag (kb. 3 °C/100 m)." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k1",
+  "explanation": "A vízgazdálkodás a vízkészletek feltárásával, hasznosításával, védelmével és a víz okozta károk elhárításával foglalkozik.\n\nFő feladatai:\n- vízellátás: ivóvíz, ipari víz, öntözővíz biztosítása,\n- szennyvíz elvezetése és tisztítása,\n- vízminőség-védelem,\n- víztározás, folyószabályozás, vízi utak fenntartása,\n- ár- és belvízvédelem.\n\nÁrvízvédelem:\n- az árvízvédelmi gátak a folyó és a gát közti hullámtérre szorítják az árhullámot, a gát mögötti ármentesített terület (mentesített ártér) így lakható és művelhető,\n- vésztározókba vezetik az árhullám csúcsát (Tisza mentén: Cigándi-tározó),\n- folyamatos megfigyelés, előrejelzés és gátvédelem.\n\nBelvízvédelem:\n- belvízcsatornák hálózata vezeti el a felszínen álló vizet, szivattyútelepek emelik át a gáton a folyóba,\n- különösen fontos az Alföldön, ahol sík a felszín és sok a vízzáró, agyagos talaj.\n\nMagyarország medencefekvése miatt különösen veszélyeztetett: a folyók gyorsan érkező árhullámai sík területen terülnének szét.",
+  "diagram": null,
+  "concepts": ["vízgazdálkodás", "ár- és belvízvédelem", "árvízvédelmi gát", "hullámtér", "ármentesített terület (mentesített ártér)", "vésztározó"],
+  "processes": ["arviz"],
+  "examTip": "Ábrán tudd elhelyezni: folyómeder – hullámtér – gát – ármentesített terület. A hullámtér a gát folyó felőli oldalán van!",
+  "selfCheck": [
+    { "q": "Mi a vésztározó szerepe?", "a": "Az árhullám csúcsát vezetik bele, így csökken a vízszint a folyóban, és kisebb a gátszakadás veszélye." },
+    { "q": "Hogyan vezetik el a belvizet?", "a": "Belvízcsatornákkal, és szivattyútelepekkel emelik át a gáton a folyóba." }
+  ],
+  "trueFalse": [
+    { "statement": "A hullámtér a folyó és az árvízvédelmi gát közötti terület.", "true": true },
+    { "statement": "Az ármentesített terület a gát folyó felőli oldalán található.", "true": false, "correction": "Az ármentesített terület a gát mögött, a folyótól távolabbi oldalon van; a folyó felőli oldalon a hullámtér található." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k2",
+  "explanation": "A vízburokhoz kapcsolódó veszélyhelyzetek többnyire természeti folyamatok és emberi hatások együtteséből alakulnak ki.\n\n- Árvíz: hirtelen hóolvadás nagy esőzéssel, fagyott talaj, jégtorlasz; súlyosbítja az erdőirtás, a hullámtér feltöltődése, beépítése és a szűk gátak közé szorított meder.\n- Villámáradás: kis vízgyűjtőn, meredek lejtőkön hirtelen lehulló heves zápor; órák alatt zúdul le a víz (Mátrakeresztes, 1999).\n- Belvíz: magas talajvíz, vízzáró talaj, sík felszín, nagy csapadék vagy hóolvadás fagyott talajon.\n- Vihardagály: viharos szél a part felé tolja a vizet, és ha egybeesik a dagállyal, elönti az alacsony partot (Hollandia, 1953).\n- Cunami: tenger alatti földrengés vagy vulkánkitörés okozta óriáshullám (Indiai-óceán, 2004; Japán, 2011).\n- Aszály, vízhiány: tartós csapadékhiány, nagy párolgás, túlzott vízkivétel.\n- Vízszennyezés: ipari baleset vagy szennyvíz (ciánszennyezés a Tiszán, 2000; vörösiszap-katasztrófa, Kolontár, 2010).",
+  "diagram": null,
+  "concepts": ["árvíz", "villámáradás", "belvíz", "vihardagály", "vízszennyező források"],
+  "processes": ["arviz", "foldrenges-cunami"],
+  "examTip": "Ha egy árvíz kialakulását kell magyaráznod, különítsd el a természeti okokat (hóolvadás, csapadék, fagyott talaj) és az emberi okokat (erdőirtás, beépítés, hullámtér feltöltődése).",
+  "selfCheck": [
+    { "q": "Miért veszélyes a fagyott talajra hulló eső?", "a": "Mert nem tud beszivárogni, így gyorsan lefolyik, és árvizet vagy belvizet okoz." },
+    { "q": "Mi a különbség az árvíz és a villámáradás között?", "a": "A villámáradás kis vízgyűjtőn, hirtelen, heves zápor után órák alatt alakul ki; a nagy folyók árvize lassabban vonul le." }
+  ],
+  "trueFalse": [
+    { "statement": "A vihardagály veszélye akkor a legnagyobb, ha a viharos szél dagállyal esik egybe.", "true": true },
+    { "statement": "A cunamit a tartós, erős szél kelti.", "true": false, "correction": "A cunamit tenger alatti földrengés vagy vulkánkitörés indítja el; a szél a hullámzást és a vihardagályt okozza." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k3",
+  "explanation": "A vízzel kapcsolatos veszélyeket nem lehet teljesen megszüntetni, de jelentősen mérsékelhetők.\n\nÁrvíz ellen:\n- gátak magasítása, erősítése, rendszeres ellenőrzése,\n- vésztározók és árapasztó tározók építése (Vásárhelyi-terv továbbfejlesztése a Tiszán),\n- a hullámtér rendben tartása, a lefolyást akadályozó növényzet és építmények eltávolítása,\n- erdősítés a vízgyűjtőn, hogy a víz lassabban folyjon le,\n- a veszélyeztetett területek beépítésének tiltása.\n\nBelvíz ellen: csatornahálózat, szivattyútelepek, a víz helyben tartása tározókban (később öntözésre használható).\n\nTengerparton: gátak és polderek (Hollandia, Delta-terv az 1953-as vihardagály után), cunami-előrejelző rendszer, menekülési útvonalak.\n\nAszály ellen: víztározók, takarékos öntözés, a víz tájban tartása.\n\nVízszennyezés ellen: szennyvíztisztítás, ipari biztonsági előírások, folyamatos vízminőség-mérés.\n\nMindegyiknél fontos a pontos előrejelzés, a riasztás és a lakosság felkészítése; a határokon átnyúló folyóknál pedig a nemzetközi együttműködés.",
+  "diagram": null,
+  "concepts": ["ár- és belvízvédelem", "vésztározó", "polder", "árvízvédelmi gát", "szennyvíztisztítás"],
+  "processes": ["arviz"],
+  "examTip": "Esszében csoportosíts: műszaki (gát, tározó, csatorna), tájhasználati (erdősítés, beépítési tilalom) és szervezési megoldások (előrejelzés, riasztás, nemzetközi együttműködés).",
+  "selfCheck": [
+    { "q": "Hogyan segít az erdősítés az árvizek mérséklésében?", "a": "A növényzet és a talaj visszatartja a vizet, lassítja a lefolyást, így laposabb az árhullám." },
+    { "q": "Mi a polder?", "a": "Gátakkal védett, a tenger vagy a folyó szintje alatt fekvő, lecsapolással nyert terület (Hollandia)." }
+  ],
+  "trueFalse": [
+    { "statement": "A vésztározók az árhullám csúcsának csökkentését szolgálják.", "true": true },
+    { "statement": "A gátak folyamatos magasítása önmagában minden árvízveszélyt megszüntet.", "true": false, "correction": "A gátmagasítás nem elég: szükség van tározókra, a hullámtér rendezésére, a vízgyűjtő erdősítésére és előrejelzésre is." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k4",
+  "explanation": "Kommunális (települési) vízellátás:\n- lehetőség: források, kutak, parti szűrésű víz (Budapest), tisztított felszíni víz,\n- korlát: szennyeződő készletek, költséges hálózat; gond a közműolló: a vízvezeték-hálózat jobban kiépült, mint a csatornahálózat, így a szennyvíz a talajba juthat.\n\nIpari vízellátás:\n- lehetőség: főleg felszíni víz, hűtővíz (a Paksi Atomerőmű a Dunából hűt), technológiai víz,\n- korlát: felmelegedett, szennyezett vizet bocsáthat vissza; megoldás a vízforgatás.\n\nÖntözés:\n- lehetőség: a mezőgazdaság a legnagyobb vízfelhasználó, száraz területeken nélküle nincs biztos termés (Nílus-völgy, Közép-Ázsia),\n- korlát: vízhiány, másodlagos szikesedés, a tavak és folyók kiürülése (Aral-tó).\n\nVízenergia:\n- lehetőség: megújuló, olcsón termelő, szabályozható; nagy esés és vízhozam kell (Norvégia, Három-szurdok-gát, a világ legnagyobb teljesítményű vízerőműve),\n- korlát: síkvidéken kicsi az esés (Magyarországon kis teljesítményű erőművek: Kisköre, Tiszalök), a gátak ökológiai, társadalmi hatásai.",
+  "diagram": null,
+  "concepts": ["ivóvíz", "ipari víz", "öntözővíz", "közműolló", "vízforgatás", "megújuló és nem megújuló energiaforrások"],
+  "processes": [],
+  "examTip": "Mindegyik hasznosításhoz írj egy lehetőséget, egy korlátot és egy példát. A közműolló jelentését gyakran kérdezik!",
+  "selfCheck": [
+    { "q": "Mit jelent a közműolló?", "a": "A vízvezeték-hálózat kiépültsége meghaladja a csatornahálózatét, így a szennyvíz egy része tisztítatlanul a talajba kerül." },
+    { "q": "Miért kicsi Magyarország vízenergia-potenciálja?", "a": "Mert síkvidéki folyóink esése kicsi." }
+  ],
+  "trueFalse": [
+    { "statement": "A világon a mezőgazdasági öntözés használja fel a legtöbb vizet.", "true": true },
+    { "statement": "A vízenergia nem megújuló energiaforrás.", "true": false, "correction": "A vízenergia megújuló, mert a víz körforgása folyamatosan pótolja." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k5",
+  "explanation": "A mesterséges tavak (víztározók) létrehozása mindig mérlegelést kíván.\n\nElőnyök:\n- villamosenergia-termelés vízerőművel,\n- árvízvédelem, a vízjárás kiegyenlítése,\n- öntözővíz és ivóvíz tárolása,\n- jobb hajózhatóság,\n- halászat, idegenforgalom, új élőhelyek (Tisza-tó: madárvilág, ökoturizmus).\n\nHátrányok:\n- elárasztott települések, termőföldek, kitelepítés (a Három-szurdok-gát miatt több mint egymillió embert telepítettek ki),\n- a gát visszatartja a hordalékot: a tározó feltöltődik, lejjebb a meder bevágódik, a delta pusztulni kezd (Asszuáni-gát: elmarad a Nílus termékeny iszapja, nő a műtrágyaigény, a Nílus-delta partja pusztul),\n- nagy párolgási veszteség forró éghajlaton (Nasszer-tó),\n- a halak vándorlásának akadályozása, az élővilág átalakulása,\n- gátszakadás veszélye.\n\nVéleményalkotásnál vedd figyelembe a helyi adottságokat: hegyvidéken, kis népsűrűségű helyen kisebb a kár, sűrűn lakott völgyben nagyobb. A jó érvelés mindkét oldalt bemutatja, és indokolt döntéssel zárul.",
+  "diagram": null,
+  "concepts": ["mesterséges tó", "víztározó", "feltöltődés", "deltatorkolat"],
+  "processes": ["folyo-munkaja"],
+  "examTip": "Vélemény típusú feladatnál nem elég az álláspont: legalább két előnyt és két hátrányt kell konkrét példával alátámasztanod, és a végén mérlegelve döntened.",
+  "selfCheck": [
+    { "q": "Miért pusztul a Nílus-delta az Asszuáni-gát megépítése óta?", "a": "Mert a gát visszatartja a hordalékot, így nem pótlódik a delta anyaga, a tenger pedig pusztítja a partot." },
+    { "q": "Mondj két előnyt a víztározók mellett!", "a": "Pl. villamosenergia-termelés és árvízvédelem (vagy öntözés, hajózás, turizmus)." }
+  ],
+  "trueFalse": [
+    { "statement": "A víztározók visszatartják a folyó hordalékát.", "true": true },
+    { "statement": "A víztározóknak nincs hatásuk a folyó alsóbb szakaszára.", "true": false, "correction": "A hordalék visszatartása miatt alul bevágódik a meder, a delta pusztulhat, és megváltozik a vízjárás." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k6",
+  "explanation": "A vízi szállítás két fő formája a belvízi és a tengerhajózás.\n\nElőnyök:\n- egységnyi árura a legolcsóbb szállítási mód, főleg nagy tömegű, nem romlandó áruknál (érc, szén, gabona, kőolaj, konténer),\n- kis energiaigény, egységnyi árura kisebb környezetterhelés,\n- nagy távolságra, nagy mennyiséget szállít.\n\nHátrányok:\n- lassú,\n- kötött útvonal: csak hajózható vízen és kikötők között, ezért gyakran át kell rakodni,\n- függ az időjárástól és a vízállástól (alacsony vízállás, jégzajlás a Dunán),\n- balesetnél súlyos szennyezés (olajszállító hajók).\n\nFontos elemek:\n- tengerhajózás: a világkereskedelem gerince, konténerhajók; nagy kikötők: Rotterdam (Európa legnagyobb kikötője), Sanghaj,\n- csatornák lerövidítik az utat: Szuezi- és Panama-csatorna,\n- belvízi hajózás: Rajna (Európa legforgalmasabb vízi útja), Duna; a Rajna–Majna–Duna-csatorna köti össze az Északi-tengert a Fekete-tengerrel.\n\nMagyarországon a vízi szállítás aránya kicsi, mert a Duna hajózhatósága a vízállástól függ.",
+  "diagram": null,
+  "concepts": ["belvízi és tengerhajózás", "szállítás"],
+  "processes": [],
+  "examTip": "Összehasonlító kérdésnél (pl. vasút–hajó) mindig említsd a sebességet, a költséget, a szállítható tömeget és a hálózat kötöttségét.",
+  "selfCheck": [
+    { "q": "Milyen áruk szállítására előnyös a hajó?", "a": "Nagy tömegű, nem romlandó áruk szállítására (érc, szén, gabona, kőolaj, konténer)." },
+    { "q": "Mely tengereket köti össze a Rajna–Majna–Duna-csatorna?", "a": "Az Északi-tengert (Rajna) a Fekete-tengerrel (Duna)." }
+  ],
+  "trueFalse": [
+    { "statement": "A vízi szállítás egységnyi árura olcsó, de lassú.", "true": true },
+    { "statement": "A belvízi hajózás független a folyó vízállásától.", "true": false, "correction": "Alacsony vízálláskor vagy jégzajláskor a hajózás korlátozott vagy szünetel." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k7",
+  "explanation": "A víz az idegenforgalom egyik legfontosabb vonzereje.\n\nHazai példák:\n- vízparti üdülés, vitorlázás, horgászat: Balaton, Velencei-tó, Tisza-tó (ökoturizmus, madármegfigyelés),\n- gyógy- és termálturizmus a hévizekre és gyógyvizekre építve: Hévízi-tó, Hajdúszoboszló, Bük, Zalakaros, Budapest gyógyfürdői (Széchenyi, Gellért),\n- vízitúrázás: Tisza, Bodrog, Duna; folyami sétahajózás a Duna-kanyarban.\n\nNemzetközi példák:\n- tengerparti üdülés: mediterrán partok (Adria, Costa Brava), Karib-tenger szigetei,\n- búvárturizmus korallzátonyoknál: Nagy-korallzátony, Vörös-tenger, Maldív-szigetek,\n- természeti látványosságok: Niagara-vízesés, izlandi gejzírek,\n- folyami hajóutak a Dunán és a Rajnán, kikötővárosok (Velence),\n- gyógyturizmus: Holt-tenger.\n\nKorlátok és veszélyek: szezonalitás, tömegturizmus, partok beépítése, szennyezés, a korallzátonyok károsodása. Ezért egyre fontosabb a fenntartható, kíméletes turizmus.",
+  "diagram": null,
+  "concepts": ["hévíz", "gyógyvíz", "tó"],
+  "processes": [],
+  "examTip": "A hazai termál- és gyógyturizmust kösd össze a magas geotermikus gradienssel: ez magyarázza, miért ilyen gazdag Magyarország termálvizekben.",
+  "selfCheck": [
+    { "q": "Miért jelentős Magyarországon a termálturizmus?", "a": "A vékony kéreg miatt nagy a geotermikus gradiens, ezért sok a hévíz és a gyógyvíz." },
+    { "q": "Mondj nemzetközi példát búvárturizmusra!", "a": "A Nagy-korallzátony (Ausztrália) vagy a Vörös-tenger." }
+  ],
+  "trueFalse": [
+    { "statement": "A Hévízi-tó a gyógyturizmus egyik központja.", "true": true },
+    { "statement": "A vízparti turizmus nem gyakorol hatást a környezetre.", "true": false, "correction": "A tömegturizmus partbeépítéssel, szennyezéssel és az élővilág (pl. korallzátonyok) károsításával jár." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k8",
+  "explanation": "A világtenger és a tengerpartok sokféle erőforrást kínálnak.\n\n- Élelem: halászat, tenger gyümölcsei, akvakultúra (Norvégia lazactenyésztése). Veszély: a túlhalászás miatt sok halállomány csökken.\n- Ásványkincsek: kőolaj és földgáz a szárazföldi talapzaton (Északi-tenger, Mexikói-öböl, Perzsa-öböl); a mélytengeri ércgumók jövőbeli tartalékot jelentenek.\n- Só: tengervízből lepárlással, meleg, száraz partokon.\n- Ivóvíz: sótalanítással a száraz országokban.\n- Energia: árapály-erőmű (Rance, Franciaország), tengeri szélerőműparkok (Északi-tenger), hullámenergia.\n- Szállítás: a világkereskedelem túlnyomó része tengeren halad; a tengerpartokon kikötők, kikötői ipar (kőolaj-finomítók, kohászat) települ.\n- Turizmus: tengerparti üdülés.\n\nA tengeri erőforrásokért versengenek az államok: a partmenti országok a parttól 200 tengeri mérföldig terjedő kizárólagos gazdasági övezetben rendelkeznek a halászattal és a bányászattal.\n\nKörnyezeti kockázat: olajszennyezés (fúrótorony- és tankhajóbalesetek), műanyagszennyezés.",
+  "diagram": null,
+  "concepts": ["halászat", "túlhalászás", "szárazföldi talapzat (self)", "kőolaj", "belvízi és tengerhajózás"],
+  "processes": [],
+  "examTip": "Csoportosítsd az erőforrásokat: élő (hal), ásványi (kőolaj, földgáz, só), energetikai (árapály, szél) és helyzeti (szállítás, turizmus) – így egyetlen típus sem marad ki.",
+  "selfCheck": [
+    { "q": "Hol termelnek kőolajat a tengerfenékből? Mondj példát!", "a": "Az Északi-tengeren, a Mexikói-öbölben vagy a Perzsa-öbölben, a szárazföldi talapzaton." },
+    { "q": "Mi a túlhalászás?", "a": "Ha több halat fognak ki, mint amennyi szaporodással pótlódik, így a halállomány csökken." }
+  ],
+  "trueFalse": [
+    { "statement": "A tengeri kőolaj- és földgáztermelés nagy része a szárazföldi talapzaton folyik.", "true": true },
+    { "statement": "A tengeri halállomány korlátlanul kiaknázható.", "true": false, "correction": "A halállomány csak a szaporodás mértékéig hasznosítható fenntarthatóan; a túlhalászás állományok összeomlásához vezethet." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e1",
+  "explanation": "A folyószabályozás a meder és a vízjárás tudatos átalakítása árvízvédelem, hajózás és mezőgazdasági terület nyerése céljából.\n\nEszközei:\n- kanyarulatok átvágása: rövidebb, gyorsabb folyású meder,\n- árvízvédelmi gátak (töltések) a hullámtér határán,\n- sarkantyúk, terelőművek, partbiztosítás kőszórással a meder megkötésére,\n- kotrás a hajóút mélyítésére,\n- duzzasztóművek és zsilipek a hajózható vízmélység biztosítására.\n\nA Tisza szabályozása:\n- Széchenyi István kezdeményezésére, Vásárhelyi Pál tervei alapján kezdődött 1846-ban,\n- a kanyarulatok átvágásával a folyó jelentősen, közel harmadával rövidült,\n- a gátak mögötti ártér művelhetővé, lakhatóvá vált; az Alföld mezőgazdasága és települései fejlődtek.\n\nKedvezőtlen következmények:\n- a szűk hullámtéren magasabbra emelkednek az árvizek,\n- csökkent a talajvíz szintje, eltűntek a vizes élőhelyek, az ártéri gazdálkodás,\n- erősödött a szikesedés és az aszályérzékenység.\n\nMa ezért a gátak erősítése mellett a víz visszatartására, tározókra és a hullámtér rendezésére is szükség van.",
+  "diagram": "river",
+  "concepts": ["folyószabályozás", "árvízvédelmi gát", "hullámtér", "ármentesített terület (mentesített ártér)", "morotvató"],
+  "processes": ["folyo-munkaja", "arviz"],
+  "examTip": "A Tisza-szabályozásnál a vizsgán a pozitív és a negatív következményeket is várják. A kanyarulat-átvágások nyomán keletkezett holtágakat (morotvatavak) is említsd meg!",
+  "selfCheck": [
+    { "q": "Ki tervezte a Tisza szabályozását?", "a": "Vásárhelyi Pál, Széchenyi István kezdeményezésére." },
+    { "q": "Miért emelkedtek magasabbra a szabályozás utáni árvizek?", "a": "Mert a gátak keskeny hullámtérre szorították a vizet, így ugyanaz a vízmennyiség magasabb vízállással vonul le." }
+  ],
+  "trueFalse": [
+    { "statement": "A kanyarulatok átvágásával a folyó hossza csökken, esése nő.", "true": true },
+    { "statement": "A folyószabályozásnak csak kedvező hatásai voltak.", "true": false, "correction": "Kedvezőtlen hatásai is vannak: magasabb árvízszintek, talajvízszint-süllyedés, a vizes élőhelyek eltűnése." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e2",
+  "explanation": "Az ivóvíz és az ipari víz kinyerése a minőségi követelményekben tér el.\n\nIvóvíz – szigorú egészségügyi követelmények:\n- elsősorban felszín alatti vízből (rétegvíz, karsztvíz, parti szűrésű víz) nyerik, mert az természetesen szűrt és jobban védett; Magyarországon az ivóvíz túlnyomó része felszín alatti eredetű,\n- ásott kút: a talajvizet éri el, könnyen szennyeződik (nitrátosodás a trágyázás és a szikkasztott szennyvíz miatt),\n- fúrt kút: mélyebb rétegvizet ér el, tisztább,\n- csápos kút: folyó menti kavicsrétegben vízszintes csápokkal gyűjti a parti szűrésű vizet (Budapest, Szentendrei-sziget),\n- felszíni víz csak alapos tisztítás után; száraz vidékeken sótalanítás.\n\nIpari víz – kisebb minőségi igény:\n- főleg folyókból, tavakból nyerik, egyszerű kezeléssel (hűtővíz: Paksi Atomerőmű, Duna),\n- tisztított szennyvíz is használható,\n- a vízforgatás (ugyanazt a vizet többször felhasználják) csökkenti a vízkivételt és a szennyezést.\n\nA lényeg: a jó minőségű felszín alatti vizet ivóvízre kell tartogatni, az ipar igényét felszíni vízzel és vízforgatással kell kielégíteni.",
+  "diagram": null,
+  "concepts": ["ivóvíz", "ipari víz", "ásott kút", "fúrt kút", "csápos kút", "vízforgatás"],
+  "processes": [],
+  "examTip": "Tudd a kúttípusokat a vízféleségekhez kötni: ásott kút – talajvíz, fúrt kút – rétegvíz, csápos kút – parti szűrésű víz.",
+  "selfCheck": [
+    { "q": "Miért szennyeződik könnyen az ásott kút vize?", "a": "Mert a felszínhez közeli talajvizet éri el, ide könnyen bemosódik a trágya és a szennyvíz (nitrátosodás)." },
+    { "q": "Mi a vízforgatás?", "a": "Az ipari víz ismételt felhasználása, ami csökkenti a vízkivételt és a szennyvíz mennyiségét." }
+  ],
+  "trueFalse": [
+    { "statement": "A csápos kút parti szűrésű vizet gyűjt.", "true": true },
+    { "statement": "Ipari célra kizárólag ivóvíz minőségű víz használható.", "true": false, "correction": "Az ipar többnyire kisebb minőségű, felszíni vagy tisztított vizet is használhat; a jó minőségű vizet az ivóvízellátásra kell tartogatni." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e3",
+  "explanation": "A Föld édesvízkészlete véges és egyenlőtlenül oszlik el. A fenntartható vízgazdálkodás célja, hogy a mai igények kielégítése ne veszélyeztesse a jövő generációk vízellátását.\n\nAlapelvek és eszközök:\n- Ne termeljünk ki több vizet, mint amennyi megújul: a túlzott kitermelés miatt süllyed a talajvíz (Duna–Tisza közi Homokhátság).\n- Takarékos vízhasználat: csepegtető öntözés, víztakarékos háztartási eszközök, a hálózati veszteség csökkentése.\n- Vízforgatás az iparban.\n- Szennyvíztisztítás: mechanikai (szűrés, ülepítés), biológiai (mikroorganizmusok bontják a szerves anyagot) és kémiai (pl. foszfor kicsapatása) fokozat.\n- A közműolló zárása: a csatornahálózat kiépítése a vízvezeték-hálózattal együtt.\n- A nitrátosodás megelőzése: szabályozott trágyázás, a szennyvíz szikkasztásának megszüntetése.\n- A víz tájban tartása: a csapadék- és belvizet nem elvezetik, hanem tárolják az aszályos időszakokra.\n\nÍgy a vízgazdálkodás egyszerre véd a vízhiány, az árvíz és a szennyezés ellen.",
+  "diagram": null,
+  "concepts": ["vízgazdálkodás", "szennyvíztisztítás", "biológiai és kémiai szennyvíztisztítás", "közműolló", "nitrátosodás", "vízforgatás"],
+  "processes": [],
+  "examTip": "A szennyvíztisztítás három fokozatát sorrendben és tartalommal kérdezik: mechanikai → biológiai → kémiai. Tudd mindegyiknél, mit távolít el.",
+  "selfCheck": [
+    { "q": "Mi történik a biológiai szennyvíztisztítás során?", "a": "Mikroorganizmusok bontják le a szennyvíz szerves anyagait." },
+    { "q": "Miért fenntarthatatlan a felszín alatti vizek túltermelése?", "a": "Mert gyorsabban fogy a készlet, mint ahogy a beszivárgás pótolja, így süllyed a vízszint, kiszáradnak a tavak és a kutak." }
+  ],
+  "trueFalse": [
+    { "statement": "A víz tájban tartása az aszály elleni védekezés egyik módja.", "true": true },
+    { "statement": "A mechanikai szennyvíztisztítás a szerves anyagokat bontja le mikroorganizmusokkal.", "true": false, "correction": "A mechanikai fokozat szűréssel, ülepítéssel a szilárd szennyeződéseket távolítja el; a szerves anyagot a biológiai fokozat bontja le." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e4",
+  "explanation": "A vizek nem ismernek országhatárokat, ezért a vízgazdálkodás nemzetközi együttműködést igényel.\n\nMiért szükséges?\n- A folyók több országon folynak át: a felvízi ország tevékenysége (gátépítés, vízkivétel, szennyezés) hatással van az alvízi országokra.\n- Magyarország különösen kiszolgáltatott: felszíni vizeink túlnyomó része a határon túlról érkezik, ezért az árvizek és a szennyezés is onnan jön.\n- Az árvízi előrejelzéshez a teljes vízgyűjtő adataira szükség van.\n\nPéldák:\n- 2000: a romániai Nagybányáról származó ciánszennyezés pusztította el a Tisza élővilágát.\n- Rajna: a súlyos szennyezések után nemzetközi együttműködéssel javult a vízminőség.\n- A Nílus vizén osztoznak a vízgyűjtő államai; a felvízi Etiópia gátépítése feszültséget okoz Egyiptommal.\n- Aral-tó: a közép-ázsiai államok közös problémája.\n- Tengerek: túlhalászás, olaj- és műanyagszennyezés csak közösen kezelhető.\n\nKeretek: a Duna védelméről szóló nemzetközi egyezmény, az EU Víz Keretirányelve, amely vízgyűjtő szinten kezeli a vizeket.",
+  "diagram": null,
+  "concepts": ["vízgazdálkodás", "vízszennyező források", "túlhalászás", "regionális és globális probléma"],
+  "processes": [],
+  "examTip": "Bizonyításnál használd a felvízi–alvízi ország kifejezéseket, és hozz legalább egy hazai (Tisza, 2000) és egy nemzetközi (Nílus, Aral-tó) példát.",
+  "selfCheck": [
+    { "q": "Miért különösen fontos a nemzetközi együttműködés Magyarország számára?", "a": "Mert felszíni vizeink túlnyomó része külföldről érkezik, így az árvizek és a szennyezések is." },
+    { "q": "Mi okozta a 2000-es tiszai halpusztulást?", "a": "A romániai Nagybányáról származó ciánszennyezés." }
+  ],
+  "trueFalse": [
+    { "statement": "A felvízi országok vízhasználata hatással van az alvízi országokra.", "true": true },
+    { "statement": "A vízszennyezés mindig csak abban az országban okoz kárt, ahol keletkezett.", "true": false, "correction": "A folyók a szennyezést továbbszállítják, így az alvízi országokban is kárt okoz (pl. a 2000-es tiszai ciánszennyezés)." }
+  ],
+  "generated": true, "reviewed": false
+}
+] }

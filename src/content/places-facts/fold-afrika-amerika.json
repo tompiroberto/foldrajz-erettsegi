@@ -1,0 +1,3035 @@
+{
+  "facts": {
+    "fold--foldrajzi-fokhalozat--bakterito": {
+      "fekves": "A d. sz. kb. 23,5°-on húzódó szélességi kör, amely körbeéri a Földet; átszeli Dél-Amerikát, Dél-Afrikát és Ausztráliát.",
+      "facts": [
+        "A Nap a téli napfordulókor (december 21–22.) itt delel merőlegesen.",
+        "A déli félgömbön a forró övezet szoláris határa.",
+        "Szélességét a Föld tengelyferdesége (kb. 23,5°) határozza meg."
+      ],
+      "concepts": [
+        "szélességi kör",
+        "nyári és téli napforduló",
+        "tengelyferdeség",
+        "szoláris és valódi éghajlati övezetek"
+      ],
+      "processes": [
+        "evszakok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldrajzi-fokhalozat--deli-sark": {
+      "fekves": "A d. sz. 90°-on, a Föld forgástengelyének déli döféspontjában fekszik, az Antarktisz jégtakaróján.",
+      "facts": [
+        "Itt minden hosszúsági kör összefut; innen minden irány észak.",
+        "Fél évig tartó sarki nappal és fél évig tartó sarki éjszaka jellemzi.",
+        "Az Antarktiszi-ősföldön, vastag jégtakaró alatt fekszik."
+      ],
+      "concepts": [
+        "földrajzi fokhálózat",
+        "hosszúsági kör",
+        "tengely körüli forgás"
+      ],
+      "processes": [
+        "nappalok-hossza"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldrajzi-fokhalozat--deli-sarkkor": {
+      "fekves": "A d. sz. kb. 66,5°-on húzódó szélességi kör; nagyrészt az Antarktisz partvidékén és a Déli-óceánon halad át.",
+      "facts": [
+        "A június 21–22-i napfordulókor itt egy teljes napig nem kel fel a Nap.",
+        "A december 21–22-i napfordulókor itt egy teljes napig nem nyugszik le a Nap.",
+        "A déli félgömbön a hideg övezet szoláris határa."
+      ],
+      "concepts": [
+        "szélességi kör",
+        "nyári és téli napforduló",
+        "szoláris és valódi éghajlati övezetek"
+      ],
+      "processes": [
+        "nappalok-hossza"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldrajzi-fokhalozat--egyenlito": {
+      "fekves": "A 0° szélességi kör, a leghosszabb (kb. 40 000 km) szélességi kör; az északi és a déli félgömb határa, átszeli Dél-Amerikát, Afrikát és Indonéziát.",
+      "facts": [
+        "A nap-éj egyenlőségek idején a Nap itt delel merőlegesen.",
+        "Itt egész évben kb. 12 óra a nappalok hossza.",
+        "Mentén húzódik az egyenlítői alacsony nyomású öv, felszálló légáramlással."
+      ],
+      "concepts": [
+        "szélességi kör",
+        "északi",
+        "déli",
+        "tavaszi és őszi nap-éj egyenlőség",
+        "egyenlítői öv"
+      ],
+      "processes": [
+        "altalanos-legkorzes",
+        "nappalok-hossza"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldrajzi-fokhalozat--eszaki-sark": {
+      "fekves": "Az é. sz. 90°-on, a Föld forgástengelyének északi döféspontjában fekszik, a Jeges-óceán tengerjéggel borított részén.",
+      "facts": [
+        "Itt minden hosszúsági kör összefut; innen minden irány dél.",
+        "Az égbolton fölötte közel merőlegesen áll a Sarkcsillag.",
+        "Nincs alatta szárazföld: úszó tengerjégen fekszik."
+      ],
+      "concepts": [
+        "földrajzi fokhálózat",
+        "Sarkcsillag",
+        "tengely körüli forgás"
+      ],
+      "processes": [
+        "nappalok-hossza"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldrajzi-fokhalozat--eszaki-sarkkor": {
+      "fekves": "Az é. sz. kb. 66,5°-on húzódó szélességi kör; átszeli Skandináviát, Oroszországot, Alaszkát, Kanadát és Grönlandot.",
+      "facts": [
+        "A nyári napfordulókor itt egy teljes napig nem nyugszik le a Nap.",
+        "A téli napfordulókor itt egy teljes napig nem kel fel a Nap.",
+        "Az északi félgömbön a hideg övezet szoláris határa."
+      ],
+      "concepts": [
+        "szélességi kör",
+        "nyári és téli napforduló",
+        "szoláris és valódi éghajlati övezetek"
+      ],
+      "processes": [
+        "nappalok-hossza"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldrajzi-fokhalozat--rakterito": {
+      "fekves": "Az é. sz. kb. 23,5°-on húzódó szélességi kör; átszeli Mexikót, a Szaharát, az Arab-félszigetet, Indiát és Dél-Kínát.",
+      "facts": [
+        "A Nap a nyári napfordulókor (június 21–22.) itt delel merőlegesen.",
+        "Az északi félgömbön a forró övezet szoláris határa.",
+        "Közelében húzódik a térítői magas nyomású öv, ezért sok itt a sivatag (pl. Szahara)."
+      ],
+      "concepts": [
+        "szélességi kör",
+        "nyári és téli napforduló",
+        "térítői öv"
+      ],
+      "processes": [
+        "evszakok",
+        "altalanos-legkorzes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor": {
+      "fekves": "A 0° hosszúsági kör, amely az Északi-sarkot és a Déli-sarkot köti össze a londoni Greenwichen át; a keleti és a nyugati félgömb határa.",
+      "facts": [
+        "Ehhez viszonyítva adjuk meg a keleti és nyugati földrajzi hosszúságot.",
+        "A világidő (greenwichi középidő) e hosszúsági kör helyi ideje.",
+        "A 180°-os hosszúsági kör közelében húzódik a dátumválasztó vonal."
+      ],
+      "concepts": [
+        "hosszúsági kör",
+        "Greenwich",
+        "világidő",
+        "keleti és nyugati félgömb"
+      ],
+      "processes": [
+        "helyi-ido-zonaido"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldreszek--afrika": {
+      "fekves": "Az é. sz. 37° és a d. sz. 35° között, az ny. h. 17° és a k. h. 51° között fekszik; az Egyenlítő csaknem a közepén szeli át. Az Atlanti- és az Indiai-óceán, északon a Földközi-tenger, északkeleten a Vörös-tenger határolja.",
+      "facts": [
+        "A Föld második legnagyobb földrésze, felszínének nagy része ősföld (Afrikai-ősföld).",
+        "Övezetessége az Egyenlítőtől északra és délre szinte tükörképszerűen ismétlődik.",
+        "Itt található a Föld legnagyobb forró övezeti sivatagja, a Szahara."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "vízszintes földrajzi övezetesség",
+        "forró övezet"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldreszek--amerika": {
+      "fekves": "Észak–déli irányban az é. sz. 83° és a d. sz. 56° között, a nyugati félgömbön húzódó földrész; nyugatról a Csendes-, keletről az Atlanti-óceán határolja.",
+      "facts": [
+        "Két részből, Észak- és Dél-Amerikából áll, amelyeket Közép-Amerika köt össze.",
+        "Nyugati peremén a Pacifikus-hegységrendszer fiatal lánchegységei húzódnak (Kordillerák, Andok).",
+        "Keleti részén ősföldek (Kanadai-, Brazil-, Guyanai-ősföld) találhatók."
+      ],
+      "concepts": [
+        "eurázsiai és pacifikus hegységképződés",
+        "ősföld (ősmasszívum)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldreszek--antarktika": {
+      "fekves": "A Déli-sark körül, nagyjából a d. sz. 61°-tól délre fekvő földrész; a Déli-óceán veszi körül.",
+      "facts": [
+        "Szinte teljesen vastag jégtakaró borítja; itt van a Föld édesvízkészletének legnagyobb része.",
+        "Állandóan fagyos éghajlatú, a sarkvidéki öv része; itt mérték a Föld legalacsonyabb hőmérsékletét.",
+        "Nincs állandó lakossága, csak kutatóállomások."
+      ],
+      "concepts": [
+        "jégtakaró",
+        "sarkvidéki öv",
+        "állandóan fagyos éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldreszek--ausztralia": {
+      "fekves": "A déli félgömbön, a d. sz. 10° és 44° között, a k. h. 113° és 154° között fekszik; az Indiai- és a Csendes-óceán határolja.",
+      "facts": [
+        "A legkisebb földrész; nyugati részét ősföld (Nyugat-ausztráliai-ősföld) építi fel.",
+        "Belsejét a térítői magas nyomás miatt forró övezeti sivatagok és félsivatagok borítják.",
+        "Keleti peremén a Nagy-Vízválasztó-hegység húzódik."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "forró övezeti (trópusi) sivatagi éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldreszek--azsia": {
+      "fekves": "Nagyrészt az északi és a keleti félgömbön, kb. az é. sz. 1° és 81° között fekvő legnagyobb földrész; Európától az Urál, Afrikától a Szuezi-csatorna választja el.",
+      "facts": [
+        "A legnagyobb területű és legnépesebb földrész.",
+        "Itt emelkedik a Föld legmagasabb hegysége, a Himalája, az Eurázsiai-hegységrendszer része.",
+        "Délkeleti és keleti részén monszun éghajlat jellemző."
+      ],
+      "concepts": [
+        "eurázsiai és pacifikus hegységképződés",
+        "forró övezeti (trópusi) monszunszélrendszer"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldreszek--europa": {
+      "fekves": "Az északi félgömbön, kb. az é. sz. 35° és 71° között, a ny. h. 10° és a k. h. 66° között fekszik; keleten az Urál és az Urál folyó választja el Ázsiától.",
+      "facts": [
+        "Eurázsia nyugati, erősen tagolt (sok félsziget, sziget) része.",
+        "Éghajlatát az Észak-atlanti-áramlás és a nyugatias szelek enyhítik.",
+        "Az Eurázsiai-hegységrendszer (Alpok, Kárpátok) déli részén húzódik."
+      ],
+      "concepts": [
+        "nyugatias szelek",
+        "tagolt és tagolatlan part"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--foldreszek--eurazsia": {
+      "fekves": "A Föld legnagyobb kontinentális tömbje, kb. az é. sz. 1° és 81° között; Európa és Ázsia összefüggő szárazulata, a Csendes-, Atlanti-, Indiai- és Jeges-óceán határolja.",
+      "facts": [
+        "Európát és Ázsiát nem tenger, hanem megállapodás szerinti határ (Urál) választja el.",
+        "Nagy kiterjedése miatt belsejében szélsőségesen szárazföldi éghajlat alakul ki.",
+        "Legnagyobb része az Eurázsiai-kőzetlemezen fekszik."
+      ],
+      "concepts": [
+        "szélsőségesen szárazföldi terület",
+        "kőzetlemez"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--oceanok--atlanti-ocean": {
+      "fekves": "Az Amerika és Európa–Afrika között, észak–déli irányban kb. az é. sz. 68° és a d. sz. 60° között húzódó óceán.",
+      "facts": [
+        "A második legnagyobb óceán; közepén a Közép-atlanti-hátság húzódik.",
+        "Távolodó lemezszegély mentén tágul, ezért szélessége lassan nő.",
+        "Meleg (Golf-áramlás) és hideg áramlásai (Kanári-, Benguela-áramlás) befolyásolják a partvidékek éghajlatát."
+      ],
+      "concepts": [
+        "óceán",
+        "óceánközépi hátság",
+        "távolodó",
+        "hideg és meleg tengeráramlás"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--oceanok--csendes-ocean": {
+      "fekves": "Amerika és Ázsia–Ausztrália között fekvő, a Föld legnagyobb óceánja; északon a Bering-szorosig, délen a Déli-óceánig ér.",
+      "facts": [
+        "A legnagyobb és legmélyebb óceán; itt van a Mariana-árok.",
+        "Peremét a Csendes-óceáni Tűzgyűrű szegélyezi: sok vulkán és földrengés.",
+        "Szélein alábukási zónák, mélytengeri árkok és vulkáni szigetívek húzódnak."
+      ],
+      "concepts": [
+        "óceán",
+        "mélytengeri árok",
+        "vulkáni szigetív",
+        "alábukás"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--oceanok--deli-ocean": {
+      "fekves": "Az Antarktiszt körülölelő óceán, nagyjából a d. sz. 60°-tól délre.",
+      "facts": [
+        "Itt kering körbe a Föld körül a hideg Nyugati-szél-áramlás.",
+        "Az erős nyugatias szelek miatt viharos tenger.",
+        "Télen nagy részét tengerjég borítja."
+      ],
+      "concepts": [
+        "óceán",
+        "nyugatias szelek",
+        "hideg és meleg tengeráramlás"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--oceanok--indiai-ocean": {
+      "fekves": "Afrika, Ázsia, Ausztrália és az Antarktisz között fekvő óceán, kb. az é. sz. 10° és a d. sz. 60° között.",
+      "facts": [
+        "Nagyobbik része a déli félgömbön fekszik.",
+        "Északi részén a monszun miatt évszakosan megfordul az áramlások iránya.",
+        "Fontos hajózási útvonal a Perzsa-öböl kőolaja és Kelet-Ázsia felé."
+      ],
+      "concepts": [
+        "óceán",
+        "forró övezeti (trópusi) monszunszélrendszer"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--oceanok--jeges-ocean-jeges-tenger": {
+      "fekves": "Az Északi-sark körül, kb. az é. sz. 71°-tól északra fekvő, Eurázsia és Észak-Amerika által közrefogott legkisebb óceán.",
+      "facts": [
+        "A legkisebb és legsekélyebb óceán, nagy kiterjedésű selfterülettel.",
+        "Felszínét nagyrészt tengerjég borítja, amelynek kiterjedése a felmelegedéssel csökken.",
+        "Partvidékein tundra és „örök fagy” (permafroszt) jellemző."
+      ],
+      "concepts": [
+        "óceán",
+        "szárazföldi talapzat (self)",
+        "„örök fagy” (permafroszt)"
+      ],
+      "processes": [
+        "globalis-felmelegedes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--afrikai-lemez": {
+      "fekves": "Afrikát és a környező óceáni területeket (Atlanti- és Indiai-óceán részeit) magában foglaló kőzetlemez, kb. az é. sz. 39° és a d. sz. 55° között.",
+      "facts": [
+        "Nyugaton a Közép-atlanti-hátság mentén távolodik az amerikai lemezektől.",
+        "Északon az Eurázsiai-lemezzel ütközik, ez emelte ki az Atlaszt és az Alpokat.",
+        "Keleti részén az Afrikai-árokrendszer mentén szakadozik."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "távolodó",
+        "közeledő és elcsúszó lemezmozgás",
+        "hasadékvölgy"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--antarktiszi-lemez": {
+      "fekves": "Az Antarktiszt és a körülötte fekvő óceáni kérget magában foglaló kőzetlemez, a Déli-sark körül, kb. a d. sz. 26°-tól délre eső területeken.",
+      "facts": [
+        "Szegélyeinek nagy része távolodó lemezszegély (óceánközépi hátság).",
+        "Csendes-óceáni oldalán a Nazca-lemez és a Dél-amerikai-lemez határolja.",
+        "Gondwana egyik darabja."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "óceánközépi hátság",
+        "Gondwana"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--arab-lemez": {
+      "fekves": "Az Arab-félszigetet magában foglaló kőzetlemez, kb. az é. sz. 12° és 39°, a k. h. 34° és 65° között.",
+      "facts": [
+        "A Vörös-tenger mentén távolodik az Afrikai-lemeztől.",
+        "Északon az Eurázsiai-lemezzel ütközik (Zagrosz-hegység).",
+        "Üledékes takarójában hatalmas kőolaj- és földgázkészletek vannak."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "távolodó",
+        "kőolaj"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--ausztral-indiai-lemez": {
+      "fekves": "Ausztráliát, az Indiai-félszigetet és az Indiai-óceán nagy részét magában foglaló kőzetlemez, kb. az é. sz. 35° és a d. sz. 63° között.",
+      "facts": [
+        "Az Indiai-félsziget Eurázsiával való ütközése emelte ki a Himaláját.",
+        "Indonéziánál a Szunda-árok mentén alábukik az Eurázsiai-lemez alá.",
+        "Gondwana darabjaiból áll."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "alábukás",
+        "Gondwana"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--csendes-oceani-lemez": {
+      "fekves": "A Csendes-óceán aljzatának nagy részét alkotó, legnagyobb kőzetlemez, kb. az é. sz. 60° és a d. sz. 66° között.",
+      "facts": [
+        "Szinte teljesen óceáni kéreg alkotja.",
+        "Nyugati szegélyén alábukik, itt húzódnak a legmélyebb árkok (pl. Mariana-árok).",
+        "Forró pont fölött haladva hozta létre a Hawaii-szigetek vulkánláncát."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "óceáni kéreg",
+        "alábukás",
+        "forrópontos vulkán"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "forro-pont"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--del-amerikai-lemez": {
+      "fekves": "Dél-Amerikát és az Atlanti-óceán déli részének nyugati felét magában foglaló kőzetlemez, kb. az é. sz. 20° és a d. sz. 61° között.",
+      "facts": [
+        "Keleten a Közép-atlanti-hátság mentén távolodik az Afrikai-lemeztől.",
+        "Nyugati szegélye alá bukik a Nazca-lemez, ez emelte ki az Andokat.",
+        "Gondwana egyik darabja."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "alábukás",
+        "Gondwana"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--eszak-amerikai-lemez": {
+      "fekves": "Észak-Amerikát, Grönlandot, az Atlanti-óceán északnyugati részét és Szibéria keleti részét magában foglaló kőzetlemez.",
+      "facts": [
+        "Keleten a Közép-atlanti-hátság mentén távolodik az Eurázsiai-lemeztől (Izland).",
+        "Kaliforniában a Szent András-törésvonal mentén elcsúszik a Csendes-óceáni-lemez mellett.",
+        "Belső része a Kanadai-ősföld."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "távolodó",
+        "közeledő és elcsúszó lemezmozgás"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--eurazsiai-lemez": {
+      "fekves": "Európát és Ázsia nagy részét (az Arab-félsziget, India és Kelet-Szibéria nélkül) magában foglaló kőzetlemez.",
+      "facts": [
+        "Nyugaton a Közép-atlanti-hátság mentén távolodik az Észak-amerikai-lemeztől.",
+        "Déli peremén az Afrikai-, az Arab- és az Indiai-lemezzel ütközik: Eurázsiai-hegységrendszer.",
+        "Belsejében ősföldek (Balti-, Angara-ősföld) találhatók."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "közeledő és elcsúszó lemezmozgás",
+        "eurázsiai és pacifikus hegységképződés"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--fulop-lemez-filippino-lemez": {
+      "fekves": "Kis óceáni kőzetlemez a Csendes-óceán nyugati részén, a Fülöp-szigetek és Japán között, kb. az é. sz. 0° és 35° között.",
+      "facts": [
+        "Keleti szegélye alá bukik a Csendes-óceáni-lemez: itt van a Mariana-árok.",
+        "Nyugati szegélyén maga bukik alá az Eurázsiai-lemez alá.",
+        "Szegélyein vulkáni szigetívek alakultak ki."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "óceáni kéreg",
+        "vulkáni szigetív",
+        "alábukás"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--kozetlemezek--nazca-lemez": {
+      "fekves": "Óceáni kőzetlemez a Csendes-óceán délkeleti részén, Dél-Amerika nyugati partjai előtt, kb. az é. sz. 7° és a d. sz. 46° között.",
+      "facts": [
+        "A Dél-amerikai-lemez alá bukik: óceáni–kontinentális lemezütközés.",
+        "Az alábukás hozta létre a Perui–Chilei-árkot és az Andok vulkánjait.",
+        "A térség gyakori, erős földrengéseinek oka."
+      ],
+      "concepts": [
+        "kőzetlemez",
+        "alábukás",
+        "mélytengeri árok",
+        "földrengés"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--afrikai-osfold": {
+      "fekves": "Afrika nagy részét, kb. az é. sz. 27° és a d. sz. 31° között alkotó ősföld; az Atlasz kivételével a földrész alapja.",
+      "facts": [
+        "Előidei kristályos kőzetekből áll, nagy része fedett ősföld.",
+        "Gondwana része volt.",
+        "Gazdag ércekben, gyémántban és aranyban (pl. Dél-Afrika)."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "fedett és fedetlen ősmasszívum",
+        "Gondwana",
+        "magmás ércképződés"
+      ],
+      "processes": [
+        "erckepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--angara-osfold": {
+      "fekves": "Kelet-Szibériában, a Jenyiszej és a Léna között, kb. az é. sz. 54° és 74° között fekvő ősföld.",
+      "facts": [
+        "Nagyrészt fedett ősföld: a Közép-szibériai-fennsík alapja.",
+        "Laurázsia egyik magja volt.",
+        "Ásványkincsekben (szén, ércek, gyémánt) gazdag."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "Laurázsia",
+        "táblás vidék"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--antarktiszi-osfold": {
+      "fekves": "Az Antarktisz nagyobbik, keleti részét alkotó ősföld, a d. sz. 66°-tól délre.",
+      "facts": [
+        "Felszínét vastag jégtakaró fedi.",
+        "Gondwana része volt.",
+        "Jégtakarójának súlya alatt a kéreg lesüllyedt (izosztázia)."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "Gondwana",
+        "jégtakaró",
+        "izosztázia"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--arab-osfold": {
+      "fekves": "Az Arab-félsziget nyugati részén, a Vörös-tenger keleti partja mentén fekvő ősföld, kb. az é. sz. 13° és 30° között.",
+      "facts": [
+        "Az Afrikai-ősfölddel együtt Gondwana része volt.",
+        "A Vörös-tenger árkának megnyílásával vált el Afrikától.",
+        "Keleti oldalán fiatal üledékek takarják."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "Gondwana",
+        "hasadékvölgy"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--balti-osfold": {
+      "fekves": "Észak-Európában, Skandinávia keleti részén, Finnországban és a Kola-félszigeten, kb. az é. sz. 56° és 70° között fekvő ősföld.",
+      "facts": [
+        "Nagyrészt fedetlen ősföld: a jégkorszaki jégtakaró letarolta üledékeit.",
+        "Jégvájta tavak ezrei tagolják (Finnország).",
+        "Gazdag vasércben (pl. Észak-Svédország)."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "fedett és fedetlen ősmasszívum",
+        "jégvájta tó",
+        "vasérc"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--brazil-osfold": {
+      "fekves": "Dél-Amerika keleti részén, kb. a d. sz. 3° és 29° között fekvő ősföld; a Brazil-felföld alapja.",
+      "facts": [
+        "Gondwana része volt, Afrikával összefüggött.",
+        "Gazdag vasércben és mangánércben.",
+        "Felszínét forró éghajlat alatt laterittalaj borítja."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "Gondwana",
+        "vasérc"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--dekkan-osfold": {
+      "fekves": "Az Indiai-félsziget belsejét alkotó ősföld, kb. az é. sz. 8° és 25° között.",
+      "facts": [
+        "Gondwana része volt, ma az Indiai-lemezen fekszik.",
+        "Északnyugati részét bazaltfennsík (Dekkán-plató) takarja.",
+        "Vasércben és szénben gazdag."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "Gondwana",
+        "bazaltfennsík"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--guyanai-osfold": {
+      "fekves": "Dél-Amerika északi részén, az Orinoco és az Amazonas között, kb. az é. sz. 1° és 8° között fekvő ősföld.",
+      "facts": [
+        "A Guyanai-hegyvidék alapja.",
+        "Bauxitban és aranyban gazdag.",
+        "Gondwana része volt."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "bauxit",
+        "Gondwana"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--kanadai-osfold": {
+      "fekves": "Észak-Amerika északkeleti részén, a Hudson-öböl körül, kb. az é. sz. 45° és 70° között fekvő ősföld.",
+      "facts": [
+        "Nagyrészt fedetlen ősföld, amelyet a jégkorszaki jégtakaró letarolt.",
+        "Jégvájta tavak és morénák tömege tagolja.",
+        "Gazdag ércekben (vas, nikkel, uránérc)."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "fedett és fedetlen ősmasszívum",
+        "jégvájta tó"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--kinai-osfold": {
+      "fekves": "Kelet-Ázsiában, Észak-Kínában és a Koreai-félszigeten, kb. az é. sz. 33° és 42° között fekvő ősföld.",
+      "facts": [
+        "Nagyrészt fiatal üledékekkel (lösszel, folyóhordalékkal) fedett ősföld.",
+        "A Nagy-Kínai-alföld alapja.",
+        "Feketekőszénben gazdag."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "fedett és fedetlen ősmasszívum",
+        "lösz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold": {
+      "fekves": "Ausztrália nyugati és középső részén, kb. a d. sz. 15° és 35° között fekvő ősföld.",
+      "facts": [
+        "A földrész legősibb része, Gondwana darabja.",
+        "Igen gazdag vasércben, aranyban és bauxitban.",
+        "Felszínén forró övezeti sivatagok terülnek el."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "Gondwana",
+        "vasérc"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer": {
+      "fekves": "Nyugat–keleti irányban az Atlasztól és az Ibériai-félszigettől a Himaláján át Délkelet-Ázsiáig húzódó fiatal lánchegységrendszer, kb. a ny. h. 10° és a k. h. 134° között.",
+      "facts": [
+        "Az Afrikai-, Arab- és Indiai-lemez Eurázsiával való ütközése hozta létre.",
+        "Az újidőben gyűrődött fel; tagjai pl. Alpok, Kárpátok, Himalája.",
+        "A Tethys-óceán üledékeiből gyűrődött fel."
+      ],
+      "concepts": [
+        "hegységrendszer",
+        "gyűrthegység",
+        "eurázsiai és pacifikus hegységképződés",
+        "Tethys"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--kaledoniai-hegysegrendszer": {
+      "fekves": "Az ókori kaledóniai hegységképződés hegységeinek öve Észak-Európában: a Skandináv-hegység, Skócia és Írország északi része, kb. az é. sz. 54° és 80° között.",
+      "facts": [
+        "Az óidő első felében gyűrődött fel.",
+        "Azóta erősen lepusztult, a jégkorszakban a jég formálta (fjordok).",
+        "Folytatása Észak-Amerikában az Appalache északi részén és Grönlandon található."
+      ],
+      "concepts": [
+        "kaledóniai",
+        "fjord",
+        "gyűrthegység"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--pacifikus-hegysegrendszer": {
+      "fekves": "A Csendes-óceánt keretező fiatal hegységek láncolata: Amerika nyugati peremén (Kordillerák, Andok) és Kelet-Ázsia szigetívein (Kamcsatka, Japán) húzódik.",
+      "facts": [
+        "Óceáni lemezek alábukása hozta létre.",
+        "Ma is aktív: sok vulkán és földrengés kíséri (Csendes-óceáni Tűzgyűrű).",
+        "Kialakulása a középidőben kezdődött és ma is tart."
+      ],
+      "concepts": [
+        "hegységrendszer",
+        "eurázsiai és pacifikus hegységképződés",
+        "alábukás",
+        "rétegvulkán"
+      ],
+      "processes": [
+        "hegysegkepzodes",
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--variszkuszi-hegysegrendszer": {
+      "fekves": "Az óidő második felében felgyűrődött hegységek öve Közép- és Nyugat-Európában (Francia-középhegység, Cseh-medence peremhegységei), az Uralban és az Appalache déli részén.",
+      "facts": [
+        "Felgyűrődése után lepusztult, később röghegységekké tördelődött.",
+        "Kőszénben gazdag, ez alapozta meg pl. a Ruhr-vidék iparát.",
+        "Pangea összeállásakor gyűrődött fel."
+      ],
+      "concepts": [
+        "variszkuszi",
+        "rögös szerkezetű hegység",
+        "Pangea",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--japan-arok": {
+      "fekves": "A Csendes-óceán nyugati részén, Japán keleti partjai előtt, kb. az é. sz. 34° és 41° között húzódó mélytengeri árok.",
+      "facts": [
+        "A Csendes-óceáni-lemez itt bukik alá.",
+        "Az alábukás okozza Japán gyakori földrengéseit és cunamijait.",
+        "A vele párhuzamos Japán-szigetek vulkáni szigetív."
+      ],
+      "concepts": [
+        "mélytengeri árok",
+        "alábukás",
+        "cunami",
+        "vulkáni szigetív"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--nagyszerkezeti-egysegek--mariana-arok": {
+      "fekves": "A Csendes-óceán nyugati részén, a Mariana-szigetektől keletre, kb. az é. sz. 10° és 25°, a k. h. 139° és 148° között húzódó ív alakú mélytengeri árok.",
+      "facts": [
+        "A Föld legmélyebb pontja (kb. 11 km mély).",
+        "Két óceáni lemez ütközésénél alakult ki: a Csendes-óceáni-lemez a Fülöp-lemez alá bukik.",
+        "Mellette a Mariana-szigetek vulkáni szigetíve húzódik."
+      ],
+      "concepts": [
+        "mélytengeri árok",
+        "alábukás",
+        "vulkáni szigetív"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--eszak-atlanti-aramlas": {
+      "fekves": "A Golf-áramlás északkeleti folytatása, amely az Atlanti-óceán északi részén Nyugat- és Észak-Európa partjai felé, egészen a Barents-tengerig halad.",
+      "facts": [
+        "Meleg tengeráramlás.",
+        "Ennek köszönhető Nyugat-Európa enyhe telű óceáni éghajlata és Észak-Norvégia jégmentes kikötői.",
+        "A nyugatias szelek hajtják."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "óceáni éghajlat",
+        "pozitív és negatív hőmérsékleti anomália",
+        "nyugatias szelek"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--golf-aramlas": {
+      "fekves": "A Mexikói-öbölből a Floridai-szoroson át Észak-Amerika keleti partjai mentén északkeletre tartó áramlás, kb. az é. sz. 24° és 41° között.",
+      "facts": [
+        "Meleg tengeráramlás.",
+        "Az Új-Fundland körüli találkozása a hideg Labrador-áramlással gyakori ködöt okoz.",
+        "Az Észak-atlanti-áramlásban folytatódik Európa felé."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "óceáni vízkörzés"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--kanari-aramlas": {
+      "fekves": "Az Atlanti-óceán keleti részén, az Ibériai-félszigettől Északnyugat-Afrika partjai mentén dél felé tartó áramlás, kb. az é. sz. 15° és 43° között.",
+      "facts": [
+        "Hideg tengeráramlás.",
+        "Hozzájárul a Szahara nyugati partvidékének szárazságához.",
+        "Az Észak-atlanti óceáni vízkörzés része."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "óceáni vízkörzés"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--labrador-aramlas": {
+      "fekves": "Az Északi-sarkvidékről Grönland és a Labrador-félsziget között dél felé, Új-Fundlandig tartó áramlás, kb. az é. sz. 46° és 76° között.",
+      "facts": [
+        "Hideg tengeráramlás, jéghegyeket szállít dél felé.",
+        "Miatta hidegebb a Labrador-félsziget, mint az azonos szélességű Nyugat-Európa.",
+        "A Golf-áramlással találkozva sűrű köd keletkezik."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "pozitív és negatív hőmérsékleti anomália",
+        "köd"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--nyugati-szel-aramlas": {
+      "fekves": "Az Antarktisz körül, kb. a d. sz. 46° és 58° között nyugatról keletre körbefutó áramlás.",
+      "facts": [
+        "Hideg tengeráramlás; a Föld legnagyobb vízszállítású áramlása.",
+        "A nyugatias szelek hajtják, kontinens nem állja útját.",
+        "Ágai táplálják a Humboldt- és a Benguela-áramlást."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "nyugatias szelek"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--benguela-aramlas": {
+      "fekves": "Afrika délnyugati partjai mentén, kb. a d. sz. 12° és 35° között észak felé tartó áramlás.",
+      "facts": [
+        "Hideg tengeráramlás.",
+        "A hideg víz fölött nem alakul ki csapadék, ezért jött létre a part menti Namib-sivatag.",
+        "Tápanyagdús vize gazdag halászterület."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "forró övezeti (trópusi) sivatagi éghajlat"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--braziliai-aramlas": {
+      "fekves": "Dél-Amerika keleti partjai mentén, kb. a d. sz. 8° és 38° között dél felé tartó áramlás.",
+      "facts": [
+        "Meleg tengeráramlás.",
+        "A Dél-egyenlítői-áramlás déli ága.",
+        "Növeli Brazília keleti partvidékének csapadékát."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--del-egyenlitoi-aramlas": {
+      "fekves": "Az Egyenlítőtől kissé délre, kb. a d. sz. 2° és 15° között keletről nyugatra haladó áramlás mindhárom nagy óceánban.",
+      "facts": [
+        "Meleg tengeráramlás.",
+        "A délkeleti passzátszél hajtja.",
+        "A déli félgömb óceáni vízkörzéseinek egyenlítői ága."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "passzátszelek",
+        "óceáni vízkörzés"
+      ],
+      "processes": [
+        "tengeraramlasok",
+        "altalanos-legkorzes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--eszak-egyenlitoi-aramlas": {
+      "fekves": "Az Egyenlítőtől északra, kb. az é. sz. 12° és 15° között keletről nyugatra haladó áramlás az Atlanti- és a Csendes-óceánban.",
+      "facts": [
+        "Meleg tengeráramlás.",
+        "Az északkeleti passzátszél hajtja.",
+        "Az északi félgömb óceáni vízkörzéseinek egyenlítői ága."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "passzátszelek",
+        "óceáni vízkörzés"
+      ],
+      "processes": [
+        "tengeraramlasok",
+        "altalanos-legkorzes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--humboldt-aramlas": {
+      "fekves": "Dél-Amerika nyugati partjai mentén, kb. a d. sz. 45°-tól az Egyenlítőig észak felé tartó áramlás.",
+      "facts": [
+        "Hideg tengeráramlás (Perui-áramlás).",
+        "Hozzájárul az Atacama-sivatag kialakulásához.",
+        "Tápanyagdús vize a világ egyik leggazdagabb halászterülete; El Niño idején gyengül."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás",
+        "El Niño"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--kuro-shio-aramlas": {
+      "fekves": "A Csendes-óceán nyugati részén, Tajvantól Japán keleti partjai mentén északkeletre tartó áramlás, kb. az é. sz. 22° és 37° között.",
+      "facts": [
+        "Meleg tengeráramlás, a Golf-áramlás csendes-óceáni megfelelője.",
+        "Enyhíti Dél-Japán éghajlatát.",
+        "Az Oja-shio-áramlással találkozva gazdag halászterület alakul ki."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--tengeraramlasok--oja-shio-aramlas": {
+      "fekves": "A Csendes-óceán északnyugati részén, Kamcsatka és a Kuril-szigetek mentén Észak-Japán felé, dél felé tartó áramlás, kb. az é. sz. 38° és 58° között.",
+      "facts": [
+        "Hideg tengeráramlás.",
+        "Hűvösebbé teszi Észak-Japán (Hokkaidó) éghajlatát.",
+        "A Kuro-shióval találkozva tápanyagdús, halban gazdag vizet hoz létre."
+      ],
+      "concepts": [
+        "hideg és meleg tengeráramlás"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--egyeb--deli-sarkvidek-antarktisz": {
+      "fekves": "A Déli-sark körüli terület, nagyjából a d. sz. 60°-tól délre: az Antarktika földrész és a körülötte lévő Déli-óceán.",
+      "facts": [
+        "Állandóan fagyos éghajlatú, a sarkvidéki öv része.",
+        "Itt található a Föld legnagyobb jégtakarója.",
+        "Az Antarktisz-szerződés szerint békés, tudományos célra használható."
+      ],
+      "concepts": [
+        "sarkvidéki öv",
+        "állandóan fagyos éghajlat",
+        "jégtakaró"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "fold--egyeb--eszaki-sarkvidek-arktisz": {
+      "fekves": "Az Északi-sark körüli terület, nagyjából az é. sz. 66,5°-tól északra: a Jeges-óceán és a környező szárazföldek (Grönland, Észak-Kanada, Észak-Szibéria) peremei.",
+      "facts": [
+        "Központi része tenger, amelyet tengerjég borít.",
+        "Szárazföldi peremein tundra és „örök fagy” (permafroszt) jellemző.",
+        "A felmelegedés itt a leggyorsabb, a tengerjég kiterjedése csökken."
+      ],
+      "concepts": [
+        "tundra",
+        "„örök fagy” (permafroszt)",
+        "globális felmelegedés"
+      ],
+      "processes": [
+        "globalis-felmelegedes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--a-foldresz-reszei--eszak-afrika": {
+      "fekves": "Afrika északi része, kb. az é. sz. 19° és 37° között, az Atlanti-óceántól a Vörös-tengerig; északon a Földközi-tenger határolja, délen a Száhel övezete.",
+      "facts": [
+        "Nagy részét a Szahara foglalja el, népessége a partvidéken és a Nílus völgyében tömörül.",
+        "Lakói főként arabok és berberek, az iszlám a meghatározó vallás.",
+        "Gazdaságában fontos a kőolaj- és földgázkitermelés (Algéria, Líbia)."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--a-foldresz-reszei--tropusi-afrika-szubszaharai-afrika": {
+      "fekves": "Afrika Szaharától délre eső része, kb. az é. sz. 18°-tól a földrész déli csúcsáig.",
+      "facts": [
+        "Az egyenlítői, átmeneti és térítői öv tájai váltják egymást.",
+        "Népessége gyorsan nő; sok ország a népesedési átmenet második szakaszában van.",
+        "Gazdasága sok helyen egy-két nyersanyag vagy ültetvényes termék exportjára épül."
+      ],
+      "concepts": [
+        "forró övezet",
+        "népességrobbanás",
+        "ültetvényes gazdálkodás",
+        "fejlett és fejlődő ország"
+      ],
+      "processes": [
+        "demografiai-atmenet"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--afrikai-arokrendszer": {
+      "fekves": "Kelet-Afrikában, kb. az é. sz. 12°-tól a d. sz. 16°-ig húzódó hasadékvölgy-rendszer; a Vörös-tengertől Etiópián, Kenyán és Tanzánián át Mozambikig tart.",
+      "facts": [
+        "Távolodó lemezszegély: itt szakad szét az Afrikai-lemez.",
+        "Mélyedéseiben tektonikus eredetű tavak (pl. Tanganyika-tó) alakultak ki.",
+        "Mentén vulkánok sorakoznak (pl. Kilimandzsáró)."
+      ],
+      "concepts": [
+        "hasadékvölgy",
+        "távolodó",
+        "tektonikus eredetű tó",
+        "árok"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--atlasz": {
+      "fekves": "Északnyugat-Afrikában, Marokkó, Algéria és Tunézia területén, kb. az é. sz. 28° és 37° között húzódó hegység.",
+      "facts": [
+        "Az Eurázsiai-hegységrendszer része: az Afrikai- és az Eurázsiai-lemez ütközése gyűrte fel.",
+        "Éghajlatválasztó: északi oldala mediterrán, déli oldala a Szaharához tartozik.",
+        "Afrika egyetlen fiatal gyűrthegysége."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "éghajlatválasztó hegység",
+        "mediterrán éghajlat"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--del-afrikai-magasfold": {
+      "fekves": "Afrika déli részén, kb. a d. sz. 16° és 33° között fekvő magasföld; közepén a Kalahári-medence, peremén magas szegélyhegyek.",
+      "facts": [
+        "Az Afrikai-ősföld kiemelt része.",
+        "Gazdag ásványkincsekben: arany, gyémánt, platina, kőszén.",
+        "Peremén a Drakensberg-hegység emelkedik."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "magmás ércképződés"
+      ],
+      "processes": [
+        "erckepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--etiop-magasfold": {
+      "fekves": "Kelet-Afrikában, Etiópia területén, kb. az é. sz. 4° és 18° között fekvő magasföld; az Afrikai-árokrendszer kettészeli.",
+      "facts": [
+        "Vulkáni eredetű bazalttakaró borítja.",
+        "Itt ered a Kék-Nílus, amely a Nílus vízhozamának nagyobb részét adja.",
+        "Magassága miatt mérsékeltebb éghajlatú, mint a környező alföldek."
+      ],
+      "concepts": [
+        "bazaltfennsík",
+        "függőleges földrajzi övezetesség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--kelet-afrikai-magasfold": {
+      "fekves": "Kelet-Afrikában, a Viktória-tó körül, Kenya, Uganda és Tanzánia területén, kb. az é. sz. 5° és a d. sz. 9° között fekvő magasföld.",
+      "facts": [
+        "Az Afrikai-árokrendszer két ága közrefogja.",
+        "Vulkánjai közül kiemelkedik a Kilimandzsáró.",
+        "Szavannáin nagy vadállományú nemzeti parkok vannak (idegenforgalom)."
+      ],
+      "concepts": [
+        "hasadékvölgy",
+        "szavanna",
+        "nemzeti park"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--kilimandzsaro-kilimandzsaro-csoport": {
+      "fekves": "Tanzánia északkeleti részén, a kenyai határ közelében, kb. a d. sz. 3°, k. h. 37°-on emelkedik.",
+      "facts": [
+        "Afrika legmagasabb hegye, rétegvulkán.",
+        "Az Afrikai-árokrendszer vulkáni tevékenységéhez kapcsolódik.",
+        "Szinte az Egyenlítőn fekszik, mégis hó borítja csúcsát: a függőleges övezetesség példája."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "függőleges földrajzi övezetesség",
+        "hóhatár"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--kongo-medence": {
+      "fekves": "Közép-Afrikában, az Egyenlítő két oldalán, kb. az é. sz. 10° és a d. sz. 12° között fekvő medence, amelyet a Kongó folyó és mellékfolyói csapolnak le.",
+      "facts": [
+        "Egyenlítői éghajlatú, trópusi esőerdő borítja.",
+        "Afrika legnagyobb vízgyűjtő területe.",
+        "Az erdőirtás és az égetéses-talajváltó gazdálkodás veszélyezteti."
+      ],
+      "concepts": [
+        "egyenlítői éghajlat",
+        "trópusi esőerdő",
+        "erdőirtás",
+        "tektonikus medence"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--madagaszkar": {
+      "fekves": "Afrika délkeleti partjai előtt, az Indiai-óceánban, kb. a d. sz. 12° és 26° között fekvő nagy sziget; a Mozambiki-csatorna választja el a földrésztől.",
+      "facts": [
+        "A Föld egyik legnagyobb szigete, Gondwana feldarabolódásakor vált le.",
+        "Hosszú elszigeteltsége miatt sok bennszülött (endemikus) faj él rajta.",
+        "Keleti partját a passzát csapadéka miatt esőerdő borítja."
+      ],
+      "concepts": [
+        "Gondwana",
+        "passzátszelek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--szahara": {
+      "fekves": "Észak-Afrikában, kb. az é. sz. 15° és 35° között, az Atlanti-óceántól a Vörös-tengerig húzódó sivatag.",
+      "facts": [
+        "A Föld legnagyobb forró övezeti sivatagja.",
+        "A térítői magas nyomású öv leszálló, száraz levegője okozza a szárazságot.",
+        "Oázisaiban oázisgazdálkodás folyik; alatta kőolaj és földgáz rejlik."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "oázis",
+        "oázisgazdálkodás",
+        "térítői öv"
+      ],
+      "processes": [
+        "altalanos-legkorzes",
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--szudan": {
+      "fekves": "Szudán mint táj: a Száheltől délre, kb. az é. sz. 6° és 13° között az Atlanti-óceántól az Etióp-magasföldig húzódó szavannaöv.",
+      "facts": [
+        "Átmeneti öv: nyáron esős, télen száraz évszak.",
+        "Növényzete szavanna, folyói mentén galériaerdő.",
+        "Nem azonos a Szudán nevű országgal."
+      ],
+      "concepts": [
+        "szavannaéghajlat",
+        "szavanna",
+        "galériaerdő"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--szahel-szahel-ov": {
+      "fekves": "A Szahara déli peremén, kb. az é. sz. 12° és 18° között, Szenegáltól Szudánig húzódó félsivatagos–száraz szavannás sáv.",
+      "facts": [
+        "Csapadéka kevés és évről évre erősen ingadozik, gyakori az aszály.",
+        "A túllegeltetés és az erdőirtás miatt erős az elsivatagosodás.",
+        "Hagyományos gazdálkodási formája a nomád pásztorkodás."
+      ],
+      "concepts": [
+        "elsivatagosodás",
+        "túllegeltetés",
+        "aszály",
+        "nomád pásztorkodás (vándorló állattenyésztés)"
+      ],
+      "processes": [
+        "talajpusztulas-sivatagosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--kalahari-medence": {
+      "fekves": "Dél-Afrikában, Botswana, Namíbia és a Dél-afrikai Köztársaság területén, kb. a d. sz. 15° és 30° között fekvő medence.",
+      "facts": [
+        "A Dél-afrikai-magasföld belsejében fekvő félsivatagos, száraz szavannás terület.",
+        "Szárazságát a térítői magas nyomás okozza.",
+        "Lefolyástalan mélyedései vannak (pl. Okavango-delta)."
+      ],
+      "concepts": [
+        "térítői öv",
+        "lefolyásos és belső lefolyású terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--kanari-szigetek": {
+      "fekves": "Az Atlanti-óceánban, Marokkó partjai előtt, kb. az é. sz. 28°, ny. h. 16°-on fekvő szigetcsoport; Spanyolországhoz tartozik.",
+      "facts": [
+        "Vulkáni eredetű szigetek.",
+        "Enyhe éghajlata és tengerpartjai miatt fontos idegenforgalmi célpont.",
+        "Partjai mentén halad a hideg Kanári-áramlás."
+      ],
+      "concepts": [
+        "felszíni vulkánosság",
+        "hideg és meleg tengeráramlás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--namib-sivatag": {
+      "fekves": "Afrika délnyugati partvidékén, Namíbia területén, kb. a d. sz. 13° és 27° között húzódó part menti sivatag.",
+      "facts": [
+        "Kialakulásában a hideg Benguela-áramlás játssza a fő szerepet.",
+        "A hideg víz fölött gyakori a köd, de csapadék alig hullik.",
+        "Homokbuckái a Föld legmagasabb dűnéi közé tartoznak."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "hideg és meleg tengeráramlás",
+        "homokbucka (dűne)"
+      ],
+      "processes": [
+        "tengeraramlasok",
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--tajak--teleki-vulkan": {
+      "fekves": "Észak-Kenyában, a Turkana-tó déli végénél, kb. az é. sz. 2°, k. h. 37°-on fekvő vulkán, az Afrikai-árokrendszerben.",
+      "facts": [
+        "Teleki Sámuel magyar Afrika-kutató nevét viseli.",
+        "Az Afrikai-árokrendszer vulkáni tevékenységéhez kapcsolódik."
+      ],
+      "concepts": [
+        "felszíni vulkánosság",
+        "hasadékvölgy"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--gibraltari-szoros": {
+      "fekves": "Az Ibériai-félsziget és Marokkó között, kb. az é. sz. 36°, ny. h. 6°-on fekvő tengerszoros; a Földközi-tengert köti össze az Atlanti-óceánnal.",
+      "facts": [
+        "Európa és Afrika között itt a legkisebb a távolság.",
+        "Stratégiai fontosságú hajózási útvonal.",
+        "A Földközi-tenger vízpótlása nagyrészt ezen át, az Atlanti-óceánból érkezik."
+      ],
+      "concepts": [
+        "tengerszoros",
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--guineai-obol": {
+      "fekves": "Az Atlanti-óceán öble Nyugat-Afrika partjainál, kb. az é. sz. 6° és a d. sz. 1° között; itt metszi egymást az Egyenlítő és a kezdő hosszúsági kör.",
+      "facts": [
+        "A Niger itt torkollik deltával.",
+        "Selfterületén jelentős kőolaj- és földgázkitermelés folyik (Nigéria).",
+        "Partvidéke egyenlítői éghajlatú."
+      ],
+      "concepts": [
+        "öböl",
+        "deltatorkolat",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--kongo": {
+      "fekves": "Közép-Afrika folyója, amely kétszer is átszeli az Egyenlítőt, és a Kongó-medencén át az Atlanti-óceánba ömlik.",
+      "facts": [
+        "Afrika legbővizűbb folyója, vízjárása egyenletes.",
+        "Vízgyűjtőjének két oldalán eltérő időben van esős évszak, ez kiegyenlíti a vízhozamot.",
+        "Vízesései, zuhatagai miatt csak szakaszosan hajózható."
+      ],
+      "concepts": [
+        "vízhozam",
+        "vízjárás",
+        "egyenlítői éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--nilus": {
+      "fekves": "Kelet- és Észak-Afrika folyója: a Viktória-tó vidékéről (Fehér-Nílus) és az Etióp-magasföldről (Kék-Nílus) indulva északra folyik, és deltával ömlik a Földközi-tengerbe.",
+      "facts": [
+        "A Föld egyik leghosszabb folyója.",
+        "Jövevényfolyó: a Szaharán át a csapadékos forrásvidék vize táplálja.",
+        "Nyári áradása régen termékeny iszapot hozott; ma az Asszuáni-gát szabályozza."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "deltatorkolat",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--szuezi-csatorna": {
+      "fekves": "Egyiptomban, kb. az é. sz. 30–31°, k. h. 32,5°-on húzódó mesterséges vízi út a Földközi-tenger és a Vörös-tenger között.",
+      "facts": [
+        "Zsilipek nélküli csatorna, Afrika és Ázsia határa.",
+        "Lerövidíti az Európa–Ázsia tengeri utat, nem kell megkerülni Afrikát.",
+        "Átkelési díjai Egyiptom fontos bevételi forrásai."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--tanganyika-to": {
+      "fekves": "Kelet-Afrikában, kb. a d. sz. 3° és 9° között, Tanzánia, a Kongói Demokratikus Köztársaság, Burundi és Zambia határán fekvő hosszú, keskeny tó.",
+      "facts": [
+        "Tektonikus eredetű tó az Afrikai-árokrendszer nyugati ágában.",
+        "A Föld egyik leghosszabb és legmélyebb édesvizű tava."
+      ],
+      "concepts": [
+        "tektonikus eredetű tó",
+        "hasadékvölgy"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--viktoria-to": {
+      "fekves": "Kelet-Afrikában, az Egyenlítőnél, Uganda, Kenya és Tanzánia határán fekvő tó, kb. a d. sz. 1°, k. h. 33°-on.",
+      "facts": [
+        "Afrika legnagyobb tava.",
+        "Sekély medencében, az árokrendszer két ága között fekszik.",
+        "Belőle ered a Fehér-Nílus."
+      ],
+      "concepts": [
+        "tó",
+        "tektonikus eredetű tó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--voros-tenger": {
+      "fekves": "Afrika és az Arab-félsziget között, kb. az é. sz. 12° és 28° között húzódó keskeny tenger.",
+      "facts": [
+        "Távolodó lemezszegély: az Arab-lemez itt távolodik az Afrikaitól, a tenger lassan szélesedik.",
+        "Sótartalma igen magas a nagy párolgás és a csekély beáramlás miatt.",
+        "A Szuezi-csatornán át fontos hajózási útvonal."
+      ],
+      "concepts": [
+        "távolodó",
+        "hasadékvölgy",
+        "sótartalom",
+        "beltenger"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--asszuani-gat-asszuani-nagy-gat": {
+      "fekves": "Dél-Egyiptomban, a Níluson, kb. az é. sz. 24°, k. h. 33°-on épült völgyzáró gát; mögötte a Nasszer-tó húzódik.",
+      "facts": [
+        "Szabályozza a Nílus áradásait, öntözővizet és villamos energiát biztosít.",
+        "Mivel az iszap a tározóban rakódik le, a földeket műtrágyázni kell.",
+        "A delta pusztul, mert nem kap utánpótlást hordalékból."
+      ],
+      "concepts": [
+        "víztározó",
+        "mesterséges tó",
+        "öntözővíz",
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--csad-to": {
+      "fekves": "A Száhel övezetében, Csád, Niger, Nigéria és Kamerun határán, kb. az é. sz. 13°, k. h. 14°-on fekvő sekély tó.",
+      "facts": [
+        "Belső lefolyású, sekély tó, területe évszakosan és évről évre erősen ingadozik.",
+        "Az aszályok és az öntözés miatt területe nagyon lecsökkent."
+      ],
+      "concepts": [
+        "lefolyásos és belső lefolyású terület",
+        "kiszáradás",
+        "aszály"
+      ],
+      "processes": [
+        "talajpusztulas-sivatagosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--niger": {
+      "fekves": "Nyugat-Afrika folyója, amely a Guineai-magasföldön ered, ívben a Száhelen át északkeletre, majd délkeletre fordul, és a Guineai-öbölbe torkollik.",
+      "facts": [
+        "Nagy kanyarulatában a Szahara peremén belső deltát alkot.",
+        "Nigériában deltatorkolattal ömlik a tengerbe; a deltavidéken kőolajat termelnek.",
+        "A száraz vidékeken jövevényfolyó."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "jövevényfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--vizrajz--zambezi": {
+      "fekves": "Dél-Afrika folyója, amely Zambia, Zimbabwe és Mozambik területén át keletre folyik, és az Indiai-óceánba ömlik.",
+      "facts": [
+        "Rajta van a Viktória-vízesés.",
+        "Nagy víztározói (pl. Kariba, Cahora Bassa) vízenergiát termelnek."
+      ],
+      "concepts": [
+        "víztározó",
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--del-afrikai-koztarsasag": {
+      "fekves": "Afrika déli csücskén, kb. a d. sz. 22° és 35° között fekvő ország; az Atlanti- és az Indiai-óceán határolja, északon Namíbiával, Botswanával, Zimbabwével és Mozambikkal határos.",
+      "facts": [
+        "Afrika egyik legfejlettebb gazdasága, a BRICS országok egyike.",
+        "Ásványkincsekben gazdag: arany, gyémánt, platina, kőszén.",
+        "Társadalmát máig formálja az apartheid öröksége."
+      ],
+      "concepts": [
+        "BRICS országok",
+        "magmás ércképződés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--egyiptom": {
+      "fekves": "Északkelet-Afrikában, kb. az é. sz. 22° és 32° között fekvő ország; a Földközi- és a Vörös-tenger határolja, a Sínai-félsziget révén Ázsiába is átnyúlik.",
+      "facts": [
+        "Lakossága szinte teljesen a Nílus völgyében és deltájában él.",
+        "Bevételei: Szuezi-csatorna, idegenforgalom, kőolaj és földgáz.",
+        "Területének nagy része sivatag."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "népességtömörülés (népességkoncentráció)",
+        "oázisgazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--kenya": {
+      "fekves": "Kelet-Afrikában, az Egyenlítőn, kb. az é. sz. 5° és a d. sz. 5° között fekvő ország; az Indiai-óceán partján, a Viktória-tó mellett.",
+      "facts": [
+        "Fontos ültetvényes termékei a tea és a kávé, valamint a vágott virág.",
+        "Szavannás nemzeti parkjai jelentős idegenforgalmat vonzanak.",
+        "Az Afrikai-árokrendszer kettészeli."
+      ],
+      "concepts": [
+        "ültetvényes gazdálkodás",
+        "nemzeti park",
+        "szavanna"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--libia": {
+      "fekves": "Észak-Afrikában, a Földközi-tenger partján, kb. az é. sz. 20° és 33° között fekvő ország Egyiptom és Tunézia–Algéria között.",
+      "facts": [
+        "Területének nagy része a Szaharához tartozik.",
+        "Gazdasága a kőolaj- és földgázexportra épül, OPEC-tag.",
+        "Lakossága a partvidéken tömörül."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "forró övezeti (trópusi) sivatagi éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--niger": {
+      "fekves": "Nyugat-Afrika tengerparttal nem rendelkező országa, kb. az é. sz. 12° és 23° között, a Szahara és a Száhel területén.",
+      "facts": [
+        "Az egyik legszegényebb ország; a világon itt az egyik legmagasabb a termékenység.",
+        "Uránérc-kitermelése jelentős.",
+        "Az elsivatagosodás és az aszály súlyosan sújtja."
+      ],
+      "concepts": [
+        "népességrobbanás",
+        "elsivatagosodás",
+        "fejlett és fejlődő ország"
+      ],
+      "processes": [
+        "demografiai-atmenet"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--nigeria": {
+      "fekves": "Nyugat-Afrikában, a Guineai-öböl partján, kb. az é. sz. 4° és 14° között fekvő ország; Benin, Niger, Csád és Kamerun határolja.",
+      "facts": [
+        "Afrika legnépesebb országa.",
+        "Gazdasága a Niger-delta kőolajára épül, OPEC-tag.",
+        "Többnemzetiségű állam; északon az iszlám, délen a kereszténység az uralkodó."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "többnemzetiségű állam",
+        "népességrobbanás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--tunezia": {
+      "fekves": "Észak-Afrikában, a Földközi-tenger partján, kb. az é. sz. 30° és 37° között fekvő ország Algéria és Líbia között.",
+      "facts": [
+        "Északi része mediterrán éghajlatú, déli része a Szaharához tartozik.",
+        "Fontos ágazata a tengerparti idegenforgalom és az olajbogyó-termesztés.",
+        "Foszfátkitermelése jelentős."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "mediterrán gazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--algeria": {
+      "fekves": "Észak-Afrikában, kb. az é. sz. 19° és 37° között fekvő ország Marokkó és Tunézia–Líbia között; északon a Földközi-tenger határolja.",
+      "facts": [
+        "Afrika legnagyobb területű országa.",
+        "Területének nagy része a Szaharához tartozik.",
+        "Kőolaj- és földgázexportőr, OPEC-tag; földgázt vezetéken is szállít Európába."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--csad": {
+      "fekves": "Afrika középső-északi részén, tengerparttal nem rendelkező ország, kb. az é. sz. 8° és 23° között; nevét a Csád-tóról kapta.",
+      "facts": [
+        "Északon a Szaharához, középen a Száhelhez, délen a szavannához tartozik.",
+        "A Föld egyik legszegényebb országa.",
+        "Az elsivatagosodás és az aszály súlyos probléma."
+      ],
+      "concepts": [
+        "elsivatagosodás",
+        "vízszintes földrajzi övezetesség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--etiopia": {
+      "fekves": "Kelet-Afrikában, tengerparttal nem rendelkező ország az Etióp-magasföldön, kb. az é. sz. 3° és 15° között.",
+      "facts": [
+        "Afrika egyik legnépesebb országa.",
+        "A kávé őshazája, kávétermesztése jelentős.",
+        "Gyakran sújtja aszály és éhínség."
+      ],
+      "concepts": [
+        "éhínség",
+        "aszály",
+        "népességrobbanás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--liberia": {
+      "fekves": "Nyugat-Afrikában, az Atlanti-óceán partján, kb. az é. sz. 4° és 9° között fekvő ország Sierra Leone, Guinea és Elefántcsontpart között.",
+      "facts": [
+        "Felszabadított amerikai rabszolgák alapították.",
+        "Kaucsukültetvényei jelentősek.",
+        "Kedvező szabályai miatt sok hajót lajstromoznak liberiai lobogó alatt."
+      ],
+      "concepts": [
+        "ültetvényes gazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--marokko": {
+      "fekves": "Északnyugat-Afrikában, az Atlanti-óceán és a Földközi-tenger partján, kb. az é. sz. 28° és 36° között fekvő ország; a Gibraltári-szoros választja el Spanyolországtól.",
+      "facts": [
+        "Az Atlasz hegység húzódik át rajta.",
+        "A világ egyik legnagyobb foszfát-kitermelője.",
+        "Jelentős az idegenforgalom és a mezőgazdasági export Európába."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "gyűrthegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--orszagok--seychelle-szigetek": {
+      "fekves": "Az Indiai-óceán nyugati részén, Kelet-Afrikától keletre, kb. a d. sz. 4° és 10° között fekvő szigetország.",
+      "facts": [
+        "Gazdaságának alapja az idegenforgalom és a halászat.",
+        "Gránit szigetei a Gondwana feldarabolódása során leszakadt kontinentális kéreg darabjai."
+      ],
+      "concepts": [
+        "Gondwana",
+        "kontinentális kéreg"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--varosok--abuja": {
+      "fekves": "Nigéria középső részén, kb. az é. sz. 9°, k. h. 7,5°-on fekvő város.",
+      "facts": [
+        "Nigéria fővárosa (Lagos helyett), tervezett város.",
+        "Az ország földrajzi közepére, a különböző népcsoportok határvidékére telepítették."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--varosok--kairo": {
+      "fekves": "Egyiptomban, a Nílus partján, a delta csúcsánál, kb. az é. sz. 30°, k. h. 31°-on fekvő város.",
+      "facts": [
+        "Egyiptom fővárosa, Afrika és az arab világ egyik legnagyobb városa.",
+        "Közelében állnak a gízai piramisok (világörökség).",
+        "Gyors növekedése nyomornegyedeket és súlyos urbanizációs ártalmakat okoz."
+      ],
+      "concepts": [
+        "világörökség",
+        "nyomornegyed",
+        "urbanizációs ártalmak"
+      ],
+      "processes": [
+        "varosodas-szakaszai"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--varosok--pretoria": {
+      "fekves": "A Dél-afrikai Köztársaság északkeleti részén, a magasföldön, kb. a d. sz. 26°, k. h. 28°-on fekvő város, Johannesburgtól északra.",
+      "facts": [
+        "A Dél-afrikai Köztársaság közigazgatási fővárosa.",
+        "Johannesburggal közös agglomerációt alkot (Gauteng tartomány)."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--varosok--alexandria": {
+      "fekves": "Egyiptomban, a Nílus-delta nyugati szélén, a Földközi-tenger partján, kb. az é. sz. 31°, k. h. 30°-on fekvő város.",
+      "facts": [
+        "Egyiptom legnagyobb kikötője és második legnagyobb városa.",
+        "Nagy Sándor alapította, az ókor egyik kulturális központja volt."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--varosok--fokvaros": {
+      "fekves": "A Dél-afrikai Köztársaság délnyugati csücskén, a Jóreménység-foka közelében, kb. a d. sz. 34°, k. h. 18°-on fekvő kikötőváros.",
+      "facts": [
+        "A Dél-afrikai Köztársaság törvényhozási fővárosa.",
+        "Környéke mediterrán éghajlatú, jelentős a szőlő- és bortermelés.",
+        "Fontos kikötő az Afrikát megkerülő hajóút mentén."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "mediterrán gazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--varosok--johannesburg": {
+      "fekves": "A Dél-afrikai Köztársaság északkeleti részén, a magasföldön, kb. a d. sz. 26°, k. h. 28°-on fekvő város.",
+      "facts": [
+        "A Dél-afrikai Köztársaság legnagyobb városa és gazdasági központja.",
+        "Az aranybányászatra (Witwatersrand) épült.",
+        "Afrika legfontosabb tőzsdéje működik itt."
+      ],
+      "concepts": [
+        "érték- és árutőzsde",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "afrika--varosok--lagos": {
+      "fekves": "Nigéria délnyugati részén, a Guineai-öböl partján, egy lagúna mellett, kb. az é. sz. 6°, k. h. 3°-on fekvő város.",
+      "facts": [
+        "Nigéria legnagyobb városa és kikötője, Afrika egyik legnépesebb óriásvárosa.",
+        "Abuja előtt az ország fővárosa volt.",
+        "Gyors növekedése miatt kiterjedt nyomornegyedek jellemzik."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "nyomornegyed",
+        "lagúna"
+      ],
+      "processes": [
+        "varosodas-szakaszai"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--a-foldresz-reszei--eszak-amerika": {
+      "fekves": "Amerika északi része, kb. az é. sz. 15°-tól (a Panama-földszorosig nyúlva) az é. sz. 83°-ig; a Csendes-, az Atlanti- és a Jeges-óceán határolja.",
+      "facts": [
+        "Nyugaton a Kordillerák, keleten az Appalache és a Kanadai-ősföld, köztük alföldek húzódnak.",
+        "A hegységek észak–déli irányúak, ezért a hideg és meleg légtömegek akadálytalanul áramlanak.",
+        "Itt fekszik a világgazdaság egyik pólusa, az Egyesült Államok."
+      ],
+      "concepts": [
+        "világgazdasági pólus (centrum térség)",
+        "ősföld (ősmasszívum)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--a-foldresz-reszei--del-amerika": {
+      "fekves": "Amerika déli része, kb. az é. sz. 12° és a d. sz. 56° között; nyugaton a Csendes-, keleten az Atlanti-óceán határolja, északon a Panama-földszoros köti Közép-Amerikához.",
+      "facts": [
+        "Nyugati peremén az Andok, keleten ősföldek (Guyanai-, Brazil-), köztük nagy alföldek húzódnak.",
+        "Itt van a Föld legnagyobb esőerdője az Amazonas-medencében.",
+        "Népessége a partvidékeken tömörül, belseje gyéren lakott."
+      ],
+      "concepts": [
+        "trópusi esőerdő",
+        "ősföld (ősmasszívum)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--a-foldresz-reszei--kozep-amerika": {
+      "fekves": "Észak- és Dél-Amerika közötti keskeny szárazföldi sáv és a hozzá tartozó szigetek, kb. az é. sz. 6° és 33° között.",
+      "facts": [
+        "Szárazföldi része Mexikótól a Panama-földszorosig tart, szigetvilága az Antillák.",
+        "Lemezszegélyen fekszik: gyakori a vulkánkitörés és a földrengés.",
+        "Gyakran pusztítanak trópusi ciklonok (hurrikánok)."
+      ],
+      "concepts": [
+        "trópusi ciklon (hurrikán, tájfun)",
+        "felszíni vulkánosság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--a-foldresz-reszei--latin-amerika": {
+      "fekves": "Az Egyesült Államoktól délre fekvő amerikai területek (Mexikó, Közép-Amerika, Antillák, Dél-Amerika), kb. az é. sz. 33° és a d. sz. 56° között.",
+      "facts": [
+        "Nevét az újlatin nyelvekről (spanyol, portugál) kapta.",
+        "Lakossága keveréknépekből áll (meszticek, mulattok).",
+        "Magas a városi népesség aránya, sok a nyomornegyed."
+      ],
+      "concepts": [
+        "keveréknépek",
+        "nyomornegyed",
+        "kulturális régió"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--alaszka": {
+      "fekves": "Észak-Amerika északnyugati részén, kb. az é. sz. 51° és 71° között fekvő félsziget; az Egyesült Államok tagállama, a Bering-szoros választja el Ázsiától.",
+      "facts": [
+        "Déli partja mentén a Pacifikus-hegységrendszer vulkánjai és földrengései jellemzők.",
+        "Északi partvidékén kőolajat termelnek.",
+        "Éghajlata tajga- és tundraéghajlat, sok helyen „örök fagy”."
+      ],
+      "concepts": [
+        "tajgaéghajlat",
+        "tundraéghajlat",
+        "„örök fagy” (permafroszt)",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--amazonas-medence": {
+      "fekves": "Dél-Amerika északi részén, kb. az é. sz. 5° és a d. sz. 20° között, az Andok és a Brazil-felföld közt fekvő óriási medence.",
+      "facts": [
+        "Egyenlítői éghajlatú; a Föld legnagyobb trópusi esőerdeje borítja.",
+        "Az erdőirtás (fakitermelés, legelők, szójaföldek) a biológiai sokféleség csökkenését okozza.",
+        "Az esőerdő talaja tápanyagszegény laterittalaj."
+      ],
+      "concepts": [
+        "egyenlítői éghajlat",
+        "trópusi esőerdő",
+        "erdőirtás",
+        "laterittalaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--andok": {
+      "fekves": "Dél-Amerika nyugati peremén, kb. az é. sz. 11°-tól a d. sz. 55°-ig húzódó lánchegység.",
+      "facts": [
+        "A Föld leghosszabb szárazföldi hegysége.",
+        "A Nazca-lemez alábukása emelte ki; sok aktív rétegvulkán és gyakori földrengés jellemzi.",
+        "Jól megfigyelhető rajta a függőleges földrajzi övezetesség."
+      ],
+      "concepts": [
+        "lánchegység",
+        "alábukás",
+        "rétegvulkán",
+        "függőleges földrajzi övezetesség"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--antillak": {
+      "fekves": "A Karib-tengert északról és keletről határoló szigetvilág, kb. az é. sz. 10° és 24° között; Nagy- és Kis-Antillákra tagolódik.",
+      "facts": [
+        "A Kis-Antillák vulkáni szigetívet alkotnak.",
+        "Gyakran pusztítanak trópusi ciklonok (hurrikánok).",
+        "Ültetvényes gazdálkodás (cukornád) és idegenforgalom jellemzi."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "trópusi ciklon (hurrikán, tájfun)",
+        "ültetvényes gazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--appalache-hegyseg-appalache": {
+      "fekves": "Észak-Amerika keleti részén, az Atlanti-óceán partjával párhuzamosan, kb. az é. sz. 33° és 49° között húzódó hegység.",
+      "facts": [
+        "Idős, lepusztult gyűrthegység (kaledóniai és variszkuszi).",
+        "Kőszénkészlete alapozta meg az Egyesült Államok északkeleti iparát."
+      ],
+      "concepts": [
+        "variszkuszi",
+        "kaledóniai",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--brazil-felfold": {
+      "fekves": "Dél-Amerika keleti részén, Brazíliában, kb. a d. sz. 1° és 30° között fekvő felföld.",
+      "facts": [
+        "A Brazil-ősföldön alakult ki.",
+        "Növényzete nagyrészt szavanna (campo), éghajlata szavannaéghajlat.",
+        "Gazdag vasércben; fontos a kávé- és szójatermesztés."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "szavanna",
+        "vasérc"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--floridai-felsziget": {
+      "fekves": "Az Egyesült Államok délkeleti részén, a Mexikói-öböl és az Atlanti-óceán között, kb. az é. sz. 25° és 31° között fekvő félsziget.",
+      "facts": [
+        "Mészkőtáblából álló, alacsony félsziget, déli részén mocsarak (Everglades).",
+        "Meleg éghajlata miatt citrusféléket termesztenek és jelentős az idegenforgalom.",
+        "Gyakran sújtják hurrikánok."
+      ],
+      "concepts": [
+        "trópusi ciklon (hurrikán, tájfun)",
+        "mocsár"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--gronland": {
+      "fekves": "Észak-Amerikától északkeletre, kb. az é. sz. 60° és 84° között fekvő sziget; Dániához tartozó autonóm terület.",
+      "facts": [
+        "A Föld legnagyobb szigete.",
+        "Felszínét nagyrészt jégtakaró borítja; olvadása emeli a tengerszintet.",
+        "Partjait fjordok tagolják."
+      ],
+      "concepts": [
+        "jégtakaró",
+        "fjord",
+        "globális felmelegedés"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--guyanai-hegyvidek": {
+      "fekves": "Dél-Amerika északi részén, az Orinoco és az Amazonas között, kb. az é. sz. 9° és a d. sz. 3° között fekvő hegyvidék.",
+      "facts": [
+        "A Guyanai-ősföldön alakult ki; asztalhegyek (tepuik) jellemzik.",
+        "Itt található a Föld legmagasabb vízesése, az Angel-vízesés.",
+        "Bauxitban gazdag."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "bauxit"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--hawaii-szigetek": {
+      "fekves": "A Csendes-óceán északi részének közepén, kb. az é. sz. 19° és 29° között fekvő szigetcsoport; az Egyesült Államok tagállama.",
+      "facts": [
+        "Forró pont fölött kialakult vulkánlánc; a szigetek kora északnyugat felé nő.",
+        "Pajzsvulkánjai (pl. Kilauea) hígan folyó bazaltlávát ontanak.",
+        "Jelentős az idegenforgalom."
+      ],
+      "concepts": [
+        "forrópontos vulkán",
+        "pajzsvulkán",
+        "bazalt"
+      ],
+      "processes": [
+        "forro-pont",
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--kaliforniai-felsziget": {
+      "fekves": "Mexikó északnyugati részén, kb. az é. sz. 23° és 32° között fekvő hosszú, keskeny félsziget; a Kaliforniai-öböl választja el a szárazföldtől.",
+      "facts": [
+        "A Kaliforniai-öböl a lemezmozgások révén nyílt meg.",
+        "Éghajlata nagyrészt sivatagi, a hideg Kaliforniai-áramlás miatt is."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "hideg és meleg tengeráramlás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--kordillerak": {
+      "fekves": "Észak-Amerika nyugati peremén, Alaszkától Mexikóig, kb. az é. sz. 17° és 69° között húzódó hegységrendszer.",
+      "facts": [
+        "A Pacifikus-hegységrendszer része, több párhuzamos láncból áll (Sziklás-hegység, Parti-hegység).",
+        "Gyakori a vulkánosság és a földrengés.",
+        "Láncai között fennsíkok és medencék (pl. Nagy-medence) fekszenek."
+      ],
+      "concepts": [
+        "hegységrendszer",
+        "lánchegység",
+        "eurázsiai és pacifikus hegységképződés"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--labrador-felsziget": {
+      "fekves": "Kanada keleti részén, a Hudson-öböl és az Atlanti-óceán között, kb. az é. sz. 51° és 60° között fekvő félsziget.",
+      "facts": [
+        "A Kanadai-ősföld része, vasércben gazdag.",
+        "A hideg Labrador-áramlás miatt hidegebb, mint az azonos szélességű Nyugat-Európa.",
+        "Tajga és tundra borítja."
+      ],
+      "concepts": [
+        "pozitív és negatív hőmérsékleti anomália",
+        "tajga",
+        "tundra"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--mexikoi-fennsik": {
+      "fekves": "Mexikó középső részén, a Nyugati- és a Keleti-Sierra Madre között, kb. az é. sz. 20° és 32° között fekvő fennsík.",
+      "facts": [
+        "Északi része száraz, félsivatagos; déli része magasabb és csapadékosabb.",
+        "Déli peremén vulkánok emelkednek (pl. Popocatépetl).",
+        "Ércekben, főleg ezüstben gazdag."
+      ],
+      "concepts": [
+        "fennsík",
+        "függőleges földrajzi övezetesség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--mississippi-alfold": {
+      "fekves": "Az Egyesült Államok déli részén, a Mississippi alsó szakasza mentén, kb. az é. sz. 30° és 37° között fekvő alföld.",
+      "facts": [
+        "Feltöltött síkság a folyó hordalékából.",
+        "Nedves szubtrópusi éghajlatán gyapotot, rizst, szóját termesztenek.",
+        "A folyó áradásai miatt jelentős az árvízvédelem."
+      ],
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság",
+        "ár- és belvízvédelem"
+      ],
+      "processes": [
+        "folyo-munkaja",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--mount-st-helens": {
+      "fekves": "Az Egyesült Államok északnyugati részén, Washington államban, a Kaszkád-hegységben, kb. az é. sz. 46°, ny. h. 122°-on emelkedő vulkán.",
+      "facts": [
+        "Rétegvulkán, a Juan de Fuca-lemez alábukásához kapcsolódik.",
+        "Robbanásos kitörése 1980-ban letarolta a környező erdőket és lerobbantotta csúcsát."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "alábukás",
+        "vulkáni hamu"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--parana-alfold": {
+      "fekves": "Dél-Amerikában, a Paraná folyó mentén, Argentína északi részén és Paraguayban, kb. a d. sz. 20° és 38° között fekvő alföld.",
+      "facts": [
+        "Feltöltött síkság; déli részén a pampa terül el.",
+        "Termékeny mezőségi talajain gabonát és szóját termesztenek, szarvasmarhát tartanak."
+      ],
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság",
+        "pampa",
+        "mezőségi talaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--preri": {
+      "fekves": "Észak-Amerika belsejében, a Sziklás-hegységtől keletre, kb. az é. sz. 30° és 54° között elterülő füves síkság.",
+      "facts": [
+        "Mérsékelt övezeti füves terület (préri), mezőségi talajjal.",
+        "A füves területek feltörésével a Föld egyik legnagyobb gabonatermő vidéke lett.",
+        "Szárazabb nyugati részén szarvasmarhát tenyésztenek, öntözés is szükséges."
+      ],
+      "concepts": [
+        "préri",
+        "mezőségi talaj",
+        "füves területek feltörése",
+        "nedves kontinentális éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--sziklas-hegyseg": {
+      "fekves": "A Kordillerák keleti lánca az Egyesült Államok és Kanada területén, kb. az é. sz. 35° és 60° között.",
+      "facts": [
+        "A Pacifikus-hegységrendszer része.",
+        "Fontos vízválasztó: innen erednek a Mississippi, a Missouri és a Colorado ágai.",
+        "Ércekben gazdag; nemzeti parkjai jelentősek (pl. Yellowstone)."
+      ],
+      "concepts": [
+        "vízválasztó",
+        "lánchegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--szilicium-volgy": {
+      "fekves": "Az Egyesült Államok nyugati partján, Kaliforniában, a San Franciscó-i öböl déli részén, kb. az é. sz. 37°, ny. h. 122°-on.",
+      "facts": [
+        "A világ legismertebb technopolisza, a csúcstechnológiai ipar központja.",
+        "Kialakulását egyetemek (pl. Stanford) és a K+F tevékenység segítette."
+      ],
+      "concepts": [
+        "technopolisz",
+        "kutatás-fejlesztés (K+F tevékenység)",
+        "innováció"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--atacama-sivatag": {
+      "fekves": "Dél-Amerika nyugati partvidékén, Chile északi részén, kb. a d. sz. 18° és 28° között húzódó part menti sivatag.",
+      "facts": [
+        "A Föld egyik legszárazabb területe.",
+        "Kialakulásában a hideg Humboldt-áramlás és az Andok szélárnyéka is szerepet játszik.",
+        "Rézérc- és salétromkészletei jelentősek."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "hideg és meleg tengeráramlás"
+      ],
+      "processes": [
+        "tengeraramlasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--bahama-szigetek": {
+      "fekves": "Az Atlanti-óceánban, Floridától délkeletre, kb. az é. sz. 20° és 27° között fekvő szigetcsoport (önálló állam).",
+      "facts": [
+        "Alacsony korall- és mészkőszigetek.",
+        "Gazdaságának alapja az idegenforgalom és a pénzügyi szolgáltatások (adóparadicsom)."
+      ],
+      "concepts": [
+        "adóparadicsom",
+        "offshore cég"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--orinoco-medence": {
+      "fekves": "Dél-Amerika északi részén, Venezuela és Kolumbia területén, kb. az é. sz. 3° és 10° között, az Andok és a Guyanai-hegyvidék között fekvő medence.",
+      "facts": [
+        "Szavannaéghajlatú, füves síkság (llanók).",
+        "Az Orinoco és mellékfolyói csapolják le; nehézolaj-készletei jelentősek."
+      ],
+      "concepts": [
+        "szavannaéghajlat",
+        "szavanna"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--popocatepetl": {
+      "fekves": "Mexikó középső részén, Mexikóvárostól délkeletre, kb. az é. sz. 19°, ny. h. 99°-on emelkedő vulkán.",
+      "facts": [
+        "Aktív rétegvulkán, Mexikó egyik legmagasabb hegye.",
+        "A Cocos-lemez alábukásához kapcsolódó vulkáni övben fekszik.",
+        "Kitörései a közeli sűrűn lakott területeket veszélyeztetik."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "alábukás"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--tajak--yellowstone-nemzeti-park": {
+      "fekves": "Az Egyesült Államok északnyugati részén, főként Wyoming államban, a Sziklás-hegységben, kb. az é. sz. 44,5°, ny. h. 110,5°-on.",
+      "facts": [
+        "A világ első nemzeti parkja (1872).",
+        "Forró pont fölötti hatalmas kaldera; gejzírjei a vulkáni utóműködés példái."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "gejzír",
+        "kaldera",
+        "vulkáni utóműködés"
+      ],
+      "processes": [
+        "forro-pont"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--amazonas": {
+      "fekves": "Dél-Amerika folyója, amely az Andokban ered, és az Amazonas-medencén át keletre folyva az Egyenlítő közelében az Atlanti-óceánba ömlik.",
+      "facts": [
+        "A Föld legbővizűbb folyója, legnagyobb vízgyűjtő területtel.",
+        "Vízjárása kiegyenlített, mert mellékfolyói mindkét félgömbről kapnak vizet.",
+        "Alsó szakasza óceánjárókkal is hajózható."
+      ],
+      "concepts": [
+        "vízhozam",
+        "vízgyűjtő terület",
+        "vízjárás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--colorado": {
+      "fekves": "Az Egyesült Államok délnyugati részén folyó folyó: a Sziklás-hegységben ered, és a Kaliforniai-öbölbe torkollik.",
+      "facts": [
+        "Mélyen bevágódva alakította ki a Grand Canyont.",
+        "Gátjai (pl. Hoover-gát) öntözővizet és villamos energiát adnak.",
+        "A nagy vízkivétel miatt torkolatáig alig ér el víz."
+      ],
+      "concepts": [
+        "kanyon",
+        "víztározó",
+        "öntözővíz"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--karib-antilla-tenger": {
+      "fekves": "Az Atlanti-óceán melléktengere Közép-Amerika, Dél-Amerika északi partja és az Antillák között, kb. az é. sz. 9° és 23° között.",
+      "facts": [
+        "Meleg vize táplálja a hurrikánokat.",
+        "Partjain és szigetein jelentős az idegenforgalom.",
+        "A Panama-csatornán át összeköttetésben áll a Csendes-óceánnal."
+      ],
+      "concepts": [
+        "peremtenger",
+        "trópusi ciklon (hurrikán, tájfun)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--mexikoi-obol": {
+      "fekves": "Az Atlanti-óceán öble az Egyesült Államok, Mexikó és Kuba között, kb. az é. sz. 21° és 31° között.",
+      "facts": [
+        "Selfterületén jelentős kőolaj- és földgázkitermelés folyik.",
+        "Meleg vize miatt erős hurrikánok alakulnak ki felette.",
+        "Innen indul a Golf-áramlás."
+      ],
+      "concepts": [
+        "öböl",
+        "szárazföldi talapzat (self)",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--mississippi": {
+      "fekves": "Észak-Amerika fő folyója, amely az Egyesült Államok északi részén ered, és dél felé folyva deltával torkollik a Mexikói-öbölbe.",
+      "facts": [
+        "Mellékfolyóival (Missouri, Ohio) Észak-Amerika legnagyobb vízrendszere.",
+        "Torkolata madárláb alakú delta.",
+        "Fontos belvízi hajóút; áradásai ellen gátrendszer védekezik."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "fő- és mellékfolyó",
+        "belvízi és tengerhajózás",
+        "árvízvédelmi gát"
+      ],
+      "processes": [
+        "folyo-munkaja",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--nagy-tavak-erie-felso-huron-michigan-ontario-to": {
+      "fekves": "Az Egyesült Államok és Kanada határán, kb. az é. sz. 41° és 49° között fekvő tórendszer; a Szent Lőrinc-folyó vezeti le vizét az Atlanti-óceánba.",
+      "facts": [
+        "Jégvájta tavak, a jégkorszaki jégtakaró mélyítette ki medencéiket.",
+        "A Föld legnagyobb édesvízi tórendszere.",
+        "Partjain jött létre az Egyesült Államok hagyományos nehézipari övezete."
+      ],
+      "concepts": [
+        "jégvájta tó",
+        "belvízi és tengerhajózás"
+      ],
+      "processes": [
+        "jeg-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--niagara-vizeses": {
+      "fekves": "Az Egyesült Államok és Kanada határán, az Erie- és az Ontario-tavat összekötő Niagara folyón, kb. az é. sz. 43°, ny. h. 79°-on.",
+      "facts": [
+        "Hátravágódó vízesés: kemény kőzetréteg alól a puhább réteget kimossa a víz.",
+        "Vízerőművek és jelentős idegenforgalom kapcsolódik hozzá."
+      ],
+      "concepts": [
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "processes": [
+        "folyo-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--panama-csatorna": {
+      "fekves": "Panamában, a Panama-földszoroson, kb. az é. sz. 9°, ny. h. 80°-on húzódó mesterséges vízi út az Atlanti- és a Csendes-óceán között.",
+      "facts": [
+        "Zsilipes csatorna, amely jelentősen lerövidíti a két óceán közötti hajóutat.",
+        "Panama fő bevételi forrása."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--parana": {
+      "fekves": "Dél-Amerika folyója, amely Brazíliában ered, Paraguay és Argentína határán dél felé folyik, és az Uruguay folyóval a La Plata tölcsértorkolatába ömlik.",
+      "facts": [
+        "Dél-Amerika második legnagyobb vízrendszere.",
+        "Rajta épült az Itaipu-gát vízerőműve.",
+        "Fontos belvízi hajóút."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--szent-lorinc-folyo": {
+      "fekves": "Kanada délkeleti részén, kb. az é. sz. 44° és 50° között folyó folyó: az Ontario-tóból indul, és tölcsértorkolattal ömlik az Atlanti-óceánba.",
+      "facts": [
+        "A Nagy-tavak vizét vezeti le.",
+        "Csatornázott hajóútja révén óceánjárók is eljuthatnak a Nagy-tavakig.",
+        "Partján fekszik Montréal és Québec."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--hudson-obol": {
+      "fekves": "Kanada északkeleti részén, kb. az é. sz. 55° és 66° között fekvő nagy beltenger jellegű öböl.",
+      "facts": [
+        "A Kanadai-ősföld süllyedékében fekszik.",
+        "Az év nagy részében befagy.",
+        "A jégtakaró elolvadása után a környező szárazföld lassan emelkedik (izosztázia)."
+      ],
+      "concepts": [
+        "öböl",
+        "beltenger",
+        "izosztázia"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--itaipu-gat": {
+      "fekves": "A Paraná folyón, Brazília és Paraguay határán, kb. a d. sz. 25°, ny. h. 55°-on épült gát és vízerőmű.",
+      "facts": [
+        "A Föld egyik legnagyobb teljesítményű vízerőműve.",
+        "Brazília és Paraguay közös beruházása."
+      ],
+      "concepts": [
+        "víztározó",
+        "megújuló és nem megújuló energiaforrások"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--krater-to": {
+      "fekves": "Az Egyesült Államok északnyugati részén, Oregon államban, a Kaszkád-hegységben, kb. az é. sz. 43°, ny. h. 122°-on fekvő tó.",
+      "facts": [
+        "Kalderató: egy vulkán beszakadt kalderájában alakult ki.",
+        "Az Egyesült Államok legmélyebb tava; nemzeti park."
+      ],
+      "concepts": [
+        "kalderató",
+        "kaldera",
+        "nemzeti park"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--la-plata": {
+      "fekves": "Dél-Amerika délkeleti partján, Argentína és Uruguay között, kb. a d. sz. 35°, ny. h. 57°-on fekvő tölcsértorkolat.",
+      "facts": [
+        "A Paraná és az Uruguay folyó közös tölcsértorkolata.",
+        "Partján fekszik Buenos Aires és Montevideo."
+      ],
+      "concepts": [
+        "tölcsértorkolat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--vizrajz--orinoco": {
+      "fekves": "Dél-Amerika északi részén, Venezuelában folyó folyó: a Guyanai-hegyvidéken ered, és deltával ömlik az Atlanti-óceánba.",
+      "facts": [
+        "Vízjárása szavannaéghajlata miatt évszakosan erősen ingadozik.",
+        "Medencéjében nagy kőolajkészletek vannak."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "vízjárás",
+        "szavannaéghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--amerikai-egyesult-allamok": {
+      "fekves": "Észak-Amerika középső részén, kb. az é. sz. 25° és 49° között fekvő szövetségi állam (Alaszkával és Hawaiival együtt); Kanada és Mexikó határolja, partjait az Atlanti- és a Csendes-óceán mossa.",
+      "facts": [
+        "A világ legnagyobb gazdasága, a Triád egyik pólusa.",
+        "Szövetségi köztársaság, 50 tagállammal.",
+        "Az USMCA tagja Kanadával és Mexikóval."
+      ],
+      "concepts": [
+        "szövetségi köztársaság",
+        "Triád",
+        "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)",
+        "világgazdasági pólus (centrum térség)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--argentina": {
+      "fekves": "Dél-Amerika déli részén, kb. a d. sz. 22° és 55° között fekvő ország; nyugaton az Andok választja el Chilétől, keleten az Atlanti-óceán határolja.",
+      "facts": [
+        "A pampán jelentős a gabona-, szója- és marhahústermelés.",
+        "A MERCOSUR alapító tagja.",
+        "Népessége zömében európai bevándorlók leszármazottja."
+      ],
+      "concepts": [
+        "pampa",
+        "Dél-amerikai Közös Piac (MERCOSUR)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--brazilia": {
+      "fekves": "Dél-Amerika keleti részén, kb. az é. sz. 5° és a d. sz. 34° között fekvő ország; az Egyenlítő és a Baktérítő is átszeli.",
+      "facts": [
+        "Dél-Amerika legnagyobb területű és legnépesebb országa, BRICS-tag.",
+        "Nagy vasérckészletek, kávé-, szója- és cukornádtermesztés jellemzi.",
+        "Az Amazonas-medence esőerdejének irtása globális környezeti probléma."
+      ],
+      "concepts": [
+        "BRICS országok",
+        "Dél-amerikai Közös Piac (MERCOSUR)",
+        "erdőirtás",
+        "szövetségi köztársaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--costa-rica": {
+      "fekves": "Közép-Amerikában, Nicaragua és Panama között, kb. az é. sz. 8° és 11° között fekvő ország; a Karib-tenger és a Csendes-óceán határolja.",
+      "facts": [
+        "A természetvédelem és az ökoturizmus mintaországa; területének jelentős része védett.",
+        "Banán- és kávétermesztése jelentős."
+      ],
+      "concepts": [
+        "nemzeti park",
+        "fenntarthatóság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--kanada": {
+      "fekves": "Észak-Amerika északi részén, kb. az é. sz. 42° és 83° között fekvő ország; az Atlanti-, a Csendes- és a Jeges-óceán határolja, délen az Egyesült Államokkal határos.",
+      "facts": [
+        "A Föld második legnagyobb területű országa, de gyéren lakott.",
+        "Népessége a déli határ közelében tömörül.",
+        "Gazdag nyersanyagokban (fa, ércek, kőolaj, vízenergia)."
+      ],
+      "concepts": [
+        "szövetségi köztársaság",
+        "tajga"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--mexiko": {
+      "fekves": "Észak-Amerika déli részén, kb. az é. sz. 15° és 33° között fekvő ország; északon az Egyesült Államok, délen Guatemala és Belize határolja.",
+      "facts": [
+        "Szövetségi köztársaság, lakosságának többsége meszticek.",
+        "Az USMCA tagja; északi határvidékén sok összeszerelő üzem működik.",
+        "Kőolajkitermelése jelentős."
+      ],
+      "concepts": [
+        "szövetségi köztársaság",
+        "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)",
+        "keveréknépek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--venezuela": {
+      "fekves": "Dél-Amerika északi részén, a Karib-tenger partján, kb. az é. sz. 1° és 12° között fekvő ország Kolumbia, Brazília és Guyana között.",
+      "facts": [
+        "A Föld egyik legnagyobb kőolajkészletével rendelkezik, OPEC-alapító tag.",
+        "Gazdasága egyoldalúan a kőolajexportra épül."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--bolivia": {
+      "fekves": "Dél-Amerika középső részén, tengerparttal nem rendelkező ország, kb. a d. sz. 10° és 23° között.",
+      "facts": [
+        "Nyugati része az Andok magasföldjén (Altiplano) fekszik.",
+        "Ón- és ezüstbányászata hagyományos; földgáz- és lítiumkészletei jelentősek.",
+        "Népességének nagy része indián."
+      ],
+      "concepts": [
+        "függőleges földrajzi övezetesség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--chile": {
+      "fekves": "Dél-Amerika nyugati partján, az Andok és a Csendes-óceán között húzódó keskeny ország, kb. a d. sz. 17° és 56° között.",
+      "facts": [
+        "Igen hosszú, keskeny ország: északon sivatag, középen mediterrán, délen óceáni éghajlat.",
+        "A világ legnagyobb rézérc-kitermelője.",
+        "Gyakoriak a súlyos földrengések és vulkánkitörések."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "földrengés",
+        "vízszintes földrajzi övezetesség"
+      ],
+      "processes": [
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--dominikai-koztarsasag": {
+      "fekves": "A Nagy-Antillákon, Hispaniola sziget keleti részén, kb. az é. sz. 18° és 20° között fekvő ország; nyugaton Haitival határos.",
+      "facts": [
+        "Gazdaságában fontos az idegenforgalom és a cukornád-termesztés.",
+        "Gyakran sújtják hurrikánok."
+      ],
+      "concepts": [
+        "trópusi ciklon (hurrikán, tájfun)",
+        "ültetvényes gazdálkodás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--ecuador": {
+      "fekves": "Dél-Amerika északnyugati részén, az Egyenlítőn, kb. az é. sz. 2° és a d. sz. 5° között fekvő ország; hozzá tartoznak a Galápagos-szigetek is.",
+      "facts": [
+        "Nevét az Egyenlítőről kapta.",
+        "Fontos exporttermékei a banán és a kőolaj.",
+        "Az Andok vulkánjai húzódnak át rajta."
+      ],
+      "concepts": [
+        "ültetvényes gazdálkodás",
+        "rétegvulkán"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--kolumbia": {
+      "fekves": "Dél-Amerika északnyugati részén, a Karib-tenger és a Csendes-óceán partján, kb. az é. sz. 13° és a d. sz. 4° között fekvő ország.",
+      "facts": [
+        "Az Andok három ága húzódik át rajta.",
+        "Kávétermesztése világhírű; kőolajat és szenet is exportál."
+      ],
+      "concepts": [
+        "ültetvényes gazdálkodás",
+        "függőleges földrajzi övezetesség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--kuba": {
+      "fekves": "A Nagy-Antillák legnagyobb szigetén, Floridától délre, kb. az é. sz. 20° és 23° között fekvő ország.",
+      "facts": [
+        "Az Antillák legnagyobb szigetországa.",
+        "Hagyományos terméke a cukornád és a dohány; fontos az idegenforgalom.",
+        "Központi irányítású gazdaság."
+      ],
+      "concepts": [
+        "ültetvényes gazdálkodás",
+        "tervutasításos gazdaság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--orszagok--panama": {
+      "fekves": "Közép-Amerika legdélebbi országa a Panama-földszoroson, kb. az é. sz. 7° és 10° között; Costa Rica és Kolumbia határolja.",
+      "facts": [
+        "Itt húzódik a Panama-csatorna.",
+        "Fontos a hajólajstromozás és a pénzügyi szolgáltatások."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás",
+        "adóparadicsom"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--atlanta": {
+      "fekves": "Az Egyesült Államok délkeleti részén, Georgia államban, kb. az é. sz. 34°, ny. h. 84°-on fekvő város.",
+      "facts": [
+        "A Napfényövezet egyik gyorsan fejlődő központja.",
+        "Közlekedési csomópont, forgalmas repülőtérrel."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--braziliavaros": {
+      "fekves": "Brazília belsejében, a Brazil-felföldön, kb. a d. sz. 16°, ny. h. 48°-on fekvő város.",
+      "facts": [
+        "Brazília fővárosa, 1960-ban tervezett városként épült.",
+        "Az ország belsejének fejlesztése céljából helyezték ide a fővárost Rio de Janeiróból.",
+        "Világörökség része."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--buenos-aires": {
+      "fekves": "Argentínában, a La Plata tölcsértorkolatának déli partján, kb. a d. sz. 35°, ny. h. 58°-on fekvő város.",
+      "facts": [
+        "Argentína fővárosa és fő kikötője.",
+        "Dél-Amerika egyik legnagyobb városi agglomerációja."
+      ],
+      "concepts": [
+        "tölcsértorkolat",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--caracas": {
+      "fekves": "Venezuela északi részén, a Karib-tenger partja közelében, egy hegyi medencében, kb. az é. sz. 10,5°, ny. h. 67°-on fekvő város.",
+      "facts": [
+        "Venezuela fővárosa.",
+        "Hegyoldalain kiterjedt nyomornegyedek húzódnak."
+      ],
+      "concepts": [
+        "nyomornegyed"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--chicago": {
+      "fekves": "Az Egyesült Államok északi-középső részén, Illinois államban, a Michigan-tó délnyugati partján, kb. az é. sz. 42°, ny. h. 88°-on fekvő város.",
+      "facts": [
+        "Az ország egyik legnagyobb városa, fontos közlekedési csomópont.",
+        "Jelentős tőzsdei központ (árutőzsde).",
+        "A középnyugati mezőgazdasági övezet piaca."
+      ],
+      "concepts": [
+        "érték- és árutőzsde",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--dallas": {
+      "fekves": "Az Egyesült Államok déli részén, Texas államban, kb. az é. sz. 33°, ny. h. 97°-on fekvő város.",
+      "facts": [
+        "A texasi kőolajipar és a pénzügyi szolgáltatások egyik központja.",
+        "A Napfényövezet gyorsan növekvő nagyvárosa."
+      ],
+      "concepts": [
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--houston": {
+      "fekves": "Az Egyesült Államok déli részén, Texas államban, a Mexikói-öböl közelében, kb. az é. sz. 30°, ny. h. 95°-on fekvő város.",
+      "facts": [
+        "Az amerikai kőolaj- és petrolkémiai ipar központja.",
+        "Itt működik a NASA irányítóközpontja.",
+        "Csatornán át elérhető tengeri kikötő."
+      ],
+      "concepts": [
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--los-angeles": {
+      "fekves": "Az Egyesült Államok nyugati partján, Dél-Kaliforniában, kb. az é. sz. 34°, ny. h. 118°-on fekvő város.",
+      "facts": [
+        "Az ország második legnagyobb városa, sokközpontú agglomeráció.",
+        "Hollywood révén a filmipar központja.",
+        "A Szent András-törésvonal közelsége miatt földrengésveszélyes; gyakori a füstköd."
+      ],
+      "concepts": [
+        "egyközpontú és sokközpontú agglomeráció",
+        "füstköd (szmog)",
+        "földrengés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--mexikovaros": {
+      "fekves": "Mexikó középső részén, a Mexikói-fennsík déli részének egy magasan fekvő medencéjében, kb. az é. sz. 19°, ny. h. 99°-on fekvő város.",
+      "facts": [
+        "Mexikó fővárosa, a Föld egyik legnagyobb városi agglomerációja.",
+        "Medencefekvése miatt súlyos a légszennyezés (füstköd).",
+        "Kiszáradt tó medrén épült, ezért a talaj süllyed, és földrengésveszélyes."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "füstköd (szmog)",
+        "urbanizációs ártalmak"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--new-orleans": {
+      "fekves": "Az Egyesült Államok déli részén, Louisiana államban, a Mississippi-delta közelében, kb. az é. sz. 30°, ny. h. 90°-on fekvő kikötőváros.",
+      "facts": [
+        "Részben tengerszint alatt fekszik, gátak védik.",
+        "A Katrina hurrikán 2005-ben súlyos árvizet okozott.",
+        "A dzsessz szülővárosa."
+      ],
+      "concepts": [
+        "trópusi ciklon (hurrikán, tájfun)",
+        "árvízvédelmi gát",
+        "vihardagály"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--new-york": {
+      "fekves": "Az Egyesült Államok északkeleti részén, az Atlanti-óceán partján, a Hudson torkolatánál, kb. az é. sz. 41°, ny. h. 74°-on fekvő város.",
+      "facts": [
+        "Az Egyesült Államok legnagyobb városa, világváros.",
+        "A világ egyik pénzügyi központja (Wall Street, tőzsde); itt van az ENSZ székhelye.",
+        "A BosWash megalopolisz része."
+      ],
+      "concepts": [
+        "világváros (globális város)",
+        "BosWash",
+        "érték- és árutőzsde",
+        "Egyesült Nemzetek Szervezete (ENSZ)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--ottawa": {
+      "fekves": "Kanada délkeleti részén, Ontario tartományban, az Ottawa folyó partján, kb. az é. sz. 45°, ny. h. 76°-on fekvő város.",
+      "facts": [
+        "Kanada fővárosa.",
+        "Az angol és a francia nyelvterület határán fekszik."
+      ],
+      "concepts": [
+        "hivatalos nyelv"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--rio-de-janeiro": {
+      "fekves": "Brazília délkeleti részén, az Atlanti-óceán partján, kb. a d. sz. 23°, ny. h. 43°-on fekvő kikötőváros.",
+      "facts": [
+        "1960-ig Brazília fővárosa volt.",
+        "Hegyoldalain kiterjedt nyomornegyedek (favellák) húzódnak.",
+        "Jelentős idegenforgalmi központ."
+      ],
+      "concepts": [
+        "nyomornegyed",
+        "slum"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--san-francisco": {
+      "fekves": "Az Egyesült Államok nyugati partján, Kaliforniában, a San Franciscó-i öböl bejáratánál, kb. az é. sz. 38°, ny. h. 122°-on fekvő város.",
+      "facts": [
+        "A Szent András-törésvonal közelében fekszik; 1906-ban földrengés pusztította.",
+        "Agglomerációjához tartozik a Szilícium-völgy."
+      ],
+      "concepts": [
+        "földrengés",
+        "közeledő és elcsúszó lemezmozgás"
+      ],
+      "processes": [
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--seattle": {
+      "fekves": "Az Egyesült Államok északnyugati részén, Washington államban, a Puget-öböl partján, kb. az é. sz. 47,5°, ny. h. 122°-on fekvő város.",
+      "facts": [
+        "A repülőgépgyártás (Boeing) és az informatikai ipar központja.",
+        "Óceáni éghajlatú, csapadékos város."
+      ],
+      "concepts": [
+        "óceáni éghajlat",
+        "húzóágazat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--washington": {
+      "fekves": "Az Egyesült Államok keleti részén, a Potomac folyó partján, kb. az é. sz. 39°, ny. h. 77°-on fekvő város.",
+      "facts": [
+        "Az Egyesült Államok fővárosa, egyik tagállamhoz sem tartozó szövetségi körzetben.",
+        "Itt van a Világbank és az IMF székhelye.",
+        "A BosWash megalopolisz része."
+      ],
+      "concepts": [
+        "BosWash",
+        "Nemzetközi Valutaalap (IMF)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--boston": {
+      "fekves": "Az Egyesült Államok északkeleti részén, Massachusetts államban, az Atlanti-óceán partján, kb. az é. sz. 42°, ny. h. 71°-on fekvő város.",
+      "facts": [
+        "Egyetemei (Harvard, MIT) révén a K+F és a csúcstechnológia központja.",
+        "A BosWash megalopolisz északi pólusa."
+      ],
+      "concepts": [
+        "BosWash",
+        "kutatás-fejlesztés (K+F tevékenység)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--detroit": {
+      "fekves": "Az Egyesült Államok északi részén, Michigan államban, a Detroit folyó partján, az Erie- és a Huron-tó között, kb. az é. sz. 42°, ny. h. 83°-on fekvő város.",
+      "facts": [
+        "Az amerikai autógyártás hagyományos központja.",
+        "Az autóipar hanyatlása miatt népessége erősen csökkent: a válságágazatok példája."
+      ],
+      "concepts": [
+        "válságágazat",
+        "ellenvárosodás (dezurbanizáció)",
+        "gazdasági szerkezetváltás"
+      ],
+      "processes": [
+        "varosodas-szakaszai"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--havanna": {
+      "fekves": "Kuba északnyugati partján, kb. az é. sz. 23°, ny. h. 82°-on fekvő kikötőváros.",
+      "facts": [
+        "Kuba fővárosa és legnagyobb városa.",
+        "Óvárosa világörökség."
+      ],
+      "concepts": [
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--miami": {
+      "fekves": "Az Egyesült Államok délkeleti részén, a Floridai-félsziget délkeleti partján, kb. az é. sz. 26°, ny. h. 80°-on fekvő város.",
+      "facts": [
+        "Jelentős idegenforgalmi és kikötői központ.",
+        "Népességében magas a latin-amerikai bevándorlók aránya.",
+        "Gyakran sújtják hurrikánok."
+      ],
+      "concepts": [
+        "trópusi ciklon (hurrikán, tájfun)",
+        "belföldi és nemzetközi vándorlás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--montreal": {
+      "fekves": "Kanada délkeleti részén, Québec tartományban, a Szent Lőrinc-folyó egyik szigetén, kb. az é. sz. 45,5°, ny. h. 74°-on fekvő város.",
+      "facts": [
+        "Kanada második legnagyobb városa, a francia nyelvű Kanada központja.",
+        "Fontos kikötő a Szent Lőrinc-folyó hajóútján."
+      ],
+      "concepts": [
+        "hivatalos nyelv",
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--santiago": {
+      "fekves": "Chile középső részén, az Andok lábánál, egy medencében, kb. a d. sz. 33°, ny. h. 71°-on fekvő város.",
+      "facts": [
+        "Chile fővárosa.",
+        "Mediterrán éghajlatú medencében fekszik; gyakori a füstköd.",
+        "Földrengésveszélyes területen fekszik."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "füstköd (szmog)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--s-o-paulo": {
+      "fekves": "Brazília délkeleti részén, a Brazil-felföld peremén, a Baktérítő közelében, kb. a d. sz. 23,5°, ny. h. 47°-on fekvő város.",
+      "facts": [
+        "Dél-Amerika legnagyobb városa és gazdasági központja.",
+        "Brazília ipari és pénzügyi központja, óriásváros.",
+        "Kiterjedt nyomornegyedek jellemzik."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "nyomornegyed"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--toronto": {
+      "fekves": "Kanada délkeleti részén, Ontario tartományban, az Ontario-tó északnyugati partján, kb. az é. sz. 44°, ny. h. 79°-on fekvő város.",
+      "facts": [
+        "Kanada legnagyobb városa és pénzügyi központja.",
+        "Népessége igen sokszínű, sok bevándorlóval."
+      ],
+      "concepts": [
+        "érték- és árutőzsde",
+        "belföldi és nemzetközi vándorlás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "amerika--varosok--vancouver": {
+      "fekves": "Kanada délnyugati részén, Brit Columbia tartományban, a Csendes-óceán partján, kb. az é. sz. 49°, ny. h. 123°-on fekvő város.",
+      "facts": [
+        "Kanada legfontosabb csendes-óceáni kikötője.",
+        "Óceáni éghajlatú, enyhe telű város."
+      ],
+      "concepts": [
+        "óceáni éghajlat",
+        "belvízi és tengerhajózás"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  }
+}

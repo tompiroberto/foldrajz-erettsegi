@@ -1,0 +1,109 @@
+{
+  "id": "demografiai-atmenet",
+  "title": "A demográfiai (népesedési) átmenet",
+  "summary": "A népesedési (demográfiai) átmenet a születési és halálozási arányszámok változásának szakaszos folyamata, amely a társadalom gazdasági és társadalmi fejlődését kíséri. A magas születési és halálozási arányú állapotból alacsony arányokon át a népességfogyásig vezethet.",
+  "causes": [
+    "Az egészségügy, a higiénia és az élelmezés javulása először a halálozást, főleg a csecsemőhalandóságot csökkenti.",
+    "A városodás, az iparosodás és a nők iskolázottságának, munkavállalásának növekedése csökkenti a vállalt gyermekek számát.",
+    "A gyermekek gazdasági szerepe (munkaerő, időskori gondoskodás) csökken, felnevelésük költsége nő; terjednek a családtervezés módszerei."
+  ],
+  "course": [
+    "Az 1. szakaszban a születési és a halálozási arány is magas, a népesség alig nő.",
+    "A 2. szakaszban a halálozás gyorsan csökken, a születés magas marad: népességrobbanás következik be.",
+    "A 3. szakaszban a születési arány is csökkenni kezd, a természetes szaporodás mérséklődik.",
+    "A 4. szakaszban mindkét arány alacsony, a népesség alig változik; az 5. szakaszban a születések száma a halálozásé alá csökken: természetes fogyás, öregedés."
+  ],
+  "consequences": [
+    "A korfa alakja a szakaszokkal együtt változik: a széles alapú, „piramis” alakútól a szűkülő alapú, „urna” alakúig.",
+    "A 2–3. szakaszban levő (fiatalodó) társadalmakban a népességrobbanás munkahely-, élelmezési és oktatási gondokat okoz.",
+    "Az öregedő társadalmakban nő az eltartottak aránya, terhelődik a nyugdíj- és egészségügyi rendszer, munkaerőhiány léphet fel.",
+    "A születéskor várható átlagos élettartam az átmenet során jelentősen meghosszabbodik."
+  ],
+  "steps": [
+    {
+      "title": "1. szakasz: magas születési és halálozási arány",
+      "caption": "Hagyományos agrártársadalom: sok gyermek születik, de a járványok, éhínségek és a magas csecsemőhalandóság miatt sokan meg is halnak. A népesség lassan nő."
+    },
+    {
+      "title": "2. szakasz: a halálozás csökken – népességrobbanás",
+      "caption": "Az orvosi ellátás, a higiénia és az élelmezés javulásával a halálozás gyorsan csökken, a születések száma magas marad. A természetes szaporodás nagyon nagy: népességrobbanás."
+    },
+    {
+      "title": "3. szakasz: a születések száma is csökkenni kezd",
+      "caption": "A városodás, a nők iskolázottsága és munkavállalása, a családtervezés terjedése miatt csökken a születési arány. A népesség növekedése lassul."
+    },
+    {
+      "title": "4. szakasz: alacsony születés és halálozás",
+      "caption": "Mindkét arány alacsony és közel azonos, a népesség száma alig változik. A társadalom öregedni kezd."
+    },
+    {
+      "title": "5. szakasz: népességfogyás, öregedés",
+      "caption": "A születések száma tartósan a halálozások alá csökken: természetes fogyás lép fel. Nő az idősek aránya, a korfa alja szűkül."
+    }
+  ],
+  "examples": [
+    {
+      "text": "Nigerben és Nigériában igen magas a születési arány, a halálozás már csökkent: a népességrobbanás szakaszában vannak, korfájuk széles alapú.",
+      "places": [
+        "afrika--orszagok--niger",
+        "afrika--orszagok--nigeria"
+      ]
+    },
+    {
+      "text": "Indiában a születési arány már csökken, de a népesség még nagy ütemben nő (3. szakasz).",
+      "places": [
+        "azsia--orszagok--india"
+      ]
+    },
+    {
+      "text": "Japánban és Németországban alacsony a születési arány, a népesség öregszik, és természetes fogyás jellemző; hasonló a helyzet Magyarországon is (1981 óta természetes fogyás).",
+      "places": [
+        "azsia--orszagok--japan",
+        "europa--orszagok--nemetorszag"
+      ]
+    }
+  ],
+  "concepts": [
+    "népesedési átmenet (demográfiai átmenet)",
+    "népességrobbanás",
+    "természetes szaporodás",
+    "természetes fogyás",
+    "népességfogyás",
+    "öregedő és fiatalodó társadalom",
+    "korfa",
+    "születéskor várható átlagos élettartam",
+    "születésszabályozás"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a demográfiai (népesedési) átmenet szakaszait és azok okait! Térj ki a korfa változására és arra, milyen problémák jellemzik az egyes szakaszokban levő országokat!",
+    "elements": [
+      {
+        "text": "1. szakasz: magas születési és halálozási arány, lassú népességnövekedés.",
+        "points": 1
+      },
+      {
+        "text": "2. szakasz: a halálozás csökken (egészségügy, higiénia, élelmezés javulása), a születés magas marad – népességrobbanás.",
+        "points": 2
+      },
+      {
+        "text": "3. szakasz: a születési arány is csökken (városodás, nők iskolázottsága és munkavállalása, családtervezés).",
+        "points": 2
+      },
+      {
+        "text": "4–5. szakasz: alacsony arányok, majd természetes fogyás és öregedés.",
+        "points": 2
+      },
+      {
+        "text": "A korfa a széles alapú (piramis) formától a szűkülő alapú (urna) forma felé változik.",
+        "points": 1
+      },
+      {
+        "text": "Problémák: a fiatalodó társadalmakban munkahely- és élelmezési gondok, az öregedőkben az eltartottak arányának növekedése, nyugdíjrendszer terhelése.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A demográfiai átmenet első szakaszában a születési és a halálozási arány is magas, ezért a népesség csak lassan nő. A második szakaszban az egészségügy, a higiénia és az élelmezés javulása miatt a halálozás gyorsan csökken, a születések száma azonban magas marad, így népességrobbanás következik be. A harmadik szakaszban a városodás, a nők iskolázottságának és munkavállalásának növekedése, valamint a családtervezés terjedése miatt a születési arány is csökkenni kezd. A negyedik szakaszban mindkét arány alacsony, az ötödikben pedig a születések száma a halálozásé alá esik, ezért természetes fogyás és öregedés jellemző. Eközben a korfa a széles alapú piramis alakból szűkülő alapú urna alakúvá válik. A fiatalodó társadalmakban (pl. Niger) a munkahely- és élelmezési gondok, az öregedőkben (pl. Japán, Magyarország) az eltartottak arányának növekedése és a nyugdíjrendszer terhelése a fő probléma."
+  },
+  "generated": true,
+  "reviewed": false
+}

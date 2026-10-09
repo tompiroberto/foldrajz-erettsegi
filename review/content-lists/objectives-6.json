@@ -1,0 +1,275 @@
+[
+ {
+  "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag",
+  "title": "6.1. A nemzetgazdaságok és a világgazdaság",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k1",
+    "level": "kozep",
+    "text": "Mutassa be a piacgazdaság működési elveit."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k2",
+    "level": "kozep",
+    "text": "Mutassa be az állam piacgazdaságban betöltött szerepét."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k3",
+    "level": "kozep",
+    "text": "Nevezze meg és értelmezze a gazdasági fejlettség összehasonlítására alkalmas mutatókat, vessen össze adatsorokat."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k4",
+    "level": "kozep",
+    "text": "Mondjon példákat különböző fejlettségű országokra és mutassa meg ezeket a térképen."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k5",
+    "level": "kozep",
+    "text": "Nevezze meg a gazdaság szerveződését befolyásoló telepítő tényezőket, nevezzen meg példákat szerepük átalakulására."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k6",
+    "level": "kozep",
+    "text": "Mutassa be a gazdaság ágazati és szektorok szerinti felépítését, a gazdasági ágak és szektorok fő jellemzőit."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k7",
+    "level": "kozep",
+    "text": "Elemezze a népesség gazdasági aktivitás szerinti jellemzőit."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k8",
+    "level": "kozep",
+    "text": "Mutassa be a gazdasági szerkezet átalakulását, illetve az egyes ágak, szektorok változó szerepét."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k9",
+    "level": "kozep",
+    "text": "Mutassa be a népesség foglalkoztatási szerkezetét, és annak átalakulását."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k10",
+    "level": "kozep",
+    "text": "Értelmezzen a gazdasági és a foglalkoztatási szerkezetet, illetve ezek változását bemutató adatsorokat, ábrákat."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k11",
+    "level": "kozep",
+    "text": "Jellemezze a centrum, a félperiféria és a periféria térségeket, hasonlítsa össze világgazdasági szerepkörüket."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k12",
+    "level": "kozep",
+    "text": "Mutassa meg térképen a világgazdasági pólusokat és vezető országaikat, valamint a Föld különböző térségeinek periféria országait."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--k13",
+    "level": "kozep",
+    "text": "Mutassa be adatsorok, diagramok alapján a pólusok világgazdasági jelentőségét."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e1",
+    "level": "emelt",
+    "text": "Nevezzen meg az életminőség mérésére alkalmas mutatókat."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e2",
+    "level": "emelt",
+    "text": "Ismerje az emberi fejlettség indexét (HDI) és hasonlítsa össze azt a GDP-vel és a GNI-vel."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e3",
+    "level": "emelt",
+    "text": "Értelmezze a nemzetgazdaságok hagyományos és a globális világgazdaságban betöltött szerepét."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e4",
+    "level": "emelt",
+    "text": "Mutassa be a világgazdasági pólusok kialakulását és területi átrendeződését."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e5",
+    "level": "emelt",
+    "text": "Mutassa be a periféria térségek kialakulását."
+   },
+   {
+    "id": "6-1-a-nemzetgazdasagok-es-a-vilaggazdasag--e6",
+    "level": "emelt",
+    "text": "Mutassa be a centrum és periféria térségek sajátos kapcsolatrendszerét."
+   }
+  ]
+ },
+ {
+  "id": "6-2-integracios-folyamatok",
+  "title": "6.2. Integrációs folyamatok",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "6-2-integracios-folyamatok--k1",
+    "level": "kozep",
+    "text": "Nevezze meg az együttműködések kialakulásában szerepet játszó tényezőket."
+   },
+   {
+    "id": "6-2-integracios-folyamatok--k2",
+    "level": "kozep",
+    "text": "Ismertesse az integrációk fejlődésének szintjeit."
+   },
+   {
+    "id": "6-2-integracios-folyamatok--e1",
+    "level": "emelt",
+    "text": "Nevezzen meg példákat különböző szintre jutott és különböző típusú integrációkra."
+   }
+  ]
+ },
+ {
+  "id": "6-3-a-globalizacio",
+  "title": "6.3. A globalizáció",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "6-3-a-globalizacio--k1",
+    "level": "kozep",
+    "text": "Értelmezze a globalizáció folyamatát."
+   },
+   {
+    "id": "6-3-a-globalizacio--k2",
+    "level": "kozep",
+    "text": "Ismerje fel leírásokban és hírekben a globalizáció folyamatát, jelenségeit."
+   },
+   {
+    "id": "6-3-a-globalizacio--k3",
+    "level": "kozep",
+    "text": "Mutassa be a globalizáció mindennapi életünkben érzékelhető hatását."
+   },
+   {
+    "id": "6-3-a-globalizacio--k4",
+    "level": "kozep",
+    "text": "Ismerje a világtermék fogalmát, mondjon rá példákat."
+   },
+   {
+    "id": "6-3-a-globalizacio--k5",
+    "level": "kozep",
+    "text": "Ismertesse a transznacionális vállalatok működésének elvét."
+   },
+   {
+    "id": "6-3-a-globalizacio--k6",
+    "level": "kozep",
+    "text": "Nevezzen meg a világgazdaságban meghatározó szerepet játszó TNC-ket."
+   },
+   {
+    "id": "6-3-a-globalizacio--k7",
+    "level": "kozep",
+    "text": "Ismertesse a világpolitika és a világgazdaság működését befolyásoló nemzetközi szervezetek, együttműködések legfontosabb jellemzőit."
+   },
+   {
+    "id": "6-3-a-globalizacio--e1",
+    "level": "emelt",
+    "text": "Ismertesse a globális világgazdaság működésének jellemzőit, a világméretű szerveződést lehetővé tevő feltételeket."
+   },
+   {
+    "id": "6-3-a-globalizacio--e2",
+    "level": "emelt",
+    "text": "Igazolja a globalizáció nyújtotta előnyök kihasználása és a társadalmi-gazdasági fejlettség kapcsolatát."
+   },
+   {
+    "id": "6-3-a-globalizacio--e3",
+    "level": "emelt",
+    "text": "Értékelje a globalizációhoz kapcsolódó folyamatokat, jelenségeket, azok társadalmi-gazdasági és környezeti hatásait."
+   },
+   {
+    "id": "6-3-a-globalizacio--e4",
+    "level": "emelt",
+    "text": "Mutassa be a transznacionális vállalatok termelésszervezésének sajátosságait."
+   },
+   {
+    "id": "6-3-a-globalizacio--e5",
+    "level": "emelt",
+    "text": "Igazolja a TNC-k szerepét a tercier és a kvaterner szektor fejlődésében."
+   }
+  ]
+ },
+ {
+  "id": "6-4-a-monetaris-vilag",
+  "title": "6.4. A monetáris világ",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "6-4-a-monetaris-vilag--k1",
+    "level": "kozep",
+    "text": "Ismerje a pénzhez kapcsolódó alapvető fogalmakat."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--k2",
+    "level": "kozep",
+    "text": "Mutassa be a mindennapok pénzügyi folyamatait, a pénzügyi szolgáltatások működésének jellemzőit."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--k3",
+    "level": "kozep",
+    "text": "Értelmezzen pénzügyi, gazdasági folyamatokhoz kapcsolódó híreket, adatokat."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--k4",
+    "level": "kozep",
+    "text": "Oldjon meg egyszerű valutaváltási számítási feladatokat, értse a valutaárfolyam változásának következményeit."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--k5",
+    "level": "kozep",
+    "text": "Mutassa be az infláció kialakulását és következményeit."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--k6",
+    "level": "kozep",
+    "text": "Értelmezze az egyéni hitelfelvétel lehetőségeit és kockázatait."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--k7",
+    "level": "kozep",
+    "text": "Ismertesse a működőtőke és a pénztőke áramlásának jellemzőit, a befektetési típusokat."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e1",
+    "level": "emelt",
+    "text": "Hasonlítsa össze az árfolyam- és a kamatváltozás hatását egyszerű számítási feladatban."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e2",
+    "level": "emelt",
+    "text": "Ismerje az államháztartás fogalmát, sorolja fel a költségvetés fő összetevőit."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e3",
+    "level": "emelt",
+    "text": "Mondjon példákat költségvetési hiányt gerjesztő folyamatokra."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e4",
+    "level": "emelt",
+    "text": "Mutassa be a működőtőke mozgásának hatásait a gazdasági fejlődésben."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e5",
+    "level": "emelt",
+    "text": "Mutassa be a nemzetgazdaságok hitelfelvételének lehetséges kedvező és kedvezőtlen következményeit."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e6",
+    "level": "emelt",
+    "text": "Tárja fel az összefüggéseket az eladósodás és az adósságválság kialakulása között."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e7",
+    "level": "emelt",
+    "text": "Ismertesse a nemzetközi pénzügyi szervezetek szerepét és feladataikat."
+   },
+   {
+    "id": "6-4-a-monetaris-vilag--e8",
+    "level": "emelt",
+    "text": "Oldjon meg a témához kapcsolódó problémamegoldást igénylő feladatokat."
+   }
+  ]
+ }
+]

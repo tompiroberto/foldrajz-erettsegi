@@ -1,0 +1,136 @@
+{
+  "id": "tenger-munkaja",
+  "title": "A tenger munkája: pusztuló és épülő part",
+  "summary": "A szél keltette hullámzás a partot rombolja és a hordalékot szállítja. A meredek, sziklás partokon a pusztító (abráziós) munka, a lapos, hordalékos partokon a hordalék felhalmozása, a partépítés a jellemző.",
+  "causes": [
+    "A tenger felszínén a szél hullámzást kelt; a hullámok energiája a part közelében szabadul fel.",
+    "A sekély vízben a hullám alja fékeződik, a hullám átbukik (hullámtörés), és a partra csapódik.",
+    "A part jellegét a partot alkotó kőzet (kemény vagy laza), a partmenti vízmélység és a hordalék mennyisége határozza meg."
+  ],
+  "course": [
+    "Pusztuló part: a hullámok és a magukkal sodort kőzetdarabok alámossák a meredek partfalat (hullámmorajlás, abrázió), abráziós fülke alakul ki.",
+    "A fülke fölötti kőzet leomlik, a partfal hátrál, előtte a víz alatt lapos abráziós terasz marad.",
+    "A lepusztított anyagot a hullámzás és a partmenti áramlás a part mentén szállítja.",
+    "Épülő part: a lapos, sekély partokon a hordalék lerakódik, és a parttal párhuzamos turzás épül, mögötte lagúna fűződik le.",
+    "A szárazra került homokot a szél parti dűnékké halmozza."
+  ],
+  "consequences": [
+    "Pusztuló partokon sziklás, meredek partfalak (klifek), abráziós fülkék, kapuk, tornyok jönnek létre, a partvonal hátrál.",
+    "Épülő partokon turzások, lagúnák, parti dűnék kísérik a tagolatlan, kiegyenesedő partvonalat.",
+    "A part pusztulása épületeket, utakat veszélyeztet, ezért partvédelemre (hullámtörő gátak, partfalak) van szükség.",
+    "A lagúnák és homokos partok fontos üdülőterületek és élőhelyek."
+  ],
+  "steps": [
+    {
+      "title": "A szél hullámzást kelt",
+      "caption": "A tenger felszínén fújó szél energiája hullámzás formájában terjed a part felé.",
+      "icon": "wind"
+    },
+    {
+      "title": "Hullámtörés a sekély vízben",
+      "caption": "A part közelében a hullám alja a fenékhez súrlódva lelassul, teteje előrebukik: a hullám megtörik és a partra csapódik.",
+      "icon": "waves"
+    },
+    {
+      "title": "Pusztuló part: abrázió",
+      "caption": "A meredek sziklás parton a hullámok és a sodort kövek alámossák a partfalat (hullámmorajlás), és abráziós fülkét vájnak.",
+      "icon": "alert-triangle"
+    },
+    {
+      "title": "A partfal hátrál, abráziós terasz",
+      "caption": "A kivájt fülke fölött a kőzet leomlik, a part hátrál, előtte a víz alatt lapos abráziós terasz marad.",
+      "icon": "mountain"
+    },
+    {
+      "title": "Hordalékszállítás a part mentén",
+      "caption": "A lepusztult anyagot a hullámzás és a partmenti áramlás továbbszállítja, és a nyugodtabb, sekély szakaszokra viszi.",
+      "icon": "arrow-right"
+    },
+    {
+      "title": "Épülő part: turzás és lagúna",
+      "caption": "A sekély, lapos partokon a hordalék a parttal párhuzamos turzássá halmozódik, amely mögött lagúna fűződik le.",
+      "icon": "layers"
+    },
+    {
+      "title": "Parti dűnék",
+      "caption": "A szárazra került homokot a szél a part mentén parti dűnékké halmozza.",
+      "icon": "wind"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A La Manche partjain (pl. a doveri krétasziklák) meredek, pusztuló partfalak hátrálnak a hullámzás hatására.",
+      "places": [
+        "europa--vizrajz--la-manche"
+      ]
+    },
+    {
+      "text": "A Balti-tenger déli partját hosszú turzások és mögöttük lefűződött lagúnák, valamint parti dűnék jellemzik.",
+      "places": [
+        "europa--vizrajz--balti-tenger"
+      ]
+    },
+    {
+      "text": "Velence egy turzással elzárt lagúna szigetein épült.",
+      "places": [
+        "europa--varosok--velence"
+      ]
+    },
+    {
+      "text": "A Balaton lapos déli partja épülő part (turzások, lefűződött berkek), míg keleti végén (Balatonkenese, Balatonakarattya) a meredek löszfalú magaspartot a hullámzás is alámossa (pusztuló part).",
+      "places": [
+        "magyarorszag--vizrajz--balaton",
+        "magyarorszag--telepulesek--siofok"
+      ]
+    }
+  ],
+  "concepts": [
+    "hullámzás",
+    "hullámmorajlás",
+    "hullámtörés",
+    "pusztuló part",
+    "épülő part",
+    "turzás",
+    "lagúna",
+    "parti dűne",
+    "tagolt és tagolatlan part",
+    "abrázió",
+    "hullámmarás",
+    "abráziós fülke",
+    "abráziós terasz",
+    "abráziós torony",
+    "abráziós kapu"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a tenger felszínformáló munkáját! Hasonlítsd össze a pusztuló és az épülő part kialakulását és formáit!",
+    "elements": [
+      {
+        "text": "A szél hullámzást kelt; a part közelében a sekély vízben a hullám megtörik (hullámtörés), és energiája a partra hat.",
+        "points": 2
+      },
+      {
+        "text": "Pusztuló part: meredek, sziklás part, ahol a hullámok és a sodort kövek alámossák a partfalat (abrázió, hullámmorajlás).",
+        "points": 2
+      },
+      {
+        "text": "Abráziós fülke alakul ki, a fölötte lévő kőzet leomlik, a part hátrál, előtte abráziós terasz marad.",
+        "points": 2
+      },
+      {
+        "text": "A lepusztított hordalékot a hullámzás és a partmenti áramlás szállítja.",
+        "points": 1
+      },
+      {
+        "text": "Épülő part: lapos, sekély partokon a hordalék turzássá halmozódik, mögötte lagúna fűződik le; a szél parti dűnéket épít.",
+        "points": 2
+      },
+      {
+        "text": "Helyes példa (pl. La Manche krétasziklái – pusztuló; Balti-tenger, Velence lagúnája – épülő part).",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A tenger munkáját a szél keltette hullámzás végzi: a part közelében a sekély vízben a hullám alja lefékeződik, a hullám megtörik, és energiája a partra hat. A meredek, sziklás pusztuló partokon a hullámok és a magukkal sodort kövek alámossák a partfalat (abrázió, hullámmorajlás), és abráziós fülkét vájnak. A fülke fölötti kőzet leomlik, így a part hátrál, előtte a víz alatt abráziós terasz marad, ilyen például a La Manche krétasziklás partja. A lepusztított anyagot a hullámzás és a partmenti áramlás továbbszállítja, és a lapos, sekély partokon lerakja. Itt épülő part jön létre: a hordalék a parttal párhuzamos turzássá halmozódik, mögötte lagúna fűződik le, a szél pedig parti dűnéket épít, mint a Balti-tenger déli partján vagy Velence lagúnájánál."
+  },
+  "generated": true,
+  "reviewed": false
+}

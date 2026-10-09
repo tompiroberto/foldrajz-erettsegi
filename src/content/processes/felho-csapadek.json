@@ -1,0 +1,127 @@
+{
+  "id": "felho-csapadek",
+  "title": "Felhő- és csapadékképződés",
+  "summary": "Felhő akkor képződik, ha a felemelkedő levegő a harmatpontig hűl, és vízgőztartalma kicsapódási magokon kicsapódik. Csapadék csak akkor hullik, ha a felhőelemek annyira megnőnek, hogy a feláramlás már nem tudja őket lebegésben tartani.",
+  "causes": [
+    "A levegő vízgőzt tartalmaz, de adott hőmérsékleten csak meghatározott mennyiséget képes befogadni; a hőmérséklet csökkenésével ez a mennyiség csökken.",
+    "A levegő felemelkedik: felmelegedés miatt (feláramlás), hegység előtt kényszerűen, vagy frontoknál a hidegebb levegő fölé siklik.",
+    "A felemelkedő levegő kitágul és lehűl (telítetlen levegő 100 méterenként kb. 1 °C-ot)."
+  ],
+  "course": [
+    "A lehűlő levegő viszonylagos (relatív) vízgőztartalma nő, a harmatpontot elérve telítetté válik.",
+    "A további lehűlés túltelítettséget okoz, a vízgőz a kicsapódási (kondenzációs) magokon (por, sókristály, korom) apró vízcseppekké vagy jégkristályokká csapódik ki: felhő keletkezik.",
+    "A kicsapódáskor felszabaduló hő miatt a felhőben a levegő lassabban, 100 méterenként kb. 0,5 °C-ot hűl.",
+    "A felhőelemek összeolvadással és a jégkristályok növekedésével nagyobb cseppekké, hópelyhekké nőnek, majd kihullanak."
+  ],
+  "consequences": [
+    "A hőmérséklettől függően különböző hulló csapadékfajták alakulnak ki: eső, hó, havas eső, ónos eső, jégeső, zápor.",
+    "A talaj menti levegő lehűlésekor felszíni csapadék keletkezik: harmat, dér, zúzmara; a talaj közelében kicsapódó vízgőzből köd lesz.",
+    "A csapadék a víz körforgásának része: táplálja a folyókat, tavakat és a felszín alatti vizeket.",
+    "Ha a levegő nem emelkedik fel (pl. leszálló légmozgás), nincs felhőképződés, tartósan száraz idő, akár aszály alakul ki."
+  ],
+  "steps": [
+    {
+      "title": "Párolgás",
+      "caption": "A tengerek, tavak felszínéről és a növényzetből víz párolog, a levegő vízgőztartalma nő.",
+      "icon": "droplet"
+    },
+    {
+      "title": "A levegő felemelkedik",
+      "caption": "A felmelegedett levegő feláramlik, de felemelkedést okozhat egy hegység vagy egy front is.",
+      "icon": "arrow-up"
+    },
+    {
+      "title": "Lehűlés a magassággal",
+      "caption": "A felemelkedő, telítetlen levegő kitágul és 100 méterenként kb. 1 °C-ot hűl, közben nő a relatív vízgőztartalma.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Harmatpont, telítettség",
+      "caption": "A harmatpontot elérve a levegő telítetté válik, a további lehűléskor túltelítetté.",
+      "icon": "droplets"
+    },
+    {
+      "title": "Kicsapódás, felhőképződés",
+      "caption": "A vízgőz kicsapódási magokon apró cseppekké, jégkristályokká csapódik ki: kialakul a felhő. A felhőben a levegő már csak kb. 0,5 °C-ot hűl 100 méterenként.",
+      "icon": "cloud"
+    },
+    {
+      "title": "A felhőelemek növekedése",
+      "caption": "A cseppek összeolvadnak, a jégkristályok a vízgőz kifagyásával nőnek, amíg a feláramlás már nem tudja őket lebegtetni.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "Csapadékhullás",
+      "caption": "A nagyra nőtt felhőelemek kihullanak; a levegő hőmérsékletétől függően eső, hó, havas eső vagy jégeső éri el a felszínt.",
+      "icon": "cloud-rain"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Hindusztáni-félsziget nyugati partján a nyári monszun nedves levegője a hegyek előtt felemelkedik és lehűl, ezért rendkívül sok csapadék hullik (pl. Mumbai).",
+      "places": [
+        "azsia--tajak--hindusztani-felsziget",
+        "azsia--varosok--mumbai-bombay"
+      ]
+    },
+    {
+      "text": "A Kongó-medencében az erős felmelegedés miatt naponta feláramlás, gomolyfelhő- és zivatarképződés jellemző (zenitális eső).",
+      "places": [
+        "afrika--tajak--kongo-medence"
+      ]
+    },
+    {
+      "text": "Az Atacama-sivatagban a hideg Humboldt-áramlás fölött a levegő alul lehűl, nem emelkedik fel, ezért gyakori a köd, de szinte nincs csapadék.",
+      "places": [
+        "amerika--tajak--atacama-sivatag",
+        "fold--tengeraramlasok--humboldt-aramlas"
+      ]
+    }
+  ],
+  "concepts": [
+    "tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom",
+    "harmatpont",
+    "telítettség",
+    "túltelítettség",
+    "kicsapódási (kondenzációs) mag",
+    "kicsapódás",
+    "felhő- és csapadékképződés",
+    "felhő",
+    "köd",
+    "hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)",
+    "talaj menti (felszíni) csapadékfajták (harmat, dér, zúzmara)",
+    "felhőfajták (pehely-, fátyol-, réteg-, gomoly-, zivatarfelhő)"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a felhő- és csapadékképződés folyamatát! Használd a harmatpont, a telítettség és a kicsapódási mag fogalmát!",
+    "elements": [
+      {
+        "text": "A levegő felemelkedik (feláramlás, hegység, front hatására).",
+        "points": 1
+      },
+      {
+        "text": "A felemelkedő levegő kitágul és lehűl (telítetlen levegő kb. 1 °C/100 m).",
+        "points": 2
+      },
+      {
+        "text": "A lehűléssel nő a relatív vízgőztartalom, a harmatponton a levegő telítetté, majd túltelítetté válik.",
+        "points": 2
+      },
+      {
+        "text": "A vízgőz kicsapódási (kondenzációs) magokon kicsapódik: vízcseppek, jégkristályok, felhő keletkezik.",
+        "points": 2
+      },
+      {
+        "text": "A kicsapódáskor hő szabadul fel, ezért a felhőben lassabb a lehűlés (kb. 0,5 °C/100 m).",
+        "points": 1
+      },
+      {
+        "text": "A felhőelemek megnőnek (összeolvadás, jégkristályok növekedése), és csapadékként kihullanak.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A felhőképződés feltétele, hogy a levegő felemelkedjen, például a felszín felmelegedése miatti feláramlással, egy hegység előtt vagy egy front mentén. A felemelkedő levegő kitágul és lehűl, telítetlen állapotban 100 méterenként kb. 1 °C-ot. A lehűléssel nő a relatív vízgőztartalma, a harmatpontot elérve telítetté, majd további hűléssel túltelítetté válik. Ekkor a vízgőz a levegőben lebegő kicsapódási magokon (por, sókristály, korom) apró vízcseppekké vagy jégkristályokká csapódik ki, és felhő keletkezik; a felszabaduló hő miatt a felhőben a levegő már csak kb. 0,5 °C-ot hűl 100 méterenként. Csapadék akkor hullik, ha a felhőelemek összeolvadással és a jégkristályok növekedésével annyira megnőnek, hogy a feláramlás már nem tudja lebegésben tartani őket."
+  },
+  "generated": true,
+  "reviewed": false
+}

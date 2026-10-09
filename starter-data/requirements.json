@@ -1,0 +1,1407 @@
+{
+ "topics": {
+  "1": "Tájékozódás a földrajzi térben",
+  "2": "Tájékozódás a kozmikus térben és az időben",
+  "3": "A geoszférák földrajza",
+  "4": "A geoszférák kölcsönhatásai, a földrajzi övezetesség",
+  "5": "Átalakuló települések, eltérő demográfiai problémák a 21. században",
+  "6": "A nemzetgazdaságtól a globális világgazdaságig",
+  "7": "Magyarország – helyünk a Kárpát-medencében és Európában",
+  "8": "Európa földrajza",
+  "9": "Az Európán kívüli kontinensek földrajza",
+  "10": "Helyi problémák, globális kihívások, a fenntartható jövő dilemmái"
+ },
+ "requirements": [
+  {
+   "topicNo": 1,
+   "subtopic": "1.1. A térkép",
+   "kozep": [
+    "Értelmezze a méretarány és az ábrázolt terület nagysága, valamint az ábrázolás részletessége közötti kapcsolatot.",
+    "Ismertesse a domborzatábrázolás különböző módszereit.",
+    "Ismerje fel térképen a domborzati formákat.",
+    "Ismerje a földrajzi fokhálózat jellemzőit.",
+    "Készítsen térképvázlatot, és alakítsa ki a jelrendszerét."
+   ],
+   "emelt": [
+    "Ismerje a vetület fogalmát és a legelterjedtebb vetülettípusokat, hasonlítsa össze jellemzőiket."
+   ]
+  },
+  {
+   "topicNo": 1,
+   "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+   "kozep": [
+    "Értelmezze a térkép jelei, színei és számai által közölt információkat, alkalmazza azokat.",
+    "Olvasson le információkat különböző méretarányú és tartalmú térképekről, keresztmetszetekről és tömbszelvényekről, elemezze és vesse össze azokat.",
+    "Végezzen összehasonlító elemzést tematikus térképekkel.",
+    "Oldjon meg egyszerű számítási feladatokat a méretarány felhasználásával.",
+    "Számítsa ki a viszonylagos magasságot térképi információk alapján.",
+    "Mérjen és határozzon meg távolságot térképi egyenes és görbe vonal mentén különböző eszközök segítségével.",
+    "Végezzen helymeghatározási és tájékozódási feladatokat térképen és térképpel."
+   ],
+   "emelt": [
+    "Határozzon meg távolságot az Egyenlítő vagy valamely hosszúsági kör mentén a földrajzi fokhálózat segítségével.",
+    "Számítson területet a méretarány felhasználásával.",
+    "Azonosítsa a szintvonalas térképet az arról készített keresztmetszettel.",
+    "Értelmezzen a Föld háromdimenziós megjelenítését lehetővé tevő számítógépes programmal készült keresztmetszeteket, felszínmodelleket."
+   ]
+  },
+  {
+   "topicNo": 1,
+   "subtopic": "1.3. Távérzékelés és térinformatika",
+   "kozep": [
+    "Ismertesse a légi és az űrfelvételek felhasználási lehetőségeit.",
+    "Azonosítson környezeti elemeket térképvázlattal vagy térképpel történő összevetés alapján légi és űrfelvételeken.",
+    "Ismerjen fel változásokat, folyamatokat és vonjon le következtetéseket különböző térképek és műholdfelvételek összehasonlításával.",
+    "Ismerje a GPS működési elvét és jelentőségét."
+   ],
+   "emelt": [
+    "Mutassa be a műholdfelvételek készítésének elvét, a műholdfelvételek típusait.",
+    "Ismertesse a földrajzi információs rendszer (GIS) szerepét."
+   ]
+  },
+  {
+   "topicNo": 2,
+   "subtopic": "2.1. A Világegyetem",
+   "kozep": [
+    "Ismerje a Tejútrendszer alakját, méreteit és a Naprendszer Tejútrendszerben elfoglalt helyzetét.",
+    "Igazodjon el a csillagászati időbeli és térbeli nagyságrendekben.",
+    "Különítse el a csillagok és a bolygók tartalmi jegyeit.",
+    "Értelmezze a csillagképek látszólagosságát, mondjon példákat azokra."
+   ],
+   "emelt": [
+    "Ismerje a Világegyetem keletkezésére vonatkozó, legszélesebb körben elfogadott elméletet.",
+    "Ismerje a bolygók mozgásának törvényszerűségeit."
+   ]
+  },
+  {
+   "topicNo": 2,
+   "subtopic": "2.2. A Nap és kísérői",
+   "kozep": [
+    "Sorolja fel a Naprendszert alkotó égitesttípusokat, ismerje azok legfőbb jellemzőit.",
+    "Ismertesse a Nap jellemzőit (átmérője, távolsága a Földtől, anyagi összetétele, belső és felszíni hőmérséklete).",
+    "Mutassa be a Nap földi életet meghatározó szerepét.",
+    "Sorolja fel a Föld- és a Jupiter-típusú bolygókat, ismerje a Naphoz viszonyított sorrendjüket, mutassa be közös és egyedi jellemzőiket.",
+    "Ismertesse a Hold mozgásának sajátosságait.",
+    "Azonosítsa kép vagy ábra alapján a holdfázisokat.",
+    "Különböztesse meg a nap- és a holdfogyatkozás jelenségét, értse azok kialakulásának okait.",
+    "Magyarázza meg a meteoroid, a meteor és a meteorit közötti különbséget."
+   ],
+   "emelt": [
+    "Ismertesse a Nap gömbhéjas szerkezetét, a Nap szféráinak jelenségeit és ezek hatását a földi életre.",
+    "Elemezzen a Naprendszer bolygóiról készült adatsorokat és végezzen azok alapján összehasonlításokat.",
+    "Mutassa be a naptávolság, a hőmérséklet és az anyageloszlás összefüggéseit.",
+    "Készítsen egyszerű ábrát a holdfázisokról, illetve a nap- és holdfogyatkozásról.",
+    "Jellemezze a Hold felszínét.",
+    "Magyarázza meg a Hold légkörhiányának következményeit.",
+    "Mutassa be az üstökösök felépítését és mozgásuk jellemzőit."
+   ]
+  },
+  {
+   "topicNo": 2,
+   "subtopic": "2.3. A Föld és mozgásai",
+   "kozep": [
+    "Ismerje a Föld méreteit (sugár, Egyenlítő hossza).",
+    "Ismertesse az eltérítő erő (Coriolis-erő) hatásait.",
+    "Magyarázza meg a nappalok és az éjszakák váltakozását.",
+    "Ismerje az égitestek látszólagos napi K-Ny-i járását, a forgás Ny-K-i irányát.",
+    "Alkalmazza az alapvető átváltásokat: 15 hosszúsági fok = 1 óra időkülönbség = 1 időzóna, 1 hosszúsági fok = 4 perc időkülönbség.",
+    "Számítsa ki a helyi időt és a zónaidőt.",
+    "Ismerje a keringés pályájának jellemzőit, a keringés idejét.",
+    "Értelmezzen a keringéssel kapcsolatos ábrákat.",
+    "Ismerje a tavaszi és az őszi nap-éj egyenlőség, a nyári és a téli napforduló fogalmát és időpontját.",
+    "Értelmezze a forgástengely ferdesége és az évszakok kialakulása közötti összefüggést.",
+    "Ismerje a Föld mozgásaihoz kapcsolódó időbeli léptékeket."
+   ],
+   "emelt": [
+    "Ismerje a Föld alakja és tengely körüli forgása közötti összefüggést.",
+    "Magyarázza meg a nappalok és az éjszakák hosszának változását.",
+    "Számítsa ki a Nap delelési magasságát a nevezetes időpontokban bármely földrajzi helyen.",
+    "Alkalmazza feladatmegoldás során a dátumválasztó vonal következményét."
+   ]
+  },
+  {
+   "topicNo": 2,
+   "subtopic": "2.4. Az űrkutatás",
+   "kozep": [],
+   "emelt": [
+    "Mutassa be az űrkutatás legfontosabb mérföldköveit.",
+    "Sorolja fel az űrkutatás eszközeit, és ismerje azok szerepét.",
+    "Mutassa be a mesterséges égitestek jelentőségét a Naprendszer, a Tejútrendszer és más galaxisok, exobolygók megismerésében.",
+    "Mondjon példákat az űrkutatás eredményeinek gyakorlati hasznosítására.",
+    "Nevezzen meg az űrkutatáshoz kapcsolódó magyar vonatkozású eredményeket."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.1. A kőzetburok földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+   "kozep": [
+    "Mutassa be a Föld gömbhéjas szerkezetét, tudjon a témához kapcsolódó ábrát elemezni.",
+    "Ismertesse a Föld belsejének fizikai jellemzőit.",
+    "Értelmezze az asztenoszféra áramlásainak és a kőzetlemezek mozgásainak kapcsolatát.",
+    "Mutassa be a geotermikus gradiens gazdasági jelentőségét példák alapján."
+   ],
+   "emelt": [
+    "Hasonlítsa össze adatok alapján az egyes gömbhéjak jellemző ásványtani összetételét, hőmérsékleti, nyomás- és sűrűségviszonyait.",
+    "Mutassa be a földmágnesség és a tájékozódás kapcsolatát."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+   "kozep": [
+    "Ismerje a földkéreg és a kőzetburok fogalmát, jellemezze szerkezetüket.",
+    "Nevezze meg és csoportosítsa felépítésük szerint a kőzetlemezeket.",
+    "Mutassa be a lemezmozgások okait, típusait és azok következményeit.",
+    "Értelmezzen lemezmozgásokkal kapcsolatos ábrákat.",
+    "Soroljon fel topográfiai példákat kőzetlemezhatárokra, mutassa meg és ismerje fel azokat térképeken és műholdfelvételeken.",
+    "Értelmezze a magmás tevékenység és a kőzetlemezmozgások kapcsolatát.",
+    "Csoportosítsa a vulkánokat alakjuk és működésük jellege szerint.",
+    "Mutasson meg térképen és ismerjen fel térképvázlatban vulkáni övezeteket és vulkánokat.",
+    "Magyarázza meg a földrengések kialakulásának okát, kapcsolatát a lemezszegélyekkel.",
+    "Ismerje a rengésfészek és a rengésközpont kapcsolatát.",
+    "Értse a kőzetburok folyamataihoz kapcsolódó földtani veszélyek jelentőségét és következményeit, elemezze az alkalmazkodási, védekezési és kármegelőzési lehetőségeket példák segítségével."
+   ],
+   "emelt": [
+    "Készítsen ábrát a kőzetburok felépítéséről.",
+    "Készítsen és magyarázzon kőzetlemezmozgásokkal kapcsolatos folyamatábrákat.",
+    "Mutassa be ábra segítségével az ún. „forró pontok” feletti vulkánosságot, mondjon példát a jelenségre.",
+    "Mondjon példát vulkáni utóműködésre és annak gazdasági jelentőségére.",
+    "Ismerje a földrengéserősség mérésének elvét, a rengések kísérőjelenségeit."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.1.3. A hegységképződés",
+   "kozep": [
+    "Mutassa be a hegységképződés típusait, kapcsolatát a kőzetlemezek tulajdonságaival és mozgásaival.",
+    "Mutasson példákat a térképen a hegységképződési típusokra.",
+    "Ismertesse a gyűrődés és a vetődés folyamatát, illetve a gyűrthegységek és a rögös szerkezetű hegységek kialakulását.",
+    "Mondjon példákat gyűrődéssel és vetődéssel kialakult formákra.",
+    "Különböztesse meg ábrákon, képeken a gyűrthegységeket és a rögös szerkezetű hegységeket.",
+    "Csoportosítsa a hegységeket szerkezetük, magasságuk és formakincsük alapján."
+   ],
+   "emelt": [
+    "Mutassa be a hegységképződési szakaszok összefüggéseit.",
+    "Ismerje az izosztázia fogalmát.",
+    "Rajzoljon és elemezzen a hegységképződéshez kapcsolódó egyszerű folyamatábrákat."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.1.4. A kőzetburok építőkövei, az ásványkincsek",
+   "kozep": [
+    "Ismertesse a szénféleségek, a sófélék és a szénhidrogének keletkezését.",
+    "Sorolja be keletkezés szerint és csoportosítsa a legfontosabb kőzeteket.",
+    "Mondjon példát előfordulásukra és felhasználásukra.",
+    "Ismerje fel a hazánkban előforduló leggyakoribb kőzeteket.",
+    "Mutassa be az ércek gazdasági hasznosítását példák alapján.",
+    "Ismerje fel a bányászat környezeti következményeit."
+   ],
+   "emelt": [
+    "Mutassa be a kőzetek anyagainak körforgását.",
+    "Mutassa be ábra segítségével a magmás ércképződés folyamatát.",
+    "Magyarázza meg a nehéz-, a színes- és a nemesfémércek képződését.",
+    "Csoportosítsa összetételük alapján a magmás kőzeteket.",
+    "Értelmezze a nagy tömegű kőzetátalakítás és a fenntarthatóság kapcsolatát."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+   "kozep": [
+    "Ismertesse a Föld nagyszerkezeti egységeit.",
+    "Tudjon példákat mondani a nagyszerkezeti egységekre, és mutassa meg ezeket a térképen, ismerje fel térképvázlaton.",
+    "Ismerje fel, különböztesse meg képeken, ábrákon a nagyszerkezeti egységeket.",
+    "Mutassa be a nagyszerkezeti egységek és a jellemző ásványkincs-előfordulások kapcsolatát.",
+    "Ismertesse az ősmasszívumok szerkezeti és morfológiai típusait.",
+    "Ismertesse a Kaledóniai- és a Variszkuszi-hegységrendszer fontosabb tagjait, jellemezze a szerkezetüket.",
+    "Sorolja fel az Eurázsiai- és a Pacifikus-hegységrendszer fontosabb tagjait.",
+    "Hasonlítsa össze a két hegységrendszert.",
+    "Csoportosítsa a síkságokat tengerszint feletti magasságuk és keletkezésük szerint.",
+    "Tudjon példát mondani az egyes típusokra és mutassa meg azokat a térképen.",
+    "Mutassa be a síkságok gazdasági jelentőségét."
+   ],
+   "emelt": [
+    "Magyarázza meg a nagyszerkezeti egységek formakincsének kialakulását.",
+    "Különböztesse meg a kontinensek területét gyarapító és fogyasztó folyamatokat."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.2. A levegőburok földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+   "kozep": [
+    "Sorolja fel és csoportosítsa a légkört alkotó anyagokat.",
+    "Mutassa be a légkör összetételében bekövetkező változások mindennapi életre gyakorolt hatásait.",
+    "Ismertesse a légkör szerkezetét, a szférák fő jellemzőit és a bennük lezajló legfontosabb változásokat.",
+    "Elemezzen a témához kapcsolódó ábrát.",
+    "Mutassa be az ózonréteg jelentőségét."
+   ],
+   "emelt": [
+    "Támassza alá példákkal a légkör gazdasági jelentőségét."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.2.2. A levegő felmelegedése",
+   "kozep": [
+    "Magyarázza meg a levegő felmelegedését a napsugarak hajlásszöge alapján.",
+    "Értelmezze ábra segítségével az üvegházhatás kialakulását, jelentőségét.",
+    "Mutassa be a hőmérséklet napi és évi járását, ezek összefüggését a Föld fő mozgástípusaival.",
+    "Számítsa ki a napi és az évi középhőmérsékletet, a napi, az évi közepes és az abszolút hőingást.",
+    "Ábrázoljon grafikusan hőmérsékleti adatokat, hasonlítson össze és elemezzen hőmérsékleti tematikus térképeket.",
+    "Ismertesse a napsugárzás és az energiagazdaság kapcsolatát."
+   ],
+   "emelt": [
+    "Ismertesse a felmelegedést és a lehűlést módosító tényezőket és azok szerepét.",
+    "Ismerje a hőmérséklet gazdasági jelentőségével kapcsolatos fogalmakat."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.2.3. A levegő mozgása",
+   "kozep": [
+    "Ismerje a légnyomás és az izobár fogalmát.",
+    "Magyarázza meg a légnyomás változásának okát és kapcsolatát a szél kialakulásával.",
+    "Ismertesse a Föld forgásából származó eltérítő erő szerepét a légáramlások irányának kialakulásában.",
+    "Ismertesse az állandó szélrendszerek jellemzőit és kialakító tényezőiket.",
+    "Ismerje a hőmérsékleti (termikus) egyenlítő fogalmát és szerepét.",
+    "Mutassa be az általános légkörzés rendszerét egyszerű rajzon.",
+    "Mutassa be a monszunszél évszakos irányváltozását és annak következményeit a forró és a mérsékelt övezetben különböző források felhasználásával.",
+    "Ismertesse a mérsékelt övezeti ciklon és anticiklon jellemzőit, kialakulásuk fő térségeit.",
+    "Mutassa be hatásukat az időjárásra.",
+    "Magyarázza meg a hidegfront és a melegfront kialakulását, hasonlítsa össze jellemzőiket."
+   ],
+   "emelt": [
+    "Mutassa be ábra segítségével a függőleges légmozgások és a szelek kapcsolatát.",
+    "Nevezzen meg trópusi ciklonokat és helyi szeleket, mutassa be jellegzetességeiket.",
+    "Ismerje a futóáramlások szerepét.",
+    "Készítsen magyarázó ábrákat a monszunszélrendszerek kialakulásáról."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.2.4. Felhő- és csapadékképződés",
+   "kozep": [
+    "Alkalmazza a légköri folyamatok bemutatása során a következő fogalmakat: tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom, telítettség, túltelítettség, harmatpont, kicsapódás, kicsapódási (kondenzációs) mag.",
+    "Ismertesse a csapadékképződés feltételeit, mutassa be ábra segítségével a felhő- és csapadékképződés folyamatát.",
+    "Magyarázza meg a különböző hulló és talaj menti csapadékfajták kialakulását.",
+    "Támassza alá példákkal a csapadék gazdasági jelentőségét."
+   ],
+   "emelt": [
+    "Ismerje fel és jellemezze a fő felhőtípusokat, társítsa azokat időjárási jelenségekhez.",
+    "Oldjon meg vízgőztartalommal kapcsolatos számítási feladatokat."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.2.5. Az időjárás és az éghajlat",
+   "kozep": [
+    "Sorolja fel az időjárási és éghajlati elemeket.",
+    "Mutassa be az időjárás-előrejelzés jelentőségét a mindennapi életben és a gazdaságban.",
+    "Hasonlítson össze az éghajlati elemekkel kapcsolatos tematikus térképeket és éghajlati diagramokat, szerkesszen adatokból diagramot, dolgozzon fel szöveges forrásanyagot.",
+    "Ismerjen fel légköri képződményeket időjárási térképeken és műholdfelvételeken.",
+    "Értelmezzen szöveges és képi időjárás-előrejelzést, vonjon le következtetéseket az időjárási adatokból.",
+    "Ismerje fel az időjárás okozta veszélyhelyzeteket.",
+    "Ismertesse az időjárási veszélyhelyzetekhez kapcsolódó megelőzési és védekezési módokat, illetve a helyes, másokért is felelős magatartás jellemzőit."
+   ],
+   "emelt": [
+    "Mondjon példákat az időjárás-változások biológiai hatásaira.",
+    "Magyarázza meg az általános légkörzés és a helyi időjárás kapcsolatát."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.2.6. A légszennyezés következményei",
+   "kozep": [
+    "Nevezze meg a legnagyobb légszennyező forrásokat.",
+    "Mutassa be példák alapján az emberi tevékenység levegőburkot károsító hatásait, ennek élettani és társadalmi-gazdasági következményeit, illetve a szennyezés csökkentésének lehetőségeit.",
+    "Értelmezzen légszennyezési adatokat, információkat.",
+    "Mutassa be a társadalmi eredetű éghajlatváltozás okait és következményeit."
+   ],
+   "emelt": [
+    "Érveljen az egyén felelőssége és lehetőségei mellett a károsítás mérséklésében, a légköri folyamatok egyensúlyának megőrzésében.",
+    "Következtessen a levegő minőségére az összetétel változását bemutató adatsorokból."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.3. A vízburok földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.3.1. A vízburok tagolódása, tulajdonságai és mozgásai",
+   "kozep": [
+    "Mutassa be a vízburok tagolódását, a víz körforgásának folyamatát.",
+    "Mutassa be az óceánok és a tengerek közötti különbségeket.",
+    "Ismertesse a tengervíz felmelegedésének és lehűlésének, fagyáspontjának sajátosságait, a víz fajhőjének és hőtároló képességének összefüggéseit.",
+    "Mutassa be a hullámzás folyamatát.",
+    "Ismerje fel a tengeráramlások rendszerének kialakulását és működését, összefüggését az általános légkörzéssel és a kontinensek földrajzi helyzetével.",
+    "Mutasson a térképen, ismerjen fel térképvázlaton hideg és meleg tengeráramlásokat, ismerje éghajlatmódosító hatásukat.",
+    "Értelmezze a tengerjárás kialakulását, természeti és társadalmi-gazdasági következményeit."
+   ],
+   "emelt": [
+    "Értelmezze a sós víz és az édesvíz eltérő tulajdonságaiból adódó következményeket.",
+    "Mutassa be a sótartalom változásának összefüggését a párolgással, a csapadékkal, a hozzáfolyással.",
+    "Bizonyítsa tematikus térképek és éghajlati diagramok segítségével a tengeráramlások éghajlatmódosító hatását.",
+    "Mutassa be az általános légkörzés és az óceáni vízkörzés rendszerének hasonlóságait, kapcsolatait."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.3.2. A felszíni vizek",
+   "kozep": [
+    "Ismertesse a tómedencék keletkezési típusait.",
+    "Mutasson példákat a térképen az egyes típusokra.",
+    "Ismertesse a tavak pusztulásának okait és szakaszait.",
+    "Mutassa be az emberi tevékenység szerepét a tavak keletkezésében és pusztulásában.",
+    "Mondjon példákat a tavak hasznosítási módjaira.",
+    "Alkalmazza az alábbi fogalmakat: vízgyűjtő terület, vízválasztó, fő- és mellékfolyó, lefolyásos és belső lefolyású terület, vízállás, vízhozam, vízjárás.",
+    "Mutassa be a folyók vízjárásának jellemzőit és annak összefüggéseit az éghajlattal.",
+    "Számítsa ki a folyó vízhozamát."
+   ],
+   "emelt": [
+    "Következtessen térképek, műholdfelvételek segítségével a tavak keletkezésére elhelyezkedésük, alakjuk, mélységük alapján."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.3.3. A felszín alatti vizek",
+   "kozep": [
+    "Magyarázza meg a felszíni és a felszín alatti vizek kapcsolatát.",
+    "Ismertesse a felszín alatti vizek kialakulását, vizük mozgását, valamint kapcsolatát a csapadékkal és a párolgással."
+   ],
+   "emelt": [
+    "Alkalmazza a geotermikus gradiensről tanultakat a felszín alatti vizek hőmérsékletének magyarázatában."
+   ]
+  },
+  {
+   "topicNo": 3,
+   "subtopic": "3.3.4. A vízburok mint gazdasági erőforrás",
+   "kozep": [
+    "Ismertesse a vízgazdálkodás feladatait, az ár- és belvízvédelem szerepét.",
+    "Ismerje fel a vízburokhoz kapcsolódó veszélyhelyzetek kialakulásához vezető folyamatokat.",
+    "Soroljon fel a veszélyhelyzetek mérséklését elősegítő megoldásokat.",
+    "Mutassa be a kommunális és az ipari vízellátás, az öntözés, a vízenergia hasznosításának lehetőségeit és korlátait példák alapján.",
+    "Alkosson véleményt példák alapján a mesterséges tavak létrehozásáról és annak környezeti következményeiről.",
+    "Jellemezze a vízi közlekedést-szállítást, fogalmazza meg előnyeit és hátrányait.",
+    "Mutassa be hazai és nemzetközi példákon a víz kínálta idegenforgalmi lehetőségeket.",
+    "Mutassa be példák alapján a világtenger és a tengerpartok gazdasági jelentőségét, erőforrásait."
+   ],
+   "emelt": [
+    "Ismerje a folyószabályozás lényegét és eszközeit, mutassa be jelentőségét a társadalmi-gazdasági életben.",
+    "Hasonlítsa össze az ivóvíz és az ipari víz kinyerésének lehetőségeit.",
+    "Magyarázza meg a vízgazdálkodás szerepét a fenntarthatóságban.",
+    "Bizonyítsa a nemzetközi összefogás szükségességét a vízgazdálkodásban, a vizek védelmében."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.1. A földfelszín formálódása",
+   "kozep": [
+    "Ismertesse a belső és a külső erők (köztük az ember) szerepét a felszínformálódásban.",
+    "Mutassa be a belső erők megnyilvánulásait a kőzetlemezek mozgásának és következményeinek összekapcsolásával.",
+    "Ismerje fel képeken, ábrákon, modelleken a felszínformákat.",
+    "Mondjon példát az egyes felszínformákra a kontinensek és hazánk területéről.",
+    "Mutassa meg a térképen és ismerje fel a térképvázlatban ezeket."
+   ],
+   "emelt": [
+    "Mutassa be a rekultiváció lehetőségeit példákkal."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+   "kozep": [
+    "Ismerje fel képen, ábrán a külső erők munkája nyomán létrejött formákat.",
+    "Döntse el, hogy azok pusztító vagy építő tevékenység során alakultak ki.",
+    "Nevezze meg a szél és a csapadék felszínformáló tevékenységét befolyásoló tényezőket.",
+    "Ismertesse a szél és a csapadék felszínformáló tevékenységének gazdasági következményeit.",
+    "Mutassa be a tengervíz felszínformáló munkájához kötődő parttípusokat.",
+    "Ismertesse a folyók munkavégző képességét meghatározó tényezőket.",
+    "Mutassa be ábra alapján a hóhatár magasságának összefüggését a földrajzi szélességgel és a domborzattal.",
+    "Mutassa be a gleccserek és a jégtakarók keletkezését, felszínformáló munkáját.",
+    "Mutassa be konkrét tájak példáján a jég felszínformálásának következményeit.",
+    "Ismerje a gleccserek környezetváltozást jelző szerepét.",
+    "Ismertesse a karsztosodás folyamatát.",
+    "Ismerje fel ábrák, képek alapján a fő karsztformákat."
+   ],
+   "emelt": [
+    "Jellemezze a külső erők felszínformálása nyomán létrejött formákat, mutassa be kialakulásukat.",
+    "Bizonyítsa példákkal, ábra és térkép segítségével a domborzat és a folyók szakaszjellegének összefüggését, térbeli és időbeli változását.",
+    "Ismerje a mészkő oldódásának kémiai folyamatát."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.3. A talaj",
+   "kozep": [
+    "Mutassa be a talajképződés folyamatát, a talaj kialakításában szerepet játszó tényezőket.",
+    "Bizonyítsa az éghajlat meghatározó szerepét.",
+    "Ismertesse a talaj fő alkotóit.",
+    "Értelmezze a különbséget a zonális és az azonális talaj fogalma között.",
+    "Nevezze meg és jellemezze az elterjedt zonális és azonális talajokat, tudjon példát mondani földrajzi elhelyezkedésükre.",
+    "Mutassa be példák alapján a talajt veszélyeztető környezeti és társadalmi-gazdasági folyamatokat, a veszély mérséklésének lehetőségeit."
+   ],
+   "emelt": [
+    "Ismertesse a talaj szintjeit és azok jellemzőit.",
+    "Igazolja példák alapján a fenntarthatóság és a talaj kapcsolatát a különböző éghajlati övekben, területeken.",
+    "Mutassa be a talaj környezeti hatásjelző szerepét."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.4. A geoszférák közötti kapcsolatok",
+   "kozep": [
+    "Mutassa be példák segítségével az egyes geoszférákban lezajló folyamatoknak a többi geoszférára gyakorolt hatását és azok következményeit.",
+    "Mondjon példákat a több geoszférára is kiterjedő környezeti ártalmakra, azok kiváltó okaira és következményeire, megelőzésük és megoldásuk lehetőségeire."
+   ],
+   "emelt": [
+    "Elemezzen a témához kapcsolódó folyamatábrákat és szemelvényeket."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.5. A szoláris és a valódi éghajlati övezetek",
+   "kozep": [
+    "Magyarázza meg egyszerű rajz készítésével a napsugarak hajlásszögének és a felmelegedés mértékének földrajzi szélességtől függő változását.",
+    "Jelölje térképvázlatban a szoláris éghajlati övezeteket, fogalmazza meg helyüket a földrajzi fokhálózatban.",
+    "Mutassa be, hogyan módosítják az óceánok, a tengeráramlások, a szélrendszerek, a földfelszín és a domborzat az éghajlatot.",
+    "Értelmezze az éghajlati és a földrajzi övezetesség közötti különbséget."
+   ],
+   "emelt": [
+    "Mutassa be a szoláris és a valódi éghajlati övezetek közötti különbséget."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.6. A vízszintes földrajzi övezetesség",
+   "kozep": [
+    "Értelmezze a földrajzi övezetesség fogalmát, rendszerét.",
+    "Ismertesse az övezetek, övek/vidék, területek elkülönítési szempontjait.",
+    "Mutassa be az uralkodó szélrendszerek meghatározó szerepét az övezetek, övek/vidék, területek sajátosságainak kialakításában.",
+    "Jellemezze az egyes övezetek, övek/vidék, területek éghajlati, vízrajzi és felszínformálódási sajátosságait, talaját és élővilágát.",
+    "Sorolja fel az egyes övek/vidék, területek legfontosabb termesztett növényeit, tenyésztett állatait, a gazdálkodás területi típusait.",
+    "Ismertesse a különböző övezetek, övek/vidék, területek fő környezeti problémáit.",
+    "Mutassa meg térképen és ismerje fel kontúrtérképen az egyes övezetek, övek/vidék, területek elhelyezkedését.",
+    "Ismerje fel és jellemezze képek, ábrák és leírások alapján a földrajzi övezetesség tipikus területeit.",
+    "Elemezzen a Föld és a kontinensek zonalitását bemutató tematikus térképeket.",
+    "Értelmezzen és hasonlítson össze éghajlati diagramokat.",
+    "Ismerjen fel öveket/vidéket, területeket éghajlati diagramok alapján."
+   ],
+   "emelt": [
+    "Hasonlítsa össze az egyes övezetek, övek/vidék, területek jellemzőit.",
+    "Mutassa be az övezetesség és az eltartóképesség kapcsolatát, az övezetesen elrendeződő természeti erőforrásokat.",
+    "Ismerje fel ábrákon és képeken a különböző földrajzi övek/vidék és területek településképének, építkezési módjának sajátosságait, adjon magyarázatot azokra.",
+    "Mutassa meg térképen, rajzolja be kontúrtérképre az övezetek, övek/vidék, területek környezetkárosodással leginkább sújtott térségeit.",
+    "Mondjon példákat az övezetek, övek/vidék, területek környezeti problémáinak mérséklésére, megoldására, azok kezelésének lehetőségeire.",
+    "Jellemezzen komplexen földrajzi övezeteket, öveket/vidéket, területeket tematikus térképek összehasonlításával.",
+    "Mutassa be a természetföldrajzi jellemzők változását az Egyenlítő és a térítők között keresztmetszetek segítségével.",
+    "Igazolja éghajlati diagramok és keresztmetszetek összehasonlító elemzésével a kontinentalitás Ny-K irányú változását Eurázsiában."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.7. A függőleges földrajzi övezetesség",
+   "kozep": [
+    "Mutassa be az összefüggést a tengerszint feletti magasság és a természetföldrajzi tényezők változása között.",
+    "Mutassa be keresztmetszet segítségével a mérsékelt övezet hegységeinek függőleges övezetességét, a gazdálkodási lehetőségek változását.",
+    "Elemezzen függőleges övezetességgel kapcsolatos képeket, ábrákat, szövegeket."
+   ],
+   "emelt": [
+    "Hasonlítsa össze keresztmetszetek segítségével a forró és a mérsékelt övezet hegységeinek függőleges övezetességét.",
+    "Készítsen függőleges övezetességet bemutató keresztmetszetet.",
+    "Mutassa be az éghajlatváltozás magashegységek idegenforgalmára gyakorolt hatását."
+   ]
+  },
+  {
+   "topicNo": 4,
+   "subtopic": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+   "kozep": [
+    "Ismerje a földtörténeti idő léptékeit.",
+    "Ismertesse a földtörténeti korbeosztás nagy egységeit.",
+    "Tudja ezek időbeli sorrendjét és hozzávetőleges időtartamukat.",
+    "Ismerje az egyes földtörténeti idők meghatározó eseményeit, képződményeit.",
+    "Mutassa be a Föld nagyszerkezeti egységeinek kialakulását és átalakulásukat a földtörténeti idők folyamán."
+   ],
+   "emelt": [
+    "Hasonlítsa össze a relatív és az abszolút kormeghatározás módszereit.",
+    "Mutassa be a légkör fejlődését, összetételének változását.",
+    "Mutassa be a vízburok kialakulását.",
+    "Ismertesse az őskontinensek kialakulásának folyamatát, feldarabolódásuk és összekapcsolódásuk következményeit.",
+    "Ismerje a jégkorszak fogalmát, az eljegesedések következményeit.",
+    "Kösse földtörténeti korokhoz a geoszférák fejlődésének fő eseményeit, képződményeit."
+   ]
+  },
+  {
+   "topicNo": 5,
+   "subtopic": "5.1. A népesség földrajzi jellemzői",
+   "kozep": [
+    "Mutassa be a népességszám-változás időbeli és területi különbségeit, ismertesse annak okait és következményeit.",
+    "Jellemezze a népesedési (demográfiai) átmenet szakaszait.",
+    "Olvassa le és értelmezze a korfa adatait.",
+    "Vonjon le alapvető következtetéseket a korfa alakjából.",
+    "Hasonlítsa össze a fiatalodó és az öregedő társadalmak jellemzőit.",
+    "Ismertesse a fiatalodó és az öregedő társadalmak korösszetételéből adódó társadalmi-gazdasági következményeket.",
+    "Oldjon meg a demográfiai folyamatokhoz kapcsolódó egyszerű számítási feladatokat, vonjon le következtetéseket az eredmények alapján.",
+    "Mutassa be a népesség térbeli eloszlását befolyásoló tényezőket, nevezzen meg példákat ritkán és sűrűn lakott területekre.",
+    "Nevezze meg és mutassa meg térképen a Föld legnagyobb népességtömörüléseit, ismerje azok kialakulásának okait.",
+    "Magyarázza meg a népesség egyenlőtlen elrendeződésének következményeit.",
+    "Mondjon példákat a népességmozgás típusaira.",
+    "Értelmezze az állam, nemzet, nemzetállam, többnemzetiségű állam, nemzetiség fogalmát.",
+    "Nevezze meg a világvallásokat, ismerje azok legfőbb jellemzőit és központjait."
+   ],
+   "emelt": [
+    "Kapcsolja össze a korfán tapasztalható eltéréseket történelmi eseményekkel, társadalmi-gazdasági problémákkal.",
+    "Mutassa be a népesedési szakaszok és a korfa alakjának összefüggését.",
+    "Magyarázza a népességmozgások okait, társadalmi-gazdasági vonatkozásait.",
+    "Elemezzen migrációs folyamatokat bemutató ábrákat, tematikus térképeket.",
+    "Jellemezze az államformákat, tudjon példákat mondani rájuk.",
+    "Ismertesse és mutassa meg térképen a nagyrasszok földrajzi elterjedését.",
+    "Ismertesse a világvallások elterjedését, a vallás társadalmi-gazdasági folyamatokban betöltött szerepét.",
+    "Ismertesse a Föld kulturális régióinak legfőbb jellemzőit."
+   ]
+  },
+  {
+   "topicNo": 5,
+   "subtopic": "5.2. Településtípusok, urbanizáció",
+   "kozep": [
+    "Ismerje, csoportosítsa és jellemezze az egyes településtípusokat.",
+    "Említsen példákat különböző szerepkört betöltő településekre, a szerepkörök átalakulására.",
+    "Hasonlítsa össze a tanyát és a farmot.",
+    "Magyarázza meg a városodás és a városiasodás közötti különbségeket.",
+    "Ismerje fel képeken, ábrákon és leírásokban a városok övezeteit.",
+    "Ismertesse a nagyváros és az agglomeráció kapcsolatát példákon keresztül.",
+    "Mutassa be példákkal a nagyvárosi élettel járó környezeti és társadalmi problémákat, nevezzen meg megoldási lehetőségeket."
+   ],
+   "emelt": [
+    "Mutassa be források felhasználásával a falvak és a városok átalakulási folyamatát, szerepük átértékelődését.",
+    "Ismertesse a városok szerkezetében megnyilvánuló eltéréseket a különböző földrészeken.",
+    "Magyarázza meg a városfejlődés folyamatát.",
+    "Hasonlítsa össze a fejlett és a fejlődő világ urbanizációs folyamatait."
+   ]
+  },
+  {
+   "topicNo": 6,
+   "subtopic": "6.1. A",
+   "kozep": [
+    "Mutassa be a piacgazdaság működési elveit."
+   ],
+   "emelt": [
+    "Nevezzen meg az életminőség mérésére alkalmas"
+   ]
+  },
+  {
+   "topicNo": 6,
+   "subtopic": "nemzetgazdaságok és a világgazdaság",
+   "kozep": [
+    "Mutassa be az állam piacgazdaságban betöltött szerepét.",
+    "Nevezze meg és értelmezze a gazdasági fejlettség összehasonlítására alkalmas mutatókat, vessen össze adatsorokat.",
+    "Mondjon példákat különböző fejlettségű országokra és mutassa meg ezeket a térképen.",
+    "Nevezze meg a gazdaság szerveződését befolyásoló telepítő tényezőket, nevezzen meg példákat szerepük átalakulására.",
+    "Mutassa be a gazdaság ágazati és szektorok szerinti felépítését, a gazdasági ágak és szektorok fő jellemzőit.",
+    "Elemezze a népesség gazdasági aktivitás szerinti jellemzőit.",
+    "Mutassa be a gazdasági szerkezet átalakulását, illetve az egyes ágak, szektorok változó szerepét.",
+    "Mutassa be a népesség foglalkoztatási szerkezetét, és annak átalakulását.",
+    "Értelmezzen a gazdasági és a foglalkoztatási szerkezetet, illetve ezek változását bemutató adatsorokat, ábrákat.",
+    "Jellemezze a centrum, a félperiféria és a periféria térségeket, hasonlítsa össze világgazdasági szerepkörüket.",
+    "Mutassa meg térképen a világgazdasági pólusokat és vezető országaikat, valamint a Föld különböző térségeinek periféria országait.",
+    "Mutassa be adatsorok, diagramok alapján a pólusok világgazdasági jelentőségét."
+   ],
+   "emelt": [
+    "mutatókat.",
+    "Ismerje az emberi fejlettség indexét (HDI) és hasonlítsa össze azt a GDP-vel és a GNI-vel.",
+    "Értelmezze a nemzetgazdaságok hagyományos és a globális világgazdaságban betöltött szerepét.",
+    "Mutassa be a világgazdasági pólusok kialakulását és területi átrendeződését.",
+    "Mutassa be a periféria térségek kialakulását.",
+    "Mutassa be a centrum és periféria térségek sajátos kapcsolatrendszerét."
+   ]
+  },
+  {
+   "topicNo": 6,
+   "subtopic": "6.2. Integrációs folyamatok",
+   "kozep": [
+    "Nevezze meg az együttműködések kialakulásában szerepet játszó tényezőket.",
+    "Ismertesse az integrációk fejlődésének szintjeit."
+   ],
+   "emelt": [
+    "Nevezzen meg példákat különböző szintre jutott és különböző típusú integrációkra."
+   ]
+  },
+  {
+   "topicNo": 6,
+   "subtopic": "6.3. A globalizáció",
+   "kozep": [
+    "Értelmezze a globalizáció folyamatát.",
+    "Ismerje fel leírásokban és hírekben a globalizáció folyamatát, jelenségeit.",
+    "Mutassa be a globalizáció mindennapi életünkben érzékelhető hatását.",
+    "Ismerje a világtermék fogalmát, mondjon rá példákat.",
+    "Ismertesse a transznacionális vállalatok működésének elvét.",
+    "Nevezzen meg a világgazdaságban meghatározó szerepet játszó TNC-ket.",
+    "Ismertesse a világpolitika és a világgazdaság működését befolyásoló nemzetközi szervezetek, együttműködések legfontosabb jellemzőit."
+   ],
+   "emelt": [
+    "Ismertesse a globális világgazdaság működésének jellemzőit, a világméretű szerveződést lehetővé tevő feltételeket.",
+    "Igazolja a globalizáció nyújtotta előnyök kihasználása és a társadalmi-gazdasági fejlettség kapcsolatát.",
+    "Értékelje a globalizációhoz kapcsolódó folyamatokat, jelenségeket, azok társadalmi-gazdasági és környezeti hatásait.",
+    "Mutassa be a transznacionális vállalatok termelésszervezésének sajátosságait.",
+    "Igazolja a TNC-k szerepét a tercier és a kvaterner szektor fejlődésében."
+   ]
+  },
+  {
+   "topicNo": 6,
+   "subtopic": "6.4. A monetáris világ",
+   "kozep": [
+    "Ismerje a pénzhez kapcsolódó alapvető fogalmakat.",
+    "Mutassa be a mindennapok pénzügyi folyamatait, a pénzügyi szolgáltatások működésének jellemzőit.",
+    "Értelmezzen pénzügyi, gazdasági folyamatokhoz kapcsolódó híreket, adatokat.",
+    "Oldjon meg egyszerű valutaváltási számítási feladatokat, értse a valutaárfolyam változásának következményeit.",
+    "Mutassa be az infláció kialakulását és következményeit.",
+    "Értelmezze az egyéni hitelfelvétel lehetőségeit és kockázatait.",
+    "Ismertesse a működőtőke és a pénztőke áramlásának jellemzőit, a befektetési típusokat."
+   ],
+   "emelt": [
+    "Hasonlítsa össze az árfolyam- és a kamatváltozás hatását egyszerű számítási feladatban.",
+    "Ismerje az államháztartás fogalmát, sorolja fel a költségvetés fő összetevőit.",
+    "Mondjon példákat költségvetési hiányt gerjesztő folyamatokra.",
+    "Mutassa be a működőtőke mozgásának hatásait a gazdasági fejlődésben.",
+    "Mutassa be a nemzetgazdaságok hitelfelvételének lehetséges kedvező és kedvezőtlen következményeit.",
+    "Tárja fel az összefüggéseket az eladósodás és az adósságválság kialakulása között.",
+    "Ismertesse a nemzetközi pénzügyi szervezetek szerepét és feladataikat.",
+    "Oldjon meg a témához kapcsolódó problémamegoldást igénylő feladatokat."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.1. A Kárpát-medence természet- és társadalomföldrajzi sajátosságai",
+   "kozep": [
+    "Helyezze el hazánkat a térképen, a földgömbön, Európában és a Kárpát-medencében.",
+    "Ismertesse a medencejelleg következményeit az éghajlat, a vízrajz, a vízkészlet és a környezeti állapot vonatkozásában.",
+    "Jellemezze a Kárpát-medence nemzetiségi összetételét tematikus térképek és adatsorok segítségével.",
+    "Ismertesse a magyarság elhelyezkedését a Kárpát-medencében és a világban."
+   ],
+   "emelt": [
+    "Elemezze a földrajzilag nyitott határ következményeit."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.2. Magyarország természeti adottságai",
+   "kozep": [
+    "Magyarázza meg folyamatábra vagy táblázat segítségével a földtörténeti idők meghatározó jelentőségű geológiai eseményeit.",
+    "Nevezze és mutassa meg térképen az egyes idők, időszakok főbb képződményeit.",
+    "Ismertesse hazánk legfontosabb felszínalkotó kőzeteinek területi előfordulását, felhasználásuk lehetőségeit.",
+    "Mutassa be hazánk földrajzi helyzetének éghajlati következményeit, a legfontosabb módosító tényezőket.",
+    "Jellemezze hazánk éghajlatát.",
+    "Nevezze meg kontúrtérképen hazánk legjelentősebb folyóit, tavait és jellemezze azokat.",
+    "Értékelje felszíni vizeink gazdasági jelentőségét.",
+    "Ismertesse a felszín alatti vizek hazai típusait, előfordulásait, hasznosítását.",
+    "Mutassa be vizeink környezeti problémáit.",
+    "Mondjon példákat a vízvédelem hazai lehetőségeire és megoldásaira.",
+    "Mutassa be az éghajlat, a természetes növénytakaró és a talaj összefüggéseit hazánk területén.",
+    "Értelmezzen Magyarország természeti adottságaival kapcsolatos tematikus térképeket."
+   ],
+   "emelt": [
+    "Mutassa be a Kárpát-medence földtörténeti fejlődésének kapcsolatát a lemeztektonikai folyamatokkal.",
+    "Kösse földtörténeti korokhoz a Kárpát-medence geológiai fejlődésének eseményeit és főbb képződményeit.",
+    "Értelmezze tematikus térképek segítségével az egyes időjárási-éghajlati elemek értékeinek hazai eloszlási jellegzetességeit.",
+    "Ismerje a vízszennyezés regionális összefüggéseit, a nemzetközi összefogás szükségességét a Kárpát-medencében."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.3. Magyarország társadalmi jellemzői",
+   "kozep": [
+    "Ismertesse hazánk 20. századi és jelenkori népesedési folyamatait és azok társadalmi-gazdasági következményeit.",
+    "Értelmezze hazánk korfáját.",
+    "Olvassa le diagramokról, adatsorokról és elemezze a népességszám, a természetes szaporodás alakulását.",
+    "Nevezzen meg magas és alacsony népsűrűségű területeket, indokolja a különbségeket.",
+    "Mutassa be a hazai foglalkoztatási szerkezetet és annak átalakulását, magyarázza meg az átalakulás okait.",
+    "Mutassa be hazánk legfontosabb településföldrajzi jellemzőit térképek, képek, adatsorok, ábrák alapján."
+   ],
+   "emelt": [
+    "Bizonyítsa a népességmozgások összefüggését a gazdasági-politikai tényezőkkel.",
+    "Értelmezze a településfajták, a településhálózat átalakulását.",
+    "Ismertesse hazánk településföldrajzi jellemzőinek területi különbségeit, elemezze a településtípusok változó súlyát.",
+    "Elemezze a falusias térségek válsághelyzetének okait és felzárkózásuk lehetőségeit.",
+    "Elemezze a lakókörnyezetet és az életmódbeli jellemzőket alakító tényezőket (nagyvárosi, városi, falusi települések; természeti és épített környezet; gazdasági, szociális eltérések)."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.4. A hazai gazdasági fejlődés jellemzői",
+   "kozep": [
+    "Mutassa be hazánk természeti erőforrásait és azok szerepét a nemzetgazdaságban.",
+    "Ismertesse a magyar nemzetgazdaság jellemző vonásait, területi és szerkezeti átrendeződését ábrák, statisztikai adatsorok, tematikus térképek segítségével.",
+    "Mutassa be a gazdasági rendszerváltoztatás következményeit.",
+    "Alkalmazza az országok gazdaságának összehasonlítására szolgáló mutatókat a magyar gazdaság európai és világgazdaságban elfoglalt helyének bemutatására.",
+    "Olvassa le tematikus térképekről a GDP regionális adatait és magyarázza meg annak eltéréseit.",
+    "Állapítson meg tényeket, folyamatokat, összefüggéseket adatsorok, ábrák segítségével az egyes gazdasági ágazatok, ágak és szektorok helyzetéről, nemzetgazdaságban betöltött szerepéről.",
+    "Ismertesse az élelmiszergazdaság szerepét a nemzetgazdaságban.",
+    "Bizonyítsa éghajlati és talajadottságaink szerepét főbb terményeink termőterületének elhelyezkedésében.",
+    "Nevezze meg a történelmi borvidékeket térkép alapján.",
+    "Elemezze a magyar energiagazdaság adottságait, lehetőségeit, nemzetközi kapcsolatait.",
+    "Mutassa be az ipar területi és szerkezeti átalakulásának folyamatát.",
+    "Elemezze a húzóágazatok szerepét, illetve annak változásait.",
+    "Jellemezze a tudásipar feltételeit.",
+    "Mutassa be tematikus térképek segítségével az infrastruktúra és a településhálózat kapcsolatát.",
+    "Értékelje hazánk közlekedésföldrajzi helyzetét.",
+    "Ismertesse az átmenő forgalom jellemzőit.",
+    "Vázolja fel az idegenforgalom szerepét a gazdaságban.",
+    "Mutassa be és helyezze el a térképen a fontosabb idegenforgalmi körzeteket, ismertesse azok kiemelt értékeit."
+   ],
+   "emelt": [
+    "Ismertesse az összefüggést hazánk társadalmi-gazdasági fejlődése és annak történelmi háttere között.",
+    "Mutassa be a piac és a tulajdonformák szerepét, változását a gazdaság működésében.",
+    "Mutassa be a külföldi tőke szerepét a rendszerváltoztatást követő gazdasági fejlődésben.",
+    "Mutassa be a munkanélküliség kialakulásának lehetséges okait, csökkentésének lehetőségeit.",
+    "Ismertesse a régiók kialakításának elveit.",
+    "Állapítson meg tendenciákat, összefüggéseket az egyes gazdasági ágazatok, ágak és szektorok szerepéről nemzetközi statisztikai adatok alapján, és hasonlítsa össze ezeket a hazai jellemzőkkel.",
+    "Soroljon fel a magyarsághoz kötődő hagyományos élelmiszereket és ételeket, ismerje fel a hagyományok földrajzi alapjait.",
+    "Mutassa be az ipari parkok szerepét a térségek gazdasági fejlődésében.",
+    "Ismertesse az infoparkok, a zöld- és barnamezős beruházások szerepét hazánk gazdasági életében.",
+    "Prognosztizálja az idegenforgalmi fejlesztések lehetőségeit.",
+    "Mutassa be a turizmus környezetre és a szolgáltatás egyéb ágazataira gyakorolt hatásait.",
+    "Fogalmazzon meg a fenntarthatóságot támogató gazdasági törekvéseket.",
+    "Tudjon példákat mondani Magyarország és az Európai Unió gazdasági kapcsolataira."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.5. Hazánk tájainak eltérő természeti és társadalmi-gazdasági képe",
+   "kozep": [
+    "Ismertesse térkép segítségével hazánk fő tájegységeit és résztájaikat, mutassa és nevezze meg ezeket kontúrtérképen.",
+    "Jellemezze a fő tájegységek felszínét, éghajlatát, vízrajzát, fő talajtípusait, ásványkincseit és a természeti adottságok hatásait a gazdasági életre.",
+    "Kösse földtörténeti időkhöz, időszakokhoz a fő tájegységek, résztájak kőzetanyagának, ásványkincseinek kialakulását.",
+    "Ismertesse a tájformálásban szerepet játszó külső erők munkáját.",
+    "Mutassa be a fő tájegységek jellegzetes településtípusait és azok összefüggését a természeti adottságokkal.",
+    "Mutassa meg térképen és nevezze meg kontúrtérképen a fő tájegységek fontosabb településeit.",
+    "Kapcsolja hozzájuk a jellemző természeti erőforrásokat és gazdasági tevékenységeket.",
+    "Ismertesse a fő tájegységek természeti és kulturális értékeit, idegenforgalmi lehetőségeit és központjait.",
+    "Nevezze meg a fő tájegységeket érintő környezeti problémákat és ezek mérséklésének lehetőségeit."
+   ],
+   "emelt": [
+    "Kösse földtörténeti korokhoz a fő tájegységek, résztájak kőzetanyagának, ásványkincseinek kialakulását.",
+    "Bizonyítsa statisztikai adatok segítségével a fő tájegységek szerepét hazánk gazdasági életében.",
+    "Hasonlítsa össze a résztájak természeti és társadalmi-gazdasági adottságait."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.6. A magyarországi régiók földrajzi jellemzői",
+   "kozep": [
+    "Mutassa meg a térképen, nevezze meg kontúrtérképen hazánk régióit.",
+    "Hasonlítsa össze az egyes régiók jellemző erőforrásait, meghatározó földrajzi adottságait.",
+    "Jellemezze az egyes régiókat hazánk gazdaságában betöltött szerepük, jellemző gazdasági tevékenységeik alapján.",
+    "Mutassa be Budapest központi szerepét az ország társadalmi-gazdasági életében.",
+    "Jellemezze a főváros településszerkezetét, annak változásait források segítségével.",
+    "Ismertesse példák alapján Budapest sokoldalú gazdasági kapcsolatát az agglomeráció településeivel."
+   ],
+   "emelt": [
+    "Fogalmazzon meg fejlődési, felzárkózási utakat a régiók számára."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.7. Természeti, kulturális és történelmi értékek védelme",
+   "kozep": [
+    "Ismerje fel térképen, kontúrtérképen és nevezze meg hazánk nemzeti parkjait, a világörökséghez tartozó értékeit.",
+    "Igazolja források alapján a nemzeti parkok és a világörökségi helyszínek idegenforgalmi szerepét."
+   ],
+   "emelt": [
+    "Nevezzen meg magyarországi néprajzi csoportokat, tudjon példát mondani hagyományaikra, értékeikre.",
+    "Ismerje a hungarikum fogalmát, mondjon rá példát.",
+    "Mutassa be a hungarikumok jelentőségét."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.8. Magyarország környezeti állapota",
+   "kozep": [
+    "Értékelje hazánk környezeti állapotát tematikus térképek, összehasonlító adatsorok, fotók segítségével.",
+    "Mutassa be a medence- és a tranzitjelleg szerepét a környezet szennyeződésében, illetve az összefogás szükségességét ezek csökkentésére.",
+    "Sorolja fel a nagyvárosok környezeti ártalmait, a környezet védelmében tett intézkedéseket és azok eredményeit."
+   ],
+   "emelt": [
+    "Elemezzen összehasonlító módon különböző forrásokból származó adatokat, fogalmazzon meg előrejelzéseket az adatok alapján.",
+    "Hasonlítsa össze a védettség jellegét és különböző fokozatait helyek, objektumok példáin.",
+    "Igazolja példákkal a környezeti szempontokat figyelembe vevő gazdasági fejlesztések fontosságát.",
+    "Prognosztizálja Magyarország feladatait a fenntarthatóság, a vízgazdálkodás és a mezőgazdaság kapcsolatában."
+   ]
+  },
+  {
+   "topicNo": 7,
+   "subtopic": "7.9. Az országhatárokon átívelő kapcsolatok",
+   "kozep": [
+    "Ismertesse a külkereskedelem szerepét hazánk gazdaságában.",
+    "Mutassa be nemzetközi gazdasági kapcsolataink irányának és tartalmának változását adatsorok alapján.",
+    "Nevezze meg hazánk legfontosabb külkereskedelmi partnereit.",
+    "Mondjon példákat a határainkon átnyúló regionális együttműködésekre."
+   ],
+   "emelt": []
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.1. Európa általános természetföldrajzi képe",
+   "kozep": [
+    "Ismertesse a nagytájak felszínformáit, a földtörténeti múltjuk és a geológiai szerkezetük közötti összefüggéseket.",
+    "Támassza alá példákkal a geológiai szerkezet és az ásványkincsek előfordulásának összefüggését.",
+    "Mutassa meg a térképen és jellemezze a kontinens nagytájait, szerkezeti egységeit.",
+    "Mutassa be az éghajlatot alakító és módosító tényezők szerepét a kontinensen.",
+    "Ismerje fel diagramok és más ábrák, képek, leírások alapján a kontinens jellegzetes éghajlatait, jellemezze azokat.",
+    "Nevezze meg kontúrtérképen a kontinens legfontosabb felszíni vizeit.",
+    "Mutassa be tematikus térképek segítségével az éghajlat, a vízrajz, a növényzet és a talajtípus közötti összefüggést.",
+    "Mutassa be konkrét példákon a társadalom környezetátalakító tevékenységét és annak hatásait."
+   ],
+   "emelt": [
+    "Mutassa be a kontinens kialakulásának folyamatát tematikus térképek segítségével.",
+    "Magyarázza meg a lemeztektonikai folyamatok és a kontinens területének változása közötti összefüggéseket."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.2. Európa általános társadalomföldrajzi képe",
+   "kozep": [
+    "Magyarázza meg a természeti adottságok és a társadalmi-gazdasági fejlődés népsűrűséggel való kapcsolatát.",
+    "Mutassa meg térképen Európa sűrűn lakott területeit, nagy agglomerációit, és indokolja az elhelyezkedésüket.",
+    "Sorolja fel és mutassa meg térképen, kontúrtérképen a résztémakörökben nevesített országcsoportokat, országokat, azok fővárosait, legfontosabb gazdasági központjait, és ismertesse tipikus földrajzi jellemzőiket.",
+    "Sorolja fel a kontinensrészek jellegzetes mezőgazdasági terményeit, ásványkincseit, illetve tipikus gazdasági ágazatait.",
+    "Mutassa be a résztémakörökben nevesített országok, országcsoportok szerepét, jelentőségét a világgazdaságban és az Európai Unióban."
+   ],
+   "emelt": [
+    "Mondjon példákat a résztémakörökben nevesített országok, országcsoportok kulturális értékeire.",
+    "Mutassa be az európai erőtér átalakuló világgazdasági szerepét.",
+    "Hasonlítson össze és elemezzen az európai erőtér országainak, országcsoportjainak gazdasági jelentőségét alátámasztó adatsorokat.",
+    "Mutassa be a centrum, félperiféria és periféria térségek kapcsolatrendszerét."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.3. Az Európai Unió",
+   "kozep": [
+    "Nevezze meg az Európai Unió tagállamait.",
+    "Mutassa be az európai együttműködés kialakulását és hatását a tagállamok társadalmi-gazdasági életére.",
+    "Ismertesse az Európai Unió fő intézményeinek legfontosabb jellemzőit.",
+    "Mutassa be példákkal alátámasztva az unión belüli területi fejlettségi különbségeket, a regionális politika fő vonásait.",
+    "Elemezzen az Európai Unióval kapcsolatos statisztikai adatokat."
+   ],
+   "emelt": [
+    "Ismertesse az európai integráció fejlődésének történetét.",
+    "Tárja fel az integráció bővítésének lehetőségeit és problémáit.",
+    "Mutassa be a szervezet mezőgazdasági politikáját források alapján."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.4. Európa regionális földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.4.1. Európa magterülete",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Egyesült Királyság",
+   "kozep": [
+    "Mutassa be konkrét példákon a szigetország földrajzi fekvésének és ásványkincseinek szerepét a gazdaság fejlődésében."
+   ],
+   "emelt": [
+    "Ismertesse a gyarmatosítás szerepét az ország gazdaságának fejlődésében, magyarázza meg világgazdasági szerepének átalakulását.",
+    "Értelmezze az ország Európai Unióhoz való viszonyát."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Franciaország",
+   "kozep": [
+    "Ismertesse az ország szerepét az Európai Unió élelmiszertermelésében.",
+    "Támassza alá példákkal az idegenforgalom gazdasági jelentőségét."
+   ],
+   "emelt": [
+    "Mutassa be a gyarmatosítás társadalmi-gazdasági sajátosságokra gyakorolt hatását."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Benelux államok",
+   "kozep": [],
+   "emelt": [
+    "Ismertesse az egyes országok társadalmi-gazdasági jellemzőit, az együttműködés kialakulásához vezető okokat."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Németország",
+   "kozep": [
+    "Mutassa be az országot mint Európa vezető gazdaságát.",
+    "Ismerje a keleti és nyugati országrész eltérő társadalmi-gazdasági fejlődésének útját, az ebből fakadó problémákat.",
+    "Mutassa be a hagyományos iparvidékek gazdasági és környezeti átalakulásának folyamatát a Ruhr-vidék példáján."
+   ],
+   "emelt": [
+    "Támassza alá példákkal a déli tartományok gyors gazdasági fejlődését.",
+    "Igazolja példák alapján a német nagyvállalatok szerepét hazánk és a volt szocialista országok gazdasági fejlődésében."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.4.2. Fejlett gazdaságú országok Európa közepén és északi részén",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Az Alpok országai",
+   "kozep": [
+    "Mutassa be az alpesi országok jellemző vonásait.",
+    "Mondjon példát az országok semlegességből adódó nemzetközi szerepvállalására."
+   ],
+   "emelt": [
+    "Igazolja hazánk és Ausztria sokoldalú társadalmi-gazdasági kapcsolatát, annak történelmi gyökereit.",
+    "Mutassa be az éghajlatváltozás turizmusra gyakorolt hatását."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Észak-Európa országai",
+   "kozep": [
+    "Ismertesse az észak-európai országok gazdasági életében szerepet játszó természeti és társadalmi tényezőket.",
+    "Emelje ki a hasonlóságokat és a különbségeket."
+   ],
+   "emelt": []
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.4.3. Dél-Európa országai",
+   "kozep": [
+    "Mutassa be a mediterrán országok földrajzi jellemzőit.",
+    "Értékelje a tenger és az idegenforgalom szerepét az országok gazdasági életében.",
+    "Mutassa be a történelmi és kulturális örökség szerepét a dél-európai térségben."
+   ],
+   "emelt": [
+    "Értelmezze a dél-európai országok gazdasági fejlődését segítő és nehezítő tényezőket."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Olaszország",
+   "kozep": [
+    "Hasonlítsa össze az ország északi és déli területeinek természeti és társadalmi adottságait, gazdasági fejlettségét."
+   ],
+   "emelt": []
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.4.4. Kelet-Közép-, Kelet- és Délkelet-Európa országai",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "A Visegrádi Együttműködés országai (Csehország, Lengyelország, Szlovákia)",
+   "kozep": [
+    "Ismertesse a magas- és középhegységi tájak, a medencék, a tengerpart és a síkságok természeti és társadalmi-gazdasági jellemzőit.",
+    "Mondjon példát magyar vonatkozású kulturális központokra."
+   ],
+   "emelt": [
+    "Ismertesse az országcsoport társadalmi-gazdasági fejlődésének történelmi vonatkozásait."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Keleti szomszédaink (Románia, Ukrajna)",
+   "kozep": [
+    "Ismertesse a magas- és középhegységi tájak, a medencék, a tengerpart és a síkságok természeti és társadalmi-gazdasági jellemzőit.",
+    "Mondjon példát magyar vonatkozású kulturális központokra."
+   ],
+   "emelt": [
+    "Mutassa be a társadalmi-gazdasági fejlődést elősegítő és hátráltató tényezőket."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "Délszláv államok",
+   "kozep": [
+    "Sorolja fel az egykori Jugoszlávia utódállamait, jellemezze azok legfontosabb természeti és gazdasági adottságait, az Európai Unióhoz fűződő kapcsolatukat.",
+    "Mutassa be a dalmáciai idegenforgalom szerepét.",
+    "Mondjon példát magyar vonatkozású kulturális központokra."
+   ],
+   "emelt": [
+    "Ismertesse az egykori Jugoszláviát megosztó társadalmi és kulturális különbségeket, a térség nemzetiségeinek területi elhelyezkedését tematikus térképek segítségével."
+   ]
+  },
+  {
+   "topicNo": 8,
+   "subtopic": "8.4.5. Oroszország",
+   "kozep": [
+    "Mutassa be Oroszország világgazdasági szerepét.",
+    "Hasonlítsa össze az ország európai és ázsiai részének jellemzőit."
+   ],
+   "emelt": [
+    "Ismertesse az ország társadalmi-gazdasági fejlődésének történelmi vonatkozásait.",
+    "Ismertesse az ország energiagazdaságának jellemzőit, az energiatermelés környezeti következményeit."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.1. A kontinensek általános természet- és társadalomföldrajzi képe",
+   "kozep": [
+    "Mutassa meg térképen, nevezze meg kontúrtérképen és jellemezze a kontinensek nagytájait, folyóit, tavait, jellegzetes térségeit, a résztémakörökben nevesített országcsoportokat, országokat, azok fővárosát és egyéb gazdasági központjait.",
+    "Mondjon példákat a kontinensek fő erőforrásaira.",
+    "Elemezze tematikus térképek alapján a geológiai szerkezet és az ásványkincsek összefüggéseit.",
+    "Mutassa be a kontinensek természetföldrajzi adottságait éghajlati, növényzeti és talajtérképek összehasonlító elemzésével.",
+    "Ismerje fel képek, ábrák, leírások és tematikus térképek alapján a földrajzi öveket, a kontinensek jellemző területeit, tipikus tájait.",
+    "Ismertesse a népességkoncentrációk kialakulását, jellemzőit, a népesség egyenlőtlen elhelyezkedésének okait és következményeit.",
+    "Mutassa be a kontinensek világgazdasági szerepét, annak változásait.",
+    "Magyarázza meg a kontinensek országcsoportjainak eltérő ütemű gazdasági fejlődését, a területi fejlettségi különbségeket.",
+    "Ismertesse a mezőgazdasági termelés egyes kontinenseken jellemző típusait és azok fontosabb terményeit.",
+    "Sorolja fel a résztémakörökben nevesített országcsoportok, országok jellegzetes ásványkincseit, illetve tipikus gazdasági ágazatait.",
+    "Mondjon példákat a földrészekről az emberi beavatkozás környezetkárosító hatásaira és ezek következményeire, a károsítás mérséklésének lehetőségeire."
+   ],
+   "emelt": [
+    "Ismertesse a kontinensek felépítésének lemeztektonikai hátterét.",
+    "Elemezzen keresztmetszetet a kontinensek természeti adottságairól.",
+    "Nevezzen meg sajátos kulturális értékeket az egyes országokban, országcsoportokban.",
+    "Mutassa be a centrum, félperiféria és periféria térségek kapcsolatrendszerét."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.2. Ázsia földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.2.1. Ázsia általános földrajzi jellemzői",
+   "kozep": [
+    "Ismertesse az ázsiai nagy sivatagok kialakulásának okait.",
+    "Mutassa be példák alapján a monszun szerepét a gazdasági élet jellemzőinek kialakulásában.",
+    "Ismertesse a kontinens természeti jellemzőiből adódó veszélyhelyzeteket, a védekezés lehetőségeit.",
+    "Mutassa be az ázsiai népességrobbanást statisztikai adatok segítségével, mondjon példákat a következményeire és az azok megoldására tett lépésekre."
+   ],
+   "emelt": [
+    "Ismertesse példák segítségével az ősi kultúrák, a világvallások társadalmat, gazdaságot, környezetet befolyásoló szerepét.",
+    "Elemezze az élelmezési problémák kialakulásának okait, ismertesse a megoldásukra tett lépéseket."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.2.2. Ázsia regionális földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Kína",
+   "kozep": [
+    "Ismertesse a népességszám növekedésének időbeli változásait diagramok alapján.",
+    "Magyarázza meg, hogyan lett Kína a világ meghatározó gazdasága.",
+    "Jellemezze a gazdasági fejlődés és a környezetátalakítás kapcsolatát, az ebből adódó környezeti veszélyeket."
+   ],
+   "emelt": [
+    "Ismertesse a társadalmi-gazdasági fejlődés sajátos történelmi vonásait.",
+    "Értékelje források felhasználásával Kína népességpolitikáját.",
+    "Hasonlítsa össze Kelet- és Nyugat-Kína mezőgazdaságát.",
+    "Tárja fel a tengerparti és a belső területek fejlettségkülönbségének természeti alapjait, ennek következményeit."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Japán",
+   "kozep": [
+    "Mutassa be a szigethelyzet és a természeti erőforrások szűkösségének következményeit a gazdasági fejlődésben.",
+    "Támassza alá tényekkel Japán szerepét Ázsia gazdasági fejlődésében."
+   ],
+   "emelt": [
+    "Ismertesse a társadalmi-gazdaság fejlődés sajátos történelmi vonásait.",
+    "Bizonyítsa a világpiac igényeihez való alkalmazkodás szerepét a gazdaság fejlődésében."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "India",
+   "kozep": [
+    "Ismertesse az ország népesedési folyamatait és ezek összefüggését az élelmezéssel.",
+    "Jellemezze a természeti adottságokhoz igazodó indiai mezőgazdaságot, nevezze meg fő terményeit.",
+    "Mutassa be a duális gazdasági szerkezet sajátosságait."
+   ],
+   "emelt": [
+    "Ismertesse a társadalmi-gazdaság fejlődés sajátos történelmi vonásait.",
+    "Támassza alá példákkal a társadalmi, vallási hagyományok szerepét India gazdasági életében.",
+    "Értelmezze az ország szolgáltatás-kereskedelemben betöltött szerepét."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Délkelet-Ázsia",
+   "kozep": [
+    "Nevezze meg a térséghez tartozó országokat.",
+    "Mutassa be a térség országainak sajátos társadalmi-gazdasági fejlődését, azok természeti és társadalmi hátterét.",
+    "Értelmezze a térség világgazdasági jelentőségét."
+   ],
+   "emelt": []
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Délnyugat-Ázsia",
+   "kozep": [
+    "Mutassa be a terület kőolajgazdagságának világgazdasági jelentőségét.",
+    "Ismertesse példák alapján a kőolaj szerepét a térség országainak társadalmi-gazdasági életében.",
+    "Értékelje a térség idegenforgalmi adottságait."
+   ],
+   "emelt": [
+    "Mutassa be a vallás meghatározó szerepét a társadalmi-gazdasági életben.",
+    "Nevezze meg a török és az izraeli gazdaság jellemző vonásait és termékeit.",
+    "Értelmezze Törökország kultúrák és kontinensek között betöltött híd szerepét.",
+    "Ismertesse Izrael sajátos társadalmi-gazdasági fejlődését."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.3. Ausztrália és Óceánia földrajza",
+   "kozep": [
+    "Jellemezze Ausztrália sajátos természeti adottságait, erőforrásait és mutassa be példák alapján ezek hatását a társadalmi-gazdasági életre."
+   ],
+   "emelt": [
+    "Ismertesse Óceánia fő földrajzi sajátosságait, a térség természeti és társadalmi-gazdasági jellemzőit."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.4. A sarkvidékek földrajza",
+   "kozep": [
+    "Hasonlítsa össze a két sarkvidék földrajzi adottságait.",
+    "Mutassa be az éghajlatváltozás térségre gyakorolt következményeit."
+   ],
+   "emelt": [
+    "Ismertesse az Antarktikán működő kutatóállomások jelentőségét."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.5. Afrika földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.5.1. Afrika általános földrajzi jellemzői",
+   "kozep": [
+    "Ismertesse a népességrobbanás következményeit a kontinensen.",
+    "Elemezze a gazdasági fejlődést nehezítő tényezőket, a felzárkózás lehetőségeit.",
+    "Mondjon példákat a gazdaságilag fejlett és elmaradott területekre, országokra, jellemző gazdasági ágazatokra.",
+    "Mutassa be a trópusi mezőgazdaság jellemző formáit és az azokhoz kötődő életmódok különbségeit."
+   ],
+   "emelt": [
+    "Ismertesse a népek és kultúrák találkozásából adódó problémákat példák alapján."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.5.2. Afrika regionális földrajza",
+   "kozep": [
+    "Hasonlítsa össze Észak-Afrika és Trópusi-Afrika (szubszaharai Afrika) földrajzi adottságait.",
+    "Ismertesse a Száhel-öv környezeti problémáit, az ezek kialakulásában szerepet játszó tényezőket."
+   ],
+   "emelt": [
+    "Magyarázza meg az ősi kultúra és a globalizáció sajátos kapcsolódását Egyiptom példáján.",
+    "Igazolja források felhasználásával, hogy a Dél-afrikai Köztársaság a kontinens meghatározó gazdasági központja."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.6. Amerika földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.6.1. Amerika általános földrajza",
+   "kozep": [
+    "Hasonlítsa össze Észak-, Közép- és Dél-Amerika természeti adottságait, erőforrásait.",
+    "Igazolja példákkal az észak-déli nyitottság és a kelet-nyugati zártság éghajlati következményeit, veszélyhelyzeteit Észak-Amerikában.",
+    "Mutassa be a kontinens társadalmi-kulturális alapon történő felosztásának jellemzőit, a népességkeveredés következményeit.",
+    "Jellemezze az ültetvényeken és a farmokon folyó termelést."
+   ],
+   "emelt": [
+    "Ismertesse az urbanizáció kontinensrészenként eltérő vonásait, nevezzen meg agglomerálódó térségeket.",
+    "Mutassa be amerikai példák alapján a népesség városba áramlásának okait és jellemzőit.",
+    "Fejtse ki a kvaterner szektor szerepét a modern amerikai gazdaság fejlődésében."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "9.6.2. Amerika regionális földrajza",
+   "kozep": [],
+   "emelt": []
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Amerikai Egyesült Államok",
+   "kozep": [
+    "Mutassa be az USA világgazdasági vezető szerepét és annak kialakulását.",
+    "Jellemezze az ország gazdaságát, a gazdaság térbeli elrendeződésének és szerkezetének átalakulását.",
+    "Mondjon példákat az amerikai TNC-k világgazdasági szerepére."
+   ],
+   "emelt": [
+    "Ismertesse a népesség összetételének változásait, a bevándorlás szerepét az USA társadalmi-gazdasági fejlődésében."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Kanada",
+   "kozep": [],
+   "emelt": [
+    "Jellemezze az USA-val kialakult szoros gazdasági együttműködés földrajzi alapjait, ismertesse az ország USMCA-ban betöltött szerepét."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Latin-Amerika",
+   "kozep": [
+    "Ismertesse a Latin-Amerika gazdasági fejlődését befolyásoló tényezőket."
+   ],
+   "emelt": [
+    "Ismerje fel a latin-amerikai gazdasági fejlődés történelmi összefüggéseit."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Mexikó",
+   "kozep": [],
+   "emelt": [
+    "Ismertesse az USA és Mexikó határán kialakult gazdasági övezet jellemzőit, az ország USMCA-ban betöltött szerepét."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "Brazília",
+   "kozep": [],
+   "emelt": [
+    "Igazolja, hogy Brazília a feltörekvő nagygazdaságok csoportjába tartozik."
+   ]
+  },
+  {
+   "topicNo": 9,
+   "subtopic": "„Banánköztársaságok”, adóparadicsomok",
+   "kozep": [],
+   "emelt": [
+    "Mondjon példát ún. „banánköztársaságra”.",
+    "Ismertesse a „banánköztársaságok” gazdasági sebezhetőségének okait és annak következményeit, értelmezze világgazdasági szerepüket.",
+    "Nevezzen meg adóparadicsomokat a közép-amerikai térségben.",
+    "Fogalmazza meg az adóparadicsomok gazdasági jellemzőit, ismertesse világgazdasági szerepüket."
+   ]
+  },
+  {
+   "topicNo": 10,
+   "subtopic": "10.1. A globálissá váló környezetszennyezés és következményei",
+   "kozep": [
+    "Ismertesse példák alapján a lokális szennyeződés globális következményeit.",
+    "Mutassa be a környezetkárosítás és a környezeti katasztrófák társadalmi következményeit, életkörülményekre gyakorolt hatását példák alapján.",
+    "Mutassa be a változásokra történő felkészülés és a változások mérséklésének, megállításának lehetőségeit.",
+    "Ismertesse a megoldásokra irányuló nemzetközi törekvéseket, indokolja az összefogás szükségességét.",
+    "Mutassa be az emberi tevékenység szerepét a természetes életközösségek, élőhelyek számának csökkenésében.",
+    "Ismertesse e folyamat következményeit."
+   ],
+   "emelt": [
+    "Értelmezze a környezeti válság kialakulásának okait és folyamatát.",
+    "Mutassa be a földrajzi környezet társadalmi tevékenységek hatására bekövetkezett változásait.",
+    "Elemezzen a témához kapcsolódó forrásokat.",
+    "Alkosson véleményt konkrét példák, esetelemzések alapján."
+   ]
+  },
+  {
+   "topicNo": 10,
+   "subtopic": "10.2. Demográfiai és urbanizációs problémák",
+   "kozep": [
+    "Mutassa be a népességszám alakulásának társadalmi-gazdasági következményeit és összefüggéseit.",
+    "Ismertesse a népességrobbanás kialakulásának okait, következményeit és területi jellemzőit.",
+    "Mutassa be példák alapján a nagyvárosok terjeszkedésének környezeti következményeit.",
+    "Mutassa be az összefüggést a városi életforma és a környezet fokozott terhelése között.",
+    "Elemezzen a témához kapcsolódó adatokat, ábrákat, szövegeket."
+   ],
+   "emelt": [
+    "Igazolja példák alapján az urbanizációs folyamatok eltérő területi jellemzőit és ezek összefüggéseit a környezet állapotával."
+   ]
+  },
+  {
+   "topicNo": 10,
+   "subtopic": "10.3. Élelmezés és egészség",
+   "kozep": [
+    "Ismerje fel az élelmiszer termelésének és fogyasztásának területi ellentmondásait.",
+    "Ismerje a társadalmi-gazdasági fejlettség és a lakosság általános egészségi állapota közötti összefüggéseket, értelmezze a társadalmi-gazdasági egyenlőtlenségből fakadó következményeket.",
+    "Elemezzen a témához kapcsolódó forrásokat."
+   ],
+   "emelt": [
+    "Ismertesse az élelmezési válság kialakulásához vezető társadalmi-gazdasági és környezeti folyamatok összefüggéseit.",
+    "Bizonyítsa példákkal a fokozódó mezőgazdasági termelés környezeti hatásait.",
+    "Magyarázza a bioszféra és a talaj sérülékenysége, valamint az élelmiszerellátás összefüggéseit.",
+    "Jellemezze a biogazdálkodást.",
+    "Ismertesse a genetikailag módosított termékek előállításának okait, elemezzen a témához kapcsolódó forrásokat.",
+    "Következtessen a földrajzi elhelyezkedésből, a természet- és társadalomföldrajzi jellemzőkből a különböző térségek vízigényére.",
+    "Mutassa be a vízigény kielégítésének korlátait, a vízhiány következményeit."
+   ]
+  },
+  {
+   "topicNo": 10,
+   "subtopic": "10.4. A mind nagyobb méretű fogyasztás és a gazdasági növekedés következményei",
+   "kozep": [
+    "Ismertesse a hulladékgazdálkodás jelentőségét, vesse össze a különböző megoldási lehetőségeket.",
+    "Mutassa be példák alapján a hulladékok újrahasznosításának lehetőségeit.",
+    "Mutassa be a fenntartható gazdaság jellemzőit, érveljen ennek fontossága mellett.",
+    "Ismertesse példák segítségével az egyén szerepét, felelősségét a fenntartható gazdaság kialakításában.",
+    "Ismerje a fogyasztói társadalom és a tudatos fogyasztói közösségek fő jellemzőit.",
+    "Mutassa be a megújuló és a nem megújuló energiahordozók fő jellemzőit, felhasználásuk lehetőségeit, korlátait és környezeti következményeit."
+   ],
+   "emelt": [
+    "Mutassa be a nyersanyag- és energiaválság kialakulásának folyamatát.",
+    "Igazolja az energia- és nyersanyag-hatékony gazdálkodás lényegét, az alternatív energiaforrások hasznosításának jelentőségét.",
+    "Mutassa be a környezeti szempontok érvényesíthetőségét a termelésben és a fogyasztásban.",
+    "Hasonlítsa össze fogyasztóvédelmi szempontból a hagyományos és elektronikus vásárlást."
+   ]
+  },
+  {
+   "topicNo": 10,
+   "subtopic": "10.5. A környezet- és a természetvédelem feladatai, a globális",
+   "kozep": [
+    "Ismerje fel a globális környezeti problémákat hírekben, folyamatokban, jelenségekben, és mutassa be kialakulásuk fő okait."
+   ],
+   "emelt": [
+    "Ismertesse források alapján a környezet védelmében született fő nemzetközi egyezményeket, irányelveket, célkitűzéseket, mutassa be a megvalósítás eredményeit és"
+   ]
+  },
+  {
+   "topicNo": 10,
+   "subtopic": "béke fenntartása",
+   "kozep": [
+    "Ismertesse a globális környezeti problémákkal foglalkozó legfontosabb nemzetközi szervezetek fő tevékenységeit.",
+    "Soroljon fel a természeti-táji értékek és az emberiség kultúrkincsének védelmében tett lépéseket, igazolja ezek fontosságát.",
+    "Mutassa be az egyén társadalmi szerepvállalásának lehetőségeit, a tevékeny közreműködés példáit a környezet védelmében.",
+    "Értelmezze a fenntarthatóság fogalmát, a fenntarthatóság elérésének lehetőségeit.",
+    "Mutassa be példák alapján a helyi szerveződések, illetve a regionális és nemzetközi összefogás feladatát és lehetőségeit a környezet védelme és a fenntarthatóság elérése érdekében."
+   ],
+   "emelt": [
+    "nehézségeit.",
+    "Mutassa be a háborúk, fegyveres konfliktusok földrajzi sajátosságokra visszavezethető okait és következményeit.",
+    "Ismertesse a legfontosabb nemzetközi humanitárius szervezetek fő tevékenységeit."
+   ]
+  }
+ ]
+}

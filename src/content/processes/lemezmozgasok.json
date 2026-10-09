@@ -1,0 +1,66 @@
+{
+  "id": "lemezmozgasok",
+  "title": "Lemezmozgások: távolodó, közeledő és elcsúszó lemezszegélyek",
+  "summary": "A kőzetburok kőzetlemezekre tagolódik, amelyek az asztenoszféra áramlásai miatt egymáshoz képest mozognak. A lemezszegélyek típusa határozza meg, hogy ott óceánközépi hátság, mélytengeri árok, vulkáni hegység, gyűrthegység vagy törésvonal alakul ki.",
+  "causes": [
+    "A Föld belsejéből kifelé irányuló hőáramlás az asztenoszférában lassú magmaáramlásokat tart fenn.",
+    "Az áramlások a rájuk támaszkodó merev kőzetlemezeket magukkal viszik.",
+    "A lemezek egymáshoz képest távolodhatnak, közeledhetnek vagy egymás mellett elcsúszhatnak."
+  ],
+  "course": [
+    "Távolodó lemezszegélyen feláramló magma tölti ki a rést, új óceáni kéreg képződik (gyarapodó lemezszegély).",
+    "Közeledő lemezszegélyen a nagyobb sűrűségű óceáni lemez a másik alá bukik, és a köpenyben beolvad (fölemésztődő lemezszegély).",
+    "Két kontinentális lemez ütközésekor egyik sem bukik alá mélyre, a kőzetek összegyűrődnek, feltorlódnak.",
+    "Elcsúszó lemezszegélyen a lemezek vízszintesen mozdulnak el egymás mellett, kéreg nem keletkezik és nem is semmisül meg."
+  ],
+  "consequences": [
+    "Az óceánközépi hátságok mentén bazaltos vulkánosság és sekély fészkű földrengések jellemzők, az óceánok szélesednek.",
+    "Az alábukási övezetekben mélytengeri árkok, vulkáni hegységek és szigetívek, valamint erős, mélyebb fészkű földrengések alakulnak ki.",
+    "A kontinensek ütközésénél magas gyűrthegységek emelkednek.",
+    "A Föld vulkánjai és földrengései nagyrészt a lemezszegélyek mentén, keskeny övezetekben sűrűsödnek."
+  ],
+  "steps": [
+    { "title": "Távolodó lemezszegély: óceánközépi hátság, hasadékvölgy", "caption": "A széttávolodó lemezek közötti résbe magma nyomul fel, és új óceáni kéreg képződik. Az óceánok alján óceánközépi hátság, a kontinensen hasadékvölgy jön létre.", "icon": "arrow-up" },
+    { "title": "Közeledő óceáni–kontinentális: alábukás, mélytengeri árok, vulkáni hegység", "caption": "A nagyobb sűrűségű óceáni lemez a kontinentális alá bukik, a találkozásnál mélytengeri árok mélyül. A beolvadó lemez anyagából magma keletkezik, amely a kontinens szélén vulkáni hegységet épít.", "icon": "arrow-down" },
+    { "title": "Közeledő óceáni–óceáni: vulkáni szigetív", "caption": "Az egyik óceáni lemez a másik alá bukik, előtte mélytengeri árok húzódik. A feltörő magma ív alakú vulkanikus szigetsort, vulkáni szigetívet hoz létre.", "icon": "flame" },
+    { "title": "Közeledő kontinentális–kontinentális: gyűrthegység", "caption": "A kis sűrűségű kontinentális lemezek nem tudnak mélyre bukni, ezért a köztük lévő üledékek összegyűrődnek és feltorlódnak. Így keletkeznek a legmagasabb gyűrthegységek.", "icon": "mountain-snow" },
+    { "title": "Elcsúszó lemezszegély: földrengések, törésvonal", "caption": "A lemezek egymás mellett vízszintesen mozdulnak el egy törésvonal mentén. A feszültség hirtelen felszabadulása gyakori, erős földrengéseket okoz.", "icon": "activity" }
+  ],
+  "examples": [
+    { "text": "Izland a Közép-atlanti-hátság felszín fölé emelkedő része: az Észak-amerikai- és az Eurázsiai-lemez távolodik itt. Kontinensen belüli hasadékvölgy az Afrikai-árokrendszer.", "places": ["europa--tajak--izland", "afrika--tajak--afrikai-arokrendszer"] },
+    { "text": "Az Andok a Nazca-lemeznek a Dél-amerikai-lemez alá bukása mentén kialakult vulkáni hegység.", "places": ["amerika--tajak--andok", "fold--kozetlemezek--nazca-lemez", "fold--kozetlemezek--del-amerikai-lemez"] },
+    { "text": "A Mariana-árok és a Japán-árok óceáni–óceáni alábukás eredménye, mellettük vulkáni szigetívek húzódnak. A Himalája az Indiai- és az Eurázsiai-lemez ütközésével gyűrődött fel.", "places": ["fold--nagyszerkezeti-egysegek--mariana-arok", "fold--nagyszerkezeti-egysegek--japan-arok", "azsia--tajak--himalaja"] },
+    { "text": "Kaliforniában, San Francisco közelében a Szent András-törésvonal mentén a Csendes-óceáni- és az Észak-amerikai-lemez elcsúszik egymás mellett.", "places": ["amerika--varosok--san-francisco", "fold--kozetlemezek--csendes-oceani-lemez", "fold--kozetlemezek--eszak-amerikai-lemez"] }
+  ],
+  "concepts": [
+    "kőzetlemez",
+    "asztenoszféra",
+    "magmaáramlás",
+    "távolodó",
+    "közeledő és elcsúszó lemezmozgás",
+    "gyarapodó és fölemésztődő lemezszegélyek",
+    "óceánközépi hátság",
+    "hasadékvölgy",
+    "mélytengeri árok",
+    "vulkáni szigetív",
+    "alábukás",
+    "beolvadás",
+    "gyűrthegység",
+    "törésvonal"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a lemezmozgások okát és típusait! Mutasd be, milyen felszínformák és jelenségek kapcsolódnak az egyes lemezszegélyekhez, és mondj rájuk példát!",
+    "elements": [
+      { "text": "Ok: az asztenoszféra hőáramlásai (magmaáramlás) mozgatják a kőzetlemezeket.", "points": 2 },
+      { "text": "Távolodó lemezszegély: új óceáni kéreg, óceánközépi hátság / hasadékvölgy (pl. Izland).", "points": 2 },
+      { "text": "Óceáni–kontinentális közeledés: alábukás, mélytengeri árok, vulkáni hegység (pl. Andok).", "points": 2 },
+      { "text": "Óceáni–óceáni közeledés: mélytengeri árok és vulkáni szigetív (pl. Mariana-árok).", "points": 1 },
+      { "text": "Kontinentális–kontinentális ütközés: gyűrthegység (pl. Himalája).", "points": 1 },
+      { "text": "Elcsúszó lemezszegély: törésvonal, gyakori földrengés (pl. Szent András-törésvonal).", "points": 1 },
+      { "text": "A vulkánosság és a földrengések a lemezszegélyek mentén sűrűsödnek.", "points": 1 }
+    ],
+    "modelAnswer": "A kőzetlemezeket az asztenoszférában zajló lassú hőáramlások, magmaáramlások mozgatják. Távolodó lemezszegélyen a résbe magma nyomul fel és új óceáni kéreg képződik, így óceánközépi hátság vagy a kontinensen hasadékvölgy jön létre, például Izlandon. Óceáni és kontinentális lemez közeledésekor az óceáni lemez alábukik, mélytengeri árok és vulkáni hegység keletkezik, mint az Andok, két óceáni lemez esetén pedig mélytengeri árok és vulkáni szigetív, mint a Mariana-árok mentén. Két kontinentális lemez ütközésekor gyűrthegység emelkedik, például a Himalája, elcsúszó lemezszegélyen pedig törésvonal mentén gyakori földrengések jellemzők, mint a Szent András-törésvonalnál. Ezért a vulkánosság és a földrengések a Földön elsősorban a lemezszegélyek mentén sűrűsödnek."
+  },
+  "generated": true,
+  "reviewed": false
+}

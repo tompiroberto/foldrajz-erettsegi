@@ -1,0 +1,2218 @@
+{
+  "facts": {
+    "ausztralia-es-oceania--tajak--ausztraliai-alfold": {
+      "fekves": "Ausztrália középső részén, kb. 18–36° d. sz. és 137–148° k. h. között húzódik, keleten a Nagy-Vízválasztó-hegység, nyugaton a Nyugat-ausztráliai-ősföld határolja.",
+      "facts": [
+        "Fiatal üledékekkel feltöltött süllyedékterület; déli részén a Murray–Darling vízgyűjtője fekszik.",
+        "Belsejében belső lefolyású medencék, időszakos vízfolyások és sós tavak (pl. Eyre-tó) találhatók.",
+        "Száraz, félsivatagos és szavannás területein extenzív juh- és szarvasmarhatartás folyik."
+      ],
+      "concepts": [
+        "alföld",
+        "süllyedékterület",
+        "időszakos vízfolyás",
+        "lefolyásos és belső lefolyású terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--nagy-artezi-medence": {
+      "fekves": "Ausztrália keleti-középső részén, kb. 21–31° d. sz. és 136–148° k. h. között, a Nagy-Vízválasztó-hegységtől nyugatra fekvő medence.",
+      "facts": [
+        "A Föld egyik legnagyobb artézi medencéje: vízfogó rétegek közé zárt víztartó réteg.",
+        "A csapadék a Nagy-Vízválasztó-hegységben szivárog be, és nyomás alatt tör fel a kutakban.",
+        "Az artézi kutak vize a száraz vidéken főleg az állattartást (juh, szarvasmarha) szolgálja.",
+        "Vize gyakran meleg és sós, ezért öntözésre kevéssé alkalmas."
+      ],
+      "concepts": [
+        "artézi víz",
+        "artézi kút",
+        "vízfogó és víztartó kőzetréteg"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--nagy-korallzatony": {
+      "fekves": "Ausztrália északkeleti partjai előtt, a Korall-tengerben, kb. 10–24° d. sz. között húzódik a partvonallal párhuzamosan.",
+      "facts": [
+        "A Föld legnagyobb korallzátony-rendszere, hossza meghaladja a 2000 km-t.",
+        "Zátonyépítő korallok a meleg (20 °C feletti), sekély, tiszta, sós tengervízben élnek.",
+        "Világörökségi helyszín; a tengervíz melegedése korallfehéredést okoz."
+      ],
+      "concepts": [
+        "világörökség",
+        "veszélyeztetett élőhely"
+      ],
+      "processes": [
+        "globalis-felmelegedes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--nagy-vizvalaszto-hegyseg": {
+      "fekves": "Ausztrália keleti peremén, kb. 13–38° d. sz. között, a csendes-óceáni partvidékkel párhuzamosan húzódó hegyvidék; nyugaton az Ausztráliai-alföld határolja.",
+      "facts": [
+        "Óidei gyűrthegység, amelyet a lepusztulás után kéregmozgások újra kiemeltek.",
+        "Éghajlatválasztó: a keleti, szél felőli lejtő csapadékos, a nyugati oldal száraz.",
+        "Itt szivárog be a Nagy-Artézi-medence vize; déli részén ered a Murray.",
+        "Jelentős feketekőszén-készletek (Új-Dél-Wales, Queensland)."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "éghajlatválasztó hegység",
+        "vízválasztó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--melanezia": {
+      "fekves": "Ausztráliától északra és északkeletre, nagyrészt az Egyenlítő és kb. 23° d. sz. között, kb. 130–180° k. h. között fekvő szigetvilág (Új-Guinea, Salamon-szigetek, Új-Kaledónia, Fidzsi).",
+      "facts": [
+        "Neve „fekete szigetek”: őslakói sötét bőrű melanéz népek.",
+        "Nagyobb szigetei kontinentális eredetűek vagy lemezszegélyek menti vulkáni szigetívek.",
+        "Forró, csapadékos egyenlítői, illetve trópusi éghajlat, trópusi esőerdők."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "trópusi esőerdő"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--mikronezia": {
+      "fekves": "A Csendes-óceán nyugati részén, nagyrészt az Egyenlítőtől északra (kb. 0–21° é. sz., 130–180° k. h.) szétszórt apró szigetek csoportja (pl. Mariana-, Karolina-, Marshall-szigetek).",
+      "facts": [
+        "Neve „apró szigetek”: többségük korallzátonyra épült atoll vagy vulkáni sziget.",
+        "A Mariana-szigetek mellett húzódik a Mariana-árok, a Föld legmélyebb pontja.",
+        "Alacsony atolljait a tengerszint emelkedése veszélyezteti."
+      ],
+      "concepts": [
+        "mélytengeri árok",
+        "vulkáni szigetív"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--polinezia": {
+      "fekves": "A Csendes-óceán középső és déli részén, a Hawaii-szigetek, Új-Zéland és a Húsvét-sziget alkotta háromszögben (kb. 28° é. sz. – 47° d. sz.) elterülő szigetvilág.",
+      "facts": [
+        "Neve „sok sziget”; őslakói polinéz népek.",
+        "Szigetei vulkáni (pl. a forró pont fölött képződött Hawaii) vagy korall eredetűek.",
+        "Szigeteinek többsége a forró övezetben fekszik, passzátszél és óceáni hatás jellemzi."
+      ],
+      "concepts": [
+        "forrópontos vulkán",
+        "passzátszelek"
+      ],
+      "processes": [
+        "forro-pont"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--tasmania": {
+      "fekves": "Ausztrália délkeleti partjai előtt, kb. 41–44° d. sz. és 145–148° k. h. között fekvő sziget; a Bass-szoros választja el a kontinenstől.",
+      "facts": [
+        "Geológiailag a Nagy-Vízválasztó-hegység folytatása, a kontinens talapzatán fekszik.",
+        "Mérsékelt övezeti óceáni éghajlat: a nyugatias szelek egész évben csapadékot hoznak.",
+        "Ausztrália egyik szövetségi állama."
+      ],
+      "concepts": [
+        "óceáni éghajlat",
+        "nyugatias szelek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--tajak--uj-guinea": {
+      "fekves": "Ausztráliától északra, az Egyenlítőtől délre (kb. 0–11° d. sz., 131–151° k. h.) fekvő sziget; a Torres-szoros választja el Ausztráliától.",
+      "facts": [
+        "A Föld második legnagyobb szigete (Grönland után).",
+        "Gerincén fiatal magashegységek húzódnak, legmagasabb csúcsai 4000 m fölé emelkednek.",
+        "Egyenlítői éghajlat, kiterjedt trópusi esőerdők.",
+        "Nyugati fele Indonéziához, keleti fele Pápua Új-Guineához tartozik."
+      ],
+      "concepts": [
+        "egyenlítői éghajlat",
+        "trópusi esőerdő"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--vizrajz--murray": {
+      "fekves": "Ausztrália délkeleti részén, kb. 34–37° d. sz. és 139–148° k. h. között folyik: a Nagy-Vízválasztó-hegységben ered, és Adelaide-től délkeletre ömlik az Indiai-óceánba.",
+      "facts": [
+        "Ausztrália leghosszabb folyója, legfontosabb mellékfolyója a Darling.",
+        "Vízjárása szélsőséges: száraz években vízhozama erősen lecsökken.",
+        "Vízgyűjtője az ország legfontosabb öntözéses mezőgazdasági területe."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó",
+        "vízjárás",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--orszagok--ausztralia": {
+      "fekves": "Az Indiai- és a Csendes-óceán között, kb. 10–39° d. sz. és 113–154° k. h. között fekvő országkontinens; közepén a Baktérítő halad át, délkeletre fekszik Tasmánia.",
+      "facts": [
+        "Nyugati része ősföld, keleten az óidei Nagy-Vízválasztó-hegység, köztük az Ausztráliai-alföld.",
+        "Nagy része térítői sivatag és félsivatag; népessége a keleti, délkeleti partvidéken tömörül.",
+        "Jelentős nyersanyag-exportőr (vasérc, bauxit, feketekőszén, arany); juhtartás, gyapjú.",
+        "Fejlett, szövetségi felépítésű ország, az APEC tagja."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "ásványi nyersanyag",
+        "Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--orszagok--uj-zeland": {
+      "fekves": "A Csendes-óceán délnyugati részén, Ausztráliától délkeletre, kb. 34–47° d. sz. és 166–179° k. h. között fekvő szigetország (Északi- és Déli-sziget).",
+      "facts": [
+        "Kőzetlemezek határán fekszik: gyakoriak a földrengések, az Északi-szigeten vulkánok és gejzírek vannak.",
+        "A Déli-szigeten gleccserekkel borított magashegység, a Déli-Alpok húzódik.",
+        "Óceáni éghajlat a nyugatias szelek övében.",
+        "Fejlett állattenyésztés (juh, szarvasmarha); tejtermék-, hús- és gyapjúexport."
+      ],
+      "concepts": [
+        "közeledő és elcsúszó lemezmozgás",
+        "gejzír",
+        "óceáni éghajlat"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--varosok--canberra": {
+      "fekves": "Ausztrália délkeleti részén, kb. 35° d. sz. és 149° k. h.-on, Sydney és Melbourne között, a Nagy-Vízválasztó-hegység lábánál fekszik.",
+      "facts": [
+        "Ausztrália fővárosa, a két rivális nagyváros közötti kompromisszumként tervezett város.",
+        "Önálló szövetségi fővárosi területen fekszik.",
+        "Közigazgatási központ, népessége jóval kisebb Sydney-énél és Melbourne-énél."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--varosok--melbourne": {
+      "fekves": "Ausztrália délkeleti partján, kb. 38° d. sz. és 145° k. h.-on, a Port Phillip-öböl partján fekvő kikötőváros (Victoria állam).",
+      "facts": [
+        "Ausztrália második legnépesebb városa, Victoria állam székhelye.",
+        "Jelentős kikötő, ipari, pénzügyi és kulturális központ.",
+        "Mérsékelt övezeti, óceáni hatású éghajlat, a nyugatias szelek peremén."
+      ],
+      "concepts": [
+        "óceáni éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--varosok--sydney": {
+      "fekves": "Ausztrália délkeleti, csendes-óceáni partján, kb. 34° d. sz. és 151° k. h.-on fekszik (Új-Dél-Wales).",
+      "facts": [
+        "Ausztrália legnépesebb városa és legfontosabb pénzügyi, kereskedelmi központja.",
+        "Természetes öböl (Port Jackson) partján épült kikötőváros; 1788-ban itt alapították az első brit telepet.",
+        "Meleg mérsékelt övezeti, egész évben csapadékos éghajlat."
+      ],
+      "concepts": [
+        "világváros (globális város)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "ausztralia-es-oceania--varosok--wellington": {
+      "fekves": "Új-Zéland fővárosa az Északi-sziget déli csücskén, a Cook-szoros partján, kb. 41° d. sz. és 175° k. h.-on.",
+      "facts": [
+        "Új-Zéland fővárosa és fontos kikötője.",
+        "Lemezszegély közelében, törésvonalak mentén fekszik: jelentős földrengésveszély.",
+        "A nyugatias szelek övében fekszik, ezért nagyon szeles város."
+      ],
+      "concepts": [
+        "földrengés",
+        "nyugatias szelek"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--del-azsia": {
+      "fekves": "Az Indiai-óceán északi partvidékén, kb. 0–37° é. sz. és 61–97° k. h. között, a Himalájától délre fekvő térség (India, Pakisztán, Banglades, Nepál, Srí Lanka).",
+      "facts": [
+        "Fő része a Hindusztáni-félsziget, északról a Himalája zárja le.",
+        "Forró övezeti monszunterület: nyáron esős, télen száraz évszak.",
+        "A Föld egyik legnépesebb és legsűrűbben lakott térsége, népességrobbanás jellemzi.",
+        "Fő vallásai a hinduizmus (India) és az iszlám (Pakisztán, Banglades)."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) monszunéghajlat",
+        "népességrobbanás",
+        "monszungazdálkodás"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--delkelet-azsia": {
+      "fekves": "Kína és India között, az Indokínai-félszigeten, valamint az Indonéz- és a Fülöp-szigetvilágban, kb. 11° d. sz. – 28° é. sz. és 92–141° k. h. között.",
+      "facts": [
+        "Az Egyenlítő menti szigeteken egyenlítői, a félszigeten forró övezeti monszunéghajlat uralkodik.",
+        "Szigetvilága alábukási zónák menti vulkáni szigetív: gyakori földrengés, vulkánkitörés, cunami.",
+        "Monszungazdálkodás (rizs) és trópusi ültetvények (olajpálma, kaucsuk).",
+        "Országai az ASEAN-ban működnek együtt; több újonnan iparosodott ország."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "monszungazdálkodás",
+        "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--delnyugat-azsia": {
+      "fekves": "Ázsia délnyugati része, kb. 12–44° é. sz. és 26–75° k. h. között, Európa és Afrika szomszédságában, a Földközi-tenger, a Vörös-tenger, a Perzsa-öböl és a Kaszpi-tenger között.",
+      "facts": [
+        "Fő tájai az Arab-félsziget, Kis-Ázsia, az Iráni-felföld és Mezopotámia.",
+        "Nagyrészt térítői sivatagos, partvidékein mediterrán éghajlatú, vízhiányos térség.",
+        "A Perzsa-öböl környékén vannak a Föld legnagyobb kőolaj- és földgázkészletei.",
+        "Az iszlám uralkodó vallás; itt alakult ki a zsidó vallás és a kereszténység is."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "kőolaj",
+        "Kőolaj-exportáló Országok Szervezete (OPEC)"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--eszak-azsia": {
+      "fekves": "Az Uráltól a Csendes-óceánig, kb. 43–78° é. sz. között, a Jeges-tenger partjáig terjedő, Oroszországhoz tartozó terület (Szibéria és a Távol-Kelet).",
+      "facts": [
+        "Fő tájai a Nyugat-szibériai-alföld, a Közép-szibériai-fennsík és a keleti hegyvidékek.",
+        "Szélsőségesen szárazföldi éghajlat; északon tundra, délebbre tajga, kiterjedt fagyott talaj.",
+        "Gazdag kőolaj-, földgáz-, kőszén- és érckészletek.",
+        "Gyéren lakott; népessége a Transzszibériai vasút mentén tömörül."
+      ],
+      "concepts": [
+        "tajga",
+        "tundra",
+        "szélsőségesen szárazföldi terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--kelet-azsia": {
+      "fekves": "Ázsia keleti része a Csendes-óceán partján, kb. 16–54° é. sz. és 74–154° k. h. között: Kína, Mongólia, a Koreai-félsziget, Japán és Tajvan.",
+      "facts": [
+        "Keleti, óceán felőli része mérsékelt övezeti monszunterület.",
+        "A szigetívek mentén alábukás zajlik: vulkánok, földrengések (Japán, Tajvan).",
+        "A világgazdaság egyik pólusa: Kína, Japán, Dél-Korea.",
+        "Népessége a part menti alföldeken és a nagy folyók völgyében tömörül."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat",
+        "világgazdasági pólus (centrum térség)",
+        "vulkáni szigetív"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--kozep-azsia": {
+      "fekves": "A Kaszpi-tengertől keletre Kínáig, kb. 35–55° é. sz. és 47–87° k. h. között fekvő térség (Kazahsztán, Üzbegisztán, Türkmenisztán, Kirgizisztán, Tádzsikisztán).",
+      "facts": [
+        "Az óceánoktól távol, szélsőségesen szárazföldi, sztyepp- és sivatagos éghajlatú terület.",
+        "Fő tája a Turáni-alföld, délkeleten a Pamír és a Tien-san magashegységei.",
+        "Belső lefolyású: folyói az Aral-tóba vagy a Kaszpi-tengerbe tartanak, vagy a sivatagban elvesznek.",
+        "Öntözéses gyapottermesztés; az Aral-tó kiszáradása súlyos környezeti katasztrófa."
+      ],
+      "concepts": [
+        "mérsékelt övezeti sivatagi éghajlat",
+        "lefolyásos és belső lefolyású terület",
+        "környezeti katasztrófa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--belso-azsia": {
+      "fekves": "Ázsia belsejében, kb. 28–50° é. sz. és 74–120° k. h. között, magas hegységek által közrezárt fennsíkok és medencék vidéke (Tibet, Tarim-medence, Mongólia, Góbi).",
+      "facts": [
+        "Az óceánoktól elzárt, magas hegységekkel övezett, ezért rendkívül száraz terület.",
+        "Mérsékelt övezeti sivatagok (Góbi, Takla-Makán) és hideg magashegységi fennsíkok.",
+        "Belső lefolyású medencék; hagyományos gazdálkodása a nomád pásztorkodás."
+      ],
+      "concepts": [
+        "mérsékelt övezeti sivatagi éghajlat",
+        "lefolyásos és belső lefolyású terület",
+        "nomád pásztorkodás (vándorló állattenyésztés)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--a-foldresz-reszei--kozel-kelet": {
+      "fekves": "A Földközi-tenger keleti partvidékétől a Perzsa-öbölig, kb. 16–42° é. sz. és 25–56° k. h. között terjedő térség, Ázsia, Afrika és Európa találkozásánál.",
+      "facts": [
+        "Itt vannak a zsidó, a keresztény és az iszlám vallás szent helyei (pl. Jeruzsálem, Mekka).",
+        "Mezopotámia az ókori öntözéses földművelés és a korai városi kultúrák bölcsője.",
+        "Kőolajkincse és vallási-etnikai ellentétei miatt a világ egyik legfeszültebb térsége."
+      ],
+      "concepts": [
+        "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--arab-felsziget": {
+      "fekves": "Délnyugat-Ázsiában, kb. 13–31° é. sz. és 35–60° k. h. között, a Vörös-tenger, az Arab-tenger és a Perzsa-öböl között fekvő félsziget.",
+      "facts": [
+        "Az Arab-lemez része; nyugaton a Vörös-tenger hasadékvölgye választja el Afrikától.",
+        "Térítői sivatagos éghajlat: a térítői magas nyomás miatt alig hullik csapadék.",
+        "Állandó folyója nincs, csak időszakos vízfolyások (vádik) és oázisok.",
+        "Keleti peremén, a Perzsa-öböl mentén óriási kőolajkészletek vannak."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "hasadékvölgy",
+        "időszakos vízfolyás",
+        "oázis"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--csomolungma-mt-everest": {
+      "fekves": "A Himalája főgerincén, Nepál és Kína (Tibet) határán, kb. 28° é. sz. és 87° k. h.-on emelkedik.",
+      "facts": [
+        "A Föld legmagasabb hegycsúcsa (8848 m).",
+        "Az Indiai- és az Eurázsiai-lemez ütközésével felgyűrődött fiatal gyűrthegységben fekszik.",
+        "Csúcsközelben tengeri eredetű üledékes kőzetek (mészkő) is előfordulnak.",
+        "Az örök hó és jég övezetében emelkedik – a függőleges övezetesség legfelső szintje."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "függőleges földrajzi övezetesség"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--dekkan-fennsik": {
+      "fekves": "A Hindusztáni-félsziget belsejében, kb. 12–20° é. sz. és 74–81° k. h. között, a Nyugati- és a Keleti-Ghatok között fekvő fennsík.",
+      "facts": [
+        "Ősföld (az egykori Gondwana része), ősi kristályos kőzetekből álló tábla.",
+        "Északnyugati részét kiterjedt bazaltfennsík fedi, ennek termékeny fekete talaja kedvez a gyapotnak.",
+        "A Nyugati-Ghatok szélárnyékában fekszik, ezért szárazabb, mint a nyugati partvidék."
+      ],
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "bazaltfennsík",
+        "Gondwana"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--del-kinai-hegyvidek": {
+      "fekves": "Kína délkeleti részén, kb. 22–30° é. sz. és 108–121° k. h. között, a Jangcétól délre, a Dél-kínai-tenger partjáig húzódó hegyvidék.",
+      "facts": [
+        "Lepusztult, alacsony és középmagas rögös szerkezetű hegyvidék.",
+        "Meleg, csapadékos monszunéghajlat: a nyári monszun hozza az esőt.",
+        "Lejtőin teraszos rizs- és teatermesztés folyik.",
+        "Délnyugati peremén (Kuanghszi) látványos trópusi karsztformák (toronykarszt) alakultak ki."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat",
+        "monszungazdálkodás",
+        "rögös szerkezetű hegység"
+      ],
+      "processes": [
+        "monszun",
+        "karsztosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--fuji-fudzsi": {
+      "fekves": "Japánban, Honsú szigetén, Tokiótól délnyugatra, kb. 35° é. sz. és 139° k. h.-on emelkedik.",
+      "facts": [
+        "Japán legmagasabb hegye (3776 m), szabályos kúp alakú rétegvulkán.",
+        "Az óceáni lemezek alábukásához kapcsolódó japán vulkáni szigetív része.",
+        "Utoljára 1707-ben tört ki; Japán nemzeti jelképe, világörökségi helyszín."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "alábukás",
+        "vulkáni szigetív"
+      ],
+      "processes": [
+        "vulkani-mukodes",
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--fulop-szigetek": {
+      "fekves": "Délkelet-Ázsiában, kb. 5–21° é. sz. és 117–127° k. h. között, a Csendes-óceán és a Dél-kínai-tenger között fekvő szigetcsoport.",
+      "facts": [
+        "Több ezer szigetből álló vulkáni szigetív; legnagyobb szigetei Luzon és Mindanao.",
+        "Keleti partja mentén húzódik a Fülöp-árok, ahol óceáni lemez bukik alá.",
+        "Forró övezeti monszun- és egyenlítői éghajlat; gyakoriak a tájfunok."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "mélytengeri árok",
+        "trópusi ciklon (hurrikán, tájfun)"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--gobi": {
+      "fekves": "Belső-Ázsiában, Mongólia déli és Kína északi részén, kb. 38–48° é. sz. és 95–118° k. h. között fekvő sivatag.",
+      "facts": [
+        "Mérsékelt övezeti sivatag: nyara forró, tele igen hideg, nagy az évi hőingás.",
+        "Szárazságát az óceánoktól való távolság és a hegységek elzáró hatása okozza.",
+        "Nagyrészt kő- és kavicssivatag, jelentős a szél felszínformáló munkája.",
+        "Peremén nomád pásztorkodás folyik."
+      ],
+      "concepts": [
+        "mérsékelt övezeti sivatagi éghajlat",
+        "nomád pásztorkodás (vándorló állattenyésztés)"
+      ],
+      "processes": [
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--himalaja": {
+      "fekves": "Dél- és Belső-Ázsia határán, kb. 27–34° é. sz. és 75–96° k. h. között, a Hindusztáni-alföld és a Tibeti-fennsík között ívben húzódó hegység.",
+      "facts": [
+        "A Föld legmagasabb hegysége, legmagasabb csúcsa a Csomolungma.",
+        "Fiatal gyűrthegység: az Indiai- és az Eurázsiai-lemez ütközésével jött létre, ma is emelkedik.",
+        "Éghajlatválasztó: feltartja a nyári monszunt, déli lejtőin rendkívül sok csapadék hullik.",
+        "Gleccserei és hava táplálják az Induszt, a Gangeszt és a Brahmaputrát."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "éghajlatválasztó hegység",
+        "a hegységképződés típusai (két kontinentális, két óceáni, illetve egy óceáni és egy kontinentális lemezszegély közeledése)"
+      ],
+      "processes": [
+        "hegysegkepzodes",
+        "lemezmozgasok",
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--hindusztani-alfold": {
+      "fekves": "Dél-Ázsiában, kb. 22–31° é. sz. és 77–91° k. h. között, a Himalája és a Dekkán-fennsík között, a Gangesz és a Brahmaputra mentén elterülő síkság.",
+      "facts": [
+        "A Himalája előterében kialakult süllyedékterület, amelyet a folyók hordaléka töltött fel.",
+        "Forró övezeti monszunterület: a nyári monszun esői gyakori árvizeket okoznak.",
+        "A Föld egyik legsűrűbben lakott vidéke; rizs-, búza- és jutatermesztés."
+      ],
+      "concepts": [
+        "süllyedékterület",
+        "feltöltött és lepusztult (letarolt) síkság",
+        "monszungazdálkodás"
+      ],
+      "processes": [
+        "monszun",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--hindusztani-felsziget": {
+      "fekves": "Dél-Ázsiában, kb. 8–35° é. sz. és 67–92° k. h. között, a Himalájától délre, az Arab-tenger és a Bengáli-öböl között.",
+      "facts": [
+        "Fő része a Dekkán-fennsík, az egykori Gondwana ősföldjének darabja.",
+        "Az északra vándorló Indiai-lemez Ázsiával ütközött, így gyűrődött fel a Himalája.",
+        "Forró övezeti monszunterület; legnagyobb országa India."
+      ],
+      "concepts": [
+        "Gondwana",
+        "ősföld (ősmasszívum)",
+        "forró övezeti (trópusi) monszunéghajlat"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--indokinai-felsziget": {
+      "fekves": "Délkelet-Ázsiában, kb. 9–27° é. sz. és 93–109° k. h. között, India és Kína között, a Bengáli-öböl és a Dél-kínai-tenger között.",
+      "facts": [
+        "Észak–déli irányú hegyláncok és közöttük nagy folyók (pl. Mekong) völgyei tagolják.",
+        "Forró övezeti monszunéghajlat; a folyódeltákon intenzív rizstermesztés.",
+        "Országai: Mianmar, Thaiföld, Laosz, Kambodzsa, Vietnám (és Malajzia félszigeti része)."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) monszunéghajlat",
+        "deltatorkolat",
+        "monszungazdálkodás"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--indonez-szigetvilag": {
+      "fekves": "Délkelet-Ázsia és Ausztrália között, az Egyenlítő két oldalán (kb. 11° d. sz. – 21° é. sz., 95–129° k. h.) fekvő szigetvilág.",
+      "facts": [
+        "Nagy szigetei: Szumátra, Jáva, Borneó (Kalimantan), Celebesz.",
+        "Kőzetlemezek ütközési zónájában fekszik: vulkáni szigetív, mélytengeri árok, gyakori földrengés és cunami.",
+        "Egyenlítői éghajlat; esőerdőit az ültetvények (olajpálma) miatti erdőirtás fenyegeti."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "egyenlítői éghajlat",
+        "erdőirtás"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--japan-szigetek": {
+      "fekves": "Kelet-Ázsiában, a Csendes-óceán nyugati peremén, kb. 30–46° é. sz. és 128–146° k. h. között ívben húzódó szigetsor; a Japán-tenger választja el a kontinenstől.",
+      "facts": [
+        "Négy fő szigete: Hokkaidó, Honsú, Sikoku és Kjúsú.",
+        "Több kőzetlemez találkozásánál fekvő vulkáni szigetív, keletén mélytengeri árkokkal.",
+        "Gyakoriak a földrengések és a cunamik; sok működő vulkán.",
+        "Mérsékelt övezeti monszunéghajlat, északon hidegebb, délen melegebb."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "mélytengeri árok",
+        "cunami",
+        "mérsékelt övezeti monszunéghajlat"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--java": {
+      "fekves": "Indonéziában, az Egyenlítőtől délre (kb. 6–9° d. sz., 105–115° k. h.), Szumátra és Bali között fekvő sziget.",
+      "facts": [
+        "A Föld legnépesebb szigete, itt fekszik Jakarta.",
+        "A Szunda-árok menti alábukás fölött kialakult vulkáni szigetív része, sok működő vulkánnal.",
+        "Termékeny vulkáni talaj: teraszos rizstermesztés, ültetvények."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "alábukás",
+        "népsűrűség"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "vulkani-mukodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--kamcsatka-felsziget": {
+      "fekves": "Oroszország távol-keleti részén, kb. 51–63° é. sz. és 156–166° k. h. között, az Ohotszki-tenger és a Csendes-óceán között fekvő félsziget.",
+      "facts": [
+        "A Csendes-óceáni-lemez alábukása mentén kialakult vulkánvidék, sok működő rétegvulkánnal.",
+        "A vulkáni utóműködés jellegzetes területe: gejzírek, hőforrások (Gejzírek völgye).",
+        "Hideg, csapadékos éghajlat; jelentős halászat."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "alábukás",
+        "vulkáni utóműködés",
+        "gejzír"
+      ],
+      "processes": [
+        "vulkani-mukodes",
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--kaszpi-melyfold": {
+      "fekves": "A Kaszpi-tenger északi partvidékén, kb. 44–49° é. sz. és 44–56° k. h. között, Oroszország és Kazahsztán területén.",
+      "facts": [
+        "Részben tengerszint alatti mélyföld, a Kaszpi-tenger egykori nagyobb kiterjedésének medrében.",
+        "Szélsőségesen szárazföldi, félsivatagos éghajlat; sós, szikes talajok.",
+        "Itt torkollik a Volga és az Urál folyó; kőolaj- és földgázlelőhelyek."
+      ],
+      "concepts": [
+        "mélyföld",
+        "szikes talajok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--kaukazus": {
+      "fekves": "A Fekete- és a Kaszpi-tenger között, kb. 40–45° é. sz. és 37–50° k. h. között húzódó hegység (Oroszország, Grúzia, Azerbajdzsán, Örményország).",
+      "facts": [
+        "Fiatal gyűrthegység, az eurázsiai (alpi) hegységrendszer része.",
+        "Legmagasabb csúcsa a kialudt vulkán Elbrusz (5642 m).",
+        "Éghajlatválasztó: északról a hideg, délről a meleg légtömegek útját állja.",
+        "Gerincét gyakran Európa és Ázsia határának tekintik."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "éghajlatválasztó hegység",
+        "hegységrendszer"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--kinai-alfold": {
+      "fekves": "Kelet-Kínában, kb. 30–40° é. sz. és 113–122° k. h. között, a Sárga-folyó és a Jangce alsó szakasza mentén, a Sárga-tenger partján.",
+      "facts": [
+        "A Sárga-folyó és a Jangce hordalékából épült feltöltött síkság, löszös talajokkal.",
+        "Mérsékelt övezeti monszunéghajlat; a nyári esők gyakori árvizeket okoznak.",
+        "Kína legsűrűbben lakott, legfontosabb mezőgazdasági vidéke (búza, rizs, gyapot)."
+      ],
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság",
+        "lösz",
+        "mérsékelt övezeti monszunéghajlat"
+      ],
+      "processes": [
+        "arviz",
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--kis-azsia": {
+      "fekves": "Ázsia legnyugatibb félszigete (kb. 36–42° é. sz., 26–45° k. h.) a Fekete-, az Égei- és a Földközi-tenger között; nagyobbrészt Törökország területe.",
+      "facts": [
+        "Belsejében magasföld, északon és délen fiatal gyűrthegységek (Pontuszi-hegység, Taurusz) határolják.",
+        "Kőzetlemezek határán fekszik: gyakoriak a pusztító földrengések.",
+        "Partvidékein mediterrán, belsejében szárazabb, szélsőségesebb éghajlat."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "földrengés",
+        "mediterrán éghajlat"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--koreai-felsziget": {
+      "fekves": "Kelet-Ázsiában, kb. 34–43° é. sz. és 124–130° k. h. között, a Sárga-tenger és a Japán-tenger között, Kínától délkeletre.",
+      "facts": [
+        "Hegyekkel tagolt félsziget; a keleti part meredekebb, a nyugati tagolt, sekély tengerű.",
+        "Mérsékelt övezeti monszunéghajlat: hideg, száraz tél, csapadékos nyár.",
+        "A 38. szélességi kör közelében húzódó demarkációs vonal osztja Észak- és Dél-Koreára."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--kozep-sziberiai-fennsik": {
+      "fekves": "Észak-Ázsiában, a Jenyiszej és a Léna között, kb. 58–71° é. sz. és 88–130° k. h. között fekvő fennsík.",
+      "facts": [
+        "Ősföldi alapú táblás vidék (Szibériai-tábla), részben bazalttakaróval.",
+        "Szélsőségesen szárazföldi éghajlat, nagy évi hőingás, állandóan fagyott altalaj.",
+        "Tajga borítja; jelentős kőszén-, érc- és gyémántlelőhelyek."
+      ],
+      "concepts": [
+        "táblás vidék",
+        "ősföld (ősmasszívum)",
+        "tajga"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--mezopotamia": {
+      "fekves": "Délnyugat-Ázsiában, főként Irak területén, kb. 31–37° é. sz. és 38–47° k. h. között, a Tigris és az Eufrátesz között és mentén.",
+      "facts": [
+        "Neve „folyók közötti föld”; a két folyó hordalékából feltöltött síkság.",
+        "Az ókori öntözéses földművelés és a korai városi kultúrák egyik bölcsője.",
+        "Forró, száraz éghajlat: a mezőgazdaság öntözésre épül, ami szikesedést okoz."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "öntözővíz",
+        "szikesedés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--nyugat-sziberiai-alfold": {
+      "fekves": "Az Uráltól keletre a Jenyiszejig, kb. 55–70° é. sz. és 65–94° k. h. között, a Jeges-tenger partjáig terjedő síkság.",
+      "facts": [
+        "Fiatal üledékekkel feltöltött, igen lapos síkság, az Ob és az Irtis vízgyűjtője.",
+        "A csekély esés és a fagyott altalaj miatt kiterjedt mocsarak borítják.",
+        "Oroszország legfontosabb kőolaj- és földgáztermelő vidéke.",
+        "Északon tundra, délebbre tajga."
+      ],
+      "concepts": [
+        "alföld",
+        "mocsár",
+        "tajga",
+        "földgáz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--pamir": {
+      "fekves": "Közép-Ázsiában, főként Tádzsikisztán területén, kb. 37–40° é. sz. és 71–77° k. h. között, ahol Ázsia nagy hegységei (Hindukus, Karakorum, Kunlun, Tien-san) összefutnak.",
+      "facts": [
+        "Magas hegységcsomópont, „a világ teteje”; csúcsai 7000 m fölé emelkednek.",
+        "Az Indiai-lemez nyomása alatt álló fiatal gyűrthegység, gyakoriak a földrengések.",
+        "Hideg, száraz magashegységi éghajlat, kiterjedt gleccserek."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "hegységrendszer"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--sziberia": {
+      "fekves": "Észak-Ázsiában, az Uráltól a csendes-óceáni hegyvidékekig, kb. 50–74° é. sz. között, a Jeges-tenger és Közép-Ázsia, Mongólia között.",
+      "facts": [
+        "Oroszország ázsiai része: Nyugat-szibériai-alföld, Közép-szibériai-fennsík, keleti hegyvidékek.",
+        "Szélsőségesen szárazföldi éghajlat; itt van az északi félgömb hidegpólusa (Ojmjakon, Verhojanszk).",
+        "Tundra és tajga, nagy kiterjedésű állandóan fagyott talaj.",
+        "Kőolaj, földgáz, kőszén, érc; népessége a Transzszibériai vasút mentén él."
+      ],
+      "concepts": [
+        "tajga",
+        "tundra",
+        "szélsőségesen szárazföldi terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--tajvan": {
+      "fekves": "Kelet-Ázsiában, Kína délkeleti partjai előtt, a Tajvani-szoros túloldalán, kb. 22–25° é. sz. és 120–122° k. h. között; a Ráktérítő átszeli.",
+      "facts": [
+        "Kőzetlemezek ütközésénél emelkedett ki, gyakoriak a földrengések.",
+        "Meleg, csapadékos monszunéghajlat; nyáron és ősszel tájfunok érik.",
+        "Újonnan iparosodott ország („kistigris”), fejlett elektronikai és félvezetőipar."
+      ],
+      "concepts": [
+        "újonnan iparosodott országok",
+        "trópusi ciklon (hurrikán, tájfun)"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--takla-makan": {
+      "fekves": "Kína nyugati részén, a Tarim-medencében, kb. 37–41° é. sz. és 78–88° k. h. között, a Tien-san és a Kunlun között fekvő sivatag.",
+      "facts": [
+        "Mérsékelt övezeti homoksivatag: a körülötte emelkedő hegyek elzárják a nedves légtömegektől.",
+        "Belső lefolyású medence; a Tarim folyó a sivatagban elvész.",
+        "Peremén a hegyekből érkező folyók mentén oázisok, a selyemút egykori állomásai."
+      ],
+      "concepts": [
+        "mérsékelt övezeti sivatagi éghajlat",
+        "oázis",
+        "homokbucka (dűne)",
+        "lefolyásos és belső lefolyású terület"
+      ],
+      "processes": [
+        "szel-munkaja"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--tibet": {
+      "fekves": "Belső-Ázsiában, Kína délnyugati részén, kb. 27–40° é. sz. és 73–104° k. h. között, a Himalája és a Kunlun között fekvő magasföld.",
+      "facts": [
+        "A Föld legmagasabb és legnagyobb kiterjedésű fennsíkja, átlagos magassága 4000 m feletti.",
+        "Az Indiai-lemez ütközése emelte ki.",
+        "Hideg, száraz magashegységi éghajlat, a Himalája szélárnyékában.",
+        "Itt ered Ázsia több nagy folyója: Jangce, Sárga-folyó, Mekong, Indus, Brahmaputra."
+      ],
+      "concepts": [
+        "fennsík",
+        "függőleges földrajzi övezetesség"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--irani-felfold": {
+      "fekves": "Délnyugat-Ázsiában, kb. 26–38° é. sz. és 46–71° k. h. között, a Kaszpi-tenger és a Perzsa-öböl között (főként Irán és Afganisztán).",
+      "facts": [
+        "Fiatal gyűrthegységek (Elburz, Zagrosz) által közrezárt magasföld, belső medencékkel.",
+        "Száraz éghajlat; belsejében sivatagok és sós medencék.",
+        "A Zagrosz előterében, a Perzsa-öböl felé gazdag kőolajmezők.",
+        "Gyakoriak a földrengések."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "medence",
+        "kőolaj"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--krakatau": {
+      "fekves": "Indonéziában, a Szunda-szorosban, Jáva és Szumátra között, kb. 6° d. sz. és 105° k. h.-on fekvő vulkáni sziget.",
+      "facts": [
+        "Rétegvulkán az Indiai-óceáni (Indo-ausztráliai) lemez alábukási zónája fölött.",
+        "1883-as robbanásos kitörése kalderát hozott létre és pusztító cunamit keltett.",
+        "A légkörbe jutott vulkáni hamu évekig hűtötte a Föld éghajlatát."
+      ],
+      "concepts": [
+        "rétegvulkán",
+        "kaldera",
+        "cunami"
+      ],
+      "processes": [
+        "vulkani-mukodes",
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--tien-san": {
+      "fekves": "Közép- és Belső-Ázsia határán, kb. 40–44° é. sz. és 73–95° k. h. között, Kirgizisztán, Kazahsztán és Kína területén húzódó hegység.",
+      "facts": [
+        "Kelet–nyugati irányú magas lánchegység, csúcsai 7000 m fölé emelkednek.",
+        "A Turáni-alföldet és a Tarim-medencét választja el egymástól.",
+        "Gleccserei és hóolvadása táplálják a környező sivatagok oázisait."
+      ],
+      "concepts": [
+        "lánchegység",
+        "oázis"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--tajak--turani-alfold": {
+      "fekves": "Közép-Ázsiában, kb. 36–48° é. sz. és 56–69° k. h. között, a Kaszpi-tengertől keletre, az Aral-tó körül.",
+      "facts": [
+        "Sivatagos alföld: itt terül el a Karakum és a Kizilkum sivatag.",
+        "Folyói (Amu-darja, Szir-darja) jövevényfolyók, a magashegységekből kapják vizüket.",
+        "Öntözéses gyapottermesztés; a túlzott vízkivétel az Aral-tó kiszáradásához vezetett."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "mérsékelt övezeti sivatagi éghajlat",
+        "öntözővíz"
+      ],
+      "processes": [
+        "talajpusztulas-sivatagosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--aral-to": {
+      "fekves": "Közép-Ázsiában, Kazahsztán és Üzbegisztán határán, a Turáni-alföldön, kb. 44–47° é. sz. és 58–62° k. h. között.",
+      "facts": [
+        "Belső lefolyású sós tó, egykor a Föld egyik legnagyobb tava volt.",
+        "Az Amu-darja és a Szir-darja vizét öntözésre (gyapot) vezették el, ezért zsugorodott.",
+        "A kiszáradt mederből sós por száll, a halászat összeomlott: környezeti katasztrófa."
+      ],
+      "concepts": [
+        "kiszáradás",
+        "környezeti katasztrófa",
+        "lefolyásos és belső lefolyású terület"
+      ],
+      "processes": [
+        "talajpusztulas-sivatagosodas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--bajkal-to": {
+      "fekves": "Kelet-Szibériában, Oroszországban, kb. 52–56° é. sz. és 104–110° k. h. között, a mongol határtól északra.",
+      "facts": [
+        "A Föld legmélyebb tava (mélysége meghaladja az 1600 m-t).",
+        "Tektonikus árokban (hasadékvölgyben) kialakult tó.",
+        "A Föld legnagyobb édesvízkészletű tava; kifolyása az Angara.",
+        "Világörökségi helyszín, sok csak itt élő fajjal."
+      ],
+      "concepts": [
+        "tektonikus eredetű tó",
+        "hasadékvölgy",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--bering-szoros": {
+      "fekves": "Ázsia (Csukcs-félsziget) és Észak-Amerika (Alaszka) között, kb. 66° é. sz. és 169° ny. h.-on; a Jeges-tengert köti össze a Csendes-óceán Bering-tengerével.",
+      "facts": [
+        "Elválasztja Ázsiát és Észak-Amerikát, egyben Oroszországot és az USA-t.",
+        "Közelében halad a dátumválasztó vonal.",
+        "A jégkorszakban szárazföldi híd kötötte össze a két kontinenst, ezen át népesült be Amerika."
+      ],
+      "concepts": [
+        "tengerszoros",
+        "dátumválasztó vonal"
+      ],
+      "processes": [
+        "helyi-ido-zonaido"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--boszporusz": {
+      "fekves": "Törökországban, kb. 41° é. sz. és 29° k. h.-on, a Fekete-tengert a Márvány-tengerrel összekötő tengerszoros; Isztambult kettészeli.",
+      "facts": [
+        "Európát és Ázsiát választja el egymástól.",
+        "A Dardanellákkal együtt a Fekete-tenger egyetlen kapuja a Földközi-tenger felé.",
+        "Forgalmas hajózási útvonal; hidak és alagút kötik össze partjait."
+      ],
+      "concepts": [
+        "tengerszoros"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--eufratesz": {
+      "fekves": "Délnyugat-Ázsiában, kb. 31–40° é. sz. között folyik: Törökország keleti hegyvidékén ered, Szírián és Irakon át a Perzsa-öböl felé tart.",
+      "facts": [
+        "Délnyugat-Ázsia leghosszabb folyója; a Tigrissel egyesülve Satt el-Arab néven torkollik.",
+        "Jövevényfolyó: száraz területen folyik át, vizét a hegyvidékről kapja.",
+        "Vizéért versengenek a szomszéd országok; Törökországban nagy gátak épültek rajta."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--gangesz": {
+      "fekves": "Észak-Indiában, kb. 22–31° é. sz. és 78–90° k. h. között folyik: a Himalájában ered, a Hindusztáni-alföldön át a Bengáli-öbölbe ömlik.",
+      "facts": [
+        "A Brahmaputrával közösen a Föld egyik legnagyobb deltáját építi (Banglades).",
+        "Vízjárását a nyári monszun és a hóolvadás határozza meg, nyáron gyakoriak az árvizek.",
+        "A hinduk szent folyója; partján fekszik Váránaszi."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "vízjárás",
+        "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+      ],
+      "processes": [
+        "monszun",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--holt-tenger": {
+      "fekves": "Délnyugat-Ázsiában, Izrael, Ciszjordánia és Jordánia határán, kb. 31,5° é. sz. és 35,5° k. h.-on, a Jordán folyó torkolatánál.",
+      "facts": [
+        "Partja a szárazföld legmélyebb pontja, tükre több mint 400 m-rel a tengerszint alatt van.",
+        "Tektonikus árokban (a Jordán-árok része) fekvő belső lefolyású sós tó.",
+        "Sótartalma a világtenger átlagának többszöröse; a vízkivétel miatt szintje csökken."
+      ],
+      "concepts": [
+        "tektonikus eredetű tó",
+        "árok",
+        "lefolyásos és belső lefolyású terület"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--indus": {
+      "fekves": "Kb. 24–36° é. sz. között folyik: Tibetben ered, a Himaláján átvágva Pakisztánon keresztül az Arab-tengerbe ömlik.",
+      "facts": [
+        "Pakisztán fő folyója; alsó szakasza sivatagos területen folyik át (jövevényfolyó).",
+        "Vize az öntözéses mezőgazdaság alapja (búza, gyapot, rizs).",
+        "Völgyében alakult ki az ókori Indus-völgyi kultúra."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--jangce": {
+      "fekves": "Kína középső részén, kb. 26–32° é. sz. között folyik nyugat–kelet irányban: a Tibeti-fennsíkon ered, és Sanghajnál ömlik a Kelet-kínai-tengerbe.",
+      "facts": [
+        "Ázsia leghosszabb folyója.",
+        "A nyári monszun esőitől bővizű, gyakoriak a pusztító árvizek.",
+        "Rajta épült a Három-szurdok-gát.",
+        "Fontos belvízi hajóút; partján fekszik Vuhan és Sanghaj."
+      ],
+      "concepts": [
+        "árvíz",
+        "belvízi és tengerhajózás"
+      ],
+      "processes": [
+        "arviz",
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--japan-keleti-tenger": {
+      "fekves": "Kelet-Ázsiában, kb. 34–52° é. sz. és 128–142° k. h. között, a Japán-szigetek, a Koreai-félsziget és Oroszország (Szahalin) között.",
+      "facts": [
+        "A Csendes-óceán peremtengere, a japán szigetív mögötti medencében.",
+        "Szorosokon át kapcsolódik a Csendes-óceánhoz és a szomszédos tengerekhez.",
+        "Partján fekszik Vlagyivosztok kikötője."
+      ],
+      "concepts": [
+        "peremtenger"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--jenyiszej": {
+      "fekves": "Szibériában, kb. 58–70° é. sz. között dél–északi irányban folyik, a Nyugat-szibériai-alföld és a Közép-szibériai-fennsík határán, a Kara-tengerbe ömlik.",
+      "facts": [
+        "Oroszország egyik legbővizűbb folyója, a Jeges-tenger vízgyűjtőjéhez tartozik.",
+        "Jelentős mellékfolyója az Angara, amely a Bajkál-tóból folyik ki.",
+        "Tavasszal jégtorlaszos árvizek: felső szakasza hamarabb enged fel, mint a torkolata.",
+        "Nagy vízerőművek épültek rajta (pl. Krasznojarszknál)."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó",
+        "árvíz"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--kaszpi-tenger": {
+      "fekves": "Európa és Ázsia határán, kb. 37–47° é. sz. és 47–54° k. h. között, a Kaukázustól keletre fekvő belső lefolyású tó.",
+      "facts": [
+        "A Föld legnagyobb területű tava; tükre a tengerszint alatt van.",
+        "Maradványtó: az egykori Tethys-óceán maradványa, vize enyhén sós.",
+        "Fő táplálója a Volga; partvidékén és medrében kőolaj- és földgázmezők."
+      ],
+      "concepts": [
+        "maradványtó",
+        "Tethys",
+        "kőolaj"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--lena": {
+      "fekves": "Kelet-Szibériában, kb. 54–72° é. sz. és 105–130° k. h. között folyik: a Bajkál-tó közelében ered, és a Laptyev-tengerbe ömlik.",
+      "facts": [
+        "Állandóan fagyott talajú vidéken folyik, évente hosszú hónapokra befagy.",
+        "Tavasszal jégtorlaszos árvizek jellemzik.",
+        "Torkolatánál kiterjedt delta alakult ki."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "árvíz"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--ob": {
+      "fekves": "Nyugat-Szibériában, kb. 52–67° é. sz. között folyik: az Altajban ered, és a Kara-tenger Obi-öblébe ömlik.",
+      "facts": [
+        "Fő mellékfolyója az Irtis; az Ob–Irtis Ázsia egyik leghosszabb folyórendszere.",
+        "Tavasszal jégtorlaszos árvizek, mert a déli felső szakasz előbb enged fel.",
+        "Vízgyűjtőjén vannak Nyugat-Szibéria nagy kőolaj- és földgázmezői; partján Novoszibirszk."
+      ],
+      "concepts": [
+        "fő- és mellékfolyó",
+        "tölcsértorkolat",
+        "árvíz"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--perzsa-arab-obol": {
+      "fekves": "Az Arab-félsziget és az Iráni-felföld között, kb. 24–30° é. sz. és 48–57° k. h. között; a Hormuzi-szoros köti össze az Ománi-öböllel.",
+      "facts": [
+        "Sekély, erős párolgás miatt igen sós vizű öböl.",
+        "Partvidékén és talapzatán vannak a Föld legnagyobb kőolaj- és földgázkészletei.",
+        "A Hormuzi-szoros a világ kőolajszállításának kulcsfontosságú útvonala."
+      ],
+      "concepts": [
+        "öböl",
+        "kőolaj",
+        "Kőolaj-exportáló Országok Szervezete (OPEC)"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--sarga-folyo": {
+      "fekves": "Észak-Kínában, kb. 33–41° é. sz. között folyik: a Tibeti-fennsíkon ered, nagy kanyarulattal a Löszfennsíkon át a Kínai-alföldre, majd a Sárga-tengerbe (Bohai-öböl) ömlik.",
+      "facts": [
+        "Nevét a Löszfennsíkról szállított rengeteg sárga lösz-hordalékról kapta.",
+        "Hordaléka miatt alsó szakaszán medre a környezete fölé emelkedett, gátak közé szorították.",
+        "Pusztító árvizei és mederváltozásai miatt „Kína bánatának” nevezik."
+      ],
+      "concepts": [
+        "lösz",
+        "hordalék",
+        "árvízvédelmi gát"
+      ],
+      "processes": [
+        "folyo-munkaja",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--tigris": {
+      "fekves": "Délnyugat-Ázsiában, kb. 31–37° é. sz. között folyik: Törökország keleti hegyvidékén ered, Irakon át folyik, és az Eufrátesszel egyesül.",
+      "facts": [
+        "Az Eufrátesszel együtt közrefogja Mezopotámiát.",
+        "Jövevényfolyó; vize az öntözéses mezőgazdaság alapja.",
+        "Partján fekszik Bagdad."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "öntözővíz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--harom-szurdok-gat": {
+      "fekves": "Kínában, a Jangce középső szakaszán, kb. 31° é. sz. és 111° k. h.-on, Vuhantól nyugatra.",
+      "facts": [
+        "A Föld legnagyobb beépített teljesítményű vízerőműve.",
+        "Célja az árvízvédelem, a villamosenergia-termelés és a hajózás javítása.",
+        "Víztározója miatt sok embert kitelepítettek, és jelentős környezeti változásokat okozott."
+      ],
+      "concepts": [
+        "mesterséges tó",
+        "megújuló és nem megújuló energiaforrások",
+        "ki- és betelepítés"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--bengali-obol": {
+      "fekves": "Az Indiai-óceán északkeleti öble, kb. 6–24° é. sz. és 80–95° k. h. között, India, Srí Lanka, Banglades és Mianmar partjai között.",
+      "facts": [
+        "Ide ömlik a Gangesz és a Brahmaputra, közös deltájuk partján.",
+        "A nyári monszun nedves légtömegei innen érkeznek a szárazföld fölé.",
+        "Gyakoriak a trópusi ciklonok, amelyek vihardagállyal pusztítják az alacsony deltavidéket."
+      ],
+      "concepts": [
+        "öböl",
+        "trópusi ciklon (hurrikán, tájfun)",
+        "vihardagály"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--brahmaputra": {
+      "fekves": "Dél-Ázsiában, kb. 24–29° é. sz. között: Tibetben ered, a Himalája keleti végén áttörve India északkeleti részén (Asszám) és Bangladesen át folyik.",
+      "facts": [
+        "A Gangesszel közös deltában ömlik a Bengáli-öbölbe.",
+        "Vízgyűjtője a nyári monszun egyik legcsapadékosabb területe, gyakoriak az árvizek.",
+        "Asszámi völgye a teatermesztés fontos területe."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "árvíz"
+      ],
+      "processes": [
+        "monszun",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--dardanellak": {
+      "fekves": "Törökországban, kb. 40° é. sz. és 26,5° k. h.-on, a Márvány-tengert az Égei-tengerrel összekötő tengerszoros.",
+      "facts": [
+        "Európa (Gallipoli-félsziget) és Ázsia (Kis-Ázsia) határa.",
+        "A Boszporusszal együtt a Fekete-tenger kijárata a Földközi-tenger felé.",
+        "Stratégiai jelentőségű hajózási útvonal."
+      ],
+      "concepts": [
+        "tengerszoros"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--vizrajz--mekong": {
+      "fekves": "Délkelet-Ázsiában, kb. 10–32° é. sz. között: Tibetben ered, Kínán, Laoszon, a thai–laoszi határon, Kambodzsán és Vietnámon át a Dél-kínai-tengerbe ömlik.",
+      "facts": [
+        "Délkelet-Ázsia leghosszabb folyója, több országon folyik át.",
+        "Vízjárását a nyári monszun határozza meg, nyáron árad.",
+        "Deltája Vietnám legfontosabb rizstermelő vidéke."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "monszungazdálkodás"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--egyesult-arab-emirsegek": {
+      "fekves": "Az Arab-félsziget keleti részén, a Perzsa-öböl partján, kb. 23–26° é. sz. és 52–56° k. h. között; szomszédai Szaúd-Arábia és Omán.",
+      "facts": [
+        "Hét emírség szövetsége, fővárosa Abu-Dzabi.",
+        "Gazdasága a kőolaj- és földgázexportra épül, az OPEC tagja.",
+        "Térítői sivatagos éghajlat; ivóvizét nagyrészt tengervíz-sótalanítással nyeri.",
+        "Gazdaságát a szolgáltatások (pénzügy, turizmus, légi közlekedés) felé alakítja át."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "gazdasági szerkezetváltás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--del-korea-koreai-koztarsasag": {
+      "fekves": "A Koreai-félsziget déli részén, kb. 33–39° é. sz. és 125–132° k. h. között, a Sárga- és a Japán-tenger között; északon Észak-Korea határolja.",
+      "facts": [
+        "Újonnan iparosodott ország (ázsiai „kistigris”), ma fejlett gazdaság.",
+        "Exportorientált ipar: elektronika, autógyártás, hajóépítés, nagy konszernekkel.",
+        "Mérsékelt övezeti monszunéghajlat.",
+        "Igen alacsony a termékenység, a társadalom gyorsan öregszik."
+      ],
+      "concepts": [
+        "újonnan iparosodott országok",
+        "öregedő és fiatalodó társadalom",
+        "Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC)"
+      ],
+      "processes": [
+        "demografiai-atmenet"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--fulop-szigetek": {
+      "fekves": "Délkelet-Ázsiában, kb. 5–21° é. sz. és 117–127° k. h. között, több ezer szigeten elterülő szigetország a Csendes-óceán és a Dél-kínai-tenger között.",
+      "facts": [
+        "Vulkáni szigetív: gyakori földrengés, vulkánkitörés és tájfun.",
+        "Ázsia legnagyobb keresztény (katolikus) többségű országa; egykori spanyol, majd amerikai gyarmat.",
+        "Gyorsan növekvő népesség; sok állampolgára vendégmunkásként dolgozik külföldön.",
+        "Az ASEAN tagja."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "trópusi ciklon (hurrikán, tájfun)",
+        "vendégmunkás",
+        "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--india": {
+      "fekves": "Dél-Ázsiában, a Hindusztáni-félszigeten, kb. 7–35° é. sz. és 68–97° k. h. között; szomszédai Pakisztán, Kína, Nepál, Banglades; az Arab-tenger és a Bengáli-öböl határolja.",
+      "facts": [
+        "A Föld legnépesebb országa (Kínát is megelőzve); szövetségi köztársaság.",
+        "Forró övezeti monszunéghajlat: a nyári monszun esői döntik el a termés sikerét.",
+        "Lakosságának többsége hindu vallású, jelentős muszlim kisebbséggel.",
+        "Gyorsan fejlődő BRICS-ország: informatika, szoftverexport, gyógyszeripar."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) monszunéghajlat",
+        "szövetségi köztársaság",
+        "BRICS országok",
+        "népességrobbanás"
+      ],
+      "processes": [
+        "monszun",
+        "demografiai-atmenet"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--indonezia": {
+      "fekves": "Délkelet-Ázsiában, az Egyenlítő két oldalán, kb. 11° d. sz. – 6° é. sz. és 95–141° k. h. között, az Indiai- és a Csendes-óceán között fekvő szigetország.",
+      "facts": [
+        "A Föld legnagyobb szigetországa és legnépesebb muszlim többségű országa.",
+        "Lemezszegélyen fekvő vulkáni szigetív: sok működő vulkán, földrengés, cunami.",
+        "Egyenlítői éghajlat; az olajpálma-ültetvények miatt nagy mértékű esőerdő-irtás.",
+        "Az ASEAN tagja; kőolaj, földgáz és kőszén exportja."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "erdőirtás",
+        "ültetvényes gazdálkodás",
+        "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "foldrenges-cunami"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--irak": {
+      "fekves": "Délnyugat-Ázsiában, kb. 29–37° é. sz. és 39–49° k. h. között, a Tigris és az Eufrátesz mentén; szomszédai Törökország, Irán, Szíria, Jordánia, Szaúd-Arábia és Kuvait.",
+      "facts": [
+        "Fő tája Mezopotámia; a Perzsa-öbölhöz csak rövid partszakasza van.",
+        "Gazdasága a kőolajra épül, az OPEC alapító tagja.",
+        "Száraz éghajlat; a mezőgazdaság öntözésre szorul.",
+        "Arab többségű ország, északon jelentős kurd népességgel."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "jövevényfolyó",
+        "etnikai kisebbség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--iran": {
+      "fekves": "Délnyugat-Ázsiában, az Iráni-felföldön, kb. 25–40° é. sz. és 44–63° k. h. között, a Kaszpi-tenger és a Perzsa-öböl között.",
+      "facts": [
+        "Gyűrthegységekkel övezett magasföld, gyakoriak a földrengések.",
+        "Az OPEC alapító tagja; nagy kőolaj- és földgázkészletek.",
+        "Síita iszlám köztársaság; lakóinak többsége perzsa, nem arab.",
+        "Száraz éghajlat, belső sivatagok; a mezőgazdaság öntözésre szorul."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "földrengés",
+        "gyűrthegység"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--izrael": {
+      "fekves": "Délnyugat-Ázsiában, a Földközi-tenger keleti partján, kb. 29,5–33° é. sz. és 34–36° k. h. között; szomszédai Libanon, Szíria, Jordánia és Egyiptom.",
+      "facts": [
+        "1948-ban alapított zsidó állam; Jeruzsálem három világvallás szent városa.",
+        "Északon mediterrán, délen (Negev) sivatagos éghajlat.",
+        "Víztakarékos csepegtető öntözés; fejlett high-tech és tudásalapú ipar.",
+        "Keleti határán a Jordán-árok és a Holt-tenger húzódik."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "öntözővíz",
+        "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--japan": {
+      "fekves": "Kelet-Ázsiában, a Csendes-óceán nyugati részén, kb. 24–46° é. sz. és 123–154° k. h. között fekvő szigetország; a Japán-tenger választja el a kontinenstől.",
+      "facts": [
+        "Kőzetlemezek találkozásánál fekvő vulkáni szigetív: földrengés, cunami, vulkánkitörés.",
+        "Nyersanyagszegény, mégis vezető gazdaság: importált nyersanyagra épülő feldolgozóipar, high-tech.",
+        "A Triád része; népessége főként a Tokaido-megalopoliszban tömörül.",
+        "Népessége öregszik és fogy."
+      ],
+      "concepts": [
+        "vulkáni szigetív",
+        "Triád",
+        "Tokaido",
+        "népességfogyás"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "foldrenges-cunami",
+        "demografiai-atmenet"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--kina": {
+      "fekves": "Kelet-Ázsiában, kb. 18–54° é. sz. és 74–135° k. h. között, a Csendes-óceán partjától a Pamírig terjed; 14 országgal határos.",
+      "facts": [
+        "A Föld egyik legnépesebb országa; népessége a keleti alföldeken és folyóvölgyekben tömörül.",
+        "Keleten mérsékelt övezeti monszunéghajlat, nyugaton sivatagok és a tibeti magasföld.",
+        "A „világ gyára”: a globalizáció nagy nyertese, a világ legnagyobb ipari termelője és exportőre.",
+        "BRICS-ország; különleges gazdasági övezetei (pl. Sencsen) nyitották meg a külföldi tőke előtt."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat",
+        "BRICS országok",
+        "világgazdasági pólus (centrum térség)"
+      ],
+      "processes": [
+        "globalizacio",
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--malajzia": {
+      "fekves": "Délkelet-Ázsiában, az Egyenlítőtől északra, kb. 1–7° é. sz. és 100–119° k. h. között: a Maláj-félsziget déli része és Borneó északi része.",
+      "facts": [
+        "Egyenlítői éghajlat, trópusi esőerdők.",
+        "A világ egyik legnagyobb pálmaolaj-termelője; korábban kaucsuk és ón.",
+        "Újonnan iparosodott ország fejlett elektronikai iparral; fővárosa Kuala Lumpur.",
+        "Az ASEAN tagja."
+      ],
+      "concepts": [
+        "egyenlítői éghajlat",
+        "ültetvényes gazdálkodás",
+        "újonnan iparosodott országok",
+        "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--szaud-arabia": {
+      "fekves": "Az Arab-félsziget nagy részén, kb. 16–32° é. sz. és 35–56° k. h. között, a Vörös-tenger és a Perzsa-öböl között.",
+      "facts": [
+        "A Föld egyik legnagyobb kőolajtermelője és -exportőre, az OPEC vezető tagja.",
+        "Térítői sivatagos éghajlat, állandó folyó nélkül; vizét sótalanításból és mélyfúrású kutakból nyeri.",
+        "Abszolút monarchia; itt van az iszlám két legszentebb városa, Mekka és Medina.",
+        "Sok külföldi vendégmunkás dolgozik az országban."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "abszolút monarchia",
+        "vendégmunkás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--szingapur": {
+      "fekves": "Délkelet-Ázsiában, a Maláj-félsziget déli csücskénél, kb. 1° é. sz. és 104° k. h.-on fekvő sziget-városállam, a Malakka-szoros kijáratánál.",
+      "facts": [
+        "Az Egyenlítő közelében fekszik, egyenlítői éghajlatú.",
+        "A Malakka-szoros mentén a világ egyik legforgalmasabb kikötője.",
+        "Újonnan iparosodott ország („kistigris”), pénzügyi és szolgáltató központ.",
+        "Igen nagy népsűrűségű városállam, az ASEAN tagja."
+      ],
+      "concepts": [
+        "újonnan iparosodott országok",
+        "világváros (globális város)",
+        "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--thaifold": {
+      "fekves": "Az Indokínai-félszigeten, kb. 6–20° é. sz. és 97–106° k. h. között; szomszédai Mianmar, Laosz, Kambodzsa és Malajzia, délen a Thai-öböl.",
+      "facts": [
+        "Forró övezeti monszunéghajlat; a világ egyik vezető rizsexportőre.",
+        "Délkelet-Ázsia egyetlen országa, amely nem volt európai gyarmat.",
+        "Gyorsan fejlődő ipar (autó- és elektronikai összeszerelés), jelentős turizmus; ASEAN-tag.",
+        "Buddhista többségű alkotmányos monarchia."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) monszunéghajlat",
+        "monszungazdálkodás",
+        "alkotmányos monarchia",
+        "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--torokorszag": {
+      "fekves": "Nagyobbrészt Délnyugat-Ázsiában (Kis-Ázsia), kisebb részben Európában, kb. 36–42° é. sz. és 26–45° k. h. között, a Fekete- és a Földközi-tenger között.",
+      "facts": [
+        "Fiatal gyűrthegységekkel övezett magasföld; gyakoriak a pusztító földrengések.",
+        "Birtokolja a Boszporuszt és a Dardanellákat, Európa és Ázsia kapuja.",
+        "Fejlődő ipar (textil-, autóipar), jelentős tengerparti turizmus; a NATO tagja.",
+        "Muszlim többségű köztársaság, fővárosa Ankara."
+      ],
+      "concepts": [
+        "gyűrthegység",
+        "földrengés",
+        "tengerszoros",
+        "Észak-atlanti Szerződés Szervezete (NATO)"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--afganisztan": {
+      "fekves": "Belső- és Dél-Ázsia határán, kb. 29–38° é. sz. és 60–75° k. h. között fekvő tengerparttal nem rendelkező ország; szomszédai Irán, Pakisztán, a közép-ázsiai országok és Kína.",
+      "facts": [
+        "Magashegységi ország, fő hegysége a Hindukus.",
+        "Száraz, szélsőséges éghajlat; öntözéses földművelés és nomád pásztorkodás.",
+        "A Föld egyik legszegényebb országa, évtizedek óta háborúk sújtják."
+      ],
+      "concepts": [
+        "nomád pásztorkodás (vándorló állattenyésztés)",
+        "periféria térség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--banglades": {
+      "fekves": "Dél-Ázsiában, a Bengáli-öböl partján, kb. 21–27° é. sz. és 88–93° k. h. között; szinte teljesen India veszi körül, délkeleten Mianmar határolja.",
+      "facts": [
+        "A Gangesz–Brahmaputra deltáján fekszik, nagyrészt alacsony, árvízveszélyes síkság.",
+        "A trópusi ciklonok és a vihardagály gyakran pusztítanak; a tengerszint-emelkedés fenyegeti.",
+        "A Föld egyik legsűrűbben lakott országa, muszlim többségű.",
+        "Fő terménye a rizs és a juta; exportjában a ruhaipar vezet."
+      ],
+      "concepts": [
+        "deltatorkolat",
+        "vihardagály",
+        "népsűrűség",
+        "trópusi ciklon (hurrikán, tájfun)"
+      ],
+      "processes": [
+        "monszun",
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--eszak-korea-koreai-nepi-demokratikus-koztarsasag": {
+      "fekves": "A Koreai-félsziget északi részén, kb. 38–43° é. sz. és 124–131° k. h. között; Kína, Oroszország és Dél-Korea határolja.",
+      "facts": [
+        "Hegyvidékes ország mérsékelt övezeti monszunéghajlattal.",
+        "Központi irányítású, tervutasításos gazdaságú, a világtól elzárkózó állam.",
+        "Gyakori élelmiszerhiány, a lakosság egy része alultáplált."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat",
+        "tervutasításos gazdaság",
+        "központi irányítású köztársaság",
+        "alultápláltság"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--kazahsztan": {
+      "fekves": "Közép-Ázsiában, kb. 41–55° é. sz. és 47–87° k. h. között, a Kaszpi-tengertől Kínáig; északon Oroszországgal határos.",
+      "facts": [
+        "A Föld legnagyobb területű tengerparttal nem rendelkező országa.",
+        "Szélsőségesen szárazföldi éghajlat; északon sztyepp (búzatermesztés), délen sivatag.",
+        "Gazdag kőolaj-, földgáz-, kőszén- és uránkészletek.",
+        "Területén található a Bajkonuri űrrepülőtér."
+      ],
+      "concepts": [
+        "sztyepp",
+        "szélsőségesen szárazföldi terület",
+        "ásványi nyersanyag"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--kuvait": {
+      "fekves": "Az Arab-félsziget északkeleti részén, a Perzsa-öböl északi csücskénél, kb. 29° é. sz. és 48° k. h. körül, Irak és Szaúd-Arábia között.",
+      "facts": [
+        "Kis területű, de kőolajban rendkívül gazdag ország, az OPEC alapító tagja.",
+        "Térítői sivatagos éghajlat; ivóvizét tengervíz-sótalanítással nyeri.",
+        "Lakosságának jelentős része külföldi vendégmunkás."
+      ],
+      "concepts": [
+        "Kőolaj-exportáló Országok Szervezete (OPEC)",
+        "forró övezeti (trópusi) sivatagi éghajlat",
+        "vendégmunkás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--orszagok--pakisztan": {
+      "fekves": "Dél-Ázsiában, az Indus mentén, kb. 24–37° é. sz. és 61–77° k. h. között; szomszédai India, Kína, Afganisztán és Irán, délen az Arab-tenger.",
+      "facts": [
+        "Fő tája az Indus alföldje, északon a Karakorum és a Hindukus magashegységei.",
+        "Száraz éghajlat; a mezőgazdaság az Indus vizével öntöz (gyapot, búza, rizs).",
+        "Muszlim többségű, gyorsan növekvő népességű ország; jelentős textilipar."
+      ],
+      "concepts": [
+        "jövevényfolyó",
+        "öntözővíz",
+        "népességrobbanás"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--ankara": {
+      "fekves": "Törökország belsejében, az Anatóliai-magasföldön, kb. 40° é. sz. és 33° k. h.-on fekszik.",
+      "facts": [
+        "Törökország fővárosa 1923 óta, Isztambul helyett.",
+        "Közigazgatási központ, az ország második legnépesebb városa.",
+        "Száraz, szárazföldi jellegű éghajlatú magasföldön fekszik."
+      ],
+      "concepts": [
+        "központi szerepkör (központi funkció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--bagdad": {
+      "fekves": "Irak fővárosa Mezopotámia középső részén, a Tigris partján, kb. 33° é. sz. és 44° k. h.-on.",
+      "facts": [
+        "Irak fővárosa és legnagyobb városa.",
+        "A középkorban az iszlám világ egyik legnagyobb kulturális központja volt.",
+        "Forró, száraz éghajlatú, öntözéses mezőgazdasági vidék közepén fekszik."
+      ],
+      "concepts": [
+        "jövevényfolyó"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--bangkok": {
+      "fekves": "Thaiföld fővárosa a Csao Phraja (Menam) folyó alsó szakaszán, a Thai-öböl közelében, kb. 14° é. sz. és 100,5° k. h.-on.",
+      "facts": [
+        "Thaiföld fővárosa, legnagyobb városa és gazdasági központja.",
+        "Alacsony deltavidéken fekszik: süllyed és árvízveszélyes.",
+        "Forró övezeti monszunéghajlat; jelentős idegenforgalmi központ."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "forró övezeti (trópusi) monszunéghajlat"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--bengaluru-bangalore": {
+      "fekves": "Dél-Indiában, a Dekkán-fennsíkon, kb. 13° é. sz. és 77,5° k. h.-on fekszik.",
+      "facts": [
+        "India „Szilícium-völgye”: az informatika és a szoftveripar központja.",
+        "Egyetemek, kutatóintézetek és multinacionális cégek koncentrálódnak itt – technopolisz.",
+        "Magasabb fekvése miatt mérsékeltebb a hőmérséklete, mint a partvidéké."
+      ],
+      "concepts": [
+        "technopolisz"
+      ],
+      "processes": [
+        "globalizacio",
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--hongkong": {
+      "fekves": "Dél-Kínában, a Gyöngy-folyó torkolatánál, kb. 22° é. sz. és 114° k. h.-on, Sencsen szomszédságában.",
+      "facts": [
+        "Egykori brit gyarmat, 1997 óta Kína különleges közigazgatási területe.",
+        "Világváros: nemzetközi pénzügyi és kereskedelmi központ, nagy konténerkikötő.",
+        "Az ázsiai „kistigrisek” egyike; igen nagy népsűrűség."
+      ],
+      "concepts": [
+        "világváros (globális város)",
+        "újonnan iparosodott országok"
+      ],
+      "processes": [
+        "toke-aramlasa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--isztambul": {
+      "fekves": "Törökországban, a Boszporusz két partján, kb. 41° é. sz. és 29° k. h.-on, Európa és Ázsia határán.",
+      "facts": [
+        "Törökország legnépesebb városa, gazdasági és kulturális központja.",
+        "Két kontinensre terjed ki; egykor Konstantinápoly, a Bizánci és az Oszmán Birodalom fővárosa.",
+        "Aktív törésvonal közelében fekszik, jelentős földrengésveszély."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "tengerszoros",
+        "földrengés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--jakarta": {
+      "fekves": "Indonézia fővárosa Jáva szigetének északnyugati partján, kb. 6° d. sz. és 107° k. h.-on.",
+      "facts": [
+        "Indonézia fővárosa és legnagyobb városa, hatalmas agglomerációval.",
+        "Alacsony parton fekszik: süllyed, gyakoriak az árvizek.",
+        "Gyors népességnövekedés, nyomornegyedek, urbanizációs ártalmak."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "nyomornegyed",
+        "urbanizációs ártalmak"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--jekatyerinburg": {
+      "fekves": "Oroszországban, az Urál keleti lábánál, kb. 57° é. sz. és 61° k. h.-on, már Ázsia területén.",
+      "facts": [
+        "Az uráli ipari körzet központja: kohászat, gépgyártás.",
+        "Ipara az Urál érckészleteire (vas, színesfémek) épült.",
+        "A Transzszibériai vasút fontos csomópontja."
+      ],
+      "concepts": [
+        "vasérc"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--jeruzsalem": {
+      "fekves": "A Júdeai-hegyvidéken, a Holt-tengertől nyugatra, kb. 32° é. sz. és 35° k. h.-on fekszik; Izrael fővárosának tekinti, státusza nemzetközileg vitatott.",
+      "facts": [
+        "A zsidó, a keresztény és az iszlám vallás szent városa.",
+        "Óvárosa világörökségi helyszín.",
+        "Hovatartozása az izraeli–palesztin konfliktus egyik fő kérdése."
+      ],
+      "concepts": [
+        "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--jokohama-yokohama": {
+      "fekves": "Japánban, Honsú szigetén, a Tokiói-öböl partján, kb. 35° é. sz. és 140° k. h.-on, Tokiótól délre.",
+      "facts": [
+        "Japán egyik legnagyobb kikötője és második legnépesebb városa.",
+        "A tokiói agglomeráció és a Tokaido-megalopolisz része.",
+        "Kikötői ipar: hajóépítés, gépipar, vegyipar."
+      ],
+      "concepts": [
+        "Tokaido",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--kanton": {
+      "fekves": "Dél-Kínában, a Gyöngy-folyó deltájának északi részén, kb. 23° é. sz. és 113° k. h.-on, Hongkongtól északnyugatra.",
+      "facts": [
+        "Dél-Kína legnagyobb városa, régi kikötő- és kereskedelmi város.",
+        "A Gyöngy-folyó-delta városhalmazának része, a „világ gyára” egyik központja.",
+        "A Ráktérítő közelében, meleg, csapadékos monszunéghajlaton fekszik."
+      ],
+      "concepts": [
+        "településhalmaz (agglomeráció)"
+      ],
+      "processes": [
+        "globalizacio"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--kolkata-calcutta": {
+      "fekves": "Kelet-Indiában, a Gangesz-delta Hugli nevű ága mentén, kb. 22,5° é. sz. és 88° k. h.-on.",
+      "facts": [
+        "Kelet-India legnagyobb városa és kikötője.",
+        "A brit gyarmati India egykori fővárosa.",
+        "Kiterjedt nyomornegyedek, súlyos urbanizációs gondok; a jutafeldolgozás központja."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "nyomornegyed",
+        "deltatorkolat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--manila": {
+      "fekves": "A Fülöp-szigetek fővárosa Luzon szigetén, a Manilai-öböl partján, kb. 15° é. sz. és 121° k. h.-on.",
+      "facts": [
+        "Az ország fővárosa, legnagyobb agglomerációja és kikötője.",
+        "Tájfunok és földrengések veszélyeztetik.",
+        "Igen nagy népsűrűség, kiterjedt nyomornegyedek."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "nyomornegyed",
+        "trópusi ciklon (hurrikán, tájfun)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--mekka": {
+      "fekves": "Szaúd-Arábia nyugati részén, a Vörös-tenger partjától nem messze, kb. 21° é. sz. és 40° k. h.-on.",
+      "facts": [
+        "Az iszlám legszentebb városa, Mohamed próféta szülővárosa.",
+        "Évente zarándokok milliói keresik fel (haddzs).",
+        "Nem muszlimok nem léphetnek be a városba."
+      ],
+      "concepts": [
+        "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--mumbai-bombay": {
+      "fekves": "Nyugat-Indiában, az Arab-tenger partján, kb. 19° é. sz. és 73° k. h.-on.",
+      "facts": [
+        "India egyik legnépesebb városa, pénzügyi és kereskedelmi központja, nagy kikötő.",
+        "Itt működik az indiai filmipar központja („Bollywood”).",
+        "Hatalmas nyomornegyedek; a nyári monszun heves esőzéseket hoz."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "nyomornegyed"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--oszaka-osaka": {
+      "fekves": "Japánban, Honsú szigetén, az Oszakai-öböl partján, kb. 35° é. sz. és 135,5° k. h.-on.",
+      "facts": [
+        "Japán egyik legnagyobb ipari és kereskedelmi városa, kikötő.",
+        "Kiotóval és Kóbéval együtt nagy agglomerációt alkot, a Tokaido-megalopolisz része.",
+        "Fejlett gép-, vegy- és elektronikai ipar."
+      ],
+      "concepts": [
+        "Tokaido",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--peking": {
+      "fekves": "Kína fővárosa a Kínai-alföld északi peremén, kb. 40° é. sz. és 116° k. h.-on.",
+      "facts": [
+        "Kína fővárosa, politikai és kulturális központja.",
+        "Mérsékelt övezeti monszunéghajlat: hideg, száraz tél, forró, csapadékos nyár.",
+        "Súlyos légszennyezés; tavasszal a sivatagok felől porviharok érik.",
+        "Tiltott Városa világörökségi helyszín."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat",
+        "urbanizációs ártalmak",
+        "világörökség"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--rijad": {
+      "fekves": "Szaúd-Arábia fővárosa az Arab-félsziget belsejében, kb. 25° é. sz. és 47° k. h.-on.",
+      "facts": [
+        "Az ország fővárosa és legnagyobb városa.",
+        "Oázistelepülésből a kőolajbevételekből gyorsan modern nagyvárossá fejlődött.",
+        "Forró, igen száraz térítői sivatagi éghajlat."
+      ],
+      "concepts": [
+        "oázis",
+        "forró övezeti (trópusi) sivatagi éghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--sanghaj": {
+      "fekves": "Kelet-Kínában, a Jangce torkolatánál, a Kelet-kínai-tenger partján, kb. 31° é. sz. és 121,5° k. h.-on.",
+      "facts": [
+        "Kína legnagyobb városa és gazdasági, pénzügyi központja.",
+        "A világ egyik legforgalmasabb konténerkikötője.",
+        "Világváros, a kínai gazdasági nyitás egyik kulcsterülete."
+      ],
+      "concepts": [
+        "világváros (globális város)",
+        "óriásváros (megapolisz)"
+      ],
+      "processes": [
+        "globalizacio"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--szoul": {
+      "fekves": "Dél-Korea fővárosa a Koreai-félsziget nyugati részén, a Han folyó mentén, kb. 37,5° é. sz. és 127° k. h.-on.",
+      "facts": [
+        "Dél-Korea fővárosa; agglomerációjában él az ország népességének közel fele.",
+        "Világváros: elektronikai és autóipari konszernek székhelye.",
+        "Mérsékelt övezeti monszunéghajlat."
+      ],
+      "concepts": [
+        "világváros (globális város)",
+        "településhalmaz (agglomeráció)",
+        "mérsékelt övezeti monszunéghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--teheran": {
+      "fekves": "Irán fővárosa az Elburz-hegység déli lábánál, a Kaszpi-tengertől délre, kb. 36° é. sz. és 51° k. h.-on.",
+      "facts": [
+        "Irán fővárosa és legnagyobb városa.",
+        "Aktív törésvonalak mentén fekszik, jelentős földrengésveszély.",
+        "Súlyos légszennyezés: a hegyek akadályozzák a szennyezett levegő kiszellőzését."
+      ],
+      "concepts": [
+        "földrengés",
+        "urbanizációs ártalmak"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--tokio": {
+      "fekves": "Japán fővárosa Honsú szigetének keleti partján, a Tokiói-öböl mellett, kb. 36° é. sz. és 140° k. h.-on.",
+      "facts": [
+        "A Föld legnépesebb városi agglomerációja.",
+        "Világváros, a világgazdaság egyik vezető pénzügyi központja.",
+        "A Tokaido-megalopolisz központja.",
+        "Földrengésveszélyes; 1923-ban nagy földrengés pusztította."
+      ],
+      "concepts": [
+        "világváros (globális város)",
+        "Tokaido",
+        "Triád",
+        "földrengés"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--ujdelhi": {
+      "fekves": "India fővárosa az ország északi részén, a Jamuna folyó mentén, a Hindusztáni-alföld nyugati részén, kb. 29° é. sz. és 77° k. h.-on.",
+      "facts": [
+        "India fővárosa, a brit gyarmati korban Delhi mellé tervezett városrész.",
+        "Delhi agglomerációja a Föld egyik legnépesebb városi térsége.",
+        "Monszuni éghajlat igen forró előnyárral; súlyos légszennyezés."
+      ],
+      "concepts": [
+        "óriásváros (megapolisz)",
+        "urbanizációs ártalmak"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--varanaszi-benares": {
+      "fekves": "Észak-Indiában, a Gangesz partján, a Hindusztáni-alföldön, kb. 25° é. sz. és 83° k. h.-on.",
+      "facts": [
+        "A hinduizmus legszentebb városa, zarándokhely.",
+        "A hívők a Gangesz partján rituálisan fürdenek, itt hamvasztják el halottaikat.",
+        "A Föld egyik legrégebben folyamatosan lakott városa."
+      ],
+      "concepts": [
+        "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--vlagyivosztok": {
+      "fekves": "Oroszország távol-keleti részén, a Japán-tenger partján, kb. 43° é. sz. és 132° k. h.-on, Kína és Észak-Korea közelében.",
+      "facts": [
+        "Oroszország legfontosabb csendes-óceáni kikötője és haditengerészeti bázisa.",
+        "A Transzszibériai vasút keleti végpontja.",
+        "Mérsékelt övezeti monszunéghajlat, hideg téllel."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--vuhan": {
+      "fekves": "Kína középső részén, a Jangce és a Han folyó találkozásánál, kb. 30,5° é. sz. és 114° k. h.-on.",
+      "facts": [
+        "Közép-Kína legnagyobb városa, fontos folyami kikötő és közlekedési csomópont.",
+        "Kohászat, gép- és autóipar.",
+        "Nyara igen forró és párás; a Jangce árvizei veszélyeztetik."
+      ],
+      "concepts": [
+        "belvízi és tengerhajózás"
+      ],
+      "processes": [
+        "arviz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--dubaj": {
+      "fekves": "Az Egyesült Arab Emírségekben, a Perzsa-öböl partján, kb. 25° é. sz. és 55° k. h.-on.",
+      "facts": [
+        "Az Emírségek legnépesebb városa; kereskedelmi, pénzügyi és turisztikai központ.",
+        "Gazdasága a kőolajról a szolgáltatások és a légi közlekedés felé alakult át.",
+        "Lakosságának nagy része külföldi vendégmunkás."
+      ],
+      "concepts": [
+        "gazdasági szerkezetváltás",
+        "vendégmunkás",
+        "világváros (globális város)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--cseljabinszk": {
+      "fekves": "Oroszországban, az Urál keleti lábánál, kb. 55° é. sz. és 61° k. h.-on, Jekatyerinburgtól délre.",
+      "facts": [
+        "Az uráli ipari körzet egyik központja: kohászat, gépgyártás.",
+        "Ipara az Urál érckészleteire épült.",
+        "2013-ban felette robbant szét egy nagy meteor, lökéshulláma épületeket rongált meg."
+      ],
+      "concepts": [
+        "vasérc",
+        "meteor"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--csennai-madras": {
+      "fekves": "Délkelet-Indiában, a Bengáli-öböl partján, kb. 13° é. sz. és 80° k. h.-on.",
+      "facts": [
+        "Dél-India egyik legnagyobb városa és kikötője.",
+        "Fontos autóipari és informatikai központ.",
+        "Fő esős évszaka ősszel–kora télen van, az északkeleti (téli) monszun idején."
+      ],
+      "concepts": [
+        "forró övezeti (trópusi) monszunéghajlat"
+      ],
+      "processes": [
+        "monszun"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--kioto-kyoto": {
+      "fekves": "Japánban, Honsú szigetén, Oszakától északkeletre, kb. 35° é. sz. és 136° k. h.-on.",
+      "facts": [
+        "Japán régi császári fővárosa, közel ezer évig volt az ország központja.",
+        "Számos templom és szentély; világörökségi helyszín, jelentős idegenforgalom.",
+        "1997-ben itt fogadták el az üvegházgázok kibocsátását korlátozó Kiotói Jegyzőkönyvet."
+      ],
+      "concepts": [
+        "Kiotói Jegyzőkönyv",
+        "világörökség"
+      ],
+      "processes": [
+        "uveghazhatas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--krasznojarszk": {
+      "fekves": "Kelet-Szibériában, a Jenyiszej partján, a Transzszibériai vasút mentén, kb. 56° é. sz. és 93° k. h.-on.",
+      "facts": [
+        "A Jenyiszejen épült nagy vízerőmű olcsó energiájára alumíniumkohászat települt.",
+        "Szibéria egyik legnagyobb ipari és közlekedési központja.",
+        "Szélsőségesen szárazföldi éghajlat."
+      ],
+      "concepts": [
+        "szélsőségesen szárazföldi terület",
+        "telepítő tényező"
+      ],
+      "processes": [
+        "telephelyvalasztas"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--novoszibirszk": {
+      "fekves": "Nyugat-Szibériában, az Ob partján, a Transzszibériai vasút mentén, kb. 55° é. sz. és 83° k. h.-on.",
+      "facts": [
+        "Szibéria legnagyobb városa.",
+        "Jelentős tudományos központ (Akademgorodok), gépipar.",
+        "Folyami kikötő és vasúti csomópont."
+      ],
+      "concepts": [
+        "technopolisz"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--sencsen": {
+      "fekves": "Dél-Kínában, a Gyöngy-folyó deltájánál, Hongkong szomszédságában, kb. 22,5° é. sz. és 114° k. h.-on.",
+      "facts": [
+        "Kína első különleges gazdasági övezete (1980), kis településből lett óriásváros.",
+        "Az elektronikai és high-tech ipar központja.",
+        "Nagy konténerkikötő."
+      ],
+      "concepts": [
+        "technopolisz",
+        "óriásváros (megapolisz)"
+      ],
+      "processes": [
+        "globalizacio",
+        "toke-aramlasa"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--tel-aviv-jaffa": {
+      "fekves": "Izraelben, a Földközi-tenger keleti partján, kb. 32° é. sz. és 35° k. h.-on, Jeruzsálemtől északnyugatra.",
+      "facts": [
+        "Izrael gazdasági, pénzügyi és kulturális központja, legnagyobb agglomerációja.",
+        "Fejlett high-tech és informatikai ipar.",
+        "Mediterrán éghajlat."
+      ],
+      "concepts": [
+        "mediterrán éghajlat",
+        "technopolisz",
+        "településhalmaz (agglomeráció)"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    "azsia--varosok--tiencsin": {
+      "fekves": "Észak-Kínában, a Bohai-öböl közelében, kb. 39° é. sz. és 117° k. h.-on, Pekingtől délkeletre.",
+      "facts": [
+        "Peking kikötővárosa, Észak-Kína egyik legnagyobb kikötője.",
+        "Kína egyik legnagyobb ipari városa (vegy- és gépipar).",
+        "Mérsékelt övezeti monszunéghajlat."
+      ],
+      "concepts": [
+        "mérsékelt övezeti monszunéghajlat"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  }
+}

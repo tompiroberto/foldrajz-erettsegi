@@ -1,0 +1,55 @@
+{
+  "id": "nappalok-hossza",
+  "title": "A nappalok és éjszakák hossza",
+  "summary": "A nappalok és éjszakák váltakozását a Föld tengely körüli forgása, hosszuk évszakos változását a tengelyferdeség és a Nap körüli keringés okozza. A változás az Egyenlítőtől a sarkok felé egyre nagyobb.",
+  "causes": [
+    "A Föld nyugatról keletre forog a tengelye körül, ezért mindig az egyik fele van megvilágítva: ez okozza a nappalok és éjszakák váltakozását.",
+    "A megvilágított és a sötét félgömböt elválasztó határ (a fény-árnyék határ) a tengelyferdeség miatt legtöbbször nem esik egybe a hosszúsági körökkel.",
+    "Keringés közben a fény-árnyék határ helyzete a sarkokhoz képest folyamatosan változik."
+  ],
+  "course": [
+    "Nap-éj egyenlőségkor a fény-árnyék határ átmegy a sarkokon, ezért minden szélességi körnek pontosan a fele van megvilágítva.",
+    "Az északi félgömb nyarán a szélességi körök nagyobb része esik a megvilágított oldalra, így északon hosszabbak a nappalok.",
+    "A sarkkörökön túl a napfordulók körüli időszakban a Nap egész nap fenn van (sarki nappal) vagy egész nap nem kel fel (sarki éjszaka).",
+    "Az Egyenlítőt a fény-árnyék határ mindig felezi, ezért ott egész évben kb. 12 óra a nappal."
+  ],
+  "consequences": [
+    "A nappalok hosszának évi ingadozása a földrajzi szélességgel nő: az Egyenlítőn alig változik, a sarkokon fél év nappal és fél év éjszaka váltakozik.",
+    "A nappal hossza a delelési magassággal együtt meghatározza a felszínre jutó napenergiát, így az évszakok erősségét.",
+    "A hosszú nyári nappalok a magas szélességeken rövid, de intenzív tenyészidőszakot tesznek lehetővé.",
+    "A két félgömbön a nappalok hossza ellentétesen változik."
+  ],
+  "steps": [
+    { "title": "Nap-éj egyenlőség: mindenhol 12 óra", "caption": "Március 20–21-én és szeptember 22–23-án a fény-árnyék határ a sarkokon halad át. A Föld minden pontján kb. 12 óra a nappal és 12 óra az éjszaka.", "icon": "sun" },
+    { "title": "Északi nyár: az északi félgömbön hosszabbak a nappalok", "caption": "Az északi félgömb a Nap felé fordul, ezért a szélességi körök nagyobb része van fényben. Minél északabbra mész, annál hosszabb a nappal, nálunk június 21–22-én a leghosszabb.", "icon": "sun" },
+    { "title": "Sarkkörök: sarki nappal és sarki éjszaka", "caption": "A nyári napfordulón az Északi sarkkörtől északra a Nap nem nyugszik le, a Déli sarkkörtől délre nem kel fel. A sarkok felé haladva egyre hosszabb ez az időszak, a sarkon fél év.", "icon": "globe" },
+    { "title": "Északi tél: a déli félgömbön hosszabbak a nappalok", "caption": "Decemberben a déli félgömb fordul a Nap felé, így ott hosszabbak a nappalok, nálunk pedig rövidebbek. A téli napfordulón az Északi sarkkörön túl sarki éjszaka van.", "icon": "snowflake" }
+  ],
+  "examples": [
+    { "text": "Az Egyenlítő mentén egész évben kb. 12 óra a nappal, ezért ott nincs számottevő évszakos fényviszony-változás.", "places": ["fold--foldrajzi-fokhalozat--egyenlito"] },
+    { "text": "Norvégia északi részén, az Északi sarkkörön túl nyáron éjféli Nap, télen sarki éjszaka figyelhető meg.", "places": ["europa--orszagok--norvegia", "fold--foldrajzi-fokhalozat--eszaki-sarkkor"] },
+    { "text": "A Déli-sarkon a Nap kb. fél évig folyamatosan fent van, fél évig nem kel fel.", "places": ["fold--foldrajzi-fokhalozat--deli-sark"] }
+  ],
+  "concepts": [
+    "tengely körüli forgás",
+    "napszakok",
+    "Nap körüli keringés",
+    "tengelyferdeség",
+    "tavaszi és őszi nap-éj egyenlőség",
+    "nyári és téli napforduló"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el, miért változik a nappalok és az éjszakák hossza az év során, és hogyan függ ez a földrajzi szélességtől!",
+    "elements": [
+      { "text": "A nappalok és éjszakák váltakozását a tengely körüli forgás okozza.", "points": 1 },
+      { "text": "A hossz változásának oka a tengelyferdeség és a Nap körüli keringés együttese.", "points": 2 },
+      { "text": "Nap-éj egyenlőségkor mindenhol kb. 12 óra a nappal.", "points": 1 },
+      { "text": "Az északi félgömb nyarán ott hosszabbak a nappalok, télen a déli félgömbön.", "points": 2 },
+      { "text": "A sarkkörökön túl sarki nappal és sarki éjszaka alakul ki.", "points": 2 },
+      { "text": "Az Egyenlítőn egész évben kb. 12 óra a nappal, a változás a sarkok felé nő.", "points": 2 }
+    ],
+    "modelAnswer": "A nappalok és éjszakák váltakozását a Föld tengely körüli forgása okozza, hosszuk változását pedig a tengelyferdeség és a Nap körüli keringés együtt. Nap-éj egyenlőségkor a fény-árnyék határ a sarkokon halad át, ezért mindenhol kb. 12 óra a nappal. Az északi félgömb nyarán ez a félgömb fordul a Nap felé, így ott hosszabbak a nappalok, decemberben viszont a déli félgömbön. A sarkkörökön túl a napfordulók idején sarki nappal, illetve sarki éjszaka alakul ki. Az Egyenlítőn egész évben kb. 12 óra a nappal, a változás mértéke a sarkok felé haladva nő."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "helyi-ido-zonaido",
+  "title": "Helyi idő, zónaidő és a dátumválasztó vonal",
+  "summary": "A Föld forgása miatt minden hosszúsági körön más a helyi idő; a gyakorlati élethez ezért 24 időzónát vezettek be. A dátumválasztó vonalon átlépve a naptári dátum változik meg.",
+  "causes": [
+    "A Föld nyugatról keletre forog, kb. 24 óra alatt fordul körbe (360°).",
+    "Így 15 hosszúsági fok 1 óra, 1 hosszúsági fok 4 perc időkülönbségnek felel meg.",
+    "Kelet felé haladva a Nap korábban delel, ezért keletebbre mindig későbbi a helyi idő."
+  ],
+  "course": [
+    "Egy hely helyi ideje szerint akkor van 12 óra, amikor ott a Nap delel; ez minden hosszúsági körön más.",
+    "A helyi idők sokfélesége miatt a Földet 24, egyenként 15° széles időzónára osztották, a zónán belül a középső délkör helyi idejét használják (zónaidő).",
+    "A kiindulópont a greenwichi kezdő hosszúsági kör, ennek ideje a világidő.",
+    "A dátumválasztó vonal nagyjából a 180°-os hosszúsági kör mentén húzódik, de kikerüli a szárazföldeket és szigetcsoportokat."
+  ],
+  "consequences": [
+    "Egy zónán belül egységes az óraidő, a szomszédos zónák között általában 1 óra a különbség.",
+    "Az időzónák határai a gyakorlatban gyakran országhatárokat követnek; a nagy kiterjedésű országokban (pl. Oroszország) több időzóna is van.",
+    "A dátumválasztó vonalon nyugat felé átlépve egy napot előre, kelet felé átlépve egy napot vissza kell lapozni a naptárban.",
+    "Magyarország a közép-európai időt (a 15° K délkör idejét) használja, nyáron pedig nyári időszámítást."
+  ],
+  "steps": [
+    { "title": "A Föld 24 óra alatt fordul körbe: 15° = 1 óra", "caption": "A 360°-os fordulat kb. 24 óra alatt megy végbe, így 15° = 1 óra, 1° = 4 perc időkülönbség. Keletebbre mindig több az idő.", "icon": "globe" },
+    { "title": "Helyi idő: a delelés pillanata 12 óra", "caption": "Minden hely a saját délkörén mért idő szerint akkor mutat 12 órát, amikor ott a Nap delel. Ezért egy hosszúsági kör minden pontján azonos, de a szomszédos délkörökön már eltér a helyi idő.", "icon": "sun" },
+    { "title": "Zónaidő: 24 időzóna, a zóna középső délkörének ideje", "caption": "A Földet 24 időzónára osztották, a zóna egészén a középső délkör helyi idejét használják. Budapesten (kb. 19° K) a helyi idő kb. 16 perccel jár a közép-európai idő előtt.", "icon": "globe" },
+    { "title": "Dátumválasztó vonal: nyugat felé átlépve egy napot előre lapozunk", "caption": "A 180°-os hosszúsági kör közelében húzódó vonalon nyugat felé (Amerikából Ázsia felé) átlépve egy napot előre, kelet felé egy napot vissza kell lapoznod.", "icon": "arrow-right" }
+  ],
+  "examples": [
+    { "text": "A greenwichi kezdő hosszúsági kör helyi ideje a világidő, ehhez viszonyítják az időzónákat.", "places": ["fold--foldrajzi-fokhalozat--kezdo-hosszusagi-kor-greenwichi-delkor"] },
+    { "text": "Budapest a 15° K délkör zónaidejét használja, de kb. 19° K-en fekszik, így helyi ideje kb. 16 perccel több a zónaidőnél.", "places": ["magyarorszag--telepulesek--budapest"] },
+    { "text": "Oroszország nagy kelet–nyugati kiterjedése miatt több időzónára oszlik.", "places": ["europa--orszagok--oroszorszag"] },
+    { "text": "A dátumválasztó vonal a Csendes-óceán közepén húzódik, kikerülve a szigetcsoportokat.", "places": ["fold--oceanok--csendes-ocean"] }
+  ],
+  "concepts": [
+    "tengely körüli forgás",
+    "napi és évi időszámítás",
+    "helyi idő",
+    "zónaidő",
+    "időzóna",
+    "világidő",
+    "dátumválasztó vonal",
+    "Greenwich"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a helyi idő és a zónaidő közötti különbséget, valamint a dátumválasztó vonal szerepét!",
+    "elements": [
+      { "text": "A Föld nyugatról keletre forog, kb. 24 óra alatt fordul körbe.", "points": 1 },
+      { "text": "15° = 1 óra, 1° = 4 perc időkülönbség.", "points": 2 },
+      { "text": "Helyi idő: a Nap delelésekor 12 óra; hosszúsági körönként eltér, keletebbre több.", "points": 2 },
+      { "text": "Zónaidő: 24 időzóna, a zóna középső délkörének helyi idejét használják.", "points": 2 },
+      { "text": "Kiindulópont a greenwichi kezdő hosszúsági kör (világidő).", "points": 1 },
+      { "text": "A dátumválasztó vonal a 180° közelében húzódik; nyugat felé átlépve egy napot előre, kelet felé egy napot vissza kell lapozni.", "points": 2 }
+    ],
+    "modelAnswer": "A Föld nyugatról keletre forog, és kb. 24 óra alatt fordul körbe, ezért 15° 1 óra, 1° pedig 4 perc időkülönbségnek felel meg. A helyi idő szerint akkor van 12 óra, amikor a Nap az adott helyen delel, így ez minden hosszúsági körön más, és keletebbre mindig több. A gyakorlatban ezért 24 időzónát alakítottak ki, és egy zónán belül a középső délkör helyi idejét, a zónaidőt használják. A kiindulópont a greenwichi kezdő hosszúsági kör, ennek ideje a világidő. A 180°-os hosszúsági kör közelében húzódó dátumválasztó vonalon nyugat felé átlépve egy napot előre, kelet felé átlépve egy napot vissza kell lapozni a naptárban."
+  },
+  "generated": true,
+  "reviewed": false
+}

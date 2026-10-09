@@ -1,0 +1,119 @@
+{
+  "id": "viz-korforgasa",
+  "title": "A víz körforgása",
+  "summary": "A víz a Nap energiája és a gravitáció hatására folyamatosan körforgásban van a világtenger, a légkör és a szárazföld között. Közben halmazállapota többször megváltozik.",
+  "causes": [
+    "A Nap sugárzása biztosítja a párolgáshoz szükséges energiát.",
+    "A légkör mozgása (a szél) szállítja a vízgőzt a tengerek fölül a szárazföldek fölé.",
+    "A gravitáció miatt a csapadék lehullik, a víz a lejtés irányában lefolyik, illetve beszivárog."
+  ],
+  "course": [
+    "A tengerek, tavak felszínéről, a talajból és a növényekből (párologtatás) víz párolog.",
+    "A felemelkedő, lehűlő levegőben a vízgőz kicsapódik, felhők képződnek.",
+    "A szél a nedves levegőt a szárazföld fölé szállítja, ahol csapadék hullik.",
+    "A csapadék egy része a felszínen lefolyik (folyók), más része beszivárog és felszín alatti vízzé válik, végül a víz a tengerbe jut vagy újra elpárolog."
+  ],
+  "consequences": [
+    "A körforgás folyamatosan megújítja az édesvízkészletet, táplálja a folyókat, tavakat és a felszín alatti vizeket.",
+    "Hőt szállít: a párolgás hőt von el, a kicsapódás hőt szabadít fel a légkörben.",
+    "Kis körforgásról beszélünk, ha a tengerből elpárolgó víz a tengerbe hullik vissza; nagy körforgásról, ha a szárazföldön keresztül jut vissza.",
+    "Az erdőirtás, a beépítés és a burkolt felszínek növelik a lefolyást és csökkentik a beszivárgást, ami fokozza az árvízveszélyt."
+  ],
+  "steps": [
+    {
+      "title": "Párolgás a tengerekből és a szárazföldről",
+      "caption": "A Nap energiája hatására a világtengerből, a tavakból, a talajból és a növényzetből víz párolog. A legtöbb víz a tengerek felszínéről párolog el.",
+      "icon": "sun"
+    },
+    {
+      "title": "Kicsapódás, felhőképződés",
+      "caption": "A felemelkedő levegő lehűl, a harmatponton a vízgőz kicsapódási magokon kicsapódik. Felhők képződnek.",
+      "icon": "cloud"
+    },
+    {
+      "title": "A szél a szárazföld fölé szállítja a nedvességet",
+      "caption": "A légáramlások a tengerek fölött képződött nedves levegőt a szárazföldek fölé szállítják.",
+      "icon": "wind"
+    },
+    {
+      "title": "Csapadék",
+      "caption": "A felhőelemek megnőnek, és eső vagy hó formájában kihullanak. A szárazföldre hulló csapadék nagy része a tengerekből származik.",
+      "icon": "cloud-rain"
+    },
+    {
+      "title": "Lefolyás és beszivárgás",
+      "caption": "A csapadék egy része a felszínen lefolyik, és a folyókat táplálja, más része beszivárog a talajba, és a felszín alatti vizeket gyarapítja. Egy része elpárolog.",
+      "icon": "droplets"
+    },
+    {
+      "title": "A víz visszajut a tengerbe",
+      "caption": "A folyók és a felszín alatti vizek végül visszajuttatják a vizet a tengerbe, és a körforgás újraindul.",
+      "icon": "waves"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Az Amazonas-medence esőerdejében a növényzet párologtatása a csapadék jelentős részét visszajuttatja a légkörbe; az Amazonas óriási vízmennyiséget szállít az Atlanti-óceánba.",
+      "places": [
+        "amerika--tajak--amazonas-medence",
+        "amerika--vizrajz--amazonas",
+        "fold--oceanok--atlanti-ocean"
+      ]
+    },
+    {
+      "text": "A Duna vízgyűjtőjén az Alpokra és a Kárpátokra hulló csapadék a folyóhálózaton keresztül a Fekete-tengerbe jut.",
+      "places": [
+        "europa--vizrajz--duna",
+        "europa--tajak--alpok",
+        "europa--tajak--karpatok"
+      ]
+    },
+    {
+      "text": "A Szaharában a csapadék kevés, a párolgás nagy, ezért a vízfolyások időszakosak, a terület jelentős része belső lefolyású vagy lefolyástalan.",
+      "places": [
+        "afrika--tajak--szahara"
+      ]
+    }
+  ],
+  "concepts": [
+    "a víz körforgása",
+    "vízháztartás (párolgás-párologtatás, csapadék, lefolyás)",
+    "kicsapódás",
+    "felhő",
+    "felszín alatti víz",
+    "vízgyűjtő terület",
+    "lefolyásos és belső lefolyású terület"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a víz körforgásának folyamatát, és mutasd be, hogyan befolyásolja az emberi tevékenység!",
+    "elements": [
+      {
+        "text": "A körforgás hajtóereje a Nap energiája és a gravitáció.",
+        "points": 1
+      },
+      {
+        "text": "Párolgás a tengerekből, illetve párolgás-párologtatás a szárazföldről.",
+        "points": 2
+      },
+      {
+        "text": "Kicsapódás, felhőképződés; a szél a nedvességet a szárazföld fölé szállítja.",
+        "points": 2
+      },
+      {
+        "text": "Csapadék hullik a szárazföldre.",
+        "points": 1
+      },
+      {
+        "text": "Lefolyás és beszivárgás, a víz a folyókon, felszín alatti vizeken át visszajut a tengerbe.",
+        "points": 2
+      },
+      {
+        "text": "Emberi hatás: erdőirtás, beépítés növeli a lefolyást, csökkenti a beszivárgást.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A víz körforgását a Nap energiája és a gravitáció tartja fenn. A Nap hatására a tengerek felszínéről, illetve a szárazföldön a talajból és a növényzetből víz párolog, a felemelkedő, lehűlő levegőben pedig a vízgőz kicsapódik és felhők képződnek. A szél a tengerek fölött képződött nedves levegőt a szárazföldek fölé szállítja, ahol csapadék hullik. A csapadék egy része a felszínen lefolyik és a folyókat táplálja, más része beszivárog és a felszín alatti vizeket gyarapítja, végül a víz visszajut a tengerbe. Az ember az erdőirtással, a beépítéssel és a burkolt felszínekkel növeli a gyors lefolyást és csökkenti a beszivárgást, ami fokozza az árvízveszélyt és csökkenti a felszín alatti vízkészletet."
+  },
+  "generated": true,
+  "reviewed": false
+}

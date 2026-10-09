@@ -1,0 +1,4227 @@
+{
+  "entries": [
+    {
+      "id": "aprozodas",
+      "term": "aprózódás",
+      "aliases": [
+        "fizikai aprózódás",
+        "mechanikai aprózódás"
+      ],
+      "sourceLabels": [
+        "aprózódás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A kőzetek mechanikai feldarabolódása kisebb törmelékre, amely során a kőzet anyaga, kémiai összetétele nem változik. Fő formái a hőingadozás okozta (inszolációs) aprózódás, a fagyaprózódás (a repedésekben megfagyó víz kitágul) és a növényi gyökerek feszítő hatása.",
+      "example": "A magashegységekben (pl. az Alpokban) a fagyaprózódás miatt a sziklafalak alján törmeléklejtők halmozódnak fel; a sivatagokban a nagy napi hőingás aprózza a kőzeteket.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "mallas",
+        "lepusztulas",
+        "omlas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "kőzetek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mallas",
+      "term": "mállás",
+      "aliases": [],
+      "sourceLabels": [
+        "mállás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A kőzetek ásványainak kémiai átalakulása víz, oxigén, szén-dioxid és az élőlények által termelt anyagok hatására, miközben új ásványok (pl. agyagásványok) keletkeznek. Meleg és csapadékos éghajlaton a legerőteljesebb.",
+      "example": "A trópusi esőerdők alatt (pl. a Kongó-medencében) a mállás miatt vastag, vörös mállási kéreg és laterittalaj alakul ki.",
+      "examplePlaces": [
+        "afrika--tajak--kongo-medence"
+      ],
+      "related": [
+        "aprozodas",
+        "kemiai-es-biologiai-mallas",
+        "talaj",
+        "laterittalaj"
+      ],
+      "tags": [
+        "felszínformálás",
+        "kőzetek",
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kemiai-es-biologiai-mallas",
+      "term": "kémiai és biológiai mállás",
+      "aliases": [],
+      "sourceLabels": [
+        "kémiai és biológiai mállás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "A mállás két fő típusa: a kémiai mállást a víz és a benne oldott anyagok (oxigén, szén-dioxid, savak) okozzák, a biológiai mállást az élőlények anyagcseretermékei. Mindkettő a kőzet kémiai átalakulásával jár, és a talajképződés első lépése.",
+      "example": "A csupasz sziklán megtelepedő zuzmók savai lassan bontják a kőzetet, a mészkövet pedig a szén-dioxidos víz oldja.",
+      "related": [
+        "mallas",
+        "kemiai-mallas",
+        "biologiai-mallas",
+        "talaj"
+      ],
+      "tags": [
+        "felszínformálás",
+        "kőzetek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kemiai-mallas",
+      "term": "kémiai mállás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "kemiai-es-biologiai-mallas",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "A kőzetek ásványainak átalakulása víz és a benne oldott anyagok hatására; fő folyamatai az oldódás, az oxidáció, a hidratáció és a hidrolízis. Sebessége a hőmérséklettel és a nedvességgel nő.",
+      "example": "A vastartalmú ásványok oxidációja vörösre színezi a kőzetet; a mészkő szén-dioxidos vízben oldódik (karsztosodás).",
+      "related": [
+        "biologiai-mallas",
+        "karsztbarlang"
+      ],
+      "tags": [
+        "felszínformálás",
+        "kőzetek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "biologiai-mallas",
+      "term": "biológiai mállás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "kemiai-es-biologiai-mallas",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Az élőlények (zuzmók, mohák, növényi gyökerek, mikroorganizmusok) által termelt savak és más anyagcseretermékek okozta kémiai kőzetbontás.",
+      "example": "A sziklákon megtelepedő zuzmók és mohák savai előkészítik a talajképződést.",
+      "related": [
+        "kemiai-mallas",
+        "talaj"
+      ],
+      "tags": [
+        "felszínformálás",
+        "kőzetek",
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lepusztulas",
+      "term": "lepusztulás",
+      "aliases": [
+        "erózió",
+        "denudáció"
+      ],
+      "sourceLabels": [
+        "lepusztulás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A külső erők pusztító tevékenysége: az aprózódott és mállott kőzetanyag eltávolítása a felszínről, aminek következtében a kiemelt térszínek alacsonyodnak. A külső erők munkájának első szakasza, amelyet a szállítás és a felhalmozás követ.",
+      "example": "Az egykor magas Urál ma erősen lepusztult, lekerekített formájú háthegység.",
+      "examplePlaces": [
+        "europa--tajak--ural"
+      ],
+      "related": [
+        "szallitas",
+        "felhalmozas",
+        "kulso-erok",
+        "aprozodas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szallitas",
+      "term": "szállítás",
+      "aliases": [],
+      "sourceLabels": [
+        "szállítás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A lepusztított kőzetanyag továbbítása a külső erők (folyóvíz, szél, jég, tengervíz, gravitáció) által. A szállított anyag mennyisége és mérete a szállító közeg energiájától függ; a víz görgetve, lebegtetve és oldott állapotban szállít.",
+      "example": "A Duna és a Tisza a Kárpátokból lepusztult hordalékot szállítja a Kárpát-medence belsejébe.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna",
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "lepusztulas",
+        "felhalmozas",
+        "hordalek"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felhalmozas",
+      "term": "felhalmozás",
+      "aliases": [
+        "akkumuláció",
+        "feltöltés"
+      ],
+      "sourceLabels": [
+        "felhalmozás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A szállított kőzetanyag lerakódása, amikor a szállító közeg energiája (sebessége) lecsökken. A külső erők építő tevékenysége; eredménye az üledék és az üledékes felszínformák.",
+      "example": "Az Alföld süllyedő medencéjét a folyók hordalékának felhalmozódása töltötte fel.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--alfold"
+      ],
+      "related": [
+        "lepusztulas",
+        "szallitas",
+        "hordalekkup"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kulso-es-belso-erok",
+      "term": "külső és belső erők",
+      "aliases": [
+        "felszínformáló erők"
+      ],
+      "sourceLabels": [
+        "külső és belső erők"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A földfelszínt alakító erők két csoportja. A belső erők a Föld belső energiájából erednek, és a felszín egyenetlenségeit növelik; a külső erők a Nap energiájából és a gravitációból táplálkoznak, és a felszínt egyengetik.",
+      "example": "A Himalája a kőzetlemezek ütközése (belső erő) miatt emelkedik, miközben a gleccserek és a folyók (külső erők) folyamatosan pusztítják.",
+      "examplePlaces": [
+        "azsia--tajak--himalaja"
+      ],
+      "related": [
+        "kulso-erok",
+        "belso-erok",
+        "lepusztulas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "lemeztektonika",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belso-erok",
+      "term": "belső erők",
+      "aliases": [
+        "endogén erők"
+      ],
+      "sourceLabels": [],
+      "parent": "kulso-es-belso-erok",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A Föld belső hőjéből származó, a kőzetlemezek mozgásához kapcsolódó erők: gyűrődés, vetődés, vulkanizmus, földrengés, kéregemelkedés és -süllyedés. Hegységeket, medencéket hoznak létre, vagyis növelik a felszín szintkülönbségeit.",
+      "example": "Az Andok a kőzetlemezek alábukásakor gyűrődött fel, vulkánjai is a belső erők megnyilvánulásai.",
+      "examplePlaces": [
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "kulso-erok",
+        "lanchegyseg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "lemeztektonika",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kulso-erok",
+      "term": "külső erők",
+      "aliases": [
+        "exogén erők"
+      ],
+      "sourceLabels": [],
+      "parent": "kulso-es-belso-erok",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A Nap sugárzási energiájából és a gravitációból táplálkozó felszínformáló tényezők: a hőmérséklet-ingadozás, a szél, a folyóvíz, a tenger, a jég, az élőlények és az ember. Lepusztítással, szállítással és felhalmozással a felszín egyenetlenségeit csökkentik. Az ember bányászattal, építkezéssel, folyószabályozással vált jelentős felszínformálóvá.",
+      "example": "A Tisza szabályozásakor az ember átvágta a kanyarulatokat, így holtágak jöttek létre.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "belso-erok",
+        "lepusztulas",
+        "rekultivacio"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "melyfold",
+      "term": "mélyföld",
+      "aliases": [],
+      "sourceLabels": [
+        "mélyföld"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Tengerszint alatt vagy annak közelében fekvő, kis szintkülönbségű síkság.",
+      "example": "A Kaszpi-mélyföld egy része a világtenger szintje alatt fekszik; a Holland-mélyföld egy részét gátak védik a tengertől.",
+      "examplePlaces": [
+        "azsia--tajak--kaszpi-melyfold",
+        "europa--tajak--holland-melyfold"
+      ],
+      "related": [
+        "alfold-forma",
+        "fennsik"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "alfold-forma",
+      "term": "alföld",
+      "aliases": [
+        "síkság"
+      ],
+      "sourceLabels": [
+        "alföld"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "200 m-nél alacsonyabb tengerszint feletti magasságú, kis szintkülönbségű sík terület. Legtöbbször süllyedő területen, folyók hordalékából épül fel.",
+      "example": "Az Alföld és a Kisalföld folyóhordalékkal feltöltött alföldek.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--alfold",
+        "magyarorszag--fo-tajegysegek--kisalfold"
+      ],
+      "related": [
+        "melyfold",
+        "fennsik",
+        "dombsag",
+        "hatsag"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fennsik",
+      "term": "fennsík",
+      "aliases": [],
+      "sourceLabels": [
+        "fennsík"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Az alföldeknél magasabban fekvő, viszonylag sík vagy enyhén hullámos felszínű terület, amelyet környezetétől gyakran meredek peremek választanak el.",
+      "example": "A Dekkán-fennsík egy ősföld kiemelt, lávatakaróval borított része; hazánkban a Bükk-fennsík karsztos fennsík.",
+      "examplePlaces": [
+        "azsia--tajak--dekkan-fennsik",
+        "magyarorszag--egyeb-tajak-teruletek--bukk-fennsik"
+      ],
+      "related": [
+        "alfold-forma",
+        "melyfold"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "dombsag",
+      "term": "dombság",
+      "aliases": [
+        "dombvidék"
+      ],
+      "sourceLabels": [
+        "dombság"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Az alföldeknél magasabb (általában 200–500 m közötti), mérsékelt szintkülönbségű, lekerekített formájú dombokból és a közöttük futó völgyekből álló felszín.",
+      "example": "A Zalai-dombság és a Gödöllői-dombság tipikus hazai dombságok.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--zalai-dombsag",
+        "magyarorszag--egyeb-tajak-teruletek--godolloi-dombsag"
+      ],
+      "related": [
+        "alfold-forma",
+        "kozep-es-magashegyseg",
+        "volgy"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozep-es-magashegyseg",
+      "term": "közép- és magashegység",
+      "aliases": [],
+      "sourceLabels": [
+        "közép- és magashegység"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A hegységek magasságuk és formakincsük szerinti két típusa. A középhegységek lekerekített formájúak, a magashegységek nagy magasságúak és szintkülönbségűek, éles gerincekkel és csúcsokkal.",
+      "example": "A Mátra középhegység, az Alpok magashegység.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--matra",
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "kozephegyseg",
+        "magashegyseg",
+        "dombsag"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozephegyseg",
+      "term": "középhegység",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "kozep-es-magashegyseg",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Mérsékelt magasságú hegység lekerekített, lepusztult formákkal, többnyire erdővel borítva; csúcsai nem érik el a hóhatárt.",
+      "example": "Hazánk hegységei (pl. a Mátra, a Bükk, a Mecsek) középhegységek.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--matra",
+        "magyarorszag--egyeb-tajak-teruletek--bukk"
+      ],
+      "related": [
+        "magashegyseg",
+        "hathegyseg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "magashegyseg",
+      "term": "magashegység",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "kozep-es-magashegyseg",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Nagy abszolút és relatív magasságú hegység éles gerincekkel, csipkés csúcsokkal; formakincsét jelentős részben a jég alakította, csúcsai gyakran a hóhatár fölé nyúlnak.",
+      "example": "Az Alpok, a Himalája és az Andok magashegységek, völgyeikben gleccserek találhatók.",
+      "examplePlaces": [
+        "europa--tajak--alpok",
+        "azsia--tajak--himalaja",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "kozephegyseg",
+        "lanchegyseg",
+        "hohatar",
+        "gleccser"
+      ],
+      "tags": [
+        "felszínformálás",
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hatsag",
+      "term": "hátság",
+      "aliases": [],
+      "sourceLabels": [
+        "hátság"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Az alföldeken a környezeténél kissé magasabban fekvő, lapos tetejű, enyhén hullámos felszínű terület; gyakran egykori hordalékkúp, amelyet futóhomok vagy lösz borít.",
+      "example": "A Duna–Tisza közi hátság (Kiskunság) és a Nyírség az Alföld hátságai.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+        "magyarorszag--egyeb-tajak-teruletek--kiskunsag",
+        "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+      ],
+      "related": [
+        "alfold-forma",
+        "hordalekkup",
+        "homokbucka"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "volgy",
+      "term": "völgy",
+      "aliases": [],
+      "sourceLabels": [
+        "völgy"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A felszín hosszan elnyúló, egy irányba lejtő bemélyedése, amelyet jellemzően vízfolyás vagy gleccser alakít ki, de szerkezeti (tektonikus) eredetű is lehet. Keresztmetszete alapján V alakú, teknő- (U alakú) és szurdokvölgyeket különítünk el.",
+      "example": "A hegyi patakok V alakú völgyben, az egykori gleccserek U alakú völgyben futnak.",
+      "related": [
+        "v-alaku-volgy",
+        "u-alaku-volgy",
+        "szurdok",
+        "kanyon"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "medence",
+      "term": "medence",
+      "aliases": [],
+      "sourceLabels": [
+        "medence"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A környezeténél alacsonyabban fekvő, minden oldalról magasabb térszínnel (hegységekkel, dombságokkal) körülvett terület. Lehet nagyszerkezeti (pl. süllyedéssel keletkezett) vagy kisebb, lepusztulással kialakult forma.",
+      "example": "A Kárpát-medencét a Kárpátok, az Alpok és a Dinári-hegység veszi körül; kisebb medence a Tapolcai-medence.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence",
+        "magyarorszag--egyeb-tajak-teruletek--tapolcai-medence"
+      ],
+      "related": [
+        "alfold-forma",
+        "tanuhegy"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tanuhegy",
+      "term": "tanúhegy",
+      "aliases": [],
+      "sourceLabels": [
+        "tanúhegy"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "A környezet lepusztulása után magányosan kiemelkedő hegy, amely az egykori, magasabb felszín szintjét „tanúsítja”. Tetejét általában ellenálló kőzet (pl. bazalt) védi a lepusztulástól.",
+      "example": "A Tapolcai-medence bazaltsapkás hegyei, pl. a Badacsony, tanúhegyek.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--badacsony",
+        "magyarorszag--egyeb-tajak-teruletek--tapolcai-medence"
+      ],
+      "related": [
+        "deflacios-tanuhegy",
+        "medence",
+        "lepusztulas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vulkanizmus",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hathegyseg",
+      "term": "háthegység",
+      "aliases": [],
+      "sourceLabels": [
+        "háthegység"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Idős, erősen lepusztult hegység lekerekített, széles hátakkal és alacsonyabb csúcsokkal. Rendszerint ó- vagy középidei hegységképződéskor keletkezett, és azóta hosszú ideig pusztult.",
+      "example": "Az Urál és az Appalache-hegység háthegységek.",
+      "examplePlaces": [
+        "europa--tajak--ural",
+        "amerika--tajak--appalache-hegyseg-appalache"
+      ],
+      "related": [
+        "lanchegyseg",
+        "lepusztulas",
+        "kozephegyseg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "hegységképződés",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lanchegyseg",
+      "term": "lánchegység",
+      "aliases": [],
+      "sourceLabels": [
+        "lánchegység"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "kozep",
+      "definition": "Fiatal (újidei) gyűrthegység, amely hosszan elnyúló, egymással nagyjából párhuzamos hegyláncokból áll; csúcsai magasak, gerincei élesek, mert a lepusztulás még nem koptatta le.",
+      "example": "Az Alpok, a Kárpátok, a Himalája és az Andok lánchegységek.",
+      "examplePlaces": [
+        "europa--tajak--alpok",
+        "azsia--tajak--himalaja",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "hathegyseg",
+        "magashegyseg",
+        "belso-erok"
+      ],
+      "tags": [
+        "felszínformálás",
+        "hegységképződés",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tomegmozgasok",
+      "term": "tömegmozgások",
+      "aliases": [
+        "tömegmozgás"
+      ],
+      "sourceLabels": [
+        "tömegmozgások (csuszamlás, suvadás, omlás, folyás)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "A lejtők kőzet-, törmelék- vagy talajanyagának a gravitáció hatására bekövetkező tömeges elmozdulása. A mozgást a víz (átitatás, kenőanyag), a lejtő meredeksége, a kőzet minősége és az emberi beavatkozás segíti elő.",
+      "example": "A Duna löszös magaspartjain (pl. Dunaszekcsőnél) időről időre partfalmozgások veszélyeztetik a házakat.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "csuszamlas",
+        "suvadas",
+        "omlas",
+        "folyas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "csuszamlas",
+      "term": "csuszamlás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tomegmozgasok",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Tömegmozgás, amelynek során a lejtő anyaga egy (többnyire vízzel átitatott, agyagos) csúszópályán, összefüggő tömegként elmozdul lefelé.",
+      "example": "Agyagos alapú, meredek domboldalakon esős időszak után csuszamlások indulhatnak meg.",
+      "related": [
+        "tomegmozgasok",
+        "suvadas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "suvadas",
+      "term": "suvadás",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tomegmozgasok",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Tömegmozgás, amelynek során a vízzel átitatott, laza üledékes lejtő egy része homorú (ívelt) csúszófelület mentén, hátrabillenve hirtelen lecsúszik; a lejtőn szakadásos falak és lépcsők maradnak vissza.",
+      "example": "Jellemző a Duna és a Balaton löszös, agyagos magaspartjain.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "tomegmozgasok",
+        "csuszamlas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "omlas",
+      "term": "omlás",
+      "aliases": [
+        "kőomlás",
+        "sziklaomlás"
+      ],
+      "sourceLabels": [],
+      "parent": "tomegmozgasok",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Meredek sziklafalról vagy partfalról kőzetdarabok, kőzettömegek hirtelen leválása és lezuhanása; a fal tövében törmeléklejtő halmozódik fel.",
+      "example": "A magashegységek fagyaprózódott sziklafalairól gyakori a kőomlás; az alámosott tengerpartokon a partfal omlik le.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "tomegmozgasok",
+        "aprozodas",
+        "abrazios-fulke"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "folyas",
+      "term": "folyás",
+      "aliases": [
+        "sárfolyás",
+        "iszapfolyás",
+        "talajfolyás"
+      ],
+      "sourceLabels": [],
+      "parent": "tomegmozgasok",
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Vízzel túltelített laza anyag (talaj, sár, törmelék) lassú vagy gyors, folyadékszerű mozgása a lejtőn lefelé.",
+      "example": "A permafroszttal fedett területeken nyáron a felolvadt, átázott talajréteg lassan lefolyik a lejtőn; vulkánok oldalán az iszapárak pusztítanak.",
+      "related": [
+        "tomegmozgasok",
+        "permafroszt"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hago",
+      "term": "hágó",
+      "aliases": [],
+      "sourceLabels": [
+        "hágó"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Hegygerinc alacsonyabb, nyeregszerű, átjárható pontja, amely két völgyet köt össze; fontos közlekedési átjáró.",
+      "example": "Az Alpokon át a Szent Gotthárd-hágó vezet Észak- és Dél-Európa között.",
+      "examplePlaces": [
+        "europa--tajak--szent-gotthard-hago",
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "szoros",
+        "lanchegyseg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Európa",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szoros",
+      "term": "szoros",
+      "aliases": [
+        "völgyszoros",
+        "áttörés"
+      ],
+      "sourceLabels": [
+        "szoros"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Keskeny, meredek falú völgyszakasz, ahol egy folyó egy hegységen tör át (áttöréses völgy). (A vízrajzban két tengert összekötő keskeny víziút neve tengerszoros.)",
+      "example": "A Duna a Vaskapu-szorosban a Déli-Kárpátok és a Balkán-félsziget hegyei között, a Dunakanyarban a Visegrádi-hegység és a Börzsöny között tör át.",
+      "examplePlaces": [
+        "europa--tajak--vaskapu",
+        "magyarorszag--egyeb-tajak-teruletek--dunakanyar"
+      ],
+      "related": [
+        "hago",
+        "volgy",
+        "v-alaku-volgy"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rekultivacio",
+      "term": "rekultiváció",
+      "aliases": [],
+      "sourceLabels": [
+        "rekultiváció"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.1. A földfelszín formálódása",
+      "level": "emelt",
+      "definition": "Az emberi tevékenység (bányászat, hulladéklerakás, ipar, építkezés) által károsított terület helyreállítása és újrahasznosítása: tereprendezés, talajtakarás, növényesítés, vízfelület kialakítása.",
+      "example": "Felhagyott külszíni bányák gödreit tóvá alakítják, a meddőhányókat termőtalajjal takarják és befásítják; így pihenő- vagy mezőgazdasági terület jön létre.",
+      "related": [
+        "kulso-erok",
+        "talajszennyezes",
+        "talajpusztulas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "környezetvédelem",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "homokfodor",
+      "term": "homokfodor",
+      "aliases": [],
+      "sourceLabels": [
+        "homokfodor"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A szél által a homok felszínén kialakított apró, a szélirányra merőleges, hullámszerű barázdák és bordák sora.",
+      "example": "Strandok, sivatagi buckák szél felőli lejtőin gyakran látható.",
+      "related": [
+        "homokbucka",
+        "barkan"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "homokbucka",
+      "term": "homokbucka (dűne)",
+      "aliases": [
+        "dűne",
+        "homokbucka"
+      ],
+      "sourceLabels": [
+        "homokbucka (dűne)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A szél által felhalmozott homokdomb; a szél felőli oldala lankás, a szél alatti oldala meredek. Növényzet hiányában a szél mozgatja (vándorló bucka), növényzettel megkötve nyugalomba kerül.",
+      "example": "A Szahara homoksivatagaiban mozgó buckák, a Kiskunságban és a Nyírségben a növényzet által megkötött buckák találhatók.",
+      "examplePlaces": [
+        "afrika--tajak--szahara",
+        "magyarorszag--egyeb-tajak-teruletek--kiskunsag",
+        "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+      ],
+      "related": [
+        "homokfodor",
+        "barkan",
+        "parabolabucka",
+        "parti-dune"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "deflacio",
+      "term": "szélkifúvás (defláció)",
+      "aliases": [
+        "defláció",
+        "szélkifúvás"
+      ],
+      "sourceLabels": [
+        "szélkifúvás (defláció)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A szél pusztító munkája, amelynek során a laza, száraz, finom szemcséket (port, homokot) felkapja és elszállítja. Nyomán kifúvásos mélyedések és – a nagyobb szemek visszamaradásával – kőmezők keletkeznek.",
+      "example": "A Szahara kősivatagjainak (hamada) felszínéről a szél kifújta a finom anyagot; a szélben szállított por eljuthat Európáig is.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "szelmaras",
+        "parabolabucka",
+        "talajpusztulas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szelmaras",
+      "term": "szélmarás",
+      "aliases": [
+        "korrázió"
+      ],
+      "sourceLabels": [
+        "szélmarás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A szél által szállított homokszemcsék koptató, csiszoló hatása a kőzetfelszínen. A puhább kőzetet gyorsabban pusztítja, ezért a keményebb részek kipreparálódnak.",
+      "example": "Szélmarással jönnek létre a gombasziklák, a szélbarázdák és a maradékgerincek.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "deflacio",
+        "gombaszikla",
+        "szelbarazda",
+        "maradekgerinc"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "barkan",
+      "term": "barkán",
+      "aliases": [
+        "sarló alakú bucka"
+      ],
+      "sourceLabels": [
+        "barkán"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Félhold (sarló) alakú, vándorló homokbucka, amelynek szárai a széllel egy irányban, előre mutatnak. Növényzet nélküli, egyirányú szelű, kevés homokkal borított területeken alakul ki.",
+      "example": "A Szahara és más forró sivatagok kemény aljzatán vándorolnak.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "homokbucka",
+        "parabolabucka"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "parabolabucka",
+      "term": "parabolabucka",
+      "aliases": [],
+      "sourceLabels": [
+        "parabolabucka"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Patkó alakú homokbucka, amelynek szárai a széllel szemben, hátrafelé mutatnak, mert a szárakat a növényzet megköti, a középső részt pedig a szél előre fújja. Mögötte kifúvásos mélyedés marad.",
+      "example": "A Duna–Tisza köze és a Nyírség homokvidékein jellemző forma.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+        "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+      ],
+      "related": [
+        "barkan",
+        "homokbucka",
+        "deflacio"
+      ],
+      "tags": [
+        "felszínformálás",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "deflacios-tanuhegy",
+      "term": "deflációs tanúhegy",
+      "aliases": [],
+      "sourceLabels": [
+        "deflációs tanúhegy"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Sivatagos területen a környezet lepusztulása (szélkifúvás, szélmarás, időszakos vízfolyások) után megmaradt, meredek falú, lapos tetejű magányos kiemelkedés; tetejét ellenálló kőzetréteg védi.",
+      "example": "A Szahara sziklás, fennsíkos területein gyakoriak.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "tanuhegy",
+        "deflacio",
+        "szelmaras"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gombaszikla",
+      "term": "gombaszikla (kőgomba)",
+      "aliases": [
+        "kőgomba"
+      ],
+      "sourceLabels": [
+        "gombaszikla (kőgomba)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Gomba alakú szikla, amelynek alsó része elvékonyodott, mert a szél által szállított homok a felszín közelében a legtöbb, így ott a legerősebb a szélmarás.",
+      "example": "A Szahara sziklás sivatagaiban látható.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "szelmaras"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szelbarazda",
+      "term": "szélbarázda",
+      "aliases": [],
+      "sourceLabels": [
+        "szélbarázda"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Az uralkodó szélirány mentén, a puhább kőzetbe szélmarással kivájt, hosszan elnyúló mélyedés.",
+      "example": "Sivatagokban, de lazább üledékekben a mérsékelt övben is kialakul; a szélbarázdák között maradékgerincek húzódnak.",
+      "related": [
+        "maradekgerinc",
+        "szelmaras"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "maradekgerinc",
+      "term": "maradékgerinc",
+      "aliases": [],
+      "sourceLabels": [
+        "maradékgerinc"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A szélbarázdák között megmaradó, az uralkodó széliránnyal párhuzamos, ellenállóbb kőzetből álló keskeny gerinc.",
+      "example": "A szélbarázdákkal együtt, azokkal párhuzamosan alakul ki.",
+      "related": [
+        "szelbarazda",
+        "szelmaras"
+      ],
+      "tags": [
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felszini-leoblites",
+      "term": "felszíni leöblítés",
+      "aliases": [
+        "lepelerózió",
+        "leöblítés"
+      ],
+      "sourceLabels": [
+        "felszíni leöblítés"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A lejtőn szétterülve, vékony lepelként lefolyó csapadékvíz pusztító munkája, amely a talaj vagy a laza üledék felső rétegét nagy területen, egyenletesen hordja le.",
+      "example": "Növényzettől megfosztott, lejtőirányban szántott szőlő- és szántóföldeken a heves záporok lemossák a termőréteget.",
+      "related": [
+        "vonalas-erozio",
+        "talajpusztulas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vonalas-erozio",
+      "term": "vonalas erózió",
+      "aliases": [],
+      "sourceLabels": [
+        "vonalas erózió"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A lejtőn lefolyó csapadékvíz erekbe, vonalakba összegyűlve barázdákat, vízmosásokat, majd mély árkokat vés a felszínbe.",
+      "example": "Löszös területeken a vízmosások gyorsan mélyülnek, és szakadékos tájat hozhatnak létre.",
+      "related": [
+        "felszini-leoblites",
+        "talajpusztulas",
+        "v-alaku-volgy"
+      ],
+      "tags": [
+        "felszínformálás",
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hullammorajlas",
+      "term": "hullámmorajlás",
+      "aliases": [],
+      "sourceLabels": [
+        "hullámmorajlás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A partra kifutó és visszahúzódó hullámok által ide-oda görgetett kavicsok és homokszemek koptatják egymást és a partot; eközben aprózódnak és legömbölyödnek.",
+      "example": "A kavicsos tengerpartok legömbölyített kavicsai a hullámmorajlás termékei.",
+      "related": [
+        "hullamtores",
+        "abrazio"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hullamtores",
+      "term": "hullámtörés",
+      "aliases": [],
+      "sourceLabels": [
+        "hullámtörés"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Sekély vízben a hullám alsó része a fenékhez súrlódva lelassul, a taraj előrebukik és megtörik; a hullám energiája ekkor a partot vagy a parti fenéket éri.",
+      "example": "Lapos homokos partokon a hullámok már a parttól távol megtörnek, ezért ott a part épül.",
+      "related": [
+        "hullammorajlas",
+        "abrazio",
+        "epulo-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "epulo-part",
+      "term": "épülő part",
+      "aliases": [],
+      "sourceLabels": [
+        "épülő part"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Olyan tengerpart, ahol a hullámzás és a parti áramlások hordalékot halmoznak fel, így a szárazföld a tenger felé gyarapodik. Többnyire lapos, sekély vizű partokon alakul ki; jellemző formái a turzás, a lagúna és a parti dűne.",
+      "example": "A Balti-tenger déli partján hosszú turzások és lagúnák kísérik a partot.",
+      "examplePlaces": [
+        "europa--vizrajz--balti-tenger"
+      ],
+      "related": [
+        "pusztulo-part",
+        "turzas",
+        "laguna",
+        "parti-dune"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "turzas",
+      "term": "turzás",
+      "aliases": [],
+      "sourceLabels": [
+        "turzás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A part közelében, azzal közel párhuzamosan a hullámzás és a parti áramlások által felhalmozott homok- vagy kavicsgát, amely öblöket zárhat el a nyílt tengertől.",
+      "example": "A Balti-tenger déli partján és Velence előtt a lagúnát turzások választják el a tengertől.",
+      "examplePlaces": [
+        "europa--vizrajz--balti-tenger",
+        "europa--varosok--velence"
+      ],
+      "related": [
+        "laguna",
+        "epulo-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "laguna",
+      "term": "lagúna",
+      "aliases": [
+        "haff"
+      ],
+      "sourceLabels": [
+        "lagúna"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Turzás által a nyílt tengertől részben vagy teljesen elzárt, sekély, sós vagy félsós (brakk) vizű tengerrész.",
+      "example": "Velence a Velencei-lagúna szigetein épült.",
+      "examplePlaces": [
+        "europa--varosok--velence"
+      ],
+      "related": [
+        "turzas",
+        "epulo-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "parti-dune",
+      "term": "parti dűne",
+      "aliases": [],
+      "sourceLabels": [
+        "parti dűne"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Az épülő partokon a tenger által partra vetett homokból a szél által felhalmozott homokbuckák sora.",
+      "example": "A holland tengerpart dűnesora természetes gátként védi a mélyföldet.",
+      "examplePlaces": [
+        "europa--orszagok--hollandia",
+        "europa--tajak--holland-melyfold"
+      ],
+      "related": [
+        "homokbucka",
+        "epulo-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "pusztulo-part",
+      "term": "pusztuló part",
+      "aliases": [
+        "abráziós part"
+      ],
+      "sourceLabels": [
+        "pusztuló part"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Olyan tengerpart, ahol a hullámzás pusztító munkája (abrázió) uralkodik, így a part a szárazföld felé hátrál. Többnyire meredek, sziklás part, jellemző formái az abráziós fülke, terasz, kapu és torony.",
+      "example": "A Brit-szigetek sziklás, meredek partjainak nagy része pusztuló part.",
+      "examplePlaces": [
+        "europa--tajak--brit-szigetek"
+      ],
+      "related": [
+        "epulo-part",
+        "abrazio",
+        "abrazios-fulke"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tagolt-es-tagolatlan-part",
+      "term": "tagolt és tagolatlan part",
+      "aliases": [],
+      "sourceLabels": [
+        "tagolt és tagolatlan part"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A partvonal alakja szerinti két parttípus: a tagolt partot sok öböl, félsziget és sziget szabdalja, a tagolatlan part egyenes vagy enyhén ívelt, kevés öböllel.",
+      "example": "Norvégia fjordos partja tagolt, Afrika partjainak nagy része tagolatlan.",
+      "examplePlaces": [
+        "europa--orszagok--norvegia"
+      ],
+      "related": [
+        "tagolt-part",
+        "tagolatlan-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tagolt-part",
+      "term": "tagolt part",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tagolt-es-tagolatlan-part",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Sok öböllel, félszigettel, szigettel szabdalt partvonal. Gyakran a tenger által elöntött völgyekből (pl. fjordos part) vagy elsüllyedt, tagolt domborzatból jön létre.",
+      "example": "Norvégia fjordos partja és az Adriai-tenger keleti, szigetekkel szabdalt partja tagolt.",
+      "examplePlaces": [
+        "europa--orszagok--norvegia",
+        "europa--vizrajz--adriai-tenger"
+      ],
+      "related": [
+        "tagolatlan-part",
+        "fjord"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tagolatlan-part",
+      "term": "tagolatlan part",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tagolt-es-tagolatlan-part",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Egyenes vagy enyhén ívelt, kevés öböllel és félszigettel rendelkező partvonal; hajózásra kevésbé alkalmas, kevés a természetes kikötő.",
+      "example": "Afrika partjai nagyrészt tagolatlanok.",
+      "related": [
+        "tagolt-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "abrazio",
+      "term": "abrázió",
+      "aliases": [
+        "tengerpart-pusztulás"
+      ],
+      "sourceLabels": [
+        "abrázió"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A tenger hullámzásának pusztító munkája: a hullámok ereje és az általuk mozgatott kőzetdarabok rombolják a partot, amely így hátrál.",
+      "example": "Az abrázió formálja a Brit-szigetek magas, sziklás partjait.",
+      "examplePlaces": [
+        "europa--tajak--brit-szigetek"
+      ],
+      "related": [
+        "hullammaras",
+        "abrazios-fulke",
+        "abrazios-terasz",
+        "pusztulo-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hullammaras",
+      "term": "hullámmarás",
+      "aliases": [],
+      "sourceLabels": [
+        "hullámmarás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A partfal tövét a hullámok és az általuk odacsapott kőzetdarabok koptatják, kivájják; ez az abrázió legfontosabb folyamata.",
+      "example": "A hullámmarás vájja ki a sziklás partfal tövében az abráziós fülkét.",
+      "related": [
+        "abrazio",
+        "abrazios-fulke"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "abrazios-fulke",
+      "term": "abráziós fülke",
+      "aliases": [],
+      "sourceLabels": [
+        "abráziós fülke"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A meredek partfal tövében a hullámmarás által kivájt bemélyedés. Ahogy mélyül, a felette lévő kőzet alátámasztás nélkül marad és leomlik, így a part hátrál.",
+      "example": "A sziklás tengerpartokon a fülkék beomlása miatt a partfal folyamatosan hátrál.",
+      "related": [
+        "hullammaras",
+        "abrazios-terasz",
+        "abrazios-kapu",
+        "omlas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "abrazios-terasz",
+      "term": "abráziós terasz",
+      "aliases": [
+        "abráziós síkság"
+      ],
+      "sourceLabels": [
+        "abráziós terasz"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A hátráló partfal előtt visszamaradó, a tenger felé enyhén lejtő, lecsiszolt kőzetfelszín. Ha a part kiemelkedik vagy a tengerszint csökken, lépcsőként a szárazföldre kerül.",
+      "example": "Kiemelkedő partokon több egymás feletti abráziós terasz jelzi a part emelkedését.",
+      "related": [
+        "abrazios-fulke",
+        "abrazio",
+        "folyoterasz"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "abrazios-kapu",
+      "term": "abráziós kapu",
+      "aliases": [
+        "tengeri kapu"
+      ],
+      "sourceLabels": [
+        "abráziós kapu"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A tengerbe nyúló sziklafokon a két oldalról kivájt abráziós fülkék összenyílásával kialakuló boltíves áttörés. Teteje később beomlik, és abráziós torony marad vissza.",
+      "example": "Sziklás, pusztuló partokon (pl. a Brit-szigeteken) gyakori forma.",
+      "examplePlaces": [
+        "europa--tajak--brit-szigetek"
+      ],
+      "related": [
+        "abrazios-fulke",
+        "abrazios-torony"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "abrazios-torony",
+      "term": "abráziós torony",
+      "aliases": [
+        "tengeri torony"
+      ],
+      "sourceLabels": [
+        "abráziós torony"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A hátráló partfaltól elszakadt, a tengerből önállóan kiemelkedő sziklaoszlop; gyakran az abráziós kapu tetejének beomlása után marad vissza.",
+      "example": "A pusztuló sziklás partok előtt (pl. a Brit-szigeteken) álló sziklaoszlopok.",
+      "examplePlaces": [
+        "europa--tajak--brit-szigetek"
+      ],
+      "related": [
+        "abrazios-kapu",
+        "pusztulo-part"
+      ],
+      "tags": [
+        "felszínformálás",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "folyok-munkavegzo-kepessege",
+      "term": "a folyók munkavégző képessége",
+      "aliases": [
+        "munkavégző képesség"
+      ],
+      "sourceLabels": [
+        "a folyók munkavégző képessége"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A folyó energiája, amellyel medrét mélyíti, oldalirányban pusztít és hordalékot szállít. A vízhozamtól és a víz sebességétől függ, a sebesség pedig elsősorban a folyó esésétől. A munkavégző képesség és a szállítandó hordalék viszonya szabja meg a szakaszjelleget.",
+      "example": "Árvízkor a Tisza vízhozama és sebessége megnő, ezért sokkal több hordalékot szállít, mint kisvízkor.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "szakaszjelleg",
+        "hordalek",
+        "sodorvonal"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sodorvonal",
+      "term": "sodorvonal",
+      "aliases": [],
+      "sourceLabels": [
+        "sodorvonal"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A folyóvíz legnagyobb sebességű pontjait összekötő vonal. Egyenes mederszakaszon a meder közepe felett halad, kanyarulatban a külső (homorú) part felé tolódik, ezért ott a folyó alámos és pusztít, a belső (domború) parton pedig hordalékot rak le.",
+      "example": "A kanyargó Tisza a külső íven mélyíti, a belső íven zátonyokkal tölti fel medrét.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "folyok-munkavegzo-kepessege",
+        "oldalazo-szakaszjelleg",
+        "zatony"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szakaszjelleg",
+      "term": "bevágódó, oldalazó és feltöltő szakaszjelleg",
+      "aliases": [
+        "szakaszjelleg"
+      ],
+      "sourceLabels": [
+        "bevágódó",
+        "oldalazó és feltöltő szakaszjelleg"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A folyó egy szakaszának jellege attól függ, hogy munkavégző képessége nagyobb, nagyjából egyenlő vagy kisebb-e, mint a szállítandó hordalék mennyisége. Ennek megfelelően bevágódó, oldalazó vagy feltöltő szakaszról beszélünk; a szakaszjelleg térben (domborzat) és időben (vízállás, kéregmozgás, éghajlatváltozás) is változhat.",
+      "example": "A Duna a Dunakanyarban bevágódik, az Alföldön oldalaz és feltölt.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna",
+        "magyarorszag--egyeb-tajak-teruletek--dunakanyar"
+      ],
+      "related": [
+        "bevagodo-szakaszjelleg",
+        "oldalazo-szakaszjelleg",
+        "feltolto-szakaszjelleg",
+        "folyok-munkavegzo-kepessege"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bevagodo-szakaszjelleg",
+      "term": "bevágódó szakaszjelleg",
+      "aliases": [
+        "bevágódó szakasz"
+      ],
+      "sourceLabels": [],
+      "parent": "szakaszjelleg",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Nagy esésű szakasz, ahol a folyó munkavégző képessége jóval meghaladja a szállítandó hordalék mennyiségét, ezért medrét mélyíti; jellemző formája a V alakú völgy, a szurdok és a kanyon.",
+      "example": "A hegyvidéki patakok és a hegységen áttörő folyók (pl. a Duna a Vaskapuban) bevágódnak.",
+      "examplePlaces": [
+        "europa--tajak--vaskapu"
+      ],
+      "related": [
+        "v-alaku-volgy",
+        "szurdok",
+        "szoros"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oldalazo-szakaszjelleg",
+      "term": "oldalazó szakaszjelleg",
+      "aliases": [
+        "oldalazó szakasz"
+      ],
+      "sourceLabels": [],
+      "parent": "szakaszjelleg",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Közepes esésű szakasz, ahol a munkavégző képesség és a hordalék mennyisége nagyjából egyensúlyban van; a folyó kanyarogva oldalirányban pusztít és épít, völgyét szélesíti, kanyarulatai (meanderei) vándorolnak, holtágak keletkeznek.",
+      "example": "A szabályozás előtti Tisza az Alföldön erősen kanyargó, oldalazó folyó volt.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "sodorvonal",
+        "holtag",
+        "feltolto-szakaszjelleg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "feltolto-szakaszjelleg",
+      "term": "feltöltő szakaszjelleg",
+      "aliases": [
+        "feltöltő szakasz"
+      ],
+      "sourceLabels": [],
+      "parent": "szakaszjelleg",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Kis esésű szakasz, ahol a folyó munkavégző képessége kisebb, mint a szállítandó hordalék mennyisége, ezért hordalékát lerakja: medrét feltölti, zátonyokat, szigeteket, hordalékkúpot, torkolatában deltát épít.",
+      "example": "A Duna a Szigetközben feltöltő szakaszjellegű, ágakra bomlik és szigeteket épít.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--szigetkoz"
+      ],
+      "related": [
+        "zatony",
+        "sziget",
+        "hordalekkup",
+        "deltatorkolat"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hordalek",
+      "term": "hordalék",
+      "aliases": [
+        "görgetett hordalék",
+        "lebegtetett hordalék"
+      ],
+      "sourceLabels": [
+        "hordalék"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A folyóvíz által szállított szilárd kőzetanyag (kavics, homok, iszap, agyag). A durvább szemeket a víz a meder alján görgeti, a finomakat lebegteti; emellett oldott anyagokat is szállít.",
+      "example": "A Tisza vize árvízkor a sok lebegtetett hordaléktól zavaros.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "szallitas",
+        "hordalekkup",
+        "zatony",
+        "folyok-munkavegzo-kepessege"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "holtag",
+      "term": "holtág",
+      "aliases": [
+        "morotva"
+      ],
+      "sourceLabels": [
+        "holtág"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A folyó főmedréből lefűződött, állóvízzé vált egykori mederszakasz. Természetes úton a kanyarulat nyakának átszakadásával, mesterségesen a kanyarulatok átvágásával (folyószabályozás) jön létre.",
+      "example": "A Tisza szabályozásakor átvágott kanyarulatokból sok holtág keletkezett.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "oldalazo-szakaszjelleg",
+        "sodorvonal",
+        "ontestalaj"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hordalekkup",
+      "term": "hordalékkúp",
+      "aliases": [],
+      "sourceLabels": [
+        "hordalékkúp"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A hegységből síkságra kilépő folyó esése és sebessége hirtelen lecsökken, ezért hordalékát legyezőszerűen szétterítve rakja le. A durvább anyag a hegylábnál, a finomabb távolabb rakódik le.",
+      "example": "A Duna–Tisza közi hátság az Ős-Duna, a Nyírség a Kárpátokból érkező folyók hordalékkúpján alakult ki.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+        "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+      ],
+      "related": [
+        "feltolto-szakaszjelleg",
+        "hatsag",
+        "felhalmozas"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zatony",
+      "term": "zátony",
+      "aliases": [
+        "folyami zátony"
+      ],
+      "sourceLabels": [
+        "zátony"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A mederben felhalmozódott hordalékhalom, amely kisvízkor kiemelkedhet a vízből. A kanyarulatok belső ívén és a lassú folyású, feltöltő szakaszokon gyakori; akadályozza a hajózást.",
+      "example": "A Duna kisvízkor kibukkanó zátonyai megnehezítik a hajózást.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "sziget",
+        "feltolto-szakaszjelleg",
+        "sodorvonal"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sziget",
+      "term": "sziget",
+      "aliases": [
+        "folyami sziget"
+      ],
+      "sourceLabels": [
+        "sziget"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Minden oldalról víz által körülvett, a vízszintből tartósan kiemelkedő szárazulat. A folyókban a feltöltő szakaszokon a zátonyokból alakul ki, amikor a növényzet megköti és tovább magasítja őket.",
+      "example": "A Szigetköz, a Szentendrei-sziget és a Csepel-sziget a Duna hordalékából épült folyami szigetek.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--szigetkoz",
+        "magyarorszag--egyeb-tajak-teruletek--szentendrei-sziget",
+        "magyarorszag--egyeb-tajak-teruletek--csepel-sziget"
+      ],
+      "related": [
+        "zatony",
+        "feltolto-szakaszjelleg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "v-alaku-volgy",
+      "term": "V alakú völgy",
+      "aliases": [
+        "eróziós völgy"
+      ],
+      "sourceLabels": [
+        "V alakú völgy"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A bevágódó folyó által kialakított, meredek oldalú, keskeny talpú völgy, keresztmetszete V betűre emlékeztet. Akkor jön létre, ha a mélyítés gyorsabb, mint a völgyoldalak lepusztulása.",
+      "example": "A Mátra és a Bükk patakvölgyei V alakúak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--matra",
+        "magyarorszag--egyeb-tajak-teruletek--bukk"
+      ],
+      "related": [
+        "bevagodo-szakaszjelleg",
+        "u-alaku-volgy",
+        "volgy"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "folyoterasz",
+      "term": "folyóterasz",
+      "aliases": [
+        "terasz"
+      ],
+      "sourceLabels": [
+        "folyóterasz"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A folyóvölgy oldalán lépcsőzetesen elhelyezkedő, sík felszínű szint, amely egy korábbi, magasabban fekvő völgytalp (ártér) maradványa. A folyó újbóli bevágódásakor jön létre, amit a terület kiemelkedése, az erózióbázis süllyedése vagy éghajlatváltozás okozhat.",
+      "example": "A Duna völgyében (pl. a Dunakanyarban és Budapesten) több teraszszint is kimutatható.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--dunakanyar",
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "szakaszjelleg",
+        "bevagodo-szakaszjelleg",
+        "abrazios-terasz"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szurdok",
+      "term": "szurdok",
+      "aliases": [
+        "szurdokvölgy"
+      ],
+      "sourceLabels": [
+        "szurdok"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Nagyon keskeny, közel függőleges falú, mély völgy, amely gyors bevágódás és ellenálló kőzet (gyakran mészkő) esetén alakul ki, ha a völgyoldalak alig pusztulnak.",
+      "example": "Mészkőhegységekben (pl. a Bükkben) a patakok helyenként szurdokvölgyekben folynak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--bukk"
+      ],
+      "related": [
+        "kanyon",
+        "v-alaku-volgy",
+        "bevagodo-szakaszjelleg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kanyon",
+      "term": "kanyon",
+      "aliases": [
+        "kanyonvölgy"
+      ],
+      "sourceLabels": [
+        "kanyon"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Száraz éghajlatú területen, vízszintes rétegzésű kőzetekbe mélyen bevágódott, meredek, lépcsőzetes falú völgy. A folyó vize csapadékosabb vidékről érkezik, a csapadékszegény völgyoldalak alig pusztulnak, a lépcsőket az eltérő keménységű rétegek okozzák.",
+      "example": "A Colorado folyó Grand Canyonja a legismertebb kanyon.",
+      "examplePlaces": [
+        "amerika--vizrajz--colorado"
+      ],
+      "related": [
+        "szurdok",
+        "bevagodo-szakaszjelleg",
+        "volgy"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "deltatorkolat",
+      "term": "deltatorkolat",
+      "aliases": [
+        "delta"
+      ],
+      "sourceLabels": [
+        "deltatorkolat"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Olyan folyótorkolat, ahol a folyó lerakott hordaléka miatt ágakra bomlik, és a szárazföld a tenger felé épül. Sok hordalékot szállító folyók torkolatában jön létre, ahol az árapály és a parti áramlások gyengék.",
+      "example": "A Duna-delta, a Nílus és a Mississippi torkolata deltatorkolat.",
+      "examplePlaces": [
+        "europa--tajak--duna-delta",
+        "afrika--vizrajz--nilus",
+        "amerika--vizrajz--mississippi"
+      ],
+      "related": [
+        "tolcsertorkolat",
+        "feltolto-szakaszjelleg"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tolcsertorkolat",
+      "term": "tölcsértorkolat",
+      "aliases": [
+        "ösztuárium"
+      ],
+      "sourceLabels": [
+        "tölcsértorkolat"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Tölcsérszerűen kiszélesedő folyótorkolat, ahol az erős árapály és a tengeráramlások elszállítják a folyó hordalékát, így delta nem épülhet. Jó adottság a tengeri kikötők számára.",
+      "example": "A Temze és az Elba tölcsértorkolattal ömlik az Északi-tengerbe.",
+      "examplePlaces": [
+        "europa--vizrajz--temze",
+        "europa--vizrajz--elba"
+      ],
+      "related": [
+        "deltatorkolat"
+      ],
+      "tags": [
+        "felszínformálás",
+        "felszíni-vizek",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hohatar",
+      "term": "hóhatár",
+      "aliases": [],
+      "sourceLabels": [
+        "hóhatár"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Az a magasság, amely felett a lehullott hó egy része a nyár folyamán sem olvad el, mert az évente hulló hó mennyisége meghaladja az olvadóét. Magassága a sarkok felé csökken, de a térítők száraz vidékein magasabb, mint az Egyenlítőnél; függ a csapadéktól és a lejtők kitettségétől is (a napos lejtőn magasabban húzódik).",
+      "example": "A sarkvidékeken a hóhatár a tengerszint közelében van, az Alpokban és az Andokban csak magasan húzódik.",
+      "examplePlaces": [
+        "europa--tajak--alpok",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "csontho",
+        "gleccser",
+        "magashegyseg"
+      ],
+      "tags": [
+        "jég-munkája",
+        "éghajlat",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "csontho",
+      "term": "csonthó (firn)",
+      "aliases": [
+        "firn",
+        "csonthó"
+      ],
+      "sourceLabels": [
+        "csonthó (firn)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A hóhatár felett felhalmozódó hó, amely ismételt olvadás és visszafagyás, valamint a ráhulló hó nyomása miatt szemcsés, tömör jéggé alakul. A gleccserjég kialakulásának átmeneti állapota.",
+      "example": "Az Alpok gleccsereinek gyűjtőterületét (firnmedencéjét) csonthó tölti ki.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "hohatar",
+        "gleccserjeg",
+        "karfulke"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gleccserjeg",
+      "term": "gleccserjég",
+      "aliases": [],
+      "sourceLabels": [
+        "gleccserjég"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A csonthó további tömörödésével, a levegő kipréselődésével keletkező tömör, kékes színű jég, amely saját súlya alatt képlékenyen mozog.",
+      "example": "Az alpesi gleccserek nyelvét gleccserjég alkotja.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "csontho",
+        "gleccser",
+        "jegtakaro"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gleccser",
+      "term": "gleccser",
+      "aliases": [
+        "jégár",
+        "völgyi gleccser"
+      ],
+      "sourceLabels": [
+        "gleccser"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A hóhatár feletti gyűjtőterületről a hóhatár alá a gravitáció hatására lassan lefelé mozgó jégtömeg (jégár). Mozgása közben kivájja völgyét (U alakú völgy), kőzettörmeléket szállít és rak le (moréna). Visszahúzódása vagy előrenyomulása az éghajlatváltozás érzékeny jelzője.",
+      "example": "Az Alpok gleccserei az utóbbi évtizedekben erősen visszahúzódtak.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "gleccserjeg",
+        "u-alaku-volgy",
+        "morena",
+        "jegtakaro",
+        "hohatar"
+      ],
+      "tags": [
+        "jég-munkája",
+        "éghajlat",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "jegtakaro",
+      "term": "jégtakaró",
+      "aliases": [
+        "belföldi jég",
+        "jégpajzs"
+      ],
+      "sourceLabels": [
+        "jégtakaró"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Nagy kiterjedésű, vastag szárazföldi jégtömeg, amely a domborzatot szinte teljesen beborítja, és középpontjából a peremek felé mozog. A jégkorszakban Észak-Európa és Észak-Amerika nagy részét is jégtakaró fedte.",
+      "example": "Ma az Antarktiszt és Grönlandot borítja jégtakaró.",
+      "examplePlaces": [
+        "fold--egyeb--deli-sarkvidek-antarktisz",
+        "amerika--tajak--gronland"
+      ],
+      "related": [
+        "gleccser",
+        "tohatsag",
+        "morenasiksag",
+        "vandorko"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "morena",
+      "term": "moréna",
+      "aliases": [],
+      "sourceLabels": [
+        "moréna"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A gleccser vagy jégtakaró által szállított és lerakott, osztályozatlan (különböző méretű szemekből álló) kőzettörmelék, illetve az ebből felépülő felszínforma.",
+      "example": "Az Alpok gleccsereinek két oldalán és homlokánál morénák halmozódnak fel.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "fenek-es-vegmorena",
+        "oldal-es-kozepmorena",
+        "morenasanc"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fenek-es-vegmorena",
+      "term": "fenék- és végmoréna",
+      "aliases": [],
+      "sourceLabels": [
+        "fenék- és végmoréna"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A moréna két típusa elhelyezkedése szerint: a fenékmoréna a jég alján szállított és lerakott törmeléktakaró, a végmoréna a jég homlokánál felhalmozott sánc.",
+      "example": "Az egykori skandináv jégtakaró fenék- és végmorénái borítják a Lengyel-alföld északi részét.",
+      "examplePlaces": [
+        "europa--tajak--lengyel-alfold"
+      ],
+      "related": [
+        "fenekmorena",
+        "vegmorena",
+        "morena"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fenekmorena",
+      "term": "fenékmoréna",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "fenek-es-vegmorena",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A gleccser vagy jégtakaró alján szállított törmelék, amely a jég elolvadása után enyhén hullámos takaróként borítja a felszínt.",
+      "example": "A jégtakarók fenékmorénájából épülnek fel a morénasíkságok.",
+      "related": [
+        "vegmorena",
+        "morenasiksag"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vegmorena",
+      "term": "végmoréna",
+      "aliases": [
+        "homlokmoréna"
+      ],
+      "sourceLabels": [],
+      "parent": "fenek-es-vegmorena",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A jég homlokánál (végénél) felhalmozott, ív alakú törmeléksánc; ott alakul ki, ahol a jég hosszabb ideig egy helyben olvadt.",
+      "example": "A jégtakarók végmorénasáncai alkotják a tóhátságokat; az alpesi végmorénák mögött tavak duzzadhatnak fel.",
+      "examplePlaces": [
+        "europa--tajak--lengyel-tohatsag"
+      ],
+      "related": [
+        "fenekmorena",
+        "morenasanc",
+        "tohatsag"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "morenasanc",
+      "term": "morénasánc",
+      "aliases": [],
+      "sourceLabels": [
+        "morénasánc"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A moréna anyagából felhalmozott, hosszan elnyúló, sáncszerű domb; legtöbbször a jég homlokánál (végmorénasánc) vagy a gleccser oldalán alakul ki.",
+      "example": "A Lengyel-tóhátság végmorénasáncai között tavak sokasága található.",
+      "examplePlaces": [
+        "europa--tajak--lengyel-tohatsag"
+      ],
+      "related": [
+        "vegmorena",
+        "tohatsag",
+        "morena"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gleccserpatak",
+      "term": "gleccserpatak",
+      "aliases": [],
+      "sourceLabels": [
+        "gleccserpatak"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A gleccser olvadékvizéből a jég alól vagy homlokából kilépő patak; vize hideg, a finom kőzetlisztes hordaléktól tejszerűen zavaros, vízjárása nyáron a legnagyobb.",
+      "example": "Az Alpok gleccserpatakjai táplálják a Rajnát és a Rhône-t, ezért ezek nyáron is bővizűek.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "gleccser",
+        "osfolyamvolgy"
+      ],
+      "tags": [
+        "jég-munkája",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tohatsag",
+      "term": "tóhátság",
+      "aliases": [],
+      "sourceLabels": [
+        "tóhátság"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Az egykori jégtakaró végmorénasáncaiból álló dombvidék, ahol a sáncok közötti mélyedésekben és a jég vájta medencékben sok tó található.",
+      "example": "A Lengyel-tóhátság a jégkorszaki skandináv jégtakaró peremén alakult ki.",
+      "examplePlaces": [
+        "europa--tajak--lengyel-tohatsag"
+      ],
+      "related": [
+        "morenasanc",
+        "vegmorena",
+        "jegtakaro"
+      ],
+      "tags": [
+        "jég-munkája",
+        "Európa",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fjord",
+      "term": "fjord",
+      "aliases": [],
+      "sourceLabels": [
+        "fjord"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Tenger által elöntött, mély, meredek falú, keskeny gleccservölgy (U alakú völgy), amely mélyen benyúlik a szárazföldbe. A jégkorszaki gleccserek vájták ki, majd a jég elolvadása után a tenger öntötte el.",
+      "example": "Norvégia partjait fjordok sora tagolja.",
+      "examplePlaces": [
+        "europa--orszagok--norvegia",
+        "europa--tajak--skandinav-felsziget"
+      ],
+      "related": [
+        "u-alaku-volgy",
+        "tagolt-part"
+      ],
+      "tags": [
+        "jég-munkája",
+        "vízburok",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "permafroszt",
+      "term": "örök fagy (permafroszt)",
+      "aliases": [
+        "permafroszt",
+        "örökfagy",
+        "fagyott talaj"
+      ],
+      "sourceLabels": [
+        "„örök fagy” (permafroszt)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Hosszú időn át (évek, akár évezredek óta) folyamatosan fagyott talaj és kőzet. Nyáron csak a legfelső rétege olvad fel, ezért a víz nem tud beszivárogni, a felszín elmocsarasodik; az olvadás épületeket, utakat, vezetékeket rongálhat.",
+      "example": "Szibéria és Alaszka nagy részén permafroszt található.",
+      "examplePlaces": [
+        "azsia--tajak--sziberia",
+        "amerika--tajak--alaszka"
+      ],
+      "related": [
+        "tundratalaj",
+        "folyas"
+      ],
+      "tags": [
+        "jég-munkája",
+        "talaj",
+        "éghajlat",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lavina",
+      "term": "lavina",
+      "aliases": [
+        "hógörgeteg"
+      ],
+      "sourceLabels": [
+        "lavina"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Meredek hegyoldalon nagy tömegű hó (gyakran kőzettörmelékkel) hirtelen, nagy sebességű lezúdulása. Kialakulását a meredek lejtő, a friss hó, a gyors felmelegedés és az emberi zavarás segíti.",
+      "example": "Az Alpokban a településeket és utakat lavinafogó gátak, erdősávok védik.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "tomegmozgasok",
+        "magashegyseg"
+      ],
+      "tags": [
+        "jég-munkája",
+        "felszínformálás",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "u-alaku-volgy",
+      "term": "U alakú völgy (teknővölgy)",
+      "aliases": [
+        "teknővölgy",
+        "U alakú völgy",
+        "gleccservölgy"
+      ],
+      "sourceLabels": [
+        "U alakú völgy (teknővölgy)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A gleccser által kivájt, széles talpú, meredek oldalú völgy, keresztmetszete U betűre emlékeztet. Gyakran egykori V alakú folyóvölgyből alakul ki.",
+      "example": "Az Alpok és a Magas-Tátra völgyei U alakúak; a tenger által elöntött U-völgyek a fjordok.",
+      "examplePlaces": [
+        "europa--tajak--alpok",
+        "europa--tajak--magas-tatra"
+      ],
+      "related": [
+        "v-alaku-volgy",
+        "gleccser",
+        "fjord",
+        "karfulke"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "karfulke",
+      "term": "kárfülke",
+      "aliases": [
+        "kár",
+        "katlan"
+      ],
+      "sourceLabels": [
+        "kárfülke"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A hegyoldalban a csonthó és a kis gleccserek által kivájt, karosszék alakú, meredek falú mélyedés. A jég elolvadása után gyakran tó (tengerszem) tölti ki.",
+      "example": "A Magas-Tátra tengerszemei kárfülkékben fekszenek.",
+      "examplePlaces": [
+        "europa--tajak--magas-tatra"
+      ],
+      "related": [
+        "csontho",
+        "u-alaku-volgy",
+        "gleccser"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vasott-szikla",
+      "term": "vásott szikla",
+      "aliases": [
+        "báránykő",
+        "jégcsiszolta szikla"
+      ],
+      "sourceLabels": [
+        "vásott szikla"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A mozgó jég által lecsiszolt, lekerekített sziklahát; a jég felől érkező oldala lankás és csiszolt, a túloldala meredekebb, töredezettebb. Felszínén gyakran a jégbe fagyott kövek karcolásai látszanak.",
+      "example": "A Skandináv-félsziget és a Finn-tóvidék jégtakaró formálta tájain gyakori.",
+      "examplePlaces": [
+        "europa--tajak--skandinav-felsziget",
+        "europa--tajak--finn-tovidek"
+      ],
+      "related": [
+        "jegtakaro",
+        "gleccser"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oldal-es-kozepmorena",
+      "term": "oldal- és középmoréna",
+      "aliases": [],
+      "sourceLabels": [
+        "oldal- és középmoréna"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A gleccserek felszínén szállított moréna két típusa: az oldalmoréna a gleccser szélein, a középmoréna két gleccser összefolyása után a jég közepén húzódik.",
+      "example": "Az alpesi völgyi gleccsereken jól látható sötét törmeléksávok.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "oldalmorena",
+        "kozepmorena",
+        "morena"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oldalmorena",
+      "term": "oldalmoréna",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "oldal-es-kozepmorena",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A gleccser két szélén, a völgyoldalakról lehulló és a jég által szállított törmelékből álló sáv; a jég elolvadása után sáncként marad vissza a völgyoldalon.",
+      "example": "A visszahúzódó alpesi gleccserek régi oldalmorénái jelzik a jég egykori vastagságát.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "kozepmorena",
+        "morenasanc"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozepmorena",
+      "term": "középmoréna",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "oldal-es-kozepmorena",
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Két gleccser összefolyásakor a belső oldalmorénák egyesülésével keletkező, a jég közepén húzódó törmeléksáv.",
+      "example": "Az összefolyó alpesi gleccsereken a jég közepén futó sötét csík.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "oldalmorena"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "morenasiksag",
+      "term": "morénasíkság",
+      "aliases": [],
+      "sourceLabels": [
+        "morénasíkság"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A jégtakaró fenékmorénájából felépülő, enyhén hullámos, sok kis tóval és mocsárral tarkított síkság.",
+      "example": "A Lengyel-alföld és a Kelet-európai-síkság északi része az egykori skandináv jégtakaró morénasíksága.",
+      "examplePlaces": [
+        "europa--tajak--lengyel-alfold"
+      ],
+      "related": [
+        "fenekmorena",
+        "jegtakaro",
+        "osfolyamvolgy"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "osfolyamvolgy",
+      "term": "ősfolyamvölgy",
+      "aliases": [],
+      "sourceLabels": [
+        "ősfolyamvölgy"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A jégtakaró pereme előtt, a végmorénákkal nagyjából párhuzamosan húzódó széles, lapos völgy, amelyet az egykori olvadékvizek vájtak ki. Ma kisebb folyók, csatornák követik.",
+      "example": "Az Észak-német- és a Lengyel-alföldön kelet–nyugati irányú ősfolyamvölgyek húzódnak.",
+      "examplePlaces": [
+        "europa--tajak--lengyel-alfold"
+      ],
+      "related": [
+        "morenasiksag",
+        "vegmorena",
+        "gleccserpatak"
+      ],
+      "tags": [
+        "jég-munkája",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vandorko",
+      "term": "vándorkő",
+      "aliases": [
+        "vándorkőtömb",
+        "eratikus kőtömb"
+      ],
+      "sourceLabels": [
+        "vándorkő"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "A jég által eredeti helyétől nagy távolságra szállított és lerakott kőtömb, amelynek anyaga eltér a környezet kőzeteitől; a jég egykori kiterjedését bizonyítja.",
+      "example": "Az Észak-német- és a Lengyel-alföldön skandináv gránittömbök fekszenek.",
+      "examplePlaces": [
+        "europa--tajak--lengyel-alfold"
+      ],
+      "related": [
+        "jegtakaro",
+        "morena"
+      ],
+      "tags": [
+        "jég-munkája",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizfelnyelo",
+      "term": "víznyelő",
+      "aliases": [
+        "nyelő",
+        "ponor"
+      ],
+      "sourceLabels": [
+        "víznyelő"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A karsztos felszínen az a nyílás, ahol a felszíni víz (csapadékvíz, patak) a mészkő járataiba, a mélybe jut. Gyakran a dolinák alján, a vízzáró és a karsztos kőzet határán található.",
+      "example": "Az Aggteleki-karszt víznyelőin keresztül jut a víz a Baradla-barlang járataiba.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt",
+        "magyarorszag--egyeb-tajak-teruletek--baradla-barlang"
+      ],
+      "related": [
+        "dolina",
+        "karsztbarlang",
+        "zsomboly"
+      ],
+      "tags": [
+        "karszt",
+        "felszín-alatti-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "dolina",
+      "term": "dolina (töbör)",
+      "aliases": [
+        "töbör",
+        "dolina"
+      ],
+      "sourceLabels": [
+        "dolina (töbör)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "Karsztos felszínen kialakult tál vagy tölcsér alakú zárt mélyedés. Keletkezhet a mészkő felszíni oldódásával (oldásos dolina) vagy egy barlang mennyezetének beszakadásával (beszakadásos dolina).",
+      "example": "Az Aggteleki-karszt és a Bükk-fennsík felszínét sok dolina tarkítja.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt",
+        "magyarorszag--egyeb-tajak-teruletek--bukk-fennsik"
+      ],
+      "related": [
+        "vizfelnyelo",
+        "polje",
+        "karrmezo"
+      ],
+      "tags": [
+        "karszt",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "karrmezo",
+      "term": "karrmező",
+      "aliases": [
+        "ördögszántás"
+      ],
+      "sourceLabels": [
+        "karrmező"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A csupasz (talajjal nem fedett) mészkőfelszínen a lefolyó csapadékvíz oldó hatására kialakult barázdák, élek, rések, lyukak összessége.",
+      "example": "A Dinári-hegység csupasz mészkőfelszínein nagy kiterjedésű karrmezők alakultak ki.",
+      "examplePlaces": [
+        "europa--tajak--dinari-hegyseg"
+      ],
+      "related": [
+        "dolina",
+        "polje"
+      ],
+      "tags": [
+        "karszt",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "polje",
+      "term": "polje",
+      "aliases": [
+        "karsztmedence"
+      ],
+      "sourceLabels": [
+        "polje"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Karsztvidéken kialakult nagy kiterjedésű, lapos aljú, meredek peremű zárt medence, amely tektonikus előzmények és az oldódás együttes hatására jön létre. Alját termékeny üledék borítja, időszakosan víz is elöntheti.",
+      "example": "A Dinári-hegység poljéi a karsztvidék fontos mezőgazdasági területei.",
+      "examplePlaces": [
+        "europa--tajak--dinari-hegyseg"
+      ],
+      "related": [
+        "dolina",
+        "karrmezo"
+      ],
+      "tags": [
+        "karszt",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "karsztbarlang",
+      "term": "karsztbarlang",
+      "aliases": [
+        "cseppkőbarlang"
+      ],
+      "sourceLabels": [
+        "karsztbarlang"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A mészkőben (dolomitban) a beszivárgó szén-dioxidos víz oldó, valamint a barlangi patak koptató munkája nyomán kialakult üreg- és járatrendszer. A mészkő oldódása: CaCO₃ + H₂O + CO₂ ⇌ Ca(HCO₃)₂.",
+      "example": "A Baradla-barlang hazánk egyik legismertebb cseppkőbarlangja az Aggteleki-karsztban.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--baradla-barlang",
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt"
+      ],
+      "related": [
+        "cseppko",
+        "barlangi-patak",
+        "vizfelnyelo",
+        "karsztforras"
+      ],
+      "tags": [
+        "karszt",
+        "felszín-alatti-vizek",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "cseppko",
+      "term": "cseppkő",
+      "aliases": [
+        "függőcseppkő",
+        "állócseppkő",
+        "cseppkőoszlop"
+      ],
+      "sourceLabels": [
+        "cseppkő"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A barlang mennyezetéről csepegő, oldott mészben gazdag vízből – a szén-dioxid eltávozása miatt – kiváló mészkő (kalcit) képződménye. Formái a mennyezetről lelógó függőcseppkő, a talajon növő állócseppkő és a kettő összenövéséből létrejövő cseppkőoszlop.",
+      "example": "A Baradla-barlang járatait gazdag cseppkődíszítés ékesíti.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--baradla-barlang"
+      ],
+      "related": [
+        "karsztbarlang",
+        "forrasmeszko"
+      ],
+      "tags": [
+        "karszt",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "barlangi-patak",
+      "term": "barlangi patak",
+      "aliases": [],
+      "sourceLabels": [
+        "barlangi patak"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A víznyelőkön bejutó vízből táplálkozó, a barlang járataiban folyó patak, amely oldó munkájával és hordalékával tágítja a járatokat; vize a karsztforrásokban lép a felszínre.",
+      "example": "A Baradla-barlang járatait barlangi patak formálta.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--baradla-barlang"
+      ],
+      "related": [
+        "karsztbarlang",
+        "vizfelnyelo",
+        "karsztforras"
+      ],
+      "tags": [
+        "karszt",
+        "felszín-alatti-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "karsztforras",
+      "term": "karsztforrás",
+      "aliases": [],
+      "sourceLabels": [
+        "karsztforrás"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "kozep",
+      "definition": "A karsztvíz felszínre lépésének helye, többnyire ott, ahol a karsztos kőzet vízzáró kőzettel érintkezik. Vízhozama a csapadéktól függően erősen ingadozik, vize könnyen szennyeződik.",
+      "example": "Az Aggteleki-karszt peremén karsztforrások fakadnak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt"
+      ],
+      "related": [
+        "barlangi-patak",
+        "karsztbarlang",
+        "forrasmeszko"
+      ],
+      "tags": [
+        "karszt",
+        "felszín-alatti-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zsomboly",
+      "term": "zsomboly",
+      "aliases": [
+        "aknabarlang"
+      ],
+      "sourceLabels": [
+        "zsomboly"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Függőleges vagy közel függőleges, akna jellegű barlang, amely a mészkő repedései mentén, a lefelé szivárgó víz oldó hatására alakult ki.",
+      "example": "A Bükk-fennsík és az Aggteleki-karszt felszínéről több zsomboly vezet a mélybe.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--bukk-fennsik",
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt"
+      ],
+      "related": [
+        "vizfelnyelo",
+        "karsztbarlang"
+      ],
+      "tags": [
+        "karszt",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "forrasmeszko",
+      "term": "forrásmészkő (édesvízi mészkő)",
+      "aliases": [
+        "édesvízi mészkő",
+        "mésztufa",
+        "travertínó"
+      ],
+      "sourceLabels": [
+        "forrásmészkő (édesvízi mészkő)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.2. A külső erők felszínformáló tevékenysége",
+      "level": "emelt",
+      "definition": "Karszt- és hévforrások vizéből a szén-dioxid távozása miatt kiváló, gyakran likacsos szerkezetű mészkő. Ugyanaz a folyamat hozza létre, mint a cseppkövet.",
+      "example": "A Gerecse (Süttő környéke) édesvízi mészkövét díszítőkőként bányásszák; a budai Várhegy tetejét is forrásmészkő borítja.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--gerecse"
+      ],
+      "related": [
+        "cseppko",
+        "karsztforras"
+      ],
+      "tags": [
+        "karszt",
+        "kőzetek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talaj",
+      "term": "talaj",
+      "aliases": [],
+      "sourceLabels": [
+        "talaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A földfelszín legfelső, laza, termőképességgel rendelkező rétege, amely a kőzetburok, a légkör, a vízburok és az élővilág kölcsönhatásában jön létre. Kialakulását az alapkőzet, az éghajlat, az élővilág, a domborzat, a víz, az idő és az ember befolyásolja.",
+      "example": "Ugyanazon a löszön a füves pusztán mezőségi talaj, az erdő alatt barna erdőtalaj képződik.",
+      "related": [
+        "anyakozet",
+        "humusz",
+        "termokepesseg",
+        "zonalis-es-azonalis-talaj",
+        "talajszintek"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "anyakozet",
+      "term": "anyakőzet (alapkőzet)",
+      "aliases": [
+        "alapkőzet",
+        "anyakőzet"
+      ],
+      "sourceLabels": [
+        "anyakőzet (alapkőzet)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "Az a kőzet, amelynek aprózódásából és mállásából a talaj ásványi része képződik; meghatározza a talaj szemcseösszetételét, ásványi tápanyagait és kémhatását. A talajszelvényben a C-szintet alkotja.",
+      "example": "Mészkövön rendzina, löszön mezőségi talaj vagy barna erdőtalaj képződik.",
+      "related": [
+        "talaj",
+        "c-szint",
+        "rendzina",
+        "talajszemcse"
+      ],
+      "tags": [
+        "talaj",
+        "kőzetek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "humusz",
+      "term": "humusz",
+      "aliases": [],
+      "sourceLabels": [
+        "humusz"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "Az elhalt növényi és állati maradványok mikroorganizmusok általi lebontásából és átalakításából keletkező sötét színű, összetett szerves anyag. Tápanyagot és vizet köt, javítja a talaj szerkezetét, ezért a termőképesség legfontosabb tényezője.",
+      "example": "A mezőségi talaj vastag, fekete humuszrétege miatt kiváló termőföld.",
+      "related": [
+        "talaj",
+        "termokepesseg",
+        "mezosegi-talaj",
+        "a-szint"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajszemcse",
+      "term": "talajszemcse",
+      "aliases": [
+        "talajszemcsék"
+      ],
+      "sourceLabels": [
+        "talajszemcse"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A talaj szilárd ásványi alkotórésze; mérete szerint lehet homok, kőzetliszt (iszap) vagy agyag. A szemcseösszetétel határozza meg a talaj víz- és levegőgazdálkodását.",
+      "example": "A homoktalaj gyorsan átereszti a vizet és kiszárad, az agyagos talaj sok vizet tart vissza, de rosszul szellőzik.",
+      "related": [
+        "talajlevego",
+        "anyakozet",
+        "termokepesseg"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajlevego",
+      "term": "talajlevegő",
+      "aliases": [],
+      "sourceLabels": [
+        "talajlevegő"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A talajszemcsék közötti pórusokat a víz mellett kitöltő levegő. A légköri levegőhöz képest több szén-dioxidot és vízgőzt, kevesebb oxigént tartalmaz a gyökerek és a lebontó szervezetek légzése miatt.",
+      "example": "Tartós vízborításkor a pórusokból kiszorul a levegő, ezért oxigénhiány lép fel (pl. a láptalajokban).",
+      "related": [
+        "talajszemcse",
+        "laptalaj",
+        "termokepesseg"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "termokepesseg",
+      "term": "termőképesség",
+      "aliases": [
+        "termékenység",
+        "talajtermékenység"
+      ],
+      "sourceLabels": [
+        "termőképesség"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A talaj azon tulajdonsága, hogy a növényeket vízzel, tápanyaggal és levegővel képes ellátni. Függ a humusz- és tápanyagtartalomtól, a víz- és levegőgazdálkodástól, valamint a kémhatástól.",
+      "example": "A mezőségi talaj termőképessége kiváló, a szürke erdőtalajé és a laterittalajé gyenge.",
+      "related": [
+        "humusz",
+        "talaj",
+        "mezosegi-talaj"
+      ],
+      "tags": [
+        "talaj",
+        "mezőgazdaság",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zonalis-es-azonalis-talaj",
+      "term": "zonális és azonális talaj",
+      "aliases": [],
+      "sourceLabels": [
+        "zonális és azonális talaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A talajok két csoportja aszerint, hogy kialakulásukban az éghajlat vagy a helyi tényezők a meghatározók. A zonális talajok az éghajlati övezetességet követik, az azonális talajok bármely övezetben előfordulhatnak.",
+      "example": "A mezőségi talaj zonális, a folyók árterén képződő öntéstalaj azonális.",
+      "related": [
+        "zonalis-talaj",
+        "azonalis-talaj",
+        "talaj"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zonalis-talaj",
+      "term": "zonális talaj",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "zonalis-es-azonalis-talaj",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "Olyan talaj, amelynek kialakulásában az éghajlat és az általa meghatározott természetes növényzet a döntő, ezért elterjedése az éghajlati övezeteket követi.",
+      "example": "Zonális talaj a laterittalaj, a vörös- és sárgaföldek, a sivatagi talaj, a mezőségi talaj, a barna és a szürke erdőtalaj, a tundratalaj.",
+      "related": [
+        "azonalis-talaj",
+        "laterittalaj",
+        "mezosegi-talaj",
+        "szurke-erdotalaj"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "azonalis-talaj",
+      "term": "azonális talaj",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "zonalis-es-azonalis-talaj",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "Olyan talaj, amelynek kialakulásában a helyi tényezők (alapkőzet, víz, domborzat) a meghatározók, ezért nem köthető egy éghajlati övezethez.",
+      "example": "Azonális talaj az öntéstalaj, a láptalaj, a szikes talaj, a rendzina és a váztalaj.",
+      "related": [
+        "zonalis-talaj",
+        "ontestalaj",
+        "laptalaj",
+        "szikes-talajok",
+        "rendzina"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "laterittalaj",
+      "term": "laterittalaj",
+      "aliases": [
+        "laterit"
+      ],
+      "sourceLabels": [
+        "laterittalaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A trópusi esőerdők és szavannák zonális talaja. Az erős kémiai mállás és kilúgozás miatt vas- és alumínium-oxidokban dús, ezért vörös színű; humuszban és tápanyagban szegény, növényzetétől megfosztva gyorsan terméketlenné válik, kiszáradva kemény kéreggé alakulhat.",
+      "example": "Az Amazonas- és a Kongó-medence esőerdői alatt laterittalaj található.",
+      "examplePlaces": [
+        "amerika--tajak--amazonas-medence",
+        "afrika--tajak--kongo-medence"
+      ],
+      "related": [
+        "mallas",
+        "kiluguzasi-szint",
+        "zonalis-talaj"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "voros-es-sargafoldek",
+      "term": "vörös- és sárgaföldek",
+      "aliases": [],
+      "sourceLabels": [
+        "vörös- és sárgaföldek"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A meleg mérsékelt öv állandóan nedves (monszun) területeinek zonális talajai, amelyek babérlombú és lomboserdők alatt alakulnak ki. Színüket vasvegyületeik adják; termőképességük közepes.",
+      "example": "Kína déli részén elterjedtek, ahol teraszos rizstermesztés folyik rajtuk.",
+      "examplePlaces": [
+        "azsia--orszagok--kina"
+      ],
+      "related": [
+        "voros-fold",
+        "sarga-fold",
+        "laterittalaj",
+        "zonalis-talaj"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "voros-fold",
+      "term": "vörösföld",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "voros-es-sargafoldek",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A vörös- és sárgaföldek csoportjába tartozó talaj, amelynek vörös színét a vízmentes vas-oxidok adják; a melegebb, kevésbé nedves területeken jellemző.",
+      "example": "Kína déli részén és az Egyesült Államok délkeleti részén is előfordul.",
+      "examplePlaces": [
+        "azsia--orszagok--kina"
+      ],
+      "related": [
+        "sarga-fold"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sarga-fold",
+      "term": "sárgaföld",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "voros-es-sargafoldek",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A vörös- és sárgaföldek csoportjába tartozó talaj, amelynek sárga színét a vizet tartalmazó (hidratált) vas-oxidok adják; a nedvesebb területeken jellemző.",
+      "example": "A dél-kínai dombvidékek nedves völgyeiben fordul elő.",
+      "examplePlaces": [
+        "azsia--orszagok--kina"
+      ],
+      "related": [
+        "voros-fold"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sivatagi-talaj",
+      "term": "sivatagi talaj",
+      "aliases": [],
+      "sourceLabels": [
+        "sivatagi talaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A sivatagok zonális talaja: vékony, humuszban rendkívül szegény, főként fizikai aprózódással képződik. A párolgás miatt a felszín közelében sók halmozódhatnak fel (sókéreg); öntözéssel művelhető, de szikesedés veszélye áll fenn.",
+      "example": "A Szahara nagy részén sivatagi talaj vagy talajtakaró nélküli felszín található.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "szikesedes",
+        "zonalis-talaj",
+        "aprozodas"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mezosegi-talaj",
+      "term": "mezőségi talaj",
+      "aliases": [
+        "csernozjom",
+        "feketeföld"
+      ],
+      "sourceLabels": [
+        "mezőségi talaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A mérsékelt öv füves pusztáinak (sztyepp, préri) zonális talaja, többnyire löszön. Vastag, humuszban gazdag, sötét A-szintje van, mert a kevés csapadék miatt gyenge a kilúgozás; a legjobb termőképességű talajok közé tartozik.",
+      "example": "Ukrajnában, a Préri vidékén és hazánkban a Mezőföldön, az Alföldön elterjedt; kiváló gabonatermő terület.",
+      "examplePlaces": [
+        "europa--orszagok--ukrajna",
+        "amerika--tajak--preri",
+        "magyarorszag--egyeb-tajak-teruletek--mezofold",
+        "magyarorszag--fo-tajegysegek--alfold"
+      ],
+      "related": [
+        "humusz",
+        "termokepesseg",
+        "barna-erdotalaj",
+        "zonalis-talaj"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "mezőgazdaság",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "barna-erdotalaj",
+      "term": "barna erdőtalaj",
+      "aliases": [],
+      "sourceLabels": [
+        "barna erdőtalaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A mérsékelt öv lombhullató erdei alatt képződő zonális talaj. Mérsékelt kilúgozás jellemzi, humusztartalma közepes, termőképessége közepes vagy jó.",
+      "example": "Nyugat- és Közép-Európában, hazánkban a Dunántúl dombságain (pl. a Zalai-dombságon) elterjedt.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--zalai-dombsag"
+      ],
+      "related": [
+        "mezosegi-talaj",
+        "szurke-erdotalaj",
+        "kiluguzasi-szint"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szurke-erdotalaj",
+      "term": "szürke erdőtalaj (podzol)",
+      "aliases": [
+        "podzol",
+        "szürke erdőtalaj"
+      ],
+      "sourceLabels": [
+        "szürke erdőtalaj (podzol)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A hideg mérsékelt öv tűlevelű erdei (tajga) alatt képződő zonális talaj. A savanyú tűlevél-avar és a csapadéktöbblet miatt erős a kilúgozás, ezért a feltalaj hamuszürke, savanyú, humuszban és tápanyagban szegény; termőképessége gyenge.",
+      "example": "Szibéria és Kanada tajgaövezetében elterjedt.",
+      "examplePlaces": [
+        "azsia--tajak--sziberia",
+        "amerika--orszagok--kanada"
+      ],
+      "related": [
+        "kiluguzasi-szint",
+        "barna-erdotalaj",
+        "tundratalaj"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tundratalaj",
+      "term": "tundratalaj",
+      "aliases": [],
+      "sourceLabels": [
+        "tundratalaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A tundra zonális talaja: vékony, a permafroszt felett nyáron felolvadó, vízzel túltelített réteg. A hideg miatt a szerves anyag lassan bomlik, ezért tőzeges, savanyú, mezőgazdasági művelésre alkalmatlan.",
+      "example": "Szibéria és Alaszka északi, tengerparti sávjában található.",
+      "examplePlaces": [
+        "azsia--tajak--sziberia",
+        "amerika--tajak--alaszka"
+      ],
+      "related": [
+        "permafroszt",
+        "szurke-erdotalaj",
+        "zonalis-talaj"
+      ],
+      "tags": [
+        "talaj",
+        "övezetesség",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szikesedes",
+      "term": "szikesedés",
+      "aliases": [],
+      "sourceLabels": [
+        "szikesedés"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "Vízoldható sók (különösen nátriumsók) felhalmozódása a talajban. Ott következik be, ahol a párolgás meghaladja a csapadékot, és a sós talajvíz a hajszálcsövekben a felszínig emelkedik; szakszerűtlen öntözés is okozhatja.",
+      "example": "A Hortobágyon a talajvíz és az éghajlat hatására szikes puszták alakultak ki; a száraz területek öntözött földjein is fenyeget a másodlagos szikesedés.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--hortobagy"
+      ],
+      "related": [
+        "szikes-talajok",
+        "sivatagi-talaj",
+        "talajpusztulas"
+      ],
+      "tags": [
+        "talaj",
+        "mezőgazdaság",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szikes-talajok",
+      "term": "szikes talajok",
+      "aliases": [
+        "szik",
+        "szikes talaj"
+      ],
+      "sourceLabels": [
+        "szikes talajok"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "Nagy sótartalmú, többnyire lúgos kémhatású azonális talajok. Rossz a víz- és levegőgazdálkodásuk (nedvesen sárosak, szárazon kőkemények), ezért szántóföldi művelésre kevéssé alkalmasak; főleg legelőként hasznosítják őket.",
+      "example": "A Hortobágy és a Kiskunság szikes pusztái.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--hortobagy",
+        "magyarorszag--egyeb-tajak-teruletek--kiskunsag"
+      ],
+      "related": [
+        "szikesedes",
+        "azonalis-talaj"
+      ],
+      "tags": [
+        "talaj",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajpusztulas",
+      "term": "talajpusztulás (talajerózió)",
+      "aliases": [
+        "talajerózió",
+        "talajpusztulás"
+      ],
+      "sourceLabels": [
+        "talajpusztulás (talajerózió)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "A talaj lehordása a víz (felszíni leöblítés, vonalas erózió) és a szél (defláció) által. Felgyorsítja a növényzet kiirtása, a lejtőirányú szántás és a túllegeltetés; mérséklése szintvonal menti műveléssel, teraszolással, erdősávokkal és a talaj állandó növényborításával lehetséges.",
+      "example": "A Száhel-övben a túllegeltetés és az erdőirtás miatt felgyorsult a talajpusztulás és az elsivatagosodás.",
+      "related": [
+        "felszini-leoblites",
+        "vonalas-erozio",
+        "deflacio",
+        "talajszennyezes"
+      ],
+      "tags": [
+        "talaj",
+        "környezetvédelem",
+        "fenntarthatóság",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajszennyezes",
+      "term": "talajszennyezés",
+      "aliases": [],
+      "sourceLabels": [
+        "talajszennyezés"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "kozep",
+      "definition": "Káros anyagok (nehézfémek, kőolajszármazékok, növényvédő szerek, túlzott mennyiségű műtrágya, hulladékok csurgalékvize) bekerülése és felhalmozódása a talajban. Rontja a termőképességet, a szennyezők a talajvízbe és a táplálékláncba is bejutnak.",
+      "example": "Bányák, ipari üzemek környékén és illegális hulladéklerakóknál nehézfémekkel szennyezett talajt kell kármentesíteni.",
+      "related": [
+        "talajpusztulas",
+        "rekultivacio",
+        "indikator-szerep"
+      ],
+      "tags": [
+        "talaj",
+        "környezetvédelem",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajszintek",
+      "term": "talajszintek",
+      "aliases": [
+        "talajszelvény",
+        "talajszint"
+      ],
+      "sourceLabels": [
+        "talajszintek (A-, B-, C-szint)"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A talaj függőleges metszetében (talajszelvényében) elkülönülő, eltérő tulajdonságú rétegek: a felső, humuszos A-szint, az alatta lévő felhalmozódási B-szint és a málló alapkőzetet tartalmazó C-szint.",
+      "example": "A barna erdőtalaj szelvényében jól elkülönül a sötétebb A-, a barnás-vöröses B- és az alapkőzetet tartalmazó C-szint.",
+      "related": [
+        "a-szint",
+        "b-szint",
+        "c-szint",
+        "kiluguzasi-szint",
+        "felhalmozodasi-szint"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "a-szint",
+      "term": "A-szint",
+      "aliases": [
+        "feltalaj",
+        "humuszos szint"
+      ],
+      "sourceLabels": [],
+      "parent": "talajszintek",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A talaj legfelső szintje, amelyben a humusz felhalmozódik és a legtöbb élőlény él; a beszivárgó víz innen oldja ki és szállítja lefelé az anyagokat, ezért egyben kilúgozási szint.",
+      "example": "A mezőségi talaj A-szintje vastag és fekete.",
+      "related": [
+        "b-szint",
+        "kiluguzasi-szint",
+        "humusz"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "b-szint",
+      "term": "B-szint",
+      "aliases": [
+        "altalaj"
+      ],
+      "sourceLabels": [],
+      "parent": "talajszintek",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "Az A-szint alatti réteg, ahol a felülről kimosott anyagok (agyag, vas-, alumíniumvegyületek, mész) felhalmozódnak; ez a felhalmozódási szint.",
+      "example": "A barna erdőtalaj B-szintje a felhalmozódott agyagtól és vasvegyületektől barnás-vöröses.",
+      "related": [
+        "a-szint",
+        "c-szint",
+        "felhalmozodasi-szint"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "c-szint",
+      "term": "C-szint",
+      "aliases": [
+        "alapkőzetszint"
+      ],
+      "sourceLabels": [],
+      "parent": "talajszintek",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A talajszelvény legalsó része, amely az aprózódó-málló anyakőzetből (alapkőzetből) áll.",
+      "example": "Löszön kialakult talajoknál a C-szintet a sárga lösz alkotja.",
+      "related": [
+        "b-szint",
+        "anyakozet"
+      ],
+      "tags": [
+        "talaj",
+        "kőzetek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kiluguzasi-szint",
+      "term": "kilúgozási szint",
+      "aliases": [
+        "kimosódási szint"
+      ],
+      "sourceLabels": [
+        "kilúgozási szint"
+      ],
+      "parent": "talajszintek",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A talajnak az a felső szintje (A-szint), ahonnan a beszivárgó csapadékvíz az oldható anyagokat és a finom szemcséket kioldja, lefelé szállítja. A kilúgozás csapadékos éghajlaton és savanyú avar alatt a legerősebb.",
+      "example": "A szürke erdőtalaj (podzol) erősen kilúgozott, hamuszürke szintje.",
+      "related": [
+        "felhalmozodasi-szint",
+        "a-szint",
+        "szurke-erdotalaj",
+        "laterittalaj"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felhalmozodasi-szint",
+      "term": "felhalmozódási szint",
+      "aliases": [],
+      "sourceLabels": [
+        "felhalmozódási szint"
+      ],
+      "parent": "talajszintek",
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A talajnak az a szintje (B-szint), ahol a kilúgozási szintből lemosott anyagok (agyag, vas- és alumíniumvegyületek, mész) kicsapódnak és felhalmozódnak.",
+      "example": "A barna erdőtalaj B-szintjében agyag és vasvegyületek dúsulnak fel.",
+      "related": [
+        "kiluguzasi-szint",
+        "b-szint"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "terra-rossa",
+      "term": "terra rossa",
+      "aliases": [
+        "vörös mediterrán talaj"
+      ],
+      "sourceLabels": [
+        "terra rossa"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A mediterrán területek mészkövén kialakuló vörös színű talaj: a mészkő oldódása után visszamaradó, vas-oxidokban dús agyagos mállási maradék.",
+      "example": "A Dinári-hegység és az Adriai-tenger partvidékének mészkőterületein a karsztmélyedések alján fordul elő.",
+      "examplePlaces": [
+        "europa--tajak--dinari-hegyseg",
+        "europa--vizrajz--adriai-tenger"
+      ],
+      "related": [
+        "rendzina",
+        "azonalis-talaj",
+        "polje"
+      ],
+      "tags": [
+        "talaj",
+        "karszt",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "laptalaj",
+      "term": "láptalaj",
+      "aliases": [],
+      "sourceLabels": [
+        "láptalaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "Tartós vízborítás alatt képződő azonális talaj: oxigénhiány miatt az elhalt növényi maradványok nem bomlanak le teljesen, tőzeg halmozódik fel. Lecsapolás után művelhető, de kiszáradva a tőzeg leéghet, összezsugorodhat.",
+      "example": "A Kis-Balaton és a Hanság lápvidékein fordul elő.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--kis-balaton"
+      ],
+      "related": [
+        "talajlevego",
+        "azonalis-talaj",
+        "tundratalaj"
+      ],
+      "tags": [
+        "talaj",
+        "Magyarország",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ontestalaj",
+      "term": "öntéstalaj",
+      "aliases": [
+        "réti öntéstalaj"
+      ],
+      "sourceLabels": [
+        "öntéstalaj"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A folyók árterein az áradások által lerakott hordalékon képződő fiatal, rétegzett, fejletlen szelvényű azonális talaj. Tápanyagban gazdag, jó termőképességű lehet.",
+      "example": "A Tisza és a Duna árterein elterjedt.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--vizrajz--duna"
+      ],
+      "related": [
+        "azonalis-talaj",
+        "hordalek",
+        "holtag"
+      ],
+      "tags": [
+        "talaj",
+        "felszíni-vizek",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rendzina",
+      "term": "rendzina",
+      "aliases": [
+        "humuszkarbonát talaj"
+      ],
+      "sourceLabels": [
+        "rendzina"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "Mészkövön vagy dolomiton kialakuló sekély, sötét színű, humuszos, köves azonális talaj; a mésztartalom miatt a humusz jól megkötődik.",
+      "example": "A Bükk és a Dunántúli-középhegység mészkő- és dolomitterületein gyakori.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--bukk"
+      ],
+      "related": [
+        "terra-rossa",
+        "anyakozet",
+        "azonalis-talaj"
+      ],
+      "tags": [
+        "talaj",
+        "karszt",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vaztalajok",
+      "term": "váztalajok",
+      "aliases": [
+        "váztalaj",
+        "kőzethatású talajok"
+      ],
+      "sourceLabels": [
+        "váztalajok"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A talajképződés kezdeti állapotában lévő, vékony, fejletlen szelvényű, humuszban szegény talajok. Meredek, sziklás lejtőkön, futóhomokon, fiatal üledékeken alakulnak ki, ahol a talajképződés még rövid ideje tart vagy a lepusztulás folyamatosan megújítja a felszínt.",
+      "example": "A Kiskunság és a Nyírség futóhomokján, valamint a hegységek kopár sziklás lejtőin találhatók.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--kiskunsag",
+        "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+      ],
+      "related": [
+        "azonalis-talaj",
+        "talajpusztulas"
+      ],
+      "tags": [
+        "talaj",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "indikator-szerep",
+      "term": "indikátor szerep",
+      "aliases": [
+        "hatásjelző szerep",
+        "környezetjelző szerep"
+      ],
+      "sourceLabels": [
+        "indikátor szerep"
+      ],
+      "parent": null,
+      "topicNo": 4,
+      "subtopic": "4.3. A talaj",
+      "level": "emelt",
+      "definition": "A talaj környezeti hatásjelző (indikátor) szerepe: tulajdonságai (kémhatás, sótartalom, szennyezőanyag-tartalom, szintjei) tükrözik a kialakulása óta ható éghajlatot és növényzetet, valamint az emberi beavatkozás következményeit.",
+      "example": "A savas esők elsavanyítják a talajt; az eltemetett ősi talajrétegek a lösz rétegsorában a múltbeli éghajlatváltozásokat jelzik.",
+      "related": [
+        "talajszennyezes",
+        "talaj",
+        "szikesedes"
+      ],
+      "tags": [
+        "talaj",
+        "környezetvédelem",
+        "4-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  ]
+}

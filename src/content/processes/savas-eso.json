@@ -1,0 +1,125 @@
+{
+  "id": "savas-eso",
+  "title": "A savas eső",
+  "summary": "A fosszilis tüzelőanyagok égetésekor kibocsátott kén-dioxid és nitrogén-oxidok a légkörben vízzel savakká alakulnak, és savas csapadékként vagy savas ülepedésként hullanak vissza. A szennyezés a széllel országhatárokon át is terjed, ezért regionális környezeti probléma.",
+  "causes": [
+    "A kéntartalmú szén és kőolajtermékek égetése (hőerőművek, ipar, fűtés) kén-dioxidot juttat a levegőbe.",
+    "A magas hőmérsékletű égés (közlekedés, erőművek) nitrogén-oxidokat bocsát ki.",
+    "A magas kémények a szennyezést a légkör magasabb részébe juttatják, ahonnan a szél messzire szállítja."
+  ],
+  "course": [
+    "Kibocsátás (emisszió): a légszennyező anyagok a forrásból a levegőbe kerülnek.",
+    "Szállítás (transzmisszió): a szél a szennyezést akár több száz kilométerre, más országokba is elviszi.",
+    "A légkörben a kén-dioxid és a nitrogén-oxidok vízzel kénsavvá, illetve salétromsavvá alakulnak.",
+    "Ülepedés (immisszió): a savak esővel, hóval, köddel (savas csapadék), vagy szárazon (savas ülepedés) jutnak a felszínre."
+  ],
+  "consequences": [
+    "A talaj és a tavak elsavanyodnak; a tavakban elpusztulnak a halak és más élőlények.",
+    "A talajból kioldódnak a tápanyagok és káros fémek, az erdők legyengülnek, elpusztulnak.",
+    "A mészkőből, márványból készült épületek, szobrok mállanak, a fémszerkezetek korrodálódnak.",
+    "Védekezés: füstgáz-kéntelenítés, kis kéntartalmú tüzelőanyagok, katalizátorok, megújuló energiaforrások; ezek nyomán Európában a probléma mérséklődött."
+  ],
+  "steps": [
+    {
+      "title": "Kibocsátás",
+      "caption": "Az erőművek, az ipar, a fűtés és a közlekedés fosszilis tüzelőanyagot éget: kén-dioxid és nitrogén-oxidok kerülnek a levegőbe.",
+      "icon": "factory"
+    },
+    {
+      "title": "Szállítás a széllel",
+      "caption": "A szél a szennyezést messzire, országhatárokon át is elszállítja.",
+      "icon": "wind"
+    },
+    {
+      "title": "Savképződés a légkörben",
+      "caption": "A kén-dioxid és a nitrogén-oxidok a légkör vízgőzével kénsavvá és salétromsavvá alakulnak.",
+      "icon": "cloud"
+    },
+    {
+      "title": "Savas csapadék",
+      "caption": "A savak esővel, hóval, köddel, illetve száraz ülepedéssel hullanak vissza a felszínre.",
+      "icon": "cloud-rain"
+    },
+    {
+      "title": "Elsavanyodás",
+      "caption": "A talaj és a tavak elsavanyodnak, a tavak élővilága elpusztulhat.",
+      "icon": "droplets"
+    },
+    {
+      "title": "Erdőpusztulás, épületkárok",
+      "caption": "Az erdők legyengülnek és kipusztulnak, a mészkő és márvány épületek, szobrok mállanak.",
+      "icon": "trees"
+    },
+    {
+      "title": "Védekezés",
+      "caption": "Füstgáz-kéntelenítés, katalizátorok, kis kéntartalmú és megújuló energiaforrások csökkentik a kibocsátást.",
+      "icon": "shield"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A német–cseh–lengyel határvidéken (az ún. Fekete-háromszögben, a Szudéták és az Érchegység térségében) a barnakőszén-erőművek kibocsátása miatt nagy kiterjedésű erdők pusztultak el.",
+      "places": [
+        "europa--tajak--szudetak",
+        "europa--orszagok--csehorszag"
+      ]
+    },
+    {
+      "text": "Skandinávia (pl. Svédország) tavai a nyugat- és közép-európai ipari kibocsátásból származó, széllel érkező savas csapadék miatt savanyodtak el.",
+      "places": [
+        "europa--orszagok--svedorszag",
+        "europa--tajak--skandinav-felsziget"
+      ]
+    },
+    {
+      "text": "A Ruhr-vidék és Szilézia széntüzelésű ipara a savas csapadék jelentős forrása volt.",
+      "places": [
+        "europa--iparvidekek--ruhr-videk",
+        "europa--tajak--szilezia"
+      ]
+    }
+  ],
+  "concepts": [
+    "savas csapadék",
+    "savas ülepedés",
+    "elsavanyodás",
+    "légszennyező anyagok",
+    "emisszió",
+    "transzmisszió",
+    "immisszió",
+    "regionális és globális probléma",
+    "környezetkárosítás"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a savas eső kialakulását és következményeit! Indokold, miért tekintjük regionális (országhatárokon átnyúló) környezeti problémának!",
+    "elements": [
+      {
+        "text": "Okok: a fosszilis tüzelőanyagok égetése során kén-dioxid és nitrogén-oxidok kerülnek a levegőbe (erőművek, ipar, közlekedés).",
+        "points": 2
+      },
+      {
+        "text": "A légkörben vízzel kénsav és salétromsav keletkezik.",
+        "points": 2
+      },
+      {
+        "text": "A szél a szennyezést messzire, országhatárokon át szállítja (transzmisszió) – ezért regionális probléma.",
+        "points": 2
+      },
+      {
+        "text": "Savas csapadékként vagy száraz ülepedéssel jut a felszínre.",
+        "points": 1
+      },
+      {
+        "text": "Következmények: talaj és tavak elsavanyodása, erdőpusztulás, épületek mállása.",
+        "points": 2
+      },
+      {
+        "text": "Védekezés: füstgáz-kéntelenítés, katalizátor, megújuló energiaforrások.",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A savas eső fő oka a fosszilis tüzelőanyagok égetése, amely során az erőművekből, az iparból és a közlekedésből kén-dioxid és nitrogén-oxidok kerülnek a levegőbe. A légkörben ezek a vízgőzzel kénsavvá és salétromsavvá alakulnak, majd savas csapadékként vagy száraz ülepedéssel jutnak vissza a felszínre. Mivel a szél a szennyezést akár több száz kilométerre, országhatárokon át is elszállítja, a kibocsátó és a károsult terület gyakran más országban van, például a nyugat-európai szennyezés Skandinávia tavait savanyította el, ezért regionális problémáról van szó. A savas csapadék elsavanyítja a talajt és a tavakat, elpusztítja a vízi élővilágot és az erdőket, és mállasztja a mészkő és márvány épületeket. Ellene füstgáz-kéntelenítéssel, katalizátorokkal és megújuló energiaforrások használatával lehet védekezni."
+  },
+  "generated": true,
+  "reviewed": false
+}

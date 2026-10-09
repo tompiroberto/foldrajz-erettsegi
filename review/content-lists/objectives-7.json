@@ -1,0 +1,555 @@
+[
+ {
+  "id": "7-1-a-karpat-medence-termeszet-es-tarsadalomfoldrajzi-sajatossagai",
+  "title": "7.1. A Kárpát-medence természet- és társadalomföldrajzi sajátosságai",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-1-a-karpat-medence-termeszet-es-tarsadalomfoldrajzi-sajatossagai--k1",
+    "level": "kozep",
+    "text": "Helyezze el hazánkat a térképen, a földgömbön, Európában és a Kárpát-medencében."
+   },
+   {
+    "id": "7-1-a-karpat-medence-termeszet-es-tarsadalomfoldrajzi-sajatossagai--k2",
+    "level": "kozep",
+    "text": "Ismertesse a medencejelleg következményeit az éghajlat, a vízrajz, a vízkészlet és a környezeti állapot vonatkozásában."
+   },
+   {
+    "id": "7-1-a-karpat-medence-termeszet-es-tarsadalomfoldrajzi-sajatossagai--k3",
+    "level": "kozep",
+    "text": "Jellemezze a Kárpát-medence nemzetiségi összetételét tematikus térképek és adatsorok segítségével."
+   },
+   {
+    "id": "7-1-a-karpat-medence-termeszet-es-tarsadalomfoldrajzi-sajatossagai--k4",
+    "level": "kozep",
+    "text": "Ismertesse a magyarság elhelyezkedését a Kárpát-medencében és a világban."
+   },
+   {
+    "id": "7-1-a-karpat-medence-termeszet-es-tarsadalomfoldrajzi-sajatossagai--e1",
+    "level": "emelt",
+    "text": "Elemezze a földrajzilag nyitott határ következményeit."
+   }
+  ]
+ },
+ {
+  "id": "7-2-magyarorszag-termeszeti-adottsagai",
+  "title": "7.2. Magyarország természeti adottságai",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k1",
+    "level": "kozep",
+    "text": "Magyarázza meg folyamatábra vagy táblázat segítségével a földtörténeti idők meghatározó jelentőségű geológiai eseményeit."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k2",
+    "level": "kozep",
+    "text": "Nevezze és mutassa meg térképen az egyes idők, időszakok főbb képződményeit."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k3",
+    "level": "kozep",
+    "text": "Ismertesse hazánk legfontosabb felszínalkotó kőzeteinek területi előfordulását, felhasználásuk lehetőségeit."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k4",
+    "level": "kozep",
+    "text": "Mutassa be hazánk földrajzi helyzetének éghajlati következményeit, a legfontosabb módosító tényezőket."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k5",
+    "level": "kozep",
+    "text": "Jellemezze hazánk éghajlatát."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k6",
+    "level": "kozep",
+    "text": "Nevezze meg kontúrtérképen hazánk legjelentősebb folyóit, tavait és jellemezze azokat."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k7",
+    "level": "kozep",
+    "text": "Értékelje felszíni vizeink gazdasági jelentőségét."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k8",
+    "level": "kozep",
+    "text": "Ismertesse a felszín alatti vizek hazai típusait, előfordulásait, hasznosítását."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k9",
+    "level": "kozep",
+    "text": "Mutassa be vizeink környezeti problémáit."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k10",
+    "level": "kozep",
+    "text": "Mondjon példákat a vízvédelem hazai lehetőségeire és megoldásaira."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k11",
+    "level": "kozep",
+    "text": "Mutassa be az éghajlat, a természetes növénytakaró és a talaj összefüggéseit hazánk területén."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--k12",
+    "level": "kozep",
+    "text": "Értelmezzen Magyarország természeti adottságaival kapcsolatos tematikus térképeket."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--e1",
+    "level": "emelt",
+    "text": "Mutassa be a Kárpát-medence földtörténeti fejlődésének kapcsolatát a lemeztektonikai folyamatokkal."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--e2",
+    "level": "emelt",
+    "text": "Kösse földtörténeti korokhoz a Kárpát-medence geológiai fejlődésének eseményeit és főbb képződményeit."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--e3",
+    "level": "emelt",
+    "text": "Értelmezze tematikus térképek segítségével az egyes időjárási-éghajlati elemek értékeinek hazai eloszlási jellegzetességeit."
+   },
+   {
+    "id": "7-2-magyarorszag-termeszeti-adottsagai--e4",
+    "level": "emelt",
+    "text": "Ismerje a vízszennyezés regionális összefüggéseit, a nemzetközi összefogás szükségességét a Kárpát-medencében."
+   }
+  ]
+ },
+ {
+  "id": "7-3-magyarorszag-tarsadalmi-jellemzoi",
+  "title": "7.3. Magyarország társadalmi jellemzői",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--k1",
+    "level": "kozep",
+    "text": "Ismertesse hazánk 20. századi és jelenkori népesedési folyamatait és azok társadalmi-gazdasági következményeit."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--k2",
+    "level": "kozep",
+    "text": "Értelmezze hazánk korfáját."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--k3",
+    "level": "kozep",
+    "text": "Olvassa le diagramokról, adatsorokról és elemezze a népességszám, a természetes szaporodás alakulását."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--k4",
+    "level": "kozep",
+    "text": "Nevezzen meg magas és alacsony népsűrűségű területeket, indokolja a különbségeket."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--k5",
+    "level": "kozep",
+    "text": "Mutassa be a hazai foglalkoztatási szerkezetet és annak átalakulását, magyarázza meg az átalakulás okait."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--k6",
+    "level": "kozep",
+    "text": "Mutassa be hazánk legfontosabb településföldrajzi jellemzőit térképek, képek, adatsorok, ábrák alapján."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--e1",
+    "level": "emelt",
+    "text": "Bizonyítsa a népességmozgások összefüggését a gazdasági-politikai tényezőkkel."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--e2",
+    "level": "emelt",
+    "text": "Értelmezze a településfajták, a településhálózat átalakulását."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--e3",
+    "level": "emelt",
+    "text": "Ismertesse hazánk településföldrajzi jellemzőinek területi különbségeit, elemezze a településtípusok változó súlyát."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--e4",
+    "level": "emelt",
+    "text": "Elemezze a falusias térségek válsághelyzetének okait és felzárkózásuk lehetőségeit."
+   },
+   {
+    "id": "7-3-magyarorszag-tarsadalmi-jellemzoi--e5",
+    "level": "emelt",
+    "text": "Elemezze a lakókörnyezetet és az életmódbeli jellemzőket alakító tényezőket (nagyvárosi, városi, falusi települések; természeti és épített környezet; gazdasági, szociális eltérések)."
+   }
+  ]
+ },
+ {
+  "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi",
+  "title": "7.4. A hazai gazdasági fejlődés jellemzői",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k1",
+    "level": "kozep",
+    "text": "Mutassa be hazánk természeti erőforrásait és azok szerepét a nemzetgazdaságban."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k2",
+    "level": "kozep",
+    "text": "Ismertesse a magyar nemzetgazdaság jellemző vonásait, területi és szerkezeti átrendeződését ábrák, statisztikai adatsorok, tematikus térképek segítségével."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k3",
+    "level": "kozep",
+    "text": "Mutassa be a gazdasági rendszerváltoztatás következményeit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k4",
+    "level": "kozep",
+    "text": "Alkalmazza az országok gazdaságának összehasonlítására szolgáló mutatókat a magyar gazdaság európai és világgazdaságban elfoglalt helyének bemutatására."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k5",
+    "level": "kozep",
+    "text": "Olvassa le tematikus térképekről a GDP regionális adatait és magyarázza meg annak eltéréseit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k6",
+    "level": "kozep",
+    "text": "Állapítson meg tényeket, folyamatokat, összefüggéseket adatsorok, ábrák segítségével az egyes gazdasági ágazatok, ágak és szektorok helyzetéről, nemzetgazdaságban betöltött szerepéről."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k7",
+    "level": "kozep",
+    "text": "Ismertesse az élelmiszergazdaság szerepét a nemzetgazdaságban."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k8",
+    "level": "kozep",
+    "text": "Bizonyítsa éghajlati és talajadottságaink szerepét főbb terményeink termőterületének elhelyezkedésében."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k9",
+    "level": "kozep",
+    "text": "Nevezze meg a történelmi borvidékeket térkép alapján."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k10",
+    "level": "kozep",
+    "text": "Elemezze a magyar energiagazdaság adottságait, lehetőségeit, nemzetközi kapcsolatait."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k11",
+    "level": "kozep",
+    "text": "Mutassa be az ipar területi és szerkezeti átalakulásának folyamatát."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k12",
+    "level": "kozep",
+    "text": "Elemezze a húzóágazatok szerepét, illetve annak változásait."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k13",
+    "level": "kozep",
+    "text": "Jellemezze a tudásipar feltételeit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k14",
+    "level": "kozep",
+    "text": "Mutassa be tematikus térképek segítségével az infrastruktúra és a településhálózat kapcsolatát."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k15",
+    "level": "kozep",
+    "text": "Értékelje hazánk közlekedésföldrajzi helyzetét."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k16",
+    "level": "kozep",
+    "text": "Ismertesse az átmenő forgalom jellemzőit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k17",
+    "level": "kozep",
+    "text": "Vázolja fel az idegenforgalom szerepét a gazdaságban."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--k18",
+    "level": "kozep",
+    "text": "Mutassa be és helyezze el a térképen a fontosabb idegenforgalmi körzeteket, ismertesse azok kiemelt értékeit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e1",
+    "level": "emelt",
+    "text": "Ismertesse az összefüggést hazánk társadalmi-gazdasági fejlődése és annak történelmi háttere között."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e2",
+    "level": "emelt",
+    "text": "Mutassa be a piac és a tulajdonformák szerepét, változását a gazdaság működésében."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e3",
+    "level": "emelt",
+    "text": "Mutassa be a külföldi tőke szerepét a rendszerváltoztatást követő gazdasági fejlődésben."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e4",
+    "level": "emelt",
+    "text": "Mutassa be a munkanélküliség kialakulásának lehetséges okait, csökkentésének lehetőségeit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e5",
+    "level": "emelt",
+    "text": "Ismertesse a régiók kialakításának elveit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e6",
+    "level": "emelt",
+    "text": "Állapítson meg tendenciákat, összefüggéseket az egyes gazdasági ágazatok, ágak és szektorok szerepéről nemzetközi statisztikai adatok alapján, és hasonlítsa össze ezeket a hazai jellemzőkkel."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e7",
+    "level": "emelt",
+    "text": "Soroljon fel a magyarsághoz kötődő hagyományos élelmiszereket és ételeket, ismerje fel a hagyományok földrajzi alapjait."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e8",
+    "level": "emelt",
+    "text": "Mutassa be az ipari parkok szerepét a térségek gazdasági fejlődésében."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e9",
+    "level": "emelt",
+    "text": "Ismertesse az infoparkok, a zöld- és barnamezős beruházások szerepét hazánk gazdasági életében."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e10",
+    "level": "emelt",
+    "text": "Prognosztizálja az idegenforgalmi fejlesztések lehetőségeit."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e11",
+    "level": "emelt",
+    "text": "Mutassa be a turizmus környezetre és a szolgáltatás egyéb ágazataira gyakorolt hatásait."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e12",
+    "level": "emelt",
+    "text": "Fogalmazzon meg a fenntarthatóságot támogató gazdasági törekvéseket."
+   },
+   {
+    "id": "7-4-a-hazai-gazdasagi-fejlodes-jellemzoi--e13",
+    "level": "emelt",
+    "text": "Tudjon példákat mondani Magyarország és az Európai Unió gazdasági kapcsolataira."
+   }
+  ]
+ },
+ {
+  "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe",
+  "title": "7.5. Hazánk tájainak eltérő természeti és társadalmi-gazdasági képe",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k1",
+    "level": "kozep",
+    "text": "Ismertesse térkép segítségével hazánk fő tájegységeit és résztájaikat, mutassa és nevezze meg ezeket kontúrtérképen."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k2",
+    "level": "kozep",
+    "text": "Jellemezze a fő tájegységek felszínét, éghajlatát, vízrajzát, fő talajtípusait, ásványkincseit és a természeti adottságok hatásait a gazdasági életre."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k3",
+    "level": "kozep",
+    "text": "Kösse földtörténeti időkhöz, időszakokhoz a fő tájegységek, résztájak kőzetanyagának, ásványkincseinek kialakulását."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k4",
+    "level": "kozep",
+    "text": "Ismertesse a tájformálásban szerepet játszó külső erők munkáját."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k5",
+    "level": "kozep",
+    "text": "Mutassa be a fő tájegységek jellegzetes településtípusait és azok összefüggését a természeti adottságokkal."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k6",
+    "level": "kozep",
+    "text": "Mutassa meg térképen és nevezze meg kontúrtérképen a fő tájegységek fontosabb településeit."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k7",
+    "level": "kozep",
+    "text": "Kapcsolja hozzájuk a jellemző természeti erőforrásokat és gazdasági tevékenységeket."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k8",
+    "level": "kozep",
+    "text": "Ismertesse a fő tájegységek természeti és kulturális értékeit, idegenforgalmi lehetőségeit és központjait."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--k9",
+    "level": "kozep",
+    "text": "Nevezze meg a fő tájegységeket érintő környezeti problémákat és ezek mérséklésének lehetőségeit."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--e1",
+    "level": "emelt",
+    "text": "Kösse földtörténeti korokhoz a fő tájegységek, résztájak kőzetanyagának, ásványkincseinek kialakulását."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--e2",
+    "level": "emelt",
+    "text": "Bizonyítsa statisztikai adatok segítségével a fő tájegységek szerepét hazánk gazdasági életében."
+   },
+   {
+    "id": "7-5-hazank-tajainak-eltero-termeszeti-es-tarsadalmi-gazdasagi-kepe--e3",
+    "level": "emelt",
+    "text": "Hasonlítsa össze a résztájak természeti és társadalmi-gazdasági adottságait."
+   }
+  ]
+ },
+ {
+  "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi",
+  "title": "7.6. A magyarországi régiók földrajzi jellemzői",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi--k1",
+    "level": "kozep",
+    "text": "Mutassa meg a térképen, nevezze meg kontúrtérképen hazánk régióit."
+   },
+   {
+    "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi--k2",
+    "level": "kozep",
+    "text": "Hasonlítsa össze az egyes régiók jellemző erőforrásait, meghatározó földrajzi adottságait."
+   },
+   {
+    "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi--k3",
+    "level": "kozep",
+    "text": "Jellemezze az egyes régiókat hazánk gazdaságában betöltött szerepük, jellemző gazdasági tevékenységeik alapján."
+   },
+   {
+    "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi--k4",
+    "level": "kozep",
+    "text": "Mutassa be Budapest központi szerepét az ország társadalmi-gazdasági életében."
+   },
+   {
+    "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi--k5",
+    "level": "kozep",
+    "text": "Jellemezze a főváros településszerkezetét, annak változásait források segítségével."
+   },
+   {
+    "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi--k6",
+    "level": "kozep",
+    "text": "Ismertesse példák alapján Budapest sokoldalú gazdasági kapcsolatát az agglomeráció településeivel."
+   },
+   {
+    "id": "7-6-a-magyarorszagi-regiok-foldrajzi-jellemzoi--e1",
+    "level": "emelt",
+    "text": "Fogalmazzon meg fejlődési, felzárkózási utakat a régiók számára."
+   }
+  ]
+ },
+ {
+  "id": "7-7-termeszeti-kulturalis-es-tortenelmi-ertekek-vedelme",
+  "title": "7.7. Természeti, kulturális és történelmi értékek védelme",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-7-termeszeti-kulturalis-es-tortenelmi-ertekek-vedelme--k1",
+    "level": "kozep",
+    "text": "Ismerje fel térképen, kontúrtérképen és nevezze meg hazánk nemzeti parkjait, a világörökséghez tartozó értékeit."
+   },
+   {
+    "id": "7-7-termeszeti-kulturalis-es-tortenelmi-ertekek-vedelme--k2",
+    "level": "kozep",
+    "text": "Igazolja források alapján a nemzeti parkok és a világörökségi helyszínek idegenforgalmi szerepét."
+   },
+   {
+    "id": "7-7-termeszeti-kulturalis-es-tortenelmi-ertekek-vedelme--e1",
+    "level": "emelt",
+    "text": "Nevezzen meg magyarországi néprajzi csoportokat, tudjon példát mondani hagyományaikra, értékeikre."
+   },
+   {
+    "id": "7-7-termeszeti-kulturalis-es-tortenelmi-ertekek-vedelme--e2",
+    "level": "emelt",
+    "text": "Ismerje a hungarikum fogalmát, mondjon rá példát."
+   },
+   {
+    "id": "7-7-termeszeti-kulturalis-es-tortenelmi-ertekek-vedelme--e3",
+    "level": "emelt",
+    "text": "Mutassa be a hungarikumok jelentőségét."
+   }
+  ]
+ },
+ {
+  "id": "7-8-magyarorszag-kornyezeti-allapota",
+  "title": "7.8. Magyarország környezeti állapota",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-8-magyarorszag-kornyezeti-allapota--k1",
+    "level": "kozep",
+    "text": "Értékelje hazánk környezeti állapotát tematikus térképek, összehasonlító adatsorok, fotók segítségével."
+   },
+   {
+    "id": "7-8-magyarorszag-kornyezeti-allapota--k2",
+    "level": "kozep",
+    "text": "Mutassa be a medence- és a tranzitjelleg szerepét a környezet szennyeződésében, illetve az összefogás szükségességét ezek csökkentésére."
+   },
+   {
+    "id": "7-8-magyarorszag-kornyezeti-allapota--k3",
+    "level": "kozep",
+    "text": "Sorolja fel a nagyvárosok környezeti ártalmait, a környezet védelmében tett intézkedéseket és azok eredményeit."
+   },
+   {
+    "id": "7-8-magyarorszag-kornyezeti-allapota--e1",
+    "level": "emelt",
+    "text": "Elemezzen összehasonlító módon különböző forrásokból származó adatokat, fogalmazzon meg előrejelzéseket az adatok alapján."
+   },
+   {
+    "id": "7-8-magyarorszag-kornyezeti-allapota--e2",
+    "level": "emelt",
+    "text": "Hasonlítsa össze a védettség jellegét és különböző fokozatait helyek, objektumok példáin."
+   },
+   {
+    "id": "7-8-magyarorszag-kornyezeti-allapota--e3",
+    "level": "emelt",
+    "text": "Igazolja példákkal a környezeti szempontokat figyelembe vevő gazdasági fejlesztések fontosságát."
+   },
+   {
+    "id": "7-8-magyarorszag-kornyezeti-allapota--e4",
+    "level": "emelt",
+    "text": "Prognosztizálja Magyarország feladatait a fenntarthatóság, a vízgazdálkodás és a mezőgazdaság kapcsolatában."
+   }
+  ]
+ },
+ {
+  "id": "7-9-az-orszaghatarokon-ativelo-kapcsolatok",
+  "title": "7.9. Az országhatárokon átívelő kapcsolatok",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "7-9-az-orszaghatarokon-ativelo-kapcsolatok--k1",
+    "level": "kozep",
+    "text": "Ismertesse a külkereskedelem szerepét hazánk gazdaságában."
+   },
+   {
+    "id": "7-9-az-orszaghatarokon-ativelo-kapcsolatok--k2",
+    "level": "kozep",
+    "text": "Mutassa be nemzetközi gazdasági kapcsolataink irányának és tartalmának változását adatsorok alapján."
+   },
+   {
+    "id": "7-9-az-orszaghatarokon-ativelo-kapcsolatok--k3",
+    "level": "kozep",
+    "text": "Nevezze meg hazánk legfontosabb külkereskedelmi partnereit."
+   },
+   {
+    "id": "7-9-az-orszaghatarokon-ativelo-kapcsolatok--k4",
+    "level": "kozep",
+    "text": "Mondjon példákat a határainkon átnyúló regionális együttműködésekre."
+   }
+  ]
+ }
+]

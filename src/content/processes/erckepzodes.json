@@ -1,0 +1,63 @@
+{
+  "id": "erckepzodes",
+  "title": "Magmás és üledékes ércképződés",
+  "summary": "Az érc olyan ásványi nyersanyag, amelyből gazdaságosan nyerhető ki fém. Az ércek egy része a magma kristályosodásához, más része a felszíni mállási és üledékképződési folyamatokhoz kötődik.",
+  "causes": [
+    "A magmában sokféle fém oldott állapotban van jelen, kristályosodáskor ezek bizonyos ásványokban dúsulnak.",
+    "A magmából kiváló forró, fémtartalmú oldatok a kőzetek repedéseibe nyomulnak.",
+    "A felszínen a mállás és az oldódás a fémeket kioldja, szállítja vagy helyben feldúsítja."
+  ],
+  "course": [
+    "Magmás ércképződés: a kristályosodó magmakamra alján a nehéz fémek ásványai (pl. vas-, króm-, nikkelércek) kiválnak és feldúsulnak.",
+    "A magma utolsó, forró oldataiból a repedésekben telérek formájában színes- és nemesfémércek (pl. réz, ólom, cink, arany, ezüst) válnak ki.",
+    "Üledékes ércképződés: a vízben oldott fémvegyületek tengerekben, tavakban kicsapódnak és rétegesen lerakódnak (pl. vasérc).",
+    "Forró, nedves éghajlaton az intenzív mállás kioldja a könnyen oldódó anyagokat, és visszamarad az alumíniumban gazdag bauxit."
+  ],
+  "consequences": [
+    "A magmás ércek a mélységi magmás kőzetekhez, ősföldekhez és hegységek magjához kötődnek.",
+    "Az üledékes ércek rétegesen, gyakran nagy területen fordulnak elő, ezért sokszor külszíni fejtéssel bányászhatók.",
+    "A bauxit lehet laterit-bauxit (trópusi mállás) vagy karsztbauxit (mészkőfelszín mélyedéseiben felhalmozódva).",
+    "Az ércek a kohászat és a gépipar alapanyagai, lelőhelyeik telepítő tényezők."
+  ],
+  "steps": [
+    { "title": "Fémek a magmában", "caption": "A mélyben keletkező magma sokféle fémet tartalmaz oldott állapotban. A kihűlés során ezek különböző ásványokban válnak ki.", "icon": "flame" },
+    { "title": "Magmás ércképződés: a nehéz ásványok kiválása", "caption": "A kristályosodó magmakamrában a nagy sűrűségű fémásványok (pl. vas-, króm-, nikkelércek) lesüllyednek és feldúsulnak.", "icon": "arrow-down" },
+    { "title": "Forró oldatok: telérek", "caption": "A magma maradék, forró, fémtartalmú oldatai a kőzetrepedésekbe nyomulnak, és ott telérekben színes- és nemesfémércek válnak ki.", "icon": "gem" },
+    { "title": "Mállás és szállítás a felszínen", "caption": "A felszínre került kőzetekből a mállás kioldja a fémvegyületeket, amelyeket a víz elszállít, vagy helyben feldúsulnak.", "icon": "cloud-rain" },
+    { "title": "Üledékes ércképződés: kicsapódás, lerakódás", "caption": "Az oldott fémvegyületek tengerekben, tavakban kicsapódnak, és vastag rétegekben lerakódnak; így keletkezett sok nagy vasérc-lelőhely.", "icon": "layers" },
+    { "title": "Bauxitképződés", "caption": "Forró, nedves éghajlaton a mállás minden könnyen oldódó anyagot kilúgoz, visszamarad az alumíniumban gazdag laterit-bauxit; mészkőfelszínen karsztbauxit halmozódik fel.", "icon": "sun" },
+    { "title": "Bányászat és hasznosítás", "caption": "Az ércekből kohászati eljárással nyerik ki a fémeket, amelyek az ipar alapanyagai.", "icon": "pickaxe" }
+  ],
+  "examples": [
+    { "text": "Hazánkban a Mátrában (Recsk) magmás eredetű rézérc található.", "places": ["magyarorszag--egyeb-tajak-teruletek--matra"] },
+    { "text": "A Bakony és a Vértes mészkőfelszínén karsztbauxit halmozódott fel, erre épült a hazai alumíniumipar (pl. Ajka).", "places": ["magyarorszag--egyeb-tajak-teruletek--bakony", "magyarorszag--egyeb-tajak-teruletek--vertes", "magyarorszag--telepulesek--ajka"] },
+    { "text": "A Nyugat-ausztráliai-ősföld és a Brazil-ősföld hatalmas, rétegesen lerakódott üledékes vasérckészleteiről ismert.", "places": ["fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold", "fold--nagyszerkezeti-egysegek--brazil-osfold"] },
+    { "text": "Ausztrália a világ egyik legnagyobb bauxittermelője, trópusi laterit-bauxit lelőhelyekkel.", "places": ["ausztralia-es-oceania--orszagok--ausztralia"] }
+  ],
+  "concepts": [
+    "érc",
+    "ásványi nyersanyag",
+    "magmás ércképződés",
+    "üledékes ércképződés",
+    "mélységi magmatizmus",
+    "telér",
+    "színes- és nemesfémek ércásványai",
+    "bauxit",
+    "vasérc",
+    "laterit- és karsztbauxit"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a magmás és az üledékes ércképződés folyamatát! Mondj példát mindkét típusra!",
+    "elements": [
+      { "text": "Az érc olyan ásványi nyersanyag, amelyből gazdaságosan nyerhető ki fém.", "points": 1 },
+      { "text": "Magmás ércképződés: a kristályosodó magmából nehéz fémek ásványai válnak ki és dúsulnak fel.", "points": 2 },
+      { "text": "A forró, fémtartalmú oldatokból telérekben színes- és nemesfémércek válnak ki.", "points": 2 },
+      { "text": "Üledékes ércképződés: mállás, oldott fémvegyületek szállítása, kicsapódás és rétegzett lerakódás (pl. vasérc).", "points": 2 },
+      { "text": "Bauxit: forró, nedves éghajlaton maradékos mállással (laterit-bauxit), illetve mészkőfelszínen (karsztbauxit).", "points": 2 },
+      { "text": "Helyes példák (pl. Recsk – rézérc; Bakony – karsztbauxit).", "points": 1 }
+    ],
+    "modelAnswer": "Az érc olyan ásványi nyersanyag, amelyből gazdaságosan nyerhető ki fém. Magmás ércképződéskor a kristályosodó magmából a nagy sűrűségű fémásványok, például vas-, króm- és nikkelércek válnak ki és dúsulnak fel a magmakamrában. A magma maradék, forró, fémtartalmú oldatai a kőzetrepedésekbe nyomulnak, és ott telérekben színes- és nemesfémércek válnak ki; hazánkban ilyen a Mátrában, Recsknél található rézérc. Üledékes ércképződéskor a mállás kioldja a fémvegyületeket, a víz elszállítja, majd tengerekben, tavakban kicsapódva rétegesen rakja le őket, így keletkezett sok nagy vasérc-lelőhely. Forró, nedves éghajlaton a maradékos mállás laterit-bauxitot hoz létre, mészkőfelszínen pedig karsztbauxit halmozódik fel, mint a Bakonyban."
+  },
+  "generated": true,
+  "reviewed": false
+}

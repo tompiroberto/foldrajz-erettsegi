@@ -1,0 +1,4721 @@
+{
+  "entries": [
+    {
+      "id": "gombhej",
+      "term": "gömbhéj",
+      "aliases": [
+        "geoszféra"
+      ],
+      "sourceLabels": [
+        "gömbhéj (geoszféra)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A Föld egymásba illeszkedő, koncentrikus övei közül egy, amely anyagában, sűrűségében és fizikai állapotában eltér a szomszédos övektől. A szilárd Föld gömbhéjai a földkéreg, a földköpeny és a földmag; ezeket kívülről a vízburok és a levegőburok veszi körül, érintkezési övezetükben jött létre a bioszféra és a talajburok.",
+      "example": "Befelé haladva a gömbhéjak sűrűsége, hőmérséklete és a nyomás is nő – a legsűrűbb gömbhéj a vasban és nikkelben gazdag földmag.",
+      "related": [
+        "foldkereg",
+        "foldkopeny",
+        "foldmag",
+        "kozetburok",
+        "vizburok",
+        "levegoburok",
+        "bioszfera",
+        "talajburok"
+      ],
+      "tags": [
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oceani-kereg",
+      "term": "óceáni kéreg",
+      "sourceLabels": [
+        "óceáni kéreg"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "Az óceánok aljzatát alkotó, vékony (kb. 5–10 km), főleg bazaltos összetételű földkéregtípus. Nagyobb sűrűségű és földtörténetileg fiatalabb, mint a kontinentális kéreg; az óceánközépi hátságoknál folyamatosan képződik, a mélytengeri árkoknál alábukik és felemésztődik.",
+      "example": "Az Atlanti-óceán aljzata a Közép-atlanti-hátságtól távolodva egyre idősebb óceáni kéregből áll.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "kontinentalis-kereg",
+        "foldkereg",
+        "oceankozepi-hatsag",
+        "alabukas",
+        "bazalt"
+      ],
+      "tags": [
+        "kőzetburok",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kontinentalis-kereg",
+      "term": "kontinentális kéreg",
+      "sourceLabels": [
+        "kontinentális kéreg"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A szárazföldeket és a selftengerek aljzatát alkotó földkéregtípus; átlagosan 30–40 km vastag, a magas hegységek alatt ennél jóval vastagabb. Felső része gránitos (savanyú), alsó része bazaltos összetételű; kisebb sűrűségű és sokkal idősebb kőzeteket is tartalmaz, mint az óceáni kéreg, ezért nem bukik alá.",
+      "example": "A Himalája alatt a két kontinentális lemez összetorlódása miatt a kéreg különösen vastag.",
+      "examplePlaces": [
+        "azsia--tajak--himalaja"
+      ],
+      "related": [
+        "oceani-kereg",
+        "foldkereg",
+        "granit",
+        "osfold"
+      ],
+      "tags": [
+        "kőzetburok",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozetburok",
+      "term": "kőzetburok",
+      "aliases": [
+        "litoszféra"
+      ],
+      "sourceLabels": [
+        "kőzetburok (litoszféra)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A Föld legkülső, merev, szilárd gömbhéja, amely a földkéregből és a földköpeny legfelső, szilárd részéből áll; vastagsága változó, átlagosan mintegy 100 km. Kőzetlemezekre tagolódik, amelyek az alatta lévő képlékeny asztenoszférán mozognak.",
+      "example": "Figyelj arra, hogy a kőzetburok nem azonos a földkéreggel: a kőzetburok a kérget és a felső köpeny merev részét is magában foglalja.",
+      "related": [
+        "foldkereg",
+        "foldkopeny",
+        "asztenoszfera",
+        "kozetlemez"
+      ],
+      "tags": [
+        "kőzetburok",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizburok",
+      "term": "vízburok",
+      "aliases": [
+        "hidroszféra"
+      ],
+      "sourceLabels": [
+        "vízburok (hidroszféra)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A Föld összes vizét magában foglaló, nem összefüggő gömbhéj: a világtenger, a felszíni és felszín alatti vizek, a jég és a légkör vízgőze. A víz kb. 97%-a a sós világtengerben található.",
+      "example": "A víz körforgása kapcsolja össze a vízburkot a levegőburokkal, a kőzetburokkal és a bioszférával.",
+      "related": [
+        "gombhej",
+        "levegoburok",
+        "bioszfera"
+      ],
+      "tags": [
+        "vízburok",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "levegoburok",
+      "term": "levegőburok",
+      "aliases": [
+        "atmoszféra",
+        "légkör"
+      ],
+      "sourceLabels": [
+        "levegőburok (atmoszféra)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A Földet körülvevő, a nehézségi erő által megtartott gázburok. Fő összetevői a nitrogén (kb. 78%) és az oxigén (kb. 21%); felfelé ritkul, és hőmérsékleti viszonyai alapján rétegekre tagolódik.",
+      "example": "Az ózonréteg a sztratoszférában elnyeli a Nap ultraibolya sugárzásának nagy részét, így védi a bioszférát.",
+      "related": [
+        "gombhej",
+        "vizburok",
+        "bioszfera"
+      ],
+      "tags": [
+        "légkör",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bioszfera",
+      "term": "bioszféra",
+      "sourceLabels": [
+        "bioszféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "Az élőlények és életterük által elfoglalt gömbhéj, amely átfogja a levegőburok alsó részét, a vízburkot és a kőzetburok legfelső részét. Az élőlények tevékenysége visszahat a többi gömbhéjra (pl. a légkör oxigéntartalma, a talajképződés, a szerves eredetű kőzetek).",
+      "example": "A mészkő, a kőszén és a kőolaj egykori élőlények maradványaiból keletkezett – ez a bioszféra kőzetburokra gyakorolt hatása.",
+      "related": [
+        "gombhej",
+        "talajburok",
+        "levegoburok",
+        "vizburok"
+      ],
+      "tags": [
+        "kőzetburok",
+        "talaj",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talajburok",
+      "term": "talajburok",
+      "aliases": [
+        "pedoszféra"
+      ],
+      "sourceLabels": [
+        "talajburok (pedoszféra)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A szárazföldek felszínét borító, laza, termékeny réteg, amely a kőzetburok, a levegőburok, a vízburok és a bioszféra kölcsönhatása révén jön létre. Legfontosabb tulajdonsága a termékenység, vagyis hogy vizet és tápanyagot biztosít a növényeknek.",
+      "example": "A Mezőföld és a Hajdúság löszén kialakult csernozjom talajok hazánk legtermékenyebbjei közé tartoznak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--mezofold"
+      ],
+      "related": [
+        "bioszfera",
+        "losz",
+        "gombhej"
+      ],
+      "tags": [
+        "talaj",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "geotermikus-gradiens",
+      "term": "geotermikus gradiens",
+      "sourceLabels": [
+        "geotermikus gradiens"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "Megmutatja, hogy a földkéregben a mélység növekedésével 100 méterenként hány °C-kal emelkedik a hőmérséklet; átlagos értéke kb. 3 °C/100 m. Ahol a földkéreg vékony vagy a magma a felszínhez közel van, ott értéke nagyobb, ami a termálvizek és a geotermikus energia hasznosítását teszi lehetővé.",
+      "example": "A Kárpát-medencében a kéreg vékony, ezért a geotermikus gradiens az átlagosnál nagyobb – ennek köszönhetők a hévizek, pl. Hajdúszoboszlón; Izlandon a geotermikus energiát fűtésre és áramtermelésre is használják.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence",
+        "magyarorszag--telepulesek--hajduszoboszlo",
+        "europa--tajak--izland"
+      ],
+      "related": [
+        "foldkereg",
+        "vulkani-utomukodes"
+      ],
+      "tags": [
+        "kőzetburok",
+        "felszín-alatti-vizek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldmagnesseg",
+      "term": "földmágnesség",
+      "sourceLabels": [
+        "földmágnesség"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A Föld mágneses tere, amelyet a külső mag folyékony, vasban gazdag anyagának áramlása hoz létre. A mágneses pólusok nem esnek egybe a földrajzi pólusokkal, és helyük lassan vándorol; a mágneses tér eltéríti a Napból érkező töltött részecskéket (napszél).",
+      "example": "Az iránytű tűje a mágneses erővonalak irányába áll be, ezért használható tájékozódásra; a földrajzi és a mágneses észak közötti eltérést a térképeken jelölik.",
+      "related": [
+        "kulso-mag",
+        "foldmag"
+      ],
+      "tags": [
+        "kőzetburok",
+        "térkép",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldkereg",
+      "term": "földkéreg",
+      "sourceLabels": [
+        "földkéreg"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A Föld legkülső, legvékonyabb szilárd gömbhéja, amely alul a földköpennyel határos. Két típusa a vékonyabb, bazaltos óceáni kéreg és a vastagabb, gránitos-bazaltos kontinentális kéreg.",
+      "example": "A földkéreg a földköpeny legfelső merev részével együtt alkotja a kőzetburkot.",
+      "related": [
+        "oceani-kereg",
+        "kontinentalis-kereg",
+        "kozetburok",
+        "foldkopeny"
+      ],
+      "tags": [
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldkopeny",
+      "term": "földköpeny",
+      "sourceLabels": [
+        "földköpeny"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A földkéreg és a földmag közötti, kb. 2900 km mélységig terjedő gömbhéj; a Föld térfogatának legnagyobb részét adja. Főként vasban és magnéziumban gazdag szilikátokból áll; felső részében található a képlékeny asztenoszféra, amelynek áramlásai mozgatják a kőzetlemezeket.",
+      "example": "A köpeny anyaga a nagy nyomás miatt túlnyomórészt szilárd, csak az asztenoszférában van részlegesen megolvadt állapotban.",
+      "related": [
+        "foldkereg",
+        "foldmag",
+        "asztenoszfera",
+        "magmaaramlas"
+      ],
+      "tags": [
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldmag",
+      "term": "földmag",
+      "sourceLabels": [
+        "földmag"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A Föld legbelső gömbhéja, amely kb. 2900 km mélységtől a Föld középpontjáig (kb. 6370 km) terjed. Főként vasból és nikkelből áll, ezért a legnagyobb sűrűségű gömbhéj; folyékony külső és szilárd belső magra tagolódik.",
+      "example": "A földrengéshullámok közül a harántirányú hullámok nem haladnak át a külső magon – ebből tudjuk, hogy az folyékony.",
+      "related": [
+        "kulso-es-belso-mag",
+        "foldkopeny",
+        "foldmagnesseg",
+        "foldrengeshullamok"
+      ],
+      "tags": [
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kulso-es-belso-mag",
+      "term": "külső és belső mag",
+      "sourceLabels": [
+        "külső és belső mag"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A földmag két része: a folyékony halmazállapotú külső mag és a szilárd belső mag. Mindkettő főként vasból és nikkelből áll; halmazállapotuk eltérését a nyomás különbsége okozza.",
+      "example": "A külső mag áramló anyaga hozza létre a Föld mágneses terét.",
+      "related": [
+        "foldmag",
+        "kulso-mag",
+        "belso-mag",
+        "foldmagnesseg"
+      ],
+      "tags": [
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kulso-mag",
+      "term": "külső mag",
+      "sourceLabels": [],
+      "parent": "kulso-es-belso-mag",
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A földmag külső, kb. 2900 km és kb. 5100 km mélység közötti része, amely folyékony halmazállapotú, vasban és nikkelben gazdag olvadék. Anyagának áramlása hozza létre a földmágnességet.",
+      "example": "A harántirányú földrengéshullámok a külső magon nem haladnak át.",
+      "related": [
+        "belso-mag",
+        "foldmagnesseg"
+      ],
+      "tags": [
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "belso-mag",
+      "term": "belső mag",
+      "sourceLabels": [],
+      "parent": "kulso-es-belso-mag",
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A földmag kb. 5100 km mélységtől a Föld középpontjáig terjedő része. Hőmérséklete igen magas, mégis szilárd, mert az óriási nyomás miatt anyaga nem tud megolvadni.",
+      "example": "Figyelj arra, hogy a belső mag nem a hideg, hanem a nyomás miatt szilárd.",
+      "related": [
+        "kulso-mag",
+        "foldmag"
+      ],
+      "tags": [
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "asztenoszfera",
+      "term": "asztenoszféra",
+      "sourceLabels": [
+        "asztenoszféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+      "level": "kozep",
+      "definition": "A felső köpenyben, a kőzetburok alatt elhelyezkedő, részlegesen megolvadt, képlékeny réteg. Anyagában hőkülönbség okozta áramlások alakulnak ki, amelyek a rajta úszó kőzetlemezeket mozgatják.",
+      "example": "Az asztenoszféra feláramló ága az óceánközépi hátságok alatt széttolja, leáramló ága a mélytengeri árkoknál lehúzza a kőzetlemezeket.",
+      "related": [
+        "kozetburok",
+        "magmaaramlas",
+        "kozetlemez",
+        "foldkopeny"
+      ],
+      "tags": [
+        "kőzetburok",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "magma",
+      "term": "magma",
+      "sourceLabels": [
+        "magma"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A Föld belsejében található, nagy hőmérsékletű, gázokat és vízgőzt tartalmazó kőzetolvadék. Ha a mélyben szilárdul meg, mélységi magmás kőzet lesz belőle; ha a felszínre jut, lávaként ömlik ki.",
+      "example": "A közeledő lemezszegélyeken az alábukó lemez beolvadásából keletkező magma táplálja az Andok vulkánjait.",
+      "examplePlaces": [
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "lava",
+        "magmakamra",
+        "melysegi-magmatizmus",
+        "felszini-vulkanossag",
+        "magmas-kozet"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "magmaaramlas",
+      "term": "magmaáramlás",
+      "aliases": [
+        "köpenyáramlás"
+      ],
+      "sourceLabels": [
+        "magmaáramlás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A földköpeny (asztenoszféra) képlékeny anyagának hőkülönbség okozta, lassú, körkörös áramlása: a forróbb anyag felemelkedik, a hűlő anyag lesüllyed. Ez a kőzetlemezek mozgásának fő hajtóereje.",
+      "example": "A feláramlás helyén (pl. a Közép-atlanti-hátság alatt) a lemezek távolodnak, a leáramlásnál (pl. a Japán-árok mentén) közelednek.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean",
+        "fold--nagyszerkezeti-egysegek--japan-arok"
+      ],
+      "related": [
+        "asztenoszfera",
+        "kozetlemez",
+        "lemezmozgasok"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozetlemez",
+      "term": "kőzetlemez",
+      "sourceLabels": [
+        "kőzetlemez"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A kőzetburok mélytörésekkel határolt, az asztenoszférán mozgó, merev darabja. Felépítése szerint lehet óceáni (csak óceáni kéreg), kontinentális (túlnyomóan kontinentális kéreg) vagy vegyes (óceáni és kontinentális kéregrészt is hordoz).",
+      "example": "A Nazca-lemez óceáni, az Eurázsiai-lemez nagyrészt kontinentális, az Észak-amerikai-lemez az Atlanti-óceán nyugati felének aljzatát is hordozó vegyes lemez.",
+      "examplePlaces": [
+        "fold--kozetlemezek--nazca-lemez",
+        "fold--kozetlemezek--eurazsiai-lemez",
+        "fold--kozetlemezek--eszak-amerikai-lemez"
+      ],
+      "related": [
+        "kozetburok",
+        "lemezmozgasok",
+        "magmaaramlas",
+        "gyarapodo-es-folemesztodo-lemezszegelyek"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hasadekvolgy",
+      "term": "hasadékvölgy",
+      "sourceLabels": [
+        "hasadékvölgy"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Távolodó lemezmozgás helyén, párhuzamos vetők mentén lezökkent, hosszú, keskeny, mély árok. Kialakulhat a kontinensek szétszakadásakor és az óceánközépi hátságok tengelyében is.",
+      "example": "A Kelet-afrikai-árokrendszer a szárazföld szétszakadásának kezdeti, a Vörös-tenger már az óceánná szélesedés korai szakaszát mutatja.",
+      "examplePlaces": [
+        "afrika--tajak--afrikai-arokrendszer",
+        "afrika--vizrajz--voros-tenger"
+      ],
+      "related": [
+        "tavolodo-lemezmozgas",
+        "oceankozepi-hatsag",
+        "vetodes",
+        "tektonikus-arok"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oceankozepi-hatsag",
+      "term": "óceánközépi hátság",
+      "sourceLabels": [
+        "óceánközépi hátság"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Távolodó óceáni lemezszegély mentén húzódó, az óceánok aljzatán végigfutó, tenger alatti vulkáni hegyláncrendszer, tengelyében hasadékvölggyel. Itt a feláramló magmából folyamatosan új óceáni kéreg képződik, ezért a Föld nagyszerkezeti egységei között is számon tartjuk.",
+      "example": "A Közép-atlanti-hátság Izlandon a tengerszint fölé emelkedik, ezért ott a hasadékvulkánosság a szárazföldön is megfigyelhető.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean",
+        "europa--tajak--izland"
+      ],
+      "related": [
+        "tavolodo-lemezmozgas",
+        "oceani-kereg",
+        "hasadekvolgy",
+        "parnalava",
+        "melytengeri-arok"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "nagyszerkezet",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "melytengeri-arok",
+      "term": "mélytengeri árok",
+      "sourceLabels": [
+        "mélytengeri árok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Közeledő lemezszegély mentén, az óceáni lemez alábukásának vonalában kialakult, hosszú, keskeny és igen mély tengerfenéki mélyedés; a Föld nagyszerkezeti egységei közé tartozik. A Föld legmélyebb pontjai a mélytengeri árkokban vannak.",
+      "example": "A Mariana-árok a Csendes-óceán nyugati részén a Föld legmélyebb ismert pontját rejti (kb. 11 km).",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--mariana-arok",
+        "fold--nagyszerkezeti-egysegek--japan-arok"
+      ],
+      "related": [
+        "alabukas",
+        "kozeledo-lemezmozgas",
+        "vulkani-szigetiv",
+        "oceankozepi-hatsag"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "nagyszerkezet",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vulkani-szigetiv",
+      "term": "vulkáni szigetív",
+      "sourceLabels": [
+        "vulkáni szigetív"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Két óceáni lemez közeledésekor az alábukó lemez beolvadásából származó magma felszínre jutásával kialakult, ív alakban sorakozó vulkanikus szigetsor. A mélytengeri árokkal párhuzamosan, a fölé tolódó lemezen helyezkedik el.",
+      "example": "Vulkáni szigetív például a Mariana-szigetek, az Aleut-szigetek és a Kis-Antillák szigetsora.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--mariana-arok",
+        "amerika--tajak--antillak"
+      ],
+      "related": [
+        "melytengeri-arok",
+        "alabukas",
+        "beolvadas",
+        "hegysegkepzodes-ket-oceani"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lemezmozgasok",
+      "term": "távolodó, közeledő és elcsúszó lemezmozgás",
+      "aliases": [
+        "lemezmozgások típusai"
+      ],
+      "sourceLabels": [
+        "távolodó",
+        "közeledő és elcsúszó lemezmozgás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A kőzetlemezek egymáshoz viszonyított mozgásának három típusa. Távolodáskor új kéreg képződik, közeledéskor a kéreg alábukik vagy összetorlódik, elcsúszáskor a lemezek egymás mellett, vízszintesen mozdulnak el, kéreg nem keletkezik és nem is pusztul.",
+      "example": "Távolodás: Közép-atlanti-hátság; közeledés: Andok, Himalája; elcsúszás: Szent András-törésvonal Kaliforniában.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean",
+        "amerika--tajak--andok",
+        "amerika--varosok--san-francisco"
+      ],
+      "related": [
+        "tavolodo-lemezmozgas",
+        "kozeledo-lemezmozgas",
+        "elcsuszo-lemezmozgas",
+        "magmaaramlas",
+        "kozetlemez"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tavolodo-lemezmozgas",
+      "term": "távolodó lemezmozgás",
+      "sourceLabels": [],
+      "parent": "lemezmozgasok",
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A magma feláramlásának helyén a kőzetlemezek egymástól eltávolodnak; a résen feltörő bazaltos magmából új óceáni kéreg képződik. Szárazföldön hasadékvölgy, óceánban óceánközépi hátság jön létre, a vulkánosság hasadékvulkános, a földrengések sekély fészkűek.",
+      "example": "Izland és a Kelet-afrikai-árokrendszer távolodó lemezszegélyen fekszik.",
+      "examplePlaces": [
+        "europa--tajak--izland",
+        "afrika--tajak--afrikai-arokrendszer"
+      ],
+      "related": [
+        "oceankozepi-hatsag",
+        "hasadekvolgy",
+        "hasadekvulkan",
+        "gyarapodo-lemezszegely"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozeledo-lemezmozgas",
+      "term": "közeledő lemezmozgás",
+      "sourceLabels": [],
+      "parent": "lemezmozgasok",
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A kőzetlemezek egymás felé mozognak: a nagyobb sűrűségű óceáni lemez alábukik, két kontinentális lemez pedig összetorlódik. Kísérői a mélytengeri árok, a robbanásos vulkánosság, a gyakori, akár mély fészkű földrengések és a hegységképződés.",
+      "example": "Az Andok a Nazca-lemez és a Dél-amerikai-lemez, a Himalája az Indiai (Ausztrál-indiai) és az Eurázsiai-lemez közeledésével jött létre.",
+      "examplePlaces": [
+        "amerika--tajak--andok",
+        "azsia--tajak--himalaja"
+      ],
+      "related": [
+        "alabukas",
+        "beolvadas",
+        "melytengeri-arok",
+        "hegysegkepzodes-tipusai",
+        "folemesztodo-lemezszegely"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "elcsuszo-lemezmozgas",
+      "term": "elcsúszó lemezmozgás",
+      "aliases": [
+        "elcsúszó lemezszegély"
+      ],
+      "sourceLabels": [],
+      "parent": "lemezmozgasok",
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A kőzetlemezek egy törésvonal mentén egymás mellett, ellentétes vagy eltérő sebességgel csúsznak el. Kéreg nem keletkezik és nem is semmisül meg, vulkánosság nem jellemző, de a lemezek akadozó mozgása gyakori és erős földrengéseket okoz.",
+      "example": "A Szent András-törésvonal mentén a Csendes-óceáni-lemez és az Észak-amerikai-lemez csúszik el egymás mellett; San Francisco ezért földrengésveszélyes.",
+      "examplePlaces": [
+        "amerika--varosok--san-francisco"
+      ],
+      "related": [
+        "foldrenges",
+        "toresvonal"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "földrengés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "alabukas",
+      "term": "alábukás",
+      "aliases": [
+        "szubdukció"
+      ],
+      "sourceLabels": [
+        "alábukás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Közeledő lemezmozgáskor a nagyobb sűrűségű óceáni lemez a másik (óceáni vagy kontinentális) lemez alá bukik, és lesüllyed a földköpenybe. Mentén mélytengeri árok, földrengések és – a beolvadás miatt – vulkánosság jellemző.",
+      "example": "A Nazca-lemez a Dél-amerikai-lemez alá bukik, emiatt kísérik az Andokat vulkánok és erős földrengések.",
+      "examplePlaces": [
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "beolvadas",
+        "melytengeri-arok",
+        "kozeledo-lemezmozgas",
+        "folemesztodo-lemezszegely"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "beolvadas",
+      "term": "beolvadás",
+      "sourceLabels": [
+        "beolvadás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Az alábukó kőzetlemez anyaga a mélyben a növekvő hőmérséklet hatására (a magával vitt víz segítségével) részben megolvad, és beolvad a földköpenybe. Az így keletkező magma felfelé nyomul, és vulkánosságot, mélységi magmatizmust, ércképződést okoz.",
+      "example": "A japán vulkánok magmája az alábukó Csendes-óceáni-lemez beolvadásából származik.",
+      "examplePlaces": [
+        "azsia--tajak--japan-szigetek"
+      ],
+      "related": [
+        "alabukas",
+        "magma",
+        "vulkani-szigetiv",
+        "magmas-erckepzodes"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "erc",
+      "term": "érc",
+      "sourceLabels": [
+        "érc"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Olyan ásvány vagy ásványtársulás (kőzet), amelyből valamely fém a technika adott szintjén gazdaságosan kinyerhető. Képződése sokszor magmás tevékenységhez, így a lemezszegélyekhez kapcsolódik, de üledékes úton is létrejöhet.",
+      "example": "Chile az Andok magmás tevékenységéhez kötődő rézércek révén a világ legnagyobb réztermelője.",
+      "examplePlaces": [
+        "amerika--orszagok--chile",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "magmas-erckepzodes",
+        "uledekes-erckepzodes",
+        "ercasvanyok",
+        "asvanyi-nyersanyag",
+        "vaserc",
+        "bauxit"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "melysegi-magmatizmus",
+      "term": "mélységi magmatizmus",
+      "sourceLabels": [
+        "mélységi magmatizmus"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A magma a földkéregbe nyomul, de nem éri el a felszínt, hanem a mélyben lassan kihűl és megszilárdul. Így jönnek létre a mélységi magmás kőzettestek (pl. gránit), a telérek és számos érctelep.",
+      "example": "A Velencei-hegység gránitja mélységi magmatizmussal keletkezett, és a lepusztulás után került a felszínre.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg"
+      ],
+      "related": [
+        "melysegi-magmas-kozet",
+        "granit",
+        "teler",
+        "magmas-erckepzodes",
+        "felszini-vulkanossag"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felszini-vulkanossag",
+      "term": "felszíni vulkánosság",
+      "aliases": [
+        "vulkánosság",
+        "vulkanizmus"
+      ],
+      "sourceLabels": [
+        "felszíni vulkánosság"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A magma felszínre jutása kürtőn vagy hasadékon keresztül, lávaömlés, vulkáni törmelék kiszórása és gázkiáramlás formájában. Jellege a magma összetételétől függ: a bázisos, hígfolyós láva csendesen ömlik, a savanyú, gázdús magma robbanásos kitörést okoz.",
+      "example": "Az Etna Európa legaktívabb vulkánja; Hawaii vulkánjain csendes lávaömlés jellemző.",
+      "examplePlaces": [
+        "europa--tajak--etna",
+        "amerika--tajak--hawaii-szigetek"
+      ],
+      "related": [
+        "lava",
+        "vulkani-hamu",
+        "retegvulkan",
+        "pajzsvulkan",
+        "hasadekvulkan",
+        "melysegi-magmatizmus"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lava",
+      "term": "láva",
+      "sourceLabels": [
+        "láva"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A felszínre jutott, gázainak nagy részét elvesztett magma. A bázisos (bazaltos) láva hígfolyós, messzire elfolyik; a savanyú (riolitos) és a semleges (andezites) láva sűrűn folyó, a kürtő közelében megreked.",
+      "example": "Hawaii pajzsvulkánjain a hígfolyós bazaltláva kilométerekre elfolyik.",
+      "examplePlaces": [
+        "amerika--tajak--hawaii-szigetek"
+      ],
+      "related": [
+        "magma",
+        "vulkani-kiomlesi-kozet",
+        "bazalt",
+        "parnalava"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vulkani-hamu",
+      "term": "vulkáni hamu",
+      "sourceLabels": [
+        "vulkáni hamu"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A robbanásos vulkánkitöréskor a levegőbe szórt, apró szemcséjű vulkáni törmelék. Nagy területre szétterülhet, veszélyezteti a légi közlekedést, lerakódva és összecementálódva tufává válik.",
+      "example": "A Vezúv i. sz. 79-es kitörésekor a hamu és a forró törmelékár betemette Pompejit.",
+      "examplePlaces": [
+        "europa--tajak--vezuv"
+      ],
+      "related": [
+        "tufa",
+        "retegvulkan",
+        "felszini-vulkanossag"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "retegvulkan",
+      "term": "rétegvulkán",
+      "aliases": [
+        "sztratovulkán"
+      ],
+      "sourceLabels": [
+        "rétegvulkán"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Kürtős (csatornás) vulkán, amelynek meredek lejtőjű kúpja a lávarétegek és a kiszórt vulkáni törmelék (hamu, lapilli, bombák) rétegeinek váltakozásából épül fel. Kitörései felváltva robbanásosak és lávaömlésesek; jellemzően közeledő lemezszegélyeken alakul ki, semleges (andezites) magmából.",
+      "example": "Rétegvulkán a Fudzsi és a Vezúv; Magyarországon a Mátra és a Börzsöny egykori rétegvulkánok maradványa.",
+      "examplePlaces": [
+        "azsia--tajak--fuji-fudzsi",
+        "europa--tajak--vezuv",
+        "magyarorszag--egyeb-tajak-teruletek--matra",
+        "magyarorszag--egyeb-tajak-teruletek--borzsony"
+      ],
+      "related": [
+        "csatornas-vulkan",
+        "pajzsvulkan",
+        "vulkani-hamu",
+        "andezit",
+        "kaldera"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "magmakamra",
+      "term": "magmakamra",
+      "sourceLabels": [
+        "magmakamra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A vulkán alatt, a földkéregben található üreg vagy tér, ahol a mélyből felnyomuló magma felhalmozódik, mielőtt a kürtőn át a felszínre jut. Ha kiürül, a fölötte lévő kőzetek beszakadhatnak (kaldera).",
+      "example": "A vulkán felépítését bemutató ábrán alulról felfelé: magmakamra – kürtő – kráter.",
+      "related": [
+        "kurto",
+        "krater",
+        "kaldera",
+        "magma"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kurto",
+      "term": "kürtő",
+      "sourceLabels": [
+        "kürtő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A magmakamrát a felszínnel összekötő csatorna, amelyen át a magma, a gázok és a vulkáni törmelék a felszínre jutnak. A kihűlt kürtőt kitöltő kőzet a lepusztulás után vulkáni kúpként maradhat meg.",
+      "example": "A vulkán felépítését bemutató ábrán a kürtő köti össze a mélyben lévő magmakamrát a csúcson nyíló kráterrel.",
+      "related": [
+        "magmakamra",
+        "krater",
+        "csatornas-vulkan"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "krater",
+      "term": "kráter",
+      "sourceLabels": [
+        "kráter"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A vulkán kürtőjének felszíni, tölcsér vagy katlan alakú nyílása, amelyen át a kitörés anyaga a felszínre kerül. Kialudt vulkán kráterében krátertó alakulhat ki.",
+      "example": "A Szent Anna-tó a Csomád-hegység kialudt vulkánjának kráterében található.",
+      "examplePlaces": [
+        "europa--vizrajz--szent-anna-to"
+      ],
+      "related": [
+        "kurto",
+        "kaldera",
+        "magmakamra"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "csatornas-vulkan",
+      "term": "csatornás vulkán",
+      "aliases": [
+        "kürtős vulkán"
+      ],
+      "sourceLabels": [
+        "csatornás (kürtős) vulkán"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Olyan vulkán, amelynél a magma egy központi kürtőn (csatornán) át jut a felszínre, ezért kúp alakú vulkáni hegy épül fel. Típusai a magma összetétele szerint a meredek lejtőjű rétegvulkán és a lapos pajzsvulkán.",
+      "example": "A Vezúv és a Fudzsi csatornás vulkán; a hasadékvulkánoktól abban különböznek, hogy kitörési helyük egy pontra koncentrálódik.",
+      "examplePlaces": [
+        "europa--tajak--vezuv",
+        "azsia--tajak--fuji-fudzsi"
+      ],
+      "related": [
+        "kurto",
+        "retegvulkan",
+        "pajzsvulkan",
+        "hasadekvulkan"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hasadekvulkan",
+      "term": "hasadékvulkán",
+      "sourceLabels": [
+        "hasadékvulkán"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "Olyan vulkán, amelynél a láva hosszú hasadék (repedés) mentén, egyszerre több ponton ömlik ki. Többnyire hígfolyós bazaltlávát termel, amely nagy területeket takar be; jellemzően távolodó lemezszegélyeken alakul ki.",
+      "example": "Izlandon a hasadékvulkánok kitörései gyakoriak, mert a sziget a Közép-atlanti-hátságon fekszik.",
+      "examplePlaces": [
+        "europa--tajak--izland"
+      ],
+      "related": [
+        "tavolodo-lemezmozgas",
+        "bazaltfennsik",
+        "csatornas-vulkan",
+        "bazalt"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldrenges",
+      "term": "földrengés",
+      "sourceLabels": [
+        "földrengés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A kőzetburok hirtelen rázkódása, amely akkor következik be, amikor a kőzetekben felhalmozódott feszültség egy törés mentén hirtelen elmozdulással felszabadul, és rengéshullámok indulnak ki. A földrengések túlnyomó többsége a kőzetlemezek szegélyei mentén pattan ki.",
+      "example": "A 2011-es japán földrengés a Csendes-óceáni-lemez alábukásához kapcsolódott, és pusztító cunamit keltett.",
+      "examplePlaces": [
+        "azsia--tajak--japan-szigetek"
+      ],
+      "related": [
+        "rengesfeszek",
+        "rengeskozpont",
+        "utorenges",
+        "foldrengeshullamok",
+        "elcsuszo-lemezmozgas"
+      ],
+      "tags": [
+        "földrengés",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rengesfeszek",
+      "term": "rengésfészek",
+      "aliases": [
+        "hipocentrum"
+      ],
+      "sourceLabels": [
+        "rengésfészek (hipocentrum)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A Föld belsejében az a pont (terület), ahol a földrengés kipattan, és ahonnan a rengéshullámok kiindulnak. Felszíntől mért mélysége a fészekmélység.",
+      "example": "A rengésfészek fölött, a felszínen található a rengésközpont.",
+      "related": [
+        "rengeskozpont",
+        "feszekmelyseg",
+        "foldrenges"
+      ],
+      "tags": [
+        "földrengés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rengeskozpont",
+      "term": "rengésközpont",
+      "aliases": [
+        "epicentrum"
+      ],
+      "sourceLabels": [
+        "rengésközpont (epicentrum)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A felszínnek a rengésfészek fölött függőlegesen elhelyezkedő pontja. Itt éri el a rengés leghamarabb a felszínt, és többnyire itt a legnagyobb a pusztítás.",
+      "example": "Figyelj arra, hogy a rengésközpont a felszínen, a rengésfészek a mélyben van – a kettőt egy függőleges egyenes köti össze.",
+      "related": [
+        "rengesfeszek",
+        "foldrenges",
+        "szeizmograf"
+      ],
+      "tags": [
+        "földrengés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "utorenges",
+      "term": "utórengés",
+      "sourceLabels": [
+        "utórengés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "kozep",
+      "definition": "A főrengést követő, általában kisebb erősségű rengések, amelyek során a kőzettestek új egyensúlyi helyzetbe kerülnek. Napokig, akár hónapokig is tarthatnak, és a már megrongálódott épületeket tovább pusztíthatják.",
+      "example": "Az erős földrengések után a mentést az utórengések veszélye is nehezíti.",
+      "related": [
+        "foldrenges",
+        "rengesfeszek"
+      ],
+      "tags": [
+        "földrengés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gyarapodo-es-folemesztodo-lemezszegelyek",
+      "term": "gyarapodó és fölemésztődő lemezszegélyek",
+      "sourceLabels": [
+        "gyarapodó és fölemésztődő lemezszegélyek"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A lemezszegélyek csoportosítása aszerint, hogy rajtuk képződik vagy megsemmisül a kőzetburok anyaga. Gyarapodó szegélyen (távolodó lemezek) új óceáni kéreg keletkezik, fölemésztődő szegélyen (közeledő lemezek, alábukás) a kéreg visszakerül a köpenybe.",
+      "example": "A Csendes-óceán peremén fölemésztődő, az Atlanti-óceán közepén gyarapodó lemezszegélyek húzódnak.",
+      "examplePlaces": [
+        "fold--oceanok--csendes-ocean",
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "gyarapodo-lemezszegely",
+        "folemesztodo-lemezszegely",
+        "lemezmozgasok"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gyarapodo-lemezszegely",
+      "term": "gyarapodó lemezszegély",
+      "aliases": [
+        "építő lemezszegély"
+      ],
+      "sourceLabels": [],
+      "parent": "gyarapodo-es-folemesztodo-lemezszegelyek",
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Távolodó kőzetlemezek határa, ahol a feláramló magmából új óceáni kéreg képződik, így a lemezek területe gyarapszik. Ilyen az óceánközépi hátságok tengelye.",
+      "example": "A Közép-atlanti-hátság gyarapodó lemezszegély, ezért az Atlanti-óceán lassan szélesedik.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "tavolodo-lemezmozgas",
+        "oceankozepi-hatsag"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "folemesztodo-lemezszegely",
+      "term": "fölemésztődő lemezszegély",
+      "aliases": [
+        "pusztuló lemezszegély"
+      ],
+      "sourceLabels": [],
+      "parent": "gyarapodo-es-folemesztodo-lemezszegelyek",
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Közeledő kőzetlemezek határa, ahol az óceáni kéreg alábukik és a köpenybe visszaolvad, így a lemez területe fogy. Mentén mélytengeri árok, vulkáni szigetív vagy vulkáni hegylánc és gyakori földrengés jellemző.",
+      "example": "A Csendes-óceánt körülölelő „Tűzgyűrű” fölemésztődő lemezszegélyek sora.",
+      "examplePlaces": [
+        "fold--oceanok--csendes-ocean"
+      ],
+      "related": [
+        "alabukas",
+        "beolvadas",
+        "melytengeri-arok",
+        "kozeledo-lemezmozgas"
+      ],
+      "tags": [
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "teler",
+      "term": "telér",
+      "sourceLabels": [
+        "telér"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A kőzetek repedéseibe benyomult és ott megszilárdult magmából vagy forró oldatokból kivált, lemez alakú kőzettest. A forró oldatokból képződött érctelérek fontos színesfém- és nemesfém-lelőhelyek.",
+      "example": "A Mátra érctelérei (Gyöngyösoroszi, Recsk környéke) ólom-, cink- és rézércet tartalmaztak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--matra"
+      ],
+      "related": [
+        "melysegi-magmatizmus",
+        "magmas-erckepzodes",
+        "erc"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "parnalava",
+      "term": "párnaláva",
+      "sourceLabels": [
+        "párnaláva"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Víz alatt kiömlő bazaltláva, amelynek felszíne a hideg víztől gyorsan megdermed, ezért párna vagy zsák alakú lávatömbök halmozódnak egymásra. Az óceánközépi hátságok jellegzetes képződménye.",
+      "example": "A párnaláva a szárazföldön egykori tengerfenéki vulkánosságra utal.",
+      "related": [
+        "oceankozepi-hatsag",
+        "lava",
+        "bazalt"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bazaltfennsik",
+      "term": "bazaltfennsík",
+      "aliases": [
+        "bazalttakaró"
+      ],
+      "sourceLabels": [
+        "bazaltfennsík"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Hasadékok mentén nagy tömegben kiömlő, hígfolyós bazaltláva egymásra rétegződő takaróiból felépült, nagy kiterjedésű fennsík.",
+      "example": "A Dekkán-fennsík nyugati részét hatalmas bazalttakarók borítják.",
+      "examplePlaces": [
+        "azsia--tajak--dekkan-fennsik"
+      ],
+      "related": [
+        "hasadekvulkan",
+        "bazalt",
+        "forropontos-vulkan"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "pajzsvulkan",
+      "term": "pajzsvulkán",
+      "sourceLabels": [
+        "pajzsvulkán"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Hígfolyós, bázisos (bazaltos) láva csendes kiömléséből felépült, igen széles alapú, lapos lejtőjű, pajzs alakú vulkán. Kitörései többnyire nem robbanásosak.",
+      "example": "A Hawaii-szigetek vulkánjai (pl. Mauna Loa) a legismertebb pajzsvulkánok.",
+      "examplePlaces": [
+        "amerika--tajak--hawaii-szigetek"
+      ],
+      "related": [
+        "retegvulkan",
+        "csatornas-vulkan",
+        "forropontos-vulkan",
+        "bazalt"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kaldera",
+      "term": "kaldera",
+      "sourceLabels": [
+        "kaldera"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Nagy átmérőjű, katlan alakú vulkáni mélyedés, amely a kiürült magmakamra fölötti kőzetek beszakadásával vagy hatalmas robbanással jön létre. Vízzel feltöltődve kalderató alakul ki.",
+      "example": "Az oregoni Kráter-tó egy beszakadt vulkán kalderájában fekszik; a Krakatau 1883-as kitörése után is kaldera maradt vissza.",
+      "examplePlaces": [
+        "amerika--vizrajz--krater-to"
+      ],
+      "related": [
+        "krater",
+        "magmakamra",
+        "retegvulkan"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "forropontos-vulkan",
+      "term": "forrópontos vulkán",
+      "aliases": [
+        "forró pont"
+      ],
+      "sourceLabels": [
+        "forrópontos vulkán"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A földköpeny mélyéből feltörő, helyhez kötött forró anyagáram (forró pont) fölött kialakuló vulkán, amely a lemezszegélyektől távol, a lemez belsejében is működhet. Mivel a lemez a forró pont fölött elmozdul, idővel egymás után új vulkánok jönnek létre, és a régebbiek kialszanak.",
+      "example": "A Hawaii-szigetek láncában délkelet felé fiatalodnak a szigetek; forró pont fölött fekszik a Yellowstone is.",
+      "examplePlaces": [
+        "amerika--tajak--hawaii-szigetek",
+        "amerika--tajak--yellowstone-nemzeti-park",
+        "europa--tajak--izland"
+      ],
+      "related": [
+        "pajzsvulkan",
+        "bazaltfennsik",
+        "kozetlemez",
+        "magmaaramlas"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vulkani-utomukodes",
+      "term": "vulkáni utóműködés",
+      "aliases": [
+        "posztvulkáni működés"
+      ],
+      "sourceLabels": [
+        "vulkáni utóműködés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A vulkáni tevékenység lecsengésekor a még hűlő magmából gázok, gőzök és forró oldatok jutnak a felszínre. Formái a gejzír, a fumarola, a szolfatára, a mofetta és a savanyúvíz-forrás; gazdasági jelentősége a geotermikus energia, a gyógyvíz és a turizmus.",
+      "example": "Izlandon a vulkáni utóműködés hőjét fűtésre és áramtermelésre hasznosítják; a Yellowstone gejzírjei turisztikai vonzerők.",
+      "examplePlaces": [
+        "europa--tajak--izland",
+        "amerika--tajak--yellowstone-nemzeti-park"
+      ],
+      "related": [
+        "gejzir",
+        "fumarola",
+        "szolfatara",
+        "mofetta",
+        "savanyuviz",
+        "geotermikus-gradiens"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "felszín-alatti-vizek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gejzir",
+      "term": "gejzír",
+      "sourceLabels": [
+        "gejzír"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Időszakosan feltörő forró víz- és gőzsugár, amely akkor keletkezik, amikor a mélyben felhevült víz egy szűk csatornában forráspontja fölé melegszik és gőzzé válva kilöki a fölötte lévő vízoszlopot.",
+      "example": "Gejzírek vannak Izlandon (a névadó Geysir) és a Yellowstone Nemzeti Parkban.",
+      "examplePlaces": [
+        "europa--tajak--izland",
+        "amerika--tajak--yellowstone-nemzeti-park"
+      ],
+      "related": [
+        "vulkani-utomukodes",
+        "fumarola"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "felszín-alatti-vizek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fumarola",
+      "term": "fumarola",
+      "sourceLabels": [
+        "fumarola"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A vulkáni utóműködés olyan formája, amelynél nagy hőmérsékletű vízgőz és vulkáni gázok áramlanak ki a felszín repedésein.",
+      "example": "Fumarolák működnek az Etna és a Vezúv oldalában.",
+      "examplePlaces": [
+        "europa--tajak--etna",
+        "europa--tajak--vezuv"
+      ],
+      "related": [
+        "vulkani-utomukodes",
+        "szolfatara"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szolfatara",
+      "term": "szolfatára",
+      "sourceLabels": [
+        "szolfatára"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A vulkáni utóműködés olyan formája, amelynél kénvegyületeket (kén-hidrogént, kén-dioxidot) tartalmazó forró gázok és gőzök áramlanak ki; a nyílások körül kén válik ki.",
+      "example": "Nevét a Nápoly melletti Solfatara kráterről kapta.",
+      "related": [
+        "vulkani-utomukodes",
+        "fumarola",
+        "mofetta"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mofetta",
+      "term": "mofetta",
+      "sourceLabels": [
+        "mofetta"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A vulkáni utóműködés késői formája, amelynél már hideg (legfeljebb langyos) szén-dioxid áramlik ki a felszínre. A mélyedésekben összegyűlő szén-dioxid életveszélyes lehet, ugyanakkor gyógyászati célra is használják.",
+      "example": "A Székelyföldön (pl. a Hargita és a Csomád környékén) számos mofetta és gyógycélú „büdösgödör” található; hazánkban Mátraderecskén működik mofettafürdő.",
+      "examplePlaces": [
+        "europa--tajak--hargita"
+      ],
+      "related": [
+        "vulkani-utomukodes",
+        "savanyuviz",
+        "szolfatara"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "savanyuviz",
+      "term": "savanyúvíz",
+      "sourceLabels": [
+        "savanyúvíz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Szén-dioxidban gazdag, oldott ásványi anyagokat tartalmazó természetes forrásvíz, amely a vulkáni utóműködés során a mélyből feláramló szén-dioxidnak a felszín alatti vízben való oldódásával keletkezik.",
+      "example": "Savanyúvíz-források vannak a Székelyföldön (pl. Borszék, Tusnád) és Balatonfüreden.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--balatonfured"
+      ],
+      "related": [
+        "mofetta",
+        "vulkani-utomukodes"
+      ],
+      "tags": [
+        "vulkanizmus",
+        "felszín-alatti-vizek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "feszekmelyseg",
+      "term": "fészekmélység",
+      "sourceLabels": [
+        "fészekmélység"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A rengésfészek felszíntől mért mélysége; ez alapján sekély, közepes és mély fészkű földrengéseket különböztetünk meg. Azonos erősség mellett a sekély fészkű rengések a felszínen nagyobb pusztítást okoznak.",
+      "example": "Alábukásos lemezszegélyeken a fészekmélység az óceáni árok felől a szárazföld felé haladva egyre nő, mert a rengések az alábukó lemez mentén pattannak ki.",
+      "related": [
+        "rengesfeszek",
+        "rengeskozpont",
+        "alabukas"
+      ],
+      "tags": [
+        "földrengés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldrengeshullamok",
+      "term": "földrengéshullámok",
+      "aliases": [
+        "rengéshullámok",
+        "szeizmikus hullámok"
+      ],
+      "sourceLabels": [
+        "földrengéshullámok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A rengésfészekből minden irányba kiinduló rugalmas hullámok. A hosszanti (P) hullámok a leggyorsabbak és szilárd, folyékony közegben is terjednek; a harántirányú (S) hullámok lassabbak és folyadékban nem haladnak; a felszíni hullámok okozzák a legnagyobb pusztítást.",
+      "example": "Abból, hogy a harántirányú hullámok nem haladnak át a külső magon, következtetünk a külső mag folyékony állapotára.",
+      "related": [
+        "szeizmograf",
+        "rengesfeszek",
+        "kulso-mag",
+        "foldrenges"
+      ],
+      "tags": [
+        "földrengés",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szeizmograf",
+      "term": "szeizmográf",
+      "sourceLabels": [
+        "szeizmográf"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A földrengéshullámokat érzékelő és regisztráló műszer; az általa készített felvétel a szeizmogram. A hullámok beérkezési idejének különbségéből több állomás adatai alapján meghatározható a rengésközpont helye és a rengés erőssége.",
+      "example": "A szeizmográfok mérései alapján számítják a Richter-skála szerinti magnitúdót.",
+      "related": [
+        "foldrengeshullamok",
+        "richter-skala",
+        "rengeskozpont"
+      ],
+      "tags": [
+        "földrengés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tengerrenges",
+      "term": "tengerrengés",
+      "sourceLabels": [
+        "tengerrengés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A tengerfenék alatt kipattanó földrengés. Ha a tengerfenék hirtelen függőlegesen elmozdul, a teljes vízoszlopot megmozgatja, és cunamit kelthet.",
+      "example": "A 2004-es Szumátra melletti tengerrengés az Indiai-óceán partjain pusztító cunamit okozott.",
+      "examplePlaces": [
+        "fold--oceanok--indiai-ocean"
+      ],
+      "related": [
+        "cunami",
+        "foldrenges",
+        "alabukas"
+      ],
+      "tags": [
+        "földrengés",
+        "vízburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "cunami",
+      "term": "cunami",
+      "sourceLabels": [
+        "cunami"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "Tengerrengés, tenger alatti vulkánkitörés vagy csuszamlás által keltett, igen nagy hullámhosszú és sebességű tengeri hullám. A nyílt óceánon alig észrevehető, a sekély partközelben azonban hatalmasra magasodik, és súlyos pusztítást végez.",
+      "example": "A 2004-es indiai-óceáni és a 2011-es japán cunami sok áldozatot követelt; védekezést a figyelmeztető rendszerek és a part menti védművek jelentenek.",
+      "examplePlaces": [
+        "fold--oceanok--indiai-ocean",
+        "azsia--tajak--japan-szigetek"
+      ],
+      "related": [
+        "tengerrenges",
+        "foldrenges"
+      ],
+      "tags": [
+        "földrengés",
+        "vízburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "richter-skala",
+      "term": "Richter-skála",
+      "sourceLabels": [
+        "Richter-skála"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A földrengés erősségét, a rengéskor felszabaduló energiát (magnitúdót) műszeres mérés (szeizmográf) alapján kifejező, felülről nyitott, logaritmikus skála. Egy egységnyi növekedés kb. 30-szoros energianövekedést jelent.",
+      "example": "Egy 7-es magnitúdójú rengés sokszorosan több energiát szabadít fel, mint egy 5-ös – figyelj arra, hogy a skála nem lineáris.",
+      "related": [
+        "mercalli-skala",
+        "szeizmograf",
+        "foldrenges"
+      ],
+      "tags": [
+        "földrengés",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mercalli-skala",
+      "term": "Mercalli-skála",
+      "sourceLabels": [
+        "Mercalli-skála"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+      "level": "emelt",
+      "definition": "A földrengés felszíni hatásait (az emberek érzékelését, az épületekben okozott károkat, a felszín változásait) leíró, 12 fokozatú skála. Ugyanannak a rengésnek az erőssége ezen a skálán helyenként eltér, általában a rengésközponttól távolodva csökken.",
+      "example": "Egy rengésnek egyetlen Richter-értéke, de területenként különböző Mercalli-fokozata van.",
+      "related": [
+        "richter-skala",
+        "rengeskozpont",
+        "foldrenges"
+      ],
+      "tags": [
+        "földrengés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hegysegkepzodes-tipusai",
+      "term": "a hegységképződés típusai",
+      "sourceLabels": [
+        "a hegységképződés típusai (két kontinentális, két óceáni, illetve egy óceáni és egy kontinentális lemezszegély közeledése)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "A hegységképződés a közeledő kőzetlemezek határán megy végbe; típusait az határozza meg, hogy milyen kéregrészek ütköznek: két kontinentális, két óceáni, illetve egy óceáni és egy kontinentális lemezszegély közeledése.",
+      "example": "Két kontinentális: Himalája, Alpok; két óceáni: vulkáni szigetívek (Mariana-szigetek); óceáni és kontinentális: Andok, Kordillerák.",
+      "examplePlaces": [
+        "azsia--tajak--himalaja",
+        "fold--nagyszerkezeti-egysegek--mariana-arok",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "hegysegkepzodes-ket-kontinentalis",
+        "hegysegkepzodes-ket-oceani",
+        "hegysegkepzodes-oceani-kontinentalis",
+        "kozeledo-lemezmozgas"
+      ],
+      "tags": [
+        "hegységképződés",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hegysegkepzodes-ket-kontinentalis",
+      "term": "két kontinentális lemezszegély közeledése",
+      "sourceLabels": [],
+      "parent": "hegysegkepzodes-tipusai",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Ha az óceáni kéreg alábukása után két kontinentális lemezrész ütközik, egyik sem bukik alá könnyen, ezért a köztük felhalmozódott üledékek és a kéreg összetorlódnak, meggyűrődnek: magas, takarós szerkezetű gyűrthegység jön létre, vulkánosság alig van.",
+      "example": "A Himalája az Indiai-szubkontinens és Eurázsia ütközésével keletkezett, ezért máig emelkedik és földrengésveszélyes.",
+      "examplePlaces": [
+        "azsia--tajak--himalaja",
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "gyurthegyseg",
+        "gyurodes",
+        "attolt-redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hegysegkepzodes-ket-oceani",
+      "term": "két óceáni lemezszegély közeledése",
+      "sourceLabels": [],
+      "parent": "hegysegkepzodes-tipusai",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Két óceáni lemez közeledésekor az egyik (általában az idősebb, sűrűbb) alábukik; mentén mélytengeri árok, a fölé tolódó lemezen pedig a beolvadásból származó magma révén vulkáni szigetív jön létre.",
+      "example": "A Mariana-árok és a Mariana-szigetek, valamint az Aleut-szigetek így keletkeztek.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--mariana-arok",
+        "amerika--tajak--antillak"
+      ],
+      "related": [
+        "vulkani-szigetiv",
+        "melytengeri-arok",
+        "alabukas"
+      ],
+      "tags": [
+        "hegységképződés",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hegysegkepzodes-oceani-kontinentalis",
+      "term": "óceáni és kontinentális lemezszegély közeledése",
+      "sourceLabels": [],
+      "parent": "hegysegkepzodes-tipusai",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Az óceáni lemez a kisebb sűrűségű kontinentális lemez alá bukik; a kontinens peremén az üledékek meggyűrődnek, a beolvadásból származó magma vulkánokat és mélységi magmás testeket hoz létre. Az eredmény vulkáni hegyekkel tarkított, a parttal párhuzamos gyűrthegység, előtte mélytengeri árokkal.",
+      "example": "Az Andok a Nazca-lemez és a Dél-amerikai-lemez közeledésével jött létre, előtte húzódik a Perui–Chilei-árok.",
+      "examplePlaces": [
+        "amerika--tajak--andok",
+        "amerika--tajak--kordillerak"
+      ],
+      "related": [
+        "alabukas",
+        "beolvadas",
+        "gyurthegyseg",
+        "melytengeri-arok"
+      ],
+      "tags": [
+        "hegységképződés",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hegysegrendszer",
+      "term": "hegységrendszer",
+      "sourceLabels": [
+        "hegységrendszer"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Azonos hegységképződési időszakban keletkezett, szerkezetileg összetartozó hegységek, hegyláncok összefüggő rendszere. A Földön a régi Kaledóniai- és Variszkuszi-, valamint a fiatal Eurázsiai- és Pacifikus-hegységrendszert különböztetjük meg.",
+      "example": "Az Eurázsiai-hegységrendszer tagja az Alpok, a Kárpátok és a Himalája; a Pacifikus-hegységrendszeré az Andok és a Kordillerák.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer",
+        "fold--nagyszerkezeti-egysegek--pacifikus-hegysegrendszer",
+        "fold--nagyszerkezeti-egysegek--kaledoniai-hegysegrendszer",
+        "fold--nagyszerkezeti-egysegek--variszkuszi-hegysegrendszer"
+      ],
+      "related": [
+        "gyurthegyseg",
+        "hegysegkepzodes-tipusai",
+        "rogos-hegyseg"
+      ],
+      "tags": [
+        "hegységképződés",
+        "nagyszerkezet",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szerkezeti-mozgasok",
+      "term": "szerkezeti mozgások",
+      "aliases": [
+        "tektonikus mozgások"
+      ],
+      "sourceLabels": [
+        "szerkezeti mozgások"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "A belső erők által előidézett, a kőzetek eredeti települési helyzetét megváltoztató mozgások. Ide tartozik a kőzetrétegek meggyűrődése, a merev kőzettestek eltörése és elmozdulása (vetődés), valamint a kéreg nagy területeinek lassú emelkedése és süllyedése.",
+      "example": "A gyűrődés képlékeny, a vetődés merev kőzetekben jellemző szerkezeti mozgás.",
+      "related": [
+        "gyurodes",
+        "vetodes",
+        "izosztazia",
+        "kozetlemez"
+      ],
+      "tags": [
+        "hegységképződés",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gyurodes",
+      "term": "gyűrődés",
+      "sourceLabels": [
+        "gyűrődés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Szerkezeti mozgás, amelynek során a képlékeny (főként üledékes) kőzetrétegek oldalirányú nyomás hatására eltörés nélkül hullámszerűen meghajlanak, redőkbe gyűrődnek. Közeledő lemezszegélyeken jellemző, eredménye a gyűrthegység.",
+      "example": "Az Alpokban a gyűrődés a kőzetrétegeket több kilométeres redőkbe és áttolt takarókba rendezte.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "redo",
+        "redo-tipusok",
+        "gyurthegyseg",
+        "vetodes"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "redo",
+      "term": "redő",
+      "sourceLabels": [
+        "redő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "A gyűrődés során kialakuló, hullámszerűen meghajlott kőzetréteg-forma. Felfelé domborodó része a redőboltozat, lefelé hajló része a redőteknő; tengelysíkjának helyzete alapján álló, ferde, fekvő és áttolt redőt különböztetünk meg.",
+      "example": "Az út menti bevágásokban az Alpok és a Kárpátok mészkőrétegeinek redői gyakran szabad szemmel is látszanak.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "gyurodes",
+        "redo-tipusok",
+        "redoboltozat",
+        "redotekno",
+        "attolt-redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "redo-tipusok",
+      "term": "álló, ferde és fekvő redő",
+      "sourceLabels": [
+        "álló",
+        "ferde és fekvő redő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "A redők csoportosítása tengelysíkjuk helyzete szerint, amely az oldalirányú nyomás erősségét és irányát tükrözi. Minél erősebb az egyoldalú nyomás, annál jobban megdől a redő: az álló redőből ferde, majd fekvő redő lesz.",
+      "example": "Ábrán a redő tengelysíkját kell megkeresned: függőleges – álló, ferde – ferde, közel vízszintes – fekvő redő.",
+      "related": [
+        "allo-redo",
+        "ferde-redo",
+        "fekvo-redo",
+        "attolt-redo",
+        "redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "allo-redo",
+      "term": "álló redő",
+      "sourceLabels": [],
+      "parent": "redo-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Olyan redő, amelynek tengelysíkja függőleges, két szárnya azonos szögben dől; mindkét oldalról közel egyforma nyomás hatására alakul ki.",
+      "example": "A gyűrthegységek külső, kevésbé gyűrt peremein gyakori.",
+      "related": [
+        "ferde-redo",
+        "fekvo-redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ferde-redo",
+      "term": "ferde redő",
+      "sourceLabels": [],
+      "parent": "redo-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Olyan redő, amelynek tengelysíkja ferde, szárnyai eltérő szögben dőlnek; erősebb, egyoldalú nyomás hatására alakul ki.",
+      "example": "A ferde redő a nyomás irányával ellentétes oldalra dől meg.",
+      "related": [
+        "allo-redo",
+        "fekvo-redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fekvo-redo",
+      "term": "fekvő redő",
+      "sourceLabels": [],
+      "parent": "redo-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Olyan redő, amelynek tengelysíkja közel vízszintes, egyik szárnya a másikra fekszik, így a rétegsor egy része fordított helyzetbe kerül. Igen erős egyoldalú nyomás eredménye; továbbfejlődve áttolt redővé válhat.",
+      "example": "Az Alpok belső zónáiban sok a fekvő és áttolt redő.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "attolt-redo",
+        "ferde-redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vetodes",
+      "term": "vetődés",
+      "sourceLabels": [
+        "vetődés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Szerkezeti mozgás, amelynek során a merev, már nem gyűrődésre képes kőzettestek a feszültség hatására eltörnek, és a darabok a törési felület (vetősík) mentén egymáshoz képest elmozdulnak. Eredményeként rögök, sasbércek, árkok, lépcsővidékek és rögös szerkezetű hegységek jönnek létre.",
+      "example": "A Dunántúli-középhegység rögei vetődések mentén emelkedtek ki, közéjük árkok és medencék zökkentek le.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--dunantuli-kozephegyseg"
+      ],
+      "related": [
+        "vetosik",
+        "toresvonal",
+        "rog",
+        "sasberc",
+        "tektonikus-arok",
+        "lepcsovidek",
+        "gyurodes"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vetosik",
+      "term": "vetősík",
+      "sourceLabels": [
+        "vetősík"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Az a törési felület, amely mentén vetődéskor a kőzettestek egymáshoz képest elmozdulnak.",
+      "example": "A vetősíkon gyakran látszanak az elmozdulás során keletkezett karcok, csúszási nyomok.",
+      "related": [
+        "vetodes",
+        "toresvonal"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "toresvonal",
+      "term": "törésvonal",
+      "sourceLabels": [
+        "törésvonal"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "A vetősík és a földfelszín metszésvonala, vagyis a kőzettestek törésének felszíni nyoma. Mentén gyakran törnek fel hévizek, és gyakoriak a földrengések.",
+      "example": "Budapest gyógyfürdőinek hévizei a Budai-hegység peremén húzódó törésvonalak mentén törnek fel.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--budai-hegyseg",
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "vetosik",
+        "vetodes",
+        "elcsuszo-lemezmozgas"
+      ],
+      "tags": [
+        "hegységképződés",
+        "felszín-alatti-vizek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rog",
+      "term": "rög",
+      "sourceLabels": [
+        "rög"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Törésvonalakkal (vetőkkel) minden oldalról határolt, merev kőzettest, amely a vetődés során kiemelkedhet, lesüllyedhet vagy helyben maradhat.",
+      "example": "A Dunántúli-középhegység és a Mecsek kiemelt rögökből álló, rögös szerkezetű hegység.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--dunantuli-kozephegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--mecsek"
+      ],
+      "related": [
+        "vetodes",
+        "sasberc",
+        "tektonikus-arok",
+        "rogos-hegyseg"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sasberc",
+      "term": "sasbérc",
+      "aliases": [
+        "horszt"
+      ],
+      "sourceLabels": [
+        "sasbérc"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Két vetősík között környezeténél magasabbra kiemelkedett (vagy a környezet lesüllyedése miatt kiemelt helyzetbe került) rög.",
+      "example": "A Felső-Rajnai-árok két oldalán a Fekete-erdő és a Vogézek sasbércként emelkedik.",
+      "related": [
+        "rog",
+        "tektonikus-arok",
+        "vetodes"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tektonikus-arok",
+      "term": "árok",
+      "aliases": [
+        "tektonikus árok"
+      ],
+      "sourceLabels": [
+        "árok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Két, egymással közel párhuzamos vetősík között lezökkent, hosszan elnyúló, keskeny rög (tektonikus árok). Gyakran folyó- vagy tóvölgyet, közlekedési útvonalat követ.",
+      "example": "A Móri-árok a Bakonyt és a Vértest választja el; nagyobb méretű példa a Felső-Rajnai-árok.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--mori-arok"
+      ],
+      "related": [
+        "sasberc",
+        "rog",
+        "vetodes",
+        "hasadekvolgy"
+      ],
+      "tags": [
+        "hegységképződés",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lepcsovidek",
+      "term": "lépcsővidék",
+      "aliases": [
+        "lépcsős vetődés"
+      ],
+      "sourceLabels": [
+        "lépcsővidék"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Egymással párhuzamos vetősíkok mentén lépcsőzetesen egyre mélyebbre zökkent rögök sorozatából álló terület.",
+      "example": "A Budai-hegység keleti pereme a Duna felé lépcsőzetesen zökkent le, a mélybe süllyedt rögök a Pesti-síkság alatt folytatódnak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--budai-hegyseg"
+      ],
+      "related": [
+        "vetodes",
+        "rog",
+        "tektonikus-arok"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tektonikus-medence",
+      "term": "tektonikus medence",
+      "sourceLabels": [
+        "tektonikus medence"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "kozep",
+      "definition": "Szerkezeti mozgással, főként vetődések mentén történt süllyedéssel kialakult, minden oldalról magasabb térszínekkel övezett mélyedés, amelyet általában üledék tölt fel.",
+      "example": "A Kárpát-medence belseje (pl. az Alföld aljzata) tektonikus süllyedéssel jött létre, és vastag üledék töltötte fel.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence",
+        "magyarorszag--fo-tajegysegek--alfold"
+      ],
+      "related": [
+        "sullyedekterulet",
+        "vetodes",
+        "tektonikus-arok"
+      ],
+      "tags": [
+        "hegységképződés",
+        "nagyszerkezet",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hegysegkepzodesi-szakaszok",
+      "term": "hegységképződési szakaszok",
+      "sourceLabels": [
+        "hegységképződési szakaszok (üledékfelhalmozódás, tektogenezis, orogenezis)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A hegységek kialakulásának egymást követő, egymásra épülő fázisai: az üledékfelhalmozódás, a tektogenezis (szerkezetalakulás) és az orogenezis (kiemelkedés).",
+      "example": "Az Alpok esetében a Tethys-óceán üledékei halmozódtak fel, majd az afrikai és az európai lemezrész közeledésekor meggyűrődtek és kiemelkedtek.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "uledekfelhalmozodas",
+        "tektogenezis",
+        "orogenezis",
+        "gyurodes"
+      ],
+      "tags": [
+        "hegységképződés",
+        "földtörténet",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "uledekfelhalmozodas",
+      "term": "üledékfelhalmozódás",
+      "sourceLabels": [],
+      "parent": "hegysegkepzodesi-szakaszok",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A hegységképződés első szakasza, amelyben a lemezszegélyek menti süllyedő tengeri medencékben hosszú időn át vastag üledékrétegek rakódnak le.",
+      "example": "Az Alpok mészkő- és dolomitrétegei egykori tengeri üledékekből származnak.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "tektogenezis",
+        "uledekes-kozet"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tektogenezis",
+      "term": "tektogenezis",
+      "aliases": [
+        "szerkezetalakulás"
+      ],
+      "sourceLabels": [],
+      "parent": "hegysegkepzodesi-szakaszok",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A hegységképződés második szakasza, amelyben a lemezek közeledése miatt a felhalmozódott üledékek meggyűrődnek, feltöredeznek, takarókká torlódnak, részben átalakulnak, és magmás tevékenység kíséri a folyamatot. Ekkor alakul ki a hegység belső szerkezete.",
+      "example": "Az áttolt redők és takarók a tektogenezis során jönnek létre.",
+      "related": [
+        "uledekfelhalmozodas",
+        "orogenezis",
+        "attolt-redo",
+        "atalakult-kozet"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "orogenezis",
+      "term": "orogenezis",
+      "aliases": [
+        "kiemelkedés"
+      ],
+      "sourceLabels": [],
+      "parent": "hegysegkepzodesi-szakaszok",
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A hegységképződés harmadik szakasza, amelyben a meggyűrt, megvastagodott kéregrész (részben az izosztázia miatt) kiemelkedik, és hegységgé magasodik; ezzel egy időben megindul a lepusztulása.",
+      "example": "A Himalája orogenezise ma is tart, ezért a hegység lassan emelkedik.",
+      "examplePlaces": [
+        "azsia--tajak--himalaja"
+      ],
+      "related": [
+        "tektogenezis",
+        "izosztazia"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "redoboltozat",
+      "term": "redőboltozat",
+      "aliases": [
+        "antiklinális"
+      ],
+      "sourceLabels": [
+        "redőboltozat"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A redő felfelé domborodó, boltozatszerű része, amelynek magjában a legidősebb rétegek vannak.",
+      "example": "Ábrán a redőboltozat a „hullámhegy”, a redőteknő a „hullámvölgy”.",
+      "related": [
+        "redotekno",
+        "redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "redotekno",
+      "term": "redőteknő",
+      "aliases": [
+        "szinklinális"
+      ],
+      "sourceLabels": [
+        "redőteknő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A redő lefelé hajló, teknőszerű része, amelynek magjában a legfiatalabb rétegek vannak.",
+      "example": "Ábrán a redőteknő a „hullámvölgy”; a kőolaj és a földgáz viszont jellemzően a redőboltozatok tetején, vízzáró réteg alatt halmozódik fel.",
+      "related": [
+        "redoboltozat",
+        "redo"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "attolt-redo",
+      "term": "áttolt redő",
+      "aliases": [
+        "takaró",
+        "takaróredő"
+      ],
+      "sourceLabels": [
+        "áttolt redő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A fekvő redő továbbfejlődésével keletkezik: a nagyon erős oldalnyomás miatt a redő szárnya elszakad, és a kőzettömeg egy síkon más kőzetekre tolódik, gyakran nagy távolságra (takaró).",
+      "example": "Az Alpok és a Kárpátok szerkezetében sok egymásra tolt takaró található.",
+      "examplePlaces": [
+        "europa--tajak--alpok",
+        "europa--tajak--karpatok"
+      ],
+      "related": [
+        "fekvo-redo",
+        "redo-tipusok",
+        "tektogenezis"
+      ],
+      "tags": [
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "izosztazia",
+      "term": "izosztázia",
+      "sourceLabels": [
+        "izosztázia"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.3. A hegységképződés",
+      "level": "emelt",
+      "definition": "A kőzetburok egyensúlyi helyzetre való törekvése a képlékeny asztenoszférán: a kőzetburok darabjai úgy „úsznak” rajta, hogy terhelés hatására lesüllyednek, tehermentesülve kiemelkednek. Ezért emelkedik a lepusztuló hegység, és süllyed a vastag jégtakaró vagy üledék alatti terület.",
+      "example": "A Skandináv-félsziget a jégkorszaki jégtakaró elolvadása után ma is lassan emelkedik.",
+      "examplePlaces": [
+        "europa--tajak--skandinav-felsziget"
+      ],
+      "related": [
+        "asztenoszfera",
+        "kozetburok",
+        "orogenezis"
+      ],
+      "tags": [
+        "hegységképződés",
+        "kőzetburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "asvany",
+      "term": "ásvány",
+      "sourceLabels": [
+        "ásvány"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Természetes úton keletkezett, meghatározott (vagy szűk határok között változó) kémiai összetételű, többnyire kristályos szerkezetű szilárd anyag. Az ásványok a kőzetek építőelemei.",
+      "example": "A gránit ásványai a kvarc, a földpát és a csillám.",
+      "related": [
+        "kozet",
+        "kvarc",
+        "kalcit",
+        "erc"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozet",
+      "term": "kőzet",
+      "sourceLabels": [
+        "kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Egy vagy többféle ásvány természetes, nagy tömegű, a földkérget felépítő társulása. Keletkezésük szerint magmás, üledékes és átalakult kőzeteket különböztetünk meg.",
+      "example": "A mészkő szinte csak kalcitból, a gránit több ásványból áll.",
+      "related": [
+        "asvany",
+        "magmas-kozet",
+        "uledekes-kozet",
+        "atalakult-kozet",
+        "kozetanyag-korforgas"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "magmas-kozet",
+      "term": "magmás kőzet",
+      "sourceLabels": [
+        "magmás kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A magma megszilárdulásával keletkezett kőzet. A megszilárdulás helye szerint mélységi magmás kőzet, vulkáni kiömlési kőzet és vulkáni törmelékes kőzet (tufa) lehet; kémiai összetétel szerint savanyú, semleges vagy bázisos.",
+      "example": "Magyarországon magmás kőzet a velencei-hegységi gránit, a mátrai andezit és a badacsonyi bazalt.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--matra",
+        "magyarorszag--egyeb-tajak-teruletek--badacsony"
+      ],
+      "related": [
+        "melysegi-magmas-kozet",
+        "vulkani-kiomlesi-kozet",
+        "tufa",
+        "magmas-kozet-osszetetel",
+        "magma"
+      ],
+      "tags": [
+        "kőzetek",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "melysegi-magmas-kozet",
+      "term": "mélységi magmás kőzet",
+      "sourceLabels": [
+        "mélységi magmás kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A földkéreg mélyén megrekedt magmából lassú kihűléssel keletkezett kőzet. A lassú hűlés miatt ásványai szabad szemmel is jól látható, nagy kristályokká nőttek (szemcsés szövet).",
+      "example": "A gránit mélységi magmás kőzet; a Velencei-hegységben a lepusztulás tárta fel.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg"
+      ],
+      "related": [
+        "granit",
+        "melysegi-magmatizmus",
+        "vulkani-kiomlesi-kozet"
+      ],
+      "tags": [
+        "kőzetek",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vulkani-kiomlesi-kozet",
+      "term": "vulkáni kiömlési kőzet",
+      "sourceLabels": [
+        "vulkáni kiömlési kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A felszínre ömlő lávából gyors kihűléssel keletkezett magmás kőzet. Kristályai aprók, szabad szemmel alig láthatók, vagy a kőzet részben üveges.",
+      "example": "Kiömlési kőzet a bazalt (Badacsony), az andezit (Mátra, Börzsöny) és a riolit (Tokaji-hegység).",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--badacsony",
+        "magyarorszag--egyeb-tajak-teruletek--matra",
+        "magyarorszag--egyeb-tajak-teruletek--tokaji-zempleni-hegyseg"
+      ],
+      "related": [
+        "bazalt",
+        "andezit",
+        "riolit",
+        "lava",
+        "melysegi-magmas-kozet"
+      ],
+      "tags": [
+        "kőzetek",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tufa",
+      "term": "vulkáni törmelékes kőzet",
+      "aliases": [
+        "tufa",
+        "piroklasztit"
+      ],
+      "sourceLabels": [
+        "vulkáni törmelékes kőzet (tufa)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A robbanásos vulkánkitöréskor kiszórt törmelékből (hamu, lapilli, bombák) lerakódással és összecementálódással keletkezett, általában könnyen faragható, porózus kőzet. Anyaga szerint andezit-, bazalt- vagy riolittufa lehet.",
+      "example": "Az egri borospincéket és a Bükkalja kaptárköveit riolittufába vájták, illetve abból faragták.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--eger",
+        "magyarorszag--egyeb-tajak-teruletek--bukk"
+      ],
+      "related": [
+        "vulkani-hamu",
+        "tufak",
+        "magmas-kozet"
+      ],
+      "tags": [
+        "kőzetek",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "uledekes-kozet",
+      "term": "üledékes kőzet",
+      "sourceLabels": [
+        "üledékes kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A felszínen, a külső erők hatására keletkezett kőzet: a lepusztult, elszállított és lerakott törmelékből, vízből kicsapódó anyagokból vagy élőlények maradványaiból jön létre, majd sokszor tömörödik, összecementálódik. Jellemzően rétegzett, fosszíliákat tartalmazhat.",
+      "example": "Magyarország felszínének nagy részét üledékes kőzetek (homok, lösz, agyag, mészkő) borítják.",
+      "related": [
+        "uledekes-tipusok",
+        "kozet",
+        "kozetanyag-korforgas"
+      ],
+      "tags": [
+        "kőzetek",
+        "felszínformálás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "uledekes-tipusok",
+      "term": "törmelékes, vegyi és szerves eredetű üledékes kőzet",
+      "sourceLabels": [
+        "törmelékes",
+        "vegyi",
+        "szerves eredetű üledékes kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Az üledékes kőzetek csoportosítása keletkezésük szerint: a törmelékes kőzetek lepusztult kőzetdarabokból, a vegyi úton keletkezettek oldatokból való kicsapódással, a szerves eredetűek élőlények maradványaiból jönnek létre.",
+      "example": "Törmelékes: homok, lösz; vegyi: kősó, gipsz; szerves eredetű: kőszén, mészvázas élőlények mészköve.",
+      "related": [
+        "torm-uledekes",
+        "vegyi-uledekes",
+        "szerves-uledekes",
+        "uledekes-kozet"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "torm-uledekes",
+      "term": "törmelékes üledékes kőzet",
+      "sourceLabels": [],
+      "parent": "uledekes-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A külső erők által aprózott, elszállított és lerakott kőzettörmelékből keletkezett üledékes kőzet; szemcsenagyság szerint pl. kavics, homok, kőzetliszt (lösz), agyag, illetve ezek összecementálódott változatai (konglomerátum, homokkő).",
+      "example": "A Duna–Tisza közének futóhomokja és a Mezőföld lösze törmelékes üledék.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+        "magyarorszag--egyeb-tajak-teruletek--mezofold"
+      ],
+      "related": [
+        "homok",
+        "homokko",
+        "losz",
+        "agyag"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vegyi-uledekes",
+      "term": "vegyi üledékes kőzet",
+      "sourceLabels": [],
+      "parent": "uledekes-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Vizes oldatból kicsapódással vagy bepárlódással keletkezett üledékes kőzet. Ide tartoznak a sókőzetek (gipsz, kősó, kálisó), a vegyi úton kivált mészkő és a dolomit.",
+      "example": "Elzárt, forró éghajlatú lagúnákban a tengervíz bepárlódásakor sorban gipsz, kősó, majd kálisó válik ki.",
+      "related": [
+        "koso",
+        "kaliso",
+        "gipsz",
+        "meszko",
+        "dolomit"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szerves-uledekes",
+      "term": "szerves eredetű üledékes kőzet",
+      "sourceLabels": [],
+      "parent": "uledekes-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Élőlények maradványainak felhalmozódásával és átalakulásával keletkezett üledékes kőzet, pl. a mészvázas élőlények vázaiból álló mészkő, a növényi eredetű kőszén és a szerves eredetű kőolaj.",
+      "example": "A korallzátonyok mészváza szerves eredetű mészkővé válik; a Mecsek feketekőszene egykori mocsárerdőkből keletkezett.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--mecsek"
+      ],
+      "related": [
+        "meszko",
+        "szenfajtak",
+        "koolaj"
+      ],
+      "tags": [
+        "kőzetek",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "atalakult-kozet",
+      "term": "átalakult kőzet",
+      "aliases": [
+        "metamorf kőzet"
+      ],
+      "sourceLabels": [
+        "átalakult kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Magmás vagy üledékes kőzetekből a mélyben uralkodó nagy nyomás és hőmérséklet hatására, megolvadás nélkül, szilárd állapotban átkristályosodással keletkezett kőzet. Gyakran palás szerkezetű.",
+      "example": "A mészkőből márvány, az agyagból agyagpala, csillámpala lesz; hazánkban a Soproni- és a Kőszegi-hegységben találunk átalakult kőzeteket.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--soproni-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--koszegi-hegyseg"
+      ],
+      "related": [
+        "marvany",
+        "palas-kozetek",
+        "kozetanyag-korforgas"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kvarc",
+      "term": "kvarc",
+      "sourceLabels": [
+        "kvarc"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Szilícium-dioxidból (SiO₂) álló, kemény, vegyileg ellenálló, a földkéregben igen gyakori ásvány. A gránit egyik fő ásványa, mállással szemben ellenálló, ezért a homok fő alkotója.",
+      "example": "A tiszta kvarchomok az üveggyártás alapanyaga.",
+      "related": [
+        "asvany",
+        "granit",
+        "homok"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kalcit",
+      "term": "kalcit",
+      "sourceLabels": [
+        "kalcit"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Kalcium-karbonátból (CaCO₃) álló ásvány, a mészkő és a márvány fő alkotója. Híg sósavval pezseg, szénsavas vízben oldódik – ezen alapul a karsztosodás.",
+      "example": "A barlangok cseppkövei kalcitból épülnek fel, pl. a Baradla-barlangban.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt"
+      ],
+      "related": [
+        "meszko",
+        "marvany",
+        "asvany"
+      ],
+      "tags": [
+        "kőzetek",
+        "karszt",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "koso",
+      "term": "kősó",
+      "aliases": [
+        "halit"
+      ],
+      "sourceLabels": [
+        "kősó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Nátrium-kloridból (NaCl) álló ásvány (halit) és az abból felépülő vegyi üledékes kőzet. Elzárt tengeröblökben, lagúnákban, sós tavakban a víz bepárlódásával válik ki; vízben jól oldódik.",
+      "example": "Jelentős sóbánya működött Parajdon (Erdély) és a lengyelországi Wieliczkában; a kősó élelmiszer és vegyipari nyersanyag.",
+      "related": [
+        "kaliso",
+        "gipsz",
+        "vegyi-uledekes"
+      ],
+      "tags": [
+        "kőzetek",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kaliso",
+      "term": "kálisó",
+      "sourceLabels": [
+        "kálisó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Káliumtartalmú sóásványok (pl. szilvin, karnallit) gyűjtőneve, amelyek a tengervíz bepárlódásának utolsó szakaszában, a kősó után válnak ki. Elsősorban a műtrágyagyártás nyersanyaga.",
+      "example": "Jelentős kálisótelepek vannak Kanadában és Fehéroroszországban.",
+      "related": [
+        "koso",
+        "gipsz",
+        "vegyi-uledekes"
+      ],
+      "tags": [
+        "kőzetek",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gipsz",
+      "term": "gipsz",
+      "sourceLabels": [
+        "gipsz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Kalcium-szulfátból és kristályvízből álló, puha (körömmel karcolható) ásvány és vegyi üledékes kőzet; a tengervíz bepárlódásakor a kősónál korábban válik ki. Az építőipar használja (gipszkarton, vakolat, cementadalék).",
+      "example": "Bepárlódási sorrend: mészkő, gipsz, kősó, kálisó.",
+      "related": [
+        "koso",
+        "kaliso",
+        "vegyi-uledekes"
+      ],
+      "tags": [
+        "kőzetek",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "meszko",
+      "term": "mészkő",
+      "sourceLabels": [
+        "mészkő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Főként kalcitból (kalcium-karbonátból) álló üledékes kőzet, amely vegyi kicsapódással vagy mészvázas élőlények maradványaiból keletkezik. Szénsavas vízben oldódik, ezért karsztosodik; a cement-, mész- és építőipar nyersanyaga.",
+      "example": "Mészkő építi fel a Bükk, az Aggteleki-karszt és a Dunántúli-középhegység nagy részét.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--bukk",
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt",
+        "magyarorszag--fo-tajegysegek--dunantuli-kozephegyseg"
+      ],
+      "related": [
+        "kalcit",
+        "dolomit",
+        "marvany",
+        "szerves-uledekes",
+        "karsztbauxit"
+      ],
+      "tags": [
+        "kőzetek",
+        "karszt",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "homok",
+      "term": "homok",
+      "sourceLabels": [
+        "homok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Laza szerkezetű, közepes szemcseméretű törmelékes üledékes kőzet, amely főként kvarcszemcsékből áll. Folyók, a szél és a tenger rakja le; jó vízáteresztő, építőipari és üveggyártási nyersanyag.",
+      "example": "A Duna–Tisza közén és a Nyírségen a szél által mozgatott futóhomok buckákat alkotott.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze",
+        "magyarorszag--egyeb-tajak-teruletek--nyirseg"
+      ],
+      "related": [
+        "homokko",
+        "kvarc",
+        "torm-uledekes"
+      ],
+      "tags": [
+        "kőzetek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "homokko",
+      "term": "homokkő",
+      "sourceLabels": [
+        "homokkő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A homokszemcsék kötőanyaggal (pl. mésszel, kovával, vas-oxiddal) való összecementálódásával keletkezett, szilárd törmelékes üledékes kőzet; építőkőként használják.",
+      "example": "A Balaton-felvidék vörös homokkövének színét a vas-oxid adja.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--balaton-felvidek"
+      ],
+      "related": [
+        "homok",
+        "torm-uledekes"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "losz",
+      "term": "lösz",
+      "sourceLabels": [
+        "lösz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A szél által szállított és lerakott, igen finom szemcséjű, sárgás színű, laza törmelékes üledékes kőzet, amely főként kvarc- és mészszemcsékből áll. Függőleges falakban áll meg, könnyen szakadékosodik; rajta igen termékeny talajok (csernozjom) alakulnak ki.",
+      "example": "Magyarországon a Mezőföld és a Hajdúság löszvidék; Kínában a Sárga-folyó vidékét vastag lösz borítja.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--mezofold",
+        "azsia--vizrajz--sarga-folyo"
+      ],
+      "related": [
+        "torm-uledekes",
+        "talajburok",
+        "homok"
+      ],
+      "tags": [
+        "kőzetek",
+        "talaj",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "dolomit",
+      "term": "dolomit",
+      "sourceLabels": [
+        "dolomit"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Kalcium-magnézium-karbonátból álló ásvány, illetve főként ebből felépülő üledékes kőzet. A mészkőnél kevésbé karsztosodik, inkább aprózódik (dolomitmurva), ezért sziklás, kopár formákat alkot.",
+      "example": "Dolomit építi fel a Budai-hegység és a Keszthelyi-hegység egyes részeit; névadója az olasz Dolomitok.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--budai-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--keszthelyi-hegyseg"
+      ],
+      "related": [
+        "meszko",
+        "vegyi-uledekes",
+        "kalcit"
+      ],
+      "tags": [
+        "kőzetek",
+        "karszt",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szenfajtak",
+      "term": "szénfajták",
+      "aliases": [
+        "szénféleségek",
+        "kőszén"
+      ],
+      "sourceLabels": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Mocsári növények maradványaiból levegőtől elzártan, a rárakódó üledékek nyomása és a hő hatására lejátszódó szénülés során keletkezett szerves eredetű kőzetek. A szénülés előrehaladtával (tőzeg → lignit → barnakőszén → feketekőszén → antracit) nő a széntartalom és a fűtőérték, csökken a víz- és illóanyag-tartalom.",
+      "example": "Hazánkban feketekőszén a Mecsekben, barnakőszén Tatabánya és a Borsodi-medence környékén, lignit Visontán található.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--mecsek",
+        "magyarorszag--telepulesek--tatabanya",
+        "magyarorszag--egyeb-tajak-teruletek--borsodi-medence",
+        "magyarorszag--telepulesek--visonta"
+      ],
+      "related": [
+        "tozeg",
+        "lignit",
+        "barnakoszen",
+        "feketekoszen",
+        "antracit",
+        "szerves-uledekes"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tozeg",
+      "term": "tőzeg",
+      "sourceLabels": [],
+      "parent": "szenfajtak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A szénülés legkezdetibb terméke: lápokban, a vízzel borított, oxigénszegény környezetben fel nem bomló növényi maradványok laza, rostos felhalmozódása. Kis fűtőértékű, inkább talajjavításra használják.",
+      "example": "Tőzeg képződik ma is pl. a Hanság és az Ecsedi-láp vidékén.",
+      "related": [
+        "lignit",
+        "szenfajtak"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lignit",
+      "term": "lignit",
+      "sourceLabels": [],
+      "parent": "szenfajtak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A legfiatalabb, legkisebb fűtőértékű kőszénfajta, amelyben még gyakran felismerhetők a fás növényi szerkezetek; magas víztartalmú, külszíni fejtéssel bányásszák, főként hőerőművekben égetik el.",
+      "example": "A visontai külszíni lignitbánya a mátrai hőerőművet látja el.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--visonta"
+      ],
+      "related": [
+        "tozeg",
+        "barnakoszen",
+        "szenfajtak"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "barnakoszen",
+      "term": "barnakőszén",
+      "sourceLabels": [],
+      "parent": "szenfajtak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A lignitnél nagyobb széntartalmú és fűtőértékű, barnás-fekete színű kőszén. Földtörténetileg általában fiatalabb a feketekőszénnél.",
+      "example": "Magyarországon jelentős barnakőszén-bányászat folyt Tatabánya és a Borsodi-medence (Ózd, Miskolc környéke) területén.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--tatabanya",
+        "magyarorszag--egyeb-tajak-teruletek--borsodi-medence"
+      ],
+      "related": [
+        "lignit",
+        "feketekoszen",
+        "szenfajtak"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "feketekoszen",
+      "term": "feketekőszén",
+      "sourceLabels": [],
+      "parent": "szenfajtak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Nagy széntartalmú, nagy fűtőértékű, fekete, fényes kőszén; egy része kokszolható, ezért a kohászat fontos nyersanyaga. A legnagyobb telepek a karbon időszak mocsárerdeiből keletkeztek, sokszor a variszkuszi hegységek előterében.",
+      "example": "A Ruhr-vidék, Felső-Szilézia és a Donyec-medence ipara feketekőszénre települt; hazánkban a Mecsekben bányászták.",
+      "examplePlaces": [
+        "europa--iparvidekek--ruhr-videk",
+        "europa--tajak--szilezia",
+        "europa--iparvidekek--donyec-medence",
+        "magyarorszag--egyeb-tajak-teruletek--mecsek"
+      ],
+      "related": [
+        "barnakoszen",
+        "antracit",
+        "szenfajtak"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "ipar",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "antracit",
+      "term": "antracit",
+      "sourceLabels": [],
+      "parent": "szenfajtak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A legnagyobb széntartalmú és fűtőértékű, legidősebb, legelőrehaladottabb szénülésű kőszénfajta; fényes fekete, kevés illóanyagot tartalmaz.",
+      "example": "Antracitot bányásznak az Appalache-hegység vidékén (Pennsylvania) és a Donyec-medencében.",
+      "examplePlaces": [
+        "amerika--tajak--appalache-hegyseg-appalache",
+        "europa--iparvidekek--donyec-medence"
+      ],
+      "related": [
+        "feketekoszen",
+        "szenfajtak"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "koolaj",
+      "term": "kőolaj",
+      "sourceLabels": [
+        "kőolaj"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Folyékony szénhidrogének keveréke, amely sekély tengerek planktonjának és más élőlényeinek szerves maradványaiból, oxigénszegény iszapban, a betemetődés során fellépő nyomás és hő hatására keletkezett. A keletkezés helyéről vándorolva a likacsos tárolókőzetekben (homokkő, mészkő) halmozódik fel, ha vízzáró réteg (csapda) lezárja.",
+      "example": "A Perzsa-öböl térsége a Föld legnagyobb kőolajkészletével rendelkezik; hazánk legnagyobb mezője Algyőnél van.",
+      "examplePlaces": [
+        "azsia--vizrajz--perzsa-arab-obol",
+        "magyarorszag--telepulesek--algyo"
+      ],
+      "related": [
+        "foldgaz",
+        "szerves-uledekes",
+        "redoboltozat",
+        "asvanyi-nyersanyag"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "foldgaz",
+      "term": "földgáz",
+      "sourceLabels": [
+        "földgáz"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Főként metánból álló, gáz halmazállapotú szénhidrogén, amely a kőolajhoz hasonlóan szerves anyagokból keletkezik, és vízzáró rétegek alatt, gyakran a kőolaj fölött halmozódik fel; szénülés során kőszéntelepekben is képződik.",
+      "example": "Nagy földgázmezők találhatók Nyugat-Szibériában és a Perzsa-öböl térségében; hazánkban Algyő és Hajdúszoboszló környékén termelték.",
+      "examplePlaces": [
+        "azsia--tajak--nyugat-sziberiai-alfold",
+        "azsia--vizrajz--perzsa-arab-obol",
+        "magyarorszag--telepulesek--algyo"
+      ],
+      "related": [
+        "koolaj",
+        "szenfajtak",
+        "asvanyi-nyersanyag"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "agyag",
+      "term": "agyag",
+      "sourceLabels": [
+        "agyag"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Igen finom szemcséjű, főként agyagásványokból álló törmelékes üledékes kőzet. Nedvesen képlékeny, vízzáró; a tégla-, cserép- és kerámiagyártás nyersanyaga.",
+      "example": "Az alföldi folyók ártereinek agyagos üledékeire téglagyárak települtek; vízzáró rétegként a belvizek kialakulásában is szerepe van.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--alfold"
+      ],
+      "related": [
+        "torm-uledekes",
+        "palas-kozetek",
+        "homok"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bauxit",
+      "term": "bauxit",
+      "sourceLabels": [
+        "bauxit"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Alumínium-hidroxid ásványokból álló, vöröses színű üledékes kőzet, az alumíniumgyártás legfontosabb érce. Meleg, csapadékos (trópusi) éghajlaton, intenzív kémiai mállás során maradékként halmozódik fel (laterit- és karsztbauxit).",
+      "example": "Hazánkban a Bakonyban és a Vértesben bányászták; ma Ausztrália és Guinea a legnagyobb termelők közé tartozik.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--bakony",
+        "magyarorszag--egyeb-tajak-teruletek--vertes",
+        "ausztralia-es-oceania--orszagok--ausztralia"
+      ],
+      "related": [
+        "bauxit-tipusok",
+        "uledekes-erckepzodes",
+        "erc"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "kőzetek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vaserc",
+      "term": "vasérc",
+      "sourceLabels": [
+        "vasérc"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Vasban gazdag ércásványokból (pl. magnetit, hematit, limonit, sziderit) álló kőzet, a vas- és acélgyártás alapanyaga. A legnagyobb telepek az ősföldeken, üledékes úton (szalagos vasérc) keletkeztek, de magmás eredetű is lehet.",
+      "example": "Ausztrália (Nyugat-ausztráliai-ősföld) és Brazília (Brazil-ősföld) a legnagyobb vasérctermelők közé tartozik.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold",
+        "fold--nagyszerkezeti-egysegek--brazil-osfold"
+      ],
+      "related": [
+        "erc",
+        "ercasvanyok",
+        "uledekes-erckepzodes",
+        "osfold"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "nagyszerkezet",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "granit",
+      "term": "gránit",
+      "sourceLabels": [
+        "gránit"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Savanyú mélységi magmás kőzet; fő ásványai a kvarc, a földpát és a csillám. Szemcsés szövetű, világos színű, kemény; építő- és díszkőként használják. A kontinentális kéreg felső részének jellemző kőzete.",
+      "example": "Magyarországon a Velencei-hegységben, gyapjúzsákszerű gránitformákban bukkan a felszínre.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg"
+      ],
+      "related": [
+        "melysegi-magmas-kozet",
+        "riolit",
+        "kvarc",
+        "savanyu-magmas-kozet"
+      ],
+      "tags": [
+        "kőzetek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "andezit",
+      "term": "andezit",
+      "sourceLabels": [
+        "andezit"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Semleges összetételű vulkáni kiömlési kőzet, általában szürke színű; sűrűn folyó lávából, többnyire rétegvulkánokban keletkezik. Kemény, ezért útépítésre, zúzottkőnek bányásszák.",
+      "example": "Andezitből épül fel a Visegrádi-hegység, a Börzsöny és a Mátra nagy része.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--visegradi-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--borzsony",
+        "magyarorszag--egyeb-tajak-teruletek--matra"
+      ],
+      "related": [
+        "vulkani-kiomlesi-kozet",
+        "retegvulkan",
+        "semleges-magmas-kozet",
+        "andezittufa"
+      ],
+      "tags": [
+        "kőzetek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bazalt",
+      "term": "bazalt",
+      "sourceLabels": [
+        "bazalt"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Bázisos, sötét színű vulkáni kiömlési kőzet, amely hígfolyós lávából keletkezik; gyakran oszlopos elválású. Az óceáni kéreg jellemző kőzete; útépítésre, zúzottkőnek használják.",
+      "example": "A Tapolcai-medence tanúhegyeit (pl. Badacsony) bazalttakaró védi a lepusztulástól.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--badacsony",
+        "magyarorszag--egyeb-tajak-teruletek--tapolcai-medence"
+      ],
+      "related": [
+        "vulkani-kiomlesi-kozet",
+        "oceani-kereg",
+        "bazisos-magmas-kozet",
+        "bazaltfennsik",
+        "bazalttufa"
+      ],
+      "tags": [
+        "kőzetek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "riolit",
+      "term": "riolit",
+      "sourceLabels": [
+        "riolit"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Savanyú, világos színű vulkáni kiömlési kőzet, a gránit kiömlési megfelelője. Sűrűn folyó, gázdús magmából keletkezik, ezért kitörései többnyire robbanásosak, és nagy mennyiségű riolittufát hoznak létre.",
+      "example": "Riolit a Tokaji-hegységben található; hazánkban a riolitláva helyett a riolittufa gyakoribb (Bükkalja).",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tokaji-zempleni-hegyseg"
+      ],
+      "related": [
+        "granit",
+        "vulkani-kiomlesi-kozet",
+        "savanyu-magmas-kozet",
+        "riolittufa"
+      ],
+      "tags": [
+        "kőzetek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tufak",
+      "term": "andezit-, bazalt- és riolittufa",
+      "sourceLabels": [
+        "andezit-",
+        "bazalt- és riolittufa"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A vulkáni törmelékes kőzetek (tufák) típusai aszerint, hogy milyen összetételű magma robbanásos kitöréséből származik a kiszórt anyag. Hazánk vulkáni hegységeiben mindhárom előfordul.",
+      "example": "Andezittufa: Visegrádi-hegység; bazalttufa: Tihanyi-félsziget; riolittufa: Bükkalja, Eger.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--visegradi-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--tihanyi-felsziget",
+        "magyarorszag--telepulesek--eger"
+      ],
+      "related": [
+        "tufa",
+        "andezittufa",
+        "bazalttufa",
+        "riolittufa"
+      ],
+      "tags": [
+        "kőzetek",
+        "vulkanizmus",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "andezittufa",
+      "term": "andezittufa",
+      "sourceLabels": [],
+      "parent": "tufak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Andezites magmájú rétegvulkánok robbanásos kitöréseinek kiszórt anyagából összecementálódott vulkáni törmelékes kőzet. Az andezitlávarétegekkel váltakozva építi fel a rétegvulkánokat.",
+      "example": "A Visegrádi-hegység és a Börzsöny rétegvulkánjaiban andezittufa és andezitláva rétegei váltakoznak.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--visegradi-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--borzsony"
+      ],
+      "related": [
+        "andezit",
+        "retegvulkan",
+        "tufak"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bazalttufa",
+      "term": "bazalttufa",
+      "sourceLabels": [],
+      "parent": "tufak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Bazaltos magmájú vulkánok robbanásos kitörései során, gyakran víz és magma találkozásakor kiszórt törmelékből összecementálódott vulkáni törmelékes kőzet.",
+      "example": "A Tihanyi-félsziget egykori vulkánjainak (tufagyűrűinek) anyaga bazalttufa.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--tihanyi-felsziget"
+      ],
+      "related": [
+        "bazalt",
+        "tufak"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "riolittufa",
+      "term": "riolittufa",
+      "sourceLabels": [],
+      "parent": "tufak",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Savanyú, gázdús riolitos magma heves robbanásos kitöréseiből származó, világos színű, könnyen faragható vulkáni törmelékes kőzet.",
+      "example": "A Bükkalja kaptárkövei és az egri, tokaji borospincék riolittufában alakultak ki.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--eger",
+        "magyarorszag--egyeb-tajak-teruletek--tokaji-zempleni-hegyseg"
+      ],
+      "related": [
+        "riolit",
+        "tufak"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "marvany",
+      "term": "márvány",
+      "sourceLabels": [
+        "márvány"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Mészkő (vagy dolomit) átalakulásával, nagy nyomás és hőmérséklet hatására átkristályosodott, kalcitkristályokból álló átalakult kőzet. Csiszolható, polírozható; szobrászati és díszítőkő.",
+      "example": "Az olaszországi Carrara fehér márványa világhírű szoborkő.",
+      "related": [
+        "meszko",
+        "atalakult-kozet",
+        "kalcit"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "palas-kozetek",
+      "term": "palás kőzetek",
+      "aliases": [
+        "kristályos palák"
+      ],
+      "sourceLabels": [
+        "palás kőzetek"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "Lemezes, réteges elválású (palás szerkezetű) kőzetek, amelyekben az ásványok a nyomásra merőleges síkokban rendeződtek; többségük átalakult kőzet (pl. agyagpala, fillit, csillámpala, gneisz).",
+      "example": "A Soproni-hegység csillámpalából és gneiszből, a Kőszegi-hegység fillitből és zöldpalából épül fel.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--soproni-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--koszegi-hegyseg"
+      ],
+      "related": [
+        "atalakult-kozet",
+        "agyag"
+      ],
+      "tags": [
+        "kőzetek",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "asvanyi-nyersanyag",
+      "term": "ásványi nyersanyag",
+      "aliases": [
+        "ásványkincs",
+        "ásványi nyersanyagok"
+      ],
+      "sourceLabels": [
+        "ásványi nyersanyag"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "kozep",
+      "definition": "A földkéregben természetes úton felhalmozódott, gazdaságosan kitermelhető és hasznosítható ásványok, kőzetek és szénhidrogének összessége. Csoportjai az ércek, az energiahordozók (szén, kőolaj, földgáz, urán) és a nemfémes (pl. építőipari, vegyipari) nyersanyagok; emberi léptékkel nem megújulók.",
+      "example": "A bányászat tájsebeket, meddőhányókat, vízszennyezést okoz, ezért a felhagyott bányák rekultivációja fontos.",
+      "related": [
+        "erc",
+        "szenfajtak",
+        "koolaj",
+        "foldgaz",
+        "osfold"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "fenntarthatóság",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozetanyag-korforgas",
+      "term": "kőzetanyag-körforgás",
+      "sourceLabels": [
+        "kőzetanyag-körforgás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "A kőzetek anyagának folyamatos átalakulása egyik kőzettípusból a másikba: a magmás kőzetek a felszínen lepusztulnak, üledékes kőzetté válnak, a mélybe kerülve átalakulnak, majd megolvadva újra magmát alkotnak. A körforgást a lemezmozgások (alábukás, hegységképződés) tartják fenn.",
+      "example": "Az alábukó óceáni lemez üledékei és bazaltja beolvadva új magmát adnak, amelyből az Andok vulkáni kőzetei keletkeznek.",
+      "examplePlaces": [
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "magmas-kozet",
+        "uledekes-kozet",
+        "atalakult-kozet",
+        "alabukas",
+        "beolvadas"
+      ],
+      "tags": [
+        "kőzetek",
+        "lemeztektonika",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "magmas-erckepzodes",
+      "term": "magmás ércképződés",
+      "sourceLabels": [
+        "magmás ércképződés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "A magma kihűlése során végbemenő ércfelhalmozódás. Korai szakaszában a nehéz fémek (pl. króm, nikkel, platina) kristályosodnak ki és süllyednek le a magmakamrában; a késői szakaszban a forró, fémtartalmú oldatokból (hidrotermális úton) a repedésekben színesfém- és nemesfém-érctelérek képződnek.",
+      "example": "A Mátrában Recsk rézércét és Gyöngyösoroszi ólom-cinkércét magmás ércképződés hozta létre; az Andok rézércei is így keletkeztek.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--matra",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "erc",
+        "teler",
+        "ercasvanyok",
+        "uledekes-erckepzodes",
+        "beolvadas"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "uledekes-erckepzodes",
+      "term": "üledékes ércképződés",
+      "sourceLabels": [
+        "üledékes ércképződés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "A felszínen, külső erők hatására végbemenő ércfelhalmozódás: a kőzetek mállása során oldatba kerülő vagy helyben maradó fémvegyületek kicsapódással, dúsulással vagy törmelékként (torlatként) halmozódnak fel.",
+      "example": "Üledékes eredetű az ősföldek szalagos vasérce, a bakonyi bauxit és az úrkúti mangánérc.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--bakony",
+        "fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold"
+      ],
+      "related": [
+        "bauxit",
+        "vaserc",
+        "erc",
+        "magmas-erckepzodes"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ercasvanyok",
+      "term": "nehéz-, színes- és nemesfémek ércásványai",
+      "sourceLabels": [
+        "nehéz-",
+        "színes- és nemesfémek ércásványai"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "Az ércek csoportosítása a belőlük kinyerhető fém szerint. A nehézfém-ércek (főként vas és vasötvöző fémek) magmás és üledékes úton is képződnek; a színesfémércek (réz, ólom, cink, ón) és a nemesfémek (arany, ezüst, platina) főként magmás, forró oldatos (hidrotermális) eredetűek, másodlagosan törmelékes torlatokban is felhalmozódhatnak.",
+      "example": "Vasérc: Brazil-ősföld; rézérc: Andok (Chile); arany: Dél-afrikai Köztársaság.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--brazil-osfold",
+        "amerika--orszagok--chile",
+        "afrika--orszagok--del-afrikai-koztarsasag"
+      ],
+      "related": [
+        "nehezfem-erc",
+        "szinesfem-erc",
+        "nemesfem-erc",
+        "magmas-erckepzodes",
+        "uledekes-erckepzodes"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nehezfem-erc",
+      "term": "nehézfémek ércásványai",
+      "sourceLabels": [],
+      "parent": "ercasvanyok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "A vas és a vasötvöző fémek (pl. mangán, króm, nikkel) ércásványai, pl. a magnetit, a hematit (vas) és a kromit (króm). A vasércek nagy része üledékes úton, az ősföldeken keletkezett, a króm- és nikkelércek magmás eredetűek.",
+      "example": "A Nyugat-ausztráliai-ősföld hematitban gazdag szalagos vasércei a világ legnagyobb telepei közé tartoznak.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold"
+      ],
+      "related": [
+        "vaserc",
+        "ercasvanyok",
+        "uledekes-erckepzodes"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szinesfem-erc",
+      "term": "színesfémek ércásványai",
+      "sourceLabels": [],
+      "parent": "ercasvanyok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "A réz, az ólom, a cink és az ón ércásványai (pl. kalkopirit, galenit, szfalerit, kassziterit). Főként a magma kihűlésének késői szakaszában, forró oldatokból telérekben válnak ki, ezért a közeledő lemezszegélyek vulkáni övezeteiben gyakoriak.",
+      "example": "Chile és Peru rézércei az Andok magmás tevékenységéhez kötődnek.",
+      "examplePlaces": [
+        "amerika--orszagok--chile",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "magmas-erckepzodes",
+        "teler",
+        "ercasvanyok"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nemesfem-erc",
+      "term": "nemesfémek ércásványai",
+      "sourceLabels": [],
+      "parent": "ercasvanyok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "Az arany, az ezüst és a platina előfordulásai; az arany gyakran termésfémként, az ezüst ércásványokban (pl. ólomércekkel együtt) fordul elő. Elsődlegesen magmás, forró oldatos telérekben keletkeznek, másodlagosan a lepusztulás során folyóhordalékban (aranymosás) is felhalmozódnak.",
+      "example": "A Dél-afrikai Köztársaság (Witwatersrand) aranytelepei ősi torlatos eredetűek.",
+      "examplePlaces": [
+        "afrika--orszagok--del-afrikai-koztarsasag"
+      ],
+      "related": [
+        "magmas-erckepzodes",
+        "ercasvanyok"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "magmas-kozet-osszetetel",
+      "term": "bázisos, savanyú és semleges magmás kőzet",
+      "sourceLabels": [
+        "bázisos",
+        "savanyú és semleges magmás kőzet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "A magmás kőzetek csoportosítása kémiai összetételük, elsősorban szilícium-dioxid-tartalmuk szerint. A savanyú kőzetek SiO₂-tartalma kb. 65% fölötti, a semlegeseké kb. 52–65%, a bázisosaké kb. 52% alatti; a SiO₂-tartalom növekedésével a kőzet világosabb, a magma sűrűbben folyó és gázdúsabb lesz.",
+      "example": "Savanyú: gránit, riolit; semleges: diorit, andezit; bázisos: gabbró, bazalt.",
+      "related": [
+        "bazisos-magmas-kozet",
+        "semleges-magmas-kozet",
+        "savanyu-magmas-kozet",
+        "magmas-kozet"
+      ],
+      "tags": [
+        "kőzetek",
+        "vulkanizmus",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bazisos-magmas-kozet",
+      "term": "bázisos magmás kőzet",
+      "sourceLabels": [],
+      "parent": "magmas-kozet-osszetetel",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "Kis szilícium-dioxid-tartalmú, vasban és magnéziumban gazdag, sötét színű, nagy sűrűségű magmás kőzet. Magmája hígfolyós, csendesen ömlik; jellemző a távolodó lemezszegélyeken és a forró pontok fölött.",
+      "example": "Bázisos kiömlési kőzet a bazalt, mélységi megfelelője a gabbró.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--badacsony"
+      ],
+      "related": [
+        "bazalt",
+        "magmas-kozet-osszetetel"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "semleges-magmas-kozet",
+      "term": "semleges magmás kőzet",
+      "sourceLabels": [],
+      "parent": "magmas-kozet-osszetetel",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "Közepes szilícium-dioxid-tartalmú, általában szürke magmás kőzet. Magmája jellemzően közeledő lemezszegélyeken, az alábukó lemez beolvadásából keletkezik, és rétegvulkánokat épít.",
+      "example": "Semleges kiömlési kőzet az andezit (Mátra), mélységi megfelelője a diorit.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--matra"
+      ],
+      "related": [
+        "andezit",
+        "magmas-kozet-osszetetel"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "savanyu-magmas-kozet",
+      "term": "savanyú magmás kőzet",
+      "sourceLabels": [],
+      "parent": "magmas-kozet-osszetetel",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "Nagy szilícium-dioxid-tartalmú, kvarcban gazdag, világos színű, kisebb sűrűségű magmás kőzet. Magmája sűrűn folyó és gázdús, ezért kitörései robbanásosak.",
+      "example": "Savanyú mélységi kőzet a gránit (Velencei-hegység), kiömlési megfelelője a riolit (Tokaji-hegység).",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--tokaji-zempleni-hegyseg"
+      ],
+      "related": [
+        "granit",
+        "riolit",
+        "magmas-kozet-osszetetel"
+      ],
+      "tags": [
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "bauxit-tipusok",
+      "term": "laterit- és karsztbauxit",
+      "sourceLabels": [
+        "laterit- és karsztbauxit"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "A bauxit két keletkezési típusa. Mindkettő meleg, csapadékos éghajlaton intenzív kémiai mállás maradékaként jön létre; a különbség az alapkőzetben és a felhalmozódás helyében van.",
+      "example": "Lateritbauxit: Ausztrália, Guinea; karsztbauxit: Bakony, Vértes.",
+      "examplePlaces": [
+        "ausztralia-es-oceania--orszagok--ausztralia",
+        "magyarorszag--egyeb-tajak-teruletek--bakony"
+      ],
+      "related": [
+        "lateritbauxit",
+        "karsztbauxit",
+        "bauxit"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "kőzetek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lateritbauxit",
+      "term": "lateritbauxit",
+      "sourceLabels": [],
+      "parent": "bauxit-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "Trópusi esős éghajlaton, alumíniumszilikát-tartalmú kőzetek (pl. gránit, bazalt) mélyreható kémiai mállásával, a mállási kéreg felső részében helyben felhalmozódott bauxit.",
+      "example": "A világ bauxittermelésének nagy része lateritbauxit, pl. Ausztráliában és Guineában.",
+      "examplePlaces": [
+        "ausztralia-es-oceania--orszagok--ausztralia"
+      ],
+      "related": [
+        "karsztbauxit",
+        "bauxit"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "karsztbauxit",
+      "term": "karsztbauxit",
+      "sourceLabels": [],
+      "parent": "bauxit-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+      "level": "emelt",
+      "definition": "Karsztos mészkő- vagy dolomitfelszín mélyedéseiben, töbreiben felhalmozódott bauxit, amely egykori meleg, csapadékos éghajlat alatti mállás maradékából keletkezett.",
+      "example": "A magyarországi bauxit (Bakony, Vértes) karsztbauxit.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--bakony",
+        "magyarorszag--egyeb-tajak-teruletek--vertes"
+      ],
+      "related": [
+        "lateritbauxit",
+        "bauxit",
+        "meszko"
+      ],
+      "tags": [
+        "ásványkincsek",
+        "karszt",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "osfold",
+      "term": "ősföld",
+      "aliases": [
+        "ősmasszívum",
+        "kraton"
+      ],
+      "sourceLabels": [
+        "ősföld (ősmasszívum)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "A kontinensek legidősebb, az előidőben (prekambriumban) keletkezett, többször felgyűrt, majd lepusztult, megmerevedett magterülete. Kristályos (mélységi magmás és átalakult) kőzetekből áll; gazdag vasércben, színes- és nemesfémekben, gyémántban.",
+      "example": "Ősföld pl. a Kanadai-, a Balti-, a Brazil-, az Afrikai- és a Nyugat-ausztráliai-ősföld.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--kanadai-osfold",
+        "fold--nagyszerkezeti-egysegek--balti-osfold",
+        "fold--nagyszerkezeti-egysegek--brazil-osfold",
+        "fold--nagyszerkezeti-egysegek--afrikai-osfold",
+        "fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold"
+      ],
+      "related": [
+        "fedett-es-fedetlen-osmasszivum",
+        "tablas-videk",
+        "vaserc",
+        "lepusztult-siksag"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "földtörténet",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fedett-es-fedetlen-osmasszivum",
+      "term": "fedett és fedetlen ősmasszívum",
+      "sourceLabels": [
+        "fedett és fedetlen ősmasszívum"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Az ősmasszívumok szerkezeti típusai aszerint, hogy kristályos kőzeteik a felszínen vannak-e. A fedetlen ősmasszívumon (pajzson) az ősi kőzetek a felszínen vannak, a fedett ősmasszívumot (táblát) fiatalabb, vízszintes üledékes rétegek takarják.",
+      "example": "Fedetlen: Balti- és Kanadai-pajzs; fedett: a Kelet-európai-síkság és a Közép-szibériai-fennsík táblája.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--balti-osfold",
+        "fold--nagyszerkezeti-egysegek--kanadai-osfold",
+        "europa--tajak--kelet-europai-siksag",
+        "azsia--tajak--kozep-sziberiai-fennsik"
+      ],
+      "related": [
+        "fedetlen-osmasszivum",
+        "fedett-osmasszivum",
+        "osfold",
+        "tablas-videk"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fedetlen-osmasszivum",
+      "term": "fedetlen ősmasszívum",
+      "aliases": [
+        "pajzs"
+      ],
+      "sourceLabels": [],
+      "parent": "fedett-es-fedetlen-osmasszivum",
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Olyan ősföldrész, ahol a lepusztulás miatt az ősi kristályos kőzetek a felszínen vannak (pajzs). Felszíne lepusztult, gyakran jégkorszaki eljegesedés formálta; ércekben gazdag.",
+      "example": "A Balti-pajzs (Finn-tóvidék) és a Kanadai-pajzs felszínét a jég letarolta, tavak ezrei borítják.",
+      "examplePlaces": [
+        "fold--nagyszerkezeti-egysegek--balti-osfold",
+        "fold--nagyszerkezeti-egysegek--kanadai-osfold",
+        "europa--tajak--finn-tovidek"
+      ],
+      "related": [
+        "fedett-osmasszivum",
+        "lepusztult-siksag"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fedett-osmasszivum",
+      "term": "fedett ősmasszívum",
+      "aliases": [
+        "tábla"
+      ],
+      "sourceLabels": [],
+      "parent": "fedett-es-fedetlen-osmasszivum",
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Olyan ősföldrész, amelynek kristályos aljzatát később elöntötte a tenger, és fiatalabb, vízszintesen települt üledékes rétegek takarják (tábla). Az üledékekben szén, kőolaj, földgáz, sók halmozódhattak fel.",
+      "example": "A Kelet-európai-síkság (Orosz-tábla) és a Közép-szibériai-fennsík fedett ősmasszívumon fekszik.",
+      "examplePlaces": [
+        "europa--tajak--kelet-europai-siksag",
+        "azsia--tajak--kozep-sziberiai-fennsik"
+      ],
+      "related": [
+        "fedetlen-osmasszivum",
+        "tablas-videk"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "ásványkincsek",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tablas-videk",
+      "term": "táblás vidék",
+      "sourceLabels": [
+        "táblás vidék"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Nagy kiterjedésű, nyugodt szerkezetű terület, ahol a merev aljzatot (ősföldet vagy lepusztult régi hegységet) vízszintesen vagy enyhén dőlten települt üledékes rétegek borítják. Felszíne sík vagy lépcsőzetes fennsík; üledékeiben energiahordozók és sók gyakoriak.",
+      "example": "Táblás vidék a Kelet-európai-síkság és a Közép-szibériai-fennsík; fiatalabb aljzaton a Párizsi-medence.",
+      "examplePlaces": [
+        "europa--tajak--kelet-europai-siksag",
+        "azsia--tajak--kozep-sziberiai-fennsik",
+        "europa--tajak--parizsi-medence"
+      ],
+      "related": [
+        "fedett-osmasszivum",
+        "osfold",
+        "lepusztult-siksag"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "rogos-hegyseg",
+      "term": "rögös szerkezetű hegység",
+      "sourceLabels": [
+        "rögös szerkezetű hegység"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Vetődések mentén kiemelkedett és lesüllyedt rögökből felépülő hegység. Többnyire régi (kaledóniai, variszkuszi) gyűrthegységek lepusztult, merev maradványaiból jött létre, amelyeket a későbbi kéregmozgások rögökre törtek; formái lekerekítettek, magasságuk többnyire közepes.",
+      "example": "Rögös szerkezetű a Francia- és a Német-középhegység, a Cseh-medence peremhegységei, valamint hazánkban a Dunántúli-középhegység és a Mecsek.",
+      "examplePlaces": [
+        "europa--tajak--francia-kozephegyseg",
+        "europa--tajak--nemet-kozephegyseg",
+        "magyarorszag--fo-tajegysegek--dunantuli-kozephegyseg",
+        "magyarorszag--egyeb-tajak-teruletek--mecsek"
+      ],
+      "related": [
+        "rog",
+        "vetodes",
+        "gyurthegyseg",
+        "megfiatalitott-rogos-hegyseg",
+        "hegysegrendszer"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gyurthegyseg",
+      "term": "gyűrthegység",
+      "sourceLabels": [
+        "gyűrthegység"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Kőzetrétegek gyűrődésével, a közeledő lemezszegélyek mentén kialakult hegység. A fiatal (Eurázsiai- és Pacifikus-hegységrendszerbe tartozó) gyűrthegységek magasak, csipkés gerincűek, ma is emelkednek és földrengés-, illetve vulkánveszélyesek; a régi gyűrthegységek többsége már lepusztult.",
+      "example": "Fiatal gyűrthegység az Alpok, a Kárpátok, a Himalája és az Andok.",
+      "examplePlaces": [
+        "europa--tajak--alpok",
+        "europa--tajak--karpatok",
+        "azsia--tajak--himalaja",
+        "amerika--tajak--andok"
+      ],
+      "related": [
+        "gyurodes",
+        "hegysegrendszer",
+        "hegysegkepzodes-tipusai",
+        "rogos-hegyseg"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sullyedekterulet",
+      "term": "süllyedékterület",
+      "sourceLabels": [
+        "süllyedékterület"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "A fiatal hegységképződéssel egy időben vagy azt követően lesüllyedt, majd üledékkel feltöltődött terület; jellemzően a gyűrthegységek közé zárt medencék és a hegységek előterének mélyedései. Vastag üledékeiben kőolaj, földgáz és termálvíz gyakori.",
+      "example": "Süllyedékterület a Kárpát-medence belseje (Alföld, Kisalföld), a Pó-síkság és a Hindusztáni-alföld.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--alfold",
+        "europa--tajak--po-alfold",
+        "azsia--tajak--hindusztani-alfold"
+      ],
+      "related": [
+        "tektonikus-medence",
+        "feltoltott-siksag",
+        "gyurthegyseg"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "melytengeri-siksag",
+      "term": "mélytengeri síkság",
+      "sourceLabels": [
+        "mélytengeri síkság"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Az óceáni medencék aljzatának több ezer méter mélyen fekvő, nagy kiterjedésű, szinte tökéletesen sík része, amelyet finom szemcséjű mélytengeri üledék takar.",
+      "example": "Az Atlanti-óceánban a Közép-atlanti-hátság és a kontinensek lábazata között mélytengeri síkságok terülnek el.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "oceani-medence",
+        "oceankozepi-hatsag",
+        "melytengeri-arok"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "vízburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "oceani-medence",
+      "term": "óceáni medence",
+      "sourceLabels": [
+        "óceáni medence"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Az óceánok aljzatának a kontinensek lábazata és az óceánközépi hátság között elterülő, óceáni kéreg alkotta, nagy mélységű része. Aljzatán mélytengeri síkságok, tenger alatti hegyek és vulkáni szigetek találhatók.",
+      "example": "A Csendes-óceán medencéiből forrópontos vulkáni szigetek, pl. a Hawaii-szigetek emelkednek ki.",
+      "examplePlaces": [
+        "fold--oceanok--csendes-ocean",
+        "amerika--tajak--hawaii-szigetek"
+      ],
+      "related": [
+        "melytengeri-siksag",
+        "oceani-kereg",
+        "oceankozepi-hatsag"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "vízburok",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "siksag-tipusok",
+      "term": "feltöltött és lepusztult (letarolt) síkság",
+      "sourceLabels": [
+        "feltöltött és lepusztult (letarolt) síkság"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "A síkságok keletkezés szerinti két típusa: a feltöltött síkságot a külső erők által lerakott üledékek halmozzák fel, a lepusztult (letarolt) síkság egykori magasabb térszín – ősföld vagy régi hegység – hosszú idejű lepusztulásával jön létre.",
+      "example": "Feltöltött: Alföld, Pó-síkság; lepusztult: Finn-tóvidék, a Kanadai-pajzs felszíne.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--alfold",
+        "europa--tajak--finn-tovidek"
+      ],
+      "related": [
+        "feltoltott-siksag",
+        "lepusztult-siksag",
+        "sullyedekterulet"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "felszínformálás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "feltoltott-siksag",
+      "term": "feltöltött síkság",
+      "sourceLabels": [],
+      "parent": "siksag-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Süllyedő területen a folyók, a szél, a tenger vagy a jég által lerakott üledékek felhalmozódásával kialakult síkság. Termékeny talajai és vízkészletei miatt fontos mezőgazdasági és településterület.",
+      "example": "Feltöltött síkság az Alföld, a Pó-síkság, a Hindusztáni-alföld és a Mississippi-alföld.",
+      "examplePlaces": [
+        "magyarorszag--fo-tajegysegek--alfold",
+        "europa--tajak--po-alfold",
+        "azsia--tajak--hindusztani-alfold",
+        "amerika--tajak--mississippi-alfold"
+      ],
+      "related": [
+        "lepusztult-siksag",
+        "sullyedekterulet"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "felszínformálás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lepusztult-siksag",
+      "term": "lepusztult (letarolt) síkság",
+      "aliases": [
+        "letarolt síkság"
+      ],
+      "sourceLabels": [],
+      "parent": "siksag-tipusok",
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "kozep",
+      "definition": "Egykori magasabb térszín (ősföld, régi hegység) hosszú ideig tartó lepusztulásával, letarolásával kialakult síkság; alatta közvetlenül kristályos vagy idős kőzetek vannak.",
+      "example": "A Balti-pajzs Finn-tóvidéke a jégtakaró által is letarolt, lepusztult síkság.",
+      "examplePlaces": [
+        "europa--tajak--finn-tovidek",
+        "fold--nagyszerkezeti-egysegek--kanadai-osfold"
+      ],
+      "related": [
+        "feltoltott-siksag",
+        "fedetlen-osmasszivum",
+        "osfold"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "felszínformálás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "megfiatalitott-rogos-hegyseg",
+      "term": "megfiatalított rögös szerkezetű hegység",
+      "aliases": [
+        "felújult rögös hegység"
+      ],
+      "sourceLabels": [
+        "megfiatalított rögös szerkezetű hegység"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+      "level": "emelt",
+      "definition": "Régi, lepusztult (kaledóniai vagy variszkuszi) hegység, amelyet a fiatal hegységképződés idején a kéregmozgások rögökre törtek és újra magasra emeltek. Ezért magasabb és meredekebb, mint a többi rögös hegység, felszínét gyakran gleccserek formálják.",
+      "example": "Megfiatalított rögös hegység a Skandináv-hegység és a Tien-san.",
+      "examplePlaces": [
+        "europa--tajak--skandinav-hegyseg",
+        "azsia--tajak--tien-san"
+      ],
+      "related": [
+        "rogos-hegyseg",
+        "hegysegrendszer",
+        "vetodes"
+      ],
+      "tags": [
+        "nagyszerkezet",
+        "hegységképződés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  ]
+}

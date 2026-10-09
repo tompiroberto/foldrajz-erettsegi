@@ -1,0 +1,452 @@
+[
+ {
+  "topicNo": 3,
+  "subtopic": "3.1. A kőzetburok földrajza 3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+  "kozep": [
+   "gömbhéj (geoszféra)",
+   "óceáni kéreg",
+   "kontinentális kéreg",
+   "kőzetburok (litoszféra)",
+   "vízburok (hidroszféra)",
+   "levegőburok (atmoszféra)",
+   "bioszféra",
+   "talajburok (pedoszféra)",
+   "geotermikus gradiens",
+   "földmágnesség",
+   "földkéreg",
+   "földköpeny",
+   "földmag",
+   "külső és belső mag",
+   "asztenoszféra"
+  ],
+  "emelt": []
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+  "kozep": [
+   "magma",
+   "magmaáramlás",
+   "kőzetlemez",
+   "hasadékvölgy",
+   "óceánközépi hátság",
+   "mélytengeri árok",
+   "vulkáni szigetív",
+   "távolodó",
+   "közeledő és elcsúszó lemezmozgás",
+   "alábukás",
+   "beolvadás",
+   "érc",
+   "mélységi magmatizmus",
+   "felszíni vulkánosság",
+   "láva",
+   "vulkáni hamu",
+   "rétegvulkán",
+   "magmakamra",
+   "kürtő",
+   "kráter",
+   "csatornás (kürtős) vulkán",
+   "hasadékvulkán",
+   "földrengés",
+   "rengésfészek (hipocentrum)",
+   "rengésközpont (epicentrum)",
+   "utórengés"
+  ],
+  "emelt": [
+   "gyarapodó és fölemésztődő lemezszegélyek",
+   "telér",
+   "párnaláva",
+   "bazaltfennsík",
+   "pajzsvulkán",
+   "kaldera",
+   "forrópontos vulkán",
+   "vulkáni utóműködés",
+   "gejzír",
+   "fumarola",
+   "szolfatára",
+   "mofetta",
+   "savanyúvíz",
+   "fészekmélység",
+   "földrengéshullámok",
+   "szeizmográf",
+   "tengerrengés",
+   "cunami",
+   "Richter-skála",
+   "Mercalli-skála"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.1.3. A hegységképződés",
+  "kozep": [
+   "a hegységképződés típusai (két kontinentális, két óceáni, illetve egy óceáni és egy kontinentális lemezszegély közeledése)",
+   "hegységrendszer",
+   "szerkezeti mozgások",
+   "gyűrődés",
+   "redő",
+   "álló",
+   "ferde és fekvő redő",
+   "vetődés",
+   "vetősík",
+   "törésvonal",
+   "rög",
+   "sasbérc",
+   "árok",
+   "lépcsővidék",
+   "tektonikus medence"
+  ],
+  "emelt": [
+   "hegységképződési szakaszok (üledékfelhalmozódás, tektogenezis, orogenezis)",
+   "redőboltozat",
+   "redőteknő",
+   "áttolt redő",
+   "izosztázia"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.1.4. A kőzetburok építőkövei, ásványkincsek",
+  "kozep": [
+   "ásvány",
+   "kőzet",
+   "magmás kőzet",
+   "mélységi magmás kőzet",
+   "vulkáni kiömlési kőzet",
+   "vulkáni törmelékes kőzet (tufa)",
+   "üledékes kőzet",
+   "törmelékes",
+   "vegyi",
+   "szerves eredetű üledékes kőzet",
+   "átalakult kőzet",
+   "kvarc",
+   "kalcit",
+   "kősó",
+   "kálisó",
+   "gipsz",
+   "mészkő",
+   "homok",
+   "homokkő",
+   "lösz",
+   "dolomit",
+   "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+   "kőolaj",
+   "földgáz",
+   "agyag",
+   "bauxit",
+   "vasérc",
+   "gránit",
+   "andezit",
+   "bazalt",
+   "riolit",
+   "andezit-",
+   "bazalt- és riolittufa",
+   "márvány",
+   "palás kőzetek",
+   "ásványi nyersanyag"
+  ],
+  "emelt": [
+   "kőzetanyag-körforgás",
+   "magmás ércképződés",
+   "üledékes ércképződés",
+   "nehéz-",
+   "színes- és nemesfémek ércásványai",
+   "bázisos",
+   "savanyú és semleges magmás kőzet",
+   "laterit- és karsztbauxit"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.1.5. A Föld nagyszerkezeti egységei",
+  "kozep": [
+   "ősföld (ősmasszívum)",
+   "fedett és fedetlen ősmasszívum",
+   "táblás vidék",
+   "rögös szerkezetű hegység",
+   "gyűrthegység",
+   "süllyedékterület",
+   "óceánközépi hátság",
+   "mélytengeri árok",
+   "mélytengeri síkság",
+   "óceáni medence",
+   "feltöltött és lepusztult (letarolt) síkság"
+  ],
+  "emelt": [
+   "megfiatalított rögös szerkezetű hegység"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.2. A levegőburok földrajza 3.2.1. A légkör anyaga és szerkezete",
+  "kozep": [
+   "alsó",
+   "középső és felső légkör",
+   "troposzféra",
+   "sztratoszféra",
+   "ózonréteg",
+   "mezoszféra",
+   "termoszféra",
+   "exoszféra",
+   "állandó",
+   "változó és erősen változó gázok",
+   "vendéganyagok"
+  ],
+  "emelt": [
+   "ionoszféra"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.2.2. A levegő felmelegedése",
+  "kozep": [
+   "besugárzás",
+   "visszaverődés",
+   "elnyelődés",
+   "kisugárzás",
+   "üvegházhatás",
+   "üvegházgázok",
+   "sugárzás-visszaverő képesség (albedó)",
+   "felmelegedés és lehűlés",
+   "a hőmérséklet napi és évi járása",
+   "napi",
+   "havi és évi középhőmérséklet",
+   "napi hőingás",
+   "évi közepes hőingás",
+   "abszolút hőingás",
+   "izoterma"
+  ],
+  "emelt": [
+   "napfénytartam",
+   "lejtőkitettség",
+   "fordított hőrétegződés (hőmérsékleti inverzió)",
+   "tenyészidőszak",
+   "hőösszeg",
+   "napállandó"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.2.3. A levegő mozgása",
+  "kozep": [
+   "légnyomás",
+   "szél",
+   "izobár",
+   "mérsékelt övezeti ciklon és anticiklon",
+   "hideg- és melegfront",
+   "szélrendszer",
+   "passzátszelek",
+   "nyugatias szelek",
+   "sarki szelek",
+   "általános légkörzés (nagy földi légkörzés)",
+   "hőmérsékleti (termikus) egyenlítő",
+   "forró övezeti (trópusi) monszunszélrendszer",
+   "mérsékelt övezeti monszunszélrendszer"
+  ],
+  "emelt": [
+   "okklúziós front",
+   "trópusi ciklon (hurrikán, tájfun)",
+   "tornádó",
+   "helyi szelek (parti szél, hegy-völgyi szél, városi szél, főn)",
+   "futóáramlás"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.2.4. Felhő- és csapadékképződés",
+  "kozep": [
+   "tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom",
+   "harmatpont",
+   "telítettség",
+   "túltelítettség",
+   "kicsapódási (kondenzációs) mag",
+   "kicsapódás",
+   "felhő- és csapadékképződés",
+   "felhő",
+   "köd",
+   "hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)",
+   "talaj menti (felszíni) csapadékfajták (harmat, dér, zúzmara)",
+   "aszály"
+  ],
+  "emelt": [
+   "felhőfajták (pehely-, fátyol-, réteg-, gomoly-, zivatarfelhő)"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.2.5. Az időjárás és az éghajlat",
+  "kozep": [
+   "idő",
+   "időjárás",
+   "éghajlat (klíma)",
+   "időjárási térkép",
+   "időjárás-előrejelzés",
+   "időjárási és éghajlati elemek",
+   "időjárási veszélyhelyzetek"
+  ],
+  "emelt": [
+   "mikroklíma"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.2.6. A légszennyezés következményei",
+  "kozep": [
+   "az üvegházhatás fokozódása",
+   "globális felmelegedés",
+   "ózonréteg-elvékonyodás (ózonritkulás)",
+   "éghajlatváltozás (klímaváltozás)",
+   "légszennyező anyagok",
+   "savas csapadék",
+   "savas ülepedés",
+   "elsavanyodás",
+   "füstköd (szmog)",
+   "radioaktív szennyeződés"
+  ],
+  "emelt": [
+   "emisszió",
+   "transzmisszió",
+   "immisszió"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+  "kozep": [],
+  "emelt": [
+   "„fagyosszentek”",
+   "„Medárd-nap”",
+   "„vénasszonyok nyara”",
+   "Azori- és Szibériai-maximum",
+   "Elő-ázsiai (iráni) minimum",
+   "Izlandi minimum"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.3. A vízburok földrajza 3.3.1. A vízburok tagolódása, tulajdonságai és mozgásai",
+  "kozep": [
+   "vízháztartás (párolgás-párologtatás, csapadék, lefolyás)",
+   "a víz körforgása",
+   "világtenger",
+   "óceán",
+   "tenger",
+   "tengerszoros",
+   "öböl",
+   "beltenger",
+   "peremtenger",
+   "szárazföldi talapzat (self)",
+   "kontinentális lejtő",
+   "fajlagos hőkapacitás (fajhő)",
+   "sótartalom",
+   "hűtő-fűtő hatás",
+   "hullámzás",
+   "hideg és meleg tengeráramlás",
+   "tengerjárás",
+   "apály",
+   "dagály"
+  ],
+  "emelt": [
+   "földközi tenger",
+   "pozitív és negatív hőmérsékleti anomália",
+   "óceáni vízkörzés",
+   "szökőár",
+   "vakár",
+   "vihardagály"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.3.2. A felszíni vizek",
+  "kozep": [
+   "állóvíz",
+   "tó",
+   "fertő",
+   "mocsár",
+   "láp",
+   "kimélyített és elgátolt tómedence",
+   "jégvájta tó",
+   "morotvató",
+   "szélvájta tó",
+   "moréna által elgátolt tó",
+   "tektonikus eredetű tó",
+   "krátertó",
+   "maradványtó",
+   "mesterséges tó",
+   "feltöltődés",
+   "lecsapolódás",
+   "kiszáradás",
+   "vízgyűjtő terület",
+   "vízválasztó",
+   "fő- és mellékfolyó",
+   "lefolyásos és belső lefolyású terület",
+   "időszakos vízfolyás",
+   "vízállás",
+   "vízhozam",
+   "vízjárás",
+   "árvíz"
+  ],
+  "emelt": [
+   "tengerszem",
+   "poljetó",
+   "kalderató",
+   "időszakos tó",
+   "eutrofizáció"
+  ]
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.3.3. A felszín alatti vizek",
+  "kozep": [
+   "felszín alatti víz",
+   "vízfogó és víztartó kőzetréteg",
+   "talajnedvesség",
+   "talajvíz",
+   "belvíz",
+   "artézi víz",
+   "hévíz",
+   "ásványvíz",
+   "gyógyvíz",
+   "résvíz",
+   "karsztvíz",
+   "forrás",
+   "artézi kút"
+  ],
+  "emelt": []
+ },
+ {
+  "topicNo": 3,
+  "subtopic": "3.3.4. A vízburok mint gazdasági erőforrás",
+  "kozep": [
+   "vízgazdálkodás",
+   "ár- és belvízvédelem",
+   "árvízvédelmi gát",
+   "ártér",
+   "hullámtér",
+   "ármentesített terület (mentesített ártér)",
+   "vésztározó",
+   "víztározó",
+   "ivóvíz",
+   "öntözővíz",
+   "ipari víz",
+   "szennyvíztisztítás",
+   "vízszennyező források",
+   "belvízi és tengerhajózás",
+   "halászat"
+  ],
+  "emelt": [
+   "villámáradás",
+   "folyószabályozás",
+   "közműolló",
+   "nitrátosodás",
+   "vízforgatás",
+   "ásott kút",
+   "fúrt kút",
+   "csápos kút",
+   "mechanikai",
+   "biológiai és kémiai szennyvíztisztítás",
+   "polder",
+   "túlhalászás",
+   "El Niño"
+  ]
+ }
+]

@@ -1,0 +1,129 @@
+{
+  "id": "telephelyvalasztas",
+  "title": "A telephelyválasztás tényezői",
+  "summary": "A vállalatok oda telepítik üzemeiket, ahol a termelés a telepítő tényezők alapján a legnagyobb hasznot ígéri. A telepítő tényezők súlya az idők során megváltozott: a nyersanyag és az energia helyett ma a képzett munkaerő, a piac, a közlekedés és a tudás a meghatározó.",
+  "causes": [
+    "A vállalat célja a haszon (profit) növelése, ezért a költségek (szállítás, munkabér, energia, adó) csökkentésére törekszik.",
+    "Az egyes iparágak eltérő tényezőkre érzékenyek: a nehézipar a nyersanyagra és az energiára, a könnyűipar a munkaerőre, a csúcstechnológia a tudásra.",
+    "A közlekedés fejlődésével a szállítási költség aránya csökkent, ezért a nyersanyaglelőhely jelentősége mérséklődött."
+  ],
+  "course": [
+    "Nyersanyag- és energiaorientált telepítés: a 19. században a nehézipar a szén- és vasérclelőhelyekre települt.",
+    "Szállítás- és kikötőorientált telepítés: az importált nyersanyagot feldolgozó üzemek a tengerpartokra, folyók mellé kerültek.",
+    "Munkaerő- és piacorientált telepítés: a munkaigényes ágazatok az olcsó munkaerőhöz, a fogyasztási cikkeket gyártók a nagy piacok közelébe települnek.",
+    "Tudás- és innovációorientált telepítés: a csúcstechnológia egyetemek, kutatóintézetek közelébe, technopoliszokba, ipari parkokba települ; fontos az infrastruktúra és az állami támogatás."
+  ],
+  "consequences": [
+    "A régi, nyersanyagra települt iparvidékek válságba kerültek, szerkezetváltásra kényszerültek.",
+    "Új ipari térségek, technopoliszok és ipari parkok jöttek létre.",
+    "A vállalatok a telephelyek között választva versenyre késztetik az országokat és településeket (adókedvezmény, támogatás).",
+    "A zöldmezős beruházások új munkahelyeket teremtenek, de mezőgazdasági területet foglalnak el; a barnamezős beruházás a régi ipari területeket hasznosítja újra."
+  ],
+  "steps": [
+    {
+      "title": "Nyersanyag és energia",
+      "caption": "A hagyományos nehézipar a szén- és vasérclelőhelyek közelébe települt, mert a nehéz nyersanyag szállítása drága volt.",
+      "icon": "pickaxe"
+    },
+    {
+      "title": "Közlekedés, szállítás",
+      "caption": "A kikötők, folyók, vasutak és autópályák mellé települő üzemek olcsón jutnak nyersanyaghoz és piachoz.",
+      "icon": "truck"
+    },
+    {
+      "title": "Munkaerő",
+      "caption": "A munkaigényes ágazatok az olcsó, a fejlett ágazatok a képzett munkaerőhöz települnek.",
+      "icon": "users"
+    },
+    {
+      "title": "Piac",
+      "caption": "A fogyasztási cikkeket gyártó üzemek a nagy vásárlóerejű piacok közelébe kerülnek.",
+      "icon": "coins"
+    },
+    {
+      "title": "Tudás és innováció",
+      "caption": "A csúcstechnológia az egyetemek, kutatóintézetek közelébe, technopoliszokba települ.",
+      "icon": "zap"
+    },
+    {
+      "title": "Infrastruktúra és állami ösztönzők",
+      "caption": "Ipari parkok, adókedvezmények és támogatások vonzzák a beruházókat.",
+      "icon": "landmark"
+    },
+    {
+      "title": "Környezeti szempontok",
+      "caption": "A szigorodó környezetvédelmi előírások és a kedvező lakókörnyezet is befolyásolják a telephelyválasztást.",
+      "icon": "leaf"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Ruhr-vidék nehézipara a kőszénlelőhelyekre és a Rajna vízi útjára települt; a bányászat hanyatlásával szerkezetváltásra kényszerült.",
+      "places": [
+        "europa--iparvidekek--ruhr-videk"
+      ]
+    },
+    {
+      "text": "A Szilícium-völgy csúcstechnológiai ipara egyetemek és kutatóintézetek közelébe, a tudásra települt.",
+      "places": [
+        "amerika--tajak--szilicium-volgy"
+      ]
+    },
+    {
+      "text": "Dunaújváros vasműve a Duna mellé épült: a folyó bőséges ipari vizet és vízi szállítási lehetőséget biztosított.",
+      "places": [
+        "magyarorszag--telepulesek--dunaujvaros"
+      ]
+    },
+    {
+      "text": "Győr autóipara (Audi) a képzett munkaerőre, a kedvező közlekedési fekvésre (M1 autópálya, nyugati piacok közelsége) és az ipari parkra épül.",
+      "places": [
+        "magyarorszag--telepulesek--gyor"
+      ]
+    }
+  ],
+  "concepts": [
+    "telepítő tényező",
+    "természeti erőforrás",
+    "társadalmi (humán) erőforrás",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "infrastruktúra",
+    "ipari park",
+    "technopolisz",
+    "barnamezős (rekonstrukciós) és zöldmezős beruházás",
+    "haszon (profit)",
+    "piac"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el, milyen tényezők befolyásolják az ipari telephelyek kiválasztását, és hogyan változott ezek jelentősége az idők során! Mutass be egy hagyományos és egy modern példát!",
+    "elements": [
+      {
+        "text": "A telephelyválasztás célja a haszon növelése, a költségek csökkentése.",
+        "points": 1
+      },
+      {
+        "text": "Hagyományos telepítő tényezők: nyersanyag- és energialelőhely, víz.",
+        "points": 2
+      },
+      {
+        "text": "További tényezők: közlekedés, munkaerő (olcsó vagy képzett), piac.",
+        "points": 2
+      },
+      {
+        "text": "Modern tényezők: tudás, K+F, infrastruktúra, ipari park, állami támogatás, adókedvezmény.",
+        "points": 2
+      },
+      {
+        "text": "Változás oka: a szállítási költségek csökkenése miatt a nyersanyag szerepe mérséklődött, a tudás szerepe nőtt.",
+        "points": 1
+      },
+      {
+        "text": "Példák: Ruhr-vidék (szén – hagyományos), Szilícium-völgy (tudás – modern).",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A vállalatok a telephely kiválasztásakor a haszon növelésére és a költségek csökkentésére törekednek. A 19. században a nehézipar a nyersanyag- és energialelőhelyekre települt, mert a nehéz szén és vasérc szállítása drága volt, így jött létre például a Ruhr-vidék iparvidéke. A közlekedés fejlődésével a szállítási költségek aránya csökkent, ezért egyre fontosabb lett a jó közlekedési fekvés, a munkaerő (az olcsó vagy a képzett) és a nagy fogyasztópiac közelsége. Ma a csúcstechnológiában a tudás, a kutatás-fejlesztés, az egyetemek közelsége és a fejlett infrastruktúra a döntő, amire a Szilícium-völgy a legismertebb példa. A beruházók választását az ipari parkok, az adókedvezmények és az állami támogatások is befolyásolják, ezért az országok és települések versenyeznek a tőkéért."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ozonreteg",
+  "title": "Az ózonréteg elvékonyodása",
+  "summary": "A sztratoszféra ózonrétege elnyeli a Nap élővilágra káros ultraibolya sugárzásának nagy részét. Az ember által kibocsátott freonok (klórozott-fluorozott szénhidrogének) a sztratoszférában lebontják az ózont, ezért az ózonréteg elvékonyodik, különösen az Antarktisz fölött.",
+  "causes": [
+    "A 20. században tömegesen használták a freonokat hűtőgépekben, spray-k hajtógázaként, habanyagokban.",
+    "A freonok nagyon stabil vegyületek, ezért lassan feljutnak a sztratoszférába.",
+    "A sztratoszférában az ultraibolya sugárzás hatására a freonokból klór szabadul fel, amely az ózont lebontja."
+  ],
+  "course": [
+    "A felszabaduló klór láncreakcióban sok ózonmolekulát bont le, miközben maga nem fogy el.",
+    "Az ózonritkulás az Antarktisz fölött a legerősebb, a déli félgömb tavaszán: ezt nevezik ózonlyuknak.",
+    "Ott a sarki téli hidegben kialakuló sztratoszférikus felhők felületén a klór aktiválódik, és a tavaszi napsütés beindítja az ózonbontást.",
+    "Az elvékonyodott ózonrétegen több ultraibolya sugárzás jut a felszínre."
+  ],
+  "consequences": [
+    "Nő a bőrrák és a szürkehályog kockázata, gyengül az immunrendszer.",
+    "Károsodnak a növények és a tengeri plankton, ami a táplálékláncon keresztül az egész élővilágra hat.",
+    "Az 1987-es Montreali Jegyzőkönyv nemzetközi összefogással fokozatosan betiltotta a freonok gyártását és használatát.",
+    "A kibocsátás csökkent, de a freonok sokáig a légkörben maradnak, ezért az ózonréteg csak lassan, évtizedek alatt regenerálódik."
+  ],
+  "steps": [
+    {
+      "title": "Freonok kibocsátása",
+      "caption": "Hűtőgépekből, spray-kből, habanyagokból freonok jutottak a levegőbe. Ezek stabil, lassan bomló vegyületek.",
+      "icon": "factory"
+    },
+    {
+      "title": "Feljutás a sztratoszférába",
+      "caption": "A freonok lassan, évek alatt feljutnak a sztratoszférába, ahol az ózonréteg található.",
+      "icon": "arrow-up"
+    },
+    {
+      "title": "Klór szabadul fel",
+      "caption": "A sztratoszférában az erős ultraibolya sugárzás szétbontja a freonokat, és klór szabadul fel belőlük.",
+      "icon": "sun"
+    },
+    {
+      "title": "Az ózon lebomlása",
+      "caption": "A klór láncreakcióban sok ózonmolekulát bont le, miközben maga nem fogy el. Így az ózonréteg elvékonyodik.",
+      "icon": "layers"
+    },
+    {
+      "title": "Ózonlyuk az Antarktisz fölött",
+      "caption": "Az ózonritkulás az Antarktisz fölött, a déli félgömb tavaszán a legerősebb, mert a sarki téli hidegben előkészülnek a bontó folyamatok.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "Több UV-sugárzás a felszínen",
+      "caption": "Az elvékonyodott ózonrétegen több ultraibolya sugárzás jut át, ami bőrrákot, szürkehályogot és az élővilág károsodását okozhatja.",
+      "icon": "alert-triangle"
+    },
+    {
+      "title": "Nemzetközi összefogás",
+      "caption": "A Montreali Jegyzőkönyv (1987) fokozatosan betiltotta a freonokat. Az ózonréteg lassan regenerálódik.",
+      "icon": "shield"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Az ózonlyuk minden évben a déli félgömb tavaszán, az Antarktisz fölött a legkiterjedtebb.",
+      "places": [
+        "fold--egyeb--deli-sarkvidek-antarktisz"
+      ]
+    },
+    {
+      "text": "Az Antarktiszhoz közeli területeken, például Új-Zélandon és Ausztráliában különösen fontos a napvédelem a bőrrák megelőzésére.",
+      "places": [
+        "ausztralia-es-oceania--orszagok--uj-zeland",
+        "ausztralia-es-oceania--orszagok--ausztralia"
+      ]
+    },
+    {
+      "text": "Az Északi-sarkvidék (Arktisz) fölött is előfordul tavaszi ózonritkulás, de általában kisebb mértékű, mint a déli félgömbön.",
+      "places": [
+        "fold--egyeb--eszaki-sarkvidek-arktisz"
+      ]
+    }
+  ],
+  "concepts": [
+    "ózonréteg",
+    "ózonréteg-elvékonyodás (ózonritkulás)",
+    "sztratoszféra",
+    "légszennyező anyagok"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el az ózonréteg jelentőségét, elvékonyodásának okát és következményeit!",
+    "elements": [
+      {
+        "text": "Az ózonréteg a sztratoszférában található, és elnyeli a káros ultraibolya sugárzás nagy részét.",
+        "points": 2
+      },
+      {
+        "text": "Az ok: freonok kibocsátása (hűtőgépek, spray-k hajtógáza, habanyagok).",
+        "points": 2
+      },
+      {
+        "text": "A freonokból a sztratoszférában az UV-sugárzás hatására klór szabadul fel, amely lebontja az ózont.",
+        "points": 2
+      },
+      {
+        "text": "Az ózonritkulás az Antarktisz fölött, a déli félgömb tavaszán a legerősebb (ózonlyuk).",
+        "points": 1
+      },
+      {
+        "text": "Következmény: több UV-sugárzás a felszínen, bőrrák, szürkehályog, élővilág károsodása.",
+        "points": 2
+      },
+      {
+        "text": "Megoldás: nemzetközi összefogás (Montreali Jegyzőkönyv), freonok betiltása; lassú regenerálódás.",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "Az ózonréteg a sztratoszférában található, és elnyeli a Nap élővilágra káros ultraibolya sugárzásának nagy részét. Elvékonyodását főként a hűtőgépekben, spray-k hajtógázaként és habanyagokban használt freonok okozták, amelyek stabil vegyületként feljutottak a sztratoszférába. Ott az ultraibolya sugárzás hatására klór szabadul fel belőlük, amely láncreakcióban sok ózonmolekulát bont le. Az ózonritkulás az Antarktisz fölött, a déli félgömb tavaszán a legerősebb, ezt nevezzük ózonlyuknak. Az elvékonyodott rétegen több ultraibolya sugárzás jut a felszínre, ami növeli a bőrrák és a szürkehályog kockázatát, és károsítja a növényeket és a tengeri planktont. A Montreali Jegyzőkönyv nemzetközi összefogással betiltotta a freonokat, így az ózonréteg lassan regenerálódik."
+  },
+  "generated": true,
+  "reviewed": false
+}

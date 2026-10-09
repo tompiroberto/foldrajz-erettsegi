@@ -1,0 +1,124 @@
+{
+  "id": "to-feltoltodese",
+  "title": "A tó feltöltődése és az eutrofizáció",
+  "summary": "A tavak a földtörténeti időben rövid életűek: hordalékkal és szerves anyaggal fokozatosan feltöltődnek, majd elláposodnak és kiszáradnak. Ha sok tápanyag kerül a vízbe, elszaporodnak az algák (eutrofizáció), ami gyorsítja a tó pusztulását.",
+  "causes": [
+    "A befolyó vízfolyások hordalékot szállítanak a tóba, a szél port, homokot hord bele, a partok pusztulnak.",
+    "A tóban élő és elhaló növények, állatok szerves anyaga a tófenéken felhalmozódik.",
+    "A mezőgazdaságból (műtrágya), a szennyvízből és a településekről nitrát- és foszfátvegyületek, vagyis tápanyagok jutnak a vízbe."
+  ],
+  "course": [
+    "A tómedence fokozatosan sekélyedik a hordalék és a szerves üledék lerakódása miatt.",
+    "A tápanyagdús vízben elszaporodnak az algák (algavirágzás), elhalásuk és bomlásuk felhasználja a víz oxigénjét.",
+    "Oxigénhiány alakul ki, halpusztulás következik be, a vízminőség romlik.",
+    "A sekély vízben a nádas terjed: a tóból fertő, mocsár, majd láp lesz, végül a terület feltöltődik vagy kiszárad."
+  ],
+  "consequences": [
+    "Romlik a tó vízminősége, csökken az idegenforgalmi és rekreációs értéke.",
+    "Átalakul az élővilág, csökken a halállomány.",
+    "A természetes feltöltődés lassú, de az emberi tevékenység (szennyezés, erdőirtás, lecsapolás) jelentősen felgyorsítja.",
+    "Védekezés: szennyvíztisztítás, a műtrágyázás korlátozása, iszapkotrás, a befolyó vizek szűrése (pl. Kis-Balaton Vízvédelmi Rendszer)."
+  ],
+  "steps": [
+    {
+      "title": "Hordalék érkezik a tóba",
+      "caption": "A befolyó patakok, folyók hordalékot szállítanak a tóba, a szél port hord bele, a partok pusztulnak.",
+      "icon": "droplets"
+    },
+    {
+      "title": "A tómedence sekélyedik",
+      "caption": "A hordalék és az elhalt élőlények szerves anyaga a fenéken felhalmozódik, a tó egyre sekélyebb lesz.",
+      "icon": "layers"
+    },
+    {
+      "title": "Tápanyagok jutnak a vízbe",
+      "caption": "Műtrágyából, szennyvízből nitrát- és foszfátvegyületek mosódnak a tóba.",
+      "icon": "tractor"
+    },
+    {
+      "title": "Algásodás (eutrofizáció)",
+      "caption": "A tápanyagdús, felmelegedő vízben elszaporodnak az algák, a víz zöldes, zavaros lesz.",
+      "icon": "leaf"
+    },
+    {
+      "title": "Oxigénhiány, halpusztulás",
+      "caption": "Az elhaló algák bomlása elhasználja az oxigént, a halak elpusztulhatnak, a szerves iszap gyorsan gyarapszik.",
+      "icon": "skull"
+    },
+    {
+      "title": "Elláposodás, feltöltődés",
+      "caption": "A sekély vízben nádas terjed: a tóból fertő, mocsár, majd láp lesz, végül a terület kiszárad.",
+      "icon": "sprout"
+    },
+    {
+      "title": "Védekezés",
+      "caption": "Szennyvíztisztítás, kevesebb műtrágya, iszapkotrás és a befolyó vizek szűrése lassíthatja a folyamatot.",
+      "icon": "shield"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Balaton legfőbb befolyója, a Zala tápanyagot és hordalékot szállított a tóba, ami a 20. század második felében erős algásodást okozott; ezt a Kis-Balaton Vízvédelmi Rendszer szűri.",
+      "places": [
+        "magyarorszag--vizrajz--balaton",
+        "magyarorszag--vizrajz--kis-balaton",
+        "magyarorszag--vizrajz--zala"
+      ]
+    },
+    {
+      "text": "A Fertő sekély tó, vízfelületének nagy részét nádas borítja: a feltöltődés előrehaladott szakaszát mutatja.",
+      "places": [
+        "magyarorszag--vizrajz--ferto"
+      ]
+    },
+    {
+      "text": "A Velencei-tó sekély tó, amelynek nádasodását és feltöltődését kotrással igyekeznek lassítani.",
+      "places": [
+        "magyarorszag--vizrajz--velencei-to"
+      ]
+    }
+  ],
+  "concepts": [
+    "feltöltődés",
+    "eutrofizáció",
+    "tó",
+    "fertő",
+    "mocsár",
+    "láp",
+    "kiszáradás",
+    "szennyvíztisztítás",
+    "vízszennyező források"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a tavak feltöltődésének folyamatát és az eutrofizáció okait! Mutasd be a Balaton példáján a védekezés lehetőségeit!",
+    "elements": [
+      {
+        "text": "A befolyók hordaléka, a szél által hordott anyag és a partpusztulás feltölti a medencét.",
+        "points": 2
+      },
+      {
+        "text": "Az elhalt élőlények szerves anyaga felhalmozódik, a tó sekélyedik.",
+        "points": 1
+      },
+      {
+        "text": "Eutrofizáció: műtrágyából, szennyvízből tápanyagok (nitrát, foszfát) kerülnek a vízbe, elszaporodnak az algák.",
+        "points": 2
+      },
+      {
+        "text": "Az algák bomlása oxigénhiányt, halpusztulást okoz.",
+        "points": 1
+      },
+      {
+        "text": "Elláposodás: tó → fertő → mocsár → láp, végül kiszáradás.",
+        "points": 2
+      },
+      {
+        "text": "Balatoni védekezés: Kis-Balaton Vízvédelmi Rendszer (a Zala vizének szűrése), szennyvíztisztítás, iszapkotrás.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A tavak medencéjét a befolyó vízfolyások hordaléka, a szél által behordott anyag és a pusztuló partok törmeléke fokozatosan feltölti, a fenéken pedig az elhalt élőlények szerves anyaga is felhalmozódik, ezért a tó sekélyedik. Ha a mezőgazdaságból műtrágya, a településekről szennyvíz révén sok tápanyag – nitrát és foszfát – kerül a vízbe, elszaporodnak az algák, ez az eutrofizáció. Az elhaló algák bomlása elhasználja a víz oxigénjét, ami halpusztulást okoz, és gyorsítja az iszap felhalmozódását. A sekély vízben terjed a nádas, a tóból fertő, mocsár, majd láp lesz, végül a terület kiszárad. A Balatonnál a Zala által szállított tápanyagot és hordalékot a Kis-Balaton Vízvédelmi Rendszer szűri, emellett a szennyvíztisztítás fejlesztése és az iszapkotrás lassítja a folyamatot."
+  },
+  "generated": true,
+  "reviewed": false
+}

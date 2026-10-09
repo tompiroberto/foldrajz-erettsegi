@@ -1,0 +1,832 @@
+[
+ {
+  "id": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi",
+  "title": "3.1.1. A Föld gömbhéjas szerkezetének jellemzői",
+  "parents": [
+   "3.1. A kőzetburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k1",
+    "level": "kozep",
+    "text": "Mutassa be a Föld gömbhéjas szerkezetét, tudjon a témához kapcsolódó ábrát elemezni."
+   },
+   {
+    "id": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k2",
+    "level": "kozep",
+    "text": "Ismertesse a Föld belsejének fizikai jellemzőit."
+   },
+   {
+    "id": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k3",
+    "level": "kozep",
+    "text": "Értelmezze az asztenoszféra áramlásainak és a kőzetlemezek mozgásainak kapcsolatát."
+   },
+   {
+    "id": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k4",
+    "level": "kozep",
+    "text": "Mutassa be a geotermikus gradiens gazdasági jelentőségét példák alapján."
+   },
+   {
+    "id": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--e1",
+    "level": "emelt",
+    "text": "Hasonlítsa össze adatok alapján az egyes gömbhéjak jellemző ásványtani összetételét, hőmérsékleti, nyomás- és sűrűségviszonyait."
+   },
+   {
+    "id": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--e2",
+    "level": "emelt",
+    "text": "Mutassa be a földmágnesség és a tájékozódás kapcsolatát."
+   }
+  ]
+ },
+ {
+  "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei",
+  "title": "3.1.2. A kőzetlemezek és mozgásaik következményei",
+  "parents": [
+   "3.1. A kőzetburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k1",
+    "level": "kozep",
+    "text": "Ismerje a földkéreg és a kőzetburok fogalmát, jellemezze szerkezetüket."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k2",
+    "level": "kozep",
+    "text": "Nevezze meg és csoportosítsa felépítésük szerint a kőzetlemezeket."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k3",
+    "level": "kozep",
+    "text": "Mutassa be a lemezmozgások okait, típusait és azok következményeit."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k4",
+    "level": "kozep",
+    "text": "Értelmezzen lemezmozgásokkal kapcsolatos ábrákat."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k5",
+    "level": "kozep",
+    "text": "Soroljon fel topográfiai példákat kőzetlemezhatárokra, mutassa meg és ismerje fel azokat térképeken és műholdfelvételeken."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k6",
+    "level": "kozep",
+    "text": "Értelmezze a magmás tevékenység és a kőzetlemezmozgások kapcsolatát."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k7",
+    "level": "kozep",
+    "text": "Csoportosítsa a vulkánokat alakjuk és működésük jellege szerint."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k8",
+    "level": "kozep",
+    "text": "Mutasson meg térképen és ismerjen fel térképvázlatban vulkáni övezeteket és vulkánokat."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k9",
+    "level": "kozep",
+    "text": "Magyarázza meg a földrengések kialakulásának okát, kapcsolatát a lemezszegélyekkel."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k10",
+    "level": "kozep",
+    "text": "Ismerje a rengésfészek és a rengésközpont kapcsolatát."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k11",
+    "level": "kozep",
+    "text": "Értse a kőzetburok folyamataihoz kapcsolódó földtani veszélyek jelentőségét és következményeit, elemezze az alkalmazkodási, védekezési és kármegelőzési lehetőségeket példák segítségével."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e1",
+    "level": "emelt",
+    "text": "Készítsen ábrát a kőzetburok felépítéséről."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e2",
+    "level": "emelt",
+    "text": "Készítsen és magyarázzon kőzetlemezmozgásokkal kapcsolatos folyamatábrákat."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e3",
+    "level": "emelt",
+    "text": "Mutassa be ábra segítségével az ún. „forró pontok” feletti vulkánosságot, mondjon példát a jelenségre."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e4",
+    "level": "emelt",
+    "text": "Mondjon példát vulkáni utóműködésre és annak gazdasági jelentőségére."
+   },
+   {
+    "id": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e5",
+    "level": "emelt",
+    "text": "Ismerje a földrengéserősség mérésének elvét, a rengések kísérőjelenségeit."
+   }
+  ]
+ },
+ {
+  "id": "3-1-3-a-hegysegkepzodes",
+  "title": "3.1.3. A hegységképződés",
+  "parents": [
+   "3.1. A kőzetburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-1-3-a-hegysegkepzodes--k1",
+    "level": "kozep",
+    "text": "Mutassa be a hegységképződés típusait, kapcsolatát a kőzetlemezek tulajdonságaival és mozgásaival."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--k2",
+    "level": "kozep",
+    "text": "Mutasson példákat a térképen a hegységképződési típusokra."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--k3",
+    "level": "kozep",
+    "text": "Ismertesse a gyűrődés és a vetődés folyamatát, illetve a gyűrthegységek és a rögös szerkezetű hegységek kialakulását."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--k4",
+    "level": "kozep",
+    "text": "Mondjon példákat gyűrődéssel és vetődéssel kialakult formákra."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--k5",
+    "level": "kozep",
+    "text": "Különböztesse meg ábrákon, képeken a gyűrthegységeket és a rögös szerkezetű hegységeket."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--k6",
+    "level": "kozep",
+    "text": "Csoportosítsa a hegységeket szerkezetük, magasságuk és formakincsük alapján."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--e1",
+    "level": "emelt",
+    "text": "Mutassa be a hegységképződési szakaszok összefüggéseit."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--e2",
+    "level": "emelt",
+    "text": "Ismerje az izosztázia fogalmát."
+   },
+   {
+    "id": "3-1-3-a-hegysegkepzodes--e3",
+    "level": "emelt",
+    "text": "Rajzoljon és elemezzen a hegységképződéshez kapcsolódó egyszerű folyamatábrákat."
+   }
+  ]
+ },
+ {
+  "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek",
+  "title": "3.1.4. A kőzetburok építőkövei, az ásványkincsek",
+  "parents": [
+   "3.1. A kőzetburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k1",
+    "level": "kozep",
+    "text": "Ismertesse a szénféleségek, a sófélék és a szénhidrogének keletkezését."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k2",
+    "level": "kozep",
+    "text": "Sorolja be keletkezés szerint és csoportosítsa a legfontosabb kőzeteket."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k3",
+    "level": "kozep",
+    "text": "Mondjon példát előfordulásukra és felhasználásukra."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k4",
+    "level": "kozep",
+    "text": "Ismerje fel a hazánkban előforduló leggyakoribb kőzeteket."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k5",
+    "level": "kozep",
+    "text": "Mutassa be az ércek gazdasági hasznosítását példák alapján."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k6",
+    "level": "kozep",
+    "text": "Ismerje fel a bányászat környezeti következményeit."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e1",
+    "level": "emelt",
+    "text": "Mutassa be a kőzetek anyagainak körforgását."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e2",
+    "level": "emelt",
+    "text": "Mutassa be ábra segítségével a magmás ércképződés folyamatát."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e3",
+    "level": "emelt",
+    "text": "Magyarázza meg a nehéz-, a színes- és a nemesfémércek képződését."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e4",
+    "level": "emelt",
+    "text": "Csoportosítsa összetételük alapján a magmás kőzeteket."
+   },
+   {
+    "id": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e5",
+    "level": "emelt",
+    "text": "Értelmezze a nagy tömegű kőzetátalakítás és a fenntarthatóság kapcsolatát."
+   }
+  ]
+ },
+ {
+  "id": "3-1-5-a-fold-nagyszerkezeti-egysegei",
+  "title": "3.1.5. A Föld nagyszerkezeti egységei",
+  "parents": [
+   "3.1. A kőzetburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k1",
+    "level": "kozep",
+    "text": "Ismertesse a Föld nagyszerkezeti egységeit."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k2",
+    "level": "kozep",
+    "text": "Tudjon példákat mondani a nagyszerkezeti egységekre, és mutassa meg ezeket a térképen, ismerje fel térképvázlaton."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k3",
+    "level": "kozep",
+    "text": "Ismerje fel, különböztesse meg képeken, ábrákon a nagyszerkezeti egységeket."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k4",
+    "level": "kozep",
+    "text": "Mutassa be a nagyszerkezeti egységek és a jellemző ásványkincs-előfordulások kapcsolatát."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k5",
+    "level": "kozep",
+    "text": "Ismertesse az ősmasszívumok szerkezeti és morfológiai típusait."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k6",
+    "level": "kozep",
+    "text": "Ismertesse a Kaledóniai- és a Variszkuszi-hegységrendszer fontosabb tagjait, jellemezze a szerkezetüket."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k7",
+    "level": "kozep",
+    "text": "Sorolja fel az Eurázsiai- és a Pacifikus-hegységrendszer fontosabb tagjait."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k8",
+    "level": "kozep",
+    "text": "Hasonlítsa össze a két hegységrendszert."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k9",
+    "level": "kozep",
+    "text": "Csoportosítsa a síkságokat tengerszint feletti magasságuk és keletkezésük szerint."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k10",
+    "level": "kozep",
+    "text": "Tudjon példát mondani az egyes típusokra és mutassa meg azokat a térképen."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--k11",
+    "level": "kozep",
+    "text": "Mutassa be a síkságok gazdasági jelentőségét."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--e1",
+    "level": "emelt",
+    "text": "Magyarázza meg a nagyszerkezeti egységek formakincsének kialakulását."
+   },
+   {
+    "id": "3-1-5-a-fold-nagyszerkezeti-egysegei--e2",
+    "level": "emelt",
+    "text": "Különböztesse meg a kontinensek területét gyarapító és fogyasztó folyamatokat."
+   }
+  ]
+ },
+ {
+  "id": "3-2-1-a-legkor-anyaga-es-szerkezete",
+  "title": "3.2.1. A légkör anyaga és szerkezete",
+  "parents": [
+   "3.2. A levegőburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-2-1-a-legkor-anyaga-es-szerkezete--k1",
+    "level": "kozep",
+    "text": "Sorolja fel és csoportosítsa a légkört alkotó anyagokat."
+   },
+   {
+    "id": "3-2-1-a-legkor-anyaga-es-szerkezete--k2",
+    "level": "kozep",
+    "text": "Mutassa be a légkör összetételében bekövetkező változások mindennapi életre gyakorolt hatásait."
+   },
+   {
+    "id": "3-2-1-a-legkor-anyaga-es-szerkezete--k3",
+    "level": "kozep",
+    "text": "Ismertesse a légkör szerkezetét, a szférák fő jellemzőit és a bennük lezajló legfontosabb változásokat."
+   },
+   {
+    "id": "3-2-1-a-legkor-anyaga-es-szerkezete--k4",
+    "level": "kozep",
+    "text": "Elemezzen a témához kapcsolódó ábrát."
+   },
+   {
+    "id": "3-2-1-a-legkor-anyaga-es-szerkezete--k5",
+    "level": "kozep",
+    "text": "Mutassa be az ózonréteg jelentőségét."
+   },
+   {
+    "id": "3-2-1-a-legkor-anyaga-es-szerkezete--e1",
+    "level": "emelt",
+    "text": "Támassza alá példákkal a légkör gazdasági jelentőségét."
+   }
+  ]
+ },
+ {
+  "id": "3-2-2-a-levego-felmelegedese",
+  "title": "3.2.2. A levegő felmelegedése",
+  "parents": [
+   "3.2. A levegőburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-2-2-a-levego-felmelegedese--k1",
+    "level": "kozep",
+    "text": "Magyarázza meg a levegő felmelegedését a napsugarak hajlásszöge alapján."
+   },
+   {
+    "id": "3-2-2-a-levego-felmelegedese--k2",
+    "level": "kozep",
+    "text": "Értelmezze ábra segítségével az üvegházhatás kialakulását, jelentőségét."
+   },
+   {
+    "id": "3-2-2-a-levego-felmelegedese--k3",
+    "level": "kozep",
+    "text": "Mutassa be a hőmérséklet napi és évi járását, ezek összefüggését a Föld fő mozgástípusaival."
+   },
+   {
+    "id": "3-2-2-a-levego-felmelegedese--k4",
+    "level": "kozep",
+    "text": "Számítsa ki a napi és az évi középhőmérsékletet, a napi, az évi közepes és az abszolút hőingást."
+   },
+   {
+    "id": "3-2-2-a-levego-felmelegedese--k5",
+    "level": "kozep",
+    "text": "Ábrázoljon grafikusan hőmérsékleti adatokat, hasonlítson össze és elemezzen hőmérsékleti tematikus térképeket."
+   },
+   {
+    "id": "3-2-2-a-levego-felmelegedese--k6",
+    "level": "kozep",
+    "text": "Ismertesse a napsugárzás és az energiagazdaság kapcsolatát."
+   },
+   {
+    "id": "3-2-2-a-levego-felmelegedese--e1",
+    "level": "emelt",
+    "text": "Ismertesse a felmelegedést és a lehűlést módosító tényezőket és azok szerepét."
+   },
+   {
+    "id": "3-2-2-a-levego-felmelegedese--e2",
+    "level": "emelt",
+    "text": "Ismerje a hőmérséklet gazdasági jelentőségével kapcsolatos fogalmakat."
+   }
+  ]
+ },
+ {
+  "id": "3-2-3-a-levego-mozgasa",
+  "title": "3.2.3. A levegő mozgása",
+  "parents": [
+   "3.2. A levegőburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-2-3-a-levego-mozgasa--k1",
+    "level": "kozep",
+    "text": "Ismerje a légnyomás és az izobár fogalmát."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k2",
+    "level": "kozep",
+    "text": "Magyarázza meg a légnyomás változásának okát és kapcsolatát a szél kialakulásával."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k3",
+    "level": "kozep",
+    "text": "Ismertesse a Föld forgásából származó eltérítő erő szerepét a légáramlások irányának kialakulásában."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k4",
+    "level": "kozep",
+    "text": "Ismertesse az állandó szélrendszerek jellemzőit és kialakító tényezőiket."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k5",
+    "level": "kozep",
+    "text": "Ismerje a hőmérsékleti (termikus) egyenlítő fogalmát és szerepét."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k6",
+    "level": "kozep",
+    "text": "Mutassa be az általános légkörzés rendszerét egyszerű rajzon."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k7",
+    "level": "kozep",
+    "text": "Mutassa be a monszunszél évszakos irányváltozását és annak következményeit a forró és a mérsékelt övezetben különböző források felhasználásával."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k8",
+    "level": "kozep",
+    "text": "Ismertesse a mérsékelt övezeti ciklon és anticiklon jellemzőit, kialakulásuk fő térségeit."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k9",
+    "level": "kozep",
+    "text": "Mutassa be hatásukat az időjárásra."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--k10",
+    "level": "kozep",
+    "text": "Magyarázza meg a hidegfront és a melegfront kialakulását, hasonlítsa össze jellemzőiket."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--e1",
+    "level": "emelt",
+    "text": "Mutassa be ábra segítségével a függőleges légmozgások és a szelek kapcsolatát."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--e2",
+    "level": "emelt",
+    "text": "Nevezzen meg trópusi ciklonokat és helyi szeleket, mutassa be jellegzetességeiket."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--e3",
+    "level": "emelt",
+    "text": "Ismerje a futóáramlások szerepét."
+   },
+   {
+    "id": "3-2-3-a-levego-mozgasa--e4",
+    "level": "emelt",
+    "text": "Készítsen magyarázó ábrákat a monszunszélrendszerek kialakulásáról."
+   }
+  ]
+ },
+ {
+  "id": "3-2-4-felho-es-csapadekkepzodes",
+  "title": "3.2.4. Felhő- és csapadékképződés",
+  "parents": [
+   "3.2. A levegőburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-2-4-felho-es-csapadekkepzodes--k1",
+    "level": "kozep",
+    "text": "Alkalmazza a légköri folyamatok bemutatása során a következő fogalmakat: tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom, telítettség, túltelítettség, harmatpont, kicsapódás, kicsapódási (kondenzációs) mag."
+   },
+   {
+    "id": "3-2-4-felho-es-csapadekkepzodes--k2",
+    "level": "kozep",
+    "text": "Ismertesse a csapadékképződés feltételeit, mutassa be ábra segítségével a felhő- és csapadékképződés folyamatát."
+   },
+   {
+    "id": "3-2-4-felho-es-csapadekkepzodes--k3",
+    "level": "kozep",
+    "text": "Magyarázza meg a különböző hulló és talaj menti csapadékfajták kialakulását."
+   },
+   {
+    "id": "3-2-4-felho-es-csapadekkepzodes--k4",
+    "level": "kozep",
+    "text": "Támassza alá példákkal a csapadék gazdasági jelentőségét."
+   },
+   {
+    "id": "3-2-4-felho-es-csapadekkepzodes--e1",
+    "level": "emelt",
+    "text": "Ismerje fel és jellemezze a fő felhőtípusokat, társítsa azokat időjárási jelenségekhez."
+   },
+   {
+    "id": "3-2-4-felho-es-csapadekkepzodes--e2",
+    "level": "emelt",
+    "text": "Oldjon meg vízgőztartalommal kapcsolatos számítási feladatokat."
+   }
+  ]
+ },
+ {
+  "id": "3-2-5-az-idojaras-es-az-eghajlat",
+  "title": "3.2.5. Az időjárás és az éghajlat",
+  "parents": [
+   "3.2. A levegőburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--k1",
+    "level": "kozep",
+    "text": "Sorolja fel az időjárási és éghajlati elemeket."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--k2",
+    "level": "kozep",
+    "text": "Mutassa be az időjárás-előrejelzés jelentőségét a mindennapi életben és a gazdaságban."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--k3",
+    "level": "kozep",
+    "text": "Hasonlítson össze az éghajlati elemekkel kapcsolatos tematikus térképeket és éghajlati diagramokat, szerkesszen adatokból diagramot, dolgozzon fel szöveges forrásanyagot."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--k4",
+    "level": "kozep",
+    "text": "Ismerjen fel légköri képződményeket időjárási térképeken és műholdfelvételeken."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--k5",
+    "level": "kozep",
+    "text": "Értelmezzen szöveges és képi időjárás-előrejelzést, vonjon le következtetéseket az időjárási adatokból."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--k6",
+    "level": "kozep",
+    "text": "Ismerje fel az időjárás okozta veszélyhelyzeteket."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--k7",
+    "level": "kozep",
+    "text": "Ismertesse az időjárási veszélyhelyzetekhez kapcsolódó megelőzési és védekezési módokat, illetve a helyes, másokért is felelős magatartás jellemzőit."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--e1",
+    "level": "emelt",
+    "text": "Mondjon példákat az időjárás-változások biológiai hatásaira."
+   },
+   {
+    "id": "3-2-5-az-idojaras-es-az-eghajlat--e2",
+    "level": "emelt",
+    "text": "Magyarázza meg az általános légkörzés és a helyi időjárás kapcsolatát."
+   }
+  ]
+ },
+ {
+  "id": "3-2-6-a-legszennyezes-kovetkezmenyei",
+  "title": "3.2.6. A légszennyezés következményei",
+  "parents": [
+   "3.2. A levegőburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-2-6-a-legszennyezes-kovetkezmenyei--k1",
+    "level": "kozep",
+    "text": "Nevezze meg a legnagyobb légszennyező forrásokat."
+   },
+   {
+    "id": "3-2-6-a-legszennyezes-kovetkezmenyei--k2",
+    "level": "kozep",
+    "text": "Mutassa be példák alapján az emberi tevékenység levegőburkot károsító hatásait, ennek élettani és társadalmi-gazdasági következményeit, illetve a szennyezés csökkentésének lehetőségeit."
+   },
+   {
+    "id": "3-2-6-a-legszennyezes-kovetkezmenyei--k3",
+    "level": "kozep",
+    "text": "Értelmezzen légszennyezési adatokat, információkat."
+   },
+   {
+    "id": "3-2-6-a-legszennyezes-kovetkezmenyei--k4",
+    "level": "kozep",
+    "text": "Mutassa be a társadalmi eredetű éghajlatváltozás okait és következményeit."
+   },
+   {
+    "id": "3-2-6-a-legszennyezes-kovetkezmenyei--e1",
+    "level": "emelt",
+    "text": "Érveljen az egyén felelőssége és lehetőségei mellett a károsítás mérséklésében, a légköri folyamatok egyensúlyának megőrzésében."
+   },
+   {
+    "id": "3-2-6-a-legszennyezes-kovetkezmenyei--e2",
+    "level": "emelt",
+    "text": "Következtessen a levegő minőségére az összetétel változását bemutató adatsorokból."
+   }
+  ]
+ },
+ {
+  "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai",
+  "title": "3.3.1. A vízburok tagolódása, tulajdonságai és mozgásai",
+  "parents": [
+   "3.3. A vízburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k1",
+    "level": "kozep",
+    "text": "Mutassa be a vízburok tagolódását, a víz körforgásának folyamatát."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k2",
+    "level": "kozep",
+    "text": "Mutassa be az óceánok és a tengerek közötti különbségeket."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k3",
+    "level": "kozep",
+    "text": "Ismertesse a tengervíz felmelegedésének és lehűlésének, fagyáspontjának sajátosságait, a víz fajhőjének és hőtároló képességének összefüggéseit."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k4",
+    "level": "kozep",
+    "text": "Mutassa be a hullámzás folyamatát."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k5",
+    "level": "kozep",
+    "text": "Ismerje fel a tengeráramlások rendszerének kialakulását és működését, összefüggését az általános légkörzéssel és a kontinensek földrajzi helyzetével."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k6",
+    "level": "kozep",
+    "text": "Mutasson a térképen, ismerjen fel térképvázlaton hideg és meleg tengeráramlásokat, ismerje éghajlatmódosító hatásukat."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--k7",
+    "level": "kozep",
+    "text": "Értelmezze a tengerjárás kialakulását, természeti és társadalmi-gazdasági következményeit."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e1",
+    "level": "emelt",
+    "text": "Értelmezze a sós víz és az édesvíz eltérő tulajdonságaiból adódó következményeket."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e2",
+    "level": "emelt",
+    "text": "Mutassa be a sótartalom változásának összefüggését a párolgással, a csapadékkal, a hozzáfolyással."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e3",
+    "level": "emelt",
+    "text": "Bizonyítsa tematikus térképek és éghajlati diagramok segítségével a tengeráramlások éghajlatmódosító hatását."
+   },
+   {
+    "id": "3-3-1-a-vizburok-tagolodasa-tulajdonsagai-es-mozgasai--e4",
+    "level": "emelt",
+    "text": "Mutassa be az általános légkörzés és az óceáni vízkörzés rendszerének hasonlóságait, kapcsolatait."
+   }
+  ]
+ },
+ {
+  "id": "3-3-2-a-felszini-vizek",
+  "title": "3.3.2. A felszíni vizek",
+  "parents": [
+   "3.3. A vízburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-3-2-a-felszini-vizek--k1",
+    "level": "kozep",
+    "text": "Ismertesse a tómedencék keletkezési típusait."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--k2",
+    "level": "kozep",
+    "text": "Mutasson példákat a térképen az egyes típusokra."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--k3",
+    "level": "kozep",
+    "text": "Ismertesse a tavak pusztulásának okait és szakaszait."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--k4",
+    "level": "kozep",
+    "text": "Mutassa be az emberi tevékenység szerepét a tavak keletkezésében és pusztulásában."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--k5",
+    "level": "kozep",
+    "text": "Mondjon példákat a tavak hasznosítási módjaira."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--k6",
+    "level": "kozep",
+    "text": "Alkalmazza az alábbi fogalmakat: vízgyűjtő terület, vízválasztó, fő- és mellékfolyó, lefolyásos és belső lefolyású terület, vízállás, vízhozam, vízjárás."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--k7",
+    "level": "kozep",
+    "text": "Mutassa be a folyók vízjárásának jellemzőit és annak összefüggéseit az éghajlattal."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--k8",
+    "level": "kozep",
+    "text": "Számítsa ki a folyó vízhozamát."
+   },
+   {
+    "id": "3-3-2-a-felszini-vizek--e1",
+    "level": "emelt",
+    "text": "Következtessen térképek, műholdfelvételek segítségével a tavak keletkezésére elhelyezkedésük, alakjuk, mélységük alapján."
+   }
+  ]
+ },
+ {
+  "id": "3-3-3-a-felszin-alatti-vizek",
+  "title": "3.3.3. A felszín alatti vizek",
+  "parents": [
+   "3.3. A vízburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-3-3-a-felszin-alatti-vizek--k1",
+    "level": "kozep",
+    "text": "Magyarázza meg a felszíni és a felszín alatti vizek kapcsolatát."
+   },
+   {
+    "id": "3-3-3-a-felszin-alatti-vizek--k2",
+    "level": "kozep",
+    "text": "Ismertesse a felszín alatti vizek kialakulását, vizük mozgását, valamint kapcsolatát a csapadékkal és a párolgással."
+   },
+   {
+    "id": "3-3-3-a-felszin-alatti-vizek--e1",
+    "level": "emelt",
+    "text": "Alkalmazza a geotermikus gradiensről tanultakat a felszín alatti vizek hőmérsékletének magyarázatában."
+   }
+  ]
+ },
+ {
+  "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras",
+  "title": "3.3.4. A vízburok mint gazdasági erőforrás",
+  "parents": [
+   "3.3. A vízburok földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k1",
+    "level": "kozep",
+    "text": "Ismertesse a vízgazdálkodás feladatait, az ár- és belvízvédelem szerepét."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k2",
+    "level": "kozep",
+    "text": "Ismerje fel a vízburokhoz kapcsolódó veszélyhelyzetek kialakulásához vezető folyamatokat."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k3",
+    "level": "kozep",
+    "text": "Soroljon fel a veszélyhelyzetek mérséklését elősegítő megoldásokat."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k4",
+    "level": "kozep",
+    "text": "Mutassa be a kommunális és az ipari vízellátás, az öntözés, a vízenergia hasznosításának lehetőségeit és korlátait példák alapján."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k5",
+    "level": "kozep",
+    "text": "Alkosson véleményt példák alapján a mesterséges tavak létrehozásáról és annak környezeti következményeiről."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k6",
+    "level": "kozep",
+    "text": "Jellemezze a vízi közlekedést-szállítást, fogalmazza meg előnyeit és hátrányait."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k7",
+    "level": "kozep",
+    "text": "Mutassa be hazai és nemzetközi példákon a víz kínálta idegenforgalmi lehetőségeket."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--k8",
+    "level": "kozep",
+    "text": "Mutassa be példák alapján a világtenger és a tengerpartok gazdasági jelentőségét, erőforrásait."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e1",
+    "level": "emelt",
+    "text": "Ismerje a folyószabályozás lényegét és eszközeit, mutassa be jelentőségét a társadalmi-gazdasági életben."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e2",
+    "level": "emelt",
+    "text": "Hasonlítsa össze az ivóvíz és az ipari víz kinyerésének lehetőségeit."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e3",
+    "level": "emelt",
+    "text": "Magyarázza meg a vízgazdálkodás szerepét a fenntarthatóságban."
+   },
+   {
+    "id": "3-3-4-a-vizburok-mint-gazdasagi-eroforras--e4",
+    "level": "emelt",
+    "text": "Bizonyítsa a nemzetközi összefogás szükségességét a vízgazdálkodásban, a vizek védelmében."
+   }
+  ]
+ }
+]

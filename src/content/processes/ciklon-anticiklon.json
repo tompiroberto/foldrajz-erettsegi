@@ -1,0 +1,110 @@
+{
+  "id": "ciklon-anticiklon",
+  "title": "Ciklon és anticiklon",
+  "summary": "A mérsékelt övezeti ciklon felszálló légmozgású, alacsony nyomású, az anticiklon leszálló légmozgású, magas nyomású légköri képződmény. A szél mindig a magasabb nyomású hely felől az alacsonyabb felé fúj, de az eltérítő erő miatt örvénylő mozgás alakul ki.",
+  "causes": [
+    "A felszín egyenlőtlen felmelegedése és a különböző tulajdonságú légtömegek találkozása miatt légnyomáskülönbségek alakulnak ki.",
+    "A szél a légnyomáskülönbség kiegyenlítésére a magas nyomású terület felől az alacsony nyomású felé áramlik.",
+    "A Föld forgásából származó eltérítő erő az északi félgömbön jobbra, a déli félgömbön balra téríti el a mozgó levegőt."
+  ],
+  "course": [
+    "Az anticiklonban a levegő felülről leszáll, a leszálló levegő felmelegszik, ezért távolodik a telítettségtől.",
+    "Az anticiklon középpontjából a levegő kifelé áramlik, az északi félgömbön az óramutató járásával megegyező irányban.",
+    "A ciklonban a levegő a felszín közelében befelé áramlik, az északi félgömbön az óramutató járásával ellentétesen, majd a középpontban felemelkedik.",
+    "A felszálló levegő lehűl, vízgőztartalma kicsapódik, felhők képződnek; a mérsékelt övezeti ciklonokhoz meleg- és hidegfront kapcsolódik."
+  ],
+  "consequences": [
+    "Az anticiklon derült, száraz időt hoz: nyáron kánikulát, télen erős kisugárzás miatt hideget, gyakran ködöt és fordított hőrétegződést.",
+    "A ciklon felhős, csapadékos, szeles, változékony időjárást okoz.",
+    "Hazánk időjárását az Atlanti-óceán felől érkező ciklonok és a környező nagy nyomású területek (Azori-, Szibériai-maximum) váltakozása alakítja."
+  ],
+  "steps": [
+    {
+      "title": "Anticiklon: leszálló, felmelegedő levegő, magas nyomás",
+      "caption": "A középpontban a levegő felülről leszáll és felmelegszik, ezért a felszínen magas a légnyomás. A melegedő levegőben nem képződik felhő.",
+      "icon": "arrow-down"
+    },
+    {
+      "title": "Az északi félgömbön az óramutató járásával megegyezően kiáramlik",
+      "caption": "A levegő a magas nyomású középpontból kifelé áramlik, az eltérítő erő jobbra téríti, így az óramutató járásával megegyező örvény jön létre. A déli félgömbön fordított a forgásirány.",
+      "icon": "wind"
+    },
+    {
+      "title": "Ciklon: felszálló, lehűlő levegő, alacsony nyomás",
+      "caption": "A középpontban a levegő felemelkedik, kitágul és lehűl, a felszínen alacsony a légnyomás. A lehűlő levegőben kicsapódik a vízgőz.",
+      "icon": "arrow-up"
+    },
+    {
+      "title": "Az északi félgömbön az óramutatóval ellentétesen beáramlik",
+      "caption": "A környező magasabb nyomású területekről a levegő befelé áramlik, és az eltérítő erő miatt az óramutatóval ellentétes örvény alakul ki. A déli félgömbön fordított a forgásirány.",
+      "icon": "wind"
+    },
+    {
+      "title": "Időjárás: anticiklonban derült, ciklonban felhős, csapadékos",
+      "caption": "Az anticiklon tartósan derült, száraz időt hoz, télen hideget és ködöt, nyáron kánikulát. A ciklon felhős, szeles, csapadékos, frontokkal tagolt időjárást okoz.",
+      "icon": "cloud-rain"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Az Izlandi minimum térségéből indulnak a nyugatias szelekkel Európa felé haladó ciklonok, amelyek csapadékot hoznak a Kárpát-medencébe is.",
+      "places": [
+        "europa--tajak--izland",
+        "europa--tajak--karpat-medence-pannon-medence"
+      ]
+    },
+    {
+      "text": "Télen a kihűlő Szibéria fölött kialakuló Szibériai-maximum hideg, száraz levegőt és tartós fagyokat okozhat Kelet-Európában, nálunk is.",
+      "places": [
+        "azsia--tajak--sziberia"
+      ]
+    },
+    {
+      "text": "Az Azori-maximum nyáron északabbra húzódik, és száraz, napos időt hoz a Földközi-tenger vidékére, néha a Kárpát-medencébe is.",
+      "places": [
+        "fold--oceanok--atlanti-ocean"
+      ]
+    }
+  ],
+  "concepts": [
+    "légnyomás",
+    "szél",
+    "izobár",
+    "mérsékelt övezeti ciklon és anticiklon",
+    "hideg- és melegfront",
+    "Azori- és Szibériai-maximum",
+    "Izlandi minimum"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a mérsékelt övezeti ciklon és anticiklon kialakulását, légmozgásait és időjárási hatásait!",
+    "elements": [
+      {
+        "text": "Anticiklonban a levegő leszáll, felmelegszik, magas a légnyomás.",
+        "points": 2
+      },
+      {
+        "text": "Az anticiklonból a levegő kiáramlik, az északi félgömbön az óramutató járásával megegyezően.",
+        "points": 1
+      },
+      {
+        "text": "Ciklonban a levegő felszáll, lehűl, alacsony a légnyomás.",
+        "points": 2
+      },
+      {
+        "text": "A ciklonba a levegő beáramlik, az északi félgömbön az óramutató járásával ellentétesen.",
+        "points": 1
+      },
+      {
+        "text": "A forgásirányt a Föld forgásából származó eltérítő erő okozza (északi félgömbön jobbra térít).",
+        "points": 2
+      },
+      {
+        "text": "Anticiklon: derült, száraz idő; ciklon: felhős, csapadékos, szeles idő, frontokkal.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "Az anticiklonban a levegő felülről leszáll, eközben felmelegszik, ezért a felszínen magas a légnyomás, és a melegedő levegőben nem képződik felhő. A magas nyomású középpontból a levegő kifelé áramlik, és az északi félgömbön az óramutató járásával megegyező irányban örvénylik. A ciklonban ezzel szemben a levegő felemelkedik és lehűl, a felszínen alacsony a légnyomás, ide a levegő befelé áramlik, az északi félgömbön az óramutató járásával ellentétesen. A forgásirányt a Föld forgásából származó eltérítő erő okozza, amely az északi félgömbön a mozgó levegőt jobbra téríti el. Ezért az anticiklon derült, száraz időt hoz (télen hideget és ködöt, nyáron kánikulát), a ciklon pedig a lehűlő levegőből képződő felhők miatt felhős, szeles, csapadékos időt, amelyet a hozzá kapcsolódó frontok tagolnak."
+  },
+  "generated": true,
+  "reviewed": false
+}

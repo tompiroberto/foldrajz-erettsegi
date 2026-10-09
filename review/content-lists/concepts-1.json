@@ -1,0 +1,78 @@
+[
+ {
+  "topicNo": 1,
+  "subtopic": "1.1. A térkép",
+  "kozep": [
+   "természeti környezet",
+   "társadalmi környezet",
+   "földrajzi környezet",
+   "térkép",
+   "földgömb",
+   "méretarány",
+   "vonalas aránymérték",
+   "jelkulcs",
+   "topográfiai",
+   "földrajzi és tematikus térkép",
+   "atlasz",
+   "kis",
+   "közepes és nagy méretarányú térkép",
+   "szintvonalas",
+   "színfokozatos",
+   "árnyékolásos domborzatábrázolás"
+  ],
+  "emelt": [
+   "sík-",
+   "henger- és kúpvetület",
+   "síkrajz",
+   "domborzatrajz",
+   "névrajz"
+  ]
+ },
+ {
+  "topicNo": 1,
+  "subtopic": "1.2. Tájékozódás a térképen és a térképpel",
+  "kozep": [
+   "tényleges és viszonylagos földrajzi fekvés",
+   "tengerszint feletti magasság",
+   "magassági szám",
+   "abszolút és relatív magasság",
+   "földrajzi fokhálózat",
+   "szélességi kör",
+   "hosszúsági kör",
+   "északi",
+   "déli",
+   "keleti és nyugati félgömb",
+   "keresőhálózat",
+   "fő- és mellékvilágtájak"
+  ],
+  "emelt": [
+   "földrajzi (csillagászati) és mágneses északi irány",
+   "mágneses deklináció"
+  ]
+ },
+ {
+  "topicNo": 1,
+  "subtopic": "1.3. Távérzékelés és térinformatika",
+  "kozep": [
+   "távérzékelés",
+   "légi és űrfelvétel",
+   "műhold",
+   "globális helymeghatározó rendszer (GPS)"
+  ],
+  "emelt": [
+   "passzív és aktív távérzékelés",
+   "valós színes és hamis színes felvétel",
+   "felbontóképesség",
+   "földrajzi információs rendszer (GIS)"
+  ]
+ },
+ {
+  "topicNo": 1,
+  "subtopic": "Az 1. témakörhöz tartozó egyedi fogalmak",
+  "kozep": [
+   "Greenwich",
+   "Sarkcsillag"
+  ],
+  "emelt": []
+ }
+]

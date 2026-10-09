@@ -1,0 +1,98 @@
+{
+  "id": "frontok",
+  "title": "Meleg- és hidegfront átvonulása",
+  "summary": "A front két eltérő hőmérsékletű légtömeg határfelülete. Melegfrontnál a meleg levegő érkezik és lassan felsiklik a hideg fölé, hidegfrontnál a hideg levegő nyomul be ék alakban a meleg alá.",
+  "causes": [
+    "A mérsékelt övezeti ciklonokban eltérő hőmérsékletű és nedvességtartalmú légtömegek találkoznak.",
+    "A hideg levegő sűrűbb, nehezebb, ezért mindig alul helyezkedik el, a meleg levegő fölé kerül.",
+    "A frontok a ciklonnal együtt, nálunk főként nyugat felől érkeznek a nyugatias szelekkel."
+  ],
+  "course": [
+    "Melegfrontnál a meleg levegő lassan, enyhe lejtésű határfelületen felsiklik a hideg levegőre, és fokozatosan lehűl.",
+    "A melegfront előtt pehely-, majd fátyol- és rétegfelhők jelennek meg, tartós, csendes eső vagy havazás hullik.",
+    "Hidegfrontnál a gyorsabban mozgó hideg levegő ék alakban a meleg alá nyomul, és hirtelen felemeli azt.",
+    "A hirtelen felemelkedő meleg levegőben gomolyfelhők, zivatarfelhők képződnek; záporok, zivatarok, széllökések kísérik."
+  ],
+  "consequences": [
+    "Melegfront után enyhülés, nyáron fülledt, meleg idő következik.",
+    "Hidegfront után a hőmérséklet csökken, a levegő kitisztul, a légnyomás emelkedik.",
+    "A hidegfront nyáron heves zivatarokat, jégesőt, viharos szelet okozhat, ami időjárási veszélyhelyzet; az érzékeny emberek egészségére is hat (frontérzékenység).",
+    "Ha a gyorsabb hidegfront utoléri a melegfrontot, okklúziós front alakul ki."
+  ],
+  "steps": [
+    {
+      "title": "Melegfront: a meleg levegő lassan felsiklik a hidegre",
+      "caption": "A meleg légtömeg a helyben lévő hideg levegőt váltja fel, de mivel könnyebb, enyhe lejtőn lassan felsiklik rá. Felsiklás közben fokozatosan lehűl.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Réteges felhőzet, tartós csendes eső",
+      "caption": "A felhőzet nagy területen, fokozatosan sűrűsödik: pehelyfelhőket fátyol-, majd rétegfelhők követnek. Ezekből tartós, csendes eső vagy havazás hullik, utána enyhül az idő.",
+      "icon": "cloud-rain"
+    },
+    {
+      "title": "Hidegfront: a hideg levegő ék alakban a meleg alá nyomul",
+      "caption": "A nehezebb hideg légtömeg a meleg alá bukik, és hirtelen, meredeken felemeli azt. A hidegfront rendszerint gyorsabban mozog, mint a melegfront.",
+      "icon": "wind"
+    },
+    {
+      "title": "Gomolyfelhők, zivatar, zápor, széllökések, lehűlés",
+      "caption": "A gyorsan felemelkedő meleg levegőben tornyosuló gomoly- és zivatarfelhők képződnek. Rövid, heves záporok, zivatarok, széllökések után lehűlés és kitisztulás következik.",
+      "icon": "cloud"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Kárpát-medencében nyáron a nyugat felől érkező hidegfrontok heves zivatarokat, jégesőt és jelentős lehűlést hoznak.",
+      "places": [
+        "europa--tajak--karpat-medence-pannon-medence"
+      ]
+    },
+    {
+      "text": "Az Atlanti-óceán felől érkező ciklonok frontjai a Brit-szigeteken különösen gyakoriak, ezért ott változékony, csapadékos az időjárás.",
+      "places": [
+        "europa--tajak--brit-szigetek",
+        "fold--oceanok--atlanti-ocean"
+      ]
+    }
+  ],
+  "concepts": [
+    "hideg- és melegfront",
+    "mérsékelt övezeti ciklon és anticiklon",
+    "felhőfajták (pehely-, fátyol-, réteg-, gomoly-, zivatarfelhő)",
+    "okklúziós front",
+    "időjárási veszélyhelyzetek"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a melegfront és a hidegfront kialakulását, és hasonlítsd össze átvonulásuk időjárási hatásait!",
+    "elements": [
+      {
+        "text": "A front két eltérő hőmérsékletű légtömeg határfelülete; a hideg levegő sűrűbb, alul marad.",
+        "points": 1
+      },
+      {
+        "text": "Melegfront: a meleg levegő lassan felsiklik a hideg levegőre.",
+        "points": 2
+      },
+      {
+        "text": "Melegfrontnál réteges felhőzet, tartós, csendes eső, utána felmelegedés.",
+        "points": 2
+      },
+      {
+        "text": "Hidegfront: a hideg levegő ék alakban a meleg alá nyomul, hirtelen felemeli.",
+        "points": 2
+      },
+      {
+        "text": "Hidegfrontnál gomoly- és zivatarfelhők, zápor, zivatar, széllökések.",
+        "points": 2
+      },
+      {
+        "text": "Hidegfront után lehűlés, kitisztulás.",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A front két eltérő hőmérsékletű légtömeg határfelülete, ahol a sűrűbb hideg levegő mindig alul marad. Melegfrontnál a meleg levegő érkezik, és mivel könnyebb, enyhe lejtésű felületen lassan felsiklik a hideg levegőre, miközben fokozatosan lehűl. Ezért nagy területen réteges felhőzet alakul ki, amelyből tartós, csendes eső hullik, a front után pedig felmelegszik az idő. Hidegfrontnál a hideg levegő ék alakban a meleg alá nyomul, és hirtelen felemeli azt, így tornyosuló gomoly- és zivatarfelhők képződnek. A hidegfront átvonulását rövid, heves zápor, zivatar és széllökések kísérik, utána lehűlés és kitisztulás következik."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,2111 @@
+{
+  "cards": [
+    {
+      "objectiveId": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k1",
+      "explanation": "A Föld koncentrikus gömbhéjakból (geoszférákból) épül fel. Kívülről befelé haladva a szilárd Föld három fő gömbhéja:\n- földkéreg: vékony, szilárd külső réteg; óceáni (kb. 5–10 km) és kontinentális (átlagosan 30–40 km, a hegységek alatt vastagabb) kéregre oszlik;\n- földköpeny: kb. 2900 km mélységig tart; felső részében található a képlékeny asztenoszféra;\n- földmag: a folyékony külső magra és a szilárd belső magra tagolódik.\n\nA kőzetburok (litoszféra) a földkéregből és a földköpeny legfelső, merev részéből áll. A szilárd Földet kívülről a vízburok és a levegőburok veszi körül, érintkezési övezetükben jött létre a bioszféra és a talajburok.\n\nÁbraelemzésnél figyeld a mélységi határokat, és azt, melyik gömbhéj szilárd, képlékeny vagy folyékony. A mélységgel a hőmérséklet, a nyomás és a sűrűség is nő.",
+      "diagram": "earth-layers",
+      "concepts": [
+        "gömbhéj (geoszféra)",
+        "földkéreg",
+        "földköpeny",
+        "földmag",
+        "külső és belső mag",
+        "kőzetburok (litoszféra)"
+      ],
+      "processes": [],
+      "examTip": "Gyakori hiba, hogy a kőzetburkot a földkéreggel azonosítják. A kőzetburok a kéregnél vastagabb: a földköpeny legfelső, szilárd része is hozzátartozik.",
+      "selfCheck": [
+        {
+          "q": "Melyik gömbhéj folyékony halmazállapotú?",
+          "a": "A külső mag."
+        },
+        {
+          "q": "Mely részekből áll a kőzetburok?",
+          "a": "A földkéregből és a földköpeny legfelső, merev részéből."
+        },
+        {
+          "q": "Melyik a vastagabb: az óceáni vagy a kontinentális kéreg?",
+          "a": "A kontinentális kéreg."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A földköpeny felső részében található az asztenoszféra.",
+          "true": true
+        },
+        {
+          "statement": "A földmag teljes egészében folyékony.",
+          "true": false,
+          "correction": "Csak a külső mag folyékony, a belső mag a hatalmas nyomás miatt szilárd."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k2",
+      "explanation": "A Föld belsejének fizikai jellemzői a mélységgel szabályosan változnak:\n- hőmérséklet: lefelé nő; a növekedés mértékét a geotermikus gradiens írja le (a kéregben átlagosan kb. 3 °C / 100 m). A Föld középpontjában több ezer °C uralkodik;\n- nyomás: a fölötte lévő kőzettömeg súlya miatt a mélységgel folyamatosan nő;\n- sűrűség: a felszíni kőzetek sűrűsége kb. 2,7–3 g/cm³, a Föld átlagos sűrűsége kb. 5,5 g/cm³, tehát a belső részek jóval sűrűbbek; a vas-nikkel mag a legsűrűbb;\n- halmazállapot: a hőmérséklet és a nyomás „versenye” dönti el. Az asztenoszférában a hő miatt az anyag részben megolvadt, képlékeny; a külső mag folyékony; a belső magban a nyomás olyan nagy, hogy az anyag a magas hőmérséklet ellenére szilárd.\n\nA Föld belsejét a földrengéshullámok terjedéséből ismerjük: a nyíróhullámok nem haladnak át a külső magon, ebből tudjuk, hogy folyékony.",
+      "diagram": "earth-layers",
+      "concepts": [
+        "geotermikus gradiens",
+        "földköpeny",
+        "külső és belső mag",
+        "asztenoszféra"
+      ],
+      "processes": [],
+      "examTip": "Ha azt kérdezik, miért szilárd a belső mag, a válasz kulcsa a nyomás: a hőmérséklet ott a legmagasabb, de a nyomás megakadályozza az olvadást.",
+      "selfCheck": [
+        {
+          "q": "Miért szilárd a belső mag?",
+          "a": "A rendkívül nagy nyomás miatt."
+        },
+        {
+          "q": "Honnan tudjuk, hogy a külső mag folyékony?",
+          "a": "A nyíróhullámok (S-hullámok) nem haladnak át rajta."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Föld átlagos sűrűsége nagyobb, mint a felszíni kőzeteké.",
+          "true": true
+        },
+        {
+          "statement": "A Föld belsejében a sűrűség a mélységgel csökken.",
+          "true": false,
+          "correction": "A sűrűség a mélységgel nő; a legsűrűbb a vas-nikkel földmag."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k3",
+      "explanation": "Az asztenoszféra a földköpeny felső, részben megolvadt, képlékeny öve. Anyaga nagyon lassan áramlik, mert a mélyből érkező hő miatt a melegebb, kisebb sűrűségű anyag felemelkedik, a lehűlt, sűrűbb anyag lesüllyed (hőáramlás, konvekció).\n\nA merev kőzetburok darabjai, a kőzetlemezek ezen a képlékeny rétegen „úsznak”, és az áramlások sodorják őket:\n- ahol a magmaáramlás felfelé tör és szétválik, a lemezek távolodnak egymástól (óceánközépi hátság, pl. Izland);\n- ahol az áramlások találkoznak és lefelé fordulnak, a lemezek közelednek, az egyik alábukhat (pl. a Japán-árok mentén).\n\nA mozgás nagyon lassú, évente néhány centiméteres. A lemezmozgást segíti a lebukó lemez saját súlya („húzóereje”) is.\n\nEz a kapcsolat magyarázza, hogy a földrengések, a vulkánok és a fiatal hegységek a lemezszegélyekhez kötődnek.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "asztenoszféra",
+        "magmaáramlás",
+        "kőzetlemez",
+        "kőzetburok (litoszféra)"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "examTip": "Ne írd, hogy a lemezek a folyékony magon úsznak! A lemezek a földköpeny képlékeny asztenoszféráján mozognak.",
+      "selfCheck": [
+        {
+          "q": "Mi hajtja az asztenoszféra áramlásait?",
+          "a": "A Föld belső hője (hőáramlás)."
+        },
+        {
+          "q": "Milyen lemezmozgás alakul ki a felszálló áramlások fölött?",
+          "a": "Távolodó lemezmozgás."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A kőzetlemezek mozgásának sebessége évente néhány centiméter.",
+          "true": true
+        },
+        {
+          "statement": "A kőzetlemezek a folyékony külső magon mozognak.",
+          "true": false,
+          "correction": "A lemezek az asztenoszférán, a földköpeny képlékeny felső övén mozognak."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--k4",
+      "explanation": "A geotermikus gradiens megmutatja, mennyivel nő a hőmérséklet a mélységgel. Átlagosan kb. 3 °C / 100 m, de helyenként jóval nagyobb: ahol vékony a földkéreg, vagy fiatal vulkáni tevékenység van.\n\nMagyarországon a kéreg vékonyabb az átlagosnál, ezért a geotermikus gradiens nagy (kb. 5 °C / 100 m). Ezért vagyunk gazdagok termálvízben.\n\nGazdasági jelentősége:\n- gyógy- és termálturizmus: Hévíz, Hajdúszoboszló, Bük, Harkány, Zalakaros;\n- fűtés: termálvízzel fűtött üvegházak, fóliasátrak (pl. a Dél-Alföldön), városi távfűtés;\n- áramtermelés: geotermikus erőművek ott, ahol nagyon forró a mélység, pl. Izlandon, Új-Zélandon, Olaszországban;\n- Izlandon a fővárost, Reykjavíkot nagyrészt geotermikus energiával fűtik.\n\nA geotermikus energia megújuló, kevés üvegházgázt bocsát ki. A lehűlt termálvizet azonban gyakran vissza kell sajtolni, mert sós, ásványianyag-tartalma szennyezheti a felszíni vizeket.",
+      "diagram": null,
+      "concepts": [
+        "geotermikus gradiens",
+        "földkéreg"
+      ],
+      "processes": [],
+      "examTip": "Tipikus kérdés: miért gazdag Magyarország termálvízben? Válasz: vékony a kéreg, ezért nagy a geotermikus gradiens, és a porózus medenceüledékek jó víztárolók.",
+      "selfCheck": [
+        {
+          "q": "Mekkora a geotermikus gradiens átlagos értéke?",
+          "a": "Kb. 3 °C / 100 m."
+        },
+        {
+          "q": "Miért nagy a geotermikus gradiens hazánkban?",
+          "a": "Mert a Kárpát-medence alatt vékony a földkéreg."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Izlandon a geotermikus energiát fűtésre és áramtermelésre is használják.",
+          "true": true
+        },
+        {
+          "statement": "Magyarországon a geotermikus gradiens kisebb a világátlagnál.",
+          "true": false,
+          "correction": "Nagyobb annál, mert a Kárpát-medence alatt vékony a földkéreg."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--e1",
+      "explanation": "Hasonlítsd össze a gömbhéjakat négy szempont szerint!\n\nÖsszetétel:\n- földkéreg: főleg oxigén, szilícium és alumínium, vagyis szilikátásványok; a kontinentális kéreg felső része gránitos (savanyú), az óceáni kéreg bazaltos (bázisos);\n- földköpeny: vasban és magnéziumban gazdag szilikátok (pl. olivin);\n- földmag: főleg vas és nikkel.\n\nHőmérséklet: kifelé csökken; a magban több ezer °C, a felszínen a napsugárzás határozza meg.\n\nNyomás: a mélységgel folyamatosan nő, a mag középpontjában a legnagyobb.\n\nSűrűség: a kéregben kb. 2,7–3 g/cm³, a köpenyben ennél nagyobb, a magban a legnagyobb (kb. 10–13 g/cm³). Az anyagok a Föld kialakulásakor sűrűségük szerint rendeződtek: a nehéz vas lesüllyedt, a könnyebb szilikátok felszínre kerültek.\n\nAdatsoros feladatnál a sorrendet keresd: összetétel → sűrűség → halmazállapot. Ha egy gömbhéj sűrűsége ugrásszerűen nő, ott anyagi határ van (pl. köpeny–mag határ kb. 2900 km-nél).",
+      "diagram": "earth-layers",
+      "concepts": [
+        "földkéreg",
+        "földköpeny",
+        "földmag",
+        "óceáni kéreg",
+        "kontinentális kéreg"
+      ],
+      "processes": [],
+      "examTip": "Adattáblás feladatban a sűrűség és a halmazállapot változásából kell következtetni a gömbhéjak határaira. Ne keverd: a hőmérséklet nem dönti el egyedül a halmazállapotot.",
+      "selfCheck": [
+        {
+          "q": "Mi a földmag fő anyaga?",
+          "a": "Vas és nikkel."
+        },
+        {
+          "q": "Melyik gömbhéj a legkisebb sűrűségű?",
+          "a": "A földkéreg."
+        },
+        {
+          "q": "Mi az óceáni kéreg jellemző kőzete?",
+          "a": "Bazalt."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A köpeny–mag határon a sűrűség hirtelen megnő.",
+          "true": true
+        },
+        {
+          "statement": "A kontinentális kéreg sűrűbb, mint az óceáni kéreg.",
+          "true": false,
+          "correction": "Fordítva: az óceáni (bazaltos) kéreg a sűrűbb, ezért bukik alá ütközéskor."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-1-a-fold-gombhejas-szerkezetenek-jellemzoi--e2",
+      "explanation": "A Föld mágneses tere a folyékony külső magban zajló vasáramlásokhoz kötődik (öngerjesztő dinamó). A Föld úgy viselkedik, mint egy hatalmas rúdmágnes.\n\nA tájékozódás szempontjából fontos:\n- az iránytű tűje a mágneses erővonalak irányába áll be, és a mágneses sark felé mutat;\n- a mágneses sarkok nem esnek egybe a földrajzi sarkokkal, és lassan vándorolnak;\n- ezért az iránytű nem pontosan a földrajzi észak felé mutat; az eltérést mágneses elhajlásnak (deklináció) hívjuk, ezt pontos tájékozódásnál, térképhasználatnál figyelembe kell venni;\n- a mágneses sarkok közelében az iránytű megbízhatatlan.\n\nA földmágnesség további jelentősége:\n- a mágneses tér eltéríti a napszél töltött részecskéit, így védi az élővilágot; a sarkok közelében sarki fényt okoznak;\n- a mágneses tér a földtörténet során többször átfordult; az óceánközépi hátságok két oldalán a bazaltban „megdermedt” mágneses csíkok szimmetrikusak, ez a lemeztektonika egyik bizonyítéka.\n\nEgyes állatok (pl. vándormadarak) is a mágneses tér segítségével tájékozódnak.",
+      "diagram": null,
+      "concepts": [
+        "földmágnesség",
+        "külső és belső mag"
+      ],
+      "processes": [],
+      "examTip": "Gyakori hiba: „az iránytű a földrajzi Északi-sarkra mutat”. Valójában a mágneses sark felé mutat, a kettő nem esik egybe.",
+      "selfCheck": [
+        {
+          "q": "Mi hozza létre a földmágnességet?",
+          "a": "A folyékony külső mag vasáramlásai."
+        },
+        {
+          "q": "Mi a mágneses elhajlás?",
+          "a": "A földrajzi és a mágneses északi irány közötti szögeltérés."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A mágneses sarkok helyzete idővel változik.",
+          "true": true
+        },
+        {
+          "statement": "A mágneses és a földrajzi sarkok egybeesnek.",
+          "true": false,
+          "correction": "A mágneses sarkok a földrajzi sarkoktól eltérő helyen vannak, és vándorolnak."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k1",
+      "explanation": "Két fogalmat kell élesen elválasztanod:\n\nA földkéreg a szilárd Föld legkülső gömbhéja. Két típusa van:\n- óceáni kéreg: vékony (kb. 5–10 km), bazaltos, nagyobb sűrűségű és földtörténetileg fiatal; az óceánközépi hátságoknál képződik;\n- kontinentális kéreg: vastagabb (átlagosan 30–40 km, a magas hegységek alatt akár kétszer ennyi), felső része gránitos, alsó része bazaltos; kisebb sűrűségű, és nagyon idős kőzeteket is tartalmaz.\n\nA kőzetburok (litoszféra) a földkéregből és a földköpeny legfelső, szilárd részéből áll, vastagsága átlagosan kb. 100 km. Merev, ezért nem hajlik, hanem kőzetlemezekre töredezett. Alatta helyezkedik el a képlékeny asztenoszféra.\n\nA szerkezet lényege: merev kőzetburok – képlékeny asztenoszféra. Ezért tudnak a lemezek mozogni.",
+      "diagram": "earth-layers",
+      "concepts": [
+        "földkéreg",
+        "kőzetburok (litoszféra)",
+        "óceáni kéreg",
+        "kontinentális kéreg",
+        "asztenoszféra"
+      ],
+      "processes": [],
+      "examTip": "Ábrán gyakran meg kell nevezni a rétegeket: figyelj, hogy a kőzetburok alsó határa a köpenyben van, nem a kéreg alján.",
+      "selfCheck": [
+        {
+          "q": "Mekkora a kőzetburok átlagos vastagsága?",
+          "a": "Kb. 100 km."
+        },
+        {
+          "q": "Melyik kéregtípus idősebb általában?",
+          "a": "A kontinentális kéreg."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az óceáni kéreg főleg bazaltból áll.",
+          "true": true
+        },
+        {
+          "statement": "A kőzetburok csak a földkéreg másik neve.",
+          "true": false,
+          "correction": "A kőzetburok a földkérget és a földköpeny legfelső szilárd részét is magában foglalja."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k2",
+      "explanation": "A kőzetburok nagy és kisebb kőzetlemezekre tagolódik. A legfontosabbak:\n- Eurázsiai-lemez, Afrikai-lemez, Észak-amerikai-lemez, Dél-amerikai-lemez, Csendes-óceáni-lemez, Ausztrál–Indiai-lemez, Antarktiszi-lemez;\n- kisebbek: Nazca-lemez, Arab-lemez, Fülöp-lemez (Filippínó-lemez).\n\nFelépítésük szerint két csoportot alkotnak:\n- óceáni lemezek: csak óceáni kéreg építi őket, pl. Csendes-óceáni-lemez, Nazca-lemez, Fülöp-lemez;\n- vegyes felépítésű lemezek: kontinentális és óceáni kéreg is van bennük, pl. Eurázsiai-, Afrikai-, Észak- és Dél-amerikai-, Ausztrál–Indiai-, Antarktiszi-lemez.\n\nA lemezhatárok nem a kontinensek partvonalán futnak! Az Atlanti-óceán közepén például a hátság választja el az amerikai lemezeket az Eurázsiai- és az Afrikai-lemeztől, így a kontinens és a mellette lévő óceánfenék egy lemezt alkot.\n\nA felépítés azért fontos, mert ez dönti el, mi történik ütközéskor: melyik lemez bukik alá.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "kőzetlemez",
+        "óceáni kéreg",
+        "kontinentális kéreg"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "examTip": "Vaktérképes feladatnál a Nazca-lemezt és a Fülöp-lemezt szokták összekeverni: a Nazca Dél-Amerika nyugati partjánál, a Fülöp-lemez Ázsia keleti partja előtt van.",
+      "selfCheck": [
+        {
+          "q": "Nevezz meg egy csak óceáni kéregből álló lemezt!",
+          "a": "Csendes-óceáni-lemez (vagy Nazca-, Fülöp-lemez)."
+        },
+        {
+          "q": "Melyik lemezen fekszik Magyarország?",
+          "a": "Az Eurázsiai-lemezen."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az Afrikai-lemez kontinentális és óceáni kéregből is áll.",
+          "true": true
+        },
+        {
+          "statement": "A kőzetlemezek határai mindig a kontinensek partvonalán húzódnak.",
+          "true": false,
+          "correction": "Nem: a lemezhatárok gyakran az óceánok közepén (pl. Közép-atlanti-hátság) húzódnak."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k3",
+      "explanation": "A lemezmozgások oka az asztenoszféra hő okozta anyagáramlása, amit a lebukó lemez súlya is segít. Három típust különböztetünk meg:\n\nTávolodó lemezmozgás:\n- a feláramló magma új óceáni kérget hoz létre; óceánközépi hátság (Izland) vagy a kontinensen hasadékvölgy (Afrikai-árokrendszer) jön létre;\n- sekély fészkű földrengések, bazaltos hasadékvulkánosság.\n\nKözeledő lemezmozgás:\n- óceáni–kontinentális: az óceáni lemez alábukik, mélytengeri árok és vulkáni hegység keletkezik (Andok);\n- óceáni–óceáni: vulkáni szigetív és árok (Japán-szigetek, Mariana-árok);\n- kontinentális–kontinentális: gyűrthegység (Himalája, Alpok);\n- erős földrengések, robbanásos vulkánosság.\n\nElcsúszó lemezmozgás:\n- a lemezek egymás mellett csúsznak el, kéreg nem keletkezik és nem is semmisül meg;\n- gyakori, erős földrengések (pl. Kaliforniában, San Francisco térségében).",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "távolodó",
+        "közeledő és elcsúszó lemezmozgás",
+        "óceánközépi hátság",
+        "mélytengeri árok",
+        "alábukás",
+        "hasadékvölgy"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "examTip": "Esszében mindhárom típusnál írd le: mi történik a kéreggel (keletkezik / felemésztődik / megmarad), milyen forma jön létre, és milyen kísérőjelenség (vulkán, rengés) jellemző.",
+      "selfCheck": [
+        {
+          "q": "Milyen forma jön létre két kontinentális lemez ütközésekor?",
+          "a": "Gyűrthegység (pl. Himalája)."
+        },
+        {
+          "q": "Hol keletkezik új óceáni kéreg?",
+          "a": "Az óceánközépi hátságoknál, a távolodó lemezszegélyeken."
+        },
+        {
+          "q": "Melyik lemezmozgásnál nincs vulkánosság jellemzően?",
+          "a": "Az elcsúszó lemezmozgásnál."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Elcsúszó lemezszegélyen kéreg nem keletkezik és nem is semmisül meg.",
+          "true": true
+        },
+        {
+          "statement": "Két kontinentális lemez ütközésekor a kisebbik alábukik, és vulkáni hegység keletkezik.",
+          "true": false,
+          "correction": "A kontinentális kéreg kis sűrűsége miatt egyik sem bukik alá mélyre; a kőzetek feltorlódnak, gyűrthegység keletkezik (pl. Himalája)."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k4",
+      "explanation": "Lemezmozgásos ábra elemzésekor haladj lépésről lépésre:\n- Nézd meg a nyilakat! Egymástól el: távolodó; egymás felé: közeledő; egymás mellett: elcsúszó mozgás.\n- Azonosítsd a kéregtípust! A vékony, sötétebb réteg általában óceáni, a vastag, „hegyes” rész kontinentális kéreg.\n- Keresd a formákat: hátság középen hasadékkal → távolodás; mély árok és mellette vulkánsor → alábukás; magas, gyűrt hegység vulkánok nélkül → kontinensütközés.\n- Figyeld a földrengések fészkét! Alábukásnál a rengésfészkek a lebukó lemez mentén ferdén egyre mélyebbre kerülnek, távolodásnál sekélyek.\n- A magma helye: távolodásnál a hátság alatt áramlik fel, alábukásnál a lebukó lemez beolvadásából kb. 100 km mélyen keletkezik, és a felső lemezen tör fel.\n\nAz ábra alapján a térképi példát is meg kell tudnod adni: Közép-atlanti-hátság és Izland, Andok és a Nazca-lemez alábukása, Himalája.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "távolodó",
+        "közeledő és elcsúszó lemezmozgás",
+        "alábukás",
+        "beolvadás",
+        "mélytengeri árok"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "examTip": "Gyakori hiba, hogy a vulkánokat az árok fölé rajzolják. A vulkánok a felső lemezen, az ároktól a kontinens (vagy szigetív) felé beljebb vannak.",
+      "selfCheck": [
+        {
+          "q": "Mire utal egy mélytengeri árok az ábrán?",
+          "a": "Alábukásra, közeledő lemezszegélyre."
+        },
+        {
+          "q": "Hogyan helyezkednek el a rengésfészkek alábukásnál?",
+          "a": "A lebukó lemez mentén ferdén, egyre mélyebben."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Alábukási övezetben a vulkánok a felső lemezen sorakoznak.",
+          "true": true
+        },
+        {
+          "statement": "Távolodó lemezszegélynél a földrengések fészke nagyon mélyen, több száz km-en van.",
+          "true": false,
+          "correction": "Távolodó szegélyen a rengések sekély fészkűek; mély fészkű rengések az alábukási övezetekre jellemzők."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k5",
+      "explanation": "Tanuld meg a lemezhatárok topográfiai példáit típusonként, és keresd meg őket a térképen!\n\nTávolodó szegélyek:\n- Közép-atlanti-hátság, rajta Izland (a hátság a felszínre emelkedik);\n- Afrikai-árokrendszer, Vörös-tenger (kontinens felhasadása).\n\nKözeledő szegélyek:\n- óceáni–kontinentális: Andok (Nazca- és Dél-amerikai-lemez), Kordillerák;\n- óceáni–óceáni: Japán-szigetek a Japán-árokkal, Mariana-árok, Fülöp-szigetek;\n- kontinentális–kontinentális: Himalája (Ausztrál–Indiai- és Eurázsiai-lemez), Alpok (Afrikai- és Eurázsiai-lemez).\n\nElcsúszó szegély: a Csendes-óceáni- és az Észak-amerikai-lemez határa Kaliforniában (San Francisco, Los Angeles térsége).\n\nMűholdfelvételen a lemezhatárokat jól jelzik az egyenes vonalú árkok, a vulkánláncok, a hosszan elnyúló hegységkoszorúk és a tengerfenék hátságai. A Csendes-óceánt körülvevő vulkán- és rengésövezet a Tűzgyűrű.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "óceánközépi hátság",
+        "mélytengeri árok",
+        "vulkáni szigetív",
+        "hasadékvölgy"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "examTip": "Térképes feladatnál gyakran egy-egy pontot kell lemezhatár-típushoz rendelni. Jegyezd meg: Izland – távolodó, Andok – alábukó, Himalája – ütköző, Kalifornia – elcsúszó.",
+      "selfCheck": [
+        {
+          "q": "Milyen lemezhatáron fekszik Izland?",
+          "a": "Távolodó, a Közép-atlanti-hátságon."
+        },
+        {
+          "q": "Mely lemezek ütközése hozta létre a Himaláját?",
+          "a": "Az Ausztrál–Indiai- és az Eurázsiai-lemez."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Japán-árok közeledő lemezszegélyen található.",
+          "true": true
+        },
+        {
+          "statement": "Az Afrikai-árokrendszer közeledő lemezszegély.",
+          "true": false,
+          "correction": "Az Afrikai-árokrendszer távolodó szegély: ott a kontinens hasad fel."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k6",
+      "explanation": "A magmás tevékenység szorosan kötődik a lemezmozgásokhoz. Két formája van: a mélységi magmatizmus (a magma a kéregben megreked és lassan kihűl) és a felszíni vulkánosság (a magma lávaként a felszínre ömlik).\n\nTávolodó lemezszegély:\n- a feláramló köpenyanyag nyomáscsökkenés miatt megolvad, bázisos, bazaltos, hígan folyó magma keletkezik;\n- csendes lávaömlés, hasadék- és pajzsvulkánok (Izland), a tengerfenéken párnaláva.\n\nKözeledő lemezszegély (alábukás):\n- a lebukó lemez a mélyben felmelegszik, víztartalma miatt a felette lévő köpeny és kéreg megolvad (beolvadás);\n- a kéreg anyagával keveredve semleges vagy savanyú, sűrűn folyó magma jön létre (andezites);\n- robbanásos kitörésű rétegvulkánok: Andok, Japán (Fuji), Indonézia (Krakatau).\n\nLemezen belül: forró pontok felett (Hawaii-szigetek) bazaltos vulkánosság.\n\nA magma összetétele tehát a lemezszegély típusától függ, és ez szabja meg a kitörés jellegét is.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "magma",
+        "mélységi magmatizmus",
+        "felszíni vulkánosság",
+        "beolvadás",
+        "alábukás"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "vulkani-mukodes"
+      ],
+      "examTip": "Tipikus kérdés: miért robbanásos a kitörés az alábukási övezetben? Mert a magma savanyúbb, sűrűn folyó, sok gázt tartalmaz, és a gázok nem tudnak könnyen távozni.",
+      "selfCheck": [
+        {
+          "q": "Milyen magma jellemző a távolodó szegélyre?",
+          "a": "Bázisos, bazaltos, hígan folyó magma."
+        },
+        {
+          "q": "Hol keletkezik a magma alábukáskor?",
+          "a": "A lebukó lemez fölött, a köpenyben és a kéregben beolvadással."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az Andok vulkánjai alábukás következtében keletkeztek.",
+          "true": true
+        },
+        {
+          "statement": "Az óceánközépi hátságokon főleg robbanásos kitörésű rétegvulkánok működnek.",
+          "true": false,
+          "correction": "A hátságokon bázisos, híg magmájú, csendes lávaömlés jellemző (hasadék- és pajzsvulkánok)."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k7",
+      "explanation": "A vulkánokat két szempont szerint csoportosítjuk.\n\nA felszínre jutás módja szerint:\n- csatornás (kürtős) vulkán: a magma a magmakamrából egy kürtőn át, a kráteren keresztül tör fel;\n- hasadékvulkán: a láva hosszú hasadék mentén ömlik ki (Izland); nagy kiterjedésű bazaltfennsíkot hozhat létre (Dekkán-fennsík).\n\nAlak és működés szerint:\n- rétegvulkán: savanyú vagy semleges, sűrűn folyó magma, robbanásos kitörés; a láva- és vulkáni hamu rétegek váltakozásából meredek kúp épül (Fuji, Vezúv, Etna, Popocatépetl, Mount St. Helens);\n- pajzsvulkán: bázisos, hígan folyó láva csendesen ömlik ki, lapos, széles pajzs alakú hegy jön létre (Hawaii-szigetek).\n\nA nagy erejű robbanás után a beomló csúcs helyén kaldera alakul ki, pl. a Krakatau.\n\nNe feledd: minél savanyúbb (szilíciumgazdagabb) a magma, annál sűrűbben folyik, és annál hevesebb a kitörés.",
+      "diagram": "volcano",
+      "concepts": [
+        "csatornás (kürtős) vulkán",
+        "hasadékvulkán",
+        "rétegvulkán",
+        "magmakamra",
+        "kürtő",
+        "kráter"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "examTip": "Gyakori hiba, hogy a pajzsvulkánt és a rétegvulkánt csak alakjuk alapján írják le. A vizsgán a magma típusát és a kitörés jellegét is meg kell adni.",
+      "selfCheck": [
+        {
+          "q": "Milyen vulkán a Fuji?",
+          "a": "Rétegvulkán."
+        },
+        {
+          "q": "Milyen láva építi a pajzsvulkánt?",
+          "a": "Bázisos, hígan folyó bazaltláva."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A rétegvulkán lávakőzet- és vulkáni hamu rétegek váltakozásából épül fel.",
+          "true": true
+        },
+        {
+          "statement": "A pajzsvulkánok kitörései a legrobbanásosabbak.",
+          "true": false,
+          "correction": "A pajzsvulkánok csendesen ömlő, híg lávát adnak; robbanásos kitörések a rétegvulkánokra jellemzők."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k8",
+      "explanation": "A vulkánok nem véletlenszerűen helyezkednek el, hanem övezetekbe rendeződnek.\n\nFő vulkáni övezetek:\n- Csendes-óceáni Tűzgyűrű: a Föld működő vulkánjainak nagy része itt van. Tagjai: Andok, Kordillerák (Mount St. Helens), Mexikó (Popocatépetl), Alaszka, Kamcsatka-félsziget, Japán-szigetek (Fuji), Fülöp-szigetek, Indonéz-szigetvilág (Krakatau, Jáva), Új-Zéland;\n- Földközi-tengeri övezet: Vezúv, Etna, Stromboli; folytatódik a Kaukázus és Kis-Ázsia felé;\n- Közép-atlanti-hátság: Izland;\n- Kelet-afrikai árokrendszer: Kilimandzsáró, Teleki-vulkán;\n- forró pontok: Hawaii-szigetek, Yellowstone Nemzeti Park.\n\nA Kárpát-medencében is volt vulkánosság: a Börzsöny, a Mátra, a Tokaji-hegység, a Hargita, illetve a Balaton-felvidék tanúhegyei (Badacsony) mind vulkáni eredetűek, de ma már nem működnek.\n\nVaktérképen a vulkánt a környező lemezhatár alapján is beazonosíthatod.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "rétegvulkán",
+        "felszíni vulkánosság",
+        "forrópontos vulkán"
+      ],
+      "processes": [
+        "vulkani-mukodes",
+        "lemezmozgasok",
+        "forro-pont"
+      ],
+      "examTip": "Vaktérképes feladatnál az olasz vulkánokat (Vezúv – Nápoly mellett, Etna – Szicília, Stromboli – kis sziget a Tirrén-tengerben) gyakran felcserélik. Tanuld meg a pontos helyüket!",
+      "selfCheck": [
+        {
+          "q": "Melyik vulkán van Szicílián?",
+          "a": "Az Etna."
+        },
+        {
+          "q": "Mi a Tűzgyűrű?",
+          "a": "A Csendes-óceánt körülvevő vulkán- és földrengésövezet."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Kilimandzsáró a Kelet-afrikai árokrendszerhez kötődő vulkán.",
+          "true": true
+        },
+        {
+          "statement": "A Vezúv a Csendes-óceáni Tűzgyűrű tagja.",
+          "true": false,
+          "correction": "A Vezúv a Földközi-tengeri vulkáni övezethez tartozik, Nápoly mellett."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k9",
+      "explanation": "A földrengés a kőzetburok hirtelen, rövid ideig tartó rázkódása. Oka: a kőzetlemezek mozgása során a kőzetekben feszültség halmozódik fel. Amikor ez meghaladja a kőzetek szilárdságát, a kőzet eltörik vagy a törésvonal mentén hirtelen elmozdul, és a felszabaduló energia rengéshullámok formájában terjed szét.\n\nKapcsolat a lemezszegélyekkel – a földrengések túlnyomó része lemezhatárokon keletkezik:\n- közeledő szegély: a legerősebb és a legmélyebb fészkű rengések itt vannak (Japán, Andok, Indonézia, Himalája);\n- elcsúszó szegély: gyakori, erős, sekély fészkű rengések (Kalifornia);\n- távolodó szegély: sekély fészkű, általában gyengébb rengések (Izland).\n\nKisebb részük lemezek belsejében, régi törésvonalak mentén keletkezik. Ilyenek a Kárpát-medence földrengései is: hazánk közepesen veszélyeztetett, nagy pusztító rengések ritkák.\n\nKeletkezésük szerint vannak még vulkáni és beszakadásos rengések, de ezek ritkábbak és gyengébbek.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "földrengés",
+        "kőzetlemez",
+        "törésvonal"
+      ],
+      "processes": [
+        "foldrenges-cunami",
+        "lemezmozgasok"
+      ],
+      "examTip": "Vizsgán írd le a teljes ok-okozati láncot: lemezmozgás → feszültség felhalmozódása → kőzettörés, elmozdulás → energia felszabadulása → rengéshullámok.",
+      "selfCheck": [
+        {
+          "q": "Miért keletkezik földrengés?",
+          "a": "A felhalmozódott feszültség hirtelen kőzettöréssel, elmozdulással oldódik fel."
+        },
+        {
+          "q": "Melyik lemezszegély-típusnál a legerősebbek a rengések?",
+          "a": "A közeledő (alábukó) szegélyen."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A földrengések többsége lemezhatárokon keletkezik.",
+          "true": true
+        },
+        {
+          "statement": "Magyarország földrengésmentes terület.",
+          "true": false,
+          "correction": "A Kárpát-medencében is előfordulnak (főleg kisebb, közepes) földrengések régi törésvonalak mentén."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k10",
+      "explanation": "A földrengésnek két kulcspontja van:\n- rengésfészek (hipocentrum): a Föld belsejében lévő pont, ahol a kőzet eltörik, elmozdul, és ahonnan a rengéshullámok kiindulnak;\n- rengésközpont (epicentrum): a felszín azon pontja, amely közvetlenül a rengésfészek fölött van.\n\nA kettő kapcsolata: a rengésközpont a rengésfészek függőleges vetülete a felszínre. A köztük lévő távolság a fészekmélység.\n\nMi következik ebből?\n- a rengést legerősebben általában a rengésközpontban érzik, onnan távolodva a rengés hatása (erőssége) csökken;\n- a sekély fészkű rengések kisebb területen, de pusztítóbban hatnak; a mély fészkű rengések nagyobb területen érezhetők, a hullámok energiája azonban a felszínig gyengül;\n- a térképen a rengésközpontot jelölik, a rengésfészket keresztmetszeti ábrán látod.\n\nÁbrán a rengésfészek a mélyben van, a rengésközpont pedig fölötte, a felszínen.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "rengésfészek (hipocentrum)",
+        "rengésközpont (epicentrum)",
+        "földrengés"
+      ],
+      "processes": [
+        "foldrenges-cunami"
+      ],
+      "examTip": "A leggyakoribb hiba a két fogalom felcserélése. Segít: az „epi-” görögül „fölött”, az „hipo-” „alatt” jelent, tehát az epicentrum a felszínen, a hipocentrum a mélyben van.",
+      "selfCheck": [
+        {
+          "q": "Hol van a rengésközpont?",
+          "a": "A felszínen, közvetlenül a rengésfészek fölött."
+        },
+        {
+          "q": "Mi a fészekmélység?",
+          "a": "A rengésfészek és a rengésközpont távolsága."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A rengéshullámok a rengésfészekből indulnak ki.",
+          "true": true
+        },
+        {
+          "statement": "A rengésfészek a felszínen, a rengésközpont a mélyben van.",
+          "true": false,
+          "correction": "Fordítva: a rengésfészek (hipocentrum) a mélyben, a rengésközpont (epicentrum) fölötte a felszínen van."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--k11",
+      "explanation": "A kőzetburok folyamatai földtani veszélyeket jelentenek:\n- földrengés: épületek összeomlása, tüzek, csőtörések, földcsuszamlás;\n- cunami: tengerrengés vagy tenger alatti csuszamlás okozta szökőhullám, amely a partokon pusztít (Japán 2011, Indiai-óceán 2004);\n- vulkánkitörés: lávaár, izzó felhő, hamuhullás, iszapár; a hamufelhő a légi közlekedést is megbéníthatja (Izland 2010).\n\nVédekezés és alkalmazkodás:\n- földrengésbiztos építkezés: rugalmas szerkezet, csillapító alapozás (Japán, Kalifornia);\n- szeizmográfos megfigyelőhálózat, cunamiriasztó rendszer, gyors figyelmeztetés;\n- vulkánok folyamatos megfigyelése (talajemelkedés, gázkibocsátás, rengések), kiürítési tervek;\n- veszélytérképek, a veszélyes zónák beépítésének tiltása;\n- lakossági felkészítés, rendszeres gyakorlatok.\n\nA pusztítás mértéke nemcsak a természeti folyamat erősségétől függ, hanem a felkészültségtől is: ugyanakkora rengés egy szegény országban sokkal több áldozatot követelhet.\n\nA földrengést pontosan előre jelezni ma még nem lehet, a vulkánkitörést gyakran igen.",
+      "diagram": null,
+      "concepts": [
+        "földrengés",
+        "cunami",
+        "felszíni vulkánosság"
+      ],
+      "processes": [
+        "foldrenges-cunami",
+        "vulkani-mukodes"
+      ],
+      "examTip": "Esszében mindig kösd a következményeket a társadalmi-gazdasági fejlettséghez: a fejlett országok jobban felkészültek, ezért kevesebb az áldozat.",
+      "selfCheck": [
+        {
+          "q": "Miért kevesebb az áldozat Japánban hasonló erejű rengéskor, mint egy fejlődő országban?",
+          "a": "Földrengésbiztos építkezés, riasztórendszer, felkészült lakosság miatt."
+        },
+        {
+          "q": "Mi okozhat cunamit?",
+          "a": "Tengerrengés, tenger alatti csuszamlás vagy vulkánkitörés."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A vulkánkitörések előjelei (talajemelkedés, gázkibocsátás) megfigyelhetők.",
+          "true": true
+        },
+        {
+          "statement": "A földrengések ma már napra pontosan előre jelezhetők.",
+          "true": false,
+          "correction": "A földrengések pontos időpontja ma még nem jelezhető előre; csak a veszélyeztetett területek határozhatók meg."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e1",
+      "explanation": "Ha ábrát kell készítened a kőzetburok felépítéséről, a következőket mindenképp tüntesd fel:\n- a felszínt, kontinenssel és óceánnal;\n- a kontinentális kérget vastagabban, felül gránitos, alul bazaltos réteggel; a hegységek alatt mélyebbre nyúló „gyökérrel”;\n- az óceáni kérget vékonyan, egységes bazaltos réteggel;\n- a földköpeny legfelső, szilárd részét, amely a kéreggel együtt alkotja a kőzetburkot;\n- alatta a képlékeny asztenoszférát, nyilakkal jelölt áramlásokkal.\n\nJelöld a kőzetburok alsó határát (átlagosan kb. 100 km), és írj a rétegekhez feliratokat! Érdemes egy lemezszegélyt is felrajzolni: például az óceáni lemez a kontinentális alá bukik, mélytengeri árokkal és vulkánnal.\n\nJó ábra: arányaiban helyes (az óceáni kéreg vékonyabb), egyértelmű feliratokkal, jelmagyarázattal. Nem kell szépnek lennie, de minden lényeges elem legyen rajta.",
+      "diagram": "earth-layers",
+      "concepts": [
+        "kőzetburok (litoszféra)",
+        "földkéreg",
+        "óceáni kéreg",
+        "kontinentális kéreg",
+        "asztenoszféra"
+      ],
+      "processes": [
+        "lemezmozgasok"
+      ],
+      "examTip": "Rajzos feladatnál gyakori hiba, hogy az óceáni kérget vastagabbra rajzolják, vagy kihagyják a köpeny felső szilárd részét a kőzetburokból.",
+      "selfCheck": [
+        {
+          "q": "Melyik réteg legyen vastagabb az ábrán: óceáni vagy kontinentális kéreg?",
+          "a": "A kontinentális kéreg."
+        },
+        {
+          "q": "Mi van a kőzetburok alatt?",
+          "a": "A képlékeny asztenoszféra."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A magas hegységek alatt a kontinentális kéreg vastagabb.",
+          "true": true
+        },
+        {
+          "statement": "Az óceáni kéreg felső része gránitos.",
+          "true": false,
+          "correction": "Gránitos felső réteg a kontinentális kéregre jellemző; az óceáni kéreg bazaltos."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e2",
+      "explanation": "Lemezmozgásos folyamatábránál az ok-okozati láncot kell megmutatnod. Néhány minta:\n\nTávolodás:\nasztenoszféra felszálló áramlása → a kőzetburok felboltozódik, megnyúlik → hasadékvölgy → magma feláramlik → új óceáni kéreg képződik → óceánközépi hátság, az óceán szélesedik.\n\nAlábukás (óceáni–kontinentális):\nlemezek közelednek → a sűrűbb óceáni lemez alábukik → mélytengeri árok → a lebukó lemez beolvad → magma felemelkedik → vulkáni hegység a kontinens peremén (Andok) + mély fészkű földrengések.\n\nKontinensütközés:\nóceán bezárul → kontinentális lemezek ütköznek → kőzetek felgyűrődnek, feltorlódnak → gyűrthegység (Himalája), a kéreg megvastagszik.\n\nEzek a folyamatok egy ciklusba (Wilson-ciklus) is rendezhetők: kontinens felhasad → óceán nyílik → alábukás kezdődik → óceán bezárul → kontinensek ütköznek.\n\nJó folyamatábra: nyilak, rövid lépések, minden lépésnél egy ok és egy következmény.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "gyarapodó és fölemésztődő lemezszegélyek",
+        "alábukás",
+        "beolvadás",
+        "hasadékvölgy",
+        "óceánközépi hátság"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "hegysegkepzodes"
+      ],
+      "examTip": "A folyamatábránál ne hagyd ki a magyarázó lépést: miért bukik alá az óceáni lemez? Mert nagyobb a sűrűsége.",
+      "selfCheck": [
+        {
+          "q": "Mi a folyamat első lépése távolodáskor?",
+          "a": "Az asztenoszféra felszálló áramlása, a kőzetburok felboltozódása."
+        },
+        {
+          "q": "Mi jön létre kontinensütközés végén?",
+          "a": "Gyűrthegység."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az óceánközépi hátságnál gyarapodó lemezszegély van.",
+          "true": true
+        },
+        {
+          "statement": "Az alábukási övezetben új óceáni kéreg képződik.",
+          "true": false,
+          "correction": "Az alábukási övezet fölemésztődő lemezszegély: ott az óceáni kéreg megsemmisül; új kéreg a hátságoknál képződik."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e3",
+      "explanation": "A forró pont a földköpeny mélyéből feláramló, különösen forró anyag (köpenycsóva) helye. Nem lemezszegélyhez kötődik, hanem lemezek belsejében is lehet.\n\nMűködése:\n- a feláramló forró anyag megolvasztja a kőzetburok alját, magma keletkezik;\n- a magma áttöri a kérget, fölötte vulkán jön létre (bazaltos, pajzsvulkán);\n- a forró pont helyben marad, a kőzetlemez viszont tovább mozog fölötte;\n- a vulkán „lecsúszik” a forró pontról, kialszik, lepusztul, idővel a tenger alá süllyed; helyette újabb vulkán keletkezik.\n\nÍgy vulkánlánc jön létre, amelyben a vulkánok kora a forró ponttól távolodva nő.\n\nPéldák:\n- Hawaii-szigetek: a Csendes-óceáni-lemez közepén; a délkeleti, legfiatalabb szigeten ma is aktív vulkánok vannak, északnyugat felé a szigetek egyre idősebbek;\n- Yellowstone Nemzeti Park: kontinentális forró pont, gejzírekkel;\n- Izland: forró pont és óceánközépi hátság egybeesése.\n\nA vulkánlánc iránya megmutatja a lemez mozgásának irányát is.",
+      "diagram": "hotspot",
+      "concepts": [
+        "forrópontos vulkán",
+        "pajzsvulkán",
+        "magma"
+      ],
+      "processes": [
+        "forro-pont"
+      ],
+      "examTip": "Tipikus ábrás kérdés: hol a legfiatalabb sziget a láncban? Ott, ahol a forró pont most van (Hawaiin délkeleten). A lemez az idősebb szigetek felé mozog.",
+      "selfCheck": [
+        {
+          "q": "Mozog-e a forró pont?",
+          "a": "Nem, (közel) helyben marad; a lemez mozdul el fölötte."
+        },
+        {
+          "q": "Hol a legidősebb sziget a Hawaii-láncban?",
+          "a": "A forró ponttól legtávolabb, északnyugaton."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Hawaii-szigetek a Csendes-óceáni-lemez belsejében, forró pont fölött keletkeztek.",
+          "true": true
+        },
+        {
+          "statement": "A forrópontos vulkánok mindig lemezszegélyen találhatók.",
+          "true": false,
+          "correction": "A forró pontok a lemezek belsejében is lehetnek (pl. Hawaii-szigetek)."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e4",
+      "explanation": "A vulkáni utóműködés a kitörések elmúltával is fennmaradó tevékenység: a lassan hűlő magmából gázok és forró víz jutnak a felszínre.\n\nFormái:\n- gejzír: időszakosan feltörő forró vízoszlop (Izland, Yellowstone Nemzeti Park, Új-Zéland);\n- fumarola: forró vízgőz feltörése;\n- szolfatára: kénes gázok kiáramlása, környékén kén válik ki;\n- mofetta: szén-dioxid hideg kiáramlása;\n- savanyúvíz: szén-dioxidban gazdag ásványvíz-forrás (Hargita, Székelyföld, Karlovy Vary környéke; hazánkban Balatonfüred).\n\nGazdasági jelentősége:\n- energiatermelés és fűtés: Izland, Új-Zéland, Olaszország geotermikus erőművei;\n- gyógyturizmus, fürdők: gyógyvizek, mofettás gyógykezelés (pl. Mátraderecske, Székelyföld);\n- ásványvíz-palackozás;\n- idegenforgalom: gejzírmezők, nemzeti parkok;\n- nyersanyag: kén kitermelése a szolfatárák környékén.\n\nA gáz kiáramlása veszélyes is lehet: a szén-dioxid nehezebb a levegőnél, mélyedésekben összegyűlve fulladást okozhat.",
+      "diagram": null,
+      "concepts": [
+        "vulkáni utóműködés",
+        "gejzír",
+        "fumarola",
+        "szolfatára",
+        "mofetta",
+        "savanyúvíz"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "examTip": "Gyakran összekeverik a fumarolát (vízgőz), a szolfatárát (kénes gőzök) és a mofettát (szén-dioxid). Jegyezd meg a kiáramló anyagot!",
+      "selfCheck": [
+        {
+          "q": "Mi áramlik ki a mofettából?",
+          "a": "Szén-dioxid."
+        },
+        {
+          "q": "Hol hasznosítanak gejzíreket, geotermikus energiát?",
+          "a": "Pl. Izlandon."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A savanyúvíz szén-dioxidban gazdag ásványvíz.",
+          "true": true
+        },
+        {
+          "statement": "A szolfatára forró vízoszlopot lövell ki időszakosan.",
+          "true": false,
+          "correction": "Az időszakos forró vízoszlop a gejzír; a szolfatára kénes gázokat bocsát ki."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-2-a-kozetlemezek-es-mozgasaik-kovetkezmenyei--e5",
+      "explanation": "A földrengés erősségét kétféleképpen mérjük:\n\nRichter-skála:\n- a rengés során felszabaduló energiát (magnitúdót) méri, szeizmográffal rögzített hullámkitérések alapján;\n- nyitott skála, logaritmikus: egy egységnyi növekedés kb. harmincszoros energiát jelent;\n- egy rengésnek egy magnitúdója van, akárhol mérik.\n\nMercalli-skála:\n- a rengés hatását (kárait, érzékelését) írja le, 12 fokozatú;\n- ugyanannak a rengésnek a rengésközponttól távolodva egyre kisebb a Mercalli-értéke.\n\nFöldrengéshullámok:\n- elsődleges (P) hullámok: leggyorsabbak, szilárd és folyékony közegben is terjednek;\n- másodlagos (S) hullámok: lassabbak, folyadékban nem terjednek;\n- felületi hullámok: a felszínen haladnak, ezek okozzák a legnagyobb pusztítást.\n\nKísérőjelenségek: utórengések, földcsuszamlás, talajfolyósodás, tüzek, csőtörések; tengerrengés esetén cunami. A fészekmélység is befolyásolja a pusztítást.",
+      "diagram": null,
+      "concepts": [
+        "Richter-skála",
+        "Mercalli-skála",
+        "szeizmográf",
+        "földrengéshullámok",
+        "utórengés",
+        "cunami"
+      ],
+      "processes": [
+        "foldrenges-cunami"
+      ],
+      "examTip": "Gyakori vizsgacsapda: „A Richter-skála 12 fokozatú.” Nem! A 12 fokozatú a Mercalli-skála; a Richter-skála nyitott, a felszabadult energiát méri.",
+      "selfCheck": [
+        {
+          "q": "Mit mér a Mercalli-skála?",
+          "a": "A rengés hatását, okozott kárait."
+        },
+        {
+          "q": "Melyik hullám nem halad át folyadékon?",
+          "a": "A másodlagos (S) hullám."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Richter-skála a felszabaduló energiát (magnitúdót) méri.",
+          "true": true
+        },
+        {
+          "statement": "A Mercalli-skála értéke ugyanakkora a rengésközpontban és attól távol is.",
+          "true": false,
+          "correction": "A Mercalli-érték a rengésközponttól távolodva csökken, mert a hatás gyengül; a magnitúdó (Richter) egy rengésnél egyetlen érték."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--k1",
+      "explanation": "A mai nagy hegységek közeledő lemezszegélyeken keletkeznek. A hegységképződés típusát az dönti el, milyen kéregből állnak az ütköző lemezek.\n\n- Két óceáni lemez közeledése: a sűrűbb, idősebb óceáni lemez alábukik, mélytengeri árok és vulkáni szigetív jön létre (Japán-szigetek, Fülöp-szigetek, Mariana-árok).\n- Óceáni és kontinentális lemez közeledése: az óceáni lemez a kontinentális alá bukik; a kontinens peremén az üledékek felgyűrődnek, a beolvadásból származó magma vulkánokat hoz létre. Eredménye a vulkánokban gazdag lánchegység (Andok, Kordillerák).\n- Két kontinentális lemez közeledése: a kis sűrűségű kontinentális kéreg nem bukik alá mélyre, ezért a kőzetek feltorlódnak, felgyűrődnek, takarók képződnek. Magas gyűrthegység keletkezik, kevés vulkánnal (Himalája, Alpok).\n\nA lemezek tulajdonságai közül tehát a sűrűség és a kéregtípus a döntő: a nagyobb sűrűségű lemez bukik alá.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "a hegységképződés típusai (két kontinentális, két óceáni, illetve egy óceáni és egy kontinentális lemezszegély közeledése)",
+        "gyűrthegység",
+        "vulkáni szigetív",
+        "alábukás"
+      ],
+      "processes": [
+        "hegysegkepzodes",
+        "lemezmozgasok"
+      ],
+      "examTip": "Ha a kérdés úgy szól, „miért nincs vulkán a Himalájában?”, a válasz: kontinensütközésnél nincs számottevő alábukás, így nem keletkezik nagy mennyiségű magma.",
+      "selfCheck": [
+        {
+          "q": "Milyen hegységképződési típus hozta létre az Andokat?",
+          "a": "Óceáni és kontinentális lemez közeledése (alábukás)."
+        },
+        {
+          "q": "Mi jön létre két óceáni lemez közeledésekor?",
+          "a": "Vulkáni szigetív és mélytengeri árok."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Két kontinentális lemez ütközésekor magas gyűrthegység keletkezik.",
+          "true": true
+        },
+        {
+          "statement": "Óceáni és kontinentális lemez ütközésekor a kontinentális lemez bukik alá.",
+          "true": false,
+          "correction": "Az óceáni lemez bukik alá, mert nagyobb a sűrűsége."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--k2",
+      "explanation": "A hegységképződési típusok térképi példái, amelyeket meg kell tudnod mutatni:\n\nKét kontinentális lemez közeledése (ütközés):\n- Himalája: Ausztrál–Indiai- és Eurázsiai-lemez; itt a Csomolungma (Mt. Everest);\n- Alpok, Kárpátok, Dinári-hegység, Kaukázus, Pireneusok: az Afrikai-lemez (és kisebb lemezdarabok) és az Eurázsiai-lemez közeledése;\n- Pamír, Tibet hegykoszorúja.\n\nÓceáni és kontinentális lemez közeledése:\n- Andok: a Nazca-lemez a Dél-amerikai-lemez alá bukik; előtte húzódik a mélytengeri árok;\n- Kordillerák (Sziklás-hegység és nyugati vonulatai) Észak-Amerikában.\n\nKét óceáni lemez közeledése (vulkáni szigetív):\n- Japán-szigetek a Japán-árokkal;\n- Mariana-szigetek a Mariana-árokkal;\n- Fülöp-szigetek, Indonéz-szigetvilág, Antillák keleti íve.\n\nTipp: a térképen a mélytengeri árok mindig a szigetív vagy a hegység óceán felőli oldalán fut, vele párhuzamosan.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "a hegységképződés típusai (két kontinentális, két óceáni, illetve egy óceáni és egy kontinentális lemezszegély közeledése)",
+        "gyűrthegység",
+        "vulkáni szigetív",
+        "mélytengeri árok"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Vaktérképen a Kordillerákat és az Andokat gyakran a Variszkuszi-hegységrendszerbe sorolják tévesen. Mindkettő a fiatal, ma is formálódó Pacifikus-hegységrendszer tagja.",
+      "selfCheck": [
+        {
+          "q": "Melyik lemez bukik az Andok alá?",
+          "a": "A Nazca-lemez."
+        },
+        {
+          "q": "Mondj példát vulkáni szigetívre!",
+          "a": "Japán-szigetek (vagy Mariana-, Fülöp-szigetek)."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Himalája két kontinentális lemez ütközésével jött létre.",
+          "true": true
+        },
+        {
+          "statement": "A Japán-szigetek két kontinentális lemez ütközésével keletkeztek.",
+          "true": false,
+          "correction": "A Japán-szigetek vulkáni szigetív: óceáni lemez bukik alá a Japán-árok mentén."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--k3",
+      "explanation": "A kőzetek a szerkezeti mozgások hatására kétféleképpen reagálnak.\n\nGyűrődés:\n- oldalirányú nyomás hatására a képlékeny, rétegzett (főleg üledékes) kőzetek hullámszerűen meghajlanak, redők jönnek létre;\n- a redő lehet álló, ferde, fekvő vagy áttolt; erős nyomásnál a rétegek egymásra tolódnak (takarók);\n- gyűrthegység jön létre, amely magas és hosszan elnyúló (Alpok, Himalája).\n\nVetődés:\n- a merev, rideg kőzetek nem hajlanak meg, hanem eltörnek; a darabok a vetősík mentén elmozdulnak;\n- rögök jönnek létre: a kiemelt rög a sasbérc, a lesüllyedt rög az árok;\n- így alakul ki a rögös szerkezetű hegység.\n\nA rögös szerkezetű hegységek jellemzően régi, lepusztult gyűrthegységek maradványaiból jöttek létre: a letarolt, megmerevedett tönköt a későbbi hegységképződés nyomása feldarabolta és kiemelte (Német-középhegység, Francia-középhegység).\n\nA kőzet viselkedése tehát merevségétől függ: a képlékeny gyűrődik, a merev törik.",
+      "diagram": "folds",
+      "concepts": [
+        "gyűrődés",
+        "redő",
+        "vetődés",
+        "vetősík",
+        "rög",
+        "gyűrthegység"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Esszében a rögös hegységnél ne felejtsd el leírni, hogy azért törik, mert a kőzet merev: régi, már egyszer felgyűrt, lepusztult és megkeményedett hegységről van szó.",
+      "selfCheck": [
+        {
+          "q": "Milyen kőzetek gyűrődnek?",
+          "a": "A képlékeny, rétegzett (főleg üledékes) kőzetek."
+        },
+        {
+          "q": "Mi a sasbérc?",
+          "a": "Vetődéssel kiemelt rög."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A vetődés során a kőzetek a vetősík mentén elmozdulnak.",
+          "true": true
+        },
+        {
+          "statement": "A rögös szerkezetű hegységek a legfiatalabb, legmagasabb hegységek.",
+          "true": false,
+          "correction": "A rögös hegységek régi, lepusztult gyűrthegységek feldarabolódásával jöttek létre, általában alacsonyabbak."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--k4",
+      "explanation": "Gyűrődéssel kialakult formák:\n- redők: álló, ferde és fekvő redő; erős nyomásra áttolt redő, takaró;\n- a redő felboltozódó része a redőboltozat, behajló része a redőteknő;\n- gyűrthegységek: Alpok, Himalája, Kárpátok, Andok, Atlasz.\n\nVetődéssel kialakult formák:\n- rög: vetősíkok által határolt kéregdarab;\n- sasbérc: kiemelt rög (pl. a Rajnai-árkot kísérő Vogézek és Fekete-erdő);\n- árok: lesüllyedt rög (Rajnai-árok, Bajkál-tó medencéje, Afrikai-árokrendszer, Holt-tenger, hazánkban a Móri-árok);\n- lépcsővidék: lépcsőzetesen egymás alá süllyedt rögök (pl. a Budai-hegység peremén);\n- tektonikus medence: rögök süllyedésével keletkezett medence (Kárpát-medence belső része, Bécsi-medence);\n- rögös szerkezetű hegység: Német-középhegység, Francia-középhegység, Szudéták; hazánkban a Dunántúli-középhegység (Bakony, Gerecse, Vértes) rögös szerkezetű.\n\nA törésvonalak mentén gyakran fakadnak hévizek (pl. Budapest), mert a mély törések utat nyitnak a meleg víznek.",
+      "diagram": "folds",
+      "concepts": [
+        "redő",
+        "álló",
+        "ferde és fekvő redő",
+        "sasbérc",
+        "árok",
+        "lépcsővidék",
+        "tektonikus medence"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Tipikus feladat: párosítsd a formát a keletkezéssel. Ne tedd az árkot a gyűrődéshez: az árok vetődéssel lesüllyedt rög.",
+      "selfCheck": [
+        {
+          "q": "Mondj példát hazai tektonikus árokra!",
+          "a": "Móri-árok."
+        },
+        {
+          "q": "Mi a lépcsővidék?",
+          "a": "Lépcsőzetesen egymás alá vetődött rögök sora."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Bajkál-tó tektonikus árokban fekszik.",
+          "true": true
+        },
+        {
+          "statement": "A sasbérc gyűrődéssel jön létre.",
+          "true": false,
+          "correction": "A sasbérc vetődéssel kiemelt rög."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--k5",
+      "explanation": "Képen és ábrán így különbözteted meg a két hegységtípust:\n\nGyűrthegység (fiatal, pl. Alpok, Himalája, Andok):\n- magas (magashegység), meredek, éles, csipkés gerincek és csúcsok;\n- gyakran hó- és jégborítás, gleccserek, U alakú jégvájta völgyek;\n- hosszan, láncszerűen elnyúló vonulatok;\n- keresztmetszeten hullámosan meghajlott, redőkbe gyűrt rétegek.\n\nRögös szerkezetű hegység (pl. Német-középhegység, Francia-középhegység, Szudéták, Dunántúli-középhegység):\n- alacsonyabb (középhegység), lekerekített, lepusztult formák;\n- lapos, fennsíkszerű tetők, a peremeken meredek, vetődéssel határolt lejtők;\n- a hegyvidék rögökre és köztük medencékre tagolódik, mozaikszerű;\n- keresztmetszeten egyenes vetősíkok, elcsúszott kőzetdarabok.\n\nFontos: a gyűrthegységben is vannak vetődések, és a régi rögök kőzetei is gyűrtek lehetnek. A döntő a mai szerkezet és a formakincs.",
+      "diagram": "folds",
+      "concepts": [
+        "gyűrthegység",
+        "rögös szerkezetű hegység",
+        "redő",
+        "vetődés"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Képfelismerésnél a csipkés, havas gerinc gyűrthegységre, a lekerekített, erdős, lapos tetejű vonulat rögös hegységre utal. Ne a növényzet alapján dönts, hanem a formák alapján!",
+      "selfCheck": [
+        {
+          "q": "Milyen tetőforma jellemző a rögös hegységre?",
+          "a": "Lapos, fennsíkszerű, lekerekített."
+        },
+        {
+          "q": "Milyen völgy utal gleccserre a gyűrthegységben?",
+          "a": "U alakú, jégvájta völgy."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A gyűrthegységek keresztmetszetén meghajlott rétegek láthatók.",
+          "true": true
+        },
+        {
+          "statement": "A rögös hegységek csúcsai jellemzően élesek, csipkések.",
+          "true": false,
+          "correction": "A rögös hegységek formái lekerekítettek, tetőik laposak; a csipkés gerinc a fiatal gyűrthegységekre jellemző."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--k6",
+      "explanation": "A hegységeket három szempont szerint csoportosíthatod.\n\nSzerkezetük szerint:\n- gyűrthegység: Alpok, Himalája, Andok;\n- rögös szerkezetű hegység: Német-középhegység, Szudéták, Dunántúli-középhegység;\n- vulkáni hegység: Mátra, Börzsöny, Tokaji-hegység, Hargita.\n\nMagasságuk szerint:\n- középhegység: kb. 500–1500 m (pl. Mátra, Bükk, Francia-középhegység);\n- magashegység: kb. 1500 m felett (Alpok, Kárpátok magasabb részei, Himalája).\n\nFormakincsük szerint:\n- magashegységi formák: éles gerincek, csúcsok, jégvájta völgyek, gleccserek, kőomlások; a jég és a fagy munkája;\n- középhegységi formák: lekerekített hátak, széles völgyek, lankás lejtők; a folyóvíz és a mállás munkája.\n\nA csoportok nem esnek egybe: a Skandináv-hegység rögös szerkezetű, mégis magashegység, mert erőteljesen kiemelkedett; a Mátra vulkáni eredetű középhegység.",
+      "diagram": null,
+      "concepts": [
+        "gyűrthegység",
+        "rögös szerkezetű hegység",
+        "hegységrendszer"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Gyakori hiba, hogy a „középhegység” és a „rögös hegység” fogalmát azonosnak tekintik. Az egyik magassági, a másik szerkezeti kategória.",
+      "selfCheck": [
+        {
+          "q": "Milyen szerkezetű a Mátra?",
+          "a": "Vulkáni hegység."
+        },
+        {
+          "q": "Milyen magasság fölött beszélünk magashegységről?",
+          "a": "Kb. 1500 m felett."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Börzsöny vulkáni eredetű hegység.",
+          "true": true
+        },
+        {
+          "statement": "Minden középhegység rögös szerkezetű.",
+          "true": false,
+          "correction": "A középhegység magassági kategória: lehet vulkáni (Mátra) vagy gyűrt is; a rögös a szerkezetet jelöli."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--e1",
+      "explanation": "A hegységképződés hosszú, egymásra épülő szakaszokból áll:\n\n1. Üledékfelhalmozódás: a kontinensek közötti tengermedencékben, a kontinensperemeken évmilliókon át vastag üledékrétegek rakódnak le (mészkő, homokkő, agyag). A medence alja a teher alatt süllyed.\n\n2. Tektogenezis (szerkezetképződés): a lemezek közeledésekor az üledékrétegek oldalirányú nyomás alá kerülnek, felgyűrődnek, redőkbe hajlanak, takarókká torlódnak. A mélyben átalakult kőzetek, magmás behatolások keletkeznek.\n\n3. Orogenezis (hegységgé emelkedés): a megvastagodott, könnyű kéreg az izosztázia miatt kiemelkedik, és felszíni formakincsében is hegység jön létre.\n\nA szakaszok összefüggenek: üledék nélkül nincs mit felgyűrni; gyűrődés és kéregvastagodás nélkül nincs kiemelkedés. A kiemelkedéssel egy időben megindul a lepusztulás, amely a hegységet lassan letarolja, és az anyagot új üledékgyűjtőkbe szállítja – így a ciklus kezdődhet elölről.\n\nPélda: az Alpok mészkövei egykori tengerben rakódtak le, ma pedig több ezer méteren találhatók.",
+      "diagram": null,
+      "concepts": [
+        "hegységképződési szakaszok (üledékfelhalmozódás, tektogenezis, orogenezis)",
+        "gyűrődés",
+        "izosztázia"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Tipikus kérdés: miért találunk tengeri kövületeket a magashegységek csúcsán? Mert a kőzetek tengeri üledékként keletkeztek, majd felgyűrődtek és kiemelkedtek.",
+      "selfCheck": [
+        {
+          "q": "Mi történik a tektogenezis szakaszában?",
+          "a": "Az üledékek felgyűrődnek, redők és takarók képződnek."
+        },
+        {
+          "q": "Mi az orogenezis?",
+          "a": "A hegység kiemelkedése, hegységgé formálódása."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az üledékfelhalmozódás a hegységképződés első szakasza.",
+          "true": true
+        },
+        {
+          "statement": "Az orogenezis a hegységképződés első szakasza, ilyenkor rakódnak le az üledékek.",
+          "true": false,
+          "correction": "Az első szakasz az üledékfelhalmozódás; az orogenezis az utolsó, kiemelkedési szakasz."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--e2",
+      "explanation": "Az izosztázia a kőzetburok egyensúlyi állapota: a könnyebb kőzetburok-darabok úgy „úsznak” a sűrűbb, képlékeny asztenoszférán, mint a jéghegy a vízben.\n\nKövetkezményei:\n- ahol vastagabb és könnyebb a kéreg (hegységek), ott mélyebbre nyúlik („hegységgyökér”), és magasabbra emelkedik; ahol vékony és sűrű (óceáni kéreg), ott alacsonyabban helyezkedik el. Ezért vannak a kontinensek magasabban, mint az óceánok aljzata;\n- ha a felszínről anyag távozik (lepusztulás), a kéreg könnyebb lesz, és lassan emelkedik – a hegységek ezért hosszú ideig megújulnak;\n- ha teher kerül rá (jégtakaró, vastag üledék), a kéreg lesüllyed.\n\nKlasszikus példa: a jégkorszaki jégtakaró súlya alatt lenyomott Skandinávia a jég elolvadása óta ma is lassan emelkedik (a Botteni-öböl környékén jól mérhető). Hasonló emelkedés figyelhető meg a Kanadai-ősföldön is.\n\nAz izosztatikus mozgások függőlegesek és nagyon lassúak.",
+      "diagram": null,
+      "concepts": [
+        "izosztázia",
+        "asztenoszféra",
+        "kőzetburok (litoszféra)"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Tipikus kérdés: miért emelkedik ma is Skandinávia? A válasz: megszűnt a jégtakaró terhe, az izosztázia miatt a kéreg visszaemelkedik.",
+      "selfCheck": [
+        {
+          "q": "Mi történik a kéreggel, ha jégtakaró nehezedik rá?",
+          "a": "Lesüllyed."
+        },
+        {
+          "q": "Miért emelkedik a lepusztuló hegység?",
+          "a": "Mert könnyebbé válik, és az izosztázia miatt a kéreg felemelkedik."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Skandinávia a jégtakaró elolvadása óta lassan emelkedik.",
+          "true": true
+        },
+        {
+          "statement": "Az izosztatikus mozgások vízszintes irányúak.",
+          "true": false,
+          "correction": "Az izosztatikus mozgások függőlegesek (emelkedés, süllyedés)."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-3-a-hegysegkepzodes--e3",
+      "explanation": "Hegységképződési folyamatábránál a szakaszokat ok-okozati láncba kell rendezned. Egy jó minta (kontinensütközés):\n\nlemezek közeledése → óceán bezáródik, az óceáni kéreg alábukik → a tengermedencében felhalmozott üledékek nyomás alá kerülnek → gyűrődés, redők, takarók → kéregvastagodás → izosztatikus kiemelkedés → gyűrthegység (pl. Himalája) → lepusztulás → letarolt tönk → később vetődés, feldarabolódás → rögös szerkezetű hegység (pl. Német-középhegység).\n\nElemzéskor figyeld:\n- a nyilak irányát (nyomás iránya, mozgás iránya);\n- melyik lépés ok és melyik következmény;\n- hol jelenik meg a lepusztulás, és mi lesz a lepusztult anyag sorsa (üledékgyűjtő medence);\n- hol jelenik meg magma (alábukásnál) és átalakult kőzet (a mélyben, nagy nyomáson).\n\nRajzolásnál elég egyszerű dobozos-nyilas ábra, rövid feliratokkal. Egy lépésben egy esemény szerepeljen!",
+      "diagram": "folds",
+      "concepts": [
+        "hegységképződési szakaszok (üledékfelhalmozódás, tektogenezis, orogenezis)",
+        "gyűrődés",
+        "vetődés",
+        "rögös szerkezetű hegység",
+        "gyűrthegység"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "A folyamatábrából gyakran kimarad a lepusztulás, pedig enélkül nem érthető, hogyan lesz a gyűrthegységből rögös szerkezetű hegység.",
+      "selfCheck": [
+        {
+          "q": "Mi következik a gyűrődés után?",
+          "a": "A kéreg megvastagodása és kiemelkedése."
+        },
+        {
+          "q": "Hogyan lesz a gyűrthegységből rögös hegység?",
+          "a": "Lepusztul, megmerevedik, majd vetődésekkel feldarabolódik és kiemelkedik."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A letarolt gyűrthegység vetődésekkel rögös szerkezetű hegységgé alakulhat.",
+          "true": true
+        },
+        {
+          "statement": "A rögös szerkezetű hegység közvetlenül üledékek gyűrődésével jön létre.",
+          "true": false,
+          "correction": "A rögös hegység egy régebbi, lepusztult gyűrthegység merev tönkjének feldarabolódásával jön létre."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k1",
+      "explanation": "Szénféleségek:\n- mocsári növényzet elhal, víz alatt, oxigéntől elzárva nem bomlik el teljesen → tőzeg;\n- betemetődés, nyomás, hő és idő hatására a széntartalom nő, a víz- és gáztartalom csökken (szenesedés);\n- sorrend: tőzeg → lignit → barnakőszén → feketekőszén → antracit; minél idősebb, annál nagyobb a fűtőérték.\nA feketekőszén nagy része a földtörténeti ókor karbon időszakának mocsárerdeiből származik.\n\nSófélék:\n- elzárt tengeröböl vagy sekély beltenger vize száraz, meleg éghajlaton bepárlódik;\n- a sók oldékonyságuk szerint válnak ki: előbb mész, majd gipsz, kősó, végül kálisó.\n\nSzénhidrogének (kőolaj, földgáz):\n- sekély tengerek planktonjának szerves anyaga oxigénszegény iszapban halmozódik fel;\n- a mélyben hő és nyomás hatására kőolajjá, földgázzá alakul;\n- a likacsos tárolókőzetben (homokkő, mészkő) vándorol, és ott halmozódik fel, ahol át nem eresztő záróréteg (agyag) csapdába ejti.",
+      "diagram": null,
+      "concepts": [
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+        "kőolaj",
+        "földgáz",
+        "kősó",
+        "kálisó",
+        "gipsz"
+      ],
+      "processes": [
+        "szenhidrogen-szenkepzodes"
+      ],
+      "examTip": "Gyakori hiba: a kőolajat szárazföldi növények maradványának tartják. A kőolaj főleg tengeri planktonból, a kőszén szárazföldi mocsári növényzetből keletkezik.",
+      "selfCheck": [
+        {
+          "q": "Melyik szénfajta a legnagyobb fűtőértékű?",
+          "a": "Az antracit."
+        },
+        {
+          "q": "Miért nem bomlik el a mocsári növényzet?",
+          "a": "Mert víz alá kerül, oxigéntől elzárva."
+        },
+        {
+          "q": "Mi tartja vissza a kőolajat a tárolókőzetben?",
+          "a": "Át nem eresztő záróréteg, pl. agyag."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A kősó tengervíz bepárlódásával keletkezik.",
+          "true": true
+        },
+        {
+          "statement": "A szenesedés során a széntartalom csökken.",
+          "true": false,
+          "correction": "A szenesedés során a széntartalom nő, a víz- és gáztartalom csökken."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k2",
+      "explanation": "A kőzeteket keletkezésük szerint három nagy csoportba soroljuk.\n\nMagmás kőzetek – magmából, kihűléssel:\n- mélységi magmás kőzet: lassan, a mélyben hűl ki, szemcsés (gránit);\n- vulkáni kiömlési kőzet: gyorsan, a felszínen hűl ki, apró szemcsés vagy üveges (andezit, bazalt, riolit);\n- vulkáni törmelékes kőzet (tufa): összecementálódott vulkáni hamuból (andezit-, bazalt-, riolittufa).\n\nÜledékes kőzetek – lepusztult anyagból vagy élőlények maradványaiból:\n- törmelékes: kavics, homok, homokkő, agyag, lösz;\n- vegyi: oldatból kicsapódva (kősó, kálisó, gipsz, dolomit egy része);\n- szerves eredetű üledékes kőzet: élőlények vázaiból, maradványaiból (mészkő nagy része, kőszén).\n\nÁtalakult kőzetek – meglévő kőzetekből nagy nyomáson és hőmérsékleten, megolvadás nélkül:\n- márvány (mészkőből), palás kőzetek (pl. agyagpala, csillámpala), gneisz (gránitból).\n\nA kőzetek ásványokból épülnek fel; legfontosabb kőzetalkotó ásványok pl. a kvarc és a kalcit.",
+      "diagram": "rock-cycle",
+      "concepts": [
+        "magmás kőzet",
+        "üledékes kőzet",
+        "átalakult kőzet",
+        "mélységi magmás kőzet",
+        "vulkáni kiömlési kőzet",
+        "vulkáni törmelékes kőzet (tufa)"
+      ],
+      "processes": [
+        "kozetanyag-korforgas"
+      ],
+      "examTip": "Gyakori hiba: a tufát üledékes kőzetnek tekintik a rétegzettsége miatt. A tankönyvi besorolás szerint vulkáni törmelékes kőzet, azaz a magmás kőzetek csoportjába tartozik.",
+      "selfCheck": [
+        {
+          "q": "Milyen kőzetből jön létre a márvány?",
+          "a": "Mészkőből, átalakulással."
+        },
+        {
+          "q": "Miért szemcsés a gránit?",
+          "a": "Mert a mélyben lassan hűlt ki, a kristályok nagyra nőhettek."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A bazalt vulkáni kiömlési kőzet.",
+          "true": true
+        },
+        {
+          "statement": "A kősó szerves eredetű üledékes kőzet.",
+          "true": false,
+          "correction": "A kősó vegyi üledékes kőzet: tengervíz bepárlódásával, kicsapódással keletkezik."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k3",
+      "explanation": "Néhány fontos kőzet előfordulása és felhasználása:\n\nMagmás kőzetek:\n- gránit: Velencei-hegység; burkolókő, díszítőkő, útkő;\n- andezit: Mátra, Börzsöny, Visegrádi-hegység; zúzottkő útépítéshez, vasúti alépítményhez;\n- bazalt: Badacsony és a Tapolcai-medence tanúhegyei; útépítés, zúzottkő.\n\nÜledékes kőzetek:\n- mészkő: Bakony, Gerecse, Bükk; cement- és mészgyártás, építőkő;\n- dolomit: Budai-hegység; építőipar, zúzottkő;\n- homok és kvarchomok: Duna–Tisza köze, Nyírség; építőipar, üveggyártás;\n- agyag: tégla- és cserépgyártás, kerámia;\n- kősó: élelmiszeripar, vegyipar, utak sózása (Németország, Lengyelország);\n- kálisó: műtrágyagyártás;\n- gipsz: építőipar (gipszkarton).\n\nEnergiahordozók:\n- kőszén: hőerőművek, kohászat (koksz);\n- kőolaj, földgáz: üzemanyag, fűtés, vegyipari alapanyag (Algyő, Zala).\n\nÁtalakult kőzet: márvány – szobrok, díszítőkő (Olaszország).",
+      "diagram": null,
+      "concepts": [
+        "gránit",
+        "andezit",
+        "bazalt",
+        "mészkő",
+        "agyag",
+        "ásványi nyersanyag"
+      ],
+      "processes": [],
+      "examTip": "Tipikus feladat: párosítsd a kőzetet felhasználásával. Ne keverd: a mészkőből cement, a kvarchomokból üveg, az agyagból tégla, a kálisóból műtrágya készül.",
+      "selfCheck": [
+        {
+          "q": "Mire használják a kálisót?",
+          "a": "Műtrágyagyártásra."
+        },
+        {
+          "q": "Mi a cementgyártás fő nyersanyaga?",
+          "a": "A mészkő (és agyag)."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A kvarchomok az üveggyártás alapanyaga.",
+          "true": true
+        },
+        {
+          "statement": "Az andezitet főleg műtrágyagyártásra használják.",
+          "true": false,
+          "correction": "Az andezitet főleg zúzottkőként útépítésre használják; műtrágyát kálisóból gyártanak."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k4",
+      "explanation": "Hazánk leggyakoribb kőzetei és lelőhelyeik:\n\nMagmás kőzetek:\n- gránit: Velencei-hegység – földtörténeti óidei mélységi magmás kőzet;\n- andezit: Börzsöny, Mátra, Visegrádi-hegység, Tokaji-hegység – a Kárpátok belső vulkáni koszorújának tagjai;\n- bazalt: Badacsony, Tapolcai-medence tanúhegyei, Kemenesalja;\n- riolit: Tokaji-hegység;\n- tufák: a vulkáni hegységekben (riolittufa pl. a Bükkalján – a kaptárkövek).\n\nÜledékes kőzetek:\n- mészkő: Bakony, Gerecse, Bükk, Aggteleki-karszt, Villányi-hegység, Mecsek;\n- dolomit: Budai-hegység, Bakony, Keszthelyi-hegység;\n- lösz: Mezőföld, Szekszárdi-dombság, Tolnai-dombság;\n- homok: Duna–Tisza köze, Nyírség, Belső-Somogy;\n- kőszén: feketekőszén – Mecsek; barnakőszén – Tatabánya, Borsodi-medence, Ajka; lignit – Visonta;\n- bauxit: Bakony, Vértes.\n\nFelismerési jegyek: a mészkő sósavval pezseg; a gránitban látszanak a kristályok; a bazalt sötét, tömör; a lösz sárgás, porhanyós, függőleges falakat alkot.",
+      "diagram": null,
+      "concepts": [
+        "gránit",
+        "andezit",
+        "bazalt",
+        "riolit",
+        "mészkő",
+        "lösz",
+        "dolomit"
+      ],
+      "processes": [],
+      "examTip": "Kőzetfelismerésnél a sósavpróba sokat segít: a mészkő erősen pezseg, a dolomit csak alig (porítva).",
+      "selfCheck": [
+        {
+          "q": "Hol található hazánkban gránit?",
+          "a": "A Velencei-hegységben."
+        },
+        {
+          "q": "Melyik hazai lelőhely ismert lignitről?",
+          "a": "Visonta."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Badacsony bazaltból felépülő tanúhegy.",
+          "true": true
+        },
+        {
+          "statement": "A Mátra fő kőzete a gránit.",
+          "true": false,
+          "correction": "A Mátra fő kőzete az andezit (vulkáni hegység); gránit a Velencei-hegységben van."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k5",
+      "explanation": "Az ércek olyan ásványok, kőzetek, amelyekből a fémek gazdaságosan kinyerhetők.\n\nFontos ércek és felhasználásuk:\n- vasérc: a vas- és acélgyártás (kohászat) alapanyaga; nagy lelőhelyek az ősföldeken (Brazília, Ausztrália, Kanada, Ukrajna);\n- bauxit: az alumíniumgyártás alapanyaga (timföldgyártás → alumíniumkohászat); trópusi lelőhelyek (Ausztrália, Guinea, Brazília), Magyarországon a Bakony és a Vértes;\n- rézérc: elektromos vezetékek, elektronika (Chile – az Andok);\n- arany, ezüst, platina: ékszer, elektronika, befektetés (Dél-afrikai Köztársaság);\n- ritka fémek: akkumulátorok, mobiltelefonok, megújuló energia berendezései.\n\nGazdasági jelentőség:\n- a nyersanyagban gazdag fejlődő országok gyakran nyersanyag-exportra szakosodnak, ez kiszolgáltatottá teszi őket a világpiaci áraknak;\n- az ércfeldolgozás (kohászat) nagy energia- és vízigényű;\n- a magyar bauxitbányászat a timföld- és alumíniumipar alapja volt (Ajka), mára jelentősége nagyon lecsökkent.\n\nAz ércek egyre inkább a hulladékokból is visszanyerhetők (újrahasznosítás).",
+      "diagram": null,
+      "concepts": [
+        "érc",
+        "vasérc",
+        "bauxit",
+        "ásványi nyersanyag"
+      ],
+      "processes": [
+        "erckepzodes"
+      ],
+      "examTip": "Gyakori hiba, hogy a bauxitot vasércnek gondolják a vöröses színe miatt. A bauxit alumíniumérc; vöröses színét a vas-oxid adja.",
+      "selfCheck": [
+        {
+          "q": "Mi a bauxit felhasználása?",
+          "a": "Alumíniumgyártás."
+        },
+        {
+          "q": "Hol vannak a nagy vasérc-lelőhelyek?",
+          "a": "Főleg az ősföldeken (pl. Brazília, Ausztrália)."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Chile jelentős rézérc-termelő ország.",
+          "true": true
+        },
+        {
+          "statement": "A bauxit a vasgyártás legfontosabb nyersanyaga.",
+          "true": false,
+          "correction": "A bauxit alumíniumérc; a vasgyártás alapanyaga a vasérc."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--k6",
+      "explanation": "A bányászat jelentős környezeti következményekkel jár.\n\nKülszíni fejtés (pl. lignit Visontán, bauxit egy része):\n- nagy területen eltűnik a talaj és a növényzet, tájsebek keletkeznek;\n- meddőhányók, porszennyezés, zaj.\n\nMélyművelés (pl. kőszén a Mecsekben):\n- a felszín megsüllyedhet, épületek megrongálódhatnak;\n- meddőhányók, bányabalesetek veszélye.\n\nVizek:\n- a bánya víztelenítése miatt süllyed a talaj- és karsztvízszint; a Bakonyban a bauxitbányászat a karsztforrások elapadásához vezetett, és a Hévízi-tó vízutánpótlását is veszélyeztette;\n- savas, nehézfémes bányavizek szennyezhetik a folyókat.\n\nFeldolgozás:\n- a timföldgyártás mellékterméke a vörösiszap; az ajkai tározó gátszakadása 2010-ben súlyos katasztrófát okozott (Kolontár, Devecser);\n- a kohászat légszennyező.\n\nMegoldások: rekultiváció (tavak, erdők, rekreációs területek a bányák helyén), a meddő visszatöltése, zárt technológiák, újrahasznosítás.",
+      "diagram": null,
+      "concepts": [
+        "ásványi nyersanyag",
+        "bauxit",
+        "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+      ],
+      "processes": [],
+      "examTip": "Esszében külön szedd a bányászat és a feldolgozás hatásait, és mindig írj megoldást is (rekultiváció).",
+      "selfCheck": [
+        {
+          "q": "Mi a rekultiváció?",
+          "a": "A bányászat által tönkretett terület helyreállítása, újrahasznosítása."
+        },
+        {
+          "q": "Mi a vörösiszap?",
+          "a": "A timföldgyártás mellékterméke."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A bányák víztelenítése a karsztvízszint süllyedését okozhatja.",
+          "true": true
+        },
+        {
+          "statement": "A külszíni fejtés nem változtatja meg a tájat.",
+          "true": false,
+          "correction": "A külszíni fejtés nagy területen tájsebeket hoz létre, eltünteti a talajt és a növényzetet."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e1",
+      "explanation": "A kőzetanyag-körforgás azt mutatja meg, hogy a kőzetek nem állandók: a földtörténet során egyik típusból a másikba alakulnak.\n\nA körforgás fő lépései:\n- magma kihűlése → magmás kőzet (mélyben: gránit; felszínen: bazalt, andezit);\n- a felszínre került kőzetek mállása, lepusztulása, a törmelék szállítása (víz, szél, jég);\n- lerakódás, majd betemetődés és kőzetté válás (cementálódás) → üledékes kőzet;\n- nagy nyomás és hőmérséklet hatására, megolvadás nélkül → átalakult kőzet (mészkőből márvány, agyagból palás kőzetek);\n- még nagyobb mélységben beolvadás → újra magma.\n\nRövidebb utak is lehetségesek: egy magmás kőzet közvetlenül átalakulhat (gránitból gneisz), vagy egy átalakult kőzet kiemelkedve lepusztulhat.\n\nA körforgást a Föld belső energiája (magmatizmus, lemezmozgások, kiemelkedés) és a Nap energiája által hajtott külső erők (mállás, lepusztítás) együtt tartják mozgásban. Az alábukási övezetekben a lemezzel együtt üledékek is a mélybe kerülnek és beolvadnak.",
+      "diagram": "rock-cycle",
+      "concepts": [
+        "kőzetanyag-körforgás",
+        "magmás kőzet",
+        "üledékes kőzet",
+        "átalakult kőzet",
+        "beolvadás"
+      ],
+      "processes": [
+        "kozetanyag-korforgas"
+      ],
+      "examTip": "Ábránál figyelj: az átalakult kőzet NEM olvad meg keletkezésekor. Ha megolvad, az már magma lesz.",
+      "selfCheck": [
+        {
+          "q": "Milyen energia hajtja a lepusztulást?",
+          "a": "A Nap energiája (külső erők)."
+        },
+        {
+          "q": "Mi lesz az agyagból nagy nyomáson?",
+          "a": "Palás kőzet (pl. agyagpala)."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az üledékes kőzetek lepusztult kőzetanyagból is keletkezhetnek.",
+          "true": true
+        },
+        {
+          "statement": "Az átalakult kőzetek megolvadással jönnek létre.",
+          "true": false,
+          "correction": "Az átalakult kőzetek megolvadás nélkül, szilárd állapotban alakulnak át nagy nyomáson és hőmérsékleten."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e2",
+      "explanation": "A magmás ércképződés során a fémek a magmából, illetve a belőle származó forró oldatokból dúsulnak fel.\n\nSzakaszai:\n- likvid magmás (korai) szakasz: a hűlő magmából elsőként a nehéz, magas olvadáspontú ásványok kristályosodnak ki, és a magmakamra aljára süllyednek. Így jönnek létre a króm-, nikkel-, platina- és egyes vasércek, főleg bázisos magmában (pl. a Dél-afrikai Köztársaság lelőhelyei);\n- pegmatitos szakasz: a maradék, gázokban gazdag magmából ritka fémek ásványai kristályosodnak;\n- hidrotermális (forró oldatos) szakasz: a magma utolsó, forró vizes oldatai a kőzetrésekbe nyomulnak, lehűlnek, és telérek formájában kiválnak belőlük a színes- és nemesfémek: réz, ólom, cink, arany, ezüst. Hazai példa: Recsk (réz), Gyöngyösoroszi (ólom, cink) a Mátrában; Erdélyben a Nagybánya környéki aranyérc.\n\nA magmás ércek ezért vulkáni hegységekben, alábukási övezetekben (Andok – réz) és az ősföldek régi magmás kőzeteiben gyakoriak.\n\nÁbrán a magmakamrát alul, a teléreket felfelé ágazó repedésekként látod.",
+      "diagram": "volcano",
+      "concepts": [
+        "magmás ércképződés",
+        "érc",
+        "telér",
+        "magmakamra",
+        "nehéz-"
+      ],
+      "processes": [
+        "erckepzodes"
+      ],
+      "examTip": "Gyakori hiba, hogy minden ércet magmás eredetűnek tartanak. A bauxit és sok vasérc üledékes ércképződéssel jött létre.",
+      "selfCheck": [
+        {
+          "q": "Mi a telér?",
+          "a": "Kőzetrésben megszilárdult magma vagy ásványkiválás."
+        },
+        {
+          "q": "Mely ércek válnak ki a hidrotermális szakaszban?",
+          "a": "Színes- és nemesfémek (réz, ólom, cink, arany, ezüst)."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A hidrotermális oldatokból színes- és nemesfémek válnak ki.",
+          "true": true
+        },
+        {
+          "statement": "A magmás ércképződés a trópusi mállás terméke.",
+          "true": false,
+          "correction": "A trópusi mállás üledékes ércképződés (pl. bauxit); a magmás ércek a magma kristályosodásakor és forró oldataiból keletkeznek."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e3",
+      "explanation": "Nehézfémek (vas, mangán, króm):\n- a vasérc legnagyobb tömegben üledékes úton keletkezett: az ősi tengerekben kicsapódott vasvegyületekből; ezek a sávos vasércek az ősföldeken vannak (Brazil-ősföld, Nyugat-ausztráliai-ősföld, Kanadai-ősföld);\n- a króm és egyes vasércek magmás úton, a bázisos magmából válnak ki;\n- mangánérc üledékes úton is képződik (hazánkban Úrkút).\n\nSzínesfémek (réz, ólom, cink, ón, alumínium):\n- a réz, ólom, cink főleg hidrotermális oldatokból, telérekben, vulkáni övezetekben keletkezik (Andok, Mátra – Recsk);\n- az alumíniumérc, a bauxit üledékes: trópusi, meleg-nedves éghajlaton a kőzetek mállásával (lateritbauxit), illetve mészkőfelszíneken felhalmozódva (karsztbauxit – Bakony).\n\nNemesfémek (arany, ezüst, platina):\n- magmás, hidrotermális eredetűek (telérek), a platina a bázisos magmából;\n- a lepusztulás során felszabaduló, nehéz aranyszemcsék a folyók hordalékában halmozódnak fel (torlatos arany).\n\nÖsszefoglalva: ugyanaz a fém többféle úton is dúsulhat, a keletkezés helye pedig a nagyszerkezeti egységhez kötődik.",
+      "diagram": null,
+      "concepts": [
+        "nehéz-",
+        "színes- és nemesfémek ércásványai",
+        "laterit- és karsztbauxit",
+        "üledékes ércképződés",
+        "magmás ércképződés"
+      ],
+      "processes": [
+        "erckepzodes"
+      ],
+      "examTip": "A bauxitnál mindig add meg a kétféle típust: lateritbauxit (trópusi mállás) és karsztbauxit (mészkőfelszínen; hazai példa a Bakony).",
+      "selfCheck": [
+        {
+          "q": "Milyen ércképződéssel jött létre a sávos vasérc?",
+          "a": "Üledékes úton, ősi tengerekben."
+        },
+        {
+          "q": "Milyen éghajlat kell a lateritbauxit képződéséhez?",
+          "a": "Trópusi, meleg-nedves."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A karsztbauxit mészkőfelszínen halmozódik fel.",
+          "true": true
+        },
+        {
+          "statement": "A rézérc főleg sivatagi szél által felhalmozott üledékekből keletkezik.",
+          "true": false,
+          "correction": "A rézérc főleg magmás, hidrotermális úton keletkezik, vulkáni övezetekben (pl. Andok)."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e4",
+      "explanation": "A magmás kőzeteket kémiai összetételük, főleg szilícium-dioxid- (kova-) tartalmuk alapján három csoportba sorolod:\n\nSavanyú magmás kőzetek (kovában gazdag):\n- világos színűek, kisebb sűrűségűek; sok kvarc;\n- magmájuk sűrűn folyó, gázgazdag → robbanásos kitörés;\n- mélységi: gránit; kiömlési: riolit (Tokaji-hegység).\n\nSemleges magmás kőzetek (közepes kovatartalom):\n- közepesen sötétek;\n- mélységi: diorit; kiömlési: andezit (Mátra, Börzsöny, Andok).\n\nBázisos magmás kőzetek (kovában szegény, vasban és magnéziumban gazdag):\n- sötét színűek, nagyobb sűrűségűek;\n- magmájuk hígan folyó → csendes lávaömlés;\n- mélységi: gabbró; kiömlési: bazalt (Izland, Hawaii-szigetek, Badacsony).\n\nA két szempontot (keletkezési hely és összetétel) együtt is használhatod: a gránit savanyú mélységi, a bazalt bázisos kiömlési kőzet.\n\nA magma összetétele a lemezszegélyhez kötődik: a hátságokon bázisos, az alábukási övezetekben semleges–savanyú.",
+      "diagram": null,
+      "concepts": [
+        "bázisos",
+        "savanyú és semleges magmás kőzet",
+        "gránit",
+        "andezit",
+        "bazalt",
+        "riolit"
+      ],
+      "processes": [
+        "vulkani-mukodes"
+      ],
+      "examTip": "A „savanyú” itt nem a kémhatásra utal, hanem a magas szilícium-dioxid-tartalomra. Ne keverd a savanyú talajjal!",
+      "selfCheck": [
+        {
+          "q": "Milyen kőzet az andezit összetétel szerint?",
+          "a": "Semleges magmás kőzet."
+        },
+        {
+          "q": "Milyen színű a bázisos kőzet?",
+          "a": "Sötét."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A gránit savanyú mélységi magmás kőzet.",
+          "true": true
+        },
+        {
+          "statement": "A bazalt savanyú kiömlési kőzet.",
+          "true": false,
+          "correction": "A bazalt bázisos kiömlési kőzet; a savanyú kiömlési kőzet a riolit."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-4-a-kozetburok-epitokovei-az-asvanykincsek--e5",
+      "explanation": "Az emberiség ma hatalmas tömegű kőzetet mozgat meg és alakít át: bányászat, építőanyag-gyártás (cement, beton, tégla, üveg), útépítés, ércfeldolgozás. A kitermelt anyag jelentős része meddő, hulladék.\n\nMiért ellentétes ez a fenntarthatósággal?\n- az ásványi nyersanyagok nem megújulók: keletkezésük évmilliókig tart, készleteik kimerülnek;\n- a kitermelés tájsebeket, talajpusztulást, élőhelyek eltűnését okozza;\n- a feldolgozás (cement-, alumínium-, acélgyártás) nagy energiaigényű és sok szén-dioxidot bocsát ki;\n- a meddő és a hulladék elhelyezése szennyezi a talajt és a vizeket (pl. vörösiszap).\n\nFenntartható megoldások:\n- újrahasznosítás: a fémek (alumínium, vas, réz) többször felhasználhatók; az építési törmelék újra beépíthető;\n- takarékos anyaghasználat, hosszabb élettartamú termékek;\n- körforgásos gazdaság: a hulladék nyersanyag;\n- rekultiváció a bányák helyén;\n- helyben elérhető, kisebb környezeti terhelésű anyagok használata.\n\nLényeg: a kőzetanyag-körforgás évmilliók alatt zajlik, az ember viszont néhány évtized alatt bolygatja meg.",
+      "diagram": null,
+      "concepts": [
+        "ásványi nyersanyag",
+        "kőzetanyag-körforgás"
+      ],
+      "processes": [
+        "kozetanyag-korforgas"
+      ],
+      "examTip": "Esszében a „nem megújuló” jellegből indulj ki, majd írj konkrét környezeti hatást és konkrét megoldást (újrahasznosítás, rekultiváció).",
+      "selfCheck": [
+        {
+          "q": "Miért nem megújulók az ásványi nyersanyagok?",
+          "a": "Mert keletkezésük évmilliókig tart, emberi léptékben nem pótlódnak."
+        },
+        {
+          "q": "Melyik fémet érdemes különösen újrahasznosítani nagy energiaigénye miatt?",
+          "a": "Az alumíniumot."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az alumínium újrahasznosítása sok energiát takarít meg.",
+          "true": true
+        },
+        {
+          "statement": "Az ásványi nyersanyagok a felhasználással azonos ütemben újratermelődnek.",
+          "true": false,
+          "correction": "Az ásványi nyersanyagok nem megújulók, keletkezésük évmilliókig tart."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k1",
+      "explanation": "A Föld szárazföldjeit és óceánjait néhány nagyszerkezeti egységre bontjuk, keletkezési koruk és szerkezetük szerint.\n\nSzárazföldi nagyszerkezeti egységek:\n- ősföldek (ősmasszívumok): a földtörténeti őskorban kialakult, nagyon idős, merev, kristályos kőzetekből álló kontinensmagok; lehetnek fedetlenek vagy fedettek (táblás vidék);\n- régi (óidei) hegységrendszerek: a Kaledóniai- és a Variszkuszi-hegységrendszer; ma lepusztult, nagyrészt rögös szerkezetű hegységek;\n- fiatal lánchegységek (hegységrendszerek): az Eurázsiai- és a Pacifikus-hegységrendszer; magas gyűrthegységek, ma is formálódnak;\n- süllyedékterületek: lesüllyedt, fiatal üledékekkel feltöltött medencék, síkságok (pl. Kárpát-medence belseje, Nyugat-szibériai-alföld).\n\nÓceáni nagyszerkezeti egységek:\n- óceánközépi hátság, mélytengeri árok, mélytengeri síkság, óceáni medence.\n\nEgy kontinensen belül általában a belsejében vannak az ősföldek, köréjük „forrnak” az egyre fiatalabb hegységrendszerek. Ezért az idős egységek többnyire belül, a fiatalok a peremeken (pl. Amerika nyugati partján) helyezkednek el.",
+      "diagram": null,
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "hegységrendszer",
+        "süllyedékterület",
+        "óceánközépi hátság",
+        "mélytengeri árok",
+        "óceáni medence"
+      ],
+      "processes": [],
+      "examTip": "Gyakori hiba, hogy a rögös szerkezetű hegységeket a fiatal hegységrendszerekhez sorolják. A rögös hegységek többsége a régi, óidei hegységrendszerek maradványa.",
+      "selfCheck": [
+        {
+          "q": "Mikor alakultak ki az ősföldek?",
+          "a": "A földtörténeti őskorban."
+        },
+        {
+          "q": "Melyek a fiatal hegységrendszerek?",
+          "a": "Az Eurázsiai- és a Pacifikus-hegységrendszer."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Kaledóniai-hegységrendszer régi, óidei hegységrendszer.",
+          "true": true
+        },
+        {
+          "statement": "Az ősföldek a legfiatalabb nagyszerkezeti egységek.",
+          "true": false,
+          "correction": "Az ősföldek a legidősebbek; a földtörténeti őskorban alakultak ki."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k2",
+      "explanation": "Térképen keresd meg a nagyszerkezeti egységeket!\n\nŐsföldek:\n- Kanadai-ősföld (Hudson-öböl környéke), Balti-ősföld (Skandinávia keleti része, Finnország), Angara-ősföld (Közép-Szibéria), Kínai-ősföld;\n- Afrikai-ősföld, Arab-ősföld, Dekkán-ősföld (Hindusztáni-félsziget), Brazil-ősföld, Guyanai-ősföld, Nyugat-ausztráliai-ősföld, Antarktiszi-ősföld.\n\nRégi hegységrendszerek:\n- Kaledóniai: Skandináv-hegység, Skócia hegyei, Appalache északi része;\n- Variszkuszi: Francia-középhegység, Ardennek, Német-középhegység, Szudéták, Urál, Appalache déli része, Nagy-Vízválasztó-hegység.\n\nFiatal hegységrendszerek:\n- Eurázsiai: Atlasz, Pireneusok, Alpok, Appenninek, Kárpátok, Dinári-hegység, Kaukázus, Pamír, Himalája;\n- Pacifikus: Kordillerák, Andok, Kamcsatka-félsziget, Japán-szigetek, Fülöp-szigetek, Új-Zéland.\n\nSüllyedékek, feltöltött síkságok: Kárpát-medence, Pó-alföld, Nyugat-szibériai-alföld, Mississippi-alföld, Hindusztáni-alföld.\n\nÓceánfenék: Közép-atlanti-hátság, Japán-árok, Mariana-árok.\n\nTérképvázlaton a nagy, kerekded foltok a kontinensek belsejében ősföldek, a hosszú, kanyargó sávok hegységrendszerek.",
+      "diagram": null,
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "hegységrendszer",
+        "süllyedékterület",
+        "gyűrthegység",
+        "rögös szerkezetű hegység"
+      ],
+      "processes": [],
+      "examTip": "Vaktérképen gyakori csapda az Urál: régi, Variszkuszi-hegységrendszerhez tartozik, nem fiatal lánchegység.",
+      "selfCheck": [
+        {
+          "q": "Melyik ősföld van a Hindusztáni-félszigeten?",
+          "a": "A Dekkán-ősföld."
+        },
+        {
+          "q": "Melyik hegységrendszerhez tartozik a Skandináv-hegység?",
+          "a": "A Kaledóniai-hegységrendszerhez."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Kanadai-ősföld a Hudson-öböl környékén terül el.",
+          "true": true
+        },
+        {
+          "statement": "Az Urál a fiatal Eurázsiai-hegységrendszer tagja.",
+          "true": false,
+          "correction": "Az Urál a régi, Variszkuszi-hegységrendszer tagja."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k3",
+      "explanation": "Képeken, ábrákon a nagyszerkezeti egységeket a formák, a kőzetek és a rétegek alapján ismered fel.\n\n- Fedetlen ősföld: lapos vagy enyhén hullámos, lecsiszolt, kristályos (gránit, gneisz) sziklafelszín; az egykori jégtakaró nyomán számtalan tó (Finn-tóvidék, Kanadai-ősföld).\n- Fedett ősföld, táblás vidék: vízszintes vagy alig dőlő üledékrétegek, lépcsős lejtők, asztal alakú tanúhegyek, mély kanyonok (Colorado-fennsík kanyonjai).\n- Régi hegységrendszer, rögös szerkezetű hegység: lekerekített, lapos tetejű, erdős hegyek, meredek, vetődéses peremek, közöttük medencék (Német-középhegység).\n- Fiatal gyűrthegység: magas, csipkés gerincek, hó, gleccserek, keresztmetszeten meghajlott, gyűrt rétegek (Alpok, Himalája).\n- Süllyedékterület, feltöltött síkság: teljesen sík felszín, kanyargó folyók, mezőgazdasági táblák (Alföld, Pó-alföld).\n- Óceáni egységek szelvényen: a hátság középen, hasadékvölggyel; az árok keskeny és nagyon mély, szigetív vagy hegység mellett; a mélytengeri síkság lapos.\n\nKeresztmetszeti ábrán a rétegek helyzete a döntő: vízszintes – tábla; meghajlott – gyűrt; elvetett blokkok – rögös.",
+      "diagram": "folds",
+      "concepts": [
+        "táblás vidék",
+        "fedett és fedetlen ősmasszívum",
+        "rögös szerkezetű hegység",
+        "gyűrthegység",
+        "mélytengeri síkság"
+      ],
+      "processes": [],
+      "examTip": "Képfelismerésnél indokolj is! Nem elég annyi, hogy „gyűrthegység”: írd mellé, hogy csipkés gerinc, gleccser, gyűrt rétegek láthatók.",
+      "selfCheck": [
+        {
+          "q": "Mire utalnak a vízszintes üledékrétegek?",
+          "a": "Táblás vidékre (fedett ősföldre)."
+        },
+        {
+          "q": "Mi jellemzi a fedetlen ősföld felszínét?",
+          "a": "Lecsiszolt, kristályos kőzetek, sok tó."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A táblás vidéken a rétegek közel vízszintesek.",
+          "true": true
+        },
+        {
+          "statement": "A fedetlen ősföldeken vastag, fiatal üledéktakaró borítja a felszínt.",
+          "true": false,
+          "correction": "A fedetlen ősföldeken az ősi kristályos kőzetek a felszínen vannak; üledéktakaró a fedett ősföldekre jellemző."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k4",
+      "explanation": "Minden nagyszerkezeti egységnek megvannak a jellemző ásványkincsei, mert a kőzetek keletkezése meghatározza, mi halmozódhatott fel bennük.\n\n- Fedetlen ősföldek: magmás és üledékes ércek – vasérc (Brazil-, Nyugat-ausztráliai-, Kanadai-ősföld), arany, nikkel, urán, gyémánt (Afrikai-ősföld).\n- Fedett ősföldek, táblás vidékek: az üledéktakaróban kőszén, kőolaj, földgáz, kősó, kálisó (Kelet-európai-síkság).\n- Régi (óidei) hegységrendszerek: a karbon időszaki mocsárerdőkből keletkezett feketekőszén a hegységek előterében (Ruhr-vidék, Szilézia, Donyec-medence, Appalache), valamint ércek (Urál).\n- Fiatal lánchegységek: a vulkáni tevékenységhez kötődő színes- és nemesfémércek (réz és ezüst az Andokban), a hegységek előterében kőolaj, földgáz.\n- Süllyedékterületek, medencék: kőolaj, földgáz (Nyugat-szibériai-alföld, Perzsa-öböl térsége, Északi-tenger, hazánkban Algyő), barnakőszén, lignit.\n- Trópusi, lepusztult felszínek: lateritbauxit.\n\nA kapcsolat logikája: az ércek főleg a magmás eredetű egységekhez, az energiahordozók és a sók az üledékes kőzetekhez kötődnek.",
+      "diagram": null,
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "táblás vidék",
+        "süllyedékterület",
+        "érc",
+        "kőolaj",
+        "földgáz"
+      ],
+      "processes": [
+        "erckepzodes",
+        "szenhidrogen-szenkepzodes"
+      ],
+      "examTip": "Tipikus kérdés: miért nincs kőolaj a fedetlen ősföldeken? Mert hiányzik az üledékes kőzettakaró, amelyben szerves anyag halmozódhatott volna fel.",
+      "selfCheck": [
+        {
+          "q": "Milyen nyersanyag jellemző a Variszkuszi-hegységek előterére?",
+          "a": "Feketekőszén."
+        },
+        {
+          "q": "Hol keress kőolajat?",
+          "a": "Süllyedékterületeken, táblás vidékeken, üledékes medencékben."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A fedetlen ősföldeken jelentős vasérc-lelőhelyek vannak.",
+          "true": true
+        },
+        {
+          "statement": "A Ruhr-vidék kőszene fiatal, újidei kőzetekben található.",
+          "true": false,
+          "correction": "A Ruhr-vidék feketekőszene a karbon időszakban, a Variszkuszi-hegységképződés idején keletkezett."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k5",
+      "explanation": "Az ősföldek (ősmasszívumok) a kontinensek legidősebb, merev magjai. Évmilliárdok alatt többször felgyűrődtek, majd teljesen lepusztultak.\n\nSzerkezeti típusok:\n- fedetlen ősmasszívum (pajzs): az ősi kristályos kőzetek (gránit, gneisz, kristályos palák) a felszínen vannak (Kanadai-ősföld, Balti-ősföld, Afrikai- és Brazil-ősföld nagy része);\n- fedett ősmasszívum (tábla): az ősi aljzatot később lerakódott, közel vízszintes üledékrétegek takarják; ez a táblás vidék (Kelet-európai-síkság, Közép-szibériai-fennsík).\n\nMorfológiai (felszínformák szerinti) típusok:\n- alacsony fekvésű, letarolt síkság: a lepusztult ősföld felszíne, amelyet a jég is csiszolt, tavakkal (Finn-tóvidék, a Hudson-öböl környéke);\n- magasra emelt fennsík, felföld: a kéregmozgások felboltozták, peremein meredek lépcsők, folyóin vízesések (Afrikai-, Arab-, Dekkán-, Brazil-ősföld);\n- feldarabolt, árkokkal tagolt ősföld: a felboltozódás során feltöredezett (Afrikai-árokrendszer).\n\nA különbségeket tehát a fedettség és a későbbi kiemelkedés mértéke okozza.",
+      "diagram": null,
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "fedett és fedetlen ősmasszívum",
+        "táblás vidék"
+      ],
+      "processes": [],
+      "examTip": "Ne keverd a „fedett” és a „feltöltött” fogalmat! A fedett ősföldet régi üledékrétegek takarják (tábla), a feltöltött síkság fiatal folyóhordalékból épül.",
+      "selfCheck": [
+        {
+          "q": "Mi a táblás vidék?",
+          "a": "Üledékrétegekkel fedett ősföld."
+        },
+        {
+          "q": "Mondj példát fennsík jellegű ősföldre!",
+          "a": "Dekkán-ősföld (vagy Afrikai-, Brazil-ősföld)."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Balti-ősföld nagy részén az ősi kristályos kőzetek a felszínen vannak.",
+          "true": true
+        },
+        {
+          "statement": "Az ősföldek mindig alacsony fekvésű síkságok.",
+          "true": false,
+          "correction": "Az ősföldek lehetnek magasra emelt fennsíkok is (pl. Afrikai-, Dekkán-ősföld)."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k6",
+      "explanation": "A Kaledóniai- és a Variszkuszi-hegységrendszer a földtörténeti óidőben gyűrődött fel, ezért régi hegységrendszerek.\n\nKaledóniai-hegységrendszer (óidő első fele):\n- Skandináv-hegység, Skócia hegyvidékei, Appalache északi része.\n\nVariszkuszi-hegységrendszer (óidő második fele, a karbon idején is):\n- Európa: Francia-középhegység, Ardennek, Német-középhegység, Szudéták és a Cseh-medence peremhegységei, Urál;\n- Amerika: Appalache déli része;\n- Ausztrália: Nagy-Vízválasztó-hegység.\nA Velencei-hegység gránitja is a Variszkuszi-hegységképződéshez köthető.\n\nSzerkezetük:\n- eredetileg magas gyűrthegységek voltak;\n- hosszú idő alatt letarolódtak, lepusztult tönkfelszínné váltak, kőzeteik megmerevedtek;\n- a fiatal hegységrendszerek kialakulásakor a merev tönk nem gyűrődött, hanem vetődésekkel rögökre darabolódott, egyes rögök kiemelkedtek, mások lesüllyedtek → rögös szerkezetű hegység;\n- az erősen kiemelt rögök megfiatalított rögös szerkezetű hegységet alkotnak (Skandináv-hegység).\n\nEzért formáik lekerekítettek, magasságuk többnyire közepes; kivétel a megfiatalított Skandináv-hegység.",
+      "diagram": "folds",
+      "concepts": [
+        "hegységrendszer",
+        "rögös szerkezetű hegység",
+        "megfiatalított rögös szerkezetű hegység",
+        "vetődés"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Tipikus kérdés: miért rögös szerkezetű a Német-középhegység, ha egykor gyűrthegység volt? Mert lepusztult és megmerevedett, így az újabb nyomás hatására már nem gyűrődött, hanem tört.",
+      "selfCheck": [
+        {
+          "q": "Melyik hegységrendszer a régebbi: a Kaledóniai vagy a Variszkuszi?",
+          "a": "A Kaledóniai."
+        },
+        {
+          "q": "Mondj Variszkuszi-hegységet Ausztráliából!",
+          "a": "Nagy-Vízválasztó-hegység."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Skandináv-hegység a Kaledóniai-hegységrendszer tagja.",
+          "true": true
+        },
+        {
+          "statement": "A Német-középhegység fiatal gyűrthegység.",
+          "true": false,
+          "correction": "A Német-középhegység a Variszkuszi-hegységrendszer lepusztult, rögös szerkezetű tagja."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k7",
+      "explanation": "A fiatal hegységrendszerek a földtörténeti középidő végétől napjainkig formálódnak. Magasak, meredekek, ma is emelkednek, gyakoriak bennük a földrengések.\n\nEurázsiai-hegységrendszer (nagyjából kelet–nyugati irányban, Észak-Afrikától Délkelet-Ázsiáig):\n- Atlasz, Pireneusok, Alpok, Appenninek, Kárpátok, Dinári-hegység, Balkán-hegység;\n- Kaukázus, Kis-Ázsia és az Iráni-felföld peremhegységei;\n- Pamír, Himalája (Csomolungma), az Indokínai-félsziget hegyei, Indonéz-szigetvilág.\n\nPacifikus-hegységrendszer (a Csendes-óceán körül):\n- amerikai ág: Alaszka hegyei, Kordillerák (Sziklás-hegység és a nyugati láncok), Mexikói-fennsík peremhegységei, Andok;\n- ázsiai–ausztráliai ág: Kamcsatka-félsziget, Japán-szigetek, Tajvan, Fülöp-szigetek, Új-Guinea, Új-Zéland.\n\nA két rendszer Délkelet-Ázsiában, az Indonéz-szigetvilág térségében találkozik.\n\nMagyarország szempontjából fontos: a Kárpátok az Eurázsiai-hegységrendszer tagja, a Kárpát-medence pedig a hegységkoszorú belsejében lesüllyedt terület.",
+      "diagram": null,
+      "concepts": [
+        "hegységrendszer",
+        "gyűrthegység",
+        "vulkáni szigetív"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Vaktérképen az Atlaszt gyakran kihagyják az Eurázsiai-hegységrendszerből, pedig Afrikában van. A hegységrendszer neve nem a földrészt jelenti!",
+      "selfCheck": [
+        {
+          "q": "Melyik hegységrendszerhez tartozik a Kárpátok?",
+          "a": "Az Eurázsiai-hegységrendszerhez."
+        },
+        {
+          "q": "Hol találkozik a két fiatal hegységrendszer?",
+          "a": "Délkelet-Ázsiában, az Indonéz-szigetvilágban."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Az Andok a Pacifikus-hegységrendszer tagja.",
+          "true": true
+        },
+        {
+          "statement": "Az Atlasz a Pacifikus-hegységrendszer tagja.",
+          "true": false,
+          "correction": "Az Atlasz az Eurázsiai-hegységrendszer tagja (Észak-Afrikában)."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k8",
+      "explanation": "Hasonlítsd össze az Eurázsiai- és a Pacifikus-hegységrendszert!\n\nKözös vonások:\n- mindkettő fiatal, ma is formálódó lánchegység;\n- magashegységek, meredek, csipkés formák, gleccserek;\n- gyakoriak a földrengések;\n- közeledő lemezszegélyeken jöttek létre.\n\nKülönbségek:\n- elhelyezkedés: az Eurázsiai nagyjából kelet–nyugati irányú sáv, a Pacifikus a Csendes-óceánt veszi körül (Amerikában észak–déli irányú);\n- keletkezés: az Eurázsiai főleg kontinentális lemezek ütközésével (Afrikai-, Arab-, Ausztrál–Indiai-lemez az Eurázsiai-lemezzel), a Pacifikus óceáni lemezek alábukásával jött létre;\n- vulkánosság: az Eurázsiaiban kevesebb a vulkán (pl. Vezúv, Etna), a Pacifikus vulkánokban rendkívül gazdag (Tűzgyűrű);\n- szerkezet: az Eurázsiaira a takarós, erősen gyűrt szerkezet jellemző; a Pacifikust mélytengeri árkok, vulkáni szigetívek, vulkáni hegységek kísérik;\n- legmagasabb csúcs: Eurázsiai – Himalája, Csomolungma; Pacifikus – az Andok legmagasabb csúcsa, az Aconcagua.\n\nMindkettő gazdag színes- és nemesfémércekben, a Pacifikusban ezek a vulkáni tevékenységhez kötődnek.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "hegységrendszer",
+        "gyűrthegység",
+        "mélytengeri árok",
+        "vulkáni szigetív",
+        "alábukás"
+      ],
+      "processes": [
+        "hegysegkepzodes",
+        "lemezmozgasok"
+      ],
+      "examTip": "Összehasonlító feladatban ne csak felsorolj, hanem azonos szempontok szerint állítsd párba a jellemzőket (elhelyezkedés, keletkezés, vulkánosság).",
+      "selfCheck": [
+        {
+          "q": "Melyik hegységrendszerben gyakoribbak a vulkánok?",
+          "a": "A Pacifikusban."
+        },
+        {
+          "q": "Milyen irányú az Eurázsiai-hegységrendszer?",
+          "a": "Nagyjából kelet–nyugati."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Pacifikus-hegységrendszer kialakulásában az alábukás meghatározó.",
+          "true": true
+        },
+        {
+          "statement": "Az Eurázsiai-hegységrendszert főleg óceáni lemezek alábukása hozta létre, ezért vulkánokban a leggazdagabb.",
+          "true": false,
+          "correction": "Az Eurázsiai főleg kontinensütközéssel jött létre, viszonylag kevés vulkánnal; a vulkánokban gazdag a Pacifikus."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k9",
+      "explanation": "A síkságokat két szempont szerint csoportosítjuk.\n\nTengerszint feletti magasságuk szerint:\n- mélyföld: a tengerszint alatt vagy alig felette fekvő síkság (Kaszpi-mélyföld, Holland-mélyföld);\n- alföld: kb. 0–200 m magasságú síkság (Alföld, Pó-alföld, Nyugat-szibériai-alföld);\n- fennsík (felföld): 200 m fölé emelt, sík vagy enyhén hullámos felszín (Dekkán-fennsík, Közép-szibériai-fennsík, Mexikói-fennsík).\n\nKeletkezésük szerint:\n- feltöltött síkság: süllyedő területen a folyók (vagy a szél, a tenger) hordaléka töltötte fel; fiatal, laza üledékek építik (Alföld, Kisalföld, Pó-alföld, Hindusztáni-alföld, Kínai-alföld, Mississippi-alföld, Amazonas-medence);\n- lepusztult (letarolt) síkság: hosszú ideig tartó lepusztulás egyengette el egy egykori hegység vagy ősföld felszínét (Kanadai-ősföld, Finn-tóvidék, Ausztrália nyugati része).\n\nA táblás vidékek síkságai (Kelet-európai-síkság) vízszintes üledékrétegeken alakultak ki, felszínüket a lepusztulás és a jég is formálta.",
+      "diagram": null,
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság",
+        "süllyedékterület",
+        "táblás vidék"
+      ],
+      "processes": [],
+      "examTip": "Gyakori hiba, hogy minden síkságot feltöltöttnek gondolnak. Ha a síkság alatt kemény, ősi kőzet van a felszínen, az lepusztult (letarolt) síkság.",
+      "selfCheck": [
+        {
+          "q": "Milyen síkság a Pó-alföld keletkezése szerint?",
+          "a": "Feltöltött síkság."
+        },
+        {
+          "q": "Mondj példát lepusztult síkságra!",
+          "a": "Kanadai-ősföld (vagy Finn-tóvidék)."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Kaszpi-mélyföld egy része a tengerszint alatt fekszik.",
+          "true": true
+        },
+        {
+          "statement": "A Finn-tóvidék fiatal folyóhordalékkal feltöltött síkság.",
+          "true": false,
+          "correction": "A Finn-tóvidék lepusztult (letarolt) síkság a Balti-ősföldön, felszínét a jég formálta."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k10",
+      "explanation": "Példák síkságtípusokra – keresd meg mindet a térképen!\n\nFeltöltött síkságok:\n- Európa: Alföld és Kisalföld (Kárpát-medence), Pó-alföld, Román-alföld, Germán-alföld, Holland-mélyföld;\n- Ázsia: Hindusztáni-alföld (Gangesz, Indus), Kínai-alföld (Sárga-folyó, Jangce), Mezopotámia (Tigris, Eufrátesz), Nyugat-szibériai-alföld;\n- Amerika: Mississippi-alföld, Amazonas-medence, Paraná-alföld;\n- Ausztrália: Ausztráliai-alföld.\n\nLepusztult (letarolt) síkságok:\n- Kanadai-ősföld a Hudson-öböl körül, Finn-tóvidék (Balti-ősföld);\n- Ausztrália nyugati része (Nyugat-ausztráliai-ősföld).\n\nMélyföldek: Kaszpi-mélyföld, Holland-mélyföld, Turáni-alföld mélyebb részei.\n\nFennsíkok: Dekkán-fennsík, Közép-szibériai-fennsík, Mexikói-fennsík, Brazil-felföld.\n\nTipp: a nagy folyók alsó szakaszán szinte mindig feltöltött síkság van; ha a térképen a síkságot nagy folyó szeli át, deltával vagy széles árterekkel, az feltöltött síkság.",
+      "diagram": null,
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság"
+      ],
+      "processes": [],
+      "examTip": "Vaktérképen a Román-alföldet és a Pó-alföldet szokták összekeverni: a Román-alföld az Al-Duna mentén, a Déli-Kárpátoktól délre fekszik, a Pó-alföld Észak-Olaszországban.",
+      "selfCheck": [
+        {
+          "q": "Melyik folyó töltötte fel a Pó-alföldet?",
+          "a": "A Pó."
+        },
+        {
+          "q": "Hol van a Hindusztáni-alföld?",
+          "a": "Dél-Ázsiában, a Gangesz és az Indus mentén."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A Kínai-alföldet a Sárga-folyó és a Jangce hordaléka töltötte fel.",
+          "true": true
+        },
+        {
+          "statement": "A Mississippi-alföld lepusztult síkság.",
+          "true": false,
+          "correction": "A Mississippi-alföld feltöltött síkság, a Mississippi és mellékfolyói hordalékából."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--k11",
+      "explanation": "A síkságok, különösen a feltöltött síkságok a Föld gazdaságilag legfontosabb területei közé tartoznak.\n\nMezőgazdaság:\n- termékeny talajok: öntés- és réti talajok a folyók mentén, csernozjom (mezőségi talaj) a mérsékelt övi füves területeken (Préri, Kelet-európai-síkság, Alföld);\n- könnyű gépesítés, nagy táblák;\n- öntözési lehetőség: Pó-alföld, Kínai-alföld, Hindusztáni-alföld, Mezopotámia, Nílus völgye – ősi öntözéses kultúrák.\n\nNépesség és települések:\n- a Föld népességének nagy része síkságokon, folyóvölgyekben él; itt alakultak ki a korai civilizációk és ma is sok nagyváros.\n\nKözlekedés, infrastruktúra:\n- olcsóbb út- és vasútépítés, folyami hajózás.\n\nNyersanyagok:\n- a süllyedékek üledékeiben kőolaj, földgáz (Algyő, Nyugat-szibériai-alföld), lignit, homok, kavics, agyag; termálvíz.\n\nVeszélyek: árvíz, belvíz, aszály, talajszikesedés öntözés hatására; a sűrű népesség miatt nagy a beépítés és a környezetterhelés.",
+      "diagram": null,
+      "concepts": [
+        "feltöltött és lepusztult (letarolt) síkság",
+        "süllyedékterület",
+        "kőolaj",
+        "földgáz"
+      ],
+      "processes": [],
+      "examTip": "Esszében kösd össze a természeti adottságot és a gazdasági következményt: sík felszín → gépesítés; folyóhordalék → termékeny talaj; folyó → öntözés.",
+      "selfCheck": [
+        {
+          "q": "Miért alakultak ki az ősi civilizációk folyók menti síkságokon?",
+          "a": "Termékeny talaj, öntözési lehetőség, könnyű közlekedés miatt."
+        },
+        {
+          "q": "Milyen veszélyek fenyegetik a feltöltött síkságokat?",
+          "a": "Árvíz, belvíz, öntözés okozta szikesedés."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A feltöltött síkságok üledékeiben kőolaj és földgáz is előfordulhat.",
+          "true": true
+        },
+        {
+          "statement": "A síkságok gazdaságilag kevésbé hasznosíthatók, mint a hegyvidékek.",
+          "true": false,
+          "correction": "A síkságok a mezőgazdaság, a települések és a közlekedés legkedvezőbb területei."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--e1",
+      "explanation": "A nagyszerkezeti egységek formakincse a keletkezésük óta eltelt időtől, a kőzetektől és a későbbi mozgásoktól függ.\n\n- Ősföldek: évmilliárdos lepusztulás után tönkfelszín, letarolt síkság jött létre. Az északi ősföldeket (Kanadai, Balti) a jégtakaró csiszolta, mélyedéseiben tavak sorakoznak. A déli ősföldeket felboltozódás emelte magas fennsíkká; peremükön meredek lépcsők, vízesések, árkok (Afrika).\n- Táblás vidékek: a vízszintes rétegekbe a folyók kanyonokat, lépcsős völgyeket vágnak, a keményebb rétegek tanúhegyeket, fennsíkokat alkotnak.\n- Régi hegységrendszerek: lepusztulás → tönk → feldarabolódás → rögök, sasbércek, árkok, medencék; lekerekített, lapos tetejű hegyek. A megfiatalított rögöket (Skandináv-hegység) a jég újra formálta: fjordok, jégvájta völgyek.\n- Fiatal lánchegységek: a kiemelkedés gyorsabb a lepusztulásnál, ezért magasak; a jég és a fagy munkája csipkés gerinceket, kárfülkéket, U alakú völgyeket hozott létre.\n- Süllyedékek: a süllyedés helyén a folyók hordaléka feltöltött síkságot épít.\n\nA formakincs a belső (kiemelés, süllyedés) és a külső erők (lepusztulás, feltöltés) versengésének eredménye.",
+      "diagram": null,
+      "concepts": [
+        "ősföld (ősmasszívum)",
+        "táblás vidék",
+        "megfiatalított rögös szerkezetű hegység",
+        "süllyedékterület",
+        "gyűrthegység"
+      ],
+      "processes": [
+        "hegysegkepzodes"
+      ],
+      "examTip": "Esszében mindig két oldalról magyarázz: mit tett a belső erő (emelés, süllyesztés) és mit a külső erő (lepusztítás, feltöltés). Így lesz teljes a válasz.",
+      "selfCheck": [
+        {
+          "q": "Miért magasak a fiatal lánchegységek?",
+          "a": "Mert a kiemelkedés gyorsabb, mint a lepusztulás."
+        },
+        {
+          "q": "Mi formálta a Balti-ősföld tavakkal tarkított felszínét?",
+          "a": "A jégkorszaki jégtakaró."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "A táblás vidékeken gyakoriak a tanúhegyek és a kanyonok.",
+          "true": true
+        },
+        {
+          "statement": "A régi hegységrendszerek magasabbak, mint a fiatal lánchegységek, mert több idejük volt kiemelkedni.",
+          "true": false,
+          "correction": "A régi hegységrendszerek a hosszú lepusztulás miatt alacsonyabbak; a fiatal lánchegységek a magasabbak."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "objectiveId": "3-1-5-a-fold-nagyszerkezeti-egysegei--e2",
+      "explanation": "A kontinensek területe a földtörténet során folyamatosan változik.\n\nGyarapító folyamatok:\n- alábukási övezetekben a beolvadásból keletkező magma a kontinens peremén megszilárdul (vulkáni hegységek, mélységi magmás tömegek), így új kontinentális kéreg jön létre (Andok);\n- vulkáni szigetívek, óceáni üledékek és kisebb kéregdarabok a kontinens peremére „forrnak” (hozzáforrasztás) az ütközéskor;\n- hegységképződés: az egykori tengermedencék üledékei felgyűrődnek, és a kontinens részévé válnak (Alpok, Himalája);\n- a folyók feltöltő munkája (delták) kis mértékben szintén növeli a szárazföldet.\n\nFogyasztó folyamatok:\n- kontinens felhasadása: hasadékvölgy, majd új óceán nyílik (Afrikai-árokrendszer, Vörös-tenger);\n- az alábukás során a kontinens pereméről lekapart üledékek a mélybe kerülnek és beolvadnak;\n- kontinensütközéskor a kéreg összenyomódik: vastagsága nő, de területe csökken;\n- lepusztulás és a tenger abráziója, az anyag óceánba szállítása.\n\nFontos: a gyarapodó és fölemésztődő lemezszegélyek fogalom az óceáni kéregre vonatkozik (hátság – árok); a kontinentális kéreg viszont nem tűnik el, csak átrendeződik.",
+      "diagram": "plate-boundaries",
+      "concepts": [
+        "gyarapodó és fölemésztődő lemezszegélyek",
+        "alábukás",
+        "beolvadás",
+        "hasadékvölgy",
+        "kontinentális kéreg"
+      ],
+      "processes": [
+        "lemezmozgasok",
+        "hegysegkepzodes"
+      ],
+      "examTip": "Ne keverd: az óceánközépi hátság az óceáni kérget gyarapítja, nem a kontinensek területét! A kontinens felhasadása épp fogyasztja a kontinens területét.",
+      "selfCheck": [
+        {
+          "q": "Hogyan növeli az alábukás a kontinens területét?",
+          "a": "A beolvadásból keletkező magma a perem mentén új kontinentális kérget épít."
+        },
+        {
+          "q": "Mondj példát kontinens felhasadására!",
+          "a": "Afrikai-árokrendszer, Vörös-tenger."
+        }
+      ],
+      "trueFalse": [
+        {
+          "statement": "Kontinensütközéskor a kéreg vastagsága nő, de területe csökkenhet.",
+          "true": true
+        },
+        {
+          "statement": "Az óceánközépi hátságok a kontinensek területét gyarapítják.",
+          "true": false,
+          "correction": "Az óceánközépi hátságok az óceáni kérget gyarapítják; a kontinensek területét főleg az alábukáshoz kötődő magmatizmus és a hozzáforrasztás növeli."
+        }
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  ]
+}

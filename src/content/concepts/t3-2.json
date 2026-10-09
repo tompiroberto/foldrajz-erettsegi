@@ -1,0 +1,3370 @@
+{
+  "entries": [
+    {
+      "id": "also-kozepso-es-felso-legkor",
+      "term": "alsó, középső és felső légkör",
+      "aliases": [],
+      "sourceLabels": [
+        "alsó",
+        "középső és felső légkör"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A légkört a hőmérséklet magasság szerinti változása alapján rétegekre (szférákra) osztjuk. Az alsó légkör a troposzféra, a középső légkör a sztratoszféra és a mezoszféra, a felső légkör a termoszféra és az exoszféra.",
+      "example": "Az időjárási jelenségek az alsó légkörben, a sarki fény a felső légkörben jelenik meg.",
+      "related": [
+        "troposzfera",
+        "sztratoszfera",
+        "mezoszfera",
+        "termoszfera",
+        "exoszfera"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "troposzfera",
+      "term": "troposzféra",
+      "aliases": [],
+      "sourceLabels": [
+        "troposzféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A légkör legalsó rétege, vastagsága a sarkoknál kb. 8 km, az Egyenlítőnél kb. 17 km. Itt található a légkör tömegének nagy része és szinte az összes vízgőz, felfelé haladva a hőmérséklet csökken. Ebben a rétegben zajlanak az időjárási jelenségek.",
+      "example": "A Kékesen általában hűvösebb van, mint az alföldi településeken, mert magasabban fekszik.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--kekes"
+      ],
+      "related": [
+        "also-kozepso-es-felso-legkor",
+        "sztratoszfera",
+        "idojaras"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sztratoszfera",
+      "term": "sztratoszféra",
+      "aliases": [],
+      "sourceLabels": [
+        "sztratoszféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A troposzféra feletti réteg, kb. 50 km magasságig. Benne található az ózonréteg, amely elnyeli a Nap ultraibolya sugárzását, ezért itt a hőmérséklet felfelé haladva emelkedik. Függőleges légmozgás alig van benne, ezért nincs időjárás.",
+      "example": "A nagy távolságú utasszállító repülőgépek a troposzféra felső részén, a sztratoszféra alsó határa közelében repülnek.",
+      "related": [
+        "ozonreteg",
+        "troposzfera",
+        "mezoszfera"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ozonreteg",
+      "term": "ózonréteg",
+      "aliases": [],
+      "sourceLabels": [
+        "ózonréteg"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A sztratoszférában, nagyjából 20–30 km magasságban található, viszonylag nagy ózontartalmú réteg. Elnyeli a Nap élőlényekre káros ultraibolya (UV) sugárzásának nagy részét, így védi a földi életet.",
+      "example": "Az Antarktisz fölött tavasszal az ózonréteg erősen elvékonyodik (ózonlyuk).",
+      "examplePlaces": [
+        "fold--egyeb--deli-sarkvidek-antarktisz"
+      ],
+      "related": [
+        "sztratoszfera",
+        "ozonreteg-elvekonyodas"
+      ],
+      "tags": [
+        "légkör",
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mezoszfera",
+      "term": "mezoszféra",
+      "aliases": [],
+      "sourceLabels": [
+        "mezoszféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A sztratoszféra feletti réteg, kb. 50 és 80–85 km között. Felfelé haladva a hőmérséklet ismét csökken, felső határán található a légkör leghidegebb része.",
+      "example": "A hullócsillagok (meteorok) többsége a mezoszférában ég el.",
+      "related": [
+        "sztratoszfera",
+        "termoszfera"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "termoszfera",
+      "term": "termoszféra",
+      "aliases": [],
+      "sourceLabels": [
+        "termoszféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A mezoszféra feletti, rendkívül ritka levegőjű réteg, amely több száz km magasságig terjed. A Nap rövidhullámú sugárzásának elnyelése miatt a hőmérséklet felfelé erősen emelkedik, a gázok részben ionizált állapotban vannak (ionoszféra).",
+      "example": "A sarki fény és a Nemzetközi Űrállomás pályája is a termoszférában van.",
+      "related": [
+        "ionoszfera",
+        "exoszfera",
+        "mezoszfera"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "exoszfera",
+      "term": "exoszféra",
+      "aliases": [],
+      "sourceLabels": [
+        "exoszféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A légkör legkülső, rendkívül ritka rétege, amely fokozatosan megy át a bolygóközi térbe. Innen a könnyű gázrészecskék (hidrogén, hélium) kiszökhetnek a világűrbe.",
+      "example": "Sok műhold az exoszférában kering, mert ott a légellenállás már elhanyagolható.",
+      "related": [
+        "termoszfera",
+        "also-kozepso-es-felso-legkor"
+      ],
+      "tags": [
+        "légkör",
+        "űrkutatás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ionoszfera",
+      "term": "ionoszféra",
+      "aliases": [],
+      "sourceLabels": [
+        "ionoszféra"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "emelt",
+      "definition": "A felső légkör (főként a termoszféra) ionizált része, ahol a Nap ultraibolya és röntgensugárzása elektromosan töltött részecskékké (ionokká) alakítja a gázokat. Visszaveri a rövidhullámú rádióhullámokat, ami lehetővé teszi a nagy távolságú rádióösszeköttetést.",
+      "example": "A napkitörések az ionoszférát megzavarják, ilyenkor romlik a rövidhullámú rádióvétel, és erősebb a sarki fény.",
+      "related": [
+        "termoszfera"
+      ],
+      "tags": [
+        "légkör",
+        "űrkutatás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "allando-valtozo-es-erosen-valtozo-gazok",
+      "term": "állandó, változó és erősen változó gázok",
+      "aliases": [],
+      "sourceLabels": [
+        "állandó",
+        "változó és erősen változó gázok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A légkört alkotó gázokat aszerint csoportosítjuk, hogy arányuk térben és időben mennyire változik. Az állandó gázok aránya gyakorlatilag mindenhol azonos, a változó gázoké lassan, az erősen változó gázoké helytől és időtől függően gyorsan és nagy mértékben ingadozik.",
+      "example": "A nitrogén aránya Budapesten és a Szahara fölött is ugyanannyi, a vízgőzé viszont nagyon különböző.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "allando-gazok",
+        "valtozo-gazok",
+        "erosen-valtozo-gazok",
+        "vendeganyagok"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "allando-gazok",
+      "term": "állandó gázok",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "allando-valtozo-es-erosen-valtozo-gazok",
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "Azok a légköri gázok, amelyek aránya a troposzférában gyakorlatilag nem változik: a nitrogén (kb. 78%), az oxigén (kb. 21%) és a nemesgázok (főként argon, kb. 0,9%).",
+      "example": "Együtt a száraz levegő több mint 99,9%-át adják.",
+      "related": [
+        "valtozo-gazok",
+        "erosen-valtozo-gazok"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "valtozo-gazok",
+      "term": "változó gázok",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "allando-valtozo-es-erosen-valtozo-gazok",
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "Azok a légköri gázok, amelyek mennyisége hosszabb idő alatt, lassan változik, legfontosabb a szén-dioxid (ma kb. 0,04%). Arányukat napjainkban főként az emberi tevékenység növeli.",
+      "example": "A szén-dioxid mennyisége az ipari forradalom óta a fosszilis tüzelőanyagok égetése miatt folyamatosan nő.",
+      "related": [
+        "uveghazgazok",
+        "az-uveghazhatas-fokozodasa"
+      ],
+      "tags": [
+        "légkör",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "erosen-valtozo-gazok",
+      "term": "erősen változó gázok",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "allando-valtozo-es-erosen-valtozo-gazok",
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "Azok a légköri gázok, amelyek mennyisége helytől és időtől függően gyorsan és nagy mértékben ingadozik, legfontosabb a vízgőz (0–4%). Ide tartozik az ózon és számos szennyező gáz (kén-dioxid, nitrogén-oxidok, szén-monoxid) is.",
+      "example": "Az Amazonas-medence párás levegőjében sokkal több vízgőz van, mint a Szahara fölött.",
+      "examplePlaces": [
+        "amerika--tajak--amazonas-medence",
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "tenyleges-vizgoztartalom",
+        "legszennyezo-anyagok"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vendeganyagok",
+      "term": "vendéganyagok",
+      "aliases": [],
+      "sourceLabels": [
+        "vendéganyagok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.1. A légkör anyaga és szerkezete",
+      "level": "kozep",
+      "definition": "A levegőben lebegő szilárd és cseppfolyós részecskék: por, korom, hamu, virágpor, sókristályok, vízcseppek, jégkristályok, mikroorganizmusok. Természetes és emberi eredetűek lehetnek; kicsapódási magként fontos szerepük van a felhőképződésben.",
+      "example": "Szaharai porfelhő idején a Kárpát-medence fölött is sárgás színű az ég.",
+      "examplePlaces": [
+        "afrika--tajak--szahara",
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "kondenzacios-mag",
+        "legszennyezo-anyagok"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "besugarzas",
+      "term": "besugárzás",
+      "aliases": [],
+      "sourceLabels": [
+        "besugárzás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A Napból érkező, főként rövidhullámú sugárzás, amely a légkörön áthaladva eléri a felszínt. Mértéke a napsugarak hajlásszögétől (minél meredekebb, annál nagyobb) és a napfénytartamtól függ.",
+      "example": "Az Egyenlítő környékén a közel merőleges napsugarak miatt egész évben nagy a besugárzás.",
+      "related": [
+        "visszaverodes",
+        "elnyelodes",
+        "kisugarzas",
+        "napallando"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "visszaverodes",
+      "term": "visszaverődés",
+      "aliases": [],
+      "sourceLabels": [
+        "visszaverődés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A napsugárzásnak az a része, amelyet a felhők, a légkör részecskéi és a földfelszín visszavernek a világűr felé. A visszavert sugárzás nem melegíti a felszínt és a levegőt.",
+      "example": "A friss hótakaró a sugárzás nagy részét visszaveri, ezért havas, derült napokon is hideg marad a levegő.",
+      "related": [
+        "albedo",
+        "besugarzas",
+        "elnyelodes"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "elnyelodes",
+      "term": "elnyelődés",
+      "aliases": [],
+      "sourceLabels": [
+        "elnyelődés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A sugárzás energiájának hővé alakulása egy anyagban. A napsugárzás kisebb részét a légkör (ózon, vízgőz, szén-dioxid, felhők), nagyobb részét a földfelszín nyeli el, ezért a levegő közvetlenül kevéssé, főként a felszín felől melegszik.",
+      "example": "A sötét aszfalt sok sugárzást nyel el, ezért nyáron jobban felforrósodik, mint a világos homok.",
+      "related": [
+        "besugarzas",
+        "kisugarzas",
+        "albedo"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kisugarzas",
+      "term": "kisugárzás",
+      "aliases": [],
+      "sourceLabels": [
+        "kisugárzás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A felmelegedett földfelszín (és légkör) által kibocsátott hosszúhullámú (infravörös) hősugárzás. Ez a levegő legfontosabb hőforrása, ezért a levegő alulról melegszik; éjszaka és télen a kisugárzás meghaladja a besugárzást, és a felszín lehűl.",
+      "example": "Derült, szélcsendes éjszakán a kisugárzás akadálytalan, ezért reggelre erősen lehűl a levegő.",
+      "related": [
+        "besugarzas",
+        "uveghazhatas",
+        "felmelegedes-es-lehules"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "uveghazhatas",
+      "term": "üvegházhatás",
+      "aliases": [],
+      "sourceLabels": [
+        "üvegházhatás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A légkör a rövidhullámú napsugárzás nagy részét átengedi, a felszín hosszúhullámú kisugárzását viszont az üvegházgázok elnyelik és részben visszasugározzák a felszín felé. Ez a természetes folyamat teszi lakhatóvá a Földet: nélküle a felszín közeli átlaghőmérséklet kb. −18 °C lenne a mai kb. +15 °C helyett.",
+      "example": "Felhős éjszakán kevésbé hűl le a levegő, mert a felhők visszatartják a kisugárzást.",
+      "related": [
+        "uveghazgazok",
+        "kisugarzas",
+        "az-uveghazhatas-fokozodasa"
+      ],
+      "tags": [
+        "légkör",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "uveghazgazok",
+      "term": "üvegházgázok",
+      "aliases": [],
+      "sourceLabels": [
+        "üvegházgázok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "Azok a légköri gázok, amelyek a felszín hosszúhullámú kisugárzását elnyelik, és így üvegházhatást okoznak. A legfontosabbak: vízgőz, szén-dioxid, metán, dinitrogén-oxid, ózon és a freonok.",
+      "example": "A metán fő emberi forrásai a rizsföldek, a szarvasmarha-tartás és a hulladéklerakók.",
+      "related": [
+        "uveghazhatas",
+        "az-uveghazhatas-fokozodasa",
+        "valtozo-gazok"
+      ],
+      "tags": [
+        "légkör",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "albedo",
+      "term": "sugárzás-visszaverő képesség (albedó)",
+      "aliases": [
+        "albedó",
+        "sugárzás-visszaverő képesség"
+      ],
+      "sourceLabels": [
+        "sugárzás-visszaverő képesség (albedó)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "Egy felület által visszavert sugárzás és a felületre érkező sugárzás aránya, százalékban kifejezve. Minél világosabb a felszín, annál nagyobb az albedója, és annál kevésbé melegszik fel.",
+      "example": "A friss hó és a jégtakaró albedója nagy, a sötét erdőé és a nyílt tengeré kicsi; Grönland jegének olvadása ezért gyorsítja a felmelegedést.",
+      "related": [
+        "visszaverodes",
+        "elnyelodes"
+      ],
+      "tags": [
+        "légkör",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felmelegedes-es-lehules",
+      "term": "felmelegedés és lehűlés",
+      "aliases": [],
+      "sourceLabels": [
+        "felmelegedés és lehűlés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A levegő hőmérsékletének változása, amelyet a besugárzás és a kisugárzás egymáshoz viszonyított nagysága határoz meg. A levegő elsősorban a felszín felől, alulról melegszik fel és hűl le.",
+      "example": "A szárazföld gyorsabban melegszik fel és hűl le, mint a víz, ezért a Balaton partján kiegyenlítettebb a hőmérséklet.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton"
+      ],
+      "related": [
+        "felmelegedes",
+        "lehules",
+        "homerseklet-napi-es-evi-jarasa"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felmelegedes",
+      "term": "felmelegedés",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felmelegedes-es-lehules",
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "Akkor következik be, amikor a felszín több sugárzást nyel el, mint amennyit kisugároz (nappal, nyáron). A felmelegedett felszín kisugárzással, hővezetéssel és a feláramló levegővel adja át a hőt a levegőnek.",
+      "example": "Nyári délutánokon a felmelegedett felszín fölött feláramlás indul, gomolyfelhők képződnek.",
+      "related": [
+        "kisugarzas",
+        "gomolyfelho"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lehules",
+      "term": "lehűlés",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felmelegedes-es-lehules",
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "Akkor következik be, amikor a kisugárzás meghaladja a besugárzást (éjszaka, télen). Derült, szélcsendes időben a legerősebb, ilyenkor gyakori a harmat, a dér, a köd és a hőmérsékleti inverzió.",
+      "example": "Téli anticiklonban a medencék aljára hideg levegő gyűlik.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "kisugarzas",
+        "inverzio",
+        "harmatpont"
+      ],
+      "tags": [
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "homerseklet-napi-es-evi-jarasa",
+      "term": "a hőmérséklet napi és évi járása",
+      "aliases": [],
+      "sourceLabels": [
+        "a hőmérséklet napi és évi járása"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A hőmérséklet szabályos változása a nap, illetve az év folyamán. A napi járás a Föld forgásával függ össze: a minimum napkelte körül, a maximum kora délután alakul ki. Az évi járás a Föld keringésével és a forgástengely ferdeségével függ össze: Magyarországon általában január a leghidegebb és július a legmelegebb hónap.",
+      "example": "A legmagasabb hőmérséklet nem délben, hanem 1–2 órával később mérhető, mert a felszín ekkor sugároz ki a legtöbb hőt.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "napi-hoingas",
+        "evi-kozepes-hoingas",
+        "kozephomerseklet"
+      ],
+      "tags": [
+        "légkör",
+        "Föld-mozgásai",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kozephomerseklet",
+      "term": "napi, havi és évi középhőmérséklet",
+      "aliases": [],
+      "sourceLabels": [
+        "napi",
+        "havi és évi középhőmérséklet"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A napi középhőmérséklet a nap folyamán meghatározott időpontokban mért értékek számtani átlaga. A havi középhőmérséklet a hónap napi középhőmérsékleteinek, az évi középhőmérséklet a 12 havi középhőmérsékletnek az átlaga.",
+      "example": "Ha egy nap négy mérése 4, 10, 16 és 10 °C, a napi középhőmérséklet (4+10+16+10)/4 = 10 °C.",
+      "related": [
+        "napi-hoingas",
+        "evi-kozepes-hoingas",
+        "abszolut-hoingas",
+        "izoterma"
+      ],
+      "tags": [
+        "légkör",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "napi-hoingas",
+      "term": "napi hőingás",
+      "aliases": [],
+      "sourceLabels": [
+        "napi hőingás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "Egy napon belül mért legmagasabb és legalacsonyabb hőmérséklet különbsége. Száraz, derült, szárazföldi helyeken nagy, párás, felhős és tengerparti helyeken kicsi.",
+      "example": "A Szaharában a napi hőingás nagy: nappal forróság, éjjel erős lehűlés jellemző.",
+      "examplePlaces": [
+        "afrika--tajak--szahara"
+      ],
+      "related": [
+        "homerseklet-napi-es-evi-jarasa",
+        "evi-kozepes-hoingas"
+      ],
+      "tags": [
+        "légkör",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "evi-kozepes-hoingas",
+      "term": "évi közepes hőingás",
+      "aliases": [],
+      "sourceLabels": [
+        "évi közepes hőingás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "A legmelegebb és a leghidegebb hónap középhőmérsékletének különbsége. A szárazföldi (kontinentális) hatás erősségét mutatja: az óceántól távol nagy, tengerparton és az Egyenlítő közelében kicsi.",
+      "example": "Ha a januári középhőmérséklet −1 °C, a júliusi 21 °C, az évi közepes hőingás 22 °C; Szibéria belsejében ennél sokkal nagyobb.",
+      "examplePlaces": [
+        "azsia--tajak--sziberia"
+      ],
+      "related": [
+        "napi-hoingas",
+        "abszolut-hoingas",
+        "kozephomerseklet"
+      ],
+      "tags": [
+        "légkör",
+        "éghajlat",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "abszolut-hoingas",
+      "term": "abszolút hőingás",
+      "aliases": [],
+      "sourceLabels": [
+        "abszolút hőingás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "Egy adott helyen a megfigyelések teljes időszaka alatt mért legmagasabb és legalacsonyabb hőmérséklet különbsége.",
+      "example": "Magyarország mért szélsőértékei 41,9 °C (Kiskunhalas, 2007) és −35 °C (Miskolc környéke, 1940), az ország abszolút hőingása tehát kb. 77 °C.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--miskolc"
+      ],
+      "related": [
+        "evi-kozepes-hoingas",
+        "napi-hoingas"
+      ],
+      "tags": [
+        "légkör",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "izoterma",
+      "term": "izoterma",
+      "aliases": [],
+      "sourceLabels": [
+        "izoterma"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "kozep",
+      "definition": "Térképen az azonos (többnyire tengerszintre átszámított) hőmérsékletű pontokat összekötő vonal. Az izotermák lefutásából következtethetünk a hőmérséklet területi eloszlására és a kontinentalitásra.",
+      "example": "Európa januári izotermái észak–déli irányúak, mert nyugatról a tenger enyhítő hatása érvényesül.",
+      "related": [
+        "kozephomerseklet",
+        "izobar"
+      ],
+      "tags": [
+        "légkör",
+        "térkép",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "napfenytartam",
+      "term": "napfénytartam",
+      "aliases": [],
+      "sourceLabels": [
+        "napfénytartam"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "emelt",
+      "definition": "Az az időtartam (órában), amíg a Nap közvetlenül, felhők által nem takarva süt egy adott helyen; többnyire évi összegként adjuk meg. Függ a földrajzi szélességtől, a felhőzettől és a domborzattól.",
+      "example": "Magyarországon a legtöbb napsütéses óra az Alföld déli részén, Szeged környékén van.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--szeged"
+      ],
+      "related": [
+        "besugarzas",
+        "idojarasi-es-eghajlati-elemek"
+      ],
+      "tags": [
+        "légkör",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "lejtokitettseg",
+      "term": "lejtőkitettség",
+      "aliases": [],
+      "sourceLabels": [
+        "lejtőkitettség"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "emelt",
+      "definition": "A lejtő égtáj szerinti fekvése (iránya), amely meghatározza, milyen szögben érik a napsugarak. Az északi félgömbön a déli kitettségű lejtők több sugárzást kapnak, ezért melegebbek és szárazabbak, mint az északi lejtők.",
+      "example": "A Balaton-felvidék és a Badacsony déli lejtőin a nagy besugárzás kedvez a szőlőtermesztésnek.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--balaton-felvidek",
+        "magyarorszag--egyeb-tajak-teruletek--badacsony"
+      ],
+      "related": [
+        "besugarzas",
+        "mikroklima"
+      ],
+      "tags": [
+        "légkör",
+        "mezőgazdaság",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "inverzio",
+      "term": "fordított hőrétegződés (hőmérsékleti inverzió)",
+      "aliases": [
+        "hőmérsékleti inverzió",
+        "fordított hőrétegződés",
+        "inverzió"
+      ],
+      "sourceLabels": [
+        "fordított hőrétegződés (hőmérsékleti inverzió)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "emelt",
+      "definition": "Olyan légköri helyzet, amikor egy légrétegben a hőmérséklet a magassággal nem csökken, hanem nő. Derült, szélcsendes éjszakákon és téli anticiklonban alakul ki, főként medencékben és völgyekben, ahol a hideg, sűrű levegő a mélyben gyűlik össze; megakadályozza a függőleges légkeveredést, ezért kedvez a köd és a szmog kialakulásának.",
+      "example": "Téli anticiklonos helyzetben a Kárpát-medencében napokig köd és szennyezett levegő marad meg, miközben a hegytetőkön napos, enyhébb az idő.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence",
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "anticiklon",
+        "kod",
+        "fustkod-szmog",
+        "lehules"
+      ],
+      "tags": [
+        "légkör",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tenyeszidoszak",
+      "term": "tenyészidőszak",
+      "aliases": [],
+      "sourceLabels": [
+        "tenyészidőszak"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "emelt",
+      "definition": "Az év azon része, amikor a napi középhőmérséklet tartósan meghaladja a növények fejlődéséhez szükséges küszöbértéket (általában 10 °C-ot), így a növények növekedhetnek. Hossza a földrajzi szélességgel és a tengerszint feletti magassággal csökken.",
+      "example": "A Skandináv-félsziget északi részén a rövid tenyészidőszak miatt alig lehetséges szántóföldi gazdálkodás.",
+      "examplePlaces": [
+        "europa--tajak--skandinav-felsziget"
+      ],
+      "related": [
+        "hoosszeg"
+      ],
+      "tags": [
+        "éghajlat",
+        "mezőgazdaság",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hoosszeg",
+      "term": "hőösszeg",
+      "aliases": [],
+      "sourceLabels": [
+        "hőösszeg"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "emelt",
+      "definition": "A tenyészidőszak napi középhőmérsékleteinek összege, amely kifejezi, mennyi hőt kap egy terület a növények fejlődéséhez. Minden kultúrnövénynek meghatározott hőösszegre van szüksége a beéréshez, ezért ez határozza meg a termeszthetőség határait.",
+      "example": "A kukorica és a szőlő nagy hőigénye miatt Észak-Európában nem termeszthető gazdaságosan.",
+      "related": [
+        "tenyeszidoszak"
+      ],
+      "tags": [
+        "éghajlat",
+        "mezőgazdaság",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "napallando",
+      "term": "napállandó",
+      "aliases": [],
+      "sourceLabels": [
+        "napállandó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.2. A levegő felmelegedése",
+      "level": "emelt",
+      "definition": "A légkör felső határán, a napsugarakra merőleges egységnyi felületre időegység alatt érkező napsugárzás energiája a Föld közepes naptávolságában. Értéke kb. 1,36 kW/m².",
+      "example": "A felszínre ennél jóval kevesebb energia jut, mert a sugárzás egy része visszaverődik és elnyelődik a légkörben.",
+      "related": [
+        "besugarzas",
+        "visszaverodes",
+        "elnyelodes"
+      ],
+      "tags": [
+        "légkör",
+        "csillagászat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "legnyomas",
+      "term": "légnyomás",
+      "aliases": [],
+      "sourceLabels": [
+        "légnyomás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A levegő súlyából származó nyomás, amelyet a felette lévő légoszlop egységnyi felületre gyakorol. Mértékegysége a hektopascal (hPa), tengerszinten átlagosan kb. 1013 hPa; a magassággal csökken. Meleg, felszálló levegő esetén a felszínen alacsony, hideg, leszálló levegő esetén magas nyomás alakul ki.",
+      "example": "A Kékes tetején a légnyomás kisebb, mint Budapesten, mert fölötte vékonyabb a légoszlop.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--kekes",
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "izobar",
+        "szel",
+        "mersekelt-ovezeti-ciklon",
+        "anticiklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szel",
+      "term": "szél",
+      "aliases": [],
+      "sourceLabels": [
+        "szél"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A levegő vízszintes irányú mozgása a magasabb légnyomású helyről az alacsonyabb légnyomású hely felé; kialakulásának oka a légnyomáskülönbség. Irányát a Föld forgásából származó eltérítő erő az északi félgömbön jobbra, a déli félgömbön balra téríti el; a szél irányát arról az égtájról nevezzük el, ahonnan fúj.",
+      "example": "Az északi szél északról fúj dél felé.",
+      "related": [
+        "legnyomas",
+        "izobar",
+        "szelrendszer"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "izobar",
+      "term": "izobár",
+      "aliases": [],
+      "sourceLabels": [
+        "izobár"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "Térképen az azonos (tengerszintre átszámított) légnyomású pontokat összekötő vonal. Minél sűrűbbek az izobárok, annál nagyobb a nyomáskülönbség és annál erősebb a szél.",
+      "example": "Az időjárási térképen a zárt, koncentrikus izobárok ciklont vagy anticiklont jelölnek.",
+      "related": [
+        "legnyomas",
+        "idojarasi-terkep",
+        "izoterma"
+      ],
+      "tags": [
+        "légkörzés",
+        "térkép",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ciklon-es-anticiklon",
+      "term": "mérsékelt övezeti ciklon és anticiklon",
+      "aliases": [],
+      "sourceLabels": [
+        "mérsékelt övezeti ciklon és anticiklon"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A mérsékelt övezet nagy kiterjedésű (több száz–ezer km átmérőjű), vándorló légörvényei, amelyek alapvetően meghatározzák az időjárást. A ciklon alacsony, az anticiklon magas nyomású képződmény; a nyugatias szelek övében nyugatról kelet felé haladnak.",
+      "example": "Az Atlanti-óceán felől érkező ciklonok hozzák Európába a csapadékot.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "mersekelt-ovezeti-ciklon",
+        "anticiklon",
+        "hideg-es-melegfront"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mersekelt-ovezeti-ciklon",
+      "term": "mérsékelt övezeti ciklon",
+      "aliases": [
+        "ciklon"
+      ],
+      "sourceLabels": [],
+      "parent": "ciklon-es-anticiklon",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "Alacsony nyomású légörvény, amelynek közepén a legkisebb a légnyomás; a levegő a felszín közelében befelé áramlik, középen felemelkedik. Az északi félgömbön az óramutató járásával ellentétesen forog; a sarki és a trópusi eredetű légtömegek határán keletkezik, frontokat hordoz, felhős, csapadékos, szeles időt okoz.",
+      "example": "Az Izlandi minimum térségéből induló ciklonok enyhe, esős időt hoznak Európába.",
+      "examplePlaces": [
+        "europa--tajak--izland"
+      ],
+      "related": [
+        "anticiklon",
+        "hideg-es-melegfront",
+        "izlandi-minimum"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "anticiklon",
+      "term": "anticiklon",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "ciklon-es-anticiklon",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "Magas nyomású légörvény, amelynek közepén leszálló légmozgás van, a levegő a felszín közelében kifelé áramlik; az északi félgömbön az óramutató járásával megegyezően forog. A leszálló levegő felmelegszik, ezért derült, száraz, szélcsendes időt okoz: nyáron meleget, télen erős éjszakai lehűlést, ködöt, inverziót.",
+      "example": "Az Azori-maximum nyáron napos, száraz időt hoz a Földközi-tenger térségébe.",
+      "examplePlaces": [
+        "europa--vizrajz--foldkozi-tenger"
+      ],
+      "related": [
+        "mersekelt-ovezeti-ciklon",
+        "azori-maximum",
+        "inverzio"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hideg-es-melegfront",
+      "term": "hideg- és melegfront",
+      "aliases": [
+        "front",
+        "időjárási front"
+      ],
+      "sourceLabels": [
+        "hideg- és melegfront"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A front két eltérő hőmérsékletű és nedvességtartalmú légtömeg határfelülete, amelynek átvonulása az időjárás gyors megváltozásával jár. Attól függően, hogy a hideg vagy a meleg levegő nyomul előre, hidegfrontot vagy melegfrontot különböztetünk meg; mindkettő a mérsékelt övezeti ciklonokhoz kapcsolódik.",
+      "example": "Egy ciklon átvonulásakor előbb a melegfront, majd a hidegfront éri el Magyarországot.",
+      "related": [
+        "hidegfront",
+        "melegfront",
+        "okkluzios-front",
+        "mersekelt-ovezeti-ciklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hidegfront",
+      "term": "hidegfront",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hideg-es-melegfront",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "Olyan front, amelynél a hideg levegő nyomul előre, és ékszerűen a meleg levegő alá hatolva azt gyorsan felemeli. Gomoly- és zivatarfelhők, zápor, zivatar, viharos szél, esetleg jégeső kíséri; átvonulása után lehűl a levegő, nő a légnyomás, és kitisztul az ég.",
+      "example": "Nyári kánikula végén a hidegfront heves zivatarokkal és erős lehűléssel érkezik.",
+      "related": [
+        "melegfront",
+        "zivatarfelho",
+        "zapor",
+        "jegeso"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "melegfront",
+      "term": "melegfront",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hideg-es-melegfront",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "Olyan front, amelynél a meleg levegő nyomul előre, és lassan felsiklik a hidegebb levegőre. Érkezését pehely- és fátyolfelhők jelzik, majd rétegfelhőkből nagy területen tartós, csendes eső vagy havazás hullik; átvonulása után felmelegszik a levegő.",
+      "example": "Télen a melegfront tartós havazást vagy ónos esőt is hozhat.",
+      "related": [
+        "hidegfront",
+        "pehelyfelho",
+        "fatyolfelho",
+        "retegfelho"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "szelrendszer",
+      "term": "szélrendszer",
+      "aliases": [],
+      "sourceLabels": [
+        "szélrendszer"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "Nagy területre kiterjedő, rendszeresen azonos irányból fújó szelek összessége, amely a Föld légnyomásövei között alakul ki. Megkülönböztetünk állandó szélrendszereket (passzátszelek, nyugatias szelek, sarki szelek) és évszakosan irányt változtató szélrendszereket (monszunok).",
+      "example": "A passzátszelek állandó szélrendszert alkotnak, az indiai monszun évszakosan irányt vált.",
+      "related": [
+        "passzatszelek",
+        "nyugatias-szelek",
+        "sarki-szelek",
+        "altalanos-legkorzes",
+        "tropusi-monszun"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "passzatszelek",
+      "term": "passzátszelek",
+      "aliases": [],
+      "sourceLabels": [
+        "passzátszelek"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A térítők körüli magas nyomású övből az egyenlítői alacsony nyomású öv felé fújó állandó szelek. Az eltérítő erő miatt az északi félgömbön északkeleti, a déli félgömbön délkeleti irányúak; a szárazföldek felett többnyire szárazak.",
+      "example": "A Kanári-szigeteken egész évben az északkeleti passzát fúj.",
+      "examplePlaces": [
+        "afrika--tajak--kanari-szigetek"
+      ],
+      "related": [
+        "termikus-egyenlito",
+        "altalanos-legkorzes",
+        "szelrendszer"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "nyugatias-szelek",
+      "term": "nyugatias szelek",
+      "aliases": [],
+      "sourceLabels": [
+        "nyugatias szelek"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A térítők körüli magas nyomású övből a 60° körüli alacsony nyomású öv felé fújó szelek a mérsékelt övezetben. Az eltérítő erő miatt nyugatias irányúak (az északi félgömbön délnyugati); az óceánok felől nedves levegőt szállítanak, és magukkal viszik a ciklonokat és anticiklonokat.",
+      "example": "A nyugatias szelek miatt London éghajlata óceáni: enyhe tél, hűvös nyár, egész évben csapadék.",
+      "examplePlaces": [
+        "europa--varosok--london"
+      ],
+      "related": [
+        "passzatszelek",
+        "sarki-szelek",
+        "mersekelt-ovezeti-ciklon",
+        "futoaramlas"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sarki-szelek",
+      "term": "sarki szelek",
+      "aliases": [],
+      "sourceLabels": [
+        "sarki szelek"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A sarkvidéki magas nyomású területekről a 60° körüli alacsony nyomású öv felé fújó hideg, száraz szelek. Az eltérítő erő miatt keleties irányúak.",
+      "example": "Az Antarktisz partvidékén a sarki szelek gyakran viharos erősségűek.",
+      "examplePlaces": [
+        "fold--egyeb--deli-sarkvidek-antarktisz"
+      ],
+      "related": [
+        "nyugatias-szelek",
+        "altalanos-legkorzes"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "altalanos-legkorzes",
+      "term": "általános légkörzés (nagy földi légkörzés)",
+      "aliases": [
+        "nagy földi légkörzés"
+      ],
+      "sourceLabels": [
+        "általános légkörzés (nagy földi légkörzés)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A Föld egészére kiterjedő, a légnyomásövek között kialakuló rendszeres légáramlások összessége, amely kiegyenlíti az Egyenlítő és a sarkok közötti hő- és nedvességkülönbséget. Az egyenlítői feláramlás, a térítői leáramlás és a sarki leáramlás között félgömbönként három fő szélrendszer alakul ki: a passzátszelek, a nyugatias szelek és a sarki szelek.",
+      "example": "Az általános légkörzés magyarázza, hogy a térítők környékén (pl. Szahara) sivatagok, az Egyenlítő mentén esőerdők vannak.",
+      "examplePlaces": [
+        "afrika--tajak--szahara",
+        "amerika--tajak--amazonas-medence"
+      ],
+      "related": [
+        "passzatszelek",
+        "nyugatias-szelek",
+        "sarki-szelek",
+        "termikus-egyenlito",
+        "szelrendszer"
+      ],
+      "tags": [
+        "légkörzés",
+        "övezetesség",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "termikus-egyenlito",
+      "term": "hőmérsékleti (termikus) egyenlítő",
+      "aliases": [
+        "hőmérsékleti egyenlítő",
+        "termikus egyenlítő"
+      ],
+      "sourceLabels": [
+        "hőmérsékleti (termikus) egyenlítő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "Az a vonal (sáv), amely mentén adott időszakban a legmagasabb a hőmérséklet a Földön; itt alakul ki az egyenlítői alacsony nyomású öv, ahol a két félgömb passzátszelei összeáramlanak. A Nap merőleges delelését követve évszakosan észak–dél irányban vándorol; mivel az északi félgömbön több a szárazföld, átlagos helyzete kissé az Egyenlítőtől északra van.",
+      "example": "Júliusban a termikus egyenlítő messze északra, Dél-Ázsia fölé húzódik, és ez indítja el az indiai nyári monszunt.",
+      "examplePlaces": [
+        "azsia--orszagok--india"
+      ],
+      "related": [
+        "passzatszelek",
+        "tropusi-monszun",
+        "altalanos-legkorzes"
+      ],
+      "tags": [
+        "légkörzés",
+        "övezetesség",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tropusi-monszun",
+      "term": "forró övezeti (trópusi) monszunszélrendszer",
+      "aliases": [
+        "trópusi monszun"
+      ],
+      "sourceLabels": [
+        "forró övezeti (trópusi) monszunszélrendszer"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A forró övezet évszakosan irányt váltó szélrendszere, amely a termikus egyenlítő vándorlása miatt jön létre: a passzát átlépi az Egyenlítőt, és az eltérítő erő miatt irányt vált. Nyáron az óceán felől érkező nedves (Dél-Ázsiában délnyugati) monszun esős évszakot, télen a szárazföld felől fújó (északkeleti) monszun száraz évszakot okoz.",
+      "example": "Indiában a nyári monszun hozza az évi csapadék nagy részét; Mumbai júniustól szeptemberig rendkívül csapadékos.",
+      "examplePlaces": [
+        "azsia--orszagok--india",
+        "azsia--varosok--mumbai-bombay"
+      ],
+      "related": [
+        "termikus-egyenlito",
+        "passzatszelek",
+        "mersekelt-monszun"
+      ],
+      "tags": [
+        "légkörzés",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mersekelt-monszun",
+      "term": "mérsékelt övezeti monszunszélrendszer",
+      "aliases": [],
+      "sourceLabels": [
+        "mérsékelt övezeti monszunszélrendszer"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "kozep",
+      "definition": "A mérsékelt övezet évszakosan irányt váltó szélrendszere, amely a szárazföld és az óceán eltérő felmelegedése miatt jön létre. Télen a kihűlt szárazföld feletti magas nyomású központból (Szibériai-maximum) hideg, száraz szél fúj az óceán felé, nyáron a felmelegedett szárazföld felé nedves óceáni levegő áramlik, ezért nyári csapadékmaximum alakul ki.",
+      "example": "Kelet-Ázsiában (Kína keleti része, Japán) a tél hideg és száraz, a nyár meleg és csapadékos.",
+      "examplePlaces": [
+        "azsia--a-foldresz-reszei--kelet-azsia",
+        "azsia--orszagok--kina"
+      ],
+      "related": [
+        "sziberiai-maximum",
+        "tropusi-monszun"
+      ],
+      "tags": [
+        "légkörzés",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "okkluzios-front",
+      "term": "okklúziós front",
+      "aliases": [],
+      "sourceLabels": [
+        "okklúziós front"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "A mérsékelt övezeti ciklon elöregedésekor kialakuló front, amikor a gyorsabban haladó hidegfront utoléri a melegfrontot, és a meleg levegőt teljesen felemeli a felszínről. Kialakulása a ciklon feltöltődését, megszűnését jelzi; tulajdonságai a hideg- és a melegfront jegyeit egyesítik.",
+      "example": "Az Európába érkező ciklonok jelentős része már okklúziós állapotban éri el Magyarországot.",
+      "related": [
+        "hideg-es-melegfront",
+        "mersekelt-ovezeti-ciklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tropusi-ciklon",
+      "term": "trópusi ciklon (hurrikán, tájfun)",
+      "aliases": [
+        "trópusi forgóvihar"
+      ],
+      "sourceLabels": [
+        "trópusi ciklon (hurrikán, tájfun)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "A trópusi óceánok nagyon meleg vize fölött (főként nyár végén, ősszel) kialakuló, a mérsékelt övezeti ciklonnál kisebb átmérőjű, de rendkívül alacsony légnyomású és pusztító erejű légörvény. Középen szélcsendes, felhőmentes „szem” van, körülötte orkán erejű szél, felhőszakadás és vihardagály pusztít; a szárazföld fölé érve gyengül.",
+      "example": "A trópusi ciklonok neve térségenként eltér: hurrikán, tájfun, az Indiai-óceánon ciklon.",
+      "related": [
+        "hurrikan",
+        "tajfun",
+        "tornado"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hurrikan",
+      "term": "hurrikán",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tropusi-ciklon",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "Az Atlanti-óceán trópusi részén, a Karib-tengeren, a Mexikói-öbölben (és a Csendes-óceán keleti részén) kialakuló trópusi ciklon neve.",
+      "example": "A hurrikánok gyakran sújtják a Karib-tenger szigeteit és az USA Mexikói-öböl menti partvidékét.",
+      "examplePlaces": [
+        "amerika--vizrajz--karib-antilla-tenger",
+        "amerika--vizrajz--mexikoi-obol"
+      ],
+      "related": [
+        "tajfun",
+        "tropusi-ciklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tajfun",
+      "term": "tájfun",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "tropusi-ciklon",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "A Csendes-óceán nyugati részén kialakuló trópusi ciklon neve, amely Kelet- és Délkelet-Ázsia partvidékét sújtja.",
+      "example": "A tájfunok évente több alkalommal okoznak pusztítást a Fülöp-szigeteken és Japánban.",
+      "examplePlaces": [
+        "azsia--orszagok--fulop-szigetek",
+        "azsia--orszagok--japan"
+      ],
+      "related": [
+        "hurrikan",
+        "tropusi-ciklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tornado",
+      "term": "tornádó",
+      "aliases": [],
+      "sourceLabels": [
+        "tornádó"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "Kis átmérőjű, de rendkívül nagy szélsebességű, tölcsér alakú légörvény, amely zivatarfelhőből nyúlik le a felszínig. Rövid ideig tart, keskeny sávban, de óriási pusztítást végez; hideg és meleg légtömegek találkozásánál, heves zivatarokhoz kapcsolódik.",
+      "example": "A legtöbb tornádó az USA középső síkságain, a préri vidékén alakul ki, ahol a Mexikói-öböl meleg, nedves levegője északi hideg levegővel találkozik.",
+      "examplePlaces": [
+        "amerika--tajak--preri",
+        "amerika--orszagok--amerikai-egyesult-allamok"
+      ],
+      "related": [
+        "zivatarfelho",
+        "tropusi-ciklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "helyi-szelek",
+      "term": "helyi szelek",
+      "aliases": [
+        "helyi szél"
+      ],
+      "sourceLabels": [
+        "helyi szelek (parti szél, hegy-völgyi szél, városi szél, főn)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "Kis területen, a helyi felszíni adottságok (víz és szárazföld, hegy és völgy, város és környéke) eltérő felmelegedése vagy a domborzat hatására kialakuló szelek. Sokszor napi járást mutatnak, és derült, nyugodt időben a legerősebbek.",
+      "example": "Ilyen a parti szél, a hegy-völgyi szél, a városi szél és a főn.",
+      "related": [
+        "parti-szel",
+        "hegy-volgyi-szel",
+        "varosi-szel",
+        "fon"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "parti-szel",
+      "term": "parti szél",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "helyi-szelek",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "Nagy vízfelületek partján kialakuló, napi irányváltó helyi szél. Nappal a gyorsabban felmelegedő szárazföld fölött alacsonyabb a nyomás, ezért a víz felől fúj (tengeri szél); éjjel a gyorsabban lehűlő szárazföld felől fúj a víz felé (szárazföldi szél).",
+      "example": "Nyári napokon a Balaton partján délután a tó felől fúj a szél.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--balaton"
+      ],
+      "related": [
+        "hegy-volgyi-szel",
+        "felmelegedes-es-lehules"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hegy-volgyi-szel",
+      "term": "hegy-völgyi szél",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "helyi-szelek",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "Hegyvidéken kialakuló, napi irányváltó helyi szél. Nappal a felmelegedő lejtők mentén a völgyből felfelé fúj (völgyi szél), éjjel a lehűlő hegyoldalakról a hideg levegő lefelé áramlik (hegyi szél).",
+      "example": "Az Alpok völgyeiben nyári délutánokon felfelé, éjszaka lefelé fúj a szél.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "parti-szel",
+        "inverzio"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "varosi-szel",
+      "term": "városi szél",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "helyi-szelek",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "A város beépített területe melegebb a környezeténél (városi hősziget), ezért fölötte feláramlás és alacsonyabb légnyomás alakul ki. A felszín közelében a hűvösebb környékről a levegő a városközpont felé áramlik.",
+      "example": "Budapest belvárosa fölött a feláramló levegő a szennyezőanyagokat is a magasba szállítja.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "mikroklima",
+        "parti-szel"
+      ],
+      "tags": [
+        "légkörzés",
+        "település",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fon",
+      "term": "főn",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "helyi-szelek",
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "Hegységen átbukó meleg, száraz bukószél. A szél felőli oldalon felemelkedő levegő lehűl, nedvességét csapadékként elveszíti; a szél alatti oldalon leszállva száraz levegőként gyorsabban (kb. 1 °C/100 m) melegszik fel, mint ahogy felfelé lehűlt, ezért melegebben és szárazabban érkezik a völgybe.",
+      "example": "Az Alpok északi völgyeiben a főn hirtelen felmelegedést, gyors hóolvadást és lavinaveszélyt okoz.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "felho-es-csapadekkepzodes",
+        "helyi-szelek"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "futoaramlas",
+      "term": "futóáramlás",
+      "aliases": [],
+      "sourceLabels": [
+        "futóáramlás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.3. A levegő mozgása",
+      "level": "emelt",
+      "definition": "A troposzféra felső részén, a tropopauza közelében nyugatról kelet felé hullámozva haladó, keskeny, nagy sebességű légáramlás, amely különböző hőmérsékletű légtömegek határán (pl. a sarki front fölött) alakul ki. Irányítja a ciklonok és anticiklonok vonulását, a repülés kihasználja.",
+      "example": "Az Atlanti-óceánon kelet felé tartó repülőgépek a futóáramlás segítségével rövidebb idő alatt érnek Európába.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "nyugatias-szelek",
+        "mersekelt-ovezeti-ciklon",
+        "troposzfera"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "vizgoztartalom",
+      "term": "tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom",
+      "aliases": [
+        "páratartalom",
+        "nedvességtartalom"
+      ],
+      "sourceLabels": [
+        "tényleges (abszolút) és viszonylagos (relatív) vízgőztartalom"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A levegő nedvességtartalmát kifejező két mennyiség: a tényleges vízgőztartalom a levegőben lévő vízgőz tömegét, a viszonylagos vízgőztartalom pedig a telítettségtől való távolságot mutatja.",
+      "example": "Ugyanannyi vízgőz mellett a hidegebb levegő viszonylagos vízgőztartalma nagyobb.",
+      "related": [
+        "tenyleges-vizgoztartalom",
+        "viszonylagos-vizgoztartalom",
+        "telitettseg",
+        "harmatpont"
+      ],
+      "tags": [
+        "időjárás",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tenyleges-vizgoztartalom",
+      "term": "tényleges (abszolút) vízgőztartalom",
+      "aliases": [
+        "abszolút vízgőztartalom",
+        "abszolút páratartalom"
+      ],
+      "sourceLabels": [],
+      "parent": "vizgoztartalom",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "1 m³ levegőben lévő vízgőz tömege grammban (g/m³). Felső határa a hőmérséklettől függ: a melegebb levegő több vízgőzt tartalmazhat.",
+      "example": "Az esőerdők meleg levegőjének tényleges vízgőztartalma sokszorosa a sarkvidéki levegőének.",
+      "related": [
+        "viszonylagos-vizgoztartalom",
+        "telitettseg"
+      ],
+      "tags": [
+        "időjárás",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "viszonylagos-vizgoztartalom",
+      "term": "viszonylagos (relatív) vízgőztartalom",
+      "aliases": [
+        "relatív vízgőztartalom",
+        "relatív páratartalom"
+      ],
+      "sourceLabels": [],
+      "parent": "vizgoztartalom",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Megmutatja, hogy a levegő tényleges vízgőztartalma hány százaléka az adott hőmérsékleten lehetséges legnagyobb (telítési) vízgőztartalomnak. Változatlan vízgőzmennyiség mellett a levegő lehűlésekor nő, felmelegedésekor csökken.",
+      "example": "Ha 1 m³ levegőben 10 g vízgőz van, és adott hőmérsékleten legfeljebb 20 g lehetne, a viszonylagos vízgőztartalom 10/20 · 100 = 50%.",
+      "related": [
+        "tenyleges-vizgoztartalom",
+        "telitettseg",
+        "harmatpont"
+      ],
+      "tags": [
+        "időjárás",
+        "számolás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "harmatpont",
+      "term": "harmatpont",
+      "aliases": [],
+      "sourceLabels": [
+        "harmatpont"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Az a hőmérséklet, amelyre a levegőnek (változatlan vízgőztartalom mellett) le kell hűlnie ahhoz, hogy telítetté váljon. Ha a levegő a harmatpont alá hűl, megindul a vízgőz kicsapódása.",
+      "example": "Hideg italos pohár falán azért jelennek meg vízcseppek, mert mellette a levegő a harmatpont alá hűl.",
+      "related": [
+        "telitettseg",
+        "kicsapodas",
+        "harmat"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "telitettseg",
+      "term": "telítettség",
+      "aliases": [],
+      "sourceLabels": [
+        "telítettség"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A levegő állapota, amikor adott hőmérsékleten a lehető legtöbb vízgőzt tartalmazza, viszonylagos vízgőztartalma 100%. Ekkor további vízgőz már nem párologhat bele, lehűléskor kicsapódás kezdődik.",
+      "example": "Ködös reggelen a levegő telített.",
+      "related": [
+        "tultelitettseg",
+        "harmatpont",
+        "viszonylagos-vizgoztartalom"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "tultelitettseg",
+      "term": "túltelítettség",
+      "aliases": [],
+      "sourceLabels": [
+        "túltelítettség"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A levegő állapota, amikor több vízgőzt tartalmaz, mint amennyi adott hőmérsékleten a telítettséghez tartozik (100% feletti viszonylagos vízgőztartalom). Akkor fordul elő, ha nincs elég kicsapódási mag; ez az állapot nem tartós, kicsapódási magok megjelenésekor gyors kicsapódás indul.",
+      "example": "Nagyon tiszta, pormentes levegőben a viszonylagos vízgőztartalom 100% fölé emelkedhet anélkül, hogy köd vagy felhő képződne.",
+      "related": [
+        "telitettseg",
+        "kondenzacios-mag"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kondenzacios-mag",
+      "term": "kicsapódási (kondenzációs) mag",
+      "aliases": [
+        "kicsapódási mag",
+        "kondenzációs mag"
+      ],
+      "sourceLabels": [
+        "kicsapódási (kondenzációs) mag"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A levegőben lebegő apró szilárd vagy cseppfolyós részecske (por, korom, sókristály, virágpor), amelynek felületén a vízgőz kicsapódik. Nélkülük a felhő- és ködképződés csak erős túltelítettség esetén indulna meg.",
+      "example": "A tengerek fölött a hullámokból a levegőbe jutó sókristályok szolgálnak kicsapódási magként.",
+      "related": [
+        "vendeganyagok",
+        "kicsapodas",
+        "tultelitettseg"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kicsapodas",
+      "term": "kicsapódás",
+      "aliases": [
+        "kondenzáció"
+      ],
+      "sourceLabels": [
+        "kicsapódás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A vízgőz cseppfolyós vízzé vagy közvetlenül jégkristállyá alakulása, amely akkor következik be, ha a levegő a harmatpont alá hűl. Kicsapódási magokon megy végbe, és hő szabadul fel közben.",
+      "example": "A kicsapódás eredménye a felhő, a köd, a harmat és a dér.",
+      "related": [
+        "harmatpont",
+        "kondenzacios-mag",
+        "felho",
+        "kod"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felho-es-csapadekkepzodes",
+      "term": "felhő- és csapadékképződés",
+      "aliases": [],
+      "sourceLabels": [
+        "felhő- és csapadékképződés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Az a folyamat, amelynek során a felemelkedő levegő kitágul és lehűl, a harmatpont alá hűlve a vízgőz kicsapódási magokon kicsapódik és felhő keletkezik, majd a felhőelemek megnövekedve csapadékként kihullanak. A levegő felemelkedését okozhatja a felszín felmelegedése (feláramlás), a front és a domborzat (hegységek).",
+      "example": "A Kárpátok szél felőli lejtőin a hegyekre felkényszerített levegőből több csapadék hullik, mint a medence belsejében.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "felhokepzodes",
+        "csapadekkepzodes",
+        "harmatpont",
+        "kicsapodas"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felhokepzodes",
+      "term": "felhőképződés",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felho-es-csapadekkepzodes",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A felemelkedő és a harmatpont alá hűlő levegőben a vízgőz kicsapódási magokon apró vízcseppekké vagy jégkristályokká alakul, amelyek együtt látható felhőt alkotnak. A felhőelemek kezdetben olyan kicsik, hogy a feláramló levegő lebegve tartja őket.",
+      "example": "Nyári délutánokon a felmelegedett felszín fölött feláramló levegőből gomolyfelhők képződnek.",
+      "related": [
+        "felho",
+        "kicsapodas"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "csapadekkepzodes",
+      "term": "csapadékképződés",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felho-es-csapadekkepzodes",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Csapadék akkor hullik, ha a felhőelemek összeütközéssel, összeolvadással, illetve a jégkristályok a vízcseppek rovására annyira megnőnek, hogy a feláramló levegő már nem tudja lebegve tartani őket. A kihulló csapadék fajtáját a felhő és az alatta lévő légréteg hőmérséklete határozza meg.",
+      "example": "A magasba nyúló zivatarfelhőkből a fel-le mozgó jégszemek jégesőként hullhatnak le.",
+      "related": [
+        "hullo-csapadekfajtak",
+        "talaj-menti-csapadekfajtak"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felho",
+      "term": "felhő",
+      "aliases": [],
+      "sourceLabels": [
+        "felhő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A légkörben lebegő, kicsapódással keletkezett apró vízcseppek és/vagy jégkristályok látható tömege a felszín felett. Alakja, magassága és anyaga szerint különböző felhőfajtákat különítünk el.",
+      "example": "A műholdfelvételeken a ciklonok spirális felhőzetükről ismerhetők fel.",
+      "related": [
+        "felhofajtak",
+        "kod",
+        "felho-es-csapadekkepzodes"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "kod",
+      "term": "köd",
+      "aliases": [],
+      "sourceLabels": [
+        "köd"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A felszín közvetlen közelében képződő felhő, amelyben a látástávolság 1 km alá csökken. Leggyakrabban derült, szélcsendes éjszakákon, a felszín kisugárzása miatti lehűléskor alakul ki, főként ősszel és télen, völgyekben, medencékben, vizek közelében.",
+      "example": "Őszi reggeleken a Tisza mentén gyakori a sűrű köd, ami a közlekedést is veszélyezteti.",
+      "examplePlaces": [
+        "magyarorszag--vizrajz--tisza"
+      ],
+      "related": [
+        "felho",
+        "inverzio",
+        "lehules",
+        "zuzmara"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "hullo-csapadekfajtak",
+      "term": "hulló csapadékfajták",
+      "aliases": [
+        "hulló csapadék"
+      ],
+      "sourceLabels": [
+        "hulló csapadékfajták (eső, hó, jégeső, ónos eső, havas eső, zápor)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A felhőből kihulló és a felszínre jutó csapadék formái. Fajtájukat a felhő típusa és a felhő alatti légréteg hőmérséklete határozza meg: eső, hó, jégeső, ónos eső, havas eső, zápor.",
+      "example": "Magyarországon a nyári csapadék főként záporként, a téli főként hóként vagy esőként hullik.",
+      "related": [
+        "eso",
+        "ho",
+        "jegeso",
+        "onos-eso",
+        "havas-eso",
+        "zapor",
+        "talaj-menti-csapadekfajtak"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eso",
+      "term": "eső",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hullo-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A felhőből cseppfolyós vízcseppek formájában kihulló csapadék. Akkor keletkezik, ha a felhőelemek megnőnek, és a felszín közelében a levegő fagypont feletti; a mérsékelt övben gyakran elolvadt hópelyhekből jön létre.",
+      "example": "A melegfront rétegfelhőiből tartós, csendes eső hullik.",
+      "related": [
+        "zapor",
+        "havas-eso",
+        "onos-eso"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ho",
+      "term": "hó",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hullo-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Jégkristályokból összetapadt hópelyhek formájában hulló csapadék. Akkor ér el a felszínre, ha a felhő alatti légréteg is fagypont körüli vagy fagypont alatti hőmérsékletű.",
+      "example": "A hótakaró szigeteli a talajt, és tavasszal vizet ad a vetéseknek.",
+      "related": [
+        "havas-eso",
+        "eso"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "jegeso",
+      "term": "jégeső",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hullo-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Zivatarfelhőből hulló, jégszemekből álló csapadék. A jégszemeket az erős fel- és leáramlás többször fel-le mozgatja a felhőben, ezért rétegesen megvastagodnak; nyáron, hidegfronttal és heves zivatarokkal jár együtt.",
+      "example": "A nyári jégeső nagy károkat okoz a szőlőkben és a gyümölcsösökben, ezért egyes térségekben jégeső-elhárító rendszert működtetnek.",
+      "related": [
+        "zivatarfelho",
+        "hidegfront",
+        "zapor"
+      ],
+      "tags": [
+        "időjárás",
+        "mezőgazdaság",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "onos-eso",
+      "term": "ónos eső",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hullo-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Túlhűlt esőcseppekből álló csapadék, amely a fagypont alatti hőmérsékletű felszínre, tárgyakra érve azonnal megfagy, és jégbevonatot képez. Akkor alakul ki, ha fent melegebb, a felszín közelében fagypont alatti a levegő.",
+      "example": "Az ónos eső síkossá teszi az utakat, és a vezetékekre fagyó jég súlya alatt áramkimaradások lehetnek.",
+      "related": [
+        "eso",
+        "havas-eso",
+        "idojarasi-veszelyhelyzetek"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "havas-eso",
+      "term": "havas eső",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hullo-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Eső és részben megolvadt hópelyhek keveréke, amely akkor hullik, ha a felszín közeli levegő hőmérséklete fagypont körüli, és a hópelyhek csak részben olvadnak el.",
+      "example": "Késő ősszel és kora tavasszal gyakori, amikor a hőmérséklet 0 °C körül ingadozik.",
+      "related": [
+        "ho",
+        "eso"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zapor",
+      "term": "zápor",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "hullo-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Hirtelen kezdődő és hirtelen véget érő, rövid ideig tartó, nagy intenzitású csapadék, amely gomoly- és zivatarfelhőből hullik. Lehet eső-, hó- vagy jégzápor; jellemző a nyári délutánokra és a hidegfront átvonulására.",
+      "example": "Nyári záporok után a víz gyorsan lefolyik, ezért kevéssé pótolja a talaj nedvességét.",
+      "related": [
+        "zivatarfelho",
+        "gomolyfelho",
+        "hidegfront"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "talaj-menti-csapadekfajtak",
+      "term": "talaj menti (felszíni) csapadékfajták",
+      "aliases": [
+        "felszíni csapadék",
+        "talaj menti csapadék"
+      ],
+      "sourceLabels": [
+        "talaj menti (felszíni) csapadékfajták (harmat, dér, zúzmara)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "A közvetlenül a felszínen, a tárgyakon és a növényeken kicsapódó, nem a felhőből hulló csapadékfajták: harmat, dér, zúzmara. Derült, szélcsendes időben, a felszín erős kisugárzása és lehűlése miatt képződnek.",
+      "example": "Őszi reggeleken a fűszálakon harmat vagy dér látható.",
+      "related": [
+        "harmat",
+        "der",
+        "zuzmara",
+        "hullo-csapadekfajtak"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "harmat",
+      "term": "harmat",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "talaj-menti-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Vízcseppek formájában a felszínre, növényekre kicsapódó vízgőz, amely akkor keletkezik, ha a felszín derült, szélcsendes éjszakán fagypont feletti hőmérsékleten a harmatpont alá hűl.",
+      "example": "Nyári reggeleken a fűszálakon csillogó vízcseppek.",
+      "related": [
+        "der",
+        "harmatpont"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "der",
+      "term": "dér",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "talaj-menti-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Jégkristályok formájában a felszínre, növényekre kirakódó vízgőz, amely akkor keletkezik, ha a felszín 0 °C alá hűl, így a vízgőz közvetlenül szilárd halmazállapotúvá alakul.",
+      "example": "A késő tavaszi dér a virágzó gyümölcsfákat károsíthatja.",
+      "related": [
+        "harmat",
+        "zuzmara",
+        "fagyosszentek"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zuzmara",
+      "term": "zúzmara",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "talaj-menti-csapadekfajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Fagyos, ködös, gyakran enyhén szeles időben a túlhűlt ködcseppek a tárgyakra (főként azok szél felőli oldalára) fagyva tű- vagy tollszerű jéglerakódást képeznek.",
+      "example": "Téli ködben a fák ágai és a vezetékek vastag zúzmarával vonódnak be, ami ágtörést, vezetékszakadást okozhat.",
+      "related": [
+        "der",
+        "kod"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "aszaly",
+      "term": "aszály",
+      "aliases": [],
+      "sourceLabels": [
+        "aszály"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "kozep",
+      "definition": "Hosszabb ideig tartó csapadékhiány, amelyhez gyakran magas hőmérséklet és erős párolgás társul, ezért a talaj kiszárad, a növények vízhiányt szenvednek, és csökken a termés. A globális felmelegedés gyakoribbá teszi.",
+      "example": "Magyarországon a Duna–Tisza közén (Homokhátság) a legsúlyosabb az aszály és a talajvízszint süllyedése.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze"
+      ],
+      "related": [
+        "idojarasi-veszelyhelyzetek",
+        "globalis-felmelegedes"
+      ],
+      "tags": [
+        "időjárás",
+        "mezőgazdaság",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "felhofajtak",
+      "term": "felhőfajták",
+      "aliases": [
+        "felhőtípusok"
+      ],
+      "sourceLabels": [
+        "felhőfajták (pehely-, fátyol-, réteg-, gomoly-, zivatarfelhő)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "emelt",
+      "definition": "A felhőket alakjuk, magasságuk és anyaguk szerint csoportosítjuk: pehely-, fátyol-, réteg-, gomoly- és zivatarfelhő. Mindegyik jellemző időjárási helyzethez kapcsolódik, ezért alapján következtethetünk a várható időre.",
+      "example": "Ha a pehelyfelhőket fátyolfelhő, majd rétegfelhő követi, melegfront közeledik.",
+      "related": [
+        "pehelyfelho",
+        "fatyolfelho",
+        "retegfelho",
+        "gomolyfelho",
+        "zivatarfelho"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "pehelyfelho",
+      "term": "pehelyfelhő",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felhofajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "emelt",
+      "definition": "Nagy magasságban képződő, jégkristályokból álló, fehér, rostos-szálas szerkezetű felhő. Csapadékot nem ad, de gyakran a közeledő melegfront első jele.",
+      "example": "Ha derült időben nyugat felől pehelyfelhők jelennek meg, egy-két napon belül időváltozás várható.",
+      "related": [
+        "fatyolfelho",
+        "melegfront"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fatyolfelho",
+      "term": "fátyolfelhő",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felhofajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "emelt",
+      "definition": "Nagy magasságban képződő, jégkristályokból álló, vékony, tejszerű felhőréteg, amely az egész eget beboríthatja. Rajta át a Nap és a Hold körül fényes gyűrű (halo) látható; melegfront közeledtét jelzi.",
+      "example": "A népi megfigyelés szerint a „Hold udvara” esőt jelez – ezt a fátyolfelhő okozza.",
+      "related": [
+        "pehelyfelho",
+        "retegfelho",
+        "melegfront"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "retegfelho",
+      "term": "rétegfelhő",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felhofajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "emelt",
+      "definition": "Nagy vízszintes kiterjedésű, egyenletes, szürke felhőtakaró, amely lassú, nagy területre kiterjedő feláramlásban keletkezik. Tartós, csendes esőt, havazást vagy szitálást ad; a melegfronthoz és a téli anticiklonos, ködös helyzetekhez kapcsolódik.",
+      "example": "Melegfront átvonulásakor egész nap borult az ég, és csendesen esik az eső.",
+      "related": [
+        "melegfront",
+        "eso"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "gomolyfelho",
+      "term": "gomolyfelhő",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felhofajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "emelt",
+      "definition": "Erős függőleges feláramlásban keletkező, éles körvonalú, karfiolszerűen felfelé domborodó, lapos aljú felhő. Napsütéses nyári délutánokon a felmelegedett felszín fölött alakul ki; kisebb változata szép időt jelez, erőteljesen fejlődve zivatarfelhővé alakulhat.",
+      "example": "Nyári reggel még derült az ég, délutánra a felmelegedett felszín fölött gomolyfelhők jelennek meg.",
+      "related": [
+        "zivatarfelho",
+        "felmelegedes",
+        "zapor"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "zivatarfelho",
+      "term": "zivatarfelhő",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "felhofajtak",
+      "topicNo": 3,
+      "subtopic": "3.2.4. Felhő- és csapadékképződés",
+      "level": "emelt",
+      "definition": "A troposzféra teljes magasságáig felnyúló, hatalmas függőleges kiterjedésű gomolyfelhő, amelynek teteje jégkristályokból áll, és üllőszerűen szétterül. Belőle zápor, zivatar, villámlás, jégeső és erős széllökések származnak; hidegfronthoz és nyári hőséghez kapcsolódik.",
+      "example": "A nyári hidegfront előtt érkező zivatarfelhők jégesőt és viharos szelet hozhatnak.",
+      "related": [
+        "gomolyfelho",
+        "jegeso",
+        "hidegfront",
+        "tornado"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ido",
+      "term": "idő",
+      "aliases": [],
+      "sourceLabels": [
+        "idő"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "kozep",
+      "definition": "A légkör egy adott helyen és adott időpontban jellemző fizikai állapota, amelyet az időjárási elemek (hőmérséklet, légnyomás, szél, csapadék, felhőzet stb.) pillanatnyi értékei írnak le.",
+      "example": "„Most Budapesten 18 °C van, borult az ég és gyengén esik az eső” – ez az idő leírása.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "idojaras",
+        "eghajlat"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "idojaras",
+      "term": "időjárás",
+      "aliases": [],
+      "sourceLabels": [
+        "időjárás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "kozep",
+      "definition": "Az idő, vagyis a légkör állapotának néhány napos–hetes, rövid időszak alatti változásainak sorozata egy adott helyen. A troposzférában zajló folyamatok (légtömegek, frontok, ciklonok, anticiklonok) alakítják.",
+      "example": "Egy hidegfront átvonulása után napokra hűvösebb, szelesebb lesz az időjárás.",
+      "related": [
+        "ido",
+        "eghajlat",
+        "idojaras-elorejelzes"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eghajlat",
+      "term": "éghajlat (klíma)",
+      "aliases": [
+        "klíma"
+      ],
+      "sourceLabels": [
+        "éghajlat (klíma)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "kozep",
+      "definition": "Egy adott hely időjárásának sokéves (általában legalább 30 év adatai alapján meghatározott) átlagos állapota, jellemző évi menete és szélsőségei. Kialakításában a földrajzi szélesség, a tengertől való távolság, a domborzat, a tengeráramlások és az általános légkörzés játszik szerepet.",
+      "example": "Magyarország éghajlata mérsékelten szárazföldi: hideg tél, meleg nyár, nyár eleji csapadékmaximum.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "idojaras",
+        "idojarasi-es-eghajlati-elemek",
+        "mikroklima",
+        "eghajlatvaltozas"
+      ],
+      "tags": [
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "idojarasi-terkep",
+      "term": "időjárási térkép",
+      "aliases": [],
+      "sourceLabels": [
+        "időjárási térkép"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "kozep",
+      "definition": "Egy adott időpontban egy nagyobb területen mért időjárási adatokat ábrázoló térkép. Jelöli az izobárokat, a ciklonok és anticiklonok középpontját, a frontokat, valamint az állomásokon mért hőmérsékletet, szelet, felhőzetet és csapadékot.",
+      "example": "Az európai időjárási térképen az Izland körüli zárt izobárok egy mélyülő ciklont jeleznek.",
+      "examplePlaces": [
+        "europa--tajak--izland"
+      ],
+      "related": [
+        "izobar",
+        "hideg-es-melegfront",
+        "idojaras-elorejelzes"
+      ],
+      "tags": [
+        "időjárás",
+        "térkép",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "idojaras-elorejelzes",
+      "term": "időjárás-előrejelzés",
+      "aliases": [],
+      "sourceLabels": [
+        "időjárás-előrejelzés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "kozep",
+      "definition": "A légkör várható állapotának meghatározása megfigyelések (mérőállomások, időjárási radar, műholdfelvételek) és számítógépes modellek alapján. Lehet rövid, közép- és hosszú távú; pontossága a távolsággal csökken. Fontos a mezőgazdaságban, a közlekedésben, az energiagazdálkodásban és a katasztrófavédelemben.",
+      "example": "Ónos eső előrejelzésekor a közútkezelők előre megkezdik az utak szórását.",
+      "related": [
+        "idojarasi-terkep",
+        "idojarasi-veszelyhelyzetek"
+      ],
+      "tags": [
+        "időjárás",
+        "távérzékelés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "idojarasi-es-eghajlati-elemek",
+      "term": "időjárási és éghajlati elemek",
+      "aliases": [],
+      "sourceLabels": [
+        "időjárási és éghajlati elemek"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "kozep",
+      "definition": "A légkör állapotát jellemző, mérhető mennyiségek: a napsugárzás (napfénytartam), a hőmérséklet, a légnyomás, a szél (irány és sebesség), a vízgőztartalom, a felhőzet és a csapadék. Pillanatnyi értékük az időt és időjárást, sokéves átlaguk és szélsőértékeik az éghajlatot jellemzik.",
+      "example": "Az éghajlati diagram két éghajlati elemet ábrázol: a havi középhőmérsékletet és a havi csapadékösszeget.",
+      "related": [
+        "ido",
+        "eghajlat",
+        "legnyomas",
+        "kozephomerseklet"
+      ],
+      "tags": [
+        "időjárás",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "idojarasi-veszelyhelyzetek",
+      "term": "időjárási veszélyhelyzetek",
+      "aliases": [],
+      "sourceLabels": [
+        "időjárási veszélyhelyzetek"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "kozep",
+      "definition": "Olyan szélsőséges időjárási jelenségek, amelyek veszélyeztetik az emberi életet, egészséget és vagyont: hőség, felhőszakadás, zivatar és villámlás, jégeső, viharos szél, ónos eső, hófúvás, sűrű köd, aszály. Ellenük előrejelzéssel, figyelmeztetésekkel és felelős magatartással lehet védekezni.",
+      "example": "Magyarországon a figyelmeztetések sárga, narancs és piros fokozatúak; piros riasztásnál kerüld a szabadtéri tartózkodást, és ne indulj útnak.",
+      "related": [
+        "idojaras-elorejelzes",
+        "onos-eso",
+        "jegeso",
+        "aszaly",
+        "tornado"
+      ],
+      "tags": [
+        "időjárás",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "mikroklima",
+      "term": "mikroklíma",
+      "aliases": [],
+      "sourceLabels": [
+        "mikroklíma"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.5. Az időjárás és az éghajlat",
+      "level": "emelt",
+      "definition": "Kis területen (néhány métertől néhány száz méterig) kialakuló, a környezetétől eltérő éghajlat, amelyet a felszín sajátosságai (növényzet, domborzat, lejtőkitettség, vízfelület, beépítettség) módosítanak.",
+      "example": "Budapest belvárosa a beépítettség miatt melegebb, mint a környező erdős területek (városi hősziget).",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "eghajlat",
+        "lejtokitettseg",
+        "varosi-szel"
+      ],
+      "tags": [
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "az-uveghazhatas-fokozodasa",
+      "term": "az üvegházhatás fokozódása",
+      "aliases": [],
+      "sourceLabels": [
+        "az üvegházhatás fokozódása"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "A természetes üvegházhatás erősödése amiatt, hogy az emberi tevékenység (fosszilis energiahordozók égetése, erdőirtás, mezőgazdaság, ipar) növeli az üvegházgázok, főként a szén-dioxid és a metán légköri mennyiségét. Így több hosszúhullámú kisugárzás marad a légkörben, ami globális felmelegedéshez vezet.",
+      "example": "A légkör szén-dioxid-tartalma az ipari forradalom előtti kb. 280 ppm-ről mára 400 ppm fölé emelkedett.",
+      "related": [
+        "uveghazhatas",
+        "uveghazgazok",
+        "globalis-felmelegedes",
+        "eghajlatvaltozas"
+      ],
+      "tags": [
+        "éghajlat",
+        "környezetvédelem",
+        "globális-problémák",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "globalis-felmelegedes",
+      "term": "globális felmelegedés",
+      "aliases": [],
+      "sourceLabels": [
+        "globális felmelegedés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "A Föld felszín közeli átlaghőmérsékletének az ipari forradalom óta tartó, gyorsuló emelkedése, amelynek fő oka az üvegházhatás emberi tevékenység okozta fokozódása. Következményei: a gleccserek és jégtakarók olvadása, a tengerszint emelkedése, a szélsőséges időjárási események gyakoribbá válása.",
+      "example": "Az Alpok gleccserei a felmelegedés miatt gyorsan zsugorodnak.",
+      "examplePlaces": [
+        "europa--tajak--alpok"
+      ],
+      "related": [
+        "az-uveghazhatas-fokozodasa",
+        "eghajlatvaltozas",
+        "aszaly"
+      ],
+      "tags": [
+        "éghajlat",
+        "globális-problémák",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "ozonreteg-elvekonyodas",
+      "term": "ózonréteg-elvékonyodás (ózonritkulás)",
+      "aliases": [
+        "ózonritkulás",
+        "ózonlyuk"
+      ],
+      "sourceLabels": [
+        "ózonréteg-elvékonyodás (ózonritkulás)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "A sztratoszféra ózontartalmának csökkenése, amelyet főként az ember által kibocsátott freonok (és más klór-, brómtartalmú vegyületek) okoznak. Következtében több UV-sugárzás éri a felszínt, ami növeli a bőrrák és a szürkehályog kockázatát, és károsítja az élővilágot. A freonok gyártását a Montreali jegyzőkönyv (1987) betiltotta, azóta az ózonréteg lassan regenerálódik.",
+      "example": "Az ózonritkulás az Antarktisz fölött, a déli félgömb tavaszán (szeptember–október) a legerősebb („ózonlyuk”).",
+      "examplePlaces": [
+        "fold--egyeb--deli-sarkvidek-antarktisz"
+      ],
+      "related": [
+        "ozonreteg",
+        "sztratoszfera",
+        "legszennyezo-anyagok"
+      ],
+      "tags": [
+        "légkör",
+        "környezetvédelem",
+        "globális-problémák",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "eghajlatvaltozas",
+      "term": "éghajlatváltozás (klímaváltozás)",
+      "aliases": [
+        "klímaváltozás"
+      ],
+      "sourceLabels": [
+        "éghajlatváltozás (klímaváltozás)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "Az éghajlati elemek (hőmérséklet, csapadék, szélsőségek) hosszú távú, tartós megváltozása. Lehetnek természetes okai is (napsugárzás, vulkánkitörések, a Föld pályájának változása), a jelenlegi gyors változást azonban döntően az emberi tevékenység okozza. Következményei: aszályok, árvizek, hőhullámok, tengerszint-emelkedés, az éghajlati övezetek eltolódása, környezeti migráció.",
+      "example": "Magyarországon gyakoribbá váltak a nyári hőhullámok és az aszályos évek, főként a Duna–Tisza közén.",
+      "examplePlaces": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze"
+      ],
+      "related": [
+        "globalis-felmelegedes",
+        "az-uveghazhatas-fokozodasa",
+        "eghajlat"
+      ],
+      "tags": [
+        "éghajlat",
+        "globális-problémák",
+        "fenntarthatóság",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "legszennyezo-anyagok",
+      "term": "légszennyező anyagok",
+      "aliases": [],
+      "sourceLabels": [
+        "légszennyező anyagok"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "A levegőbe jutó, az élőlényekre és a környezetre káros gázok és részecskék: szén-dioxid, szén-monoxid, kén-dioxid, nitrogén-oxidok, szálló por és korom, felszín közeli ózon, illékony szénhidrogének, freonok, nehézfémek. Fő forrásaik az energiatermelés (különösen a széntüzelés), a közlekedés, az ipar, a lakossági fűtés és a mezőgazdaság.",
+      "example": "Télen a fával és szénnel fűtött lakóházak kéményeiből sok szálló por jut a levegőbe.",
+      "related": [
+        "savas-csapadek",
+        "fustkod-szmog",
+        "emisszio",
+        "immisszio"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "légkör",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "savas-csapadek",
+      "term": "savas csapadék",
+      "aliases": [],
+      "sourceLabels": [
+        "savas csapadék"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "Olyan csapadék, amelynek savassága a természetesnél nagyobb (pH-ja 5,6 alatti), mert a levegőbe jutott kén-dioxid és nitrogén-oxidok vízzel kénsavvá és salétromsavvá alakulnak. Károsítja az erdőket, savanyítja a talajt és a tavakat, rongálja az épületeket (főként a mészkő szobrokat).",
+      "example": "A Ruhr-vidék ipari kibocsátása miatt a szél irányában fekvő Skandinávia tavai elsavanyodtak.",
+      "examplePlaces": [
+        "europa--iparvidekek--ruhr-videk",
+        "europa--tajak--skandinav-felsziget"
+      ],
+      "related": [
+        "savas-ulepedes",
+        "elsavanyodas",
+        "legszennyezo-anyagok",
+        "transzmisszio"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "savas-ulepedes",
+      "term": "savas ülepedés",
+      "aliases": [],
+      "sourceLabels": [
+        "savas ülepedés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "A savas kémhatású szennyező anyagok felszínre jutása, amely nemcsak csapadékkal (nedves ülepedés), hanem csapadék nélkül, gázok és szilárd részecskék formájában is (száraz ülepedés) végbemegy. Tágabb fogalom a savas csapadéknál.",
+      "example": "Az ipari körzetek környékén a száraz savas ülepedés esős idő nélkül is károsítja a növényzetet.",
+      "related": [
+        "savas-csapadek",
+        "elsavanyodas",
+        "immisszio"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "elsavanyodas",
+      "term": "elsavanyodás",
+      "aliases": [],
+      "sourceLabels": [
+        "elsavanyodás"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "A talajok és a felszíni vizek kémhatásának savas irányba tolódása, főként a savas ülepedés következtében. A talajból kimosódnak a tápanyagok, a vizekben elpusztulnak a halak és más élőlények, az erdők legyengülnek.",
+      "example": "Skandinávia sok tavában a savasodás miatt kipusztultak a halak; a tavakat mészporral kezelik.",
+      "examplePlaces": [
+        "europa--tajak--skandinav-felsziget"
+      ],
+      "related": [
+        "savas-csapadek",
+        "savas-ulepedes"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "talaj",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fustkod-szmog",
+      "term": "füstköd (szmog)",
+      "aliases": [
+        "szmog",
+        "füstköd"
+      ],
+      "sourceLabels": [
+        "füstköd (szmog)"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "Nagyvárosok és ipari körzetek felett kialakuló, szennyező anyagokkal telített, ködszerű légréteg. Kialakulásának kedvez a szélcsend és a fordított hőrétegződés (inverzió), amely megakadályozza a szennyezett levegő felemelkedését. Két fő típusa a londoni (téli) és a Los Angeles-i (nyári) típusú szmog.",
+      "example": "Szmogriadó idején Budapesten korlátozhatják a gépjárműforgalmat.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "londoni-szmog",
+        "los-angeles-i-szmog",
+        "inverzio",
+        "legszennyezo-anyagok"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "település",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "londoni-szmog",
+      "term": "londoni típusú szmog",
+      "aliases": [
+        "téli szmog"
+      ],
+      "sourceLabels": [],
+      "parent": "fustkod-szmog",
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "Téli, hideg, ködös, szélcsendes időben, inverziós helyzetben kialakuló szmog, amelyben a köd a széntüzelésből származó kén-dioxiddal, korommal és porral keveredik. Légúti megbetegedéseket okoz.",
+      "example": "Londonban 1952-ben a téli szmog sok ezer ember halálát okozta.",
+      "examplePlaces": [
+        "europa--varosok--london"
+      ],
+      "related": [
+        "los-angeles-i-szmog",
+        "inverzio",
+        "kod"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "los-angeles-i-szmog",
+      "term": "Los Angeles-i típusú szmog",
+      "aliases": [
+        "nyári szmog",
+        "fotokémiai szmog"
+      ],
+      "sourceLabels": [],
+      "parent": "fustkod-szmog",
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "Nyári, napos, szélcsendes időben kialakuló (fotokémiai) szmog, amelyben a főként gépjárművekből származó nitrogén-oxidok és szénhidrogének az erős napsugárzás hatására ózonná és más mérgező vegyületekké alakulnak. Szem- és légúti irritációt okoz.",
+      "example": "Los Angeles és Mexikóváros medencefekvése és nagy forgalma miatt gyakori a nyári szmog.",
+      "examplePlaces": [
+        "amerika--varosok--los-angeles",
+        "amerika--varosok--mexikovaros"
+      ],
+      "related": [
+        "londoni-szmog",
+        "legszennyezo-anyagok"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "radioaktiv-szennyezodes",
+      "term": "radioaktív szennyeződés",
+      "aliases": [],
+      "sourceLabels": [
+        "radioaktív szennyeződés"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "kozep",
+      "definition": "Radioaktív anyagok környezetbe, így a légkörbe jutása atomerőmű-balesetek, nukleáris fegyverkísérletek vagy hulladékkezelési hibák következtében. A szél nagy távolságra is elszállíthatja, a kihulló anyag a talajba, vizekbe és a táplálékláncba kerül, sugárbetegséget és daganatos megbetegedéseket okozhat.",
+      "example": "Az 1986-os csernobili atomerőmű-baleset radioaktív felhője Európa nagy részére eljutott.",
+      "examplePlaces": [
+        "europa--varosok--csernobil"
+      ],
+      "related": [
+        "transzmisszio",
+        "legszennyezo-anyagok"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "emisszio",
+      "term": "emisszió",
+      "aliases": [],
+      "sourceLabels": [
+        "emisszió"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "emelt",
+      "definition": "A szennyező anyag kibocsátása a forrásból a környezetbe (pl. a légkörbe), amelyet időegység alatt kibocsátott mennyiséggel fejezünk ki.",
+      "example": "Egy hőerőmű kéményéből óránként kibocsátott kén-dioxid mennyisége az erőmű emissziója.",
+      "related": [
+        "transzmisszio",
+        "immisszio",
+        "legszennyezo-anyagok"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "transzmisszio",
+      "term": "transzmisszió",
+      "aliases": [],
+      "sourceLabels": [
+        "transzmisszió"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "emelt",
+      "definition": "A szennyező anyag terjedése, hígulása és átalakulása a légkörben a kibocsátás és a felszínre jutás helye között. Alakulását a szél, a légköri rétegződés (inverzió) és a csapadék befolyásolja; ezért válhat a légszennyezés határokon átnyúlóvá.",
+      "example": "A nyugat-európai iparvidékek kén-dioxidja a nyugatias szelekkel Skandináviáig jutott el.",
+      "examplePlaces": [
+        "europa--tajak--skandinav-felsziget"
+      ],
+      "related": [
+        "emisszio",
+        "immisszio",
+        "savas-csapadek"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "immisszio",
+      "term": "immisszió",
+      "aliases": [],
+      "sourceLabels": [
+        "immisszió"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "3.2.6. A légszennyezés következményei",
+      "level": "emelt",
+      "definition": "A szennyező anyag felszín közeli levegőben mérhető koncentrációja (szennyezettségi szintje), vagyis az a terhelés, amely ténylegesen éri az élőlényeket és a környezetet. Ehhez szabnak egészségügyi határértékeket.",
+      "example": "Ha a szálló por immissziója tartósan meghaladja a határértéket, a városban szmogriadót rendelnek el.",
+      "examplePlaces": [
+        "magyarorszag--telepulesek--budapest"
+      ],
+      "related": [
+        "emisszio",
+        "transzmisszio",
+        "fustkod-szmog"
+      ],
+      "tags": [
+        "környezetvédelem",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "fagyosszentek",
+      "term": "„fagyosszentek”",
+      "aliases": [
+        "fagyosszentek"
+      ],
+      "sourceLabels": [
+        "„fagyosszentek”"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Május közepén (Pongrác, Szervác, Bonifác napja, május 12–14. körül) gyakran visszatérő lehűlés, amelyet északi, hideg sarki eredetű levegő betörése okoz. Derült éjszakákon késő tavaszi fagyot okozhat.",
+      "example": "A kertészek a fagyérzékeny palántákat hagyományosan csak a fagyosszentek után ültetik ki.",
+      "related": [
+        "medard-nap",
+        "venasszonyok-nyara",
+        "der"
+      ],
+      "tags": [
+        "időjárás",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "medard-nap",
+      "term": "„Medárd-nap”",
+      "aliases": [
+        "Medárd-nap",
+        "Medárd"
+      ],
+      "sourceLabels": [
+        "„Medárd-nap”"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Június 8., amelyhez a népi megfigyelés szerint az kapcsolódik, hogy ha ezen a napon esik, utána negyven napig esik. Valós alapja, hogy június eleje–közepe az óceáni eredetű, nedves levegő gyakori beáramlása miatt nálunk az év egyik legcsapadékosabb időszaka.",
+      "example": "Magyarországon a havi csapadékösszeg általában május–júniusban a legnagyobb.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "fagyosszentek",
+        "nyugatias-szelek"
+      ],
+      "tags": [
+        "időjárás",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "venasszonyok-nyara",
+      "term": "„vénasszonyok nyara”",
+      "aliases": [
+        "vénasszonyok nyara"
+      ],
+      "sourceLabels": [
+        "„vénasszonyok nyara”"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Szeptember végén–október elején gyakran jelentkező, tartósan száraz, napos, nappal kellemesen meleg, éjszaka hűvös időszak. Oka a térségünk fölött megmaradó anticiklon.",
+      "example": "Ilyenkor a levegőben szálló pókfonalak (ökörnyál) is megfigyelhetők.",
+      "examplePlaces": [
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "anticiklon",
+        "fagyosszentek"
+      ],
+      "tags": [
+        "időjárás",
+        "Magyarország",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "azori-es-sziberiai-maximum",
+      "term": "Azori- és Szibériai-maximum",
+      "aliases": [],
+      "sourceLabels": [
+        "Azori- és Szibériai-maximum"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az Európa időjárását befolyásoló két jelentős magas nyomású légköri központ. Az Azori-maximum az Atlanti-óceán térítői magas nyomású övéhez tartozik, a Szibériai-maximum télen a kihűlt ázsiai szárazföld fölött alakul ki.",
+      "example": "Nyáron az Azori-maximum, télen a Szibériai-maximum hatása erősebb hazánkban.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean",
+        "azsia--tajak--sziberia"
+      ],
+      "related": [
+        "azori-maximum",
+        "sziberiai-maximum",
+        "izlandi-minimum",
+        "anticiklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "Európa",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "azori-maximum",
+      "term": "Azori-maximum",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "azori-es-sziberiai-maximum",
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az Atlanti-óceánon, az Azori-szigetek környékén egész évben jelen lévő, a térítői magas nyomású övhöz tartozó (leszálló légmozgású) magas nyomású központ. Nyáron északabbra húzódik, ekkor a Földközi-tenger térségében és gyakran hazánkban is száraz, napos, meleg időt okoz.",
+      "example": "A mediterrán térség száraz nyara az Azori-maximum északra húzódásának következménye.",
+      "examplePlaces": [
+        "fold--oceanok--atlanti-ocean",
+        "europa--vizrajz--foldkozi-tenger"
+      ],
+      "related": [
+        "sziberiai-maximum",
+        "izlandi-minimum",
+        "anticiklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "Európa",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "sziberiai-maximum",
+      "term": "Szibériai-maximum",
+      "aliases": [],
+      "sourceLabels": [],
+      "parent": "azori-es-sziberiai-maximum",
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Télen a kihűlt ázsiai szárazföld (Szibéria, Mongólia) fölött kialakuló, nagy kiterjedésű, termikus eredetű magas nyomású központ. Belőle hideg, száraz levegő áramlik ki: ez okozza Kelet-Ázsia téli monszunját, és nyugat felé kiterjedve nálunk is kemény, száraz hideget hozhat.",
+      "example": "Amikor a Szibériai-maximum nyúlványa eléri a Kárpát-medencét, tartós, csípős hideg köszönt be.",
+      "examplePlaces": [
+        "azsia--tajak--sziberia",
+        "europa--tajak--karpat-medence-pannon-medence"
+      ],
+      "related": [
+        "azori-maximum",
+        "mersekelt-monszun",
+        "anticiklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "éghajlat",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "elo-azsiai-minimum",
+      "term": "Elő-ázsiai (iráni) minimum",
+      "aliases": [],
+      "sourceLabels": [
+        "Elő-ázsiai (iráni) minimum"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Nyáron a felforrósodott Elő-Ázsia (Iráni-felföld és környéke) fölött kialakuló termikus eredetű alacsony nyomású központ. Az Azori-maximummal együtt alakítja a Földközi-tenger keleti medencéjének és Délnyugat-Ázsiának nyári légáramlásait.",
+      "example": "Nyáron az Iráni-felföld fölött a forró, felszálló levegő miatt alacsony a légnyomás.",
+      "examplePlaces": [
+        "azsia--tajak--irani-felfold"
+      ],
+      "related": [
+        "azori-maximum",
+        "izlandi-minimum",
+        "mersekelt-ovezeti-ciklon"
+      ],
+      "tags": [
+        "légkörzés",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    },
+    {
+      "id": "izlandi-minimum",
+      "term": "Izlandi minimum",
+      "aliases": [],
+      "sourceLabels": [
+        "Izlandi minimum"
+      ],
+      "parent": null,
+      "topicNo": 3,
+      "subtopic": "A 3.2 témához tartozó egyedi fogalmak",
+      "level": "emelt",
+      "definition": "Az Atlanti-óceán északi részén, Izland környékén tartósan jelen lévő, télen erősebb alacsony nyomású központ, amely a mérsékelt övezeti ciklonok gyakori kialakulási és áthaladási területe. Az innen Európa felé vonuló ciklonok enyhe, csapadékos, szeles időt hoznak.",
+      "example": "A téli enyhe, esős időszakok Nyugat-Európában az Izlandi minimum felől érkező ciklonokhoz kötődnek.",
+      "examplePlaces": [
+        "europa--tajak--izland",
+        "fold--oceanok--atlanti-ocean"
+      ],
+      "related": [
+        "azori-maximum",
+        "mersekelt-ovezeti-ciklon",
+        "nyugatias-szelek"
+      ],
+      "tags": [
+        "légkörzés",
+        "Európa",
+        "3-témakör"
+      ],
+      "generated": true,
+      "reviewed": false
+    }
+  ]
+}

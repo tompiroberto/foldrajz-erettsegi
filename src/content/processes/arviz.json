@@ -1,0 +1,131 @@
+{
+  "id": "arviz",
+  "title": "Az árvíz kialakulása és a védekezés",
+  "summary": "Árvízről akkor beszélünk, amikor a folyó vízszintje és vízhozama jelentősen megnő, és a víz kiléphet a medréből. Kialakulását a csapadék, a hóolvadás és a vízgyűjtő terület adottságai együtt határozzák meg.",
+  "causes": [
+    "Tartós, nagy területre kiterjedő esőzés vagy hirtelen, nagy mennyiségű csapadék (zivatar) hullik a vízgyűjtőn.",
+    "Tavasszal a hóolvadás és az esőzés egybeesik; a fagyott vagy telített talajba a víz nem tud beszivárogni.",
+    "A meredek hegyvidéki vízgyűjtőn, erdőirtás és beépítés esetén a víz gyorsan lefolyik.",
+    "A folyó jégtorlasza vagy a szabályozott, gátak közé szorított meder is emelheti a vízszintet."
+  ],
+  "course": [
+    "A vízgyűjtőn lehullott csapadék gyorsan a vízfolyásokba jut, a mellékfolyók megáradnak.",
+    "A mellékfolyók árhullámai a főfolyóban összegeződhetnek, árhullám vonul le a folyón.",
+    "A síkvidéki, kis esésű szakaszon az árhullám lelassul, a vízszint tartósan magas marad.",
+    "Ha a víz meghaladja a medret vagy a gátak magasságát, illetve gátszakadás következik be, elönti a környező területeket."
+  ],
+  "consequences": [
+    "Az árvíz emberéleteket veszélyeztet, épületeket, utakat, termőföldeket rongál, gazdasági károkat okoz.",
+    "A visszahúzódó víz után talajvízszint-emelkedés, belvíz, szennyeződés és járványveszély léphet fel.",
+    "A természetes ártereken az árvíz termékeny hordalékot rak le, táplálja a vizes élőhelyeket.",
+    "A védekezés eszközei: árvízvédelmi gátak, hullámtér, vésztározók, folyószabályozás, árvízi előrejelzés, a vízgyűjtő erdősítése és a hullámtér beépítésének tilalma."
+  ],
+  "steps": [
+    {
+      "title": "Tartós eső, hóolvadás",
+      "caption": "A vízgyűjtőn nagy mennyiségű csapadék hullik, tavasszal ehhez hóolvadás is társul.",
+      "icon": "cloud-rain"
+    },
+    {
+      "title": "Gyors lefolyás a vízgyűjtőn",
+      "caption": "A fagyott vagy telített talajba, illetve a meredek, erdőtlen lejtőkön a víz nem tud beszivárogni, gyorsan lefolyik.",
+      "icon": "mountain"
+    },
+    {
+      "title": "Megáradnak a mellékfolyók",
+      "caption": "A hegyvidéki mellékfolyók gyorsan megáradnak, árhullámaik a főfolyóban összeadódhatnak.",
+      "icon": "droplets"
+    },
+    {
+      "title": "Árhullám a síkvidéken",
+      "caption": "A kis esésű, síkvidéki szakaszon az árhullám lelassul, a vízszint napokig, hetekig magas marad.",
+      "icon": "waves"
+    },
+    {
+      "title": "Kiöntés, gátszakadás",
+      "caption": "Ha a víz meghaladja a gát magasságát vagy átáztatja a gátat, elönti a mentesített ártereket.",
+      "icon": "alert-triangle"
+    },
+    {
+      "title": "Aktív védekezés",
+      "caption": "Gátmagasítás homokzsákokkal, a gátak megerősítése, szükség esetén a vésztározók megnyitása, a lakosság kitelepítése.",
+      "icon": "shield"
+    },
+    {
+      "title": "Megelőzés",
+      "caption": "Folyószabályozás, árvízvédelmi gátak, a hullámtér szabadon hagyása, vésztározók építése, a vízgyűjtő erdősítése és pontos árvízi előrejelzés.",
+      "icon": "trees"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Tisza és mellékfolyói (Szamos, Körös, Maros) az Északkeleti- és Keleti-Kárpátok gyors lefolyású vízgyűjtőjéről hirtelen áradhatnak; az 1879-es árvíz szinte teljesen elpusztította Szegedet.",
+      "places": [
+        "magyarorszag--vizrajz--tisza",
+        "magyarorszag--vizrajz--szamos",
+        "magyarorszag--telepulesek--szeged"
+      ]
+    },
+    {
+      "text": "A Duna nagy árvizei az Alpokra hulló tartós esőzésből és hóolvadásból alakulnak ki; a 2013-as árvíz Budapestnél is rekord vízállást okozott.",
+      "places": [
+        "magyarorszag--vizrajz--duna",
+        "europa--tajak--alpok",
+        "magyarorszag--telepulesek--budapest"
+      ]
+    },
+    {
+      "text": "A Gangesz alsó szakaszán, Bangladesben a nyári monszun és a Himalája hóolvadása miatt rendszeresek a pusztító árvizek.",
+      "places": [
+        "azsia--vizrajz--gangesz",
+        "azsia--orszagok--banglades"
+      ]
+    }
+  ],
+  "concepts": [
+    "árvíz",
+    "vízállás",
+    "vízhozam",
+    "vízjárás",
+    "ár- és belvízvédelem",
+    "árvízvédelmi gát",
+    "ártér",
+    "hullámtér",
+    "ármentesített terület (mentesített ártér)",
+    "vésztározó",
+    "folyószabályozás",
+    "villámáradás"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el az árvizek kialakulását! Mutasd be a Tisza példáján, milyen tényezők növelik az árvízveszélyt, és milyen módon lehet védekezni!",
+    "elements": [
+      {
+        "text": "Ok: tartós, nagy mennyiségű csapadék és/vagy hóolvadás a vízgyűjtőn.",
+        "points": 2
+      },
+      {
+        "text": "A fagyott vagy telített talaj, meredek lejtők, erdőirtás miatt gyors a lefolyás.",
+        "points": 2
+      },
+      {
+        "text": "A Tisza mellékfolyói a Kárpátokból gyorsan áradnak, árhullámaik összegeződhetnek.",
+        "points": 1
+      },
+      {
+        "text": "A kis esésű alföldi szakaszon az árhullám lassan vonul le, sokáig magas a vízszint.",
+        "points": 1
+      },
+      {
+        "text": "Árvízvédelmi gátak, hullámtér, folyószabályozás.",
+        "points": 2
+      },
+      {
+        "text": "Vésztározók, árvízi előrejelzés, a vízgyűjtő erdősítése.",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "Árvíz akkor alakul ki, ha a vízgyűjtőn tartós, nagy mennyiségű csapadék hullik, vagy ez tavasszal hóolvadással párosul. Ha a talaj fagyott vagy már telített, illetve a lejtők meredekek és erdőtlenek, a víz nem tud beszivárogni, hanem gyorsan lefolyik. A Tisza mellékfolyói a Kárpátok meredek vízgyűjtőjéről gyorsan megáradnak, és árhullámaik a főfolyóban összeadódhatnak. Az Alföld kis esésű szakaszán az árhullám lassan vonul le, ezért a vízszint sokáig magas marad, és a gátakat hosszan terheli. A védekezés alapja az árvízvédelmi gátrendszer, a szabadon hagyott hullámtér és a folyószabályozás. Ezt egészítik ki a vésztározók, amelyekbe a tetőző árhullám egy része levezethető, a pontos árvízi előrejelzés és a vízgyűjtő erdősítése."
+  },
+  "generated": true,
+  "reviewed": false
+}

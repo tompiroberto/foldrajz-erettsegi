@@ -1,0 +1,63 @@
+{
+  "id": "kozetanyag-korforgas",
+  "title": "A kőzetanyag-körforgás",
+  "summary": "A kőzetek anyaga a belső és a külső erők hatására folyamatosan átalakul: a magmás, az üledékes és az átalakult kőzetek egymásba alakulhatnak. A körforgást a Föld belső hője és a Nap energiája hajtja.",
+  "causes": [
+    "A belső erők (a Föld belső hője, lemezmozgások) magmát hoznak létre, kőzeteket emelnek ki vagy süllyesztenek mélybe.",
+    "A külső erők (a napenergia által mozgatott víz, szél, jég, valamint az élővilág) a felszínre került kőzeteket aprózzák, oldják és szállítják.",
+    "A lemezmozgások a felszíni kőzeteket a mélybe juttatják, ahol nagy nyomás és hőmérséklet éri őket."
+  ],
+  "course": [
+    "A magma kihűlésével és kristályosodásával mélységi vagy kiömlési magmás kőzet keletkezik.",
+    "A felszínre került kőzetek mállanak, lepusztulnak, anyagukat a víz, a szél vagy a jég elszállítja és lerakja.",
+    "A lerakódott üledék betemetődik, tömörödik, összecementálódik: üledékes kőzetté válik.",
+    "Nagy nyomáson és hőmérsékleten, megolvadás nélkül bármely kőzet átalakult kőzetté válhat, ha pedig megolvad, újra magma lesz."
+  ],
+  "consequences": [
+    "A kőzetek nem „örökök”: anyaguk földtörténeti idők alatt újra és újra felhasználódik.",
+    "Az egyes kőzettípusok keletkezésük helyét és körülményeit őrzik, ezért következtetni lehet belőlük a földtörténeti múltra.",
+    "A körforgás egyes szakaszaihoz ásványkincsek (ércek, szén, szénhidrogének, építőkövek) képződése kapcsolódik.",
+    "A körforgás nem mindig teljes: egy kőzet bármelyik szakaszból bármelyik másikba átléphet."
+  ],
+  "steps": [
+    { "title": "Magma → magmás kőzet (kihűlés)", "caption": "A magma a mélyben lassan kihűlve nagy kristályos mélységi magmás kőzetté (pl. gránit), a felszínen gyorsan kihűlve apró szemcsés kiömlési kőzetté (pl. bazalt, andezit) szilárdul.", "icon": "flame" },
+    { "title": "Mállás, lepusztulás, szállítás", "caption": "A felszínre került kőzeteket a hőingás, a víz, a jég és az élőlények aprózzák és oldják. A törmeléket és az oldott anyagot a folyók, a szél, a jég elszállítja.", "icon": "cloud-rain" },
+    { "title": "Lerakódás, üledékes kőzet (kőzetté válás)", "caption": "Az üledék a medencékben, tengerekben lerakódik, betemetődik, tömörödik és összecementálódik. Így lesz például a homokból homokkő, a mészvázakból mészkő.", "icon": "layers" },
+    { "title": "Átalakulás nagy nyomáson és hőmérsékleten", "caption": "A mélybe került kőzetek megolvadás nélkül átkristályosodnak, átalakult kőzetté válnak. A mészkőből így lesz márvány, az agyagos kőzetekből palás kőzet.", "icon": "thermometer" },
+    { "title": "Beolvadás: újra magma", "caption": "Az alábukó lemezzel még mélyebbre kerülő kőzetek megolvadnak, és újra magma keletkezik. Ezzel bezárul a kőzetanyag-körforgás.", "icon": "recycle" }
+  ],
+  "examples": [
+    { "text": "A Velencei-hegység gránitja mélységi magmás kőzet, amelyet a lepusztulás hozott felszínre; mállásával gyapjúzsákszerű formák alakultak ki.", "places": ["magyarorszag--egyeb-tajak-teruletek--velencei-hegyseg"] },
+    { "text": "A Badacsony bazaltja felszíni kiömlési magmás kőzet, a Bükk mészköve tengeri üledékből keletkezett üledékes kőzet.", "places": ["magyarorszag--egyeb-tajak-teruletek--badacsony", "magyarorszag--egyeb-tajak-teruletek--bukk"] },
+    { "text": "A Himalája csúcsain egykori tengeri üledékes kőzetek találhatók, amelyeket a lemezütközés emelt magasra.", "places": ["azsia--tajak--himalaja"] }
+  ],
+  "concepts": [
+    "kőzetanyag-körforgás",
+    "magma",
+    "kőzet",
+    "magmás kőzet",
+    "mélységi magmás kőzet",
+    "vulkáni kiömlési kőzet",
+    "üledékes kőzet",
+    "átalakult kőzet",
+    "beolvadás",
+    "gránit",
+    "bazalt",
+    "mészkő",
+    "márvány"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a kőzetanyag-körforgás folyamatát! Mutasd be a főbb kőzettípusok keletkezését és a körforgást mozgató erőket!",
+    "elements": [
+      { "text": "A körforgást a belső erők (belső hő, lemezmozgás) és a külső erők (napenergia, víz, szél, jég) hajtják.", "points": 2 },
+      { "text": "A magma kihűlésével magmás kőzet (mélységi vagy kiömlési) keletkezik.", "points": 2 },
+      { "text": "Mállás, lepusztulás, szállítás, majd lerakódás.", "points": 1 },
+      { "text": "Az üledék tömörödéssel, cementálódással üledékes kőzetté válik.", "points": 2 },
+      { "text": "Nagy nyomáson és hőmérsékleten, megolvadás nélkül átalakult kőzet keletkezik (pl. mészkő → márvány).", "points": 2 },
+      { "text": "Beolvadással újra magma lesz, a körforgás bezárul.", "points": 1 }
+    ],
+    "modelAnswer": "A kőzetanyag-körforgást a belső erők, vagyis a Föld belső hője és a lemezmozgások, valamint a napenergia által hajtott külső erők működtetik. A magma kihűlésével magmás kőzet keletkezik: a mélyben lassan hűlve mélységi, például gránit, a felszínen gyorsan hűlve kiömlési, például bazalt. A felszínre került kőzetek mállanak, lepusztulnak, anyagukat a víz, a szél és a jég elszállítja, majd lerakja. A lerakódott üledék betemetődik, tömörödik és összecementálódik, így üledékes kőzetté válik. Nagy nyomáson és hőmérsékleten, megolvadás nélkül bármely kőzet átalakult kőzetté válhat, például a mészkőből márvány lesz. Ha a kőzet az alábukó lemezzel mélyre kerül és beolvad, újra magma keletkezik, és a körforgás bezárul."
+  },
+  "generated": true,
+  "reviewed": false
+}

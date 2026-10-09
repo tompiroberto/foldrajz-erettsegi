@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ausztralia-es-oceania--tajak--ausztraliai-alfold",
+        "name": "Ausztráliai-alföld",
+        "confidence": "low",
+        "note": "Középső-alföld (Central Lowlands): a Carpentaria-öböltől a Murray–Darling-medencéig, a Nagy-Vízválasztó-hegységtől nyugatra; a határ vázlatos."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.0, -17.6],
+            [138.6, -17.6],
+            [137.2, -21.0],
+            [136.6, -25.0],
+            [137.6, -29.0],
+            [137.6, -33.0],
+            [139.0, -34.6],
+            [141.0, -35.6],
+            [145.0, -35.6],
+            [147.0, -33.0],
+            [147.6, -29.0],
+            [146.6, -25.0],
+            [145.0, -21.0],
+            [143.6, -18.0],
+            [141.0, -17.6]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+/* Design tokens – "Atlas & Strata".
+   Topography = a dark-green atlas on paper. Theory = deep-blue strata world.
+   Brand colours are used for fills; the *-ink / *-strong variants are text- and
+   button-safe (≥ 4.5:1, checked in scripts). */
+
+:root {
+  --paper: #F7F4EC;
+  --paper-2: #EFEADD;
+  --ink: #1B2430;
+  --muted: #5B6573;
+  --line: #D9D3C3;
+  --ok: #2E9E5B;
+  --bad: #D64545;
+  --warn: #E0A100;
+  --ok-ink: #1E7A45;
+  --bad-ink: #B83232;
+  --warn-ink: #8A6400;
+  --on-accent: #FFFFFF;
+  --glass: rgb(247 244 236 / 0.8);
+  --shadow: 0 1px 2px rgb(27 36 48 / 0.06), 0 8px 24px -12px rgb(27 36 48 / 0.18);
+  --shadow-lift: 0 2px 4px rgb(27 36 48 / 0.08), 0 16px 32px -14px rgb(27 36 48 / 0.28);
+
+  --font-head: 'Fraunces Variable', 'Fraunces', Georgia, serif;
+  --font-body: 'IBM Plex Sans', system-ui, sans-serif;
+  --font-map: 'IBM Plex Sans Condensed', 'IBM Plex Sans', sans-serif;
+
+  --radius: 16px;
+  --radius-sm: 10px;
+  --header-h: 64px;
+  --tabbar-h: 0px;
+
+  /* Fixed identity of the two header halves, whatever mode is active. */
+  --topo-accent: #1D5C3A;
+  --topo-half: #DCEBE1;
+  --topo-half-ink: #174D30;
+  --theory-accent: #F0875A;
+  --theory-half: #13294A;
+  --theory-half-ink: #F6A67F;
+
+  /* Topography is the default world. */
+  --accent: #1D5C3A;
+  --accent-2: #F2C14E;
+  --accent-ink: #1D5C3A;
+  --accent-strong: #1D5C3A;
+  --tint: #E1EEE5;
+  --sea: #D3E6E3;
+  --land: #F7F4EC;
+  --contour: #6FA585;
+  --bg-motif: #2E7D4F;
+
+  color-scheme: light;
+}
+
+[data-mode='topo'] {
+  --accent: #1D5C3A;
+  --accent-2: #F2C14E;
+  --accent-ink: #1D5C3A;
+  --accent-strong: #1D5C3A;
+  --tint: #E1EEE5;
+  --sea: #D3E6E3;
+  --land: #F7F4EC;
+  --contour: #6FA585;
+  --bg-motif: #2E7D4F;
+}
+
+/* Theory: a deep-blue world in both light and dark themes. */
+[data-mode='theory'] {
+  --paper: #0E2238;
+  --paper-2: #142C47;
+  --ink: #E9EEF5;
+  --muted: #A9B6C6;
+  --line: #284562;
+  --ok: #5BC98A;
+  --bad: #F07B7B;
+  --warn: #F2C14E;
+  --ok-ink: #7FD8A4;
+  --bad-ink: #F59A9A;
+  --warn-ink: #F2C14E;
+  --on-accent: #0E2238;
+  --glass: rgb(14 34 56 / 0.72);
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 8px 24px -12px rgb(0 0 0 / 0.6);
+  --shadow-lift: 0 2px 4px rgb(0 0 0 / 0.35), 0 16px 32px -14px rgb(0 0 0 / 0.7);
+  --accent: #F0875A;
+  --accent-2: #8FB0D9;
+  --accent-ink: #F6A67F;
+  --accent-strong: #F0875A;
+  --tint: #1B3554;
+  --sky: #16365A;
+  --rock: #6B5A45;
+  --magma: #E4572E;
+  --contour: #3A5A7C;
+  --bg-motif: #F0875A;
+  color-scheme: dark;
+}
+
+/* Dark theme for topography: night atlas. */
+[data-theme='dark'] {
+  --paper: #0F1620;
+  --paper-2: #16202D;
+  --ink: #E8EDF2;
+  --muted: #9AA6B5;
+  --line: #2A3647;
+  --ok: #5BC98A;
+  --bad: #F07B7B;
+  --warn: #F2C14E;
+  --ok-ink: #5BC98A;
+  --bad-ink: #F07B7B;
+  --warn-ink: #F2C14E;
+  --on-accent: #0F1620;
+  --glass: rgb(15 22 32 / 0.76);
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 8px 24px -12px rgb(0 0 0 / 0.6);
+  --shadow-lift: 0 2px 4px rgb(0 0 0 / 0.35), 0 16px 32px -14px rgb(0 0 0 / 0.7);
+  --topo-half: #15301F;
+  --topo-half-ink: #6FD39A;
+  --theory-half: #0B1A2B;
+  color-scheme: dark;
+}
+
+[data-theme='dark'][data-mode='topo'],
+[data-theme='dark']:not([data-mode]) {
+  --accent: #5CC98C;
+  --accent-ink: #6FD39A;
+  --accent-strong: #5CC98C;
+  --tint: #15301F;
+  --sea: #10263A;
+  --land: #1A2530;
+  --contour: #2F6B4A;
+  --bg-motif: #5CC98C;
+}
+
+[data-theme='dark'][data-mode='theory'] {
+  --paper: #0B1A2B;
+  --paper-2: #10243A;
+  --glass: rgb(11 26 43 / 0.74);
+  --line: #23405E;
+}

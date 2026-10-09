@@ -1,0 +1,137 @@
+{
+  "id": "jeg-munkaja",
+  "title": "A jég munkája: a gleccser",
+  "summary": "A hóhatár fölött felhalmozódó hó firnné, majd gleccserjéggé alakul, amely lassan lefelé mozog, kivájja völgyét, és törmeléket (morénát) szállít és rak le. A jég munkája U alakú völgyeket, morénasáncokat, fjordokat és tavakat hoz létre.",
+  "causes": [
+    "A hóhatár fölött több hó hullik, mint amennyi nyáron elolvad, ezért a hó évről évre felhalmozódik.",
+    "A hó a saját súlya alatt tömörödik, és csonthóvá (firn), majd gleccserjéggé alakul.",
+    "A jég nagy tömege és a lejtő miatt a gleccser lassan lefelé mozog (a jég plasztikusan „folyik”)."
+  ],
+  "course": [
+    "A gleccser a hegyvidéki gyűjtőmedencéből (kárfülke) indul, és a korábbi völgyet követve halad lefelé.",
+    "A jég és a belefagyott kőzettörmelék csiszolja, mélyíti és szélesíti a völgyet: V alakú völgyből U alakú völgy (teknővölgy) lesz, a sziklákon vásott sziklák keletkeznek.",
+    "A gleccser a lepusztított törmeléket morénaként szállítja (oldal-, közép-, fenékmoréna).",
+    "A hóhatár alatt a jég olvad; a gleccser végénél a felhalmozott törmelék végmorénát (morénasáncot) alkot, az olvadékvíz gleccserpatakként folyik el."
+  ],
+  "consequences": [
+    "Jellegzetes jégformálta felszín jön létre: kárfülkék, U alakú völgyek, éles gerincek, morénasáncok.",
+    "A tengerbe nyúló, elöntött jégvájta völgyekből fjordok lettek (pl. Norvégia partjain).",
+    "A morénák elgátolta és a jég vájta mélyedésekben tavak keletkeznek (tóhátság, tengerszemek).",
+    "A jégkorszaki jégtakarók vándorköveket és morénasíkságokat hagytak hátra; a gleccserek ma fontos édesvíztartalékok."
+  ],
+  "steps": [
+    {
+      "title": "Hófelhalmozódás a hóhatár fölött",
+      "caption": "A hóhatár fölött a lehullott hó nem olvad el teljesen, így évről évre vastagodik.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "Firn és gleccserjég",
+      "caption": "A hó a ránehezedő rétegek súlya alatt tömörödik: előbb szemcsés csonthóvá (firn), majd tömör gleccserjéggé alakul.",
+      "icon": "mountain-snow"
+    },
+    {
+      "title": "A gleccser mozgása",
+      "caption": "A jég a saját súlya alatt lassan lefelé mozog a völgyben; mozgását a lejtő és a jég tömege határozza meg.",
+      "icon": "arrow-down"
+    },
+    {
+      "title": "Völgyformálás: U alakú völgy",
+      "caption": "A jég és a belefagyott törmelék kivájja, kiszélesíti a völgyet. Így alakul ki a meredek falú, széles talpú U alakú völgy (teknővölgy).",
+      "icon": "mountain"
+    },
+    {
+      "title": "Morénaszállítás",
+      "caption": "A gleccser a völgy oldaláról és aljáról leszakított törmeléket oldal-, közép- és fenékmorénaként szállítja.",
+      "icon": "layers"
+    },
+    {
+      "title": "Olvadás, végmoréna, gleccserpatak",
+      "caption": "A hóhatár alatt a jég elolvad. Végénél a törmelék végmoréna (morénasánc) formájában halmozódik fel, az olvadékvíz gleccserpatakként folyik tovább.",
+      "icon": "droplets"
+    },
+    {
+      "title": "Jég utáni formák: tavak és fjordok",
+      "caption": "A jég visszahúzódása után a morénák mögött tavak duzzadnak fel, a tengerszint alá vájt völgyeket pedig a tenger önti el: így jönnek létre a fjordok.",
+      "icon": "waves"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Az Alpokban ma is számos völgyi gleccser található; jól láthatók az U alakú völgyek és a végmorénák elgátolta tavak.",
+      "places": [
+        "europa--tajak--alpok"
+      ]
+    },
+    {
+      "text": "Norvégia tagolt partvidékét a jégkorszaki gleccserek kivájta, majd a tenger által elöntött fjordok jellemzik.",
+      "places": [
+        "europa--orszagok--norvegia",
+        "europa--tajak--skandinav-hegyseg"
+      ]
+    },
+    {
+      "text": "A Lengyel-tóhátság a jégkorszaki jégtakaró morénáiból és a köztük lévő tavakból álló táj.",
+      "places": [
+        "europa--tajak--lengyel-tohatsag"
+      ]
+    },
+    {
+      "text": "Grönlandon és az Antarktiszon ma is hatalmas jégtakaró borítja a szárazföldet.",
+      "places": [
+        "amerika--tajak--gronland",
+        "fold--egyeb--deli-sarkvidek-antarktisz"
+      ]
+    }
+  ],
+  "concepts": [
+    "hóhatár",
+    "csonthó (firn)",
+    "gleccserjég",
+    "gleccser",
+    "jégtakaró",
+    "moréna",
+    "U alakú völgy (teknővölgy)",
+    "fenék- és végmoréna",
+    "morénasánc",
+    "gleccserpatak",
+    "tóhátság",
+    "fjord",
+    "kárfülke",
+    "vásott szikla",
+    "oldal- és középmoréna",
+    "vándorkő"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a gleccserek kialakulását és felszínformáló munkáját! Mutasd be a jég által létrehozott pusztító és építő formákat!",
+    "elements": [
+      {
+        "text": "A hóhatár fölött a hó felhalmozódik, mert több hullik, mint amennyi elolvad.",
+        "points": 1
+      },
+      {
+        "text": "A hó tömörödéssel csonthóvá (firn), majd gleccserjéggé alakul.",
+        "points": 2
+      },
+      {
+        "text": "A jég a saját súlya és a lejtő miatt lassan lefelé mozog.",
+        "points": 1
+      },
+      {
+        "text": "Pusztító munka: a jég és a belefagyott törmelék kivájja a völgyet, U alakú völgy (teknővölgy), kárfülke jön létre.",
+        "points": 2
+      },
+      {
+        "text": "A gleccser a törmeléket morénaként szállítja; végénél végmoréna (morénasánc) halmozódik fel, az olvadékvíz gleccserpatakként folyik el.",
+        "points": 2
+      },
+      {
+        "text": "Jég utáni formák: morénák elgátolta tavak, fjordok (a tenger elöntötte jégvájta völgyek).",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A hóhatár fölött több hó hullik, mint amennyi nyáron elolvad, ezért a hó felhalmozódik. A ránehezedő rétegek súlya alatt a hó tömörödik, előbb csonthóvá (firn), majd gleccserjéggé alakul, amely a saját súlya és a lejtő miatt lassan lefelé mozog. A jég és a belefagyott kőzettörmelék kivájja és kiszélesíti a völgyet, így a gyűjtőterületen kárfülke, lejjebb U alakú völgy (teknővölgy) jön létre. A lepusztított törmeléket a gleccser morénaként szállítja, és a hóhatár alatti olvadási területen végmorénaként (morénasáncként) rakja le, miközben az olvadékvíz gleccserpatakként folyik el. A jég visszahúzódása után a morénák mögött tavak duzzadnak fel, a tenger által elöntött jégvájta völgyekből pedig fjordok lesznek, mint Norvégia partjain."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,134 @@
+{
+  "id": "globalis-felmelegedes",
+  "title": "A globális felmelegedés visszacsatolásai",
+  "summary": "Az emberi tevékenység növeli a légkör üvegházgáz-tartalmát, ezért az üvegházhatás fokozódik, és a Föld átlaghőmérséklete emelkedik. A felmelegedést pozitív visszacsatolások (jég-albedó, permafroszt, vízgőz, óceán) tovább erősítik, ezért a folyamat önmagát gyorsíthatja.",
+  "causes": [
+    "A fosszilis tüzelőanyagok égetése szén-dioxidot juttat a légkörbe.",
+    "Az erdőirtás csökkenti a szén-dioxidot megkötő növényzetet.",
+    "A mezőgazdaság (rizstermesztés, szarvasmarha-tartás) és a hulladéklerakók metánt bocsátanak ki.",
+    "Az üvegházgázok elnyelik a felszín hosszúhullámú kisugárzását, és a hő egy részét visszasugározzák a felszín felé."
+  ],
+  "course": [
+    "Jég-albedó visszacsatolás: a melegedés miatt olvad a hó és a jég, a sötétebb felszín (víz, talaj) több napsugárzást nyel el, ezért tovább melegszik.",
+    "Permafroszt-visszacsatolás: az „örök fagy” felenged, a benne tárolt szerves anyag bomlásából szén-dioxid és metán szabadul fel.",
+    "Vízgőz-visszacsatolás: a melegebb levegő több vízgőzt tartalmaz, a vízgőz maga is üvegházgáz.",
+    "Óceáni visszacsatolás: a melegebb óceánvíz kevesebb szén-dioxidot képes oldani, így több marad a légkörben."
+  ],
+  "consequences": [
+    "A gleccserek és jégtakarók olvadnak, a tengervíz hőtágulása mellett ez tengerszint-emelkedést okoz, veszélyeztetve az alacsony part menti területeket.",
+    "Gyakoribbá válnak az időjárási szélsőségek: hőhullámok, aszályok, heves záporok, árvizek.",
+    "Az éghajlati övezetek eltolódnak, élőhelyek szűnnek meg, csökken a biológiai sokféleség.",
+    "Megoldás: a kibocsátás csökkentése (megújuló energiaforrások, energiahatékonyság), erdősítés, nemzetközi egyezmények (Kiotói Jegyzőkönyv, párizsi egyezmény) és alkalmazkodás."
+  ],
+  "steps": [
+    {
+      "title": "Üvegházgáz-kibocsátás",
+      "caption": "A fosszilis tüzelőanyagok égetése, az erdőirtás és a mezőgazdaság növeli a légkör szén-dioxid- és metántartalmát.",
+      "icon": "factory"
+    },
+    {
+      "title": "Az üvegházhatás fokozódása",
+      "caption": "Az üvegházgázok több hőt tartanak vissza a felszín kisugárzásából, ezért nő az átlaghőmérséklet.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Jég-albedó visszacsatolás",
+      "caption": "Olvad a hó és a jég; a sötétebb víz- és talajfelszín több napsugárzást nyel el, ami további melegedést okoz.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "A permafroszt olvadása",
+      "caption": "Felenged az „örök fagy”, a bomló szerves anyagból szén-dioxid és metán szabadul fel, ami tovább fokozza az üvegházhatást.",
+      "icon": "mountain-snow"
+    },
+    {
+      "title": "Több vízgőz, kevesebb oldott szén-dioxid",
+      "caption": "A melegebb levegő több vízgőzt tartalmaz, a melegebb óceán kevesebb szén-dioxidot old: mindkettő erősíti a melegedést.",
+      "icon": "waves"
+    },
+    {
+      "title": "Tengerszint-emelkedés és szélsőségek",
+      "caption": "Olvadnak a jégtakarók, emelkedik a tengerszint, gyakoribbak a hőhullámok, aszályok és árvizek.",
+      "icon": "alert-triangle"
+    },
+    {
+      "title": "Kibocsátáscsökkentés és alkalmazkodás",
+      "caption": "Megújuló energiaforrások, energiahatékonyság, erdősítés és nemzetközi egyezmények (párizsi egyezmény) mérsékelhetik a folyamatot.",
+      "icon": "recycle"
+    }
+  ],
+  "examples": [
+    {
+      "text": "Grönland jégtakarója gyorsuló ütemben olvad, ami hozzájárul a tengerszint emelkedéséhez.",
+      "places": [
+        "amerika--tajak--gronland"
+      ]
+    },
+    {
+      "text": "Szibériában a permafroszt felengedése megsüllyeszti az épületeket, utakat, és üvegházgázokat szabadít fel.",
+      "places": [
+        "azsia--tajak--sziberia"
+      ]
+    },
+    {
+      "text": "Banglades alacsony fekvésű deltavidékét a tengerszint emelkedése és a gyakoribb áradások fenyegetik.",
+      "places": [
+        "azsia--orszagok--banglades"
+      ]
+    },
+    {
+      "text": "Az Alpok gleccserei jelentősen visszahúzódtak, ami a vízkészleteket és a turizmust is érinti.",
+      "places": [
+        "europa--tajak--alpok"
+      ]
+    }
+  ],
+  "concepts": [
+    "üvegházhatás",
+    "üvegházgázok",
+    "az üvegházhatás fokozódása",
+    "globális felmelegedés",
+    "sugárzás-visszaverő képesség (albedó)",
+    "„örök fagy” (permafroszt)",
+    "éghajlatváltozás (klímaváltozás)",
+    "klímaválság",
+    "Kiotói Jegyzőkönyv",
+    "párizsi egyezmény"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a globális felmelegedés okait, és mutasd be, hogyan erősítik fel a folyamatot a pozitív visszacsatolások! Térj ki a következményekre és a lehetséges megoldásokra!",
+    "elements": [
+      {
+        "text": "Okok: fosszilis tüzelőanyagok égetése, erdőirtás, mezőgazdasági metánkibocsátás – nő az üvegházgázok mennyisége.",
+        "points": 2
+      },
+      {
+        "text": "Az üvegházgázok visszatartják a felszín kisugárzását: fokozódik az üvegházhatás.",
+        "points": 1
+      },
+      {
+        "text": "Jég-albedó visszacsatolás: a jég olvadásával csökken az albedó, a felszín több sugárzást nyel el.",
+        "points": 2
+      },
+      {
+        "text": "Permafroszt-olvadás: metán és szén-dioxid szabadul fel.",
+        "points": 2
+      },
+      {
+        "text": "Vízgőz- és óceáni visszacsatolás: több vízgőz a légkörben, a meleg óceán kevesebb szén-dioxidot old.",
+        "points": 1
+      },
+      {
+        "text": "Következmények: tengerszint-emelkedés, időjárási szélsőségek, övezetek eltolódása.",
+        "points": 2
+      },
+      {
+        "text": "Megoldás: kibocsátáscsökkentés, megújuló energia, nemzetközi egyezmények (Kiotói Jegyzőkönyv, párizsi egyezmény).",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A fosszilis tüzelőanyagok égetése, az erdőirtás és a mezőgazdaság metánkibocsátása miatt nő a légkör üvegházgáz-tartalma, ezek visszatartják a felszín hosszúhullámú kisugárzását, így az üvegházhatás fokozódik, és a Föld átlaghőmérséklete emelkedik. A melegedést pozitív visszacsatolások erősítik: az olvadó hó és jég helyén megjelenő sötétebb felszín kisebb albedójú, ezért több napsugárzást nyel el. A felengedő permafrosztból a bomló szerves anyag révén metán és szén-dioxid szabadul fel, a melegebb levegő több vízgőzt tartalmaz, a melegebb óceán pedig kevesebb szén-dioxidot képes oldani. A következmény a jégtakarók olvadása és a tengerszint emelkedése, amely például Banglades alacsony partvidékét fenyegeti, valamint a hőhullámok, aszályok és árvizek gyakoribbá válása és az éghajlati övezetek eltolódása. A folyamat a kibocsátás csökkentésével, megújuló energiaforrásokkal, energiahatékonysággal és nemzetközi egyezményekkel, például a Kiotói Jegyzőkönyvvel és a párizsi egyezménnyel mérsékelhető."
+  },
+  "generated": true,
+  "reviewed": false
+}

@@ -1,0 +1,767 @@
+{ "cards": [
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k1",
+  "explanation": "A szennyezés sokszor egy ponton keletkezik, de a levegő, a víz és a világkereskedelem továbbviszi, így helyi problémából regionális, majd globális lesz.\n\nPéldák:\n- Csernobil (1986): egy erőmű balesete után a radioaktív felhő Európa nagy részét elérte.\n- Savas eső: a hőerőművek kén-dioxidja a széllel országhatárokon túl, akár több száz km-re hullik le (pl. skandináv tavak savasodása).\n- Freonok: helyi hűtőgépek, spray-k gázai a sztratoszférában bontják az ózont, az ózonlyuk az Antarktisz felett alakult ki.\n- Szén-dioxid: minden kémény hozzájárul az üvegházhatás erősödéséhez, a következmény (tengerszint-emelkedés) a távoli szigetországokat is sújtja.\n- Műanyag: a folyókba kerülő hulladék az óceáni áramlásokkal hatalmas szemétfoltokba gyűlik.\n\nA lényeg: a szennyezés nem ismer országhatárt, ezért a megoldáshoz is összefogás kell.",
+  "diagram": null,
+  "concepts": ["regionális és globális probléma", "környezetkárosítás", "környezeti katasztrófa"],
+  "processes": ["savas-eso", "ozonreteg", "globalis-felmelegedes"],
+  "examTip": "Mindig mutasd be a szállító közeget (légkörzés, tengeráramlás, folyó), mert ez teszi a helyi szennyezést globálissá.",
+  "selfCheck": [
+    { "q": "Miért lett Csernobil európai probléma?", "a": "A radioaktív anyagot a légköri áramlások több országba szállították." },
+    { "q": "Hol alakult ki az ózonlyuk, és mi okozta elsősorban?", "a": "Az Antarktisz felett; főként a freonok." }
+  ],
+  "trueFalse": [
+    { "statement": "A savas eső az ipari kibocsátás helyétől távol is kárt okozhat.", "true": true },
+    { "statement": "Az ózonlyuk elsősorban a szén-dioxid-kibocsátás következménye.", "true": false, "correction": "Az ózonréteget főként a freonok (halogénezett szénhidrogének) bontják; a szén-dioxid az üvegházhatást erősíti." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k2",
+  "explanation": "A környezetkárosítás nem csak a természetet, hanem az emberek mindennapjait is rombolja.\n\nTársadalmi következmények:\n- Egészség: légúti és daganatos betegségek, mérgezések (pl. Bhopal, 1984: vegyi üzem gázszivárgása Indiában).\n- Megélhetés elvesztése: az Aral-tó kiszáradásával összeomlott a halászat, a kiszáradt mederből sós, vegyszeres por száll.\n- Kényszerű elvándorlás: Csernobil és Fukusima (2011) körül lakatlan zónák jöttek létre, a Száhel elsivatagosodó területeiről sokan menekülnek – megjelentek a környezeti menekültek.\n- Gazdasági kár: a vörösiszap-katasztrófa (Ajka, 2010) házakat, földeket tett tönkre.\n- Konfliktusok: a szűkülő víz és termőföld miatt nő a feszültség.\n\nFigyelj arra, hogy a terheket leginkább a szegény, fejlődő országok lakói viselik, akiknek kevés eszközük van a védekezésre.",
+  "diagram": null,
+  "concepts": ["környezeti katasztrófa", "környezetkárosítás", "menekült", "társadalmi-gazdasági egyenlőtlenség"],
+  "processes": ["talajpusztulas-sivatagosodas"],
+  "examTip": "Egy példánál mindig párosítsd az okot (pl. öntözés) a társadalmi hatással (munkanélküliség, betegség, elvándorlás).",
+  "selfCheck": [
+    { "q": "Milyen társadalmi hatásai lettek az Aral-tó kiszáradásának?", "a": "Megszűnt a halászat, munkanélküliség, sós-vegyszeres porviharok miatti betegségek, elvándorlás." },
+    { "q": "Kiket nevezünk környezeti menekültnek?", "a": "Akik a környezet romlása (pl. elsivatagosodás, katasztrófa) miatt kényszerülnek elhagyni lakóhelyüket." }
+  ],
+  "trueFalse": [
+    { "statement": "A környezeti károk terheit nagyobb arányban viselik a szegényebb országok lakói.", "true": true },
+    { "statement": "Az ajkai vörösiszap-katasztrófa egy atomerőmű balesete volt.", "true": false, "correction": "Egy timföldgyár vörösiszap-tározójának gátja szakadt át 2010-ben." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k3",
+  "explanation": "A környezeti változásokra kétféleképpen reagálhatunk:\n\n1. Mérséklés (megelőzés) – az okokat csökkentjük:\n- kevesebb fosszilis energia, több megújuló (nap, szél, víz),\n- energiahatékonyság (szigetelés, takarékos járművek),\n- erdőtelepítés, az erdőirtás visszaszorítása,\n- szűrők, tisztítóművek, kibocsátási határértékek.\n\n2. Alkalmazkodás (felkészülés) – a már elkerülhetetlen hatásokhoz igazodunk:\n- gátak, árvízvédelem a tengerszint-emelkedés ellen (pl. Hollandia),\n- víztakarékos öntözés, aszálytűrő növények,\n- hőségriasztás, városi zöldfelületek a városklíma ellen,\n- korai előrejelző rendszerek (cunami, hurrikán).\n\nA megállításhoz egyéni, állami és nemzetközi szintű lépések együtt kellenek, mert egyetlen ország önmagában nem tudja megoldani a globális problémákat.",
+  "diagram": "greenhouse",
+  "concepts": ["megújuló és nem megújuló energiaforrások", "energiahatékonyság", "klímaválság", "fenntarthatóság"],
+  "processes": ["globalis-felmelegedes"],
+  "examTip": "Szokás kérni, hogy válogasd szét a lépéseket: mérséklés (ok csökkentése) vagy alkalmazkodás (következmény kezelése).",
+  "selfCheck": [
+    { "q": "Mérséklés vagy alkalmazkodás a gátépítés a tengerszint-emelkedés ellen?", "a": "Alkalmazkodás – a következményt kezeli, nem az okot." },
+    { "q": "Mondj két mérséklő lépést!", "a": "Pl. megújuló energia használata, erdőtelepítés, energiahatékonyság." }
+  ],
+  "trueFalse": [
+    { "statement": "Az erdőtelepítés segít csökkenteni a légkör szén-dioxid-tartalmát.", "true": true },
+    { "statement": "Az alkalmazkodás azt jelenti, hogy megszüntetjük a változás okát.", "true": false, "correction": "Az okok csökkentése a mérséklés; az alkalmazkodás a már bekövetkező hatásokhoz való igazodás." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k4",
+  "explanation": "A globális problémák (légszennyezés, éghajlatváltozás, óceánok szennyezése) nem állnak meg a határokon, ezért csak nemzetközi összefogással kezelhetők. Ha egy ország csökkenti a kibocsátását, de a többi nem, az eredmény elvész.\n\nFontos lépések:\n- Riói konferencia (1992, Föld-csúcs): a fenntartható fejlődés elve, éghajlatváltozási és biológiai sokféleségre vonatkozó egyezmény.\n- Montreali Jegyzőkönyv (1987): a freonok kivonása – az egyik legsikeresebb egyezmény.\n- Kiotói Jegyzőkönyv (1997): a fejlett országok üvegházgáz-csökkentési vállalásai.\n- Párizsi egyezmény (2015): a felmelegedést 2 °C alatt, lehetőleg 1,5 °C-on kell tartani; szinte minden ország vállalt.\n\nNehézség: eltérő érdekek – a fejlődő országok a gazdasági növekedést féltik, a fejlett országok a költségeket. Ezért kell a közös, de eltérő mértékű felelősség elve.",
+  "diagram": null,
+  "concepts": ["riói egyezmény", "Kiotói Jegyzőkönyv", "párizsi egyezmény", "regionális és globális probléma"],
+  "processes": ["globalis-felmelegedes", "ozonreteg"],
+  "examTip": "Az évszámokat (1987, 1992, 1997, 2015) és a fő célt párban tanuld meg – gyakori párosító feladat.",
+  "selfCheck": [
+    { "q": "Mi a párizsi egyezmény fő célja?", "a": "A globális felmelegedést 2 °C alatt, lehetőleg 1,5 °C-on tartani." },
+    { "q": "Miért nem elég, ha egy ország önállóan cselekszik?", "a": "A szennyezés határokon átterjed, a hatás globális, ezért közös fellépés kell." }
+  ],
+  "trueFalse": [
+    { "statement": "A Montreali Jegyzőkönyv az ózonréteget károsító anyagok kivonásáról szól.", "true": true },
+    { "statement": "A Kiotói Jegyzőkönyvet 2015-ben fogadták el.", "true": false, "correction": "1997-ben fogadták el; 2015-ös a párizsi egyezmény." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k5",
+  "explanation": "Az ember egyre nagyobb területet alakít át a saját céljaira, ezért szűkülnek és feldarabolódnak a természetes élőhelyek.\n\nFő okok:\n- Erdőirtás: az Amazonas-medencében legelő, szója- és olajpálma-ültetvény (Indonézia) kedvéért.\n- Mezőgazdaság: a természetes életközösség helyére egyfajta növényből álló mesterséges életközösség (monokultúra) kerül.\n- Városok, utak terjeszkedése: feldarabolják az élőhelyeket.\n- Lecsapolás, folyószabályozás: eltűnnek a vizes élőhelyek.\n- Szennyezés, túlhalászás, orvvadászat.\n- Idegenhonos (invazív) fajok behurcolása.\n- Éghajlatváltozás: pl. a korallzátonyok kifehéredése.\n\nAz eredmény: egyre több a veszélyeztetett élőhely, és gyorsul a fajok kipusztulása.",
+  "diagram": null,
+  "concepts": ["természetes és mesterséges életközösség", "veszélyeztetett élőhely", "a biológiai sokféleség (biodiverzitás) csökkenése"],
+  "processes": [],
+  "examTip": "Az élőhelyek pusztulásánál az erdőirtás + mezőgazdaság + urbanizáció hármasa a kulcs; mindegyikhez írj konkrét helyszínt.",
+  "selfCheck": [
+    { "q": "Mi különbözteti meg a mesterséges életközösséget a természetestől?", "a": "Az ember hozza létre és tartja fenn (pl. szántó, ültetvény), kevés fajból áll, önmagában nem stabil." },
+    { "q": "Miért irtják az Amazonas-medence esőerdejét?", "a": "Legelők, szójaföldek, fakitermelés, bányászat és utak miatt." }
+  ],
+  "trueFalse": [
+    { "statement": "Az élőhelyek feldarabolódása is hozzájárul a fajok eltűnéséhez.", "true": true },
+    { "statement": "A monokultúrás ültetvény a természetes életközösségek közé tartozik.", "true": false, "correction": "Mesterséges életközösség, amelyet az ember hozott létre és tart fenn." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--k6",
+  "explanation": "Az élőhelyek pusztulása a biológiai sokféleség (biodiverzitás) csökkenéséhez vezet, ennek pedig láncszerű következményei vannak.\n\nTermészeti következmények:\n- fajok kipusztulnak, a táplálékláncok felborulnak,\n- csökken az ökoszisztémák stabilitása,\n- az erdőirtás után talajerózió, a víz körforgásának zavara, helyi éghajlatváltozás,\n- a kivágott erdők szén-dioxid-elnyelése elvész, ez erősíti az üvegházhatást.\n\nTársadalmi következmények:\n- elvesznek a jövőbeni gyógyszer- és élelmiszer-alapanyagok, génkészletek,\n- a beporzó rovarok fogyása veszélyezteti a termést,\n- a helyi és őslakos közösségek elveszítik megélhetésüket,\n- az élővilágra épülő turizmus és halászat visszaesik.\n\nA kipusztult faj nem pótolható – ezért a megelőzés a lényeg.",
+  "diagram": null,
+  "concepts": ["a biológiai sokféleség (biodiverzitás) csökkenése", "veszélyeztetett élőhely", "környezetkárosítás"],
+  "processes": ["talajpusztulas-sivatagosodas", "globalis-felmelegedes"],
+  "examTip": "Válaszd szét a természeti és a társadalmi következményeket – a pontozási útmutató gyakran mindkettőt kéri.",
+  "selfCheck": [
+    { "q": "Hogyan kapcsolódik az esőerdő-irtás a globális felmelegedéshez?", "a": "Csökken a szén-dioxid-elnyelés, az égetés pedig szén-dioxidot juttat a légkörbe." },
+    { "q": "Miért gazdasági kérdés is a biodiverzitás?", "a": "Gyógyszer- és élelmiszer-alapanyagok, beporzás, turizmus, halászat függ tőle." }
+  ],
+  "trueFalse": [
+    { "statement": "Az erdőirtás fokozhatja a talajeróziót.", "true": true },
+    { "statement": "A fajszám csökkenése nem érinti a mezőgazdaságot.", "true": false, "correction": "Érinti: pl. a beporzó rovarok fogyása csökkenti a terméshozamot." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e1",
+  "explanation": "A környezeti válság akkor alakul ki, amikor az ember a természet terhelhetőségénél (megújulóképességénél) gyorsabban használja fel az erőforrásokat és több szennyezést bocsát ki, mint amennyit a környezet közömbösíteni tud.\n\nA folyamat szakaszai:\n- Gyűjtögető-vadászó és földművelő társadalom: helyi hatások (pl. legeltetés, erdőirtás).\n- Ipari forradalom: szén, majd kőolaj; ugrásszerűen nő a szennyezés, a hatások regionálissá válnak.\n- 20. század második fele: népességrobbanás, tömegtermelés, fogyasztói társadalom, zöld forradalom – a hatások globálissá válnak.\n\nMélyebb okok:\n- a népesség és a fogyasztás növekedése,\n- a gazdaság a rövid távú hasznot nézi, a környezeti költségeket nem árazza be,\n- fosszilis energiától való függés,\n- egyenlőtlenség: a szegénység is környezetrombolásra kényszerít.\n\nMa a klímaválság a környezeti válság legsúlyosabb megnyilvánulása.",
+  "diagram": null,
+  "concepts": ["klímaválság", "túlfogyasztás", "népességrobbanás", "fogyasztói társadalom", "eltartóképesség"],
+  "processes": ["globalis-felmelegedes"],
+  "examTip": "Esszében időrendben vezesd végig (helyi → regionális → globális), és nevezd meg a kiváltó tényezőket.",
+  "selfCheck": [
+    { "q": "Mikor beszélünk környezeti válságról?", "a": "Ha az emberi terhelés tartósan meghaladja a környezet megújuló- és tűrőképességét." },
+    { "q": "Melyik korszakban vált a környezetkárosítás globálissá?", "a": "A 20. század második felében (népességrobbanás, tömegtermelés, fogyasztás)." }
+  ],
+  "trueFalse": [
+    { "statement": "A szegénység is hozzájárulhat a környezet pusztításához.", "true": true },
+    { "statement": "A környezeti válság kizárólag a népességszám növekedésével magyarázható.", "true": false, "correction": "A fogyasztás, a technológia, a gazdasági szemlélet és az egyenlőtlenség is fontos ok." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e2",
+  "explanation": "A társadalom tevékenysége a földrajzi környezet minden szféráját átalakította.\n\n- Légkör: üvegházgázok → globális felmelegedés; kén-dioxid → savas eső; freonok → ózonritkulás; városklíma.\n- Vízburok: folyószabályozás, víztározók, öntözés (az Aral-tó zsugorodása), szennyvíz, tengeri olajszennyezés (pl. Mexikói-öböl, 2010).\n- Kőzetburok és felszín: bányák, meddőhányók, külszíni fejtések, gátak, töltések, mesterséges felszínformák.\n- Talaj: erózió, szikesedés, elsivatagosodás (Száhel), tömörödés, szennyeződés.\n- Élővilág: erdőirtás, monokultúrák, fajok kipusztulása, invazív fajok.\n\nA szférák összefüggenek, ezért egy beavatkozás láncreakciót indít: pl. az erdőirtás → talajerózió → folyók feltöltődése → árvizek.",
+  "diagram": null,
+  "concepts": ["környezetkárosítás", "földrajzi környezet", "városklíma", "a biológiai sokféleség (biodiverzitás) csökkenése"],
+  "processes": ["globalis-felmelegedes", "savas-eso", "ozonreteg", "talajpusztulas-sivatagosodas"],
+  "examTip": "Szféránként rendezd a választ, és legalább egy ok-okozati láncot is írj le.",
+  "selfCheck": [
+    { "q": "Mondj egy láncreakciót, amelyet az erdőirtás indít el!", "a": "Erdőirtás → talajerózió → hordalék a folyókban → feltöltődés → árvizek." },
+    { "q": "Milyen emberi hatás érte az Aral-tavat?", "a": "Tápláló folyóiból (Amu-darja, Szir-darja) öntözésre vették el a vizet, ezért zsugorodott." }
+  ],
+  "trueFalse": [
+    { "statement": "A városklíma az emberi tevékenység által módosított helyi éghajlat.", "true": true },
+    { "statement": "A szikesedés a talaj túlzott savasodását jelenti.", "true": false, "correction": "A szikesedés a talaj sótartalmának (főleg nátriumsók) felhalmozódása, gyakran szakszerűtlen öntözés miatt." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e3",
+  "explanation": "Az emelt érettségin gyakran kapsz forrást (grafikon, térkép, táblázat, újságcikk) a globális problémákról. Így elemezd:\n\n1. Mit ábrázol? Olvasd el a címet, a tengelyeket, a mértékegységet, az időszakot és a forrást.\n2. Mi a trend? Nő, csökken, ingadozik? Hol van töréspont? (Pl. a légköri szén-dioxid-koncentráció folyamatos emelkedése.)\n3. Mi az ok? Kösd a tanult folyamatokhoz (fosszilis égetés, erdőirtás).\n4. Mi a következmény? (Hőmérséklet-emelkedés, jégolvadás.)\n5. Térbeli különbségek: mely térségeket érinti jobban (pl. sarkvidékek, Száhel)?\n\nFigyelj arra, hogy:\n- abszolút és relatív (egy főre jutó) adat mást mutat: a teljes kibocsátásban Kína vezet, egy főre jutóan a fejlett országok nagyobbak,\n- a korreláció nem mindig ok-okozat,\n- a forrás készítője lehet érdekelt fél.",
+  "diagram": "greenhouse",
+  "concepts": ["regionális és globális probléma", "klímaválság"],
+  "processes": ["globalis-felmelegedes"],
+  "examTip": "Mindig konkrét adattal támaszd alá a választ („2000 és 2020 között nőtt…”), ne csak általánosíts.",
+  "selfCheck": [
+    { "q": "Miért fontos megkülönböztetni az összes és az egy főre jutó kibocsátást?", "a": "Egy nagy népességű ország összesen sokat, de fejenként keveset bocsáthat ki – más következtetés jön ki." },
+    { "q": "Mit nézel meg először egy grafikonon?", "a": "Címet, tengelyeket, mértékegységet, időszakot, forrást." }
+  ],
+  "trueFalse": [
+    { "statement": "Két adatsor együttmozgása nem bizonyítja önmagában az ok-okozati kapcsolatot.", "true": true },
+    { "statement": "Az egy főre jutó szén-dioxid-kibocsátás a fejlődő országokban általában magasabb, mint a fejlettekben.", "true": false, "correction": "Általában a fejlett országokban magasabb az egy főre jutó kibocsátás." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-1-a-globalissa-valo-kornyezetszennyezes-es-kovetkezmenyei--e4",
+  "explanation": "Az emelt szint véleményalkotást is kér: állást foglalsz, és érvekkel, példákkal támasztod alá.\n\nÍgy építsd fel:\n- Állítás: egyértelműen fogalmazd meg a véleményed.\n- Érvek: 2–3 földrajzi érv (ok-okozati kapcsolattal).\n- Példa, esettanulmány: konkrét hely (pl. Aral-tó, Amazonas-medence, Bős–Nagymaros vita, Száhel).\n- Ellenérv mérlegelése: kinek mi az érdeke (helyi lakosság, cég, állam, jövő nemzedékek)?\n- Következtetés, javaslat: reális megoldás.\n\nPélda-kérdés: „Építsenek-e gátat a folyón?” Mellette: energia, árvízvédelem, öntözés. Ellene: élőhelyek elárasztása, kitelepítés, hordalék visszatartása, a deltavidék pusztulása.\n\nA jó vélemény nem érzelmi, hanem tényeken alapul, és a fenntarthatóság három pillérét (környezet, társadalom, gazdaság) is figyelembe veszi.",
+  "diagram": null,
+  "concepts": ["fenntarthatóság", "környezetkárosítás", "regionális és globális probléma"],
+  "processes": [],
+  "examTip": "A pontozásnál az érv + példa páros ér pontot; a puszta „szerintem fontos” nem.",
+  "selfCheck": [
+    { "q": "Milyen elemek kellenek egy jó véleményhez?", "a": "Állítás, földrajzi érvek, konkrét példa, ellenérv mérlegelése, következtetés." },
+    { "q": "Mi a fenntarthatóság három pillére?", "a": "Környezeti, társadalmi és gazdasági." }
+  ],
+  "trueFalse": [
+    { "statement": "Egy jó érvelés az ellenérveket is mérlegeli.", "true": true },
+    { "statement": "Véleménynél elég a személyes érzéseidet leírni, példa nem kell.", "true": false, "correction": "Tényekkel, ok-okozati érvekkel és konkrét földrajzi példákkal kell alátámasztani." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-2-demografiai-es-urbanizacios-problemak--k1",
+  "explanation": "A népességszám változása szoros kapcsolatban áll a gazdasággal és a társadalommal.\n\nGyorsan növő népesség (pl. Száhel, Afrika nagy része):\n- fiatal korösszetétel, sok eltartott gyermek,\n- nincs elég iskola, munkahely, egészségügyi ellátás,\n- nő a munkanélküliség, a szegénység, a kivándorlás,\n- túlterhelődik a környezet (erdőirtás, túllegeltetés).\n\nCsökkenő, öregedő népesség (pl. Európa, Japán, Magyarország):\n- kevés aktív kereső tart el sok nyugdíjast,\n- nyomás alá kerül a nyugdíj- és egészségügyi rendszer,\n- munkaerőhiány, vendégmunkások bevándorlása,\n- elnéptelenedő falvak.\n\nA kapcsolat kétirányú: a fejlődés (iskolázottság, egészségügy, nők munkavállalása) csökkenti a születésszámot – ez a népesedési átmenet.",
+  "diagram": "age-pyramid",
+  "concepts": ["népességrobbanás", "népességfogyás", "öregedő és fiatalodó társadalom", "korfa", "népesedési átmenet (demográfiai átmenet)"],
+  "processes": ["demografiai-atmenet"],
+  "examTip": "Korfáról tudd megmondani: széles alap = fiatalodó, gyors növekedés; keskeny alap, széles felső rész = öregedő társadalom.",
+  "selfCheck": [
+    { "q": "Milyen gondot okoz az öregedés a nyugdíjrendszernek?", "a": "Kevesebb járulékfizető aktív kereső jut egy nyugdíjasra." },
+    { "q": "Milyen alakú egy gyorsan növő népesség korfája?", "a": "Széles alapú, felfelé gyorsan keskenyedő (piramis) alakú." }
+  ],
+  "trueFalse": [
+    { "statement": "Az iskolázottság növekedése általában csökkenti a születésszámot.", "true": true },
+    { "statement": "Magyarországon fiatalodó társadalom jellemző.", "true": false, "correction": "Magyarországon öregedő társadalom és népességfogyás jellemző." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-2-demografiai-es-urbanizacios-problemak--k2",
+  "explanation": "Népességrobbanás: a népesség rendkívül gyors növekedése, amikor a halálozás már gyorsan csökken, de a születésszám még magas.\n\nOkai:\n- az egészségügy, a higiénia, az oltások és a jobb élelmezés miatt csökkent a csecsemő- és gyermekhalandóság,\n- a születésszám hagyományok, vallás, a gyermekek munkaereje és az időskori gondoskodás miatt magas maradt,\n- kevés hozzáférés a születésszabályozáshoz, alacsony iskolázottság (főleg a nőké).\n\nTerületi jellemzők: a 20. század második felében a fejlődő országokban zajlott; ma leginkább Afrika (különösen a Szaharától délre) és Dél-Ázsia egyes részei érintettek.\n\nKövetkezményei: túlnépesedés, élelmezési gondok, munkanélküliség, nyomornegyedek, környezetpusztulás, elvándorlás. A világ népessége 2022-ben érte el a 8 milliárdot.",
+  "diagram": "demographic",
+  "concepts": ["népességrobbanás", "túlnépesedés", "születésszabályozás", "népesedési átmenet (demográfiai átmenet)"],
+  "processes": ["demografiai-atmenet"],
+  "examTip": "A népességrobbanás a demográfiai átmenet 2. szakasza: halálozás csökken, születés marad magas – ezt az ábrán is fel kell ismerned.",
+  "selfCheck": [
+    { "q": "A demográfiai átmenet melyik szakaszában jön létre a népességrobbanás?", "a": "A második szakaszban, amikor a halálozás csökken, de a születésszám magas marad." },
+    { "q": "Melyik kontinensen a legnagyobb ma a népességnövekedés üteme?", "a": "Afrikában." }
+  ],
+  "trueFalse": [
+    { "statement": "A népességrobbanást elsősorban a halálozás csökkenése indította el.", "true": true },
+    { "statement": "Ma Európában zajlik a leggyorsabb népességrobbanás.", "true": false, "correction": "Európában népességfogyás és öregedés jellemző; a leggyorsabb növekedés Afrikában van." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-2-demografiai-es-urbanizacios-problemak--k3",
+  "explanation": "A nagyvárosok terjeszkedése egyre nagyobb területet von ki a természetből.\n\nKörnyezeti következmények:\n- Beépítés: termőföldek, erdők, vizes élőhelyek tűnnek el; nő a burkolt felület, gyorsabb a lefolyás, gyakoribb a villámárvíz.\n- Közlekedés: az elővárosodás (szuburbanizáció) miatt nő az ingázás és a gépkocsiforgalom, ezzel a légszennyezés és a zaj.\n- Városklíma: hősziget, kevesebb szél, több por, szmog.\n- Víz: nő a vízigény, süllyed a talajvízszint, sok a szennyvíz.\n- Hulladék: hatalmas lerakók a város peremén.\n\nPéldák:\n- Mexikóváros: szmog a medencefekvés miatt, a talajvíz kiszivattyúzása miatt süllyed a város.\n- Los Angeles: szétterülő, autóra épülő város, fotokémiai szmog.\n- Lagos, Mumbai: spontán nyomornegyedek csatornázás nélkül.",
+  "diagram": "urbanization",
+  "concepts": ["urbanizációs ártalmak", "elővárosodás (szuburbanizáció)", "városklíma", "óriásváros (megapolisz)", "nyomornegyed"],
+  "processes": ["varosodas-szakaszai"],
+  "examTip": "Mexikóváros klasszikus példa: medencefekvés + forgalom = szmog; ezt a domborzat és az éghajlat összefüggésével magyarázd.",
+  "selfCheck": [
+    { "q": "Miért gyakoribb a villámárvíz a nagyvárosokban?", "a": "A burkolt felületen nem szivárog be a víz, gyorsan lefolyik." },
+    { "q": "Miért különösen szmogos Mexikóváros?", "a": "Hegyekkel körülvett medencében fekszik, gyenge a szellőzés, nagy a forgalom." }
+  ],
+  "trueFalse": [
+    { "statement": "A szuburbanizáció növeli az ingázást és a gépkocsiforgalmat.", "true": true },
+    { "statement": "A városi hősziget miatt a városközpont hűvösebb a környéknél.", "true": false, "correction": "A hősziget miatt a városközpont melegebb a környező területeknél." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-2-demografiai-es-urbanizacios-problemak--k4",
+  "explanation": "A városi életforma egy főre vetítve általában nagyobb környezeti terheléssel jár, mint a falusi.\n\nMiért?\n- Nagy energiafogyasztás: fűtés, hűtés, világítás, elektronika.\n- Közlekedés: ingázás, sok gépkocsi, a távolról szállított áruk.\n- Fogyasztás: több csomagolt termék, több hulladék, gyakoribb vásárlás.\n- Vízhasználat és szennyvíz: vezetékes víz, nagy egy főre jutó fogyasztás.\n- A város nem önellátó: élelmiszert, vizet, energiát a környékről és a világból hoz be – ökológiai lábnyoma jóval nagyobb a területénél.\n\nUgyanakkor a város előnyt is jelenthet: a sűrű beépítés miatt hatékonyabb a tömegközlekedés, a távfűtés, a szelektív gyűjtés, a szennyvíztisztítás. A fenntartható város kulcsa: tömegközlekedés, kerékpár, zöldfelület, energiahatékony épületek.",
+  "diagram": null,
+  "concepts": ["urbanizációs ártalmak", "ökológiai lábnyom", "fogyasztói társadalom", "városklíma"],
+  "processes": [],
+  "examTip": "Az ökológiai lábnyom fogalmát kösd a városhoz: a város a területénél sokkal nagyobb termőterületet „használ”.",
+  "selfCheck": [
+    { "q": "Miért nagyobb egy város ökológiai lábnyoma a saját területénél?", "a": "Élelmiszert, energiát, vizet, nyersanyagot más területekről hoz be, és oda bocsát ki hulladékot." },
+    { "q": "Mondj egy előnyt, amelyet a sűrű városi beépítés jelent a környezet szempontjából!", "a": "Hatékonyabb tömegközlekedés, távfűtés, szennyvíztisztítás." }
+  ],
+  "trueFalse": [
+    { "statement": "A városok önellátók élelmiszerből és energiából.", "true": false, "correction": "A városok nem önellátók, ezeket a környező és távoli területekről hozzák be." },
+    { "statement": "A tömegközlekedés fejlesztése csökkentheti a városok környezeti terhelését.", "true": true }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-2-demografiai-es-urbanizacios-problemak--k5",
+  "explanation": "Ebben a témában tipikus források: korfa, demográfiai átmenet grafikonja, városi népesség aránya, népességszám-előrejelzés, nagyvárosok listája.\n\nElemzési lépések:\n- Korfa: alap szélessége (születések), felső rész (idősek), bemélyedések (háború, születéshullám) → fiatalodó vagy öregedő társadalom.\n- Demográfiai átmenet: születési és halálozási arány görbéje; a két görbe közti rés a természetes szaporodás.\n- Urbanizáció: a városi népesség aránya fejlett országokban már magas és lassan nő; a fejlődőkben alacsonyabb, de gyorsan nő.\n- Számolás: természetes szaporodás = élveszületés – halálozás (ezrelékben); népsűrűség = népesség / terület.\n\nFigyelj a mértékegységre (‰, %, fő/km²) és arra, hogy arányt vagy abszolút számot látsz.",
+  "diagram": "demographic",
+  "concepts": ["korfa", "népesedési átmenet (demográfiai átmenet)", "városfejlődés (urbanizáció)", "természetes szaporodás", "népsűrűség"],
+  "processes": ["demografiai-atmenet", "varosodas-szakaszai"],
+  "examTip": "Gyakori hiba, hogy a születési és halálozási arányt százalékban adják meg – ezrelékben (‰) szokás.",
+  "selfCheck": [
+    { "q": "Hogyan számolod a természetes szaporodást?", "a": "Élveszületési arány mínusz halálozási arány (‰)." },
+    { "q": "Mire utal a korfa keskeny alapja?", "a": "Alacsony születésszámra, öregedő társadalomra." }
+  ],
+  "trueFalse": [
+    { "statement": "A városi népesség aránya a fejlődő országokban gyorsabban nő, mint a fejlettekben.", "true": true },
+    { "statement": "A népsűrűség mértékegysége fő/km³.", "true": false, "correction": "A népsűrűség mértékegysége fő/km²." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-2-demografiai-es-urbanizacios-problemak--e1",
+  "explanation": "Az urbanizáció a világ különböző részein eltérő szakaszban és módon zajlik, és ez más-más környezeti gondot okoz.\n\nFejlett országok (pl. Nyugat-Európa, USA):\n- a városodás nagyrészt lezajlott; szuburbanizáció, dezurbanizáció, majd reurbanizáció,\n- gond: szétterülő elővárosok, autóforgalom, magas egy főre jutó fogyasztás és hulladék,\n- ugyanakkor: szennyvíztisztítás, szigorú szabályok, városrehabilitáció.\n\nFejlődő országok (pl. Afrika, Dél-Ázsia, Latin-Amerika):\n- gyors, „túlvárosodás”: a városi népesség gyorsabban nő, mint a munkahelyek és az infrastruktúra,\n- a vidéki szegénység „kitaszítja”, a város „vonzza” az embereket,\n- gond: nyomornegyedek (slumok, pl. Mumbai, Lagos; favellák Rio de Janeiróban), tisztítatlan szennyvíz, szemét, ivóvízhiány, járványok, szmog.\n\nA városodás tehát mindenhol terheli a környezetet, de a fejlettségtől függ, hogy milyen formában és mennyire kezelik.",
+  "diagram": "urbanization",
+  "concepts": ["városfejlődés (urbanizáció)", "elővárosodás (szuburbanizáció)", "reurbanizáció", "slum", "urbanizációs ártalmak", "fejlett és fejlődő ország"],
+  "processes": ["varosodas-szakaszai"],
+  "examTip": "Mindig hasonlítsd össze a két típust: fejlett = minőségi (fogyasztás, szétterülés), fejlődő = mennyiségi (infrastruktúra hiánya) környezeti probléma.",
+  "selfCheck": [
+    { "q": "Mi az ál- vagy túlvárosodás lényege?", "a": "A városi népesség gyorsabban nő, mint a munkahelyek és az infrastruktúra." },
+    { "q": "Milyen urbanizációs szakaszok jellemzők a fejlett országokra?", "a": "Szuburbanizáció, dezurbanizáció, reurbanizáció." }
+  ],
+  "trueFalse": [
+    { "statement": "A fejlődő országok nagyvárosaiban gyakoriak a csatornázatlan nyomornegyedek.", "true": true },
+    { "statement": "A reurbanizáció a városból a vidékre költözést jelenti.", "true": false, "correction": "A reurbanizáció a városközpontokba való visszaköltözés; a vidékre költözés a dezurbanizáció." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--k1",
+  "explanation": "A Földön összességében több élelmiszert termelnek, mint amennyi a népesség ellátásához kell, mégis százmilliók éheznek. Ez a terület ellentmondása.\n\nFejlett országok (EU, USA):\n- élelmiszer-túltermelés, nagy hozamok, támogatott mezőgazdaság,\n- túlfogyasztás, pazarlás (sok élelmiszer kerül a szemétbe), elhízás.\n\nFejlődő országok (különösen Afrika a Szaharától délre, a Száhel, Dél-Ázsia egyes részei):\n- alacsony hozamok, szegénység, aszály, háborúk,\n- éhségövezet: alultápláltság, éhínség.\n\nOkok:\n- nem a mennyiség, hanem az elosztás és a vásárlóerő a gond: aki szegény, az nem tudja megvenni az élelmet,\n- a fejlődő országok sokszor exportnövényeket (kávé, kakaó) termelnek a saját élelmezés helyett,\n- a takarmány és a bioüzemanyag is elvon termőföldet.",
+  "diagram": null,
+  "concepts": ["élelmiszer-túltermelés", "túlfogyasztás", "éhségövezet", "alultápláltság", "éhínség"],
+  "processes": [],
+  "examTip": "Kulcsmondat: az éhezés elsősorban elosztási és szegénységi probléma, nem a termelés abszolút hiánya.",
+  "selfCheck": [
+    { "q": "Hol húzódik az éhségövezet?", "a": "Főként Afrikában a Szaharától délre (Száhel is), valamint Dél-Ázsia egyes részein." },
+    { "q": "Miért éheznek emberek, ha összesen elég élelmiszer terem?", "a": "Egyenlőtlen elosztás, szegénység, háborúk, rossz infrastruktúra miatt." }
+  ],
+  "trueFalse": [
+    { "statement": "A fejlett országokban jellemző az élelmiszer-túltermelés.", "true": true },
+    { "statement": "Az éhezés fő oka, hogy a Föld összesen nem termel elég élelmiszert.", "true": false, "correction": "Összességében elég termelődik; a fő ok az egyenlőtlen elosztás és a szegénység." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--k2",
+  "explanation": "A fejlettség és az egészség szorosan összefügg.\n\nFejlődő országok:\n- alultápláltság, vitaminhiány, tiszta ivóvíz és csatornázás hiánya,\n- fertőző betegségek, járványok (malária, kolera, HIV/AIDS),\n- magas csecsemőhalandóság, alacsonyabb születéskor várható átlagos élettartam,\n- kevés orvos, kórház, gyógyszer.\n\nFejlett országok:\n- a „jóléti” betegségek: elhízás, szív- és érrendszeri betegségek, cukorbetegség, daganatok – egyoldalú táplálkozás, mozgásszegény életmód, stressz miatt,\n- magas várható élettartam, öregedő népesség.\n\nAz egyenlőtlenség következményei: a szegénység betegséghez, a betegség munkaképtelenséghez, ez pedig még nagyobb szegénységhez vezet (ördögi kör). Ezért fontos a WHO munkája (oltási programok, járványok elleni küzdelem).",
+  "diagram": null,
+  "concepts": ["születéskor várható átlagos élettartam", "járvány", "egyoldalú táplálkozás", "Egészségügyi Világszervezet (WHO)", "társadalmi-gazdasági egyenlőtlenség"],
+  "processes": [],
+  "examTip": "Az „ördögi kört” (szegénység → betegség → munkaképtelenség → szegénység) jól lehet használni esszében.",
+  "selfCheck": [
+    { "q": "Milyen betegségek jellemzők inkább a fejlett országokra?", "a": "Szív- és érrendszeri betegségek, elhízás, cukorbetegség, daganatok." },
+    { "q": "Mi a WHO feladata?", "a": "Az ENSZ egészségügyi szakosított szervezete: járványok elleni küzdelem, oltási programok, egészségügyi ajánlások." }
+  ],
+  "trueFalse": [
+    { "statement": "A tiszta ivóvíz hiánya fertőző betegségek terjedéséhez vezet.", "true": true },
+    { "statement": "A születéskor várható átlagos élettartam a fejlődő országokban magasabb.", "true": false, "correction": "A fejlett országokban magasabb a születéskor várható átlagos élettartam." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--k3",
+  "explanation": "Élelmezés és egészség témában tipikus források: éhezők aránya térképen, egy főre jutó napi kalóriafogyasztás, várható élettartam és GDP összevetése, csecsemőhalandóság, ivóvízhez jutók aránya.\n\nHogyan elemezd?\n- Térkép: keresd a területi mintázatot (pl. az éhségövezet a Száhelben, Afrika keleti részén).\n- Két mutató összevetése: magas GDP/fő mellett általában magas a várható élettartam és alacsony a csecsemőhalandóság.\n- Kivételek: háború, járvány vagy nagy egyenlőtlenség torzíthat.\n- Időbeli változás: a legtöbb fejlődő országban javult a helyzet, de egyenetlenül.\n\nMindig kösd a látottakat okokhoz (éghajlat, aszály, háború, szegénység) és következményekhez (éhínség, migráció). Ne felejtsd: a mennyiségi éhezés kalóriahiány, a minőségi éhezés a fehérje- és vitaminhiány.",
+  "diagram": null,
+  "concepts": ["éhségövezet", "mennyiségi és minőségi éhezés", "születéskor várható átlagos élettartam", "alultápláltság"],
+  "processes": [],
+  "examTip": "Két mutató összevetésekor fogalmazd meg az összefüggést („minél…, annál…”), és nevezz meg egy kivételt.",
+  "selfCheck": [
+    { "q": "Mi a különbség a mennyiségi és a minőségi éhezés között?", "a": "Mennyiségi: kevés kalória; minőségi: elég kalória, de hiányzik a fehérje, vitamin, ásványi anyag." },
+    { "q": "Milyen kapcsolat van az egy főre jutó GDP és a várható élettartam között?", "a": "Általában pozitív: nagyobb GDP mellett magasabb az élettartam." }
+  ],
+  "trueFalse": [
+    { "statement": "A minőségi éhezés lehetséges elegendő kalóriabevitel mellett is.", "true": true },
+    { "statement": "A csecsemőhalandóság a fejlett országokban a legmagasabb.", "true": false, "correction": "A csecsemőhalandóság a legszegényebb, fejlődő országokban a legmagasabb." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--e1",
+  "explanation": "Az élelmezési válság akkor alakul ki, amikor egy térség népessége tartósan nem jut elegendő és megfelelő minőségű élelemhez. Több folyamat erősíti egymást.\n\nTársadalmi-gazdasági okok:\n- gyors népességnövekedés, meghaladja az eltartóképességet,\n- szegénység, alacsony vásárlóerő, eladósodás,\n- exportra termelt ültetvénynövények a helyi élelmiszer helyett,\n- háborúk, polgárháborúk, politikai instabilitás,\n- az élelmiszerárak emelkedése (pl. bioüzemanyag-gyártás, spekuláció).\n\nKörnyezeti okok:\n- aszályok, szélsőséges időjárás (klímaválság),\n- talajpusztulás, elsivatagosodás (Száhel), szikesedés,\n- vízhiány.\n\nAz ördögi kör: népességnövekedés → túllegeltetés, erdőirtás → talajpusztulás → kisebb termés → még nagyobb nyomás a földre. A FAO feladata az élelmezésbiztonság javítása.",
+  "diagram": null,
+  "concepts": ["élelmezési válság", "eltartóképesség", "túlnépesedés", "éhínség", "FAO"],
+  "processes": ["talajpusztulas-sivatagosodas", "globalis-felmelegedes"],
+  "examTip": "Esszében a Száhel a legjobb esettanulmány: népességnövekedés + túllegeltetés + aszály = elsivatagosodás és éhínség.",
+  "selfCheck": [
+    { "q": "Mi a FAO?", "a": "Az ENSZ Élelmezésügyi és Mezőgazdasági Szervezete; az éhezés csökkentésén, a mezőgazdaság fejlesztésén dolgozik." },
+    { "q": "Hogyan járul hozzá a bioüzemanyag-gyártás az élelmezési gondokhoz?", "a": "Termőföldet von el, és emelheti az élelmiszerárakat." }
+  ],
+  "trueFalse": [
+    { "statement": "A háborúk és polgárháborúk súlyosbíthatják az éhínséget.", "true": true },
+    { "statement": "Az élelmezési válságot kizárólag természeti okok idézik elő.", "true": false, "correction": "Társadalmi-gazdasági okok (szegénység, háború, népességnövekedés) is szerepet játszanak." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--e2",
+  "explanation": "A növekvő népesség élelmezéséhez egyre intenzívebb mezőgazdaság kell, ennek ára a környezet terhelése.\n\nPéldák:\n- Műtrágya: a bemosódó nitrát és foszfát a vizekben eutrofizációt okoz (algásodás, oxigénhiány), szennyezi az ivóvízbázist.\n- Növényvédő szerek: felhalmozódnak a táplálékláncban, pusztítják a beporzó rovarokat.\n- Öntözés: szikesedés, talajvízszint-süllyedés; az Aral-tó kiszáradása a gyapotöntözés következménye.\n- Erdőirtás új földekért: az Amazonas-medence szója- és legelőterületei.\n- Monokultúra, nehéz gépek: talajtömörödés, erózió, kártevők elszaporodása.\n- Állattenyésztés: metánkibocsátás (üvegházhatás), trágyaszennyezés, nagy víz- és takarmányigény.\n- Túlhalászat: halállományok összeomlása.\n\nA zöld forradalom növelte a hozamokat, de fokozta a vegyszer- és vízfelhasználást.",
+  "diagram": null,
+  "concepts": ["környezetkárosítás", "természetes és mesterséges életközösség", "a biológiai sokféleség (biodiverzitás) csökkenése", "vízlábnyom"],
+  "processes": ["talajpusztulas-sivatagosodas", "globalis-felmelegedes"],
+  "examTip": "Az eutrofizáció folyamatát (tápanyag → algavirágzás → oxigénhiány → halpusztulás) lépésenként kell tudni.",
+  "selfCheck": [
+    { "q": "Mi az eutrofizáció?", "a": "A vizek tápanyagokkal (nitrát, foszfát) való feldúsulása, ami algásodáshoz és oxigénhiányhoz vezet." },
+    { "q": "Hogyan járul hozzá az állattenyésztés az üvegházhatáshoz?", "a": "A kérődzők metánt bocsátanak ki, és a legelők miatt erdőt irtanak." }
+  ],
+  "trueFalse": [
+    { "statement": "A szakszerűtlen öntözés szikesedést okozhat.", "true": true },
+    { "statement": "A monokultúrás termesztés növeli a biológiai sokféleséget.", "true": false, "correction": "Csökkenti a biológiai sokféleséget, mert egyetlen fajra épül." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--e3",
+  "explanation": "Az élelmiszerellátás alapja a termékeny talaj és a működő élővilág – mindkettő sérülékeny.\n\nA talaj:\n- nagyon lassan képződik, de gyorsan pusztulhat: erózió, defláció, szikesedés, savanyodás, tömörödés, szennyeződés,\n- emberi léptékben nem megújuló erőforrás,\n- ha elpusztul, csökken a termés, akár elsivatagosodás is bekövetkezhet (Száhel, Dust Bowl az USA-ban az 1930-as években).\n\nA bioszféra:\n- a beporzó rovarok nélkül sok növény nem hoz termést,\n- a talajlakó élőlények tartják fenn a termékenységet,\n- a vadon élő rokonfajok génkészlete fontos a nemesítéshez,\n- a halállomány túlhalászás után összeomolhat.\n\nKövetkeztetés: ha a mezőgazdaság kizsigereli a talajt és az élővilágot, hosszú távon saját alapjait rombolja – ezért kell a fenntartható gazdálkodás.",
+  "diagram": "soil",
+  "concepts": ["eltartóképesség", "a biológiai sokféleség (biodiverzitás) csökkenése", "élelmezési válság", "fenntarthatóság"],
+  "processes": ["talajkepzodes", "talajpusztulas-sivatagosodas"],
+  "examTip": "Hangsúlyozd: a talaj emberi léptékkel nem megújuló, mert képződése nagyon lassú.",
+  "selfCheck": [
+    { "q": "Miért tekintjük a talajt gyakorlatilag nem megújuló erőforrásnak?", "a": "Képződése nagyon lassú, pusztulása gyors lehet." },
+    { "q": "Mi volt a Dust Bowl?", "a": "Az 1930-as években az USA prérividékén a szakszerűtlen művelés és aszály miatti súlyos szélerózió, porviharok." }
+  ],
+  "trueFalse": [
+    { "statement": "A beporzó rovarok fogyása veszélyezteti a terméshozamot.", "true": true },
+    { "statement": "A talaj néhány év alatt újra kialakul, ha elpusztult.", "true": false, "correction": "A talajképződés nagyon lassú (évszázadok, évezredek), ezért a pusztult talaj nem pótolható gyorsan." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--e4",
+  "explanation": "A biogazdálkodás (ökológiai gazdálkodás) olyan mezőgazdasági termelés, amely a természetes folyamatokra épít, és kerüli a mesterséges vegyszereket.\n\nJellemzői:\n- nem használ műtrágyát és szintetikus növényvédő szert, csak engedélyezett természetes anyagokat,\n- tilos a GMO,\n- vetésforgó, zöldtrágyázás, istállótrágya, komposzt a talaj termékenységéért,\n- biológiai növényvédelem (pl. a kártevők természetes ellenségei),\n- az állatok tartása fajra jellemző, szabadtartásos,\n- tanúsítás és bio-jelölés az EU-ban.\n\nElőnyei: kíméli a talajt, a vizet és az élővilágot, egészségesebb termék.\nHátrányai: kisebb hozam, nagyobb munkaigény, drágább termék – ezért önmagában nem tudja ellátni a világ népességét, de a fenntartható mezőgazdaság fontos része.",
+  "diagram": null,
+  "concepts": ["biogazdálkodás", "GMO", "fenntarthatóság", "környezetgazdálkodás"],
+  "processes": [],
+  "examTip": "Mindig írd le az előnyöket ÉS a korlátokat (hozam, ár) – a kiegyensúlyozott válasz ér teljes pontot.",
+  "selfCheck": [
+    { "q": "Hogyan tartja fenn a biogazdálkodás a talaj termékenységét műtrágya nélkül?", "a": "Vetésforgóval, zöldtrágyával, istállótrágyával, komposzttal." },
+    { "q": "Mi a biogazdálkodás fő hátránya?", "a": "Kisebb hozam és drágább termék." }
+  ],
+  "trueFalse": [
+    { "statement": "A biogazdálkodásban tilos a genetikailag módosított szervezetek használata.", "true": true },
+    { "statement": "A biogazdálkodás nagyobb hozamot ad, mint az intenzív gazdálkodás.", "true": false, "correction": "Általában kisebb a hozama, mert nem használ műtrágyát és szintetikus vegyszert." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--e5",
+  "explanation": "A GMO (genetikailag módosított szervezet) olyan élőlény, amelynek örökítőanyagát génsebészeti módszerrel célzottan megváltoztatták.\n\nMiért állítják elő?\n- kártevőkkel szembeni ellenállás (pl. Bt-kukorica),\n- gyomirtószer-tűrés (pl. GM-szója),\n- aszály- vagy sótűrés,\n- nagyobb tápérték (pl. A-vitaminban gazdag „aranyrizs”),\n- nagyobb, biztosabb termés a növekvő népesség élelmezésére.\n\nFő termelők: USA, Brazília, Argentína (szója, kukorica, gyapot).\n\nVitatott kérdések:\n- génátjutás vadon élő rokonfajokba, a biológiai sokféleség csökkenése,\n- a rezisztens gyomok, kártevők megjelenése,\n- a vetőmag-előállító nagyvállalatoktól való függés,\n- egészségügyi hatások vitája, fogyasztói bizalmatlanság.\n\nAz EU szigorúan szabályozza és jelöléshez köti a GMO-kat; Magyarország az Alaptörvényben is rögzíti a GMO-mentes mezőgazdaság célját.",
+  "diagram": null,
+  "concepts": ["GMO", "élelmezési válság", "a biológiai sokféleség (biodiverzitás) csökkenése"],
+  "processes": [],
+  "examTip": "Forráselemzésnél különítsd el az érveket (hozam, ellenállás) és az ellenérveket (kockázat, függőség), és nézd meg, ki a forrás szerzője.",
+  "selfCheck": [
+    { "q": "Mondj két okot GMO előállítására!", "a": "Pl. kártevőkkel szembeni ellenállás, aszálytűrés, nagyobb tápérték, nagyobb hozam." },
+    { "q": "Mely országok a fő GMO-termelők?", "a": "Az USA, Brazília, Argentína." }
+  ],
+  "trueFalse": [
+    { "statement": "A Bt-kukorica egy kártevőkkel szemben ellenállóbbá tett GM-növény.", "true": true },
+    { "statement": "A GMO-kat az EU-ban jelölés nélkül lehet forgalmazni.", "true": false, "correction": "Az EU-ban a GMO-tartalmú élelmiszert kötelező jelölni, és szigorú engedélyezés vonatkozik rá." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--e6",
+  "explanation": "Egy térség vízigényét a természeti és a társadalmi adottságok együtt határozzák meg.\n\nTermészeti tényezők:\n- Éghajlat: száraz, forró területen (sivatag, sztyepp, mediterrán nyár) nagy a párolgás, öntözés nélkül nincs mezőgazdaság → nagy vízigény, kevés vízkészlet (pl. Közel-Kelet, Egyiptom, Kalifornia).\n- Felszíni és felszín alatti vízkészlet: folyók, tavak, karsztvíz, rétegvíz.\n\nTársadalmi tényezők:\n- Népesség száma és növekedése.\n- Gazdasági szerkezet: az öntözéses mezőgazdaság a legnagyobb vízfogyasztó; az ipar (hűtővíz, vegyipar) is sokat igényel.\n- Életszínvonal: fejlett országban nagyobb a háztartási és rejtett (élelmiszer, termékek) vízfogyasztás – ezt méri a vízlábnyom.\n- Urbanizáció: a nagyvárosok koncentrált vízigénye.\n\nPélda: Egyiptom szinte teljes vízigényét a Nílus fedezi.",
+  "diagram": "water-cycle",
+  "concepts": ["vízlábnyom", "természeti erőforrás", "életszínvonal"],
+  "processes": ["viz-korforgasa"],
+  "examTip": "Ha egy térség fekvéséből kell következtetned: térítő menti/kontinensbelsei száraz terület + öntözéses gazdálkodás = magas vízigény.",
+  "selfCheck": [
+    { "q": "Melyik gazdasági ág használja a legtöbb vizet világszerte?", "a": "A mezőgazdaság, főleg az öntözés." },
+    { "q": "Mit fejez ki a vízlábnyom?", "a": "Egy termék előállításához vagy egy ember, ország fogyasztásához szükséges összes (közvetlen és rejtett) vízmennyiséget." }
+  ],
+  "trueFalse": [
+    { "statement": "A forró, száraz éghajlatú területeken öntözés nélkül sokszor nem lehetséges a növénytermesztés.", "true": true },
+    { "statement": "A vízlábnyom csak a csapból elfogyasztott vizet számolja.", "true": false, "correction": "A vízlábnyom a termékekben, élelmiszerekben rejlő (rejtett) vizet is magában foglalja." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-3-elelmezes-es-egeszseg--e7",
+  "explanation": "A vízigény kielégítésének korlátai:\n- Természeti: kevés csapadék, nagy párolgás, a vízkészletek egyenlőtlen eloszlása, az édesvíz kis aránya a Föld összes vizéhez képest.\n- Szennyezés: a szennyezett víz nem használható, tisztítása drága.\n- Túlhasználat: a felszín alatti vizek gyorsabban fogynak, mint ahogy pótlódnak; a talajvízszint süllyed.\n- Gazdasági: a sótalanítás, a távolsági vízvezetékek, gátak sok energiát és pénzt igényelnek.\n- Politikai: a határokon átfolyó folyók vize közös, a felvízi ország elzárhatja.\n\nA vízhiány következményei:\n- élelmezési gondok, terméskiesés, éhínség,\n- járványok (kolera) a szennyezett víz miatt,\n- tavak, folyók kiszáradása (Aral-tó),\n- elsivatagosodás, elvándorlás,\n- feszültségek, konfliktusok (Nílus, Jordán, Tigris–Eufrátesz vízgyűjtője).",
+  "diagram": null,
+  "concepts": ["vízlábnyom", "járvány", "élelmezési válság", "regionális és globális probléma"],
+  "processes": ["talajpusztulas-sivatagosodas"],
+  "examTip": "A víz körüli konfliktusoknál mindig nevezd meg a folyót és az érintett országokat (pl. Nílus: Egyiptom, Szudán, Etiópia).",
+  "selfCheck": [
+    { "q": "Miért forrása feszültségnek a Nílus vize?", "a": "Több ország osztozik rajta; a felvízi Etiópia gátépítése érinti a lejjebb fekvő Szudánt és Egyiptomot." },
+    { "q": "Miért nem megoldás mindenhol a tengervíz sótalanítása?", "a": "Nagyon energia- és költségigényes." }
+  ],
+  "trueFalse": [
+    { "statement": "A felszín alatti vizek túlzott kitermelése a talajvízszint süllyedéséhez vezethet.", "true": true },
+    { "statement": "A Föld vizének nagy része közvetlenül iható édesvíz.", "true": false, "correction": "A Föld vizének túlnyomó része sós tengervíz; az édesvíz kis hányad, annak is nagy része jégben van." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k1",
+  "explanation": "A növekvő fogyasztás egyre több hulladékot termel. A hulladékgazdálkodás célja, hogy minél kevesebb hulladék keletkezzen, és ami mégis keletkezik, az erőforrásként hasznosuljon.\n\nA megoldások fontossági sorrendje (hulladékhierarchia):\n1. Megelőzés: kevesebb csomagolás, tartós termékek.\n2. Újrahasználat: betétdíjas üveg, javítás, használt cikkek.\n3. Újrahasznosítás: szelektív hulladékgyűjtés után új alapanyag (papír, üveg, fém, műanyag), komposztálás.\n4. Energetikai hasznosítás: hulladékégetés energiatermeléssel (de légszennyező, salak keletkezik).\n5. Lerakás: a legrosszabb – nagy terület, csurgalékvíz, metánkibocsátás.\n\nA veszélyes hulladékot (elem, gyógyszer, olaj, elektronika) külön kell gyűjteni.\n\nA lényeg: a lerakás és az égetés csak tüneti kezelés, a megelőzés a valódi megoldás.",
+  "diagram": null,
+  "concepts": ["hulladékgazdálkodás", "szelektív hulladékgyűjtés", "fogyasztói társadalom", "környezetgazdálkodás"],
+  "processes": [],
+  "examTip": "A hulladékhierarchia sorrendjét gyakran kérik: megelőzés → újrahasználat → újrahasznosítás → energetikai hasznosítás → lerakás.",
+  "selfCheck": [
+    { "q": "Melyik a legkedvezőbb hulladékgazdálkodási megoldás?", "a": "A megelőzés, vagyis hogy ne is keletkezzen hulladék." },
+    { "q": "Milyen környezeti gondot okoz a hulladéklerakó?", "a": "Területfoglalás, a csurgalékvíz szennyezi a talajt és a talajvizet, metán keletkezik." }
+  ],
+  "trueFalse": [
+    { "statement": "A betétdíjas üveg visszaváltása újrahasználat.", "true": true },
+    { "statement": "A hulladékégetés a legkörnyezetkímélőbb megoldás, ezért megelőzi az újrahasznosítást.", "true": false, "correction": "Az égetés légszennyező és az anyag elvész; a hierarchiában az újrahasznosítás után következik." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k2",
+  "explanation": "Az újrahasznosítás során a hulladékból új termék alapanyaga lesz, így kevesebb nyersanyag és energia kell, és kevesebb hulladék kerül a lerakóba.\n\nPéldák:\n- Papír: a hulladékpapírból újrapapír, karton – kevesebb fát kell kivágni.\n- Üveg: újraolvasztva minőségromlás nélkül többször hasznosítható.\n- Alumínium: az alumíniumdoboz újraolvasztása a bauxitból történő előállítás energiájának csak töredékét igényli.\n- Műanyag (PET): granulátum, abból szál, ruha, új palack.\n- Szerves hulladék: komposzt, biogáz.\n- Elektronikai hulladék: értékes fémek (réz, arany, ritkaföldfémek) nyerhetők ki.\n- Építési törmelék: zúzva útalapba.\n\nFeltétele a szelektív hulladékgyűjtés: ha a frakciók keverednek vagy szennyezettek, nehezen hasznosíthatók. A körforgásos gazdaság célja, hogy a termékek anyaga minél tovább a gazdaságban maradjon.",
+  "diagram": null,
+  "concepts": ["szelektív hulladékgyűjtés", "hulladékgazdálkodás", "energiahatékonyság"],
+  "processes": [],
+  "examTip": "Az alumíniumot szokták példának kérni: az újrahasznosítás azért kifizetődő, mert az elsődleges előállítás (elektrolízis) nagyon energiaigényes.",
+  "selfCheck": [
+    { "q": "Miért érdemes különösen az alumíniumot újrahasznosítani?", "a": "Az elsődleges előállítása nagyon energiaigényes, az újraolvasztás sokkal kevesebb energiát igényel." },
+    { "q": "Mi az újrahasznosítás feltétele?", "a": "A hulladék szelektív, tiszta gyűjtése." }
+  ],
+  "trueFalse": [
+    { "statement": "A szerves hulladékból komposzt vagy biogáz is előállítható.", "true": true },
+    { "statement": "Az üveg újrahasznosítás során minden alkalommal jelentősen romlik a minősége, ezért csak egyszer hasznosítható.", "true": false, "correction": "Az üveg minőségromlás nélkül többször újraolvasztható." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k3",
+  "explanation": "Fenntarthatóság: a jelen nemzedék úgy elégíti ki szükségleteit, hogy ne veszélyeztesse a jövő nemzedékek lehetőségeit (Brundtland-jelentés, 1987).\n\nA fenntartható gazdaság jellemzői:\n- a megújuló erőforrásokat csak megújulásuk ütemében használja (erdő, hal, víz),\n- a nem megújulókat takarékosan, és helyettesítésükre törekszik,\n- megújuló energiaforrásokra és energiahatékonyságra épít,\n- körforgásos: kevés hulladék, újrahasznosítás,\n- beárazza a környezeti költségeket („a szennyező fizet” elv),\n- helyi termelés, rövid szállítási láncok,\n- társadalmilag igazságos.\n\nMiért fontos? A Föld erőforrásai végesek, a jelenlegi fogyasztás meghaladja a Föld eltartóképességét – ezt mutatja a Túlfogyasztás Napja, amely az utóbbi években már nyáron, jóval az év vége előtt eljön.",
+  "diagram": null,
+  "concepts": ["fenntarthatóság", "megújuló és nem megújuló energiaforrások", "eltartóképesség", "Túlfogyasztás Napja", "ökológiai lábnyom"],
+  "processes": [],
+  "examTip": "A fenntarthatóság definícióját szó szerint jó tudni (jelen és jövő nemzedékek), mert definíciós feladat gyakran van.",
+  "selfCheck": [
+    { "q": "Mit jelez a Túlfogyasztás Napja?", "a": "Azt a napot, amikorra az emberiség elhasználja a Föld által az adott évben megújítható erőforrásokat." },
+    { "q": "Mit jelent a „szennyező fizet” elv?", "a": "A környezeti kár költségét a szennyezőnek kell viselnie." }
+  ],
+  "trueFalse": [
+    { "statement": "A fenntartható gazdaság a megújuló erőforrásokat legfeljebb megújulásuk ütemében használja.", "true": true },
+    { "statement": "A Túlfogyasztás Napja minden évben december 31-re esik.", "true": false, "correction": "Jóval korábban, az utóbbi években már nyáron eljön, mert az emberiség többet fogyaszt, mint amit a Föld egy év alatt megújít." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k4",
+  "explanation": "A fenntartható gazdaság nemcsak az államokon és a cégeken múlik: a fogyasztói döntések összessége alakítja a termelést.\n\nMit tehetsz?\n- Vásárlás: csak azt vedd meg, amire szükséged van; helyi, szezonális termék; kevesebb csomagolás; tartós, javítható áru.\n- Hulladék: szelektív gyűjtés, komposztálás, újrahasználat, javíttatás.\n- Energia: takarékos világítás, kevesebb fűtés-hűtés, kikapcsolt készülékek.\n- Közlekedés: gyalog, kerékpár, tömegközlekedés, kevesebb repülés.\n- Víz: takarékos vízhasználat.\n- Étkezés: kevesebb hús (kisebb víz- és ökológiai lábnyom), kevesebb ételpazarlás.\n- Közösség: önkéntesség, szemétszedés, faültetés, tudatos fogyasztói csoportok.\n\nAz ökológiai lábnyom kiszámolásával megnézheted, mennyi termőterületet „használsz”, és hol csökkentheted.",
+  "diagram": null,
+  "concepts": ["ökológiai lábnyom", "tudatos fogyasztói közösség", "szelektív hulladékgyűjtés", "fenntarthatóság"],
+  "processes": [],
+  "examTip": "Konkrét, hétköznapi példákkal válaszolj, és mindegyiknél írd le, milyen környezeti terhelést csökkent.",
+  "selfCheck": [
+    { "q": "Miért csökkenti a környezeti terhelést a helyi, szezonális termék?", "a": "Kevesebb szállítás és tárolás, kisebb energiafelhasználás és kibocsátás." },
+    { "q": "Mit mér az ökológiai lábnyom?", "a": "Azt a biológiailag termékeny területet, amely egy ember (vagy közösség) fogyasztásának előállításához és hulladékának elnyeléséhez kell." }
+  ],
+  "trueFalse": [
+    { "statement": "A kevesebb húsfogyasztás csökkentheti az egyéni víz- és ökológiai lábnyomot.", "true": true },
+    { "statement": "Az egyén fogyasztói döntései nincsenek hatással a termelésre.", "true": false, "correction": "A kereslet alakítja a kínálatot, így a tömeges tudatos döntések a termelést is befolyásolják." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k5",
+  "explanation": "Fogyasztói társadalom: olyan társadalom, ahol a fogyasztás az élet középpontjába kerül, és a vásárlás a jólét, a társadalmi rang jelképe.\n\nJellemzői:\n- tömegtermelés és tömegfogyasztás,\n- reklámok, divat, mesterségesen keltett igények,\n- rövid élettartamú, eldobható termékek (tervezett elavulás),\n- hitelből vásárlás,\n- nagy hulladék- és energiaigény, magas ökológiai lábnyom,\n- túlfogyasztás.\n\nTudatos fogyasztói közösség: azok csoportja, akik vásárlásaikkor a környezeti és társadalmi szempontokat is mérlegelik.\n- helyi termelők, termelői piacok, közösségi kertek,\n- csere-, javító- és megosztó kezdeményezések (közös autó, kölcsönzés),\n- méltányos (fair trade) kereskedelem,\n- kevesebb, de minőségibb vásárlás, csomagolásmentes boltok.\n\nA két szemlélet különbsége: „minél több” kontra „ami elég és fenntartható”.",
+  "diagram": null,
+  "concepts": ["fogyasztói társadalom", "tudatos fogyasztói közösség", "túlfogyasztás", "ökológiai lábnyom"],
+  "processes": [],
+  "examTip": "Táblázatos összehasonlítás gyakori: írj mindkettőhöz legalább 3 jellemzőt, párba állítva.",
+  "selfCheck": [
+    { "q": "Mi a tervezett elavulás?", "a": "A termékeket szándékosan rövid élettartamúra tervezik, hogy hamar újat kelljen venni." },
+    { "q": "Mondj két tudatos fogyasztói kezdeményezést!", "a": "Pl. termelői piac, javító kávézó, közösségi kert, fair trade." }
+  ],
+  "trueFalse": [
+    { "statement": "A fogyasztói társadalomban nagy szerepe van a reklámnak és a divatnak.", "true": true },
+    { "statement": "A tudatos fogyasztó elsősorban a legolcsóbb, eldobható termékeket választja.", "true": false, "correction": "A tartós, javítható, helyi és környezetkímélő termékeket részesíti előnyben." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--k6",
+  "explanation": "Nem megújuló energiahordozók: a kőszén, a kőolaj, a földgáz és az uránérc – emberi léptékben nem pótlódnak.\n- Előnyük: nagy energiasűrűség, folyamatos, szabályozható termelés, kiépült infrastruktúra.\n- Korlátaik: kimerülnek, egyenlőtlenül oszlanak el (függőség, pl. OPEC).\n- Környezeti hatás: szén-dioxid (üvegházhatás), kén-dioxid (savas eső), bányászati tájsebek, olajszennyezés; atomenergiánál radioaktív hulladék és baleseti kockázat (Csernobil, Fukusima).\n\nMegújuló energiaforrások: nap, szél, víz, geotermikus energia, biomassza.\n- Előnyük: nem fogynak el, kevés üvegházgáz, helyben elérhetők (energiafüggetlenség).\n- Korlátaik: időjárásfüggők (nap, szél), tárolásuk nehéz, földrajzi adottságokhoz kötöttek (vízenergia: esés és vízhozam; geotermikus: vékony kéreg), nagy beruházásigény.\n- Környezeti hatás: víztározók elárasztják a völgyeket, szélerőművek – madarak, tájkép; biomasszánál élelmiszer-termőföld elvonása.\n\nMagyarország adottsága: kedvező geotermikus energia, jó napenergia-potenciál.",
+  "diagram": null,
+  "concepts": ["megújuló és nem megújuló energiaforrások", "nyersanyag- és energiaválság", "energiahatékonyság"],
+  "processes": ["globalis-felmelegedes", "savas-eso", "szenhidrogen-szenkepzodes"],
+  "examTip": "Ne írd, hogy a megújulóknak nincs környezeti hatásuk – mindegyiknek van, csak kisebb; ezt a hamis állítást gyakran kérdezik.",
+  "selfCheck": [
+    { "q": "Miért kedvező Magyarország geotermikus adottsága?", "a": "A Pannon-medencében vékony a földkéreg, nagy a geotermikus gradiens." },
+    { "q": "Mi a nap- és szélenergia legnagyobb korlátja?", "a": "Időjárásfüggő, ingadozó termelés, és nehéz az energia tárolása." }
+  ],
+  "trueFalse": [
+    { "statement": "Az atomenergia a nem megújuló energiaforrások közé tartozik.", "true": true },
+    { "statement": "A vízerőművek semmilyen környezeti hatással nem járnak.", "true": false, "correction": "A víztározók elárasztják a völgyeket, megváltoztatják a folyó vízjárását és hordalékszállítását, akadályozzák a halak vándorlását." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e1",
+  "explanation": "A nyersanyag- és energiaválság akkor alakul ki, amikor a kereslet tartósan meghaladja a hozzáférhető kínálatot, vagy a kínálat hirtelen visszaesik.\n\nA folyamat:\n- A 20. században a gazdasági növekedés és a népességnövekedés miatt ugrásszerűen nőtt az energia- és nyersanyagigény.\n- A gazdaság a kőolajra épült, de a készletek néhány térségben (Perzsa-öböl) koncentrálódnak.\n- 1973: az OPEC arab tagjai az arab–izraeli háború miatt korlátozták a kőolaj-kitermelést és -exportot → kőolajár-robbanás; 1979-ben az iráni forradalom után újabb.\n- Következmény a fejlett országokban: gazdasági válság, a nehézipar visszaszorulása, energiatakarékos technológiák, atomenergia és új lelőhelyek (Északi-tenger) felé fordulás.\n- Ma: a készletek végessége, a klímaválság és a geopolitikai konfliktusok (pl. az orosz–ukrán háború miatti gázárrobbanás 2022-ben) tartják napirenden.\n\nA válság felhívta a figyelmet az energiahatékonyságra és a megújulókra.",
+  "diagram": null,
+  "concepts": ["nyersanyag- és energiaválság", "kőolajár-robbanás", "energiahatékonyság", "Kőolaj-exportáló Országok Szervezete (OPEC)"],
+  "processes": [],
+  "examTip": "Az 1973-as kőolajár-robbanás okát (OPEC-embargó) és következményeit (szerkezetváltás, takarékosság) együtt tudd.",
+  "selfCheck": [
+    { "q": "Mi váltotta ki az 1973-as kőolajár-robbanást?", "a": "Az arab OPEC-tagállamok kitermelés- és exportkorlátozása az arab–izraeli háború idején." },
+    { "q": "Hogyan reagáltak a fejlett országok az olajválságra?", "a": "Energiatakarékos technológiák, új lelőhelyek, atomenergia, gazdasági szerkezetváltás." }
+  ],
+  "trueFalse": [
+    { "statement": "A kőolajkészletek jelentős része a Perzsa-öböl térségében koncentrálódik.", "true": true },
+    { "statement": "Az 1973-as olajválság csökkentette a kőolaj árát.", "true": false, "correction": "Ugrásszerűen megemelte a kőolaj árát (kőolajár-robbanás)." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e2",
+  "explanation": "Energia- és nyersanyag-hatékony gazdálkodás: ugyanazt a terméket vagy szolgáltatást kevesebb energiával és anyaggal állítjuk elő.\n\nLényege:\n- a „legolcsóbb energia az, amit nem használunk fel”,\n- kevesebb kibocsátás és hulladék,\n- lassabban fogynak a nem megújuló készletek,\n- csökken az importfüggés, nő a versenyképesség.\n\nPéldák: épületek hőszigetelése, LED-világítás, hatékony motorok, kapcsolt hő- és áramtermelés, újrahasznosított nyersanyag (alumínium, papír), anyagtakarékos tervezés.\n\nAz alternatív (megújuló) energiaforrások jelentősége:\n- csökkentik a fosszilis tüzelőanyagoktól való függést és az üvegházgáz-kibocsátást,\n- helyben elérhetők, ellátásbiztonságot adnak,\n- új iparágakat, munkahelyeket teremtenek,\n- segítik a párizsi egyezmény céljainak teljesítését.\n\nA kettő együtt hat: hatékonyság nélkül a megújulók nem tudnák fedezni a növekvő igényt.",
+  "diagram": null,
+  "concepts": ["energiahatékonyság", "megújuló és nem megújuló energiaforrások", "nyersanyag- és energiaválság", "párizsi egyezmény"],
+  "processes": ["globalis-felmelegedes"],
+  "examTip": "Igazoló feladatnál mindig környezeti ÉS gazdasági érvet is írj (kibocsátás + importfüggés, költség).",
+  "selfCheck": [
+    { "q": "Mondj két példát az energiahatékonyság növelésére!", "a": "Pl. hőszigetelés, LED-világítás, hatékony motorok." },
+    { "q": "Miért erősítik a megújulók az ellátásbiztonságot?", "a": "Helyben elérhetők, csökkentik az importált fosszilis energiától való függést." }
+  ],
+  "trueFalse": [
+    { "statement": "Az energiahatékonyság növelése csökkenti az üvegházgáz-kibocsátást.", "true": true },
+    { "statement": "Az energiahatékonyság azt jelenti, hogy több energiát termelünk.", "true": false, "correction": "Azt jelenti, hogy ugyanazt a hasznot kevesebb energia felhasználásával érjük el." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e3",
+  "explanation": "A környezeti szempontok a termelés és a fogyasztás teljes láncában érvényesíthetők.\n\nA termelésben:\n- környezetbarát technológiák, szűrők, szennyvíztisztítás,\n- kibocsátási határértékek, környezeti hatásvizsgálat új beruházás előtt,\n- „a szennyező fizet” elv, környezetvédelmi bírságok, adók,\n- kibocsátás-kereskedelem (EU),\n- életciklus-szemlélet: a termék a nyersanyagtól a hulladékig,\n- környezetirányítási rendszerek, tanúsítás.\n\nA fogyasztásban:\n- környezetbarát termék jelölése (pl. EU ökocímke, energiacímke, bio-jelölés),\n- betétdíj, kiterjesztett gyártói felelősség,\n- tudatos fogyasztói döntések, közbeszerzési előírások.\n\nNehézségek: a környezetbarát megoldás gyakran drágább, a szabályok országonként eltérnek, a szennyező ipar áttelepülhet a lazább szabályozású országokba. Ezért kell nemzetközi szabályozás.",
+  "diagram": null,
+  "concepts": ["környezetgazdálkodás", "fogyasztóvédelem", "tudatos fogyasztói közösség", "fenntarthatóság"],
+  "processes": ["globalizacio"],
+  "examTip": "Említsd meg a szennyező ipar áttelepülését a fejlődő országokba – a globalizáció és a környezetvédelem összefüggését szeretik kérdezni.",
+  "selfCheck": [
+    { "q": "Mi a környezeti hatásvizsgálat célja?", "a": "Egy beruházás várható környezeti hatásainak felmérése a megvalósítás előtt." },
+    { "q": "Mit mutat az energiacímke?", "a": "Egy háztartási gép energiafogyasztási osztályát." }
+  ],
+  "trueFalse": [
+    { "statement": "A szigorú környezetvédelmi szabályok miatt egyes szennyező iparágak lazább szabályozású országokba települnek át.", "true": true },
+    { "statement": "A „szennyező fizet” elv szerint a kárt az állam fizeti meg.", "true": false, "correction": "A környezeti kár költségét annak kell viselnie, aki a szennyezést okozta." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-4-a-mind-nagyobb-meretu-fogyasztas-es-a-gazdasagi-novekedes-kovetkezmenyei--e4",
+  "explanation": "Fogyasztóvédelem: a vásárlók jogainak és érdekeinek védelme (biztonságos termék, pontos tájékoztatás, panaszkezelés, garancia).\n\nHagyományos (bolti) vásárlás:\n- a terméket megnézheted, kipróbálhatod,\n- azonnal hozzájutsz, a panaszt személyesen intézheted,\n- az eladó és a cég könnyen azonosítható,\n- jótállás, szavatosság érvényes.\n\nElektronikus (online) vásárlás:\n- kényelmes, nagy választék, könnyű árösszehasonlítás,\n- a terméket nem látod előre, ezért az EU-ban 14 napos elállási jog illeti meg a fogyasztót (indoklás nélkül),\n- kockázatok: csaló webáruházak, adatlopás, hamis termékek, EU-n kívüli eladónál nehezebb érvényesíteni a jogokat,\n- környezeti szempont: csomagolás, szállítás, visszaküldések.\n\nTanács: ellenőrizd a webáruház adatait, olvasd el a feltételeket, és biztonságos fizetési módot válassz.",
+  "diagram": null,
+  "concepts": ["fogyasztóvédelem", "tudatos fogyasztói közösség"],
+  "processes": [],
+  "examTip": "A 14 napos elállási jog az online vásárlás kulcseleme; a bolti vásárlásra ez általánosan nem vonatkozik.",
+  "selfCheck": [
+    { "q": "Mennyi idő áll rendelkezésre az EU-ban online vásárlás után az elállásra?", "a": "14 nap, indoklás nélkül." },
+    { "q": "Mondj két kockázatot az online vásárlásnál!", "a": "Csaló webáruház, adatlopás, hamis termék." }
+  ],
+  "trueFalse": [
+    { "statement": "Online vásárlásnál az EU-ban a fogyasztó indoklás nélkül elállhat a vásárlástól 14 napon belül.", "true": true },
+    { "statement": "Bolti vásárlásnál minden terméket 14 napon belül indoklás nélkül vissza kell venni.", "true": false, "correction": "Az indoklás nélküli 14 napos elállási jog a távollévők közötti (pl. online) vásárlásra vonatkozik; a boltban ez csak az üzlet vállalása." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k1",
+  "explanation": "A hírekben gyakran találkozol globális környezeti problémákkal – fel kell ismerned őket és meg kell tudnod nevezni az okukat.\n\n- Globális felmelegedés: hőhullámok, gleccserek és a sarki jég olvadása, tengerszint-emelkedés. Ok: üvegházgázok (szén-dioxid, metán) a fosszilis égetésből, erdőirtásból, állattenyésztésből.\n- Ózonritkulás: Antarktisz feletti ózonlyuk. Ok: freonok.\n- Savas eső: erdőpusztulás, tavak savasodása, épületkárok. Ok: kén- és nitrogén-oxidok.\n- Elsivatagosodás: Száhel. Ok: túllegeltetés, erdőirtás, aszály.\n- Esőerdők pusztulása: Amazonas-medence. Ok: legelő, ültetvény, fakitermelés.\n- Óceánok szennyezése, túlhalászat: műanyag szemétfoltok, olajszennyezés.\n- Vízhiány, biodiverzitás csökkenése.\n\nA közös gyökér: gyors népességnövekedés, túlfogyasztás, fosszilis energiától való függés.",
+  "diagram": "greenhouse",
+  "concepts": ["regionális és globális probléma", "klímaválság", "a biológiai sokféleség (biodiverzitás) csökkenése", "túlfogyasztás"],
+  "processes": ["globalis-felmelegedes", "ozonreteg", "savas-eso", "talajpusztulas-sivatagosodas", "uveghazhatas"],
+  "examTip": "Gyakori hiba az ózonlyuk és a globális felmelegedés összekeverése: más az ok (freon ↔ szén-dioxid) és más a következmény (UV-sugárzás ↔ melegedés).",
+  "selfCheck": [
+    { "q": "Melyik gázok okozzák a savas esőt?", "a": "A kén-dioxid és a nitrogén-oxidok." },
+    { "q": "Mi az ózonréteg ritkulásának fő következménye?", "a": "Több UV-sugárzás éri a felszínt (bőrrák, szürkehályog, élővilág károsodása)." }
+  ],
+  "trueFalse": [
+    { "statement": "A metán is üvegházgáz.", "true": true },
+    { "statement": "Az ózonlyuk a fő oka a globális felmelegedésnek.", "true": false, "correction": "Két külön probléma: a felmelegedést az üvegházgázok, az ózonritkulást főként a freonok okozzák." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k2",
+  "explanation": "A globális problémák megoldásán több nemzetközi szervezet dolgozik.\n\n- ENSZ (Egyesült Nemzetek Szervezete): nemzetközi konferenciákat szervez, egyezményeket készít elő (riói konferencia, klímacsúcsok), meghatározta a fenntartható fejlődési célokat; az UNEP az ENSZ környezetvédelmi programja.\n- FAO (az ENSZ Élelmezésügyi és Mezőgazdasági Szervezete, székhelye Róma): az éhezés felszámolása, a mezőgazdaság, halászat, erdőgazdálkodás fejlesztése.\n- WHO (Egészségügyi Világszervezet): járványok elleni küzdelem, egészségügyi programok.\n- UNESCO: a világörökség (természeti és kulturális értékek) védelme.\n- WWF (Természetvédelmi Világalap): civil természetvédelmi szervezet, veszélyeztetett fajok és élőhelyek védelme (jelképe a pandamaci).\n- Greenpeace: civil környezetvédő szervezet, figyelemfelhívó akciókkal.\n\nFigyelj: az ENSZ-szervezetek államok közötti, a WWF és a Greenpeace civil (nem kormányzati) szervezetek.",
+  "diagram": null,
+  "concepts": ["Egyesült Nemzetek Szervezete (ENSZ)", "FAO", "WWF", "Egészségügyi Világszervezet (WHO)"],
+  "processes": [],
+  "examTip": "Párosító feladatban gyakori: FAO – élelmezés, WHO – egészség, UNESCO – világörökség, WWF – természetvédelem.",
+  "selfCheck": [
+    { "q": "Melyik szervezet foglalkozik az éhezés felszámolásával?", "a": "A FAO." },
+    { "q": "Mi a különbség a WWF és a FAO között?", "a": "A WWF civil természetvédelmi szervezet, a FAO az ENSZ kormányközi szakosított szervezete." }
+  ],
+  "trueFalse": [
+    { "statement": "A világörökségi listát az UNESCO gondozza.", "true": true },
+    { "statement": "A WWF az ENSZ egészségügyi szervezete.", "true": false, "correction": "A WWF civil természetvédelmi szervezet; az ENSZ egészségügyi szervezete a WHO." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k3",
+  "explanation": "A természeti értékek és a kulturális örökség pótolhatatlanok, ezért jogi védelemre van szükségük.\n\nNemzetközi lépések:\n- Világörökség-egyezmény (UNESCO, 1972): kulturális, természeti és vegyes helyszínek listája (pl. Hortobágy, Budapest Duna-partja, Grand Canyon, Nagy-korallzátony).\n- Bioszféra-rezervátumok (UNESCO): ember és természet együttélésének mintaterületei.\n- Ramsari egyezmény (1971): a nemzetközi jelentőségű vizes élőhelyek védelme.\n- Natura 2000: az EU egységes ökológiai hálózata.\n\nHazai védett területek:\n- nemzeti park (az első a Hortobágyi Nemzeti Park, 1973),\n- tájvédelmi körzet, természetvédelmi terület, natúrpark,\n- ex lege (törvény erejénél fogva) védett értékek: pl. barlang, forrás, láp, szikes tó, kunhalom, földvár.\n\nMiért fontos? Megőrzi a biológiai sokféleséget, a tájképet, a tudományos és kulturális értéket, a turizmust – és a jövő nemzedékeknek is átadja.",
+  "diagram": null,
+  "concepts": ["világörökség", "nemzeti park", "környezet- és természetvédelem", "Natura 2000", "bioszféra rezervátum", "tájvédelmi körzet"],
+  "processes": [],
+  "examTip": "Ismerd a magyar világörökségi helyszíneket és nemzeti parkokat térképen is – topográfiai feladatban előkerülnek.",
+  "selfCheck": [
+    { "q": "Melyik volt Magyarország első nemzeti parkja?", "a": "A Hortobágyi Nemzeti Park (1973)." },
+    { "q": "Mi a Natura 2000?", "a": "Az EU egységes, összefüggő természetvédelmi (ökológiai) hálózata." }
+  ],
+  "trueFalse": [
+    { "statement": "A világörökségi listán természeti és kulturális helyszínek is szerepelnek.", "true": true },
+    { "statement": "A Ramsari egyezmény a sivatagok védelméről szól.", "true": false, "correction": "A Ramsari egyezmény a nemzetközi jelentőségű vizes élőhelyek védelméről szól." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k4",
+  "explanation": "A környezet védelme nem csak a kormányok dolga: az egyén is tevékenyen részt vehet benne.\n\nA mindennapokban:\n- tudatos fogyasztás, szelektív gyűjtés, energia- és víztakarékosság,\n- környezetkímélő közlekedés (kerékpár, tömegközlekedés).\n\nKözösségi szerepvállalás:\n- önkéntes munka: szemétszedési akciók (pl. a Tisza-tó, folyópartok tisztítása), faültetés, parkok gondozása,\n- civil szervezetek (pl. WWF, helyi egyesületek) tagjaként, támogatójaként,\n- iskolai programok: ökoiskola, diákönkormányzati kampányok, Föld napja,\n- adatgyűjtés, „polgári tudomány” (pl. madárszámlálás).\n\nÁllampolgárként:\n- részvétel helyi közmeghallgatásokon, véleménynyilvánítás egy beruházásról,\n- szennyezés bejelentése a hatóságnak,\n- tudatos választói döntés.\n\nAz egyéni lépések kicsik, de összeadódnak, és példát mutatnak másoknak.",
+  "diagram": null,
+  "concepts": ["környezet- és természetvédelem", "tudatos fogyasztói közösség", "WWF", "fenntarthatóság"],
+  "processes": [],
+  "examTip": "Ne csak felsorolj: minden példánál nevezd meg, milyen környezeti problémát enyhít.",
+  "selfCheck": [
+    { "q": "Mondj két példát a tevékeny közösségi környezetvédelemre!", "a": "Pl. szemétszedési akció, faültetés, önkéntes munka civil szervezetben." },
+    { "q": "Hogyan tud az állampolgár beleszólni egy helyi beruházásba?", "a": "Közmeghallgatáson, véleményezéssel, civil szervezeten keresztül." }
+  ],
+  "trueFalse": [
+    { "statement": "A civil szervezetekben végzett önkéntes munka a környezetvédelem tevékeny formája.", "true": true },
+    { "statement": "Az egyén nem tud hozzájárulni a környezetvédelemhez, ez csak az állam feladata.", "true": false, "correction": "Az egyén fogyasztásával, önkéntes munkával, közösségi részvétellel tevékenyen hozzájárul." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k5",
+  "explanation": "Fenntarthatóság (fenntartható fejlődés): olyan fejlődés, amely kielégíti a jelen szükségleteit anélkül, hogy veszélyeztetné a jövő nemzedékek lehetőségét saját szükségleteik kielégítésére (Brundtland-jelentés, 1987).\n\nHárom pillére, amelyeknek egyensúlyban kell lenniük:\n- környezeti: az erőforrások megőrzése, a szennyezés csökkentése,\n- társadalmi: méltányosság, egészség, oktatás, esélyegyenlőség,\n- gazdasági: tartós, de nem pazarló működés.\n\nAz elérés lehetőségei:\n- megújuló energiaforrások és energiahatékonyság,\n- körforgásos gazdaság, hulladékcsökkentés,\n- fenntartható mezőgazdaság (biogazdálkodás, talajvédelem),\n- tudatos fogyasztás, kisebb ökológiai lábnyom,\n- a népességnövekedés lassítása oktatással,\n- nemzetközi együttműködés: az ENSZ 2015-ben elfogadott fenntartható fejlődési céljai (17 cél).\n\nJelszó: „Gondolkodj globálisan, cselekedj lokálisan!”",
+  "diagram": null,
+  "concepts": ["fenntarthatóság", "ökológiai lábnyom", "megújuló és nem megújuló energiaforrások", "eltartóképesség"],
+  "processes": [],
+  "examTip": "A definíció mellé mindig írd le a három pillért – a fenntarthatóság nem csak környezetvédelem.",
+  "selfCheck": [
+    { "q": "Melyek a fenntarthatóság pillérei?", "a": "Környezeti, társadalmi és gazdasági." },
+    { "q": "Hány fenntartható fejlődési célt fogadott el az ENSZ 2015-ben?", "a": "17-et." }
+  ],
+  "trueFalse": [
+    { "statement": "A fenntarthatóság a jövő nemzedékek érdekeit is figyelembe veszi.", "true": true },
+    { "statement": "A fenntarthatóság kizárólag környezetvédelmi fogalom.", "true": false, "correction": "Környezeti, társadalmi és gazdasági pillére is van." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--k6",
+  "explanation": "A környezetvédelem minden szinten együttműködést igényel – „gondolkodj globálisan, cselekedj lokálisan”.\n\nHelyi szint:\n- önkormányzatok, civil egyesületek: szelektív gyűjtés, közösségi kert, kerékpárutak, helyi védett értékek,\n- helyi termelők, termelői piacok.\n\nRegionális szint (több ország, egy vízgyűjtő vagy térség):\n- a Duna védelmére létrejött nemzetközi bizottság,\n- az EU környezetvédelmi irányelvei, Natura 2000, kibocsátás-kereskedelem,\n- határon átnyúló nemzeti parkok (pl. Aggteleki és Szlovák-karszt barlangjai közös világörökség), eurorégiók.\n\nNemzetközi (globális) szint:\n- ENSZ-egyezmények: riói konferencia (1992), Kiotói Jegyzőkönyv (1997), párizsi egyezmény (2015), Montreali Jegyzőkönyv,\n- nemzetközi civil szervezetek: WWF, Greenpeace.\n\nMiért kell? A szennyezés és a vízgyűjtők nem követik az országhatárokat: a Tisza 2000-es ciánszennyezése Romániából indult, és Magyarországon okozott halpusztulást.",
+  "diagram": null,
+  "concepts": ["regionális és globális probléma", "környezet- és természetvédelem", "Natura 2000", "eurorégió", "riói egyezmény"],
+  "processes": [],
+  "examTip": "A tiszai ciánszennyezés (2000) jó példa arra, miért kell határon átnyúló együttműködés.",
+  "selfCheck": [
+    { "q": "Mondj példát határon átnyúló természetvédelmi együttműködésre!", "a": "Pl. az Aggteleki és a Szlovák-karszt barlangjai közös világörökség; a Duna védelmére létrejött nemzetközi bizottság." },
+    { "q": "Miért volt nemzetközi probléma a tiszai ciánszennyezés?", "a": "Romániában történt, de a szennyezés a folyóval Magyarországra érkezett." }
+  ],
+  "trueFalse": [
+    { "statement": "A Natura 2000 az Európai Unió természetvédelmi hálózata.", "true": true },
+    { "statement": "A tiszai ciánszennyezés egy magyarországi bányából indult.", "true": false, "correction": "Romániából, egy Nagybánya melletti aranybánya ülepítőjéből indult 2000-ben." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--e1",
+  "explanation": "A legfontosabb nemzetközi környezetvédelmi egyezmények és eredményeik:\n\n- Montreali Jegyzőkönyv (1987): a freonok kivonása. Eredmény: az ózonréteget bontó anyagok kibocsátása drasztikusan csökkent, az ózonréteg lassan regenerálódik – a legsikeresebb egyezmény.\n- Riói konferencia (1992): a fenntartható fejlődés elve, éghajlatváltozási keretegyezmény, biológiai sokféleség egyezmény.\n- Kiotói Jegyzőkönyv (1997): a fejlett országok kötelező üvegházgáz-csökkentése. Nehézség: az USA nem ratifikálta, a fejlődő országokra (Kína, India) nem vonatkozott kötelezettség.\n- Párizsi egyezmény (2015): a felmelegedést 2 °C alatt, lehetőleg 1,5 °C-on tartani; minden ország saját vállalást tesz. Nehézség: a vállalások önkéntesek, összegük nem elég.\n- ENSZ fenntartható fejlődési célok (2015).\n- EU: Natura 2000, kibocsátás-kereskedelem, klímasemlegességi cél 2050-re.\n\nA nehézségek oka: eltérő gazdasági érdekek, szankciók hiánya, ellenőrzés nehézsége.",
+  "diagram": "greenhouse",
+  "concepts": ["Kiotói Jegyzőkönyv", "párizsi egyezmény", "riói egyezmény", "Natura 2000", "klímaválság"],
+  "processes": ["globalis-felmelegedes", "ozonreteg"],
+  "examTip": "Mindegyik egyezménynél: év + cél + eredmény/nehézség – ezt a négyest kérik forráselemzésnél.",
+  "selfCheck": [
+    { "q": "Miért tartják a Montreali Jegyzőkönyvet a legsikeresebb egyezménynek?", "a": "A freonkibocsátás drasztikusan csökkent, és az ózonréteg regenerálódni kezdett." },
+    { "q": "Mi volt a Kiotói Jegyzőkönyv egyik gyengesége?", "a": "A fejlődő országokra nem rótt kötelezettséget, és az USA nem ratifikálta." }
+  ],
+  "trueFalse": [
+    { "statement": "A párizsi egyezményben minden ország saját kibocsátás-csökkentési vállalást tesz.", "true": true },
+    { "statement": "A Kiotói Jegyzőkönyv minden országra, így Kínára és Indiára is kötelező csökkentést írt elő.", "true": false, "correction": "Kötelező csökkentést csak a fejlett országok vállaltak; a fejlődő országokra (Kína, India) nem vonatkozott." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--e2",
+  "explanation": "Sok fegyveres konfliktus mögött földrajzi okok húzódnak meg.\n\nTipikus okok:\n- Természeti erőforrások: kőolaj (Öböl-háború 1990–91: Irak megtámadta Kuvaitot), gyémánt, színesfémek (Kongói Demokratikus Köztársaság).\n- Víz: Jordán, Nílus, Tigris–Eufrátesz – a felvízi országok gátjai feszültséget okoznak.\n- Határviták, stratégiai fekvés: Kasmír (India–Pakisztán), tengerszorosok, Dél-kínai-tenger.\n- Etnikai, vallási ellentétek, a gyarmatosítók által húzott mesterséges határok (Afrika: pl. Ruanda, 1994).\n- Népességnövekedés és környezetromlás: a Száhelben a szűkülő legelők és vizek miatt földművesek és pásztorok ütköznek.\n\nKövetkezmények:\n- emberáldozatok, menekültáradat, éhínség, járványok,\n- az infrastruktúra pusztulása, gazdasági visszaesés,\n- környezetkárosítás: égő olajkutak (Kuvait), aknamezők, szennyezett talaj és víz,\n- a világgazdaságra is hat (pl. energia- és gabonaárak az orosz–ukrán háború idején).",
+  "diagram": null,
+  "concepts": ["menekült", "természeti erőforrás", "éhínség", "környezeti katasztrófa"],
+  "processes": [],
+  "examTip": "Mindig rendelj konkrét konfliktust az okhoz (víz → Nílus; olaj → Kuvait; határ → Kasmír).",
+  "selfCheck": [
+    { "q": "Mondj példát vízért kialakuló feszültségre!", "a": "Pl. a Nílus (Egyiptom–Etiópia), a Jordán vagy a Tigris–Eufrátesz vize." },
+    { "q": "Milyen környezeti következménye volt az Öböl-háborúnak?", "a": "Felgyújtott kuvaiti olajkutak, olajszennyezés a Perzsa-öbölben." }
+  ],
+  "trueFalse": [
+    { "statement": "Afrikában számos konfliktus gyökere a gyarmati korban húzott, etnikai határokat figyelmen kívül hagyó államhatár.", "true": true },
+    { "statement": "A Kasmír körüli konfliktus Kína és Japán között zajlik.", "true": false, "correction": "A Kasmír körüli konfliktus fő szereplői India és Pakisztán." }
+  ],
+  "generated": true, "reviewed": false
+},
+{
+  "objectiveId": "10-5-a-kornyezet-es-a-termeszetvedelem-feladatai-a-globalis-beke-fenntartasa--e3",
+  "explanation": "A humanitárius szervezetek háborúk, katasztrófák, éhínség idején segítik a rászorulókat, politikai és vallási hovatartozástól függetlenül.\n\n- Nemzetközi Vöröskereszt és Vörös Félhold: Henry Dunant kezdeményezésére jött létre (1863). Sebesültek, hadifoglyok, polgári áldozatok segítése, eltűnt személyek felkutatása, katasztrófa-segélyezés, véradás szervezése. Jelképe a vörös kereszt (muszlim országokban a vörös félhold).\n- Máltai Szeretetszolgálat: a Máltai Lovagrend karitatív szervezete. Magyarországon 1989-ben az NDK-s menekültek ellátásával vált ismertté; ma hajléktalanellátás, szegénységben élők segítése, katasztrófa-segélyezés.\n- ENSZ-szervezetek: az UNHCR a menekülteket, az UNICEF a gyermekeket, a Világélelmezési Program az éhezőket segíti.\n- Orvosok Határok Nélkül: orvosi ellátás válságövezetekben.\n\nTevékenységük: élelem, víz, menedék, orvosi ellátás, újjáépítés, oltási programok.",
+  "diagram": null,
+  "concepts": ["Nemzetközi Vöröskereszt", "Máltai Szeretetszolgálat", "menekült", "Egyesült Nemzetek Szervezete (ENSZ)"],
+  "processes": [],
+  "examTip": "A Máltai Szeretetszolgálat 1989-es szerepét (keletnémet menekültek) szeretik összekötni a magyar történelemmel.",
+  "selfCheck": [
+    { "q": "Ki kezdeményezte a Vöröskereszt létrehozását?", "a": "Henry Dunant." },
+    { "q": "Melyik ENSZ-szervezet foglalkozik a menekültekkel?", "a": "Az UNHCR (ENSZ Menekültügyi Főbiztossága)." }
+  ],
+  "trueFalse": [
+    { "statement": "A Vöröskereszt muszlim országokban Vörös Félhold néven működik.", "true": true },
+    { "statement": "A humanitárius szervezetek csak a saját országuk állampolgárait segítik.", "true": false, "correction": "Nemzetiségtől, vallástól és politikai hovatartozástól függetlenül segítenek." }
+  ],
+  "generated": true, "reviewed": false
+}
+] }

@@ -1,0 +1,2445 @@
+{
+ "cards": [
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k1",
+   "explanation": "Európa felszínét a földtörténeti múlt rétegesen „rakta össze”: minél idősebb egy szerkezeti egység, annál inkább lepusztult, alacsony a felszíne.\n\n- Ősföld (ősidő–előidő): a Balti-ősföld északon fedetlen (Skandináv-félsziget keleti része, Finn-tóvidék) – lepusztult, jég által csiszolt felszín, tavakkal. Keleten fedett: a Kelet-európai-síkság táblás vidék, vízszintes üledékrétegekkel.\n- Kaledóniai hegységek (óidő eleje): Skandináv-hegység, Skót-felföld – erősen lepusztultak, a jég formálta őket (fjordok).\n- Variszkuszi hegységek (óidő második fele): Francia-középhegység, Német-középhegység, Szudéták, Ardennek, Urál – rögökre töredezett, lekerekített középhegységek, köztük medencékkel (Párizsi-medence, Cseh-medence).\n- Eurázsiai hegységrendszer (újidő): Alpok, Kárpátok, Pireneusok, Appenninek, Dinári-hegység – fiatal, magas, éles gerincű gyűrthegységek, ma is földrengéses területek.\n- Süllyedékek: Pó-alföld, Germán-alföld, Kárpát-medence – fiatal üledékkel feltöltött síkságok.\n\nA lényeg: kor → lepusztultság → mai magasság.",
+   "diagram": "folds",
+   "concepts": [
+    "ősföld (ősmasszívum)",
+    "kaledóniai",
+    "variszkuszi",
+    "eurázsiai és pacifikus hegységképződés",
+    "táblás vidék",
+    "süllyedékterület"
+   ],
+   "processes": [
+    "hegysegkepzodes"
+   ],
+   "examTip": "Gyakori feladat: tájakat kell szerkezeti egységhez és földtörténeti időhöz rendelni. Ne keverd: az Urál variszkuszi, a Skandináv-hegység kaledóniai, a Kárpátok eurázsiai!",
+   "selfCheck": [
+    {
+     "q": "Miért alacsonyabb a Francia-középhegység, mint az Alpok?",
+     "a": "Mert variszkuszi, sokkal idősebb, így régóta pusztul; az Alpok újidei, fiatal gyűrthegység."
+    },
+    {
+     "q": "Milyen szerkezetű a Kelet-európai-síkság?",
+     "a": "Fedett ősföld: vízszintes üledékrétegekkel borított táblás vidék."
+    },
+    {
+     "q": "Nevezz meg két európai süllyedékterületet!",
+     "a": "Pl. Pó-alföld, Germán-alföld, Kárpát-medence."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Szudéták a variszkuszi hegységrendszer része.",
+     "true": true
+    },
+    {
+     "statement": "A Skandináv-hegység az eurázsiai hegységrendszerhez tartozó fiatal gyűrthegység.",
+     "true": false,
+     "correction": "A Skandináv-hegység kaledóniai, óidei, erősen lepusztult hegység."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k2",
+   "explanation": "Az ásványkincsek nem véletlenszerűen helyezkednek el: a geológiai szerkezet „megmondja”, mit érdemes keresni.\n\n- Ősföldek – magmás és átalakult kőzetek, vasérc: Kiruna (Svédország, Balti-ősföld), Ukrajna vasércvidékei.\n- Variszkuszi hegységek előterei – a karbon időszak mocsárerdőiből feketekőszén: Ruhr-vidék, Szilézia, Közép-angliai iparvidék, Donyec-medence. Ezekre települt a hagyományos nehézipar.\n- Üledékes medencék, süllyedékek, selfek – kőolaj és földgáz: Északi-tenger (Norvégia, Egyesült Királyság), Román-alföld (Ploieşti), Volga–Urál vidéke, a Holland-mélyföld (Groningen) földgáza – ennek kitermelése mára leállt.\n- Fiatal (harmadidőszaki) üledékek – lignit és barnakőszén: Németország (Lipcse környéke, Köln vidéke), Csehország.\n- Egykori tengerek bepárlódásából – kősó, kálisó: Németország.\n- Fiatal hegységek vulkáni övezete – magmás érctelepek, pl. arany, színesfémek: Erdélyi-szigethegység.\n- Mediterrán karsztos mészkőterületek – karsztbauxit: Franciaország déli része, Dinári-hegység, Görögország.",
+   "diagram": null,
+   "concepts": [
+    "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+    "kőolaj",
+    "földgáz",
+    "vasérc",
+    "magmás ércképződés",
+    "üledékes ércképződés"
+   ],
+   "processes": [
+    "erckepzodes",
+    "szenhidrogen-szenkepzodes"
+   ],
+   "examTip": "Mindig a „szerkezet → kőzet → ásványkincs → ipar” láncot írd le, egy-egy konkrét lelőhellyel. A feketekőszén variszkuszi előterekben, a szénhidrogén üledékes medencékben van.",
+   "selfCheck": [
+    {
+     "q": "Miért van feketekőszén a Ruhr-vidéken és Sziléziában?",
+     "a": "Variszkuszi hegységek előterében, karbon kori mocsárerdők anyagából keletkezett."
+    },
+    {
+     "q": "Hol termelnek kőolajat és földgázt a tenger alól Európában?",
+     "a": "Az Északi-tenger selfjén (Norvégia, Egyesült Királyság)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A kirunai vasérc a Balti-ősföld kőzeteihez kötődik.",
+     "true": true
+    },
+    {
+     "statement": "A feketekőszén leggyakrabban a fiatal, eurázsiai gyűrthegységek magmás kőzeteiben fordul elő.",
+     "true": false,
+     "correction": "A feketekőszén üledékes eredetű, főleg a variszkuszi hegységek előterének karbon kori rétegeiben található."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k3",
+   "explanation": "Európa nagytájait térképen nagyjából északról délre, idősebbtől fiatalabbig érdemes végigjárnod.\n\n- Észak: Skandináv-félsziget (Skandináv-hegység), Finn-tóvidék, Izland (vulkáni sziget az óceánközépi hátságon).\n- Nyugat és Közép: Brit-szigetek, Londoni-medence, Párizsi-medence, Francia-középhegység, Ardennek, Német-középhegység, Cseh-medence, Szudéták.\n- Síkságok: Germán-alföld, Holland-mélyföld, Lengyel-alföld, Kelet-európai-síkság (a kontinens legnagyobb síksága) – keleti határa az Urál.\n- Fiatal hegységkoszorú: Pireneusok, Alpok (Mont Blanc), Kárpátok, Dinári-hegység, Balkán-hegység, Appenninek.\n- Medencék, alföldek a hegyek között: Kárpát-medence, Bécsi-medence, Pó-alföld, Román-alföld.\n- Déli félszigetek: Pireneusi (Ibériai)-félsziget, Appennini-félsziget, Balkán-félsziget; szigetek: Szicília, Kréta, Ciprus.\n\nMindegyik tájhoz kösd a szerkezeti egységet: ősföld, kaledóniai, variszkuszi, eurázsiai vagy süllyedék.",
+   "diagram": null,
+   "concepts": [
+    "ősföld (ősmasszívum)",
+    "gyűrthegység",
+    "rögös szerkezetű hegység",
+    "feltöltött és lepusztult (letarolt) síkság",
+    "tektonikus medence"
+   ],
+   "processes": [],
+   "examTip": "Kontúrtérképen sokan összekeverik a Párizsi- és a Londoni-medencét, illetve a Német-középhegységet a Germán-alfölddel. Gyakorold a tájakat a folyók segítségével (Szajna, Temze, Elba)!",
+   "selfCheck": [
+    {
+     "q": "Mi Európa keleti határa a hegységek közül?",
+     "a": "Az Urál."
+    },
+    {
+     "q": "Milyen szerkezeti egység a Pó-alföld?",
+     "a": "Fiatal süllyedék, folyóhordalékkal feltöltött síkság."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Cseh-medencét variszkuszi rögös hegységek, köztük a Szudéták keretezik.",
+     "true": true
+    },
+    {
+     "statement": "A Kelet-európai-síkság fiatal, harmadidőszaki süllyedékterület.",
+     "true": false,
+     "correction": "A Kelet-európai-síkság fedett ősföldön kialakult táblás vidék."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k4",
+   "explanation": "Európa éghajlata enyhébb, mint ugyanazon szélességen más kontinenseken. Ennek okai:\n\n- Földrajzi szélesség: a kontinens nagy része a mérsékelt övezetbe esik, északon a hideg övezetbe, délen a meleg mérsékelt övbe nyúlik.\n- Atlanti-óceán és a Golf-áramlás folytatása, az Észak-atlanti-áramlás: fűtő hatás, enyhe tél, jégmentes norvég kikötők egészen Murmanszkig.\n- Nyugatias szelek: az óceán felől nedves, kiegyenlített levegőt szállítanak; mérsékelt övezeti ciklonok hozzák a csapadékot.\n- Domborzat: nyugaton nincs észak–déli hegygát, így az óceáni hatás mélyen bejut a szárazföld belsejébe. Az Alpok és a Pireneusok éghajlatválasztók: délen mediterrán, északon óceáni vagy kontinentális éghajlat.\n- Óceántól való távolság: kelet felé nő a kontinentalitás – nagyobb hőingás, kevesebb csapadék.\n- Légnyomási központok: Izlandi minimum, Azori-maximum, télen a Szibériai-maximum hideg, száraz levegője.\n\nMódosító tényező a tengerszint feletti magasság is: függőleges övezetesség az Alpokban.",
+   "diagram": "circulation",
+   "concepts": [
+    "nyugatias szelek",
+    "hűtő-fűtő hatás",
+    "hideg és meleg tengeráramlás",
+    "éghajlatválasztó hegység",
+    "Azori- és Szibériai-maximum",
+    "Izlandi minimum"
+   ],
+   "processes": [
+    "altalanos-legkorzes",
+    "tengeraramlasok"
+   ],
+   "examTip": "Ha azt kérdezik, miért enyhébb a tél Norvégia partján, mint azonos szélességen Szibériában: meleg tengeráramlás + nyugatias szelek + nincs hegygát – mindhármat írd le!",
+   "selfCheck": [
+    {
+     "q": "Miért hatol mélyen a kontinensbe az óceáni hatás Nyugat-Európában?",
+     "a": "Mert a hegységek főleg kelet–nyugati irányúak, nincs észak–déli hegygát a nyugatias szelek útjában."
+    },
+    {
+     "q": "Mi okozza a téli hideg, száraz időt Kelet-Európában?",
+     "a": "A Szibériai-maximum hideg, kontinentális légtömegei."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Alpok éghajlatválasztó hegység a mediterrán és a valódi mérsékelt övi éghajlatok között.",
+     "true": true
+    },
+    {
+     "statement": "Kelet felé haladva Európában nő az évi csapadék és csökken a hőingás.",
+     "true": false,
+     "correction": "Kelet felé nő a kontinentalitás: csökken a csapadék és nő az évi hőingás."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k5",
+   "explanation": "Éghajlati diagramon három dolgot nézz: a hőmérsékleti görbe magasságát és ívét (évi közepes hőingás), a csapadék mennyiségét és az eloszlását.\n\n- Óceáni (London, Brest): enyhe tél (fagypont felett), hűvös nyár, kis hőingás, egész évben bőséges csapadék, ősz-téli maximummal.\n- Nedves kontinentális (Bécs, Varsó, Budapest): hideg tél, meleg nyár, nagyobb hőingás, közepes csapadék nyári (kora nyári) maximummal.\n- Száraz kontinentális (Volgográd környéke): nagy hőingás, kevés csapadék, gyakori aszály.\n- Mediterrán (Róma, Athén, Lisszabon): forró, száraz nyár (Azori-maximum), enyhe, csapadékos tél (ciklonok).\n- Tajga (Finnország, Észak-Oroszország): hosszú, nagyon hideg tél, rövid nyár, kevés csapadék.\n- Tundra (Jeges-tenger partja): a legmelegebb hónap is 10 °C alatti.\n- Magashegységi (Alpok): magassággal csökkenő hőmérséklet, sok csapadék.\n\nA nyári szárazság mediterrán, a nyári maximum kontinentális, a kiegyenlítettség óceáni jel.",
+   "diagram": "climate-chart",
+   "concepts": [
+    "óceáni éghajlat",
+    "nedves kontinentális éghajlat",
+    "száraz kontinentális éghajlat",
+    "mediterrán éghajlat",
+    "tajgaéghajlat",
+    "évi közepes hőingás"
+   ],
+   "processes": [],
+   "examTip": "Diagram-felismerésnél először a nyári csapadékot nézd: ha nyáron alig esik, mediterrán. Ha a januári átlag fagypont felett, a hőingás kicsi és sok a csapadék: óceáni.",
+   "selfCheck": [
+    {
+     "q": "Mi okozza a mediterrán nyári szárazságot?",
+     "a": "Nyáron az Azori-maximum magas nyomású, leszálló légtömegei uralják a térséget."
+    },
+    {
+     "q": "Melyik éghajlatra jellemző enyhe tél és egész évben bőséges csapadék?",
+     "a": "Az óceáni éghajlatra (pl. London)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A nedves kontinentális éghajlaton a csapadék maximuma általában nyárra, kora nyárra esik.",
+     "true": true
+    },
+    {
+     "statement": "A mediterrán éghajlat legcsapadékosabb évszaka a nyár.",
+     "true": false,
+     "correction": "A mediterrán éghajlaton a nyár forró és száraz, a csapadék télen hullik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k6",
+   "explanation": "A kontúrtérképen tengerenként, vízgyűjtőnként tanuld a vizeket – így könnyebb megjegyezni.\n\n- Tengerek: Északi-tenger, Balti-tenger (Botteni-öböl), La Manche, Földközi-tenger, Adriai-tenger, Égei-tenger, Fekete-tenger; északon a Jeges-tenger.\n- Az Északi-tengerbe ömlik: Rajna (deltatorkolat Rotterdamnál), Elba (Hamburg), Temze (tölcsértorkolat, London).\n- A Balti-tengerbe: Odera, Visztula (Varsó, Gdańsk).\n- Az Atlanti-óceánba: Szajna (a La Manche-ba, Párizs), Loire, Tajo (Tejo – Lisszabon).\n- A Földközi-tengerbe: Rhône (Lyon, a Genfi-tavon át), Ebro; a Pó az Adriai-tengerbe.\n- A Fekete-tengerbe: Duna (Duna-delta), Dnyeper (Kijev), Don (az Azovi-tengeren át).\n- Belső lefolyású: a Volga, Európa leghosszabb folyója, a Kaszpi-tengerbe torkollik; az Urál (folyó) szintén.\n- Tavak: Ladoga-tó (a kontinens legnagyobb tava), Genfi-tó, Boden-tó, Garda-tó, Ohridi-tó, Balaton; a Finn-tóvidék tavai.\n- Vízi út: a Duna–Majna–Rajna vízi út köti össze az Északi- és a Fekete-tengert.",
+   "diagram": null,
+   "concepts": [
+    "vízgyűjtő terület",
+    "fő- és mellékfolyó",
+    "lefolyásos és belső lefolyású terület",
+    "deltatorkolat",
+    "tölcsértorkolat",
+    "belvízi és tengerhajózás"
+   ],
+   "processes": [],
+   "examTip": "Kontúrtérképen a Visztula és az Odera, illetve a Dnyeper és a Don cseréje a leggyakoribb hiba. Jegyezd meg: az Odera a német–lengyel határfolyó, a Don a Volgához közel kanyarodik.",
+   "selfCheck": [
+    {
+     "q": "Hová torkollik a Volga?",
+     "a": "A Kaszpi-tengerbe – belső lefolyású vízgyűjtő."
+    },
+    {
+     "q": "Melyik vízi út köti össze az Északi-tengert a Fekete-tengerrel?",
+     "a": "A Duna–Majna–Rajna vízi út."
+    },
+    {
+     "q": "Melyik tavon folyik keresztül a Rhône?",
+     "a": "A Genfi-tavon."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Temze tölcsértorkolattal ömlik az Északi-tengerbe.",
+     "true": true
+    },
+    {
+     "statement": "A Visztula a Fekete-tengerbe torkollik.",
+     "true": false,
+     "correction": "A Visztula a Balti-tengerbe ömlik, Gdańsk közelében."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k7",
+   "explanation": "Az éghajlat határozza meg a természetes növényzetet, a kettő együtt a talajt, és az éghajlat a folyók vízjárását is.\n\nÉszakról délre és nyugatról keletre:\n- Tundraéghajlat → tundra → tundratalaj, permafroszt (Jeges-tenger partja).\n- Tajgaéghajlat → tajga (fenyőerdő) → szürke erdőtalaj (podzol): Finnország, Észak-Oroszország.\n- Óceáni és nedves kontinentális → lombhullató erdő → barna erdőtalaj: Nyugat- és Közép-Európa.\n- Száraz kontinentális → erdős puszta, füves puszta → mezőségi talaj (csernozjom): Ukrajna, Dél-Oroszország – Európa „gabonaöve”.\n- Mediterrán → keménylombú erdő, irtása után macchia → terra rossa.\n\nVízjárás:\n- Óceáni folyók (Szajna, Temze): egyenletes vízjárás.\n- Alpi eredetű folyók (Rajna felső szakasza, Rhône): nyári árvíz a hó- és jégolvadás miatt.\n- Kelet-európai síksági folyók (Volga, Dnyeper): tavaszi árvíz hóolvadáskor, télen befagynak.\n- Mediterrán folyók: nyáron vízszegények, sokszor kiszáradnak.",
+   "diagram": null,
+   "concepts": [
+    "lombhullató erdő",
+    "barna erdőtalaj",
+    "szürke erdőtalaj (podzol)",
+    "mezőségi talaj",
+    "macchia",
+    "vízjárás"
+   ],
+   "processes": [
+    "talajkepzodes"
+   ],
+   "examTip": "Az összefüggést mindig láncként írd: éghajlat → növényzet → talaj → mezőgazdasági hasznosítás. Pl. füves puszta → mezőségi talaj → búza és kukorica Ukrajnában.",
+   "selfCheck": [
+    {
+     "q": "Milyen talaj alakul ki a tajga alatt?",
+     "a": "Szürke erdőtalaj (podzol), savanyú, gyenge termőképességű."
+    },
+    {
+     "q": "Mikor van árvíz a Volgán és miért?",
+     "a": "Tavasszal, a síkságon felhalmozódott hó olvadásakor."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ukrajna füves pusztáin termékeny mezőségi talaj alakult ki.",
+     "true": true
+    },
+    {
+     "statement": "A Szajnára nyári árvizek jellemzők a gleccserek olvadása miatt.",
+     "true": false,
+     "correction": "A Szajna óceáni éghajlatú vidéken folyik, vízjárása kiegyenlített; nyári árvíz az alpi folyókra (pl. Rajna felső szakasza) jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k8",
+   "explanation": "Európa a legrégebben és legsűrűbben átalakított kontinensek egyike – szinte nincs érintetlen táj.\n\nPéldák:\n- Erdőirtás: az eredeti lombhullató erdők nagy részét szántó váltotta fel; a mediterrán térségben az irtás után talajpusztulás, karsztosodás, macchia lett a következmény.\n- Holland-mélyföld: gátak és polderek, a Zuiderzee elgátolásával jött létre az IJssel-tó; a Deltaterv a vihardagály ellen véd.\n- Folyószabályozás: a Rajna és a Duna kiegyenesítése gyorsította a hajózást, de árvízi kockázatot és élőhelyvesztést okozott.\n- Bányászat, ipar: a Ruhr-vidék és Szilézia szennyezése; a „fekete háromszög” (Szudéták vidéke) erdeit savas eső pusztította.\n- Katasztrófák: Csernobil (1986) radioaktív szennyezése.\n- Tömegturizmus: Alpok, Földközi-tenger partja – beépítés, vízhiány.\n\nPozitív irány: kéntelenítés, a Rajna megtisztítása, Natura 2000 hálózat, nemzeti parkok, bányák rekultivációja (Ruhr-vidék).",
+   "diagram": null,
+   "concepts": [
+    "környezetkárosítás",
+    "folyószabályozás",
+    "polder",
+    "savas csapadék",
+    "radioaktív szennyeződés",
+    "Natura 2000"
+   ],
+   "processes": [
+    "savas-eso",
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "Ilyen feladatnál mindig: beavatkozás → célja → nem kívánt hatás → megoldás. A „pozitív” példák (rekultiváció, Rajna megtisztítása) többletpontot érnek.",
+   "selfCheck": [
+    {
+     "q": "Mi a polder?",
+     "a": "Gátakkal elzárt, a tenger szintje alatti, kiszivattyúzott és művelt terület (Hollandia)."
+    },
+    {
+     "q": "Mi okozta a „fekete háromszög” erdőpusztulását?",
+     "a": "A barnakőszenes erőművek kén-dioxid-kibocsátásából eredő savas eső."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az IJssel-tó a Zuiderzee elgátolásával jött létre.",
+     "true": true
+    },
+    {
+     "statement": "A mediterrán erdők irtása után a talaj gyorsan regenerálódott, és dús lombhullató erdő nőtt vissza.",
+     "true": false,
+     "correction": "Az irtás után a talaj lepusztult, sok helyen karsztos sziklafelszín és macchia maradt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--e1",
+   "explanation": "Európa több lépésben, „darabokból” nőtt össze – ezt tematikus (földtörténeti, szerkezeti) térképen követheted.\n\n1. Ősidő–előidő: kialakul a Balti-ősföld és a mai Kelet-európai-síkság alatti ősföld – ez a kontinens magja.\n2. Óidő eleje, kaledóniai hegységképződés: egy másik ősföld (a mai Észak-Amerika és Grönland magja) ütközik vele, létrejön a Skandináv-hegység és a Skót-felföld.\n3. Óidő második fele, variszkuszi hegységképződés: déli kéregdarabok csatlakoznak, felgyűrődnek a Francia-, Német-középhegység, Szudéták, Urál. Ekkor jön létre a Pangea.\n4. Középidő: a Pangea feldarabolódik; Laurázsia és Gondwana közt a Tethys óceán; üledékek rakódnak le.\n5. Újidő, eurázsiai hegységképződés: az Afrikai-lemez északra mozog, a Tethys bezáródik, felgyűrődnek az Alpok, Kárpátok, Pireneusok, Dinári-hegység; a régi rögök összetöredeznek, megfiatalodnak.\n6. Negyedidőszak: a jégkorszak jégtakarói formálják északot.\n\nÍgy a kontinens északkeletről délnyugat, dél felé fiatalodik.",
+   "diagram": "plate-boundaries",
+   "concepts": [
+    "Pangea",
+    "Laurázsia",
+    "Tethys",
+    "kaledóniai",
+    "variszkuszi",
+    "jégkor (pleisztocén)"
+   ],
+   "processes": [
+    "hegysegkepzodes",
+    "lemezmozgasok"
+   ],
+   "examTip": "A sorrend a kulcs: ősföld → kaledóniai → variszkuszi → eurázsiai → jégkor. Minden lépéshez írj egy tájat példaként!",
+   "selfCheck": [
+    {
+     "q": "Melyik óceán bezáródása hozta létre az Alpokat?",
+     "a": "A Tethys bezáródása az Afrikai- és az Eurázsiai-lemez közeledésekor."
+    },
+    {
+     "q": "Melyik hegységképződés során jött létre a Pangea?",
+     "a": "A variszkuszi hegységképződés során (óidő második fele)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Európa legidősebb szerkezeti egysége a Balti-ősföld.",
+     "true": true
+    },
+    {
+     "statement": "Az Urál az eurázsiai hegységképződés során, az újidőben gyűrődött fel.",
+     "true": false,
+     "correction": "Az Urál variszkuszi, óidei hegység."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--e2",
+   "explanation": "Európa területe ma is változik, mert két nagy lemezmozgás hat rá.\n\n- Távolodó lemezszegély nyugaton: az Észak-atlanti óceánközépi hátság mentén az Eurázsiai- és az Észak-amerikai-lemez távolodik. Az Atlanti-óceán szélesedik, Izland a hátságon ül: hasadékvulkánok, gejzírek, földrengések. A kontinens nyugati pereme így nyugodt, nincs lemezszegélyen.\n- Közeledő lemezszegély délen: az Afrikai-lemez északra nyomul. A Tethys maradványa, a Földközi-tenger lassan szűkül. Alábukás és ütközés zajlik: ezért földrengéses Olaszország, Görögország, a Balkán; működő vulkán az Etna, a Vezúv, a Stromboli.\n- A gyűrthegységek emelkedése (Alpok) ma is tart; az előterükben süllyedékek (Pó-alföld) képződnek.\n- A jégtakaró elolvadása óta a Skandináv-félsziget izosztatikusan emelkedik, a Botteni-öböl partja „kifelé” nő.\n\nEurópa tehát nyugaton tágul, délen összenyomódik.",
+   "diagram": "plate-boundaries",
+   "concepts": [
+    "távolodó",
+    "közeledő és elcsúszó lemezmozgás",
+    "óceánközépi hátság",
+    "alábukás",
+    "izosztázia",
+    "Tethys"
+   ],
+   "processes": [
+    "lemezmozgasok",
+    "vulkani-mukodes"
+   ],
+   "examTip": "Az Izland–Etna párosítás klasszikus: Izland távolodó szegély (hasadékvulkán), az Etna és a Vezúv közeledő szegély (rétegvulkán). Ne keverd!",
+   "selfCheck": [
+    {
+     "q": "Miért van sok földrengés Görögországban?",
+     "a": "Mert az Afrikai-lemez északra mozog és alábukik, közeledő lemezszegély van a térségben."
+    },
+    {
+     "q": "Miért emelkedik a Skandináv-félsziget?",
+     "a": "A jégtakaró terhe megszűnt, a kéreg izosztatikusan visszaemelkedik."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Izland az Atlanti-óceán közepi hátságán, távolodó lemezszegélyen fekszik.",
+     "true": true
+    },
+    {
+     "statement": "A Földközi-tenger területe folyamatosan nő, mert az Afrikai-lemez délre távolodik.",
+     "true": false,
+     "correction": "Az Afrikai-lemez északra, Európa felé mozog, ezért a Földközi-tenger lassan szűkül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k1",
+   "explanation": "Európa átlagos népsűrűsége magas, de nagyon egyenlőtlen. A különbséget természeti és társadalmi-gazdasági tényezők együtt magyarázzák.\n\nSűrűn lakott, mert:\n- kedvező éghajlat, termékeny síkság, folyók (Rajna, Pó, Duna);\n- ásványkincs és korai iparosodás: Ruhr-vidék, Közép-angliai iparvidék, Szilézia;\n- tengerpart, kikötők, kereskedelmi utak (Randstad, London);\n- fővárosi szerep, szolgáltatások (Párizs, Moszkva).\n\nRitkán lakott, mert:\n- hideg éghajlat, tajga és tundra: Észak-Skandinávia, Észak-Oroszország;\n- magashegység: Alpok, Pireneusok, Skandináv-hegység;\n- szárazság: Kaszpi-tenger melléke;\n- elmaradott, elnéptelenedő vidékek: Spanyolország belseje, Kelet-Európa falvai.\n\nMa már a gazdasági fejlettség erősebb tényező: a munkahelyek, a szolgáltatások vonzzák a népességet, a vándorlás a fejlett központok felé irányul.",
+   "diagram": null,
+   "concepts": [
+    "népsűrűség",
+    "népességtömörülés (népességkoncentráció)",
+    "népességmozgás (migráció)",
+    "belföldi és nemzetközi vándorlás"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Ha térképen kell magyarázni, mindig párosíts: sűrű terület + ok (pl. Pó-alföld – termékeny síkság és ipar). A „hideg, magas, száraz” hármas a ritkán lakott területek kulcsa.",
+   "selfCheck": [
+    {
+     "q": "Miért ritkán lakott Észak-Skandinávia?",
+     "a": "Hideg (tajga-, tundra-) éghajlat, rövid tenyészidő, kevés munkalehetőség."
+    },
+    {
+     "q": "Mondj két tényezőt, ami miatt sűrűn lakott a Ruhr-vidék!",
+     "a": "Feketekőszén-készlet és korai nehézipar, valamint a Rajna mint közlekedési útvonal."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ma a népesség eloszlását Európában erősebben befolyásolja a gazdasági fejlettség, mint a természeti adottságok.",
+     "true": true
+    },
+    {
+     "statement": "Az Alpok magashegységi területei Európa legsűrűbben lakott vidékei közé tartoznak.",
+     "true": false,
+     "correction": "A magashegységek ritkán lakottak; a népesség a völgyekben, medencékben él."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k2",
+   "explanation": "Európa legsűrűbben lakott sávja egy íves övezet Délkelet-Angliától a Rajna mentén át Észak-Olaszországig (a „kék banán”). Ide tömörül a népesség, az ipar és a pénzügyi szolgáltatások.\n\nFontos agglomerációk és fekvésük oka:\n- London: világváros, a Temze torkolata közelében, pénzügyi központ.\n- Párizs: a Párizsi-medence közepén, a Szajna mentén, központosított ország fővárosa.\n- Randstad (Amszterdam, Rotterdam, Hága): sokközpontú, kikötők a Rajna torkolatánál.\n- Ruhr-vidék (Duisburg, Dortmund): sokközpontú, kőszénre települt.\n- Brüsszel–Antwerpen vidéke, Frankfurt am Main, München, Milánó és az Olasz ipari háromszög a Pó-alföldön.\n- Keleten: Moszkva (egyközpontú, óriás agglomeráció), Szentpétervár; Közép-Európában Szilézia (Katowice), Budapest, Varsó.\n\nAz egyközpontú agglomerációt egy nagyváros uralja (Párizs), a sokközpontút több, hasonló súlyú város alkotja (Randstad, Ruhr).",
+   "diagram": "urbanization",
+   "concepts": [
+    "településhalmaz (agglomeráció)",
+    "egyközpontú és sokközpontú agglomeráció",
+    "Randstad",
+    "világváros (globális város)",
+    "népességtömörülés (népességkoncentráció)"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "A „kék banán” nem hivatalos fogalom, de jó segítség. Vizsgán a Randstadot és a Ruhr-vidéket sokközpontú, Párizst és Moszkvát egyközpontú agglomerációként említsd!",
+   "selfCheck": [
+    {
+     "q": "Mely városok alkotják a Randstadot?",
+     "a": "Pl. Amszterdam, Rotterdam, Hága (és Utrecht)."
+    },
+    {
+     "q": "Miért alakult ki agglomeráció a Ruhr-vidéken?",
+     "a": "A feketekőszénre települt nehézipar és a Rajna közlekedési szerepe miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Ruhr-vidék sokközpontú agglomeráció.",
+     "true": true
+    },
+    {
+     "statement": "Párizs agglomerációja több, egyforma súlyú városból álló sokközpontú településhalmaz.",
+     "true": false,
+     "correction": "Párizs egyközpontú agglomeráció: a főváros uralja a környező településeket."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k3",
+   "explanation": "Az érettségin az országcsoportokat, országokat, fővárosokat és gazdasági központokat térképen kell tudnod. Csoportonként tanuld:\n\n- Magterület: Egyesült Királyság (London, Birmingham, Manchester), Franciaország (Párizs, Lyon, Marseille), Benelux (Brüsszel, Amszterdam, Luxembourg), Németország (Berlin, Hamburg, München, Frankfurt am Main).\n- Alpok országai: Svájc (Bern, Zürich, Genf), Ausztria (Bécs, Linz, Graz).\n- Észak-Európa: Norvégia (Oslo), Svédország (Stockholm), Finnország (Helsinki), Dánia (Koppenhága), Izland (Reykjavík).\n- Dél-Európa: Spanyolország (Madrid, Barcelona), Portugália (Lisszabon), Olaszország (Róma, Milánó, Torino), Görögország (Athén).\n- V4: Csehország (Prága), Lengyelország (Varsó), Szlovákia (Pozsony).\n- Keleti szomszédaink: Románia (Bukarest), Ukrajna (Kijev).\n- Délszláv államok: Szlovénia (Ljubljana), Horvátország (Zágráb), Szerbia (Belgrád) stb.\n- Oroszország (Moszkva, Szentpétervár).\n\nMinden országhoz jegyezz meg egy tipikus jellemzőt: pl. Svájc – semlegesség, bankok; Norvégia – kőolaj, vízenergia. Az államformát is tudd: Németország, Ausztria, Svájc szövetségi köztársaság; az Egyesült Királyság, a Benelux államok és a skandináv királyságok alkotmányos monarchiák.",
+   "diagram": null,
+   "concepts": [
+    "állam",
+    "szövetségi köztársaság",
+    "alkotmányos monarchia"
+   ],
+   "processes": [],
+   "examTip": "Kontúrtérképen Szlovénia és Szlovákia, illetve Ljubljana és Pozsony cseréje gyakori hiba. Gyakorold a fővárosokat a folyókkal együtt (Pozsony – Duna, Varsó – Visztula).",
+   "selfCheck": [
+    {
+     "q": "Mi Svájc szövetségi fővárosa?",
+     "a": "Bern."
+    },
+    {
+     "q": "Melyik folyó partján fekszik Varsó?",
+     "a": "A Visztula partján."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ljubljana Szlovénia fővárosa.",
+     "true": true
+    },
+    {
+     "statement": "Zürich Svájc fővárosa.",
+     "true": false,
+     "correction": "Zürich Svájc legnagyobb városa és pénzügyi központja, de a szövetségi főváros Bern."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k4",
+   "explanation": "Kontinensrészenként más az agrárium, a nyersanyag és a jellemző ágazat.\n\n- Nyugat-Európa: búza, cukorrépa (Párizsi-medence), tejelő szarvasmarha, kertészet (Hollandia); kőszén (Ruhr-vidék, egykor Közép-angliai iparvidék), északi-tengeri kőolaj és földgáz; járműipar, gépgyártás, vegyipar, pénzügy.\n- Észak-Európa: halászat, erdőgazdálkodás (fa, papír), sertés és tejtermék (Dánia); vasérc (Kiruna), kőolaj, földgáz (Norvégia), vízenergia; távközlés, gépipar.\n- Dél-Európa: mediterrán gazdálkodás – olajbogyó, szőlő, citrusfélék, zöldség öntözéssel; kevés energiahordozó, bauxit; idegenforgalom, textil- és divatipar, hajózás.\n- Közép-Európa: búza, kukorica, cukorrépa, burgonya; kőszén (Szilézia), lignit; járműipar (Csehország, Szlovákia), gépipar.\n- Kelet-Európa: búza, napraforgó, kukorica a mezőségi talajon (Ukrajna); kőolaj, földgáz, vasérc, kőszén (Donyec-medence); kohászat, energiaexport.\n\nÖsszefoglalva: nyugaton fejlett szolgáltató, keleten nyersanyag- és agrárjellegű gazdaság dominál.",
+   "diagram": null,
+   "concepts": [
+    "mediterrán gazdálkodás",
+    "vegyes gazdálkodás",
+    "gazdasági ág és ágazat",
+    "természeti erőforrás"
+   ],
+   "processes": [],
+   "examTip": "Ne csak felsorold: kösd az éghajlathoz és a talajhoz is (pl. Ukrajna – mezőségi talaj – gabona). Az olajbogyó és a citrus mediterrán jelzés.",
+   "selfCheck": [
+    {
+     "q": "Melyik európai térség jellemző terménye az olajbogyó és a citrus?",
+     "a": "Dél-Európa (mediterrán gazdálkodás)."
+    },
+    {
+     "q": "Mi Norvégia két fontos energiaforrása?",
+     "a": "Kőolaj, földgáz (Északi-tenger) és vízenergia."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ukrajna mezőségi talajain jelentős a gabona- és napraforgó-termesztés.",
+     "true": true
+    },
+    {
+     "statement": "Dél-Európa országai gazdag kőszén- és kőolajkészletre építették iparukat.",
+     "true": false,
+     "correction": "Dél-Európa szegény energiahordozókban; ez is késleltette iparosodását."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k5",
+   "explanation": "Az országcsoportok szerepe a világgazdaságban és az EU-ban nagyon eltérő.\n\n- Magterület: Németország az EU legnagyobb gazdasága és exportőre; Franciaország a második legnagyobb gazdaság és vezető mezőgazdasági termelő. A két ország az integráció „motorja”. Az Egyesült Királyság 2020 óta nem tagja az EU-nak, de London világvárosként pénzügyi központ maradt.\n- Benelux: kikötők és logisztika (Rotterdam, Antwerpen), EU-intézmények (Brüsszel, Luxembourg).\n- Alpok országai: Svájc – bankok, gyógyszeripar, nemzetközi szervezetek (nem EU-tag); Ausztria – EU-tag, kelet-közép-európai befektető.\n- Észak-Európa: magas életszínvonal, innováció; Norvégia energiaexportőr (nem EU-tag).\n- Dél-Európa: Olaszország G7-tag ipari ország; a déli államok turizmusa világszinten jelentős.\n- V4 és Románia: az EU „összeszerelő üzemei”, járműipar, gyorsan fejlődő félperiféria.\n- Oroszország: energia- és nyersanyagexportőr, nem EU-tag.\n\nA nagy nyugat-európai gazdaságok G7-tagok, az EU egésze a Triád egyik pólusa.",
+   "diagram": null,
+   "concepts": [
+    "Triád",
+    "Európai Unió",
+    "világgazdasági pólus (centrum térség)",
+    "félperiféria térség",
+    "G8"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Figyelj a tagságokra: Svájc, Norvégia, Izland, az Egyesült Királyság és Oroszország NEM EU-tag. Ez gyakori csapda igaz-hamis feladatokban.",
+   "selfCheck": [
+    {
+     "q": "Melyik az EU legnagyobb gazdasága?",
+     "a": "Németország."
+    },
+    {
+     "q": "Mióta nem tagja az EU-nak az Egyesült Királyság?",
+     "a": "2020 óta (kilépés: 2020. január 31.)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Európai Unió a Triád egyik világgazdasági pólusa.",
+     "true": true
+    },
+    {
+     "statement": "Norvégia és Svájc az EU tagállamai.",
+     "true": false,
+     "correction": "Egyik sem EU-tag; mindkettő szorosan együttműködik az EU-val (pl. schengeni övezet)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e1",
+   "explanation": "Az emelt szinten példákat kell mondanod a térségek kulturális értékeire – sok közülük UNESCO-világörökség.\n\n- Egyesült Királyság: London (Westminster, Tower), Stonehenge, az angol mint világnyelv.\n- Franciaország: Párizs (Louvre, Eiffel-torony, Notre-Dame), a Loire-völgy kastélyai, Mont-Saint-Michel, a francia konyha.\n- Németország: kölni dóm, a Ruhr-vidéki Zollverein ipari műemlék, Drezda barokkja, Bach, Goethe.\n- Alpok országai: Salzburg (Mozart), Bécs kávéházai és zenei élete.\n- Észak-Európa: viking örökség, norvég fatemplomok, a fjordok tájai.\n- Dél-Európa: athéni Akropolisz, Róma, Vatikán, Velence, Firenze reneszánsz öröksége, Barcelona Gaudí-épületei, Granada mór emlékei.\n- Közép- és Kelet-Európa: Prága és Krakkó óvárosa, Moszkva Vörös tere, Szentpétervár, Kijev barlangkolostora.\n- Délszláv államok: Dubrovnik, Split (Diocletianus palotája).\n\nEurópa kulturális régiói vallás (katolikus, protestáns, ortodox) és nyelvcsalád szerint is elkülönülnek.",
+   "diagram": null,
+   "concepts": [
+    "világörökség",
+    "kulturális régió",
+    "nyelvcsalád",
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "processes": [],
+   "examTip": "Egy-egy országhoz legalább két konkrét kulturális értéket tudj, lehetőleg várossal összekötve. A világörökség és a kulturális turizmus kapcsolata gyakori esszétéma.",
+   "selfCheck": [
+    {
+     "q": "Melyik városban látható Diocletianus palotája?",
+     "a": "Splitben (Horvátország)."
+    },
+    {
+     "q": "Milyen vallási régiókra osztható Európa?",
+     "a": "Főleg katolikus (dél, közép), protestáns (észak) és ortodox (kelet, Balkán) régiókra; a Balkánon iszlám is."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Krakkó óvárosa a világörökség része.",
+     "true": true
+    },
+    {
+     "statement": "Az ortodox kereszténység Észak-Európa uralkodó vallása.",
+     "true": false,
+     "correction": "Észak-Európában a protestáns (evangélikus) vallás uralkodó; az ortodox Kelet-Európára és a Balkánra jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e2",
+   "explanation": "Az európai erőtér világgazdasági súlya hosszú távon relatíve csökken, de ma is a világ egyik pólusa.\n\nÁtalakulás lépései:\n- 19. század: Európa a világ centruma – ipari forradalom (Egyesült Királyság), gyarmatbirodalmak.\n- 20. század: két világháború, a gyarmatok elvesztése; vezető szerep az USA-ra száll; Európa kettéosztva (piacgazdaság nyugaton, tervutasításos gazdaság keleten).\n- Integráció: a közös piac, majd az EU és az euró növeli a versenyképességet.\n- 1990 után: a keleti országok bekapcsolódnak, bővül a piac és az olcsóbb munkaerő-kínálat.\n- 21. század: Kelet- és Dél-Ázsia (Kína) gyors felemelkedése miatt Európa részesedése csökken a világtermelésből.\n\nErősségek: egységes belső piac, magas életszínvonal, K+F, világmárkák, az euró mint fontos tartalékvaluta.\nGyengeségek: öregedő társadalom, energiafüggőség (különösen az orosz energia kiváltása 2022 után), lassú növekedés, kevés globális technológiai óriáscég.",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági erőtér",
+    "világgazdasági korszakváltás",
+    "Triád",
+    "öregedő és fiatalodó társadalom",
+    "kutatás-fejlesztés (K+F tevékenység)"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Ne azt írd, hogy Európa „hanyatlik”: a súlya relatíve csökken, mert mások gyorsabban nőnek. Erősségeket és gyengeségeket is sorolj!",
+   "selfCheck": [
+    {
+     "q": "Mi veszi át a 20. században Európa vezető szerepét?",
+     "a": "Az Amerikai Egyesült Államok."
+    },
+    {
+     "q": "Mondj két gyengeséget, ami Európa versenyképességét rontja!",
+     "a": "Öregedő társadalom, energiafüggőség (vagy lassú növekedés)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A világtermelésből Európa részesedése Ázsia felemelkedése miatt relatíve csökken.",
+     "true": true
+    },
+    {
+     "statement": "Az euró mára kiszorította a dollárt mint a világ első számú tartalékvalutáját.",
+     "true": false,
+     "correction": "Az euró fontos, második legjelentősebb tartalékvaluta, de a dollár szerepe továbbra is nagyobb."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e3",
+   "explanation": "Adatsorok összevetésénél az a cél, hogy a számok mögötti gazdasági jelentőséget lásd. Figyelj a mutatók különbségére:\n\n- GDP (összesen): a gazdaság méretét mutatja – itt Németország, Franciaország, Olaszország vezet az EU-ban.\n- Egy főre jutó GDP vagy GNI: a fejlettséget, életszínvonalat mutatja – itt a kis országok (Luxemburg, Írország, Dánia) állnak az élen.\n- Export és külkereskedelmi mérleg: Németország, Hollandia erős exportőr; pozitív a mérlegük.\n- Foglalkoztatási szerkezet: fejlett országban a szolgáltatások dominálnak, keleten nagyobb az ipar és a mezőgazdaság aránya.\n- Működőtőke-befektetés: a nyugati országok tőkét exportálnak, a V4 és Románia befogad.\n- Munkanélküliség, államadósság: Dél-Európa sérülékenyebb.\n\nTippek elemzéshez:\n- Mindig nézd a mértékegységet és az évet.\n- Abszolút és fajlagos adat mást mond.\n- Fogalmazz összehasonlítóan: „kétszer akkora”, „a legkisebb”.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "bruttó hazai termék (GDP)",
+    "bruttó nemzeti jövedelem (GNI)",
+    "foglalkoztatási szerkezet",
+    "pozitív és negatív külkereskedelmi mérleg",
+    "működőtőke-befektetés"
+   ],
+   "processes": [],
+   "examTip": "Gyakori hiba: a GDP-ből életszínvonalra következtetni. Luxemburg GDP-je kicsi, az egy főre jutó GDP-je viszont a legmagasabbak között van!",
+   "selfCheck": [
+    {
+     "q": "Melyik mutató alkalmas a fejlettség összevetésére: a GDP vagy az egy főre jutó GDP?",
+     "a": "Az egy főre jutó GDP (vagy GNI)."
+    },
+    {
+     "q": "Mi jellemzi a fejlett országok foglalkoztatási szerkezetét?",
+     "a": "A tercier (és kvaterner) szektor túlsúlya."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az EU-ban Németország GDP-je a legnagyobb.",
+     "true": true
+    },
+    {
+     "statement": "A magas GDP mindig magas egy főre jutó GDP-t is jelent.",
+     "true": false,
+     "correction": "Nem: a népességszámmal el kell osztani; egy nagy, népes ország GDP-je nagy lehet, miközben az egy főre jutó érték közepes."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e4",
+   "explanation": "Európa térségei egymásra utalt rendszert alkotnak.\n\n- Centrum: a fejlett magterület (Németország, Franciaország, Benelux, az Alpok és Észak-Európa országai, Dél-Angliával). Itt van a tőke, a K+F, a vállalatközpontok, a magas jövedelem.\n- Félperiféria: Dél-Európa és Kelet-Közép-Európa (V4, Szlovénia, Horvátország, Románia, a balti államok). Közepes jövedelem, a feldolgozóipar betelepülése, felzárkózás.\n- Periféria: Kelet- és Délkelet-Európa egyes országai (Ukrajna, Moldova, Albánia, a Nyugat-Balkán), valamint az EU-n belül a legelmaradottabb régiók.\n\nKapcsolatok:\n- Tőke a centrumból a félperiféria felé: működőtőke-befektetés, összeszerelő üzemek (pl. német autógyárak a V4-ben).\n- Munkaerő a periféria felől a centrum felé: vendégmunkások, ingázás, agyelszívás.\n- Áruk: a centrum fejlett termékeket, a periféria nyersanyagot, alkatrészt, mezőgazdasági terméket szállít.\n- EU-támogatások: a centrum befizetéseiből fejlesztési források jutnak a felzárkózó régióknak.\n\nA kapcsolat kölcsönös, de egyenlőtlen.",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági pólus (centrum térség)",
+    "félperiféria térség",
+    "periféria térség",
+    "agyelszívás (brain drain)",
+    "vendégmunkás",
+    "működőtőke-befektetés"
+   ],
+   "processes": [
+    "toke-aramlasa",
+    "globalizacio"
+   ],
+   "examTip": "Az esszében a kapcsolatokat irány szerint rendezd: tőke a centrumból kifelé, munkaerő a centrum felé, áru kétirányú, támogatás a felzárkózók felé. Minden irányhoz egy konkrét példa!",
+   "selfCheck": [
+    {
+     "q": "Milyen irányú a munkaerő-vándorlás a centrum és a periféria között?",
+     "a": "A perifériáról és félperifériáról a centrum felé."
+    },
+    {
+     "q": "Hová sorolható Magyarország ebben a rendszerben?",
+     "a": "A félperifériához."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A német autógyárak V4-beli üzemei a centrumból a félperiféria felé irányuló tőkeáramlás példái.",
+     "true": true
+    },
+    {
+     "statement": "A periféria országai jellemzően tőkét exportálnak a centrum felé.",
+     "true": false,
+     "correction": "Jellemzően a centrum exportál tőkét; a periféria munkaerőt és nyersanyagot ad."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--k1",
+   "explanation": "Az Európai Uniónak 27 tagállama van (az Egyesült Királyság 2020-ban kilépett). Csatlakozási hullámok szerint könnyebb megtanulni:\n\n- Alapítók (1957): Franciaország, Németország, Olaszország, Belgium, Hollandia, Luxemburg.\n- 1973: Dánia, Írország (és akkor még az Egyesült Királyság).\n- 1981: Görögország.\n- 1986: Spanyolország, Portugália.\n- 1995: Ausztria, Finnország, Svédország.\n- 2004: Magyarország, Csehország, Lengyelország, Szlovákia, Szlovénia, Észtország, Lettország, Litvánia, Ciprus, Málta.\n- 2007: Románia, Bulgária.\n- 2013: Horvátország.\n\nNem EU-tag például: Norvégia, Svájc, Izland, az Egyesült Királyság, Szerbia, Ukrajna, Oroszország. Tagjelölt többek között Montenegró, Szerbia, Albánia, Észak-Macedónia, Ukrajna és Moldova.",
+   "diagram": null,
+   "concepts": [
+    "Európai Unió",
+    "integráció"
+   ],
+   "processes": [],
+   "examTip": "Vaktérképes feladatban a balti államok és a kis szigetországok (Málta, Ciprus) maradnak ki legtöbbször. Írd fel a 27 tagot csoportokban, és ellenőrizd, hogy kijön-e a 27!",
+   "selfCheck": [
+    {
+     "q": "Mely országok csatlakoztak 2007-ben?",
+     "a": "Románia és Bulgária."
+    },
+    {
+     "q": "Melyik a legutóbb csatlakozott tagállam?",
+     "a": "Horvátország (2013)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Európai Uniónak jelenleg 27 tagállama van.",
+     "true": true
+    },
+    {
+     "statement": "Norvégia 1995-ben Svédországgal és Finnországgal együtt csatlakozott az EU-hoz.",
+     "true": false,
+     "correction": "Norvégia népszavazáson elutasította a tagságot, ma sem EU-tag; 1995-ben Ausztria, Finnország és Svédország csatlakozott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--k2",
+   "explanation": "Az európai együttműködés a második világháború után indult: a cél a béke biztosítása (főleg francia–német megbékélés) és a gazdasági újjáépítés.\n\nAz integráció fokozatai:\n- szabadkereskedelmi övezet → vámunió (közös külső vám) → közös piac (áru, szolgáltatás, tőke, munkaerő szabad áramlása) → gazdasági és pénzügyi (monetáris) unió (közös valuta, euró) → politikai unió felé.\n\nHatások a tagállamokra:\n- Bővülő piac, több kereskedelem, nagyobb versenyképesség.\n- Működőtőke áramlik az új tagokba (pl. járműipar Magyarországon, Szlovákiában).\n- Szabad munkavállalás, tanulás (Erasmus), utazás – a schengeni övezetben útlevél-ellenőrzés nélkül.\n- EU-támogatások: utak, vasutak, felzárkózó régiók fejlesztése.\n- Közös szabályok: környezetvédelem, fogyasztóvédelem, élelmiszer-biztonság.\n- Hátrány is lehet: erősebb verseny a hazai vállalatoknak, agyelszívás, a szuverenitás egy részének átadása.",
+   "diagram": "integration",
+   "concepts": [
+    "szabadkereskedelmi övezet",
+    "vámunió",
+    "közös piac",
+    "gazdasági unió",
+    "pénzügyi (monetáris) unió",
+    "politikai unió"
+   ],
+   "processes": [],
+   "examTip": "Az integráció szintjeit sorrendben kérik – a vámunió több, mint a szabadkereskedelmi övezet, mert közös a külső vám is. Az EU ma gazdasági és (az euróövezetben) pénzügyi unió.",
+   "selfCheck": [
+    {
+     "q": "Mi a „négy szabadság” a közös piacon?",
+     "a": "Az áruk, a szolgáltatások, a tőke és a munkaerő (személyek) szabad mozgása."
+    },
+    {
+     "q": "Miben több a vámunió a szabadkereskedelmi övezetnél?",
+     "a": "A tagok közös külső vámot alkalmaznak harmadik országokkal szemben."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A közös piacon a tőke és a munkaerő is szabadon mozoghat.",
+     "true": true
+    },
+    {
+     "statement": "Minden EU-tagállam fizetőeszköze az euró.",
+     "true": false,
+     "correction": "Több tagállam (pl. Magyarország, Lengyelország, Csehország, Svédország) saját valutát használ."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--k3",
+   "explanation": "Az EU fő intézményei – jegyezd meg: ki, hol, mit csinál.\n\n- Európai Parlament (Strasbourg, Brüsszel): az uniós polgárok közvetlenül választják ötévente. Az EU Tanácsával együtt alkot jogszabályokat, elfogadja a költségvetést.\n- Európai Bizottság (Brüsszel): tagállamonként egy biztos. Jogszabályt kezdeményez, végrehajtja a döntéseket, a „szerződések őre”.\n- Európai Unió Tanácsa (Miniszterek Tanácsa, Brüsszel): a tagállamok szakminiszterei; a Parlamenttel közösen dönt a jogszabályokról. Elnökségét a tagállamok félévente váltva töltik be.\n- Európai Tanács (Brüsszel): az állam- és kormányfők csúcstalálkozója, kijelöli a fő politikai irányokat; állandó elnöke van.\n- Európai Unió Bírósága (Luxembourg): az uniós jog egységes értelmezése.\n- Európai Központi Bank (Frankfurt am Main): az euró árfolyam- és kamatpolitikája, árstabilitás.\n\nVigyázz: az Európa Tanács (Strasbourg) nem uniós intézmény, hanem önálló, emberi jogi szervezet.",
+   "diagram": null,
+   "concepts": [
+    "Európai Parlament",
+    "Európai Bizottság",
+    "Európai Unió Tanácsa",
+    "Európai Tanács",
+    "Európai Unió Bírósága",
+    "Európai Központi Bank"
+   ],
+   "processes": [],
+   "examTip": "A legnagyobb csapda: Európai Tanács ≠ Európai Unió Tanácsa ≠ Európa Tanács. Tanuld meg a székhelyeket is: EKB – Frankfurt am Main, Bíróság – Luxembourg.",
+   "selfCheck": [
+    {
+     "q": "Melyik intézmény kezdeményez jogszabályokat?",
+     "a": "Az Európai Bizottság."
+    },
+    {
+     "q": "Hogyan kerülnek tisztségükbe az Európai Parlament tagjai?",
+     "a": "Az uniós polgárok közvetlenül választják őket ötévente."
+    },
+    {
+     "q": "Hol van az Európai Központi Bank székhelye?",
+     "a": "Frankfurt am Mainban."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Európai Tanácsban a tagállamok állam- és kormányfői ülnek.",
+     "true": true
+    },
+    {
+     "statement": "Az Európa Tanács az EU legfőbb döntéshozó szerve.",
+     "true": false,
+     "correction": "Az Európa Tanács nem EU-intézmény, hanem önálló nemzetközi szervezet; a fő irányokat az Európai Tanács jelöli ki."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--k4",
+   "explanation": "Az EU-n belül nagyok a területi különbségek: a fejlett régiók egy főre jutó GDP-je többszöröse a legelmaradottabbakénak.\n\nPéldák:\n- Fejlett régiók: Luxemburg, Párizs térsége, Bajorország (München), Hamburg, Dél-Hollandia, Dublin, a fővárosi régiók (Prága, Pozsony, Budapest is).\n- Elmaradott régiók: Dél-Olaszország (Mezzogiorno), Görögország egyes részei, Bulgária és Románia vidéki régiói (pl. Moldva), Kelet-Lengyelország, Észak-Magyarország.\n- Jellemző a főváros–vidék, nyugat–kelet és észak–dél különbség.\n\nA regionális (kohéziós) politika lényege:\n- Cél a felzárkóztatás és a gazdasági, társadalmi, területi kohézió.\n- Statisztikai régiók (NUTS) alapján osztják el a pénzt; a kevésbé fejlett régiók (az uniós átlag 75%-a alatti egy főre jutó GDP) kapják a legtöbbet.\n- Források: Európai Regionális Fejlesztési Alap, Európai Szociális Alap, Kohéziós Alap.\n- Támogatott területek: közlekedés, környezetvédelem, oktatás, vállalkozások, határon átnyúló együttműködés (eurorégiók).",
+   "diagram": null,
+   "concepts": [
+    "regionális politika",
+    "régió",
+    "eurorégió",
+    "állami és EU-támogatás",
+    "társadalmi-gazdasági egyenlőtlenség"
+   ],
+   "processes": [],
+   "examTip": "Ha térképen kell elemezni, nevezd meg a mintázatot (főváros–vidék, centrum–periféria) és mondj két konkrét régiót. A 75%-os határ jól ismert, kerek érték.",
+   "selfCheck": [
+    {
+     "q": "Melyik régiók kapják a legtöbb kohéziós támogatást?",
+     "a": "A kevésbé fejlett régiók, ahol az egy főre jutó GDP az uniós átlag 75%-a alatt van."
+    },
+    {
+     "q": "Mondj példát elmaradott régióra Nyugat- vagy Dél-Európában!",
+     "a": "Dél-Olaszország (Mezzogiorno)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A kelet-közép-európai országokban a fővárosi régiók általában jóval fejlettebbek a vidéki régióknál.",
+     "true": true
+    },
+    {
+     "statement": "Az EU regionális politikája a legfejlettebb régiókat támogatja leginkább, hogy versenyképesebbek legyenek.",
+     "true": false,
+     "correction": "A regionális politika célja a felzárkóztatás, ezért a legelmaradottabb régiók kapják a legtöbb támogatást."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--k5",
+   "explanation": "Az EU-ról szóló statisztikai feladatokban gyakran táblázat vagy diagram szerepel: népesség, terület, GDP, egy főre jutó GDP, munkanélküliség, mezőgazdaság aránya, uniós befizetés és támogatás.\n\nÍgy elemezz:\n- Olvasd el a címet, a mértékegységet, az évet.\n- Keresd a szélsőértékeket (legnagyobb, legkisebb) és a csoportokat (pl. régi és új tagok).\n- Különböztesd meg az abszolút (GDP, népesség) és a fajlagos (egy főre jutó, %) adatokat.\n- Számolj arányt, különbséget: pl. hányszorosa az egyik érték a másiknak.\n\nTipikus összefüggések:\n- A legnépesebb tagállam Németország, a legnagyobb területű Franciaország.\n- Az egy főre jutó GDP Luxemburgban és Írországban a legmagasabb, Bulgáriában az egyik legalacsonyabb.\n- A régi tagok általában nettó befizetők, az újak (pl. Lengyelország, Magyarország) nettó kedvezményezettek.\n- Dél-Európában magasabb lehet a munkanélküliség, különösen a fiatalok körében.\n- Fejlett tagokban kicsi a mezőgazdaságban foglalkoztatottak aránya.",
+   "diagram": null,
+   "concepts": [
+    "bruttó hazai termék (GDP)",
+    "munkanélküli",
+    "foglalkoztatási szerkezet",
+    "állami és EU-támogatás",
+    "Európai Unió"
+   ],
+   "processes": [],
+   "examTip": "Számolásnál mindig írd le a műveletet és a mértékegységet. Gyakori hiba, hogy a népességet és a GDP-t eltérő évből veszik, vagy az ezer–millió átváltást elrontják.",
+   "selfCheck": [
+    {
+     "q": "Melyik az EU legnépesebb tagállama?",
+     "a": "Németország."
+    },
+    {
+     "q": "Mit jelent, hogy egy ország nettó kedvezményezett?",
+     "a": "Több uniós támogatást kap, mint amennyit a közös költségvetésbe befizet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az EU legnagyobb területű tagállama Franciaország.",
+     "true": true
+    },
+    {
+     "statement": "Az új, 2004 után csatlakozott tagállamok jellemzően nettó befizetők.",
+     "true": false,
+     "correction": "Jellemzően nettó kedvezményezettek: több támogatást kapnak, mint amennyit befizetnek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--e1",
+   "explanation": "Az integráció története lépésről lépésre:\n\n- 1951: Párizsi szerződés – Európai Szén- és Acélközösség (ESZAK) hat alapítóval: Franciaország, NSZK, Olaszország, Belgium, Hollandia, Luxemburg. A háborús iparágak közös ellenőrzése a béke záloga.\n- 1957: Római szerződések – Európai Gazdasági Közösség (EGK, közös piac) és Euratom.\n- 1968: megvalósul a vámunió; 1962-től közös agrárpolitika.\n- 1973, 1981, 1986: északi és déli bővülések (Egyesült Királyság, Írország, Dánia; Görögország; Spanyolország, Portugália).\n- 1985/1995: schengeni egyezmény, majd a belső határellenőrzés fokozatos megszűnése.\n- 1992 (hatályba 1993): Maastrichti szerződés – létrejön az Európai Unió, kitűzik a pénzügyi uniót; 1993-tól egységes belső piac.\n- 1999: az euró számlapénz, 2002-től készpénz.\n- 2004, 2007, 2013: keleti bővítések (Magyarország 2004).\n- 2009: Lisszaboni szerződés – állandó elnök, erősebb Parlament.\n- 2020: az Egyesült Királyság kilépése (brexit).\n\nA folyamat: gazdasági együttműködésből egyre szorosabb politikai közösség.",
+   "diagram": "integration",
+   "concepts": [
+    "integráció",
+    "vámunió",
+    "közös piac",
+    "pénzügyi (monetáris) unió",
+    "Európai Unió"
+   ],
+   "processes": [],
+   "examTip": "A legfontosabb évszámok: 1951 (ESZAK), 1957 (Róma), 1993 (Maastricht, EU), 2002 (euró készpénz), 2004 (Magyarország), 2020 (brexit). Ezeket biztosan tudd!",
+   "selfCheck": [
+    {
+     "q": "Mely szerződés hozta létre az Európai Uniót?",
+     "a": "A Maastrichti szerződés (aláírás 1992, hatályba lépés 1993)."
+    },
+    {
+     "q": "Miért éppen a szén- és acélipart integrálták először?",
+     "a": "Mert ezek a hadiipar alapjai voltak; közös ellenőrzésük biztosította a francia–német békét."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Európai Gazdasági Közösséget a Római szerződések hozták létre 1957-ben.",
+     "true": true
+    },
+    {
+     "statement": "Az eurót 1993-ban készpénzként vezették be.",
+     "true": false,
+     "correction": "Az euró 1999-ben számlapénzként, 2002-ben készpénzként jelent meg."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--e2",
+   "explanation": "A bővítés lehetőség és kihívás is.\n\nLehetőségek:\n- nagyobb belső piac, több fogyasztó, olcsóbb munkaerő a befektetőknek;\n- politikai stabilitás, béke a Balkánon és Kelet-Európában;\n- az EU geopolitikai súlyának növelése.\n\nProblémák:\n- A jelöltek többsége szegényebb az átlagnál: sok támogatást igényelnek, így a régebbi kedvezményezettek (pl. Magyarország) kevesebb forráshoz juthatnak.\n- Mezőgazdasági verseny: Ukrajna nagy agrárpotenciálja megterhelné a közös agrárpolitikát.\n- Jogállamisági feltételek, korrupció, kisebbségi jogok kérdése (koppenhágai kritériumok).\n- Rendezetlen konfliktusok: Koszovó elismerése, Ciprus megosztottsága, az orosz–ukrán háború.\n- Működési nehézség: egyhangú döntés 30 feletti taggal nehézkes; intézményi reform kell.\n\nJelöltek: a nyugat-balkáni országok (Montenegró, Szerbia, Albánia, Észak-Macedónia, Bosznia-Hercegovina), Ukrajna, Moldova, Törökország (tárgyalásai megrekedtek).",
+   "diagram": null,
+   "concepts": [
+    "integráció",
+    "Európai Unió",
+    "regionális politika",
+    "társadalmi-gazdasági egyenlőtlenség"
+   ],
+   "processes": [],
+   "examTip": "Esszében mindig mérlegelj: legalább két előny és két probléma, konkrét országgal. Ukrajna esetén a mezőgazdaság, a Nyugat-Balkánon a stabilitás a kulcsszó.",
+   "selfCheck": [
+    {
+     "q": "Miért terhelné meg Ukrajna csatlakozása a közös agrárpolitikát?",
+     "a": "Hatalmas, termékeny mezőgazdasági területe miatt sok támogatásra lenne jogosult és erős versenytárs lenne."
+    },
+    {
+     "q": "Mi a koppenhágai kritériumok lényege?",
+     "a": "Stabil demokrácia és jogállam, működő piacgazdaság, az uniós jog átvételének képessége."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ukrajna és Moldova az EU tagjelöltjei.",
+     "true": true
+    },
+    {
+     "statement": "Szerbia 2013-ban Horvátországgal együtt csatlakozott az Európai Unióhoz.",
+     "true": false,
+     "correction": "2013-ban csak Horvátország csatlakozott; Szerbia tagjelölt, csatlakozási tárgyalásokat folytat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-3-az-europai-unio--e3",
+   "explanation": "A közös agrárpolitika (KAP) az EU egyik legrégebbi és legdrágább közös politikája, 1962 óta működik.\n\nEredeti célok: az élelmiszer-ellátás biztonsága, a termelés növelése, a gazdák jövedelmének biztosítása, stabil árak.\n\nEszközök kezdetben:\n- garantált felvásárlási árak, intervenciós felvásárlás;\n- vámok a harmadik országokból érkező termékekre (protekcionizmus);\n- exporttámogatás a többlet eladására.\n\nKövetkezmény: élelmiszer-túltermelés („vajhegyek, tejtavak”), magas költségek, a világpiaci árak torzulása.\n\nReformok (az 1990-es évektől):\n- a támogatás leválik a termelt mennyiségről: területalapú, közvetlen támogatás;\n- termelési kvóták (pl. tejkvóta) megszüntetése;\n- második pillér: vidékfejlesztés, fiatal gazdák segítése;\n- környezetvédelmi feltételek, biogazdálkodás, tájvédelem ösztönzése.\n\nForráselemzésnél figyeld, mekkora a KAP aránya a költségvetésben – ez csökken, de még mindig jelentős.",
+   "diagram": null,
+   "concepts": [
+    "élelmiszer-túltermelés",
+    "exporttámogatás (szubvenció)",
+    "protekcionizmus",
+    "biogazdálkodás",
+    "állami és EU-támogatás"
+   ],
+   "processes": [],
+   "examTip": "Kérdezhetik, miért alakult ki túltermelés: a garantált árak minél több termelésre ösztönöztek. A reformok iránya: mennyiség helyett terület, környezet és vidékfejlesztés.",
+   "selfCheck": [
+    {
+     "q": "Mi okozta a KAP-ban a túltermelést?",
+     "a": "A garantált felvásárlási árak, amelyek mennyiségtől függetlenül biztosították a bevételt."
+    },
+    {
+     "q": "Mit támogat a KAP második pillére?",
+     "a": "A vidékfejlesztést (pl. fiatal gazdák, környezetkímélő gazdálkodás)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A KAP reformjai során a támogatás egyre inkább a földterülethez és környezetvédelmi feltételekhez kötődik.",
+     "true": true
+    },
+    {
+     "statement": "A közös agrárpolitika kezdettől a termelés visszafogását és a világpiaci szabad versenyt szolgálta.",
+     "true": false,
+     "correction": "Kezdetben a termelés növelését és a piac védelmét szolgálta garantált árakkal és vámokkal; ez túltermeléshez vezetett."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "egyesult-kiralysag--k1",
+   "explanation": "Az Egyesült Királyság az ipari forradalom bölcsője – ebben döntő a fekvés és az ásványkincs.\n\nSzigetfekvés szerepe:\n- Tengeri védelem: évszázadokig nem érte sikeres invázió.\n- Erős flotta, tengeri kereskedelem, gyarmatbirodalom.\n- Golf-áramlás (Észak-atlanti-áramlás): enyhe, jégmentes kikötők (London, Liverpool, Glasgow).\n- Tagolt part, tölcsértorkolatok (Temze) – kiváló kikötőhelyek.\n\nÁsványkincsek:\n- Feketekőszén és vasérc a Pennine-hegység előterében, Walesben, Skóciában → kohászat, gépgyártás, textilipar (Manchester, Birmingham, Közép-angliai iparvidék).\n- A 20. században a szénbányák kimerültek, versenyképtelenné váltak: szerkezetváltás, munkanélküliség, sok bányát bezártak.\n- 1970-es évektől északi-tengeri kőolaj és földgáz (Aberdeen környéke): energiaforrás és export.\n\nMa a gazdaság súlypontja Délkelet-Angliára (London, Londoni-medence) tevődött: pénzügy, szolgáltatások, high-tech.",
+   "diagram": null,
+   "concepts": [
+    "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)",
+    "kőolaj",
+    "gazdasági szerkezetváltás",
+    "válságágazat",
+    "tölcsértorkolat"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Ne felejtsd: a hagyományos ipar a kőszénre települt (észak, Midlands), a modern gazdaság a délkeleti, London körüli térségben koncentrálódik – ez az észak–dél különbség.",
+   "selfCheck": [
+    {
+     "q": "Miért jégmentesek télen a brit kikötők?",
+     "a": "A Golf-áramlás folytatása, az Észak-atlanti-áramlás fűtő hatása miatt."
+    },
+    {
+     "q": "Hol termel az ország kőolajat és földgázt?",
+     "a": "Az Északi-tenger selfjén."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Közép-angliai iparvidék kőszénre és vasércre települt.",
+     "true": true
+    },
+    {
+     "statement": "Az Egyesült Királyság gazdasági súlypontja ma Észak-Angliában, a régi bányavidékeken van.",
+     "true": false,
+     "correction": "A súlypont Délkelet-Angliában, London környékén van; a régi bányavidékek szerkezetváltási gondokkal küzdöttek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "egyesult-kiralysag--e1",
+   "explanation": "A brit gazdaság felemelkedése szorosan összefügg a gyarmatbirodalommal.\n\nA gyarmatok szerepe:\n- Olcsó nyersanyag: gyapot (Indiából, Egyiptomból), tea, cukor, kaucsuk – ebből lett a manchesteri textilipar.\n- Biztos felvevőpiac a brit ipari termékeknek.\n- Tőkefelhalmozás: a kereskedelem haszna Londonba áramlott → pénzügyi központ.\n- Tengeri és kikötői hálózat (Liverpool, London).\n\nÁtalakulás a 20. században:\n- A két világháború és a gyarmatok függetlenné válása csökkentette a hatalmat; a Brit Nemzetközösség (Commonwealth) laza együttműködésként maradt meg.\n- A hagyományos iparágak (szén, kohászat, textil, hajóépítés) válságágazattá váltak.\n- Az 1980-as évektől privatizáció, piaci reformok, gyors szerkezetváltás.\n- Ma: posztindusztriális gazdaság – London világváros, a világ egyik vezető pénzügyi központja; erős a gyógyszer-, repülőgép-, kreatív ipar és a felsőoktatás.\n- A volt gyarmatokról érkezett bevándorlók sokszínűvé tették a társadalmat.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "gazdasági szerkezetváltás",
+    "válságágazat",
+    "privatizáció",
+    "ipar utáni (posztindusztriális) társadalom",
+    "világváros (globális város)"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Vázlat: gyarmat → nyersanyag + piac + tőke → ipari világhatalom → gyarmatvesztés + versenytársak → szerkezetváltás → pénzügyi szolgáltató gazdaság. Ez a lánc egy jó esszé gerince.",
+   "selfCheck": [
+    {
+     "q": "Honnan származott a manchesteri textilipar nyersanyaga?",
+     "a": "A gyarmatokról, főleg indiai és egyiptomi gyapotból."
+    },
+    {
+     "q": "Mi a Brit Nemzetközösség?",
+     "a": "A volt brit gyarmatok és az Egyesült Királyság laza politikai, kulturális együttműködése."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "London ma a világ egyik vezető pénzügyi központja.",
+     "true": true
+    },
+    {
+     "statement": "A gyarmatok elvesztése után a brit gazdaság a textil- és szénbányászat fejlesztésével nyerte vissza vezető szerepét.",
+     "true": false,
+     "correction": "Ezek válságágazattá váltak; a gazdaság a szolgáltatások, főleg a pénzügy felé alakult át."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "egyesult-kiralysag--e2",
+   "explanation": "Az Egyesült Királyság mindig „félig” volt európai: szigetfekvés, a Nemzetközösség és az USA felé is kötődött.\n\nA kapcsolat állomásai:\n- Az 1950-es években kimaradt az ESZAK-ból és az EGK-ból, inkább szabadkereskedelmi együttműködést (EFTA) választott.\n- 1973-ban csatlakozott az Európai Közösségekhez.\n- Tagként sok kivételt kért: nem vezette be az eurót, nem lett a schengeni övezet tagja, a költségvetési befizetéseiből visszatérítést kapott.\n- 2016: népszavazás, a többség a kilépésre szavazott (brexit). Skócia és Észak-Írország többsége maradt volna.\n- 2020. január 31.: kilépés; 2021-től kereskedelmi és együttműködési megállapodás szabályozza a kapcsolatot.\n\nKövetkezmények:\n- vámellenőrzés, adminisztráció, lassabb kereskedelem az EU-val;\n- a szabad munkavállalás megszűnése (munkaerőhiány egyes ágazatokban);\n- Észak-Írország különleges helyzete: nincs „kemény” határ Írországgal;\n- skót függetlenségi törekvések erősödése.",
+   "diagram": null,
+   "concepts": [
+    "Európai Unió",
+    "integráció",
+    "szabadkereskedelmi övezet",
+    "közös piac"
+   ],
+   "processes": [],
+   "examTip": "A 2016 (népszavazás) és 2020 (kilépés) évszámokat ne keverd! Az Egyesült Királyság ma nem EU-tag – igaz-hamis feladatban gyakori csapda.",
+   "selfCheck": [
+    {
+     "q": "Mikor csatlakozott és mikor lépett ki az Egyesült Királyság?",
+     "a": "1973-ban csatlakozott, 2020-ban lépett ki."
+    },
+    {
+     "q": "Miért különleges Észak-Írország helyzete a brexit után?",
+     "a": "Mert szárazföldi határa van az EU-tag Írországgal, ahol el akarják kerülni az ellenőrzött határt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Egyesült Királyság EU-tagként sem vezette be az eurót.",
+     "true": true
+    },
+    {
+     "statement": "A 2016-os népszavazáson Skócia többsége is a kilépésre szavazott.",
+     "true": false,
+     "correction": "Skócia (és Észak-Írország) többsége a maradásra szavazott; Anglia és Wales döntött a kilépés mellett."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "franciaorszag--k1",
+   "explanation": "Franciaország az EU legnagyobb mezőgazdasági termelője – ennek természeti és társadalmi okai vannak.\n\nAdottságok:\n- az EU legnagyobb területű tagállama, sok síkság (Párizsi-medence, Loire és Garonne vidéke);\n- változatos éghajlat: óceáni nyugaton, mediterrán délen, kontinentálisabb keleten;\n- jó minőségű barna erdőtalajok, löszös területek.\n\nTermelési körzetek:\n- Párizsi-medence: nagyüzemi búza-, cukorrépa-termesztés – az EU legnagyobb búzatermelője és -exportőre.\n- Bretagne, Normandia: szarvasmarha, tejtermék, sajt; baromfi, sertés.\n- Bordeaux, Champagne, Burgundia, Rhône-völgy: világhírű szőlő- és borvidékek.\n- Dél, mediterrán part: zöldség, gyümölcs, levendula.\n\nJelentőség: élelmiszer-exportőr, erős élelmiszeripar (sajt, bor, pezsgő). A közös agrárpolitika egyik legnagyobb kedvezményezettje, a francia gazdák erős érdekérvényesítők.",
+   "diagram": null,
+   "concepts": [
+    "mezőgazdaság",
+    "vegyes gazdálkodás",
+    "mediterrán gazdálkodás",
+    "barna erdőtalaj"
+   ],
+   "processes": [],
+   "examTip": "Táj és termék párosítása gyakori: Párizsi-medence – búza, cukorrépa; Bretagne – állattenyésztés; Bordeaux, Champagne – bor. Ezt térképen is gyakorold!",
+   "selfCheck": [
+    {
+     "q": "Melyik francia táj az ország „gabonaöve”?",
+     "a": "A Párizsi-medence."
+    },
+    {
+     "q": "Miért nagy kedvezményezettje Franciaország a közös agrárpolitikának?",
+     "a": "Mert a legnagyobb mezőgazdasági termelője az EU-nak."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Franciaország az EU legnagyobb búzatermelője.",
+     "true": true
+    },
+    {
+     "statement": "Franciaország mezőgazdasága főleg a mediterrán Dél kis birtokain termelt gabonára épül.",
+     "true": false,
+     "correction": "A gabona főleg a Párizsi-medence nagyüzemeiben terem; a mediterrán délen szőlő, zöldség, gyümölcs a jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "franciaorszag--k2",
+   "explanation": "Franciaország a világ egyik leglátogatottabb országa; az idegenforgalom jelentős bevételi forrás és munkahelyteremtő.\n\nVonzerők:\n- Kulturális turizmus: Párizs (Louvre, Eiffel-torony, Notre-Dame, Versailles), a Loire-völgy kastélyai, Mont-Saint-Michel, gótikus katedrálisok.\n- Tengerparti üdülés: a mediterrán Riviéra (Nizza, Cannes), Marseille, Korzika; az atlanti partok.\n- Téli sportok: az Alpok (Mont Blanc, Chamonix), Pireneusok.\n- Gasztronómia és borturizmus: Bordeaux, Champagne, Burgundia.\n- Zarándokhely: Lourdes.\n- Rendezvények: divat, filmfesztivál (Cannes), sportesemények (pl. a 2024-es párizsi olimpia).\n\nGazdasági hatások:\n- sok munkahely a szálláshelyeken, vendéglátásban, közlekedésben;\n- devizabevétel, javítja a fizetési mérleget;\n- fejlődik az infrastruktúra (TGV, repülőterek);\n- de: túlzsúfoltság, szezonalitás, környezeti terhelés a parton és az Alpokban.",
+   "diagram": null,
+   "concepts": [
+    "szolgáltatások",
+    "tercier és kvaterner szektor",
+    "világörökség",
+    "infrastruktúra"
+   ],
+   "processes": [],
+   "examTip": "Ne csak látnivalókat sorolj: a kérdés a GAZDASÁGI jelentőség. Írj munkahelyről, bevételről, infrastruktúráról és a negatív hatásokról is!",
+   "selfCheck": [
+    {
+     "q": "Mondj három turisztikai típust Franciaországban példával!",
+     "a": "Kulturális (Párizs), tengerparti (Riviéra), téli sport (Alpok, Chamonix)."
+    },
+    {
+     "q": "Hogyan hat a turizmus a fizetési mérlegre?",
+     "a": "Devizabevételt hoz, javítja a mérleget."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Franciaország a világ egyik leglátogatottabb országa.",
+     "true": true
+    },
+    {
+     "statement": "Franciaországban a turizmus kizárólag a nyári tengerparti üdülésre épül.",
+     "true": false,
+     "correction": "Sokféle: kulturális (Párizs), téli sport (Alpok), bor- és zarándokturizmus is jelentős, ezért egész évben van forgalom."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "franciaorszag--e1",
+   "explanation": "Franciaország a brit után a második legnagyobb gyarmatbirodalmat építette ki, főleg Afrikában (Algéria, Marokkó, Tunézia, Nyugat-Afrika), Indokínában és a Karib-térségben.\n\nTársadalmi-gazdasági hatások:\n- Nyersanyag és piac a francia iparnak, tőkefelhalmozás Párizsban.\n- A gyarmatok függetlenné válása (főleg az 1950–60-as években, Algéria 1962) után nagy bevándorlási hullám: Észak-Afrikából (Maghreb) és Nyugat-Afrikából érkeztek munkavállalók. Ma jelentős muszlim közösség él az országban.\n- Ebből adódó feladatok: integráció, a nagyvárosi elővárosok (banlieue) szegénysége, társadalmi feszültségek.\n- Frankofónia: a francia világnyelv maradt, kulturális és gazdasági kapcsolatok a volt gyarmatokkal.\n- Tengerentúli megyék (Guadeloupe, Martinique, Francia Guyana, Réunion, Mayotte): az EU részei, legkülső régiók. Francia Guyanában (Kourou) van az európai űrrepülőtér.\n- Katonai és gazdasági befolyás Afrikában – ez az utóbbi években sok országban csökkent.",
+   "diagram": null,
+   "concepts": [
+    "ki- és bevándorlás",
+    "világnyelv",
+    "etnikai kisebbség",
+    "nemzeti azonosságtudat (identitás)"
+   ],
+   "processes": [],
+   "examTip": "A gyarmatosítás hatását a MÁBAN keresd: bevándorlás, sokszínű társadalom, francia nyelv terjedése, tengerentúli területek. Konkrét ország (Algéria) és város (Párizs elővárosai) erősíti a választ.",
+   "selfCheck": [
+    {
+     "q": "Honnan érkezett a legtöbb bevándorló Franciaországba a gyarmatbirodalom felbomlása után?",
+     "a": "Észak-Afrikából (Algéria, Marokkó, Tunézia), illetve Nyugat-Afrikából."
+    },
+    {
+     "q": "Mi az európai űrrepülőtér helye?",
+     "a": "Kourou, Francia Guyana."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Franciaország tengerentúli megyéi az Európai Unió részei.",
+     "true": true
+    },
+    {
+     "statement": "A volt francia gyarmatokon a francia nyelv a függetlenség után teljesen eltűnt.",
+     "true": false,
+     "correction": "Sok volt gyarmaton ma is hivatalos vagy fontos közvetítő nyelv a francia (frankofónia)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "benelux-allamok--e1",
+   "explanation": "A Benelux (Belgium, Hollandia, Luxemburg) kis területű, sűrűn lakott, fejlett, nyitott gazdaságú országok csoportja.\n\nAz együttműködés okai:\n- Kis belső piac → érdekük a szabad kereskedelem.\n- A Rajna–Maas–Schelde torkolatvidékén fekszenek: közös közlekedési, kikötői érdekek.\n- Nagy szomszédok (Németország, Franciaország) között együtt erősebbek.\n- Már a második világháború alatt, száműzetésben megállapodtak a vámunióról (1944, megvalósult 1948) – az európai integráció előfutára; mindhárom alapítója az ESZAK-nak és az EGK-nak.\n\nOrszágonként:\n- Hollandia: Holland-mélyföld, polderek, IJssel-tó, Deltaterv; Randstad (Amszterdam, Rotterdam, Hága); Rotterdam Európa legnagyobb kikötője; kertészet, virág, tejtermék; vegyipar, elektronika.\n- Belgium: szövetségi állam; Flandria (holland nyelvű, fejlettebb, Antwerpen kikötő) és Vallónia (francia nyelvű, egykori szén- és acélipar az Ardennek előterében, szerkezetváltási gondok); Brüsszel – EU- és NATO-központ.\n- Luxemburg: egykori vasérc- és acélipar, ma pénzügyi központ, EU-intézmények (Bíróság), igen magas egy főre jutó GDP, sok ingázó a szomszédos országokból.",
+   "diagram": "integration",
+   "concepts": [
+    "vámunió",
+    "Randstad",
+    "polder",
+    "hivatalos nyelv",
+    "ingázás"
+   ],
+   "processes": [],
+   "examTip": "Vigyázz: Belgium alkotmányos monarchia, mégis szövetségi felépítésű, három hivatalos nyelvvel (holland, francia, német). Esszében a Flandria–Vallónia ellentét és Rotterdam kikötője szinte biztos pont.",
+   "selfCheck": [
+    {
+     "q": "Miért fejlettebb ma Flandria, mint Vallónia?",
+     "a": "Vallónia a kimerült szénre épült nehézipar válságát élte meg, Flandria kikötői (Antwerpen) és modern ipara gyorsan fejlődött."
+    },
+    {
+     "q": "Mióta működik a Benelux vámunió?",
+     "a": "1948 óta (az egyezményt 1944-ben kötötték)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Rotterdam Európa legnagyobb kikötője.",
+     "true": true
+    },
+    {
+     "statement": "Luxemburg gazdasága ma is elsősorban a vasércbányászatra épül.",
+     "true": false,
+     "correction": "A bányászat megszűnt; Luxemburg ma pénzügyi és szolgáltató központ, EU-intézmények székhelye."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "nemetorszag--k1",
+   "explanation": "Németország Európa legnagyobb gazdasága és a világ egyik vezető exportőre.\n\nMiért?\n- Nagy, képzett népesség, erős szakképzés és K+F.\n- Központi fekvés Európában, kiváló közlekedés (Rajna, Duna–Majna–Rajna vízi út, autópályák, Hamburg kikötője).\n- Ipari hagyomány: kőszén (Ruhr-vidék), lignit, kálisó.\n- Erős középvállalatok és világmárkák.\n\nHúzóágazatok:\n- Járműipar: Volkswagen (Wolfsburg), BMW, Audi (Bajorország, München), Mercedes-Benz, Porsche (Stuttgart).\n- Gépgyártás, elektrotechnika (Siemens, Bosch).\n- Vegyipar és gyógyszeripar (Rajna mente, Frankfurt am Main, Köln).\n- Pénzügy: Frankfurt am Main – Európai Központi Bank, tőzsde.\n\nSzerepe az EU-ban: a legnagyobb befizető, a legnépesebb tagállam, a közös piac és az euró egyik motorja; a kelet-közép-európai gazdaságok legfőbb partnere.\n\nGondok: öregedő társadalom, szakemberhiány, energiaátállás (atomerőművek bezárása, az orosz földgáz kiváltása).",
+   "diagram": null,
+   "concepts": [
+    "húzóágazat",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "pozitív és negatív külkereskedelmi mérleg",
+    "transznacionális vállalat (TNC)",
+    "versenyképesség"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Mindig kösd a márkát a városhoz és a tartományhoz: Stuttgart – Mercedes, München – BMW, Wolfsburg – VW. Az EKB székhelye Frankfurt am Main.",
+   "selfCheck": [
+    {
+     "q": "Melyik város Németország pénzügyi központja?",
+     "a": "Frankfurt am Main."
+    },
+    {
+     "q": "Mondj két német húzóágazatot!",
+     "a": "Járműipar és gépgyártás (vagy vegyipar)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Németország külkereskedelmi mérlege jellemzően pozitív.",
+     "true": true
+    },
+    {
+     "statement": "Németország gazdasága elsősorban a nyersanyag-exportra épül.",
+     "true": false,
+     "correction": "Németország magas hozzáadott értékű késztermékeket (járművek, gépek, vegyi áru) exportál; nyersanyagból behozatalra szorul."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "nemetorszag--k2",
+   "explanation": "1949 és 1990 között két német állam létezett: a nyugati NSZK (piacgazdaság) és a keleti NDK (szovjet típusú tervutasításos gazdaság). Az újraegyesítés 1990. október 3-án történt.\n\nEltérő fejlődés:\n- NSZK: „gazdasági csoda”, Marshall-segély, exportorientált ipar, vendégmunkások (pl. Törökországból).\n- NDK: állami tulajdon, nehézipar, lignit, elavuló technológia, környezetszennyezés, alacsonyabb életszínvonal.\n\nAz egyesítés után:\n- A keleti vállalatok nagy részét privatizálták vagy bezárták → tömeges munkanélküliség.\n- Kelet-nyugati vándorlás, főleg fiatalok és nők → a keleti tartományok elöregedtek, egyes városok népessége csökkent.\n- Hatalmas állami transzferek (szolidaritási pótlék), infrastruktúra-fejlesztés.\n- Ma: egyes keleti központok (Lipcse, Drezda – mikroelektronika, autógyártás; Berlin) dinamikusak, de a bérek, a termelékenység és a cégközpontok száma még mindig nyugaton nagyobb.\n- Politikai és társadalmi különbségek is megmaradtak (elégedetlenség, „másodrendű” érzés).",
+   "diagram": null,
+   "concepts": [
+    "tervutasításos gazdaság",
+    "piacgazdaság",
+    "gazdasági rendszerváltoztatás",
+    "privatizáció",
+    "munkanélküli"
+   ],
+   "processes": [],
+   "examTip": "Az esszé kulcsa: eltérő gazdasági rendszer → egyesítés → privatizáció, munkanélküliség, elvándorlás → transzferek, felzárkózás. Konkrét keleti város: Lipcse, Drezda.",
+   "selfCheck": [
+    {
+     "q": "Mikor egyesült újra Németország?",
+     "a": "1990. október 3-án."
+    },
+    {
+     "q": "Miért öregedtek el a keleti tartományok?",
+     "a": "Mert a fiatalok tömegesen vándoroltak nyugatra munka miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az egyesítés után a keleti tartományokban tömeges munkanélküliség alakult ki.",
+     "true": true
+    },
+    {
+     "statement": "Az NDK piacgazdasága fejlettebb volt az NSZK-énál, ezért az egyesítés után nyugatról keletre vándoroltak.",
+     "true": false,
+     "correction": "Az NDK tervutasításos gazdasága elmaradottabb volt; a vándorlás keletről nyugatra irányult."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "nemetorszag--k3",
+   "explanation": "A Ruhr-vidék a hagyományos iparvidékek átalakulásának mintapéldája.\n\nKialakulás: feketekőszén (variszkuszi előtér) + a Rajna és csatornák közlekedése + közeli vasérc (később importérc) → 19. századi kohászat, gépgyártás, vegyipar. Sokközpontú agglomeráció: Duisburg, Essen, Dortmund, Bochum.\n\nVálság (1960-as évektől):\n- a mélyművelésű szén drága lett, olcsóbb import és a kőolaj kiszorította;\n- acélválság, bányabezárások, munkanélküliség, elvándorlás;\n- súlyos környezeti terhelés: légszennyezés, meddőhányók, szennyezett folyók (Emscher).\n\nÁtalakulás:\n- az utolsó kőszénbánya 2018-ban zárt be; kohászat Duisburgban korszerűsítve megmaradt;\n- új ágazatok: logisztika (Duisburg – nagy belvízi kikötő), szolgáltatás, informatika, egészségügy, megújuló energia;\n- egyetemek, kutatóintézetek;\n- környezeti rehabilitáció: az Emscher megtisztítása, bányaterületek rekultivációja, parkok;\n- ipari örökség turizmus: az esseni Zollverein bánya a világörökség része.\n\nA folyamat évtizedes, ma is tartó szerkezetváltás.",
+   "diagram": null,
+   "concepts": [
+    "gazdasági szerkezetváltás",
+    "válságágazat",
+    "rekultiváció",
+    "barnamezős (rekonstrukciós) és zöldmezős beruházás",
+    "egyközpontú és sokközpontú agglomeráció"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Ez kedvelt esszétéma: kialakulás okai → válság okai → következmények → átalakulás (gazdasági ÉS környezeti). A „környezeti” részt sokan kihagyják!",
+   "selfCheck": [
+    {
+     "q": "Mi okozta a Ruhr-vidék válságát?",
+     "a": "A drága szénbányászat versenyképtelensége (olcsó import, kőolaj) és az acélipari válság."
+    },
+    {
+     "q": "Mondj példát a Ruhr-vidék környezeti megújulására!",
+     "a": "Az Emscher folyó megtisztítása, meddőhányók rekultivációja, parkok, a Zollverein ipari örökség."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Ruhr-vidék ipara a feketekőszénre és a Rajna közlekedési útvonalára települt.",
+     "true": true
+    },
+    {
+     "statement": "A Ruhr-vidéken ma is a szénbányászat a legfontosabb gazdasági ágazat.",
+     "true": false,
+     "correction": "A kőszénbányászat 2018-ban megszűnt; ma a szolgáltatás, logisztika, oktatás és új iparágak a meghatározók."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "nemetorszag--e1",
+   "explanation": "A déli tartományok, Bajorország és Baden-Württemberg, a 20. század második felében Németország legdinamikusabb térségeivé váltak.\n\nOkok:\n- Nem volt kőszén, ezért nem épült ki a válságba jutott nehézipar – „tiszta lappal” indulhattak.\n- A második világháború után sok vállalat (pl. Siemens) délre helyezte központját.\n- Magasan képzett munkaerő, egyetemek, kutatóintézetek (München, Stuttgart).\n- Állami fejlesztéspolitika, jó infrastruktúra, nemzetközi repülőtér (München).\n- Vonzó környezet: Alpok közelsége, magas életminőség.\n\nPéldák:\n- München: BMW, Siemens, Allianz, informatika, repülőgépipar.\n- Stuttgart: Mercedes-Benz, Porsche, Bosch.\n- Ingolstadt: Audi.\n- Közép- és kisvállalatok világszínvonalú gépgyártással.\n\nEredmény: alacsony munkanélküliség, magas jövedelem, bevándorlási célpont – a gazdasági súlypont északról (Ruhr-vidék) dél felé tolódott.",
+   "diagram": null,
+   "concepts": [
+    "húzóágazat",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "technopolisz",
+    "telepítő tényező",
+    "innováció"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Az összehasonlítás Ruhr-vidék vs. Bajorország gyakori: a nyersanyag-orientált hagyományos ipar hanyatlik, a tudásalapú, piac- és munkaerő-orientált ipar fejlődik.",
+   "selfCheck": [
+    {
+     "q": "Miért volt előny, hogy Délnémetországban nincs kőszén?",
+     "a": "Nem települt ide a később válságba került nehézipar, így modern, tudásigényes ágazatok fejlődtek."
+    },
+    {
+     "q": "Melyik autógyártók központja van Stuttgartban?",
+     "a": "Mercedes-Benz és Porsche."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "München a BMW és a Siemens központja.",
+     "true": true
+    },
+    {
+     "statement": "Bajorország gyors fejlődése gazdag feketekőszén-készletein alapult.",
+     "true": false,
+     "correction": "Bajorországban nincs jelentős feketekőszén; fejlődése képzett munkaerőre, K+F-re és modern iparra épült."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "nemetorszag--e2",
+   "explanation": "A rendszerváltás után a német nagyvállalatok a volt szocialista országok legnagyobb befektetői közé kerültek.\n\nMiért települtek ide?\n- Közeli fekvés, rövid szállítási idő a német anyavállalatokhoz.\n- Viszonylag olcsó, de képzett munkaerő, ipari hagyomány.\n- Állami támogatások, ipari parkok, az EU-tagság jogbiztonsága.\n\nPéldák Magyarországon:\n- Audi Győr (motor- és autógyártás), Mercedes-Benz Kecskemét, BMW Debrecen.\n- Bosch (több telephely), Siemens, Knorr-Bremse, Continental.\n- Szolgáltatás: Deutsche Telekom (Magyar Telekom), áruházláncok (Lidl, Aldi).\n\nA régióban:\n- Volkswagen Pozsony (Szlovákia), Škoda (Csehország) – a VW-csoport része, Volkswagen-gyárak Lengyelországban.\n\nHatások:\n- munkahelyek, exportnövekedés, technológia- és tudásátadás, beszállítói hálózatok;\n- de: függés a német konjunktúrától és az autóipartól, az összeszerelés kisebb hozzáadott értéke, profit kivitele.\n\nMagyarország legfontosabb külkereskedelmi partnere Németország.",
+   "diagram": null,
+   "concepts": [
+    "transznacionális vállalat (TNC)",
+    "leányvállalat",
+    "működőtőke-befektetés",
+    "ipari park",
+    "barnamezős (rekonstrukciós) és zöldmezős beruházás"
+   ],
+   "processes": [
+    "toke-aramlasa",
+    "globalizacio"
+   ],
+   "examTip": "Mondj legalább három konkrét vállalat–város párt (Audi – Győr, Mercedes – Kecskemét, BMW – Debrecen), és mérlegeld az előnyöket és a függőséget is.",
+   "selfCheck": [
+    {
+     "q": "Melyik német autógyár működik Kecskeméten?",
+     "a": "A Mercedes-Benz."
+    },
+    {
+     "q": "Mondj egy hátrányt, amely a német tőke túlsúlyából fakad!",
+     "a": "Függés a német gazdaság, főleg az autóipar konjunktúrájától."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Magyarország legfontosabb külkereskedelmi partnere Németország.",
+     "true": true
+    },
+    {
+     "statement": "A német vállalatok elsősorban a nyersanyagok miatt települtek a volt szocialista országokba.",
+     "true": false,
+     "correction": "Főként a közelség, a képzett és olcsóbb munkaerő, a támogatások és a piacbővülés vonzotta őket."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "az-alpok-orszagai--k1",
+   "explanation": "Az Alpok országai – Svájc és Ausztria – kis területű, fejlett, magas életszínvonalú államok.\n\nKözös vonások:\n- Az Alpok eurázsiai gyűrthegysége uralja a felszínt; magashegység, gleccserek, U alakú völgyek, jégvájta tavak (Genfi-tó, Boden-tó).\n- Függőleges övezetesség: völgyekben szántó, feljebb erdő, havasi legelő, havasi pásztorkodás, tejgazdaság, sajtgyártás.\n- Bő csapadék, nagy esés → vízenergia.\n- Kevés ásványkincs → magas hozzáadott értékű ipar és szolgáltatás.\n- Tranzitszerep: hágók és alagutak (Szent Gotthárd-hágó, Brenner) kötik össze Észak- és Dél-Európát.\n- Egész éves turizmus: síelés, hegymászás, gyógyturizmus.\n\nKülönbségek:\n- Svájc: szövetségi állam, kantonok, négy hivatalos nyelv (német, francia, olasz, rétoromán), közvetlen demokrácia (népszavazások); bankok, biztosítók (Zürich), gyógyszeripar (Bázel), óragyártás; nem EU-tag.\n- Ausztria: német nyelvű szövetségi köztársaság, EU-tag (1995), euró; Bécs, Linz (acél), Graz (járműipar), Salzburg (turizmus).",
+   "diagram": "zonation",
+   "concepts": [
+    "függőleges földrajzi övezetesség",
+    "havasi legelő",
+    "havasi pásztorkodás",
+    "gleccser",
+    "szövetségi köztársaság"
+   ],
+   "processes": [
+    "jeg-munkaja"
+   ],
+   "examTip": "Gyakori kérdés: miért fejlett a nyersanyagban szegény Svájc? Képzett munkaerő, semlegesség, stabil pénzügyi rendszer, specializáció drága termékekre (gyógyszer, óra, precíziós gép).",
+   "selfCheck": [
+    {
+     "q": "Hány hivatalos nyelve van Svájcnak és melyek?",
+     "a": "Négy: német, francia, olasz, rétoromán."
+    },
+    {
+     "q": "Mi az alpesi országok fő energiaforrása?",
+     "a": "A vízenergia."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ausztria 1995 óta tagja az Európai Uniónak.",
+     "true": true
+    },
+    {
+     "statement": "Svájc az euróövezet tagja.",
+     "true": false,
+     "correction": "Svájc nem EU-tag, saját valutája a svájci frank."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "az-alpok-orszagai--k2",
+   "explanation": "Svájc és Ausztria semleges állam: katonai szövetségnek nem tagja, háborúban nem vesz részt. Ezt nemzetközi közvetítő és befogadó szerepre váltották.\n\nSvájc:\n- Semlegessége a bécsi kongresszus (1815) óta elismert.\n- Genf: az ENSZ európai székhelye, a Nemzetközi Vöröskereszt központja, az Egészségügyi Világszervezet (WHO) és a Kereskedelmi Világszervezet (WTO) székhelye.\n- Közvetítő tárgyalások, békekonferenciák helyszíne; Davos – Világgazdasági Fórum.\n- Az ENSZ-hez csak 2002-ben csatlakozott; nem tagja az EU-nak és a NATO-nak.\n\nAusztria:\n- Az 1955-ös államszerződés után vált semlegessé.\n- Bécs: az ENSZ egyik székhelye (UNO-City), a Nemzetközi Atomenergia-ügynökség, az OPEC és az EBESZ központja.\n- Az EU tagja, de a NATO-nak nem.\n\nA semlegesség előnye: politikai stabilitás, bizalom → bankok, nemzetközi szervezetek, konferenciaturizmus.",
+   "diagram": null,
+   "concepts": [
+    "Egyesült Nemzetek Szervezete (ENSZ)",
+    "Egészségügyi Világszervezet (WHO)",
+    "Világkereskedelmi Szervezet (WTO)",
+    "Kőolaj-exportáló Országok Szervezete (OPEC)",
+    "Észak-atlanti Szerződés Szervezete (NATO)"
+   ],
+   "processes": [],
+   "examTip": "Szervezet–város párok: Genf – ENSZ, WHO, WTO, Vöröskereszt; Bécs – OPEC, Atomenergia-ügynökség, ENSZ. Gyakori párosítós feladat!",
+   "selfCheck": [
+    {
+     "q": "Melyik városban van az OPEC központja?",
+     "a": "Bécsben."
+    },
+    {
+     "q": "Mióta semleges Ausztria?",
+     "a": "Az 1955-ös államszerződés óta."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Genfben működik a Nemzetközi Vöröskereszt központja.",
+     "true": true
+    },
+    {
+     "statement": "Ausztria semlegessége miatt nem lehet tagja az Európai Uniónak.",
+     "true": false,
+     "correction": "Ausztria 1995 óta EU-tag; semlegessége a katonai szövetségekre (NATO) vonatkozik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "az-alpok-orszagai--e1",
+   "explanation": "Magyarország és Ausztria kapcsolata évszázados közös múltra épül.\n\nTörténelmi gyökerek:\n- Habsburg Birodalom, majd 1867-től az Osztrák–Magyar Monarchia: közös uralkodó, piac, közlekedés, kultúra; Bécs és Budapest a Monarchia két fővárosa.\n- Burgenland (Őrvidék) 1921 óta Ausztriához tartozik; Sopron népszavazással Magyarországon maradt. Ma is él ott magyar közösség.\n- 1956: Ausztria sok magyar menekültet fogadott be.\n- 1989: a határnyitás és a soproni Páneurópai piknik – a vasfüggöny lebontásának jelképe.\n\nMai kapcsolatok:\n- Ausztria fontos befektető (bankok, kereskedelem, energia) és külkereskedelmi partner.\n- Sok magyar ingázik Ausztriába, főleg Nyugat-Dunántúlról (Sopron, Szombathely környéke) – munkaerő-elszívás a határ menti térségben.\n- Turizmus: osztrák vendégek a magyar fürdőkben, gyógyturizmus, fogászati turizmus; magyarok síelnek az Alpokban.\n- Közös természeti értékek: Fertő–Hanság Nemzeti Park és a Fertő tó (világörökség).\n- Határon átnyúló együttműködés, eurorégiók; mindkét ország EU- és schengeni tag.",
+   "diagram": null,
+   "concepts": [
+    "ingázás",
+    "eurorégió",
+    "működőtőke-befektetés",
+    "nemzeti kisebbség",
+    "világörökség"
+   ],
+   "processes": [],
+   "examTip": "Kétlépcsős választ várnak: történelmi gyökerek (Monarchia, Burgenland, 1989) + mai kapcsolatok (befektetés, ingázás, turizmus). Mindkettő kell a teljes pontszámhoz.",
+   "selfCheck": [
+    {
+     "q": "Mi történt 1989-ben Sopron közelében?",
+     "a": "A Páneurópai piknik: a határ megnyitásával NDK-polgárok jutottak nyugatra."
+    },
+    {
+     "q": "Miért ingáznak sokan Nyugat-Dunántúlról Ausztriába?",
+     "a": "A magasabb osztrák bérek és a közelség miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Fertő tó Ausztria és Magyarország közös világörökségi helyszíne.",
+     "true": true
+    },
+    {
+     "statement": "Burgenland a trianoni békét követően Magyarországnál maradt, csak Sopron került Ausztriához.",
+     "true": false,
+     "correction": "Fordítva: Burgenland (Őrvidék) Ausztriához került, Sopron népszavazással Magyarországon maradt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "az-alpok-orszagai--e2",
+   "explanation": "Az Alpokban a hőmérséklet gyorsabban emelkedik a globális átlagnál, ez erősen érinti a turizmust.\n\nTéli turizmus:\n- Emelkedik a hóhatár, rövidül a hóval borított időszak; az alacsonyabban fekvő síterepek veszteségessé válnak, bezárnak.\n- Mesterséges hóval pótolják a hiányt: sok vizet és energiát igényel, drágább a síelés.\n- A turizmus a magasabb, gleccseres területekre koncentrálódik → túlterhelés.\n\nGleccserek:\n- Gyorsan zsugorodnak; a gleccsersíelés lehetősége csökken, a gleccserlátványosságok is fogynak.\n- Az olvadó permafroszt kőomlást, sárfolyást, a felvonók, utak, menedékházak károsodását okozza.\n\nNyári turizmus:\n- A forró nyarak miatt felértékelődnek a hűvösebb hegyek: túrázás, kerékpározás, tavak (Boden-tó, Genfi-tó).\n- Viszont gyakoribbak az időjárási szélsőségek (villámárvíz, földcsuszamlás).\n\nAlkalmazkodás: egész éves kínálat, wellness, kulturális programok, fenntartható turizmus.",
+   "diagram": "glacier",
+   "concepts": [
+    "éghajlatváltozás (klímaváltozás)",
+    "hóhatár",
+    "gleccser",
+    "„örök fagy” (permafroszt)",
+    "tömegmozgások (csuszamlás, suvadás, omlás, folyás)"
+   ],
+   "processes": [
+    "globalis-felmelegedes",
+    "jeg-munkaja"
+   ],
+   "examTip": "Ne csak a negatív hatást írd: a nyári turizmus felértékelődik. A mesterséges hó víz- és energiaigénye jó „környezeti ellentmondás” példa.",
+   "selfCheck": [
+    {
+     "q": "Miért kerülnek bajba az alacsonyan fekvő síterepek?",
+     "a": "A hóhatár emelkedése miatt kevés és bizonytalan a természetes hó."
+    },
+    {
+     "q": "Milyen veszélyt jelent a permafroszt olvadása?",
+     "a": "Kőomlás, sárfolyás, a hegyi építmények (felvonók, utak) instabillá válása."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A klímaváltozás miatt a nyári hegyi turizmus jelentősége nőhet az Alpokban.",
+     "true": true
+    },
+    {
+     "statement": "A mesterséges hókészítés környezetbarát, mert nem igényel sem vizet, sem energiát.",
+     "true": false,
+     "correction": "Sok vizet és energiát igényel, ezért környezeti terhelést okoz."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "eszak-europa-orszagai--k1",
+   "explanation": "Észak-Európa (Norvégia, Svédország, Finnország, Dánia, Izland) mostoha természeti adottságai ellenére a világ legfejlettebb térségei közé tartozik.\n\nTermészeti tényezők:\n- Balti-ősföld: vasérc (Kiruna, Svédország); kaledóniai Skandináv-hegység: nagy esésű folyók → vízenergia (Norvégia, Svédország).\n- Jégkorszaki formák: fjordok (turizmus, kikötők), Finn-tóvidék.\n- Golf-áramlás és Észak-atlanti-áramlás: jégmentes norvég partok, gazdag halászterületek (Norvégia, Izland), lazactenyésztés.\n- Tajga: fa-, cellulóz- és papíripar (Finnország, Svédország).\n- Északi-tenger: kőolaj, földgáz (Norvégia) – a bevételt állami alapban gyűjtik a jövőnek.\n- Izland: vulkáni, geotermikus energia, olcsó áram → alumíniumkohászat.\n- Dánia: termékeny morénás síkság, sertés- és tejtermelés, szélenergia.\n\nTársadalmi tényezők:\n- jóléti állam, magas adók, erős szociális háló;\n- magasan képzett népesség, sok K+F, innováció (Ericsson, Volvo, Nokia, IKEA, Lego, gyógyszeripar);\n- politikai stabilitás, alacsony korrupció, nemek közti egyenlőség.",
+   "diagram": null,
+   "concepts": [
+    "jóléti állam",
+    "szociális háló",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "fjord",
+    "tajga",
+    "megújuló és nem megújuló energiaforrások"
+   ],
+   "processes": [
+    "jeg-munkaja",
+    "tengeraramlasok"
+   ],
+   "examTip": "Gyakori kérdés: hogyan lehet fejlett egy hideg, ritkán lakott térség? Természeti erőforrás (fa, érc, olaj, víz) + tudás + jóléti modell – mindhárom kell a válaszba.",
+   "selfCheck": [
+    {
+     "q": "Mi teszi lehetővé Izlandon az alumíniumkohászatot?",
+     "a": "Az olcsó geotermikus és vízenergia."
+    },
+    {
+     "q": "Melyik országban van Kiruna, és mit bányásznak ott?",
+     "a": "Svédországban, vasércet."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Norvégia jelentős kőolaj- és földgáztermelő az Északi-tenger selfjén.",
+     "true": true
+    },
+    {
+     "statement": "Finnország gazdaságában az erdőgazdálkodásnak nincs szerepe, mert területét tundra borítja.",
+     "true": false,
+     "correction": "Finnország nagy részét tajga borítja; a fa- és papíripar hagyományosan fontos ágazat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "eszak-europa-orszagai--k2",
+   "explanation": "Az északi országok sokban hasonlítanak, de jelentős különbségek is vannak.\n\nHasonlóságok:\n- magas életszínvonal, jóléti állam, fejlett szolgáltatások;\n- protestáns (evangélikus) hagyomány, ritka népesség, népesség a déli partokon tömörül;\n- erős környezettudatosság, sok megújuló energia;\n- szoros északi együttműködés, a schengeni övezet tagjai.\n\nKülönbségek:\n- Természet: Dánia alacsony, morénás síkság; Norvégia hegyes, fjordos; Finnország tavas, tajgás; Izland vulkáni sziget.\n- Gazdaság: Norvégia – kőolaj, földgáz, halászat, vízenergia; Svédország – vasérc, gépipar, járműipar, fa; Finnország – fa, papír, technológia; Dánia – mezőgazdaság, élelmiszeripar, szélenergia, gyógyszeripar; Izland – halászat, geotermia, turizmus.\n- EU-tagság: Dánia (1973), Svédország és Finnország (1995) tag; Norvégia és Izland nem, de az Európai Gazdasági Térség részei.\n- Euró: csak Finnország használja.\n- NATO: Norvégia, Dánia, Izland alapító; Finnország (2023) és Svédország (2024) csak nemrég csatlakozott.\n- Nyelv: a finn a finnugor nyelvcsaládba tartozik, a többiek germán nyelvet beszélnek.",
+   "diagram": null,
+   "concepts": [
+    "Európai Unió",
+    "Észak-atlanti Szerződés Szervezete (NATO)",
+    "nyelvcsalád",
+    "jóléti állam"
+   ],
+   "processes": [],
+   "examTip": "Táblázatos összehasonlításban három oszlop elég: természet – gazdaság – kapcsolatok (EU, euró, NATO). Gyakori hiba: Norvégiát EU-tagnak gondolni.",
+   "selfCheck": [
+    {
+     "q": "Melyik északi ország fizetőeszköze az euró?",
+     "a": "Finnország."
+    },
+    {
+     "q": "Melyik északi nyelv nem germán?",
+     "a": "A finn (finnugor nyelv)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Finnország és Svédország az orosz–ukrán háború után csatlakozott a NATO-hoz.",
+     "true": true
+    },
+    {
+     "statement": "Az összes észak-európai ország az Európai Unió tagja.",
+     "true": false,
+     "correction": "Norvégia és Izland nem EU-tag; az Európai Gazdasági Térségen keresztül kapcsolódnak a közös piachoz."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-3-del-europa-orszagai--k1",
+   "explanation": "Dél-Európa a Pireneusi (Ibériai)-, az Appennini- és a Balkán-félszigeten, valamint a szigeteken (Szicília, Szardínia, Korzika, Kréta, Ciprus, Málta) fekszik.\n\nTermészeti jellemzők:\n- Felszín: az eurázsiai hegységrendszer fiatal gyűrthegységei (Pireneusok, Appenninek, Dinári-hegység, Balkán-hegység), kevés síkság (Pó-alföld). Az Ibériai-félsziget belsejében magasan fekvő fennsík (Meseta).\n- Lemezhatár: gyakori földrengés, működő vulkánok (Vezúv, Etna, Stromboli).\n- Mediterrán éghajlat: forró, száraz nyár, enyhe, csapadékos tél; az Alpok és a Pireneusok védenek az északi hideg ellen.\n- Keménylombú erdők helyén macchia; terra rossa; mészkőhegységekben karszt.\n- Rövid, nyáron vízszegény folyók; vízhiány, öntözés.\n- Tagolt partvonal, sok sziget, öböl.\n\nTársadalmi-gazdasági jellemzők:\n- mediterrán gazdálkodás: olajbogyó, szőlő, citrus, zöldség, juh, kecske;\n- kevés energiahordozó, késői iparosodás;\n- idegenforgalom, hajózás meghatározó;\n- öregedő népesség, sok helyen elvándorlás a fejletlenebb belső vidékekről.",
+   "diagram": "climate-chart",
+   "concepts": [
+    "mediterrán éghajlat",
+    "keménylombú erdő",
+    "macchia",
+    "terra rossa",
+    "mediterrán gazdálkodás",
+    "gyűrthegység"
+   ],
+   "processes": [
+    "karsztosodas",
+    "vulkani-mukodes"
+   ],
+   "examTip": "Mediterrán éghajlatot diagramon a nyári csapadékhiányról ismered fel. A térség jellemzésekor kösd össze: éghajlat → növényzet → mezőgazdaság → turizmus.",
+   "selfCheck": [
+    {
+     "q": "Miért gyakori a földrengés Dél-Európában?",
+     "a": "Az Afrikai- és az Eurázsiai-lemez közeledése miatt."
+    },
+    {
+     "q": "Mi a macchia?",
+     "a": "A kiirtott keménylombú erdők helyén kialakult örökzöld bozótos."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Etna és a Vezúv működő vulkánok Olaszországban.",
+     "true": true
+    },
+    {
+     "statement": "Dél-Európa folyói bővizűek és egész évben egyenletes vízjárásúak.",
+     "true": false,
+     "correction": "Rövidek, nyáron vízszegények, sokszor kiszáradnak; télen áradnak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-3-del-europa-orszagai--k2",
+   "explanation": "A Földközi-tenger a dél-európai országok gazdaságának egyik alappillére.\n\nA tenger szerepe:\n- Hajózás és kikötők: Genova, Trieszt, Marseille, Barcelona, Pireusz (Athén kikötője); a görög kereskedelmi flotta a világ egyik legnagyobbja.\n- Halászat, tengeri tenyésztés (kagyló, hal).\n- Kőolaj- és földgázszállítás, kikötői ipar.\n\nIdegenforgalom:\n- Napfényes, száraz nyár, meleg tenger, hosszú strandok → tömeges tengerparti turizmus: spanyol partok, Baleár-szigetek, olasz Riviéra, görög szigetek (Kréta), Málta, Ciprus, Dalmácia.\n- Kulturális turizmus: Róma, Velence, Firenze, Athén, Barcelona, Sevilla.\n- Hajóutak (körutazások).\n\nGazdasági jelentőség: a GDP és a foglalkoztatás jelentős része, devizabevétel, infrastruktúra-fejlesztés.\n\nProblémák:\n- erős szezonalitás, idényjellegű munka;\n- túlturizmus (Barcelona, Velence), lakhatási gondok;\n- vízhiány nyáron, partbeépítés, szennyezés;\n- érzékenység válságokra (járvány, gazdasági válság).",
+   "diagram": null,
+   "concepts": [
+    "belvízi és tengerhajózás",
+    "halászat",
+    "szolgáltatások",
+    "tercier és kvaterner szektor",
+    "világörökség"
+   ],
+   "processes": [],
+   "examTip": "„Értékeld” típusú kérdésnél előnyöket ÉS hátrányokat is kérnek. A túlturizmus (Velence, Barcelona) és a nyári vízhiány jó negatív példák.",
+   "selfCheck": [
+    {
+     "q": "Milyen természeti adottság teszi vonzóvá a mediterrán partot?",
+     "a": "A napfényes, száraz, forró nyár és a meleg tenger."
+    },
+    {
+     "q": "Mondj két problémát, amit a tömegturizmus okoz!",
+     "a": "Túlzsúfoltság, vízhiány, partbeépítés, szezonális munkanélküliség (bármelyik kettő)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A görög kereskedelmi flotta a világ egyik legnagyobb flottája.",
+     "true": true
+    },
+    {
+     "statement": "A dél-európai turizmus egész évben egyenletes, szezonalitás nem jellemző.",
+     "true": false,
+     "correction": "Erősen szezonális: a tengerparti turizmus nyárra koncentrálódik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-3-del-europa-orszagai--k3",
+   "explanation": "Dél-Európa az európai kultúra bölcsője – ez ma gazdasági erőforrás is.\n\nA történelmi örökség rétegei:\n- Ókori görög kultúra: Athén (Akropolisz), Delphoi, Olümpia – demokrácia, filozófia, olimpia.\n- Római Birodalom: Róma (Colosseum, Forum), Pompeji a Vezúv lábánál; utak, vízvezetékek; a latin nyelv → újlatin nyelvek (olasz, spanyol, portugál, francia, román).\n- Kereszténység: Vatikán – a katolikus egyház központja; Santiago de Compostela zarándokútja; Görögországban az ortodox kolostorok (Athosz).\n- Mór (arab) örökség: Granada (Alhambra), Sevilla, Córdoba.\n- Reneszánsz: Firenze, Velence, Milánó művészete.\n- Felfedezések kora: Lisszabon, Sevilla – a gyarmatbirodalmak kiindulópontjai; a spanyol és a portugál világnyelv lett.\n\nSzerepe ma:\n- Olaszország és Spanyolország a legtöbb világörökségi helyszínnel rendelkező országok közé tartozik.\n- Kulturális turizmus egész évben, csökkenti a szezonalitást.\n- Nemzeti identitás, gasztronómia, divat, design.\n- Feladat: a műemlékek védelme a túlzsúfoltsággal és a földrengésekkel szemben.",
+   "diagram": null,
+   "concepts": [
+    "világörökség",
+    "kulturális régió",
+    "világnyelv",
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "processes": [],
+   "examTip": "Rendezd a példákat korszakok szerint (ókor – középkor – reneszánsz – felfedezések), mindegyikhez egy várossal. Ez a struktúra magas pontot hoz.",
+   "selfCheck": [
+    {
+     "q": "Melyik spanyol városban látható a mór Alhambra?",
+     "a": "Granadában."
+    },
+    {
+     "q": "Miért fontos a kulturális turizmus a szezonalitás szempontjából?",
+     "a": "Egész évben vonz látogatókat, nem csak nyáron."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Vatikán a katolikus egyház központja Róma területén.",
+     "true": true
+    },
+    {
+     "statement": "A spanyol és a portugál nyelv a germán nyelvek közé tartozik.",
+     "true": false,
+     "correction": "Mindkettő újlatin nyelv, a latinból fejlődött ki."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-3-del-europa-orszagai--e1",
+   "explanation": "Dél-Európa gazdasága fejlett, de a magterülethez képest lemaradó.\n\nSegítő tényezők:\n- tenger: kikötők, hajózás, halászat;\n- kedvező éghajlat: korai zöldség, gyümölcs, bor, olívaolaj – exporttermékek;\n- idegenforgalom: tengerpart és kulturális örökség;\n- EU-tagság: közös piac, felzárkóztatási támogatások (utak, gyorsvasút – pl. Spanyolország);\n- napenergia, szélenergia lehetősége;\n- erős ipari központok (Olasz ipari háromszög, Barcelona, Bilbao).\n\nNehezítő tényezők:\n- kevés energiahordozó, ásványkincs;\n- hegyes, száraz terület, vízhiány, elsivatagosodás (Spanyolország déli része);\n- késői iparosodás, sokáig agrárjelleg;\n- diktatúrák a 20. században (Spanyolország és Portugália az 1970-es évek közepéig, Görögország 1967–74) → késői integráció;\n- területi különbségek (Mezzogiorno, Spanyolország belseje);\n- a 2008 utáni adósságválság (különösen Görögország), magas fiatalkori munkanélküliség, fiatalok elvándorlása;\n- öregedő népesség, a turizmustól való függés.",
+   "diagram": null,
+   "concepts": [
+    "adósságválság",
+    "munkanélküli",
+    "állami és EU-támogatás",
+    "elsivatagosodás",
+    "duális gazdasági szerkezet"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "Mindig két oszlopban gondolkodj (segítő–nehezítő), és mindegyiknél legyen természeti és társadalmi tényező is. A görög adósságválság jó konkrét példa.",
+   "selfCheck": [
+    {
+     "q": "Miért csatlakozott később Spanyolország és Portugália az integrációhoz?",
+     "a": "Az 1970-es évek közepéig diktatúra volt bennük; csak a demokratizálódás után, 1986-ban csatlakoztak."
+    },
+    {
+     "q": "Mondj egy természeti tényezőt, amely nehezíti a mezőgazdaságot!",
+     "a": "A nyári szárazság, vízhiány (elsivatagosodás)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Görögországot különösen súlyosan érintette a 2008 utáni adósságválság.",
+     "true": true
+    },
+    {
+     "statement": "Dél-Európa országai gazdag kőszén- és vasérckészletre korán kiépítették nehéziparukat.",
+     "true": false,
+     "correction": "A térség szegény energiahordozókban, iparosodása későn indult."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "olaszorszag--k1",
+   "explanation": "Olaszország a duális gazdasági szerkezet tankönyvi példája: fejlett Észak, elmaradottabb Dél (Mezzogiorno).\n\nÉszak:\n- Természet: Pó-alföld – termékeny süllyedék, bő víz, öntözés (rizs, kukorica, takarmány, tejgazdaság); az Alpokban vízenergia, idegenforgalom (Garda-tó).\n- Társadalom: közel a nyugat-európai piacokhoz, korai iparosodás.\n- Gazdaság: Olasz ipari háromszög (Milánó – Torino – Genova): járműipar (Torino), gépipar, divat és pénzügy (Milánó), kikötő (Genova); a „Harmadik Olaszország” (Veneto, Emilia-Romagna) kis- és középvállalatai.\n\nDél (Mezzogiorno, Szicília):\n- Természet: hegyes Appenninek, nyári aszály, kevés síkság, földrengések, vulkánok (Vezúv, Etna).\n- Társadalom: nagybirtok-hagyomány, alacsonyabb iskolázottság, szervezett bűnözés (maffia), tömeges elvándorlás északra és külföldre.\n- Gazdaság: mediterrán mezőgazdaság (olajbogyó, citrus, szőlő), turizmus (Nápoly, Szicília), állami „sivatagi katedrálisok” – nehézipari óriásüzemek (acél, petrolkémia), amelyek nem húzták magukkal a térséget.\n\nEredmény: a Délen jóval alacsonyabb az egy főre jutó GDP és magasabb a munkanélküliség; EU-támogatásra szorul.",
+   "diagram": null,
+   "concepts": [
+    "duális gazdasági szerkezet",
+    "társadalmi-gazdasági egyenlőtlenség",
+    "regionális politika",
+    "mediterrán gazdálkodás",
+    "belföldi és nemzetközi vándorlás"
+   ],
+   "processes": [],
+   "examTip": "Az összehasonlítást mindig három szempont szerint végezd: természet – társadalom – gazdaság. Az Olasz ipari háromszög városait kontúrtérképen is tudd!",
+   "selfCheck": [
+    {
+     "q": "Melyik három város alkotja az Olasz ipari háromszöget?",
+     "a": "Milánó, Torino, Genova."
+    },
+    {
+     "q": "Mondj két társadalmi okot a Dél elmaradottságára!",
+     "a": "Szervezett bűnözés (maffia), elvándorlás, alacsonyabb iskolázottság, nagybirtok-hagyomány (bármelyik kettő)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Pó-alföld Olaszország legfontosabb mezőgazdasági és ipari térsége.",
+     "true": true
+    },
+    {
+     "statement": "A Mezzogiorno az ország északi, alpesi területeit jelenti.",
+     "true": false,
+     "correction": "A Mezzogiorno Olaszország déli, elmaradottabb része (Szicíliával és Szardíniával)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia--k1",
+   "explanation": "A V4 északi tagjait tájtípusonként érdemes áttekinteni.\n\n- Magashegység: Magas-Tátra (Szlovákia–Lengyelország határa) – gleccservájta formák, tengerszemek (Poprádi-tó), nemzeti park, téli és nyári turizmus.\n- Középhegység: Szudéták, Cseh-medence peremhegységei, Lengyel-középhegység, Északnyugati-Kárpátok. Ásványkincs, ipar, gyógyfürdők (Karlovy Vary). Ércbányászat nyomai, savas eső okozta erdőpusztulás a Szudéták vidékén.\n- Medencék: Cseh-medence (Prága, Plzeň – gépipar, sörgyártás, Škoda), Morva-medence (Brno). Szilézia és Ostrava – feketekőszén, kohászat, ma szerkezetváltás. Szlovákiában a Vág völgye, a Csallóköz (magyarlakta, termékeny síkság).\n- Síkságok: Lengyel-alföld – gabona, burgonya, cukorrépa, sertés; Lengyel-tóhátság – jégkorszaki morénák, tavak, erdők, turizmus; Visztula, Odera.\n- Tengerpart: a Balti-tenger lengyel partja – Gdańsk kikötője és hajógyára, fürdőhelyek, épülő part turzásokkal.\n\nJárműipar: Pozsony (Volkswagen), Csehország (Škoda), Lengyelország.",
+   "diagram": null,
+   "concepts": [
+    "közép- és magashegység",
+    "tóhátság",
+    "tengerszem",
+    "turzás",
+    "szénfajták (tőzeg, lignit, barnakőszén, feketekőszén, antracit)"
+   ],
+   "processes": [
+    "jeg-munkaja"
+   ],
+   "examTip": "Kapcsold össze a tájat a gazdasággal: Szilézia – szén, kohászat; Cseh-medence – gépipar; Lengyel-alföld – mezőgazdaság; Balti-part – kikötő, turizmus.",
+   "selfCheck": [
+    {
+     "q": "Hogyan jött létre a Lengyel-tóhátság?",
+     "a": "A jégkorszaki jégtakaró morénáiból és az olvadékvíz által létrehozott tavakból."
+    },
+    {
+     "q": "Melyik lengyel kikötő híres hajógyáráról?",
+     "a": "Gdańsk."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Szilézia Lengyelország legfontosabb kőszénbányászati és iparvidéke.",
+     "true": true
+    },
+    {
+     "statement": "A Magas-Tátra a variszkuszi hegységrendszer lepusztult középhegysége.",
+     "true": false,
+     "correction": "A Magas-Tátra a Kárpátok része, fiatal (eurázsiai) magashegység, jégkorszaki formákkal."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia--k2",
+   "explanation": "A V4 országaiban sok helyszín kötődik a magyar történelemhez és kultúrához.\n\nSzlovákia (Felvidék):\n- Pozsony: 1563 és 1830 között a magyar királyok koronázó városa, sokáig az országgyűlés helye.\n- Kassa: a Szent Erzsébet-dómban nyugszik II. Rákóczi Ferenc.\n- Révkomárom: Jókai Mór szülővárosa, a Selye János Egyetem magyar nyelvű felsőoktatási központ.\n- Csallóköz: a legnagyobb összefüggő magyarlakta terület Szlovákiában.\n- Selmecbánya: bányászati akadémia, világörökség.\n\nLengyelország:\n- Krakkó: a Wawelben nyugszik Báthory István lengyel király és erdélyi fejedelem; Szent Hedvig (Nagy Lajos lánya) lengyel királynő.\n- A lengyel–magyar barátság közös történelmi emlékei (Bem József 1848–49).\n\nCsehország:\n- Prága: a Luxemburgi- és Habsburg-korban közös uralkodók, a magyar diákok egyik egyetemi városa.\n\nA felvidéki magyarság nemzeti kisebbségként él Szlovákiában.",
+   "diagram": null,
+   "concepts": [
+    "nemzeti kisebbség",
+    "nemzetiség",
+    "nemzeti azonosságtudat (identitás)",
+    "világörökség"
+   ],
+   "processes": [],
+   "examTip": "Városonként egy-egy biztos tény elég: Pozsony – koronázás; Kassa – Rákóczi sírja; Révkomárom – Jókai; Krakkó – Báthory István. Ezeket gyakran kérdezik párosításban.",
+   "selfCheck": [
+    {
+     "q": "Hol nyugszik II. Rákóczi Ferenc?",
+     "a": "Kassán, a Szent Erzsébet-dómban."
+    },
+    {
+     "q": "Melyik város volt a magyar királyok koronázó városa 1563 és 1830 között?",
+     "a": "Pozsony."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Révkomárom Jókai Mór szülővárosa.",
+     "true": true
+    },
+    {
+     "statement": "Báthory István lengyel király Kassán van eltemetve.",
+     "true": false,
+     "correction": "Báthory István Krakkóban, a Wawel-székesegyházban nyugszik; Kassán II. Rákóczi Ferenc sírja van."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia--e1",
+   "explanation": "A V4 országainak fejlődését a közös történelmi út magyarázza.\n\n- Monarchia kora: Csehország (Bohémia) a Habsburg Birodalom ipari központja volt (gépipar, textil, Plzeň, Ostrava); Lengyelország a 18. század végén felosztva, Szlovákia a Magyar Királyság része.\n- 1918: önálló Lengyelország és Csehszlovákia; a két háború között Csehszlovákia fejlett ipari ország.\n- 1945–1989: szovjet érdekszféra, tervutasításos gazdaság, KGST. Erőltetett nehézipar (szén, acél – Szilézia, Ostrava, Kassa), állami tulajdon, környezetszennyezés. Lengyelországban a mezőgazdaság nagy része magánkézben maradt.\n- Ellenállás: 1956 Poznań, 1968 prágai tavasz, 1980 Szolidaritás (Gdańsk).\n- 1989: rendszerváltás, piacgazdaság, privatizáció, válságágazatok leépülése.\n- 1991: Visegrádi Együttműködés (eredetileg hárman: Magyarország, Lengyelország, Csehszlovákia); 1993-ban Csehszlovákia békésen kettévált.\n- 1999/2004: NATO, 2004: EU-tagság. Szlovákia 2009-ben bevezette az eurót.\n- Ma: működőtőke-befektetések, járműipar, gyors felzárkózás, de bérlemaradás és az összeszerelő szerep jellemző.",
+   "diagram": null,
+   "concepts": [
+    "Visegrádi Együttműködés (V4)",
+    "tervutasításos gazdaság",
+    "gazdasági rendszerváltoztatás",
+    "privatizáció",
+    "működőtőke-befektetés"
+   ],
+   "processes": [],
+   "examTip": "Évszámok, amelyeket tudnod kell: 1991 (V4), 1993 (Csehszlovákia szétválása), 2004 (EU), 2009 (szlovák euró). A „tervgazdaság → rendszerváltás → EU” ív az esszé gerince.",
+   "selfCheck": [
+    {
+     "q": "Mikor és hol jött létre a Visegrádi Együttműködés?",
+     "a": "1991-ben, Visegrádon."
+    },
+    {
+     "q": "Melyik V4-ország használja az eurót?",
+     "a": "Szlovákia (2009 óta)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Csehszlovákia 1993. január 1-jén békés úton két államra vált.",
+     "true": true
+    },
+    {
+     "statement": "A Visegrádi Együttműködést négy ország alapította 1991-ben.",
+     "true": false,
+     "correction": "Három állam alapította: Magyarország, Lengyelország és Csehszlovákia; ennek szétválásával lett négy tagja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "keleti-szomszedaink-romania-ukrajna--k1",
+   "explanation": "Románia és Ukrajna tájai változatosak.\n\nRománia:\n- Magashegység: Déli-Kárpátok (a legmagasabb romániai csúcsokkal), Keleti-Kárpátok vulkáni vonulata (Hargita) – fa, legelő, turizmus, ásványvíz, Szent Anna-tó (krátertó), Gyilkos-tó (elgátolt tó).\n- Középhegység: Erdélyi-szigethegység – arany, színesfém, bauxit; bányászati környezetszennyezés.\n- Medence: Erdélyi-medence – földgáz, sóbányák; Kolozsvár, Marosvásárhely.\n- Síkság: Román-alföld – búza, kukorica, napraforgó; Ploieşti – kőolaj; Bukarest.\n- Tengerpart, delta: Constanţa kikötő, fekete-tengeri üdülők; Duna-delta – bioszféra-rezervátum, halászat.\n- Vaskapu: duzzasztómű és vízerőmű a Dunán.\n\nUkrajna:\n- Síkság: a Kelet-európai-síkság része, mezőségi talaj → „Európa éléskamrája”: búza, kukorica, napraforgó.\n- Donyec-medence: kőszén, kohászat (Doneck) – a háború sújtotta terület.\n- Dnyeper: vízerőművek, Kijev; Odessza – fő kikötő a Fekete-tengeren; Krím-félsziget – üdülőhely, 2014 óta orosz megszállás alatt.\n- Hegység: Északkeleti-Kárpátok, Kárpátalja – fa, turizmus; a Vereckei-hágó.",
+   "diagram": null,
+   "concepts": [
+    "mezőségi talaj",
+    "krátertó",
+    "deltatorkolat",
+    "bioszféra rezervátum",
+    "kőolaj"
+   ],
+   "processes": [],
+   "examTip": "Gyakori párosítás: Ploieşti – kőolaj; Erdélyi-medence – földgáz; Donyec-medence – kőszén; Constanţa és Odessza – fekete-tengeri kikötők. Tanuld meg térképen is!",
+   "selfCheck": [
+    {
+     "q": "Milyen tó a Szent Anna-tó?",
+     "a": "Krátertó a Keleti-Kárpátok vulkáni vonulatában (Csomád)."
+    },
+    {
+     "q": "Miért nevezik Ukrajnát Európa éléskamrájának?",
+     "a": "A mezőségi talajon nagy mennyiségű gabonát és napraforgót termel, jelentős exportőr."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Duna-delta Románia területén fekvő bioszféra-rezervátum.",
+     "true": true
+    },
+    {
+     "statement": "A Donyec-medence Románia legfontosabb kőolajtermelő vidéke.",
+     "true": false,
+     "correction": "A Donyec-medence Ukrajna kőszénbányászati és kohászati vidéke; Románia kőolajközpontja Ploieşti."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "keleti-szomszedaink-romania-ukrajna--k2",
+   "explanation": "Romániában és Ukrajnában jelentős magyar közösség él, sok magyar vonatkozású kulturális központtal.\n\nErdély és Partium (Románia):\n- Kolozsvár: Mátyás király szülővárosa, a Babeș–Bolyai Tudományegyetem magyar tagozata, Házsongárdi temető, magyar színház.\n- Marosvásárhely: Teleki Téka, a Bolyaiak városa, Kultúrpalota.\n- Nagyvárad: Szent László sírhelye volt, Ady Endre pályakezdése, szecessziós épületek.\n- Arad: az 1849-es aradi vértanúk kivégzésének helye (október 6.).\n- Temesvár: az 1989-es romániai forradalom kiindulópontja (Tőkés László).\n- Székelyföld: Csíkszereda (Sapientia Egyetem, a közeli Csíksomlyó – pünkösdi búcsú), Székelyudvarhely.\n- Brassó: szász emlékek (Fekete templom), a magyar történelemmel is összefonódó város.\n\nKárpátalja (Ukrajna):\n- Beregszász: a II. Rákóczi Ferenc nevét viselő kárpátaljai magyar felsőoktatási intézmény.\n- Munkács: vára Zrínyi Ilona hősies védelméről híres.\n- Ungvár: magyar intézmények, egyetemi oktatás.\n- Vereckei-hágó: a honfoglalás emlékműve.",
+   "diagram": null,
+   "concepts": [
+    "nemzeti kisebbség",
+    "nemzetiség",
+    "nemzeti azonosságtudat (identitás)",
+    "többnemzetiségű állam"
+   ],
+   "processes": [],
+   "examTip": "Egy városhoz egy erős emléket kapcsolj: Arad – vértanúk; Kolozsvár – Mátyás; Munkács – Zrínyi Ilona; Vereckei-hágó – honfoglalás. Párosító feladatban ezek biztos pontok.",
+   "selfCheck": [
+    {
+     "q": "Melyik város Mátyás király szülővárosa?",
+     "a": "Kolozsvár."
+    },
+    {
+     "q": "Hol végezték ki az aradi vértanúkat?",
+     "a": "Aradon, 1849. október 6-án."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Munkács vára Zrínyi Ilona várvédelméről híres.",
+     "true": true
+    },
+    {
+     "statement": "A Vereckei-hágó Romániában, a Déli-Kárpátokban található.",
+     "true": false,
+     "correction": "A Vereckei-hágó Ukrajnában, Kárpátalján, az Északkeleti-Kárpátokban van."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "keleti-szomszedaink-romania-ukrajna--e1",
+   "explanation": "Románia (EU- és NATO-tag) és Ukrajna (EU-tagjelölt, háborúban álló ország) eltérő pályán halad.\n\nRománia – segítő tényezők:\n- nagy belső piac, földgáz (Erdélyi-medence, fekete-tengeri self), kőolaj, termőföld;\n- EU-tagság (2007): támogatások, befektetések (Dacia–Renault, Ford), Schengen-tagság;\n- informatikai központok (Kolozsvár, Bukarest), turizmus (Kárpátok, tengerpart, Duna-delta).\nHátráltató tényezők:\n- a Ceaușescu-diktatúra öröksége, elmaradott infrastruktúra (kevés autópálya);\n- tömeges kivándorlás, munkaerőhiány;\n- nagy területi különbségek (Bukarest és Erdély vs. Moldva);\n- korrupció.\n\nUkrajna – segítő tényezők:\n- termékeny mezőségi talaj, gabona- és napraforgóexport;\n- kőszén, vasérc, kohászat, képzett munkaerő, informatika;\n- EU-tagjelöltség, nemzetközi segítség.\nHátráltató tényezők:\n- 2014 óta a Krím és a Donyec-medence egy része orosz megszállás alatt, 2022 óta teljes körű háború: pusztulás, menekültek, népességfogyás;\n- elhasznált infrastruktúra, energetikai sérülékenység, korrupció, oligarchák befolyása.",
+   "diagram": null,
+   "concepts": [
+    "menekült",
+    "ki- és bevándorlás",
+    "gazdasági rendszerváltoztatás",
+    "állami és EU-támogatás",
+    "népességfogyás"
+   ],
+   "processes": [],
+   "examTip": "Írj országonként külön, és bontsd természeti és társadalmi tényezőkre. Ukrajnánál a háború következményeit (menekültek, export akadályozása) feltétlenül említsd.",
+   "selfCheck": [
+    {
+     "q": "Mikor csatlakozott Románia az EU-hoz?",
+     "a": "2007-ben."
+    },
+    {
+     "q": "Mondj két tényezőt, ami Ukrajna fejlődését hátráltatja!",
+     "a": "A háború és a megszállt területek, valamint a korrupció és az elhasznált infrastruktúra."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Romániából sokan vándoroltak ki nyugat-európai országokba munkát vállalni.",
+     "true": true
+    },
+    {
+     "statement": "Ukrajna 2004-ben a V4 országaival együtt az EU tagja lett.",
+     "true": false,
+     "correction": "Ukrajna nem EU-tag; 2022 óta tagjelölt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delszlav-allamok--k1",
+   "explanation": "Az egykori Jugoszlávia utódállamai: Szlovénia, Horvátország, Bosznia-Hercegovina, Szerbia, Montenegró, Észak-Macedónia és Koszovó (2008-ban kiáltotta ki függetlenségét, Szerbia és több EU-tagállam nem ismeri el).\n\nTermészeti adottságok:\n- Dinári-hegység: mészkő, karszt (a karszt szó is innen ered), kevés termőföld; bauxit.\n- Adriai-tenger partja, Dalmácia: tagolt part, szigetek, mediterrán éghajlat.\n- Pannon-síkság déli része: Vajdaság, Szlavónia – termékeny, gabona, kukorica, napraforgó; Duna, Száva.\n\nGazdaság:\n- Szlovénia: a legfejlettebb; ipar, Koper kikötő, turizmus.\n- Horvátország: turizmus (Dalmácia), hajóépítés, kikötők (Fiume).\n- Szerbia: mezőgazdaság (Vajdaság), autóipar, rézbányászat; Belgrád.\n- Bosznia-Hercegovina, Montenegró, Észak-Macedónia, Koszovó: kevésbé fejlett; bányászat, energiatermelés, turizmus, külföldön dolgozók hazautalásai.\n\nKapcsolat az EU-val:\n- Szlovénia (2004) és Horvátország (2013) EU-tag, mindkettő euróövezeti és schengeni tag.\n- Montenegró, Szerbia, Észak-Macedónia, Bosznia-Hercegovina tagjelölt; Koszovó potenciális jelölt. Montenegró és Koszovó egyoldalúan az eurót használja.",
+   "diagram": null,
+   "concepts": [
+    "többnemzetiségű állam",
+    "Európai Unió",
+    "laterit- és karsztbauxit",
+    "mediterrán éghajlat"
+   ],
+   "processes": [
+    "karsztosodas"
+   ],
+   "examTip": "A hét utódállamot fel kell tudnod sorolni – Koszovót ne hagyd ki! Az EU-tagság: Szlovénia 2004, Horvátország 2013; a többiek jelöltek.",
+   "selfCheck": [
+    {
+     "q": "Melyik két délszláv állam EU-tag?",
+     "a": "Szlovénia és Horvátország."
+    },
+    {
+     "q": "Melyik a legfejlettebb utódállam?",
+     "a": "Szlovénia."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Horvátország 2013-ban csatlakozott az Európai Unióhoz.",
+     "true": true
+    },
+    {
+     "statement": "Szerbia az euróövezet tagja.",
+     "true": false,
+     "correction": "Szerbia nem EU-tag (tagjelölt), saját valutája a dinár."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delszlav-allamok--k2",
+   "explanation": "Dalmácia Horvátország adriai partvidéke – az ország idegenforgalmának szíve.\n\nVonzerők:\n- Mediterrán éghajlat: napsütéses, száraz nyár, tiszta, meleg tenger.\n- Tagolt part: a Dinári-hegység vonulatai a tengerbe süllyedtek, így hosszú, partvonallal párhuzamos szigetsorok (pl. Hvar, Korčula) és öblök jöttek létre – kiváló a vitorlázáshoz.\n- Kulturális örökség: Dubrovnik óvárosa és Split Diocletianus-palotája világörökség; velencei kori városok.\n- Nemzeti parkok: Plitvicei-tavak (karsztos mésztufagátas tavak), Krka.\n\nGazdasági szerep:\n- a turizmus Horvátország GDP-jének kiemelkedően nagy részét adja – az EU-ban az egyik legmagasabb arány;\n- munkahelyek, devizabevétel, infrastruktúra-fejlesztés (autópálya, repülőterek, kikötők Splitben, Fiumében);\n- az 1990-es évek háborúja után gyorsan helyreállt.\n\nGondok: erős szezonalitás, túlzsúfoltság (Dubrovnik, hajóturizmus), vízhiány a szigeteken, beépítés, a turizmustól való függés.",
+   "diagram": null,
+   "concepts": [
+    "tagolt és tagolatlan part",
+    "mediterrán éghajlat",
+    "világörökség",
+    "nemzeti park",
+    "szolgáltatások"
+   ],
+   "processes": [
+    "karsztosodas"
+   ],
+   "examTip": "Dalmáciánál a part típusát is kérdezhetik: a hegyvonulatok a tengerbe süllyedtek, ezért a part tagolt, szigetek sora kíséri. Ezt kösd a vitorlás- és szigetturizmushoz!",
+   "selfCheck": [
+    {
+     "q": "Melyik két dalmát város óvárosa világörökség?",
+     "a": "Dubrovnik és Split (Diocletianus palotája)."
+    },
+    {
+     "q": "Miért erősen szezonális a dalmáciai turizmus?",
+     "a": "Mert főleg a nyári tengerparti üdülésre épül."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Horvátországban a turizmus a GDP kiemelkedően nagy részét adja.",
+     "true": true
+    },
+    {
+     "statement": "Dalmácia partja tagolatlan, homokos lagúnapart, szigetek nélkül.",
+     "true": false,
+     "correction": "Dalmácia partja erősen tagolt, sziklás, a parttal párhuzamos szigetsorokkal."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delszlav-allamok--k3",
+   "explanation": "A délszláv államokban, főleg Szerbiában (Vajdaság), Horvátországban és Szlovéniában ma is él magyar közösség, sok magyar vonatkozású központtal.\n\nVajdaság (Délvidék, Szerbia):\n- Szabadka: szecessziós városháza, Kosztolányi Dezső szülővárosa, a vajdasági magyarság kulturális központja.\n- Újvidék: a Vajdaság székhelye, magyar napilap (Magyar Szó), egyetemi magyar tanszék, magyar színház.\n- Zenta: Savoyai Jenő 1697-es győzelme a törökök felett.\n\nHorvátország:\n- Eszék: Szlavónia központja, a környéken magyar falvak (Drávaszög).\n- Fiume (Rijeka): 1868 után Magyarország tengeri kikötője, a Kormányzói palota és a Magyar Tengerészeti Akadémia emléke.\n- A horvát–magyar perszonálunió (1102-től) évszázadai.\n\nSzlovénia (Muravidék):\n- Lendva: a magyar nyelv a helyi hivatalos nyelvek egyike, kétnyelvű oktatás.\n\nA kisebbségek identitásmegőrzése, anyanyelvi oktatás és határon átnyúló együttműködés ma is kiemelt feladat.",
+   "diagram": null,
+   "concepts": [
+    "nemzeti kisebbség",
+    "hivatalos nyelv",
+    "nemzeti azonosságtudat (identitás)",
+    "nemzetiség"
+   ],
+   "processes": [],
+   "examTip": "A Délvidék (Vajdaság) a leggyakoribb kérdés: Szabadka és Újvidék. Fiumét kösd a Monarchia-kori magyar tengeri kereskedelemhez!",
+   "selfCheck": [
+    {
+     "q": "Melyik délvidéki város Kosztolányi Dezső szülővárosa?",
+     "a": "Szabadka."
+    },
+    {
+     "q": "Miért fontos a magyar történelemben Fiume?",
+     "a": "1868 után Magyarország tengeri kikötője volt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Muravidéken a magyar nyelv helyi hivatalos nyelv.",
+     "true": true
+    },
+    {
+     "statement": "Szabadka Horvátország legnagyobb kikötővárosa.",
+     "true": false,
+     "correction": "Szabadka Szerbiában, a Vajdaságban fekvő, szárazföldi város; Horvátország legnagyobb kikötője Fiume (Rijeka)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delszlav-allamok--e1",
+   "explanation": "Jugoszlávia többnemzetiségű állam volt; a megosztottság mély történelmi gyökerű.\n\nMegosztó tényezők:\n- Vallás: katolikus szlovének és horvátok; ortodox szerbek, montenegróiak, macedónok; muszlim bosnyákok, albánok (Koszovó, Észak-Macedónia nyugati része).\n- Írás: latin betűs (szlovén, horvát) és cirill betűs (szerb, macedón) írás.\n- Történelmi örökség: Nyugaton a Habsburgok, keleten-délen az Oszmán Birodalom évszázados uralma – eltérő gazdasági fejlettség.\n- Nyelv: a szerb, horvát, bosnyák, montenegrói nagyon közeli rokonnyelvek; a szlovén és a macedón külön nyelv, az albán nem szláv.\n- Fejlettségi lejtő: az északnyugat (Szlovénia) fejlett, a délkelet (Koszovó, Macedónia) elmaradott.\n\nTerületi elhelyezkedés (tematikus térkép):\n- a nemzetiségek nem élnek tiszta tömbökben: Boszniában a bosnyákok, szerbek, horvátok keveredtek; Koszovóban albán többség; Vajdaságban magyar kisebbség.\n\nKövetkezmény: az 1990-es évek háborúi (Horvátország, Bosznia 1992–95, Koszovó 1998–99), etnikai tisztogatás, menekültek. A daytoni béke (1995) Boszniát két entitásra osztotta: Bosznia-Hercegovinai Föderáció és Boszniai Szerb Köztársaság.",
+   "diagram": null,
+   "concepts": [
+    "többnemzetiségű állam",
+    "etnikum",
+    "nemzetiség",
+    "menekült",
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "processes": [],
+   "examTip": "Táblázatban jól átlátható: nép – vallás – írás – történelmi uralom. Gyakori hiba, hogy a horvátokat ortodoxnak vagy a szerbeket katolikusnak írják.",
+   "selfCheck": [
+    {
+     "q": "Milyen vallású többségében a horvát és a szerb nép?",
+     "a": "A horvátok katolikusok, a szerbek ortodoxok."
+    },
+    {
+     "q": "Milyen nemzetiség alkotja Koszovó lakosságának többségét?",
+     "a": "Az albánok (többségük muszlim)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A szerb nyelvet cirill és latin betűvel is írják, a horvátot latin betűvel.",
+     "true": true
+    },
+    {
+     "statement": "Bosznia-Hercegovinában a nemzetiségek egymástól élesen elkülönült, egynemű tömbökben éltek, ezért a háború nem okozott menekülthullámot.",
+     "true": false,
+     "correction": "A nemzetiségek erősen keveredtek, ezért a háború etnikai tisztogatással és tömeges menekülthullámmal járt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-5-oroszorszag--k1",
+   "explanation": "Oroszország a világ legnagyobb területű állama, hatalmas természeti erőforrásokkal.\n\nVilággazdasági szerepe:\n- Energiahordozók: a világ egyik legnagyobb földgáz- és kőolajtermelője és -exportőre, jelentős kőszéntermelő; nukleáris technológia (atomerőművek építése külföldön, pl. Paks II).\n- Fémek: alumínium, nikkel (Norilszk), palládium, vas, arany.\n- Mezőgazdaság: a világ egyik legnagyobb búzaexportőre (mezőségi talaj, déli síkságok).\n- Fegyvergyártás, űrkutatás, faexport (tajga).\n\nGazdasági szerkezet: nyersanyag-exportra épül, a feldolgozóipar és a high-tech kevésbé versenyképes; a költségvetés erősen függ a kőolaj- és földgázáraktól.\n\nVáltozások:\n- 2014 (Krím) és főleg 2022 (Ukrajna elleni háború) után nyugati szankciók: az EU erősen csökkentette orosz energiaimportját, kivonultak nyugati vállalatok.\n- Az export Ázsia felé fordult: Kína, India, Törökország a fő vevők.\n- Tag a BRICS-ben; a G8-ból 2014-ben kizárták.",
+   "diagram": null,
+   "concepts": [
+    "BRICS országok",
+    "természeti erőforrás",
+    "embargó",
+    "G8",
+    "megújuló és nem megújuló energiaforrások"
+   ],
+   "processes": [],
+   "examTip": "Oroszország „nyersanyag-gazdaság”: ezt mindig indokold (export szerkezete, költségvetés függése). 2022 után az exportirány Kína és India felé tolódott – ezt is említsd.",
+   "selfCheck": [
+    {
+     "q": "Melyek Oroszország legfontosabb exporttermékei?",
+     "a": "Kőolaj, földgáz, kőszén, fémek, búza, fegyver."
+    },
+    {
+     "q": "Mely országok lettek 2022 után az orosz energia fő vevői?",
+     "a": "Főleg Kína és India (valamint Törökország)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Oroszország a BRICS országok egyike.",
+     "true": true
+    },
+    {
+     "statement": "Oroszország exportjában a csúcstechnológiai termékek dominálnak.",
+     "true": false,
+     "correction": "Az exportot a nyersanyagok, főleg az energiahordozók uralják."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-5-oroszorszag--k2",
+   "explanation": "Az Urál és az Urál (folyó) választja el Oroszország európai és ázsiai részét.\n\nEurópai rész:\n- Kelet-európai-síkság (fedett ősföld, táblás vidék); Volga, Don, a jégkorszak formálta észak.\n- Éghajlat: nedves és száraz kontinentális; tajga északon, lombhullató erdő, erdős puszta és füves puszta délen.\n- A népesség többsége itt él; nagyvárosok: Moszkva, Szentpétervár, Nyizsnyij Novgorod, Volgográd.\n- Sokoldalú ipar, mezőgazdaság a mezőségi talajon (búza, napraforgó, cukorrépa), sűrű közlekedési hálózat.\n\nÁzsiai rész (Szibéria, Távol-Kelet):\n- Nyugat-szibériai-alföld (mocsaras, kőolaj és földgáz), Közép-szibériai-fennsík (Angara-ősföld), hegységek keleten (Kamcsatka-félsziget vulkánjai).\n- Éghajlat: szélsőségesen kontinentális, tajga és tundra, permafroszt.\n- Hatalmas folyók: Ob, Jenyiszej, Léna; Bajkál-tó.\n- Ritka népesség, városok a Transzszibériai vasút mentén (Jekatyerinburg, Novoszibirszk, Krasznojarszk, Vlagyivosztok).\n- Nyersanyag-kitermelés: kőolaj, földgáz, szén, fémek, fa.\n\nA terület nagyobb része ázsiai, a népesség és a gazdaság súlypontja európai.",
+   "diagram": null,
+   "concepts": [
+    "táblás vidék",
+    "tajga",
+    "„örök fagy” (permafroszt)",
+    "száraz kontinentális éghajlat",
+    "népsűrűség"
+   ],
+   "processes": [],
+   "examTip": "A kulcsmondat: „terület Ázsiában, népesség Európában”. A szibériai nyersanyagok és az európai feldolgozás közti távolság nagy szállítási költséget jelent.",
+   "selfCheck": [
+    {
+     "q": "Mi választja el Oroszország európai és ázsiai részét?",
+     "a": "Az Urál hegység és az Urál folyó."
+    },
+    {
+     "q": "Hol termelik Oroszország kőolajának és földgázának nagy részét?",
+     "a": "A Nyugat-szibériai-alföldön."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Oroszország népességének nagy része az európai országrészben él.",
+     "true": true
+    },
+    {
+     "statement": "Szibéria sűrűn lakott, enyhe éghajlatú mezőgazdasági terület.",
+     "true": false,
+     "correction": "Szibéria ritkán lakott, szélsőségesen kontinentális éghajlatú, tajga és tundra borítja, sok helyen permafroszt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-5-oroszorszag--e1",
+   "explanation": "Oroszország fejlődését a nagyhatalmi múlt és a gazdasági rendszerek váltakozása határozta meg.\n\n- Cári birodalom: területi terjeszkedés Szibéria és a Kaukázus felé; késői iparosodás, a jobbágyság csak 1861-ben szűnt meg; agrárjellegű ország.\n- 1917: bolsevik forradalom, majd 1922-től Szovjetunió.\n- Szovjet korszak: tervutasításos gazdaság, állami tulajdon, erőltetett nehézipar (szén, acél, hadiipar), kollektivizálás (kolhozok), kényszermunka (GULAG). Szibéria nyersanyagainak feltárása. A második világháború után szuperhatalom, KGST és Varsói Szerződés.\n- Hidegháború: fegyverkezési verseny, űrkutatás – közben elmaradt a fogyasztási cikkek gyártása.\n- 1991: a Szovjetunió felbomlása, 15 utódállam.\n- 1990-es évek: sokkterápia, privatizáció – a vagyon oligarchák kezébe került; infláció, 1998-ban államcsőd, életszínvonal-zuhanás.\n- 2000-es évek: magas olajárak, gyors növekedés, központosított hatalom.\n- 2014, 2022: Krím annektálása, Ukrajna elleni háború, nyugati szankciók, elszigetelődés, gazdasági fordulat Ázsia felé.\n\nÖrökség: nyersanyagfüggés, nagy területi különbségek, demográfiai fogyás.",
+   "diagram": null,
+   "concepts": [
+    "tervutasításos gazdaság",
+    "gazdasági rendszerváltoztatás",
+    "privatizáció",
+    "népességfogyás",
+    "embargó"
+   ],
+   "processes": [],
+   "examTip": "Az időrend a kulcs: cári birodalom → szovjet tervgazdaság → 1991 felbomlás → 90-es évek válsága → olajboom → szankciók. Mindegyikhez egy gazdasági jellemző!",
+   "selfCheck": [
+    {
+     "q": "Mikor bomlott fel a Szovjetunió?",
+     "a": "1991-ben."
+    },
+    {
+     "q": "Kik kerültek a privatizáció nyertesei közé az 1990-es években?",
+     "a": "Az oligarchák – szűk vállalkozói kör, amely a nagy állami vállalatokat megszerezte."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Szovjetunióban erőltetett nehézipar-fejlesztés folyt.",
+     "true": true
+    },
+    {
+     "statement": "A 2000-es évek orosz gazdasági növekedése főleg a fogyasztási cikkek exportján alapult.",
+     "true": false,
+     "correction": "A növekedés főleg a magas kőolaj- és földgázárakon, a nyersanyagexporton alapult."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "8-4-5-oroszorszag--e2",
+   "explanation": "Oroszország energiagazdasága a fosszilis energiahordozókra épül.\n\nJellemzők:\n- Földgáz: Nyugat-Szibéria (Jamal-félsziget), Barents-tenger; vezetékek Európa felé (pl. Török Áramlat a Fekete-tenger alatt, Barátság kőolajvezeték Magyarország felé), Kína felé (Szibéria Ereje), cseppfolyósított gáz (LNG) tankerekkel.\n- Kőolaj: Nyugat-Szibéria, Volga–Urál vidéke; export tankerekkel és vezetéken.\n- Kőszén: Kuznyecki-medence.\n- Vízenergia: a Volga erőműlánca (Volgográd), szibériai óriásfolyók (Jenyiszej, Angara).\n- Atomenergia: jelentős, és atomerőműveket exportál (Rosatom).\n\nKörnyezeti következmények:\n- olajszivárgások, csővezeték-szakadások a permafroszt területén – a tundra lassan regenerálódik;\n- a kísérőgáz elfáklyázása: légszennyezés, üvegházgáz;\n- metánszivárgás – erős üvegházgáz;\n- az olvadó permafroszt megrongálja a vezetékeket, tartályokat;\n- víztározók: elárasztott területek, a Volga vízjárásának és élővilágának változása;\n- nehézipari városok (Norilszk) kén-dioxid- és nehézfém-szennyezése, savas eső;\n- a Csernobili atomkatasztrófa (1986, Szovjetunió, ma Ukrajna) radioaktív szennyezése.",
+   "diagram": null,
+   "concepts": [
+    "megújuló és nem megújuló energiaforrások",
+    "földgáz",
+    "kőolaj",
+    "„örök fagy” (permafroszt)",
+    "radioaktív szennyeződés",
+    "az üvegházhatás fokozódása"
+   ],
+   "processes": [
+    "szenhidrogen-szenkepzodes",
+    "globalis-felmelegedes"
+   ],
+   "examTip": "Esszéhez: forrás → kitermelés → szállítás → környezeti hatás. A permafroszt kettős szerepe (olaj szennyezi, olvadása rongálja a vezetékeket) jó „összefüggés-pont”.",
+   "selfCheck": [
+    {
+     "q": "Miért különösen káros az olajszennyezés a tundrán?",
+     "a": "A hideg miatt lassú a lebomlás és a növényzet regenerálódása; a fagyott talaj alatt a szennyezés megmarad."
+    },
+    {
+     "q": "Melyik vezetéken érkezik orosz kőolaj Magyarországra?",
+     "a": "A Barátság kőolajvezetéken."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A permafroszt olvadása veszélyezteti a szibériai olaj- és gázvezetékeket.",
+     "true": true
+    },
+    {
+     "statement": "Oroszország energiatermelése elsősorban nap- és szélenergiára épül.",
+     "true": false,
+     "correction": "Főleg fosszilis energiahordozókra (földgáz, kőolaj, szén), emellett víz- és atomenergiára épül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

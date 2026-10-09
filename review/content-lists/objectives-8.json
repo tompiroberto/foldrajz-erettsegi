@@ -1,0 +1,461 @@
+[
+ {
+  "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe",
+  "title": "8.1. Európa általános természetföldrajzi képe",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k1",
+    "level": "kozep",
+    "text": "Ismertesse a nagytájak felszínformáit, a földtörténeti múltjuk és a geológiai szerkezetük közötti összefüggéseket."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k2",
+    "level": "kozep",
+    "text": "Támassza alá példákkal a geológiai szerkezet és az ásványkincsek előfordulásának összefüggését."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k3",
+    "level": "kozep",
+    "text": "Mutassa meg a térképen és jellemezze a kontinens nagytájait, szerkezeti egységeit."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k4",
+    "level": "kozep",
+    "text": "Mutassa be az éghajlatot alakító és módosító tényezők szerepét a kontinensen."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k5",
+    "level": "kozep",
+    "text": "Ismerje fel diagramok és más ábrák, képek, leírások alapján a kontinens jellegzetes éghajlatait, jellemezze azokat."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k6",
+    "level": "kozep",
+    "text": "Nevezze meg kontúrtérképen a kontinens legfontosabb felszíni vizeit."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k7",
+    "level": "kozep",
+    "text": "Mutassa be tematikus térképek segítségével az éghajlat, a vízrajz, a növényzet és a talajtípus közötti összefüggést."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--k8",
+    "level": "kozep",
+    "text": "Mutassa be konkrét példákon a társadalom környezetátalakító tevékenységét és annak hatásait."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--e1",
+    "level": "emelt",
+    "text": "Mutassa be a kontinens kialakulásának folyamatát tematikus térképek segítségével."
+   },
+   {
+    "id": "8-1-europa-altalanos-termeszetfoldrajzi-kepe--e2",
+    "level": "emelt",
+    "text": "Magyarázza meg a lemeztektonikai folyamatok és a kontinens területének változása közötti összefüggéseket."
+   }
+  ]
+ },
+ {
+  "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe",
+  "title": "8.2. Európa általános társadalomföldrajzi képe",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k1",
+    "level": "kozep",
+    "text": "Magyarázza meg a természeti adottságok és a társadalmi-gazdasági fejlődés népsűrűséggel való kapcsolatát."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k2",
+    "level": "kozep",
+    "text": "Mutassa meg térképen Európa sűrűn lakott területeit, nagy agglomerációit, és indokolja az elhelyezkedésüket."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k3",
+    "level": "kozep",
+    "text": "Sorolja fel és mutassa meg térképen, kontúrtérképen a résztémakörökben nevesített országcsoportokat, országokat, azok fővárosait, legfontosabb gazdasági központjait, és ismertesse tipikus földrajzi jellemzőiket."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k4",
+    "level": "kozep",
+    "text": "Sorolja fel a kontinensrészek jellegzetes mezőgazdasági terményeit, ásványkincseit, illetve tipikus gazdasági ágazatait."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--k5",
+    "level": "kozep",
+    "text": "Mutassa be a résztémakörökben nevesített országok, országcsoportok szerepét, jelentőségét a világgazdaságban és az Európai Unióban."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e1",
+    "level": "emelt",
+    "text": "Mondjon példákat a résztémakörökben nevesített országok, országcsoportok kulturális értékeire."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e2",
+    "level": "emelt",
+    "text": "Mutassa be az európai erőtér átalakuló világgazdasági szerepét."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e3",
+    "level": "emelt",
+    "text": "Hasonlítson össze és elemezzen az európai erőtér országainak, országcsoportjainak gazdasági jelentőségét alátámasztó adatsorokat."
+   },
+   {
+    "id": "8-2-europa-altalanos-tarsadalomfoldrajzi-kepe--e4",
+    "level": "emelt",
+    "text": "Mutassa be a centrum, félperiféria és periféria térségek kapcsolatrendszerét."
+   }
+  ]
+ },
+ {
+  "id": "8-3-az-europai-unio",
+  "title": "8.3. Az Európai Unió",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "8-3-az-europai-unio--k1",
+    "level": "kozep",
+    "text": "Nevezze meg az Európai Unió tagállamait."
+   },
+   {
+    "id": "8-3-az-europai-unio--k2",
+    "level": "kozep",
+    "text": "Mutassa be az európai együttműködés kialakulását és hatását a tagállamok társadalmi-gazdasági életére."
+   },
+   {
+    "id": "8-3-az-europai-unio--k3",
+    "level": "kozep",
+    "text": "Ismertesse az Európai Unió fő intézményeinek legfontosabb jellemzőit."
+   },
+   {
+    "id": "8-3-az-europai-unio--k4",
+    "level": "kozep",
+    "text": "Mutassa be példákkal alátámasztva az unión belüli területi fejlettségi különbségeket, a regionális politika fő vonásait."
+   },
+   {
+    "id": "8-3-az-europai-unio--k5",
+    "level": "kozep",
+    "text": "Elemezzen az Európai Unióval kapcsolatos statisztikai adatokat."
+   },
+   {
+    "id": "8-3-az-europai-unio--e1",
+    "level": "emelt",
+    "text": "Ismertesse az európai integráció fejlődésének történetét."
+   },
+   {
+    "id": "8-3-az-europai-unio--e2",
+    "level": "emelt",
+    "text": "Tárja fel az integráció bővítésének lehetőségeit és problémáit."
+   },
+   {
+    "id": "8-3-az-europai-unio--e3",
+    "level": "emelt",
+    "text": "Mutassa be a szervezet mezőgazdasági politikáját források alapján."
+   }
+  ]
+ },
+ {
+  "id": "egyesult-kiralysag",
+  "title": "Egyesült Királyság",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.1. Európa magterülete"
+  ],
+  "objectives": [
+   {
+    "id": "egyesult-kiralysag--k1",
+    "level": "kozep",
+    "text": "Mutassa be konkrét példákon a szigetország földrajzi fekvésének és ásványkincseinek szerepét a gazdaság fejlődésében."
+   },
+   {
+    "id": "egyesult-kiralysag--e1",
+    "level": "emelt",
+    "text": "Ismertesse a gyarmatosítás szerepét az ország gazdaságának fejlődésében, magyarázza meg világgazdasági szerepének átalakulását."
+   },
+   {
+    "id": "egyesult-kiralysag--e2",
+    "level": "emelt",
+    "text": "Értelmezze az ország Európai Unióhoz való viszonyát."
+   }
+  ]
+ },
+ {
+  "id": "franciaorszag",
+  "title": "Franciaország",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.1. Európa magterülete"
+  ],
+  "objectives": [
+   {
+    "id": "franciaorszag--k1",
+    "level": "kozep",
+    "text": "Ismertesse az ország szerepét az Európai Unió élelmiszertermelésében."
+   },
+   {
+    "id": "franciaorszag--k2",
+    "level": "kozep",
+    "text": "Támassza alá példákkal az idegenforgalom gazdasági jelentőségét."
+   },
+   {
+    "id": "franciaorszag--e1",
+    "level": "emelt",
+    "text": "Mutassa be a gyarmatosítás társadalmi-gazdasági sajátosságokra gyakorolt hatását."
+   }
+  ]
+ },
+ {
+  "id": "benelux-allamok",
+  "title": "Benelux államok",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.1. Európa magterülete"
+  ],
+  "objectives": [
+   {
+    "id": "benelux-allamok--e1",
+    "level": "emelt",
+    "text": "Ismertesse az egyes országok társadalmi-gazdasági jellemzőit, az együttműködés kialakulásához vezető okokat."
+   }
+  ]
+ },
+ {
+  "id": "nemetorszag",
+  "title": "Németország",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.1. Európa magterülete"
+  ],
+  "objectives": [
+   {
+    "id": "nemetorszag--k1",
+    "level": "kozep",
+    "text": "Mutassa be az országot mint Európa vezető gazdaságát."
+   },
+   {
+    "id": "nemetorszag--k2",
+    "level": "kozep",
+    "text": "Ismerje a keleti és nyugati országrész eltérő társadalmi-gazdasági fejlődésének útját, az ebből fakadó problémákat."
+   },
+   {
+    "id": "nemetorszag--k3",
+    "level": "kozep",
+    "text": "Mutassa be a hagyományos iparvidékek gazdasági és környezeti átalakulásának folyamatát a Ruhr-vidék példáján."
+   },
+   {
+    "id": "nemetorszag--e1",
+    "level": "emelt",
+    "text": "Támassza alá példákkal a déli tartományok gyors gazdasági fejlődését."
+   },
+   {
+    "id": "nemetorszag--e2",
+    "level": "emelt",
+    "text": "Igazolja példák alapján a német nagyvállalatok szerepét hazánk és a volt szocialista országok gazdasági fejlődésében."
+   }
+  ]
+ },
+ {
+  "id": "az-alpok-orszagai",
+  "title": "Az Alpok országai",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.2. Fejlett gazdaságú országok Európa közepén és északi részén"
+  ],
+  "objectives": [
+   {
+    "id": "az-alpok-orszagai--k1",
+    "level": "kozep",
+    "text": "Mutassa be az alpesi országok jellemző vonásait."
+   },
+   {
+    "id": "az-alpok-orszagai--k2",
+    "level": "kozep",
+    "text": "Mondjon példát az országok semlegességből adódó nemzetközi szerepvállalására."
+   },
+   {
+    "id": "az-alpok-orszagai--e1",
+    "level": "emelt",
+    "text": "Igazolja hazánk és Ausztria sokoldalú társadalmi-gazdasági kapcsolatát, annak történelmi gyökereit."
+   },
+   {
+    "id": "az-alpok-orszagai--e2",
+    "level": "emelt",
+    "text": "Mutassa be az éghajlatváltozás turizmusra gyakorolt hatását."
+   }
+  ]
+ },
+ {
+  "id": "eszak-europa-orszagai",
+  "title": "Észak-Európa országai",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.2. Fejlett gazdaságú országok Európa közepén és északi részén"
+  ],
+  "objectives": [
+   {
+    "id": "eszak-europa-orszagai--k1",
+    "level": "kozep",
+    "text": "Ismertesse az észak-európai országok gazdasági életében szerepet játszó természeti és társadalmi tényezőket."
+   },
+   {
+    "id": "eszak-europa-orszagai--k2",
+    "level": "kozep",
+    "text": "Emelje ki a hasonlóságokat és a különbségeket."
+   }
+  ]
+ },
+ {
+  "id": "8-4-3-del-europa-orszagai",
+  "title": "8.4.3. Dél-Európa országai",
+  "parents": [
+   "8.4. Európa regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "8-4-3-del-europa-orszagai--k1",
+    "level": "kozep",
+    "text": "Mutassa be a mediterrán országok földrajzi jellemzőit."
+   },
+   {
+    "id": "8-4-3-del-europa-orszagai--k2",
+    "level": "kozep",
+    "text": "Értékelje a tenger és az idegenforgalom szerepét az országok gazdasági életében."
+   },
+   {
+    "id": "8-4-3-del-europa-orszagai--k3",
+    "level": "kozep",
+    "text": "Mutassa be a történelmi és kulturális örökség szerepét a dél-európai térségben."
+   },
+   {
+    "id": "8-4-3-del-europa-orszagai--e1",
+    "level": "emelt",
+    "text": "Értelmezze a dél-európai országok gazdasági fejlődését segítő és nehezítő tényezőket."
+   }
+  ]
+ },
+ {
+  "id": "olaszorszag",
+  "title": "Olaszország",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.3. Dél-Európa országai"
+  ],
+  "objectives": [
+   {
+    "id": "olaszorszag--k1",
+    "level": "kozep",
+    "text": "Hasonlítsa össze az ország északi és déli területeinek természeti és társadalmi adottságait, gazdasági fejlettségét."
+   }
+  ]
+ },
+ {
+  "id": "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia",
+  "title": "A Visegrádi Együttműködés országai (Csehország, Lengyelország, Szlovákia)",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.4. Kelet-Közép-, Kelet- és Délkelet-Európa országai"
+  ],
+  "objectives": [
+   {
+    "id": "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia--k1",
+    "level": "kozep",
+    "text": "Ismertesse a magas- és középhegységi tájak, a medencék, a tengerpart és a síkságok természeti és társadalmi-gazdasági jellemzőit."
+   },
+   {
+    "id": "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia--k2",
+    "level": "kozep",
+    "text": "Mondjon példát magyar vonatkozású kulturális központokra."
+   },
+   {
+    "id": "a-visegradi-egyuttmukodes-orszagai-csehorszag-lengyelorszag-szlovakia--e1",
+    "level": "emelt",
+    "text": "Ismertesse az országcsoport társadalmi-gazdasági fejlődésének történelmi vonatkozásait."
+   }
+  ]
+ },
+ {
+  "id": "keleti-szomszedaink-romania-ukrajna",
+  "title": "Keleti szomszédaink (Románia, Ukrajna)",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.4. Kelet-Közép-, Kelet- és Délkelet-Európa országai"
+  ],
+  "objectives": [
+   {
+    "id": "keleti-szomszedaink-romania-ukrajna--k1",
+    "level": "kozep",
+    "text": "Ismertesse a magas- és középhegységi tájak, a medencék, a tengerpart és a síkságok természeti és társadalmi-gazdasági jellemzőit."
+   },
+   {
+    "id": "keleti-szomszedaink-romania-ukrajna--k2",
+    "level": "kozep",
+    "text": "Mondjon példát magyar vonatkozású kulturális központokra."
+   },
+   {
+    "id": "keleti-szomszedaink-romania-ukrajna--e1",
+    "level": "emelt",
+    "text": "Mutassa be a társadalmi-gazdasági fejlődést elősegítő és hátráltató tényezőket."
+   }
+  ]
+ },
+ {
+  "id": "delszlav-allamok",
+  "title": "Délszláv államok",
+  "parents": [
+   "8.4. Európa regionális földrajza",
+   "8.4.4. Kelet-Közép-, Kelet- és Délkelet-Európa országai"
+  ],
+  "objectives": [
+   {
+    "id": "delszlav-allamok--k1",
+    "level": "kozep",
+    "text": "Sorolja fel az egykori Jugoszlávia utódállamait, jellemezze azok legfontosabb természeti és gazdasági adottságait, az Európai Unióhoz fűződő kapcsolatukat."
+   },
+   {
+    "id": "delszlav-allamok--k2",
+    "level": "kozep",
+    "text": "Mutassa be a dalmáciai idegenforgalom szerepét."
+   },
+   {
+    "id": "delszlav-allamok--k3",
+    "level": "kozep",
+    "text": "Mondjon példát magyar vonatkozású kulturális központokra."
+   },
+   {
+    "id": "delszlav-allamok--e1",
+    "level": "emelt",
+    "text": "Ismertesse az egykori Jugoszláviát megosztó társadalmi és kulturális különbségeket, a térség nemzetiségeinek területi elhelyezkedését tematikus térképek segítségével."
+   }
+  ]
+ },
+ {
+  "id": "8-4-5-oroszorszag",
+  "title": "8.4.5. Oroszország",
+  "parents": [
+   "8.4. Európa regionális földrajza"
+  ],
+  "objectives": [
+   {
+    "id": "8-4-5-oroszorszag--k1",
+    "level": "kozep",
+    "text": "Mutassa be Oroszország világgazdasági szerepét."
+   },
+   {
+    "id": "8-4-5-oroszorszag--k2",
+    "level": "kozep",
+    "text": "Hasonlítsa össze az ország európai és ázsiai részének jellemzőit."
+   },
+   {
+    "id": "8-4-5-oroszorszag--e1",
+    "level": "emelt",
+    "text": "Ismertesse az ország társadalmi-gazdasági fejlődésének történelmi vonatkozásait."
+   },
+   {
+    "id": "8-4-5-oroszorszag--e2",
+    "level": "emelt",
+    "text": "Ismertesse az ország energiagazdaságának jellemzőit, az energiatermelés környezeti következményeit."
+   }
+  ]
+ }
+]

@@ -1,0 +1,176 @@
+[
+ {
+  "id": "5-1-a-nepesseg-foldrajzi-jellemzoi",
+  "title": "5.1. A népesség földrajzi jellemzői",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k1",
+    "level": "kozep",
+    "text": "Mutassa be a népességszám-változás időbeli és területi különbségeit, ismertesse annak okait és következményeit."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k2",
+    "level": "kozep",
+    "text": "Jellemezze a népesedési (demográfiai) átmenet szakaszait."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k3",
+    "level": "kozep",
+    "text": "Olvassa le és értelmezze a korfa adatait."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k4",
+    "level": "kozep",
+    "text": "Vonjon le alapvető következtetéseket a korfa alakjából."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k5",
+    "level": "kozep",
+    "text": "Hasonlítsa össze a fiatalodó és az öregedő társadalmak jellemzőit."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k6",
+    "level": "kozep",
+    "text": "Ismertesse a fiatalodó és az öregedő társadalmak korösszetételéből adódó társadalmi-gazdasági következményeket."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k7",
+    "level": "kozep",
+    "text": "Oldjon meg a demográfiai folyamatokhoz kapcsolódó egyszerű számítási feladatokat, vonjon le következtetéseket az eredmények alapján."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k8",
+    "level": "kozep",
+    "text": "Mutassa be a népesség térbeli eloszlását befolyásoló tényezőket, nevezzen meg példákat ritkán és sűrűn lakott területekre."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k9",
+    "level": "kozep",
+    "text": "Nevezze meg és mutassa meg térképen a Föld legnagyobb népességtömörüléseit, ismerje azok kialakulásának okait."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k10",
+    "level": "kozep",
+    "text": "Magyarázza meg a népesség egyenlőtlen elrendeződésének következményeit."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k11",
+    "level": "kozep",
+    "text": "Mondjon példákat a népességmozgás típusaira."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k12",
+    "level": "kozep",
+    "text": "Értelmezze az állam, nemzet, nemzetállam, többnemzetiségű állam, nemzetiség fogalmát."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--k13",
+    "level": "kozep",
+    "text": "Nevezze meg a világvallásokat, ismerje azok legfőbb jellemzőit és központjait."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e1",
+    "level": "emelt",
+    "text": "Kapcsolja össze a korfán tapasztalható eltéréseket történelmi eseményekkel, társadalmi-gazdasági problémákkal."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e2",
+    "level": "emelt",
+    "text": "Mutassa be a népesedési szakaszok és a korfa alakjának összefüggését."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e3",
+    "level": "emelt",
+    "text": "Magyarázza a népességmozgások okait, társadalmi-gazdasági vonatkozásait."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e4",
+    "level": "emelt",
+    "text": "Elemezzen migrációs folyamatokat bemutató ábrákat, tematikus térképeket."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e5",
+    "level": "emelt",
+    "text": "Jellemezze az államformákat, tudjon példákat mondani rájuk."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e6",
+    "level": "emelt",
+    "text": "Ismertesse és mutassa meg térképen a nagyrasszok földrajzi elterjedését."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e7",
+    "level": "emelt",
+    "text": "Ismertesse a világvallások elterjedését, a vallás társadalmi-gazdasági folyamatokban betöltött szerepét."
+   },
+   {
+    "id": "5-1-a-nepesseg-foldrajzi-jellemzoi--e8",
+    "level": "emelt",
+    "text": "Ismertesse a Föld kulturális régióinak legfőbb jellemzőit."
+   }
+  ]
+ },
+ {
+  "id": "5-2-telepulestipusok-urbanizacio",
+  "title": "5.2. Településtípusok, urbanizáció",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--k1",
+    "level": "kozep",
+    "text": "Ismerje, csoportosítsa és jellemezze az egyes településtípusokat."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--k2",
+    "level": "kozep",
+    "text": "Említsen példákat különböző szerepkört betöltő településekre, a szerepkörök átalakulására."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--k3",
+    "level": "kozep",
+    "text": "Hasonlítsa össze a tanyát és a farmot."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--k4",
+    "level": "kozep",
+    "text": "Magyarázza meg a városodás és a városiasodás közötti különbségeket."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--k5",
+    "level": "kozep",
+    "text": "Ismerje fel képeken, ábrákon és leírásokban a városok övezeteit."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--k6",
+    "level": "kozep",
+    "text": "Ismertesse a nagyváros és az agglomeráció kapcsolatát példákon keresztül."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--k7",
+    "level": "kozep",
+    "text": "Mutassa be példákkal a nagyvárosi élettel járó környezeti és társadalmi problémákat, nevezzen meg megoldási lehetőségeket."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--e1",
+    "level": "emelt",
+    "text": "Mutassa be források felhasználásával a falvak és a városok átalakulási folyamatát, szerepük átértékelődését."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--e2",
+    "level": "emelt",
+    "text": "Ismertesse a városok szerkezetében megnyilvánuló eltéréseket a különböző földrészeken."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--e3",
+    "level": "emelt",
+    "text": "Magyarázza meg a városfejlődés folyamatát."
+   },
+   {
+    "id": "5-2-telepulestipusok-urbanizacio--e4",
+    "level": "emelt",
+    "text": "Hasonlítsa össze a fejlett és a fejlődő világ urbanizációs folyamatait."
+   }
+  ]
+ }
+]

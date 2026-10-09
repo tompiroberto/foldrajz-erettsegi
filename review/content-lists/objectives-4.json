@@ -1,0 +1,428 @@
+[
+ {
+  "id": "4-1-a-foldfelszin-formalodasa",
+  "title": "4.1. A földfelszín formálódása",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-1-a-foldfelszin-formalodasa--k1",
+    "level": "kozep",
+    "text": "Ismertesse a belső és a külső erők (köztük az ember) szerepét a felszínformálódásban."
+   },
+   {
+    "id": "4-1-a-foldfelszin-formalodasa--k2",
+    "level": "kozep",
+    "text": "Mutassa be a belső erők megnyilvánulásait a kőzetlemezek mozgásának és következményeinek összekapcsolásával."
+   },
+   {
+    "id": "4-1-a-foldfelszin-formalodasa--k3",
+    "level": "kozep",
+    "text": "Ismerje fel képeken, ábrákon, modelleken a felszínformákat."
+   },
+   {
+    "id": "4-1-a-foldfelszin-formalodasa--k4",
+    "level": "kozep",
+    "text": "Mondjon példát az egyes felszínformákra a kontinensek és hazánk területéről."
+   },
+   {
+    "id": "4-1-a-foldfelszin-formalodasa--k5",
+    "level": "kozep",
+    "text": "Mutassa meg a térképen és ismerje fel a térképvázlatban ezeket."
+   },
+   {
+    "id": "4-1-a-foldfelszin-formalodasa--e1",
+    "level": "emelt",
+    "text": "Mutassa be a rekultiváció lehetőségeit példákkal."
+   }
+  ]
+ },
+ {
+  "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege",
+  "title": "4.2. A külső erők felszínformáló tevékenysége",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k1",
+    "level": "kozep",
+    "text": "Ismerje fel képen, ábrán a külső erők munkája nyomán létrejött formákat."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k2",
+    "level": "kozep",
+    "text": "Döntse el, hogy azok pusztító vagy építő tevékenység során alakultak ki."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k3",
+    "level": "kozep",
+    "text": "Nevezze meg a szél és a csapadék felszínformáló tevékenységét befolyásoló tényezőket."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k4",
+    "level": "kozep",
+    "text": "Ismertesse a szél és a csapadék felszínformáló tevékenységének gazdasági következményeit."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k5",
+    "level": "kozep",
+    "text": "Mutassa be a tengervíz felszínformáló munkájához kötődő parttípusokat."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k6",
+    "level": "kozep",
+    "text": "Ismertesse a folyók munkavégző képességét meghatározó tényezőket."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k7",
+    "level": "kozep",
+    "text": "Mutassa be ábra alapján a hóhatár magasságának összefüggését a földrajzi szélességgel és a domborzattal."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k8",
+    "level": "kozep",
+    "text": "Mutassa be a gleccserek és a jégtakarók keletkezését, felszínformáló munkáját."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k9",
+    "level": "kozep",
+    "text": "Mutassa be konkrét tájak példáján a jég felszínformálásának következményeit."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k10",
+    "level": "kozep",
+    "text": "Ismerje a gleccserek környezetváltozást jelző szerepét."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k11",
+    "level": "kozep",
+    "text": "Ismertesse a karsztosodás folyamatát."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--k12",
+    "level": "kozep",
+    "text": "Ismerje fel ábrák, képek alapján a fő karsztformákat."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--e1",
+    "level": "emelt",
+    "text": "Jellemezze a külső erők felszínformálása nyomán létrejött formákat, mutassa be kialakulásukat."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--e2",
+    "level": "emelt",
+    "text": "Bizonyítsa példákkal, ábra és térkép segítségével a domborzat és a folyók szakaszjellegének összefüggését, térbeli és időbeli változását."
+   },
+   {
+    "id": "4-2-a-kulso-erok-felszinformalo-tevekenysege--e3",
+    "level": "emelt",
+    "text": "Ismerje a mészkő oldódásának kémiai folyamatát."
+   }
+  ]
+ },
+ {
+  "id": "4-3-a-talaj",
+  "title": "4.3. A talaj",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-3-a-talaj--k1",
+    "level": "kozep",
+    "text": "Mutassa be a talajképződés folyamatát, a talaj kialakításában szerepet játszó tényezőket."
+   },
+   {
+    "id": "4-3-a-talaj--k2",
+    "level": "kozep",
+    "text": "Bizonyítsa az éghajlat meghatározó szerepét."
+   },
+   {
+    "id": "4-3-a-talaj--k3",
+    "level": "kozep",
+    "text": "Ismertesse a talaj fő alkotóit."
+   },
+   {
+    "id": "4-3-a-talaj--k4",
+    "level": "kozep",
+    "text": "Értelmezze a különbséget a zonális és az azonális talaj fogalma között."
+   },
+   {
+    "id": "4-3-a-talaj--k5",
+    "level": "kozep",
+    "text": "Nevezze meg és jellemezze az elterjedt zonális és azonális talajokat, tudjon példát mondani földrajzi elhelyezkedésükre."
+   },
+   {
+    "id": "4-3-a-talaj--k6",
+    "level": "kozep",
+    "text": "Mutassa be példák alapján a talajt veszélyeztető környezeti és társadalmi-gazdasági folyamatokat, a veszély mérséklésének lehetőségeit."
+   },
+   {
+    "id": "4-3-a-talaj--e1",
+    "level": "emelt",
+    "text": "Ismertesse a talaj szintjeit és azok jellemzőit."
+   },
+   {
+    "id": "4-3-a-talaj--e2",
+    "level": "emelt",
+    "text": "Igazolja példák alapján a fenntarthatóság és a talaj kapcsolatát a különböző éghajlati övekben, területeken."
+   },
+   {
+    "id": "4-3-a-talaj--e3",
+    "level": "emelt",
+    "text": "Mutassa be a talaj környezeti hatásjelző szerepét."
+   }
+  ]
+ },
+ {
+  "id": "4-4-a-geoszferak-kozotti-kapcsolatok",
+  "title": "4.4. A geoszférák közötti kapcsolatok",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-4-a-geoszferak-kozotti-kapcsolatok--k1",
+    "level": "kozep",
+    "text": "Mutassa be példák segítségével az egyes geoszférákban lezajló folyamatoknak a többi geoszférára gyakorolt hatását és azok következményeit."
+   },
+   {
+    "id": "4-4-a-geoszferak-kozotti-kapcsolatok--k2",
+    "level": "kozep",
+    "text": "Mondjon példákat a több geoszférára is kiterjedő környezeti ártalmakra, azok kiváltó okaira és következményeire, megelőzésük és megoldásuk lehetőségeire."
+   },
+   {
+    "id": "4-4-a-geoszferak-kozotti-kapcsolatok--e1",
+    "level": "emelt",
+    "text": "Elemezzen a témához kapcsolódó folyamatábrákat és szemelvényeket."
+   }
+  ]
+ },
+ {
+  "id": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek",
+  "title": "4.5. A szoláris és a valódi éghajlati övezetek",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k1",
+    "level": "kozep",
+    "text": "Magyarázza meg egyszerű rajz készítésével a napsugarak hajlásszögének és a felmelegedés mértékének földrajzi szélességtől függő változását."
+   },
+   {
+    "id": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k2",
+    "level": "kozep",
+    "text": "Jelölje térképvázlatban a szoláris éghajlati övezeteket, fogalmazza meg helyüket a földrajzi fokhálózatban."
+   },
+   {
+    "id": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k3",
+    "level": "kozep",
+    "text": "Mutassa be, hogyan módosítják az óceánok, a tengeráramlások, a szélrendszerek, a földfelszín és a domborzat az éghajlatot."
+   },
+   {
+    "id": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--k4",
+    "level": "kozep",
+    "text": "Értelmezze az éghajlati és a földrajzi övezetesség közötti különbséget."
+   },
+   {
+    "id": "4-5-a-szolaris-es-a-valodi-eghajlati-ovezetek--e1",
+    "level": "emelt",
+    "text": "Mutassa be a szoláris és a valódi éghajlati övezetek közötti különbséget."
+   }
+  ]
+ },
+ {
+  "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg",
+  "title": "4.6. A vízszintes földrajzi övezetesség",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k1",
+    "level": "kozep",
+    "text": "Értelmezze a földrajzi övezetesség fogalmát, rendszerét."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k2",
+    "level": "kozep",
+    "text": "Ismertesse az övezetek, övek/vidék, területek elkülönítési szempontjait."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k3",
+    "level": "kozep",
+    "text": "Mutassa be az uralkodó szélrendszerek meghatározó szerepét az övezetek, övek/vidék, területek sajátosságainak kialakításában."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k4",
+    "level": "kozep",
+    "text": "Jellemezze az egyes övezetek, övek/vidék, területek éghajlati, vízrajzi és felszínformálódási sajátosságait, talaját és élővilágát."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k5",
+    "level": "kozep",
+    "text": "Sorolja fel az egyes övek/vidék, területek legfontosabb termesztett növényeit, tenyésztett állatait, a gazdálkodás területi típusait."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k6",
+    "level": "kozep",
+    "text": "Ismertesse a különböző övezetek, övek/vidék, területek fő környezeti problémáit."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k7",
+    "level": "kozep",
+    "text": "Mutassa meg térképen és ismerje fel kontúrtérképen az egyes övezetek, övek/vidék, területek elhelyezkedését."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k8",
+    "level": "kozep",
+    "text": "Ismerje fel és jellemezze képek, ábrák és leírások alapján a földrajzi övezetesség tipikus területeit."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k9",
+    "level": "kozep",
+    "text": "Elemezzen a Föld és a kontinensek zonalitását bemutató tematikus térképeket."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k10",
+    "level": "kozep",
+    "text": "Értelmezzen és hasonlítson össze éghajlati diagramokat."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--k11",
+    "level": "kozep",
+    "text": "Ismerjen fel öveket/vidéket, területeket éghajlati diagramok alapján."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e1",
+    "level": "emelt",
+    "text": "Hasonlítsa össze az egyes övezetek, övek/vidék, területek jellemzőit."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e2",
+    "level": "emelt",
+    "text": "Mutassa be az övezetesség és az eltartóképesség kapcsolatát, az övezetesen elrendeződő természeti erőforrásokat."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e3",
+    "level": "emelt",
+    "text": "Ismerje fel ábrákon és képeken a különböző földrajzi övek/vidék és területek településképének, építkezési módjának sajátosságait, adjon magyarázatot azokra."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e4",
+    "level": "emelt",
+    "text": "Mutassa meg térképen, rajzolja be kontúrtérképre az övezetek, övek/vidék, területek környezetkárosodással leginkább sújtott térségeit."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e5",
+    "level": "emelt",
+    "text": "Mondjon példákat az övezetek, övek/vidék, területek környezeti problémáinak mérséklésére, megoldására, azok kezelésének lehetőségeire."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e6",
+    "level": "emelt",
+    "text": "Jellemezzen komplexen földrajzi övezeteket, öveket/vidéket, területeket tematikus térképek összehasonlításával."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e7",
+    "level": "emelt",
+    "text": "Mutassa be a természetföldrajzi jellemzők változását az Egyenlítő és a térítők között keresztmetszetek segítségével."
+   },
+   {
+    "id": "4-6-a-vizszintes-foldrajzi-ovezetesseg--e8",
+    "level": "emelt",
+    "text": "Igazolja éghajlati diagramok és keresztmetszetek összehasonlító elemzésével a kontinentalitás Ny-K irányú változását Eurázsiában."
+   }
+  ]
+ },
+ {
+  "id": "4-7-a-fuggoleges-foldrajzi-ovezetesseg",
+  "title": "4.7. A függőleges földrajzi övezetesség",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--k1",
+    "level": "kozep",
+    "text": "Mutassa be az összefüggést a tengerszint feletti magasság és a természetföldrajzi tényezők változása között."
+   },
+   {
+    "id": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--k2",
+    "level": "kozep",
+    "text": "Mutassa be keresztmetszet segítségével a mérsékelt övezet hegységeinek függőleges övezetességét, a gazdálkodási lehetőségek változását."
+   },
+   {
+    "id": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--k3",
+    "level": "kozep",
+    "text": "Elemezzen függőleges övezetességgel kapcsolatos képeket, ábrákat, szövegeket."
+   },
+   {
+    "id": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--e1",
+    "level": "emelt",
+    "text": "Hasonlítsa össze keresztmetszetek segítségével a forró és a mérsékelt övezet hegységeinek függőleges övezetességét."
+   },
+   {
+    "id": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--e2",
+    "level": "emelt",
+    "text": "Készítsen függőleges övezetességet bemutató keresztmetszetet."
+   },
+   {
+    "id": "4-7-a-fuggoleges-foldrajzi-ovezetesseg--e3",
+    "level": "emelt",
+    "text": "Mutassa be az éghajlatváltozás magashegységek idegenforgalmára gyakorolt hatását."
+   }
+  ]
+ },
+ {
+  "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet",
+  "title": "4.8. A geoszférák fejlődése a múltban, földtörténet",
+  "parents": [],
+  "objectives": [
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k1",
+    "level": "kozep",
+    "text": "Ismerje a földtörténeti idő léptékeit."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k2",
+    "level": "kozep",
+    "text": "Ismertesse a földtörténeti korbeosztás nagy egységeit."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k3",
+    "level": "kozep",
+    "text": "Tudja ezek időbeli sorrendjét és hozzávetőleges időtartamukat."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k4",
+    "level": "kozep",
+    "text": "Ismerje az egyes földtörténeti idők meghatározó eseményeit, képződményeit."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--k5",
+    "level": "kozep",
+    "text": "Mutassa be a Föld nagyszerkezeti egységeinek kialakulását és átalakulásukat a földtörténeti idők folyamán."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e1",
+    "level": "emelt",
+    "text": "Hasonlítsa össze a relatív és az abszolút kormeghatározás módszereit."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e2",
+    "level": "emelt",
+    "text": "Mutassa be a légkör fejlődését, összetételének változását."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e3",
+    "level": "emelt",
+    "text": "Mutassa be a vízburok kialakulását."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e4",
+    "level": "emelt",
+    "text": "Ismertesse az őskontinensek kialakulásának folyamatát, feldarabolódásuk és összekapcsolódásuk következményeit."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e5",
+    "level": "emelt",
+    "text": "Ismerje a jégkorszak fogalmát, az eljegesedések következményeit."
+   },
+   {
+    "id": "4-8-a-geoszferak-fejlodese-a-multban-foldtortenet--e6",
+    "level": "emelt",
+    "text": "Kösse földtörténeti korokhoz a geoszférák fejlődésének fő eseményeit, képződményeit."
+   }
+  ]
+ }
+]

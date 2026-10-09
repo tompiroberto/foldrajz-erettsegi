@@ -1,0 +1,127 @@
+{
+  "id": "aprozodas-malas",
+  "title": "Aprózódás és mállás",
+  "summary": "A felszínre került kőzetek a külső erők hatására átalakulnak: az aprózódás során fizikailag kisebb darabokra esnek szét, a mállás során kémiai összetételük is megváltozik. A két folyamat készíti elő a lepusztulást és a talajképződést.",
+  "causes": [
+    "A felszínen a kőzeteket napi és évi hőingás, fagy, víz, levegő és élőlények érik.",
+    "A különböző ásványok eltérően tágulnak a hő hatására, ezért a kőzetben feszültség keletkezik.",
+    "A víz a repedésekbe jutva megfagyhat, illetve oldott anyagaival (szén-dioxid, oxigén, savak) kémiai reakciókba léphet.",
+    "Az éghajlat dönti el, melyik folyamat az erősebb: száraz és hideg vidéken az aprózódás, meleg és nedves vidéken a mállás."
+  ],
+  "course": [
+    "Hőmérsékleti aprózódás: a nagy napi hőingás miatt a kőzet felszíne ismételten kitágul és összehúzódik, ezért lepattogzik, szétreped.",
+    "Fagyaprózódás: a repedésekbe jutó víz megfagyva kitágul (kb. 9%-kal), és szétfeszíti a kőzetet.",
+    "Biológiai aprózódás: a növények gyökerei a repedésekben vastagodva szétfeszítik a kőzetet.",
+    "Kémiai mállás: a víz oldja (pl. a mészkövet), illetve oxidálja és átalakítja az ásványokat; agyagásványok, oxidok keletkeznek.",
+    "Biológiai mállás: az élőlények (zuzmók, mohák, baktériumok) által termelt savak bontják a kőzetet."
+  ],
+  "consequences": [
+    "A kőzet törmelékké, a mállás során finom szemcsés anyaggá alakul, amelyet a külső erők könnyen elszállítanak (lepusztulás).",
+    "Az aprózódott, mállott kőzet a talajképződés anyakőzete (C-szint).",
+    "Hegyvidékeken a fagyaprózódás törmeléklejtőket és kőomlásokat okoz.",
+    "A forró, nedves területeken a mélyreható mállás vastag mállási kérget, laterites talajokat hoz létre."
+  ],
+  "steps": [
+    {
+      "title": "Nagy napi hőingás",
+      "caption": "A nappali felmelegedés és az éjszakai lehűlés miatt a kőzet ismételten kitágul és összehúzódik; az eltérő ásványok között feszültség keletkezik.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Hőmérsékleti aprózódás",
+      "caption": "A kőzet felszíne lepattogzik, szétreped. Ez a felhőtlen, száraz sivatagokban a legerősebb.",
+      "icon": "sun"
+    },
+    {
+      "title": "Fagyaprózódás",
+      "caption": "A repedésekbe jutott víz megfagyva kitágul, és szétfeszíti a kőzetet. A fagypont körüli hőmérséklet-ingadozás (hegyvidékek, hideg övezet) kedvez neki.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "Biológiai aprózódás",
+      "caption": "A repedésekben növő gyökerek vastagodva szétfeszítik a kőzetet.",
+      "icon": "sprout"
+    },
+    {
+      "title": "Kémiai mállás",
+      "caption": "A víz és oldott anyagai (szén-dioxid, oxigén) oldják, oxidálják és átalakítják az ásványokat; a kőzet összetétele megváltozik.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Biológiai mállás",
+      "caption": "A zuzmók, mohák és baktériumok savakat termelnek, amelyek bontják a kőzetet.",
+      "icon": "leaf"
+    },
+    {
+      "title": "Törmelék és talaj anyakőzete",
+      "caption": "Az aprózódott, mállott anyagot a külső erők elszállítják, vagy helyben a talajképződés anyakőzete lesz.",
+      "icon": "layers"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Szaharában a nagy napi hőingás miatt erős a hőmérsékleti aprózódás; a sziklákon lepattogzás, a felszínen kőtörmelék jellemző.",
+      "places": [
+        "afrika--tajak--szahara"
+      ]
+    },
+    {
+      "text": "A Magas-Tátra csúcsai alatt a fagyaprózódás nagy törmeléklejtőket hozott létre.",
+      "places": [
+        "europa--tajak--magas-tatra"
+      ]
+    },
+    {
+      "text": "Az Amazonas-medence meleg, csapadékos éghajlatán a kémiai mállás mélyreható, vastag mállási kéreg és laterittalaj alakul ki.",
+      "places": [
+        "amerika--tajak--amazonas-medence"
+      ]
+    }
+  ],
+  "concepts": [
+    "aprózódás",
+    "mállás",
+    "lepusztulás",
+    "szállítás",
+    "külső és belső erők",
+    "kémiai és biológiai mállás",
+    "anyakőzet (alapkőzet)",
+    "laterittalaj"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el az aprózódás és a mállás folyamatát! Mutasd be a két folyamat különbségét, típusaikat és az éghajlattól való függésüket!",
+    "elements": [
+      {
+        "text": "Aprózódás: a kőzet fizikailag kisebb darabokra esik szét, összetétele nem változik.",
+        "points": 1
+      },
+      {
+        "text": "Mállás: a kőzet kémiai összetétele is megváltozik (oldás, oxidáció, átalakulás).",
+        "points": 1
+      },
+      {
+        "text": "Hőmérsékleti aprózódás: nagy napi hőingás, a kőzet ismételt tágulása és összehúzódása (pl. sivatagok).",
+        "points": 2
+      },
+      {
+        "text": "Fagyaprózódás: a repedésekben megfagyó víz kitágul és szétfeszíti a kőzetet (hegyvidékek, hideg övezet).",
+        "points": 2
+      },
+      {
+        "text": "Biológiai aprózódás és mállás: gyökérfeszítés, élőlények által termelt savak.",
+        "points": 1
+      },
+      {
+        "text": "Éghajlati függés: száraz, hideg területeken az aprózódás, meleg, nedves területeken a kémiai mállás az erősebb.",
+        "points": 2
+      },
+      {
+        "text": "Jelentőség: előkészítik a lepusztulást, és létrehozzák a talaj anyakőzetét.",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "Az aprózódás során a kőzet fizikailag kisebb darabokra esik szét, összetétele nem változik, míg a mállás során kémiai összetétele is megváltozik. A hőmérsékleti aprózódást a nagy napi hőingás okozza: a kőzet ismételten kitágul és összehúzódik, ezért szétreped, ez a sivatagokban a legerősebb. A fagyaprózódás során a repedésekbe jutott víz megfagyva kitágul és szétfeszíti a kőzetet, ez a fagypont körül ingadozó hőmérsékletű hegyvidékeken és a hideg övezetben jellemző, míg a biológiai aprózódást a gyökerek feszítő hatása, a biológiai mállást az élőlények savai okozzák. A kémiai mállás során a víz és oldott anyagai oldják, oxidálják és átalakítják az ásványokat, ezért a meleg, nedves területeken a legerőteljesebb. A két folyamat készíti elő a lepusztulást, és ezekből jön létre a talaj anyakőzete."
+  },
+  "generated": true,
+  "reviewed": false
+}

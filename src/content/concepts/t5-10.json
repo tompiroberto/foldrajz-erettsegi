@@ -1,0 +1,3372 @@
+{
+ "entries": [
+  {
+   "id": "nepessegrobbanas",
+   "term": "népességrobbanás",
+   "aliases": [],
+   "sourceLabels": [
+    "népességrobbanás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A népességszám gyors, ugrásszerű növekedése, amely akkor következik be, amikor a halálozási arányszám (az egészségügy, a higiénia és az élelmezés javulása miatt) gyorsan csökken, a születési arányszám viszont magas marad. A népesedési átmenet második szakaszára jellemző.",
+   "example": "Ma főként a Szaharától délre fekvő Afrikában zajlik, pl. Nigériában és Nigerben.",
+   "examplePlaces": [
+    "afrika--orszagok--nigeria",
+    "afrika--orszagok--niger"
+   ],
+   "related": [
+    "demografiai-atmenet",
+    "termeszetes-szaporodas",
+    "fiatalodo-tarsadalom"
+   ],
+   "tags": [
+    "népesség",
+    "globális-problémák",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "termeszetes-szaporodas",
+   "term": "természetes szaporodás",
+   "aliases": [],
+   "sourceLabels": [
+    "természetes szaporodás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Ha egy területen egy év alatt több az élveszületés, mint a halálozás, a különbség a természetes szaporodás. Általában ezrelékben (‰) adjuk meg: születési arányszám mínusz halálozási arányszám.",
+   "example": "Ha a születési arányszám 30‰, a halálozási 10‰, akkor a természetes szaporodás 20‰. Figyelj: a vándorlás nem számít bele!",
+   "related": [
+    "termeszetes-fogyas",
+    "vandorlasi-egyenleg",
+    "nepessegrobbanas"
+   ],
+   "tags": [
+    "népesség",
+    "számolás",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "termeszetes-fogyas",
+   "term": "természetes fogyás",
+   "aliases": [],
+   "sourceLabels": [
+    "természetes fogyás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Ha egy területen egy év alatt több a halálozás, mint az élveszületés, a népesség természetes úton fogy. Értéke a születési és a halálozási arányszám negatív különbsége (‰).",
+   "example": "Magyarországon 1981 óta természetes fogyás van.",
+   "related": [
+    "termeszetes-szaporodas",
+    "nepessegfogyas",
+    "oregedo-tarsadalom"
+   ],
+   "tags": [
+    "népesség",
+    "számolás",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nepessegfogyas",
+   "term": "népességfogyás",
+   "aliases": [],
+   "sourceLabels": [
+    "népességfogyás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Egy terület népességszámának csökkenése. Oka lehet a természetes fogyás, a negatív vándorlási egyenleg (több az elvándorló, mint a bevándorló), vagy a kettő együtt.",
+   "example": "Bulgária és Lettország népessége a természetes fogyás és a kivándorlás miatt egyaránt csökken.",
+   "examplePlaces": [
+    "europa--orszagok--bulgaria",
+    "europa--orszagok--lettorszag"
+   ],
+   "related": [
+    "termeszetes-fogyas",
+    "vandorlasi-egyenleg",
+    "kivandorlas"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oregedo-es-fiatalodo-tarsadalom",
+   "term": "öregedő és fiatalodó társadalom",
+   "aliases": [],
+   "sourceLabels": [
+    "öregedő és fiatalodó társadalom"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A társadalmakat korösszetételük alapján soroljuk e két típusba: az öregedőben az idős, a fiatalodóban a gyermekkorú népesség aránya nő vagy magas. A típus jól leolvasható a korfa alakjáról.",
+   "example": "Japán öregedő, Niger fiatalodó társadalom.",
+   "examplePlaces": [
+    "azsia--orszagok--japan",
+    "afrika--orszagok--niger"
+   ],
+   "related": [
+    "oregedo-tarsadalom",
+    "fiatalodo-tarsadalom",
+    "korfa"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "oregedo-tarsadalom",
+   "term": "öregedő társadalom",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "oregedo-es-fiatalodo-tarsadalom",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Olyan társadalom, amelyben alacsony a születésszám és magas a várható élettartam, ezért az idős korúak aránya növekszik, a gyermekkorúaké csökken. Korfája urna alakú; gondot okoz a nyugdíj- és egészségügyi rendszer fenntartása és a munkaerőhiány.",
+   "example": "Japán, Németország, Olaszország, Magyarország.",
+   "examplePlaces": [
+    "azsia--orszagok--japan",
+    "europa--orszagok--nemetorszag"
+   ],
+   "related": [
+    "korfa",
+    "termeszetes-fogyas",
+    "fiatalodo-tarsadalom"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fiatalodo-tarsadalom",
+   "term": "fiatalodó társadalom",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "oregedo-es-fiatalodo-tarsadalom",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Olyan társadalom, amelyben magas a születésszám, ezért a gyermekkorúak aránya nagy. Korfája gúla (piramis) alakú; gondot okoz az oktatás, az élelmezés és a munkahelyteremtés.",
+   "example": "Niger, Csád, Nigéria.",
+   "examplePlaces": [
+    "afrika--orszagok--niger",
+    "afrika--orszagok--csad"
+   ],
+   "related": [
+    "korfa",
+    "nepessegrobbanas",
+    "oregedo-tarsadalom"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "demografiai-atmenet",
+   "term": "népesedési átmenet (demográfiai átmenet)",
+   "aliases": [
+    "népesedési átmenet",
+    "demográfiai átmenet"
+   ],
+   "sourceLabels": [
+    "népesedési átmenet (demográfiai átmenet)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A népesség változásának szakaszos modellje: (1) magas születési és halálozási arány, lassú növekedés; (2) csökkenő halálozás, magas születésszám – népességrobbanás; (3) a születésszám is csökken, a növekedés lassul; (4) mindkettő alacsony, a népesség stagnál, esetleg fogy. A szakaszokat a gazdasági-társadalmi fejlődés hajtja.",
+   "example": "Európa már végigment a szakaszokon, a Szaharától délre fekvő Afrika országai többnyire a 2. vagy 3. szakaszban vannak.",
+   "related": [
+    "nepessegrobbanas",
+    "korfa",
+    "termeszetes-szaporodas"
+   ],
+   "tags": [
+    "népesség",
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "korfa",
+   "term": "korfa",
+   "aliases": [
+    "korpiramis"
+   ],
+   "sourceLabels": [
+    "korfa"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A népesség kor és nem szerinti megoszlását ábrázoló oszlopdiagram: a függőleges tengelyen a korcsoportok, balra a férfiak, jobbra a nők. Alakja szerint gúla (fiatalodó), harang (stagnáló) vagy urna (öregedő, fogyó népesség).",
+   "example": "A magyar korfán az 1950-es évek (Ratkó-korszak) születési hulláma kiszögellésként, a világháborúk hatása bemélyedésként látszik.",
+   "related": [
+    "oregedo-tarsadalom",
+    "fiatalodo-tarsadalom",
+    "demografiai-atmenet"
+   ],
+   "tags": [
+    "népesség",
+    "számolás",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "varhato-elettartam",
+   "term": "születéskor várható átlagos élettartam",
+   "aliases": [
+    "várható élettartam"
+   ],
+   "sourceLabels": [
+    "születéskor várható átlagos élettartam"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Megmutatja, hány évet élne átlagosan egy újszülött, ha egész életében a születése évének halandósági viszonyai érvényesülnének. A fejlettség és az egészségi állapot fontos mutatója; a nők várható élettartama általában hosszabb a férfiakénál.",
+   "example": "Japánban a világon az egyik legmagasabb, a Száhel-övezet szegény országaiban jóval alacsonyabb.",
+   "examplePlaces": [
+    "azsia--orszagok--japan"
+   ],
+   "related": [
+    "oregedo-tarsadalom",
+    "demografiai-atmenet"
+   ],
+   "tags": [
+    "népesség",
+    "gazdaság",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "migracio",
+   "term": "népességmozgás (migráció)",
+   "aliases": [
+    "migráció",
+    "népességmozgás"
+   ],
+   "sourceLabels": [
+    "népességmozgás (migráció)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A népesség térbeli helyváltoztatása. Lehet állandó (a lakóhely végleges megváltoztatása, azaz vándorlás) vagy időszakos (pl. ingázás, idénymunka). Kiváltják taszító (pl. munkanélküliség, háború) és vonzó (pl. jobb kereset, biztonság) tényezők.",
+   "example": "Vidékről Budapestre költözés, Afrikából Európába irányuló vándorlás.",
+   "related": [
+    "belfoldi-es-nemzetkozi-vandorlas",
+    "idoszakos-es-allando-nepessegmozgas",
+    "ingazas"
+   ],
+   "tags": [
+    "népesség",
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "belfoldi-es-nemzetkozi-vandorlas",
+   "term": "belföldi és nemzetközi vándorlás",
+   "aliases": [],
+   "sourceLabels": [
+    "belföldi és nemzetközi vándorlás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A vándorlást aszerint különböztetjük meg, hogy átlépi-e az országhatárt: a belföldi vándorlás országon belül, a nemzetközi vándorlás országok között zajlik.",
+   "example": "Belföldi: Észak-Magyarországról Budapestre; nemzetközi: Magyarországról Ausztriába költözés.",
+   "related": [
+    "belfoldi-vandorlas",
+    "nemzetkozi-vandorlas",
+    "migracio"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "belfoldi-vandorlas",
+   "term": "belföldi vándorlás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "belfoldi-es-nemzetkozi-vandorlas",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Az országhatáron belül történő, lakóhely-változtatással járó vándorlás. Jellemző formája a falvakból a városokba (a fejlett országokban ma a városokból az elővárosokba) irányuló költözés.",
+   "example": "Kínában a vidéki népesség tömegesen költözik a tengerparti nagyvárosokba, pl. Sanghajba.",
+   "examplePlaces": [
+    "azsia--varosok--sanghaj"
+   ],
+   "related": [
+    "nemzetkozi-vandorlas",
+    "urbanizacio"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzetkozi-vandorlas",
+   "term": "nemzetközi vándorlás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "belfoldi-es-nemzetkozi-vandorlas",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Az országhatárt átlépő, lakóhely-változtatással járó vándorlás. A kibocsátó ország szempontjából kivándorlás, a fogadó ország szempontjából bevándorlás.",
+   "example": "Mexikóból az Egyesült Államokba irányuló munkaerő-vándorlás.",
+   "examplePlaces": [
+    "amerika--orszagok--mexiko",
+    "amerika--orszagok--amerikai-egyesult-allamok"
+   ],
+   "related": [
+    "belfoldi-vandorlas",
+    "ki-es-bevandorlas",
+    "interkontinentalis-vandorlas"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ki-es-bevandorlas",
+   "term": "ki- és bevándorlás",
+   "aliases": [],
+   "sourceLabels": [
+    "ki- és bevándorlás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A nemzetközi vándorlás két oldala: ugyanaz a mozgás a kibocsátó ország számára kivándorlás, a fogadó ország számára bevándorlás. A két irány különbsége a vándorlási egyenleg.",
+   "example": "Egy Lengyelországból Nagy-Britanniába költöző munkavállaló Lengyelország szempontjából kivándorló, Nagy-Britanniáéból bevándorló.",
+   "related": [
+    "kivandorlas",
+    "bevandorlas",
+    "vandorlasi-egyenleg"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kivandorlas",
+   "term": "kivándorlás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ki-es-bevandorlas",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Egy ország lakóinak tartós vagy végleges elköltözése más országba. A tömeges kivándorlás népességfogyást és munkaerőhiányt okozhat a kibocsátó országban.",
+   "example": "A 19–20. század fordulóján sok magyar vándorolt ki az Egyesült Államokba.",
+   "related": [
+    "bevandorlas",
+    "agyelszivas",
+    "nepessegfogyas"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "bevandorlas",
+   "term": "bevándorlás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ki-es-bevandorlas",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Más országból érkezők tartós vagy végleges letelepedése egy országban. Pótolhatja a fogyó népességet és munkaerőt, de beilleszkedési (integrációs) feladatokat is jelent.",
+   "example": "Németország, Kanada és Ausztrália jelentős bevándorló ország.",
+   "examplePlaces": [
+    "europa--orszagok--nemetorszag",
+    "amerika--orszagok--kanada"
+   ],
+   "related": [
+    "kivandorlas",
+    "vendegmunkas",
+    "menekult"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ingazas",
+   "term": "ingázás",
+   "aliases": [],
+   "sourceLabels": [
+    "ingázás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A lakóhely és a munkahely (vagy iskola) közötti rendszeres – napi vagy heti – utazás, amely nem jár lakóhely-változtatással. Az időszakos népességmozgás legfontosabb formája.",
+   "example": "A budapesti agglomeráció településeiről naponta sokan járnak be Budapestre dolgozni.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapesti-agglomeracio",
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "idoszakos-nepessegmozgas",
+    "agglomeracio",
+    "szuburbanizacio"
+   ],
+   "tags": [
+    "népesség",
+    "település",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "allam",
+   "term": "állam",
+   "aliases": [],
+   "sourceLabels": [
+    "állam"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Meghatározott területtel, határokkal, állandó népességgel és szuverén (független) főhatalommal, valamint ezt gyakorló intézményrendszerrel (kormányzattal) rendelkező politikai szervezet.",
+   "example": "Magyarország, Ausztria vagy a Vatikán is önálló állam.",
+   "examplePlaces": [
+    "europa--orszagok--vatikan"
+   ],
+   "related": [
+    "nemzet",
+    "nemzetallam",
+    "allamforma"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzet",
+   "term": "nemzet",
+   "aliases": [],
+   "sourceLabels": [
+    "nemzet"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Közös történelmi múlt, nyelv, kultúra, hagyományok és közös azonosságtudat által összekapcsolt emberek közössége. Egy nemzet tagjai több állam területén is élhetnek.",
+   "example": "A magyar nemzethez tartoznak a szomszédos országokban élő magyarok is.",
+   "examplePlaces": [
+    "europa--varosok--kolozsvar"
+   ],
+   "related": [
+    "nemzetallam",
+    "identitas",
+    "nemzeti-kisebbseg"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzetallam",
+   "term": "nemzetállam",
+   "aliases": [],
+   "sourceLabels": [
+    "nemzetállam"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Olyan állam, amelynek népessége túlnyomó többségben egyetlen nemzethez tartozik, így az állam és a nemzet határai nagyjából egybeesnek.",
+   "example": "Lengyelország vagy Portugália.",
+   "examplePlaces": [
+    "europa--orszagok--lengyelorszag",
+    "europa--orszagok--portugalia"
+   ],
+   "related": [
+    "tobbnemzetisegu-allam",
+    "nemzet",
+    "allam"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tobbnemzetisegu-allam",
+   "term": "többnemzetiségű állam",
+   "aliases": [],
+   "sourceLabels": [
+    "többnemzetiségű állam"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Olyan állam, amelynek területén több nemzet, nemzetiség jelentős arányban él együtt. Gyakran több hivatalos nyelvet használ.",
+   "example": "Svájc (négy nemzeti nyelv), Belgium, Oroszország.",
+   "examplePlaces": [
+    "europa--orszagok--svajc",
+    "europa--orszagok--belgium"
+   ],
+   "related": [
+    "nemzetallam",
+    "nemzetiseg",
+    "hivatalos-nyelv"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzetiseg",
+   "term": "nemzetiség",
+   "aliases": [],
+   "sourceLabels": [
+    "nemzetiség"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Egy állam területén élő, a többségi nemzettől nyelvében, kultúrájában és azonosságtudatában eltérő népcsoport. Magyarországon a törvény a hazai kisebbségeket nevezi nemzetiségnek.",
+   "example": "Magyarországon 13 nemzetiséget ismer el a törvény, pl. a németet, a szlovákot és a romát.",
+   "related": [
+    "nemzeti-kisebbseg",
+    "etnikum",
+    "tobbnemzetisegu-allam"
+   ],
+   "tags": [
+    "társadalom",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "etnikum",
+   "term": "etnikum",
+   "aliases": [],
+   "sourceLabels": [
+    "etnikum"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Közös eredetű, nyelvű, kultúrájú és azonosságtudatú népcsoport, amely nem feltétlenül rendelkezik saját állammal.",
+   "example": "A kurdok több ország (Törökország, Irak, Irán, Szíria) területén élnek, önálló államuk nincs.",
+   "examplePlaces": [
+    "azsia--orszagok--torokorszag",
+    "azsia--orszagok--irak"
+   ],
+   "related": [
+    "etnikai-kisebbseg",
+    "nemzet",
+    "nemzetiseg"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "identitas",
+   "term": "nemzeti azonosságtudat (identitás)",
+   "aliases": [
+    "nemzeti identitás",
+    "nemzeti azonosságtudat"
+   ],
+   "sourceLabels": [
+    "nemzeti azonosságtudat (identitás)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Az egyén tudatos azonosulása egy nemzettel: a közös nyelv, történelem, kultúra és hagyományok vállalása, az összetartozás érzése.",
+   "example": "A határon túli magyarok más ország állampolgáraként is megőrzik magyar identitásukat.",
+   "related": [
+    "nemzet",
+    "nemzeti-kisebbseg"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzeti-kisebbseg",
+   "term": "nemzeti kisebbség",
+   "aliases": [],
+   "sourceLabels": [
+    "nemzeti kisebbség"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Egy állam területén számbeli kisebbségben élő népcsoport, amelynek van anyanemzete, és az egy másik államban (az anyaországban) többséget alkot.",
+   "example": "A szlovákiai és a romániai magyarok, a magyarországi szlovákok.",
+   "examplePlaces": [
+    "europa--varosok--revkomarom",
+    "europa--varosok--csikszereda"
+   ],
+   "related": [
+    "etnikai-kisebbseg",
+    "nemzetiseg",
+    "nemzet"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "etnikai-kisebbseg",
+   "term": "etnikai kisebbség",
+   "aliases": [],
+   "sourceLabels": [
+    "etnikai kisebbség"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Egy állam területén kisebbségben élő, saját nyelvvel, kultúrával és azonosságtudattal rendelkező népcsoport, amelynek nincs anyaországa.",
+   "example": "Az európai romák, a kurdok.",
+   "related": [
+    "nemzeti-kisebbseg",
+    "etnikum"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hivatalos-nyelv",
+   "term": "hivatalos nyelv",
+   "aliases": [],
+   "sourceLabels": [
+    "hivatalos nyelv"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Az a nyelv, amelyet egy állam törvényben (alkotmányban) rögzít a közigazgatás, a jogalkotás, a bíróságok és az oktatás nyelveként. Egy államnak több hivatalos nyelve is lehet.",
+   "example": "Kanadában az angol és a francia egyaránt hivatalos nyelv.",
+   "examplePlaces": [
+    "amerika--orszagok--kanada"
+   ],
+   "related": [
+    "vilagnyelv",
+    "tobbnemzetisegu-allam"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilagnyelv",
+   "term": "világnyelv",
+   "aliases": [],
+   "sourceLabels": [
+    "világnyelv"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Sok országban hivatalos vagy széles körben használt nyelv, amely a nemzetközi érintkezés (politika, gazdaság, tudomány) eszköze is.",
+   "example": "Az angol, a spanyol, a francia, az arab, az orosz és a kínai – ezek az ENSZ hivatalos nyelvei.",
+   "related": [
+    "hivatalos-nyelv",
+    "nyelvcsalad"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilagvallasok",
+   "term": "világvallások",
+   "aliases": [
+    "világvallás"
+   ],
+   "sourceLabels": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A nagy követőszámú vagy több földrészre kiterjedő, a kultúrát és a társadalmi-gazdasági életet (étkezés, munkarend, ünnepek) erősen befolyásoló vallások: a kereszténység, az iszlám, a hinduizmus, a buddhizmus és a zsidó vallás.",
+   "example": "Jeruzsálem a zsidó vallás, a kereszténység és az iszlám számára is szent város.",
+   "examplePlaces": [
+    "azsia--varosok--jeruzsalem"
+   ],
+   "related": [
+    "keresztenyseg",
+    "iszlam",
+    "hinduizmus",
+    "buddhizmus",
+    "zsido-vallas"
+   ],
+   "tags": [
+    "társadalom",
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "keresztenyseg",
+   "term": "kereszténység",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vilagvallasok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Egyistenhívő vallás, amely Jézus Krisztus tanításain alapul; szent könyve a Biblia. Fő ágai a katolikus, az ortodox és a protestáns; a legtöbb követővel rendelkező világvallás, Európában, Amerikában, Ausztráliában és Afrika nagy részén elterjedt.",
+   "example": "Központjai Róma (Vatikán) és Jeruzsálem.",
+   "examplePlaces": [
+    "europa--orszagok--vatikan",
+    "azsia--varosok--jeruzsalem"
+   ],
+   "related": [
+    "vilagvallasok",
+    "iszlam",
+    "zsido-vallas"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "iszlam",
+   "term": "iszlám",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vilagvallasok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Egyistenhívő vallás, amelyet Mohamed próféta hirdetett a 7. században az Arab-félszigeten; szent könyve a Korán. Fő ágai a szunnita és a síita; Észak-Afrikában, Délnyugat-, Közép- és Dél-Ázsiában, valamint Indonéziában elterjedt.",
+   "example": "Legszentebb városa Mekka, ahová a hívők zarándokolnak.",
+   "examplePlaces": [
+    "azsia--varosok--mekka",
+    "azsia--orszagok--szaud-arabia"
+   ],
+   "related": [
+    "vilagvallasok",
+    "keresztenyseg",
+    "kulturalis-regio"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hinduizmus",
+   "term": "hinduizmus",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vilagvallasok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Indiában kialakult, sokistenhívő vallás, amelynek alapja a lélekvándorlás és a karma tana; hagyományosan összefonódott a kasztrendszerrel. Követőinek túlnyomó többsége Indiában és Nepálban él.",
+   "example": "Szent folyója a Gangesz, egyik legfontosabb zarándokhelye Váránaszi (Benáresz).",
+   "examplePlaces": [
+    "azsia--varosok--varanaszi-benares",
+    "azsia--orszagok--india"
+   ],
+   "related": [
+    "vilagvallasok",
+    "buddhizmus"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "buddhizmus",
+   "term": "buddhizmus",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "vilagvallasok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Indiában, Buddha (Sziddhártha Gautama) tanításaiból kialakult vallás, amelynek célja a szenvedéstől való megszabadulás (nirvána). Ma főként Kelet-, Délkelet- és Közép-Ázsiában elterjedt.",
+   "example": "Thaiföldön a lakosság túlnyomó része buddhista.",
+   "examplePlaces": [
+    "azsia--orszagok--thaifold"
+   ],
+   "related": [
+    "vilagvallasok",
+    "hinduizmus"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "zsido-vallas",
+   "term": "zsidó vallás",
+   "aliases": [
+    "judaizmus"
+   ],
+   "sourceLabels": [],
+   "parent": "vilagvallasok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "A legrégebbi egyistenhívő világvallás; szent irata a Tóra (a héber Biblia része). Követői legnagyobb számban Izraelben és az Egyesült Államokban élnek.",
+   "example": "Legszentebb helye a jeruzsálemi Siratófal.",
+   "examplePlaces": [
+    "azsia--varosok--jeruzsalem",
+    "azsia--orszagok--izrael"
+   ],
+   "related": [
+    "vilagvallasok",
+    "keresztenyseg",
+    "iszlam"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nepsuruseg",
+   "term": "népsűrűség",
+   "aliases": [],
+   "sourceLabels": [
+    "népsűrűség"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Az egységnyi (1 km²) területre jutó lakosok száma: népsűrűség = népességszám / terület (fő/km²). A népesség területi eloszlásának mérőszáma.",
+   "example": "Banglades a világ legsűrűbben lakott nagy országai közé tartozik, Ausztrália igen ritkán lakott.",
+   "examplePlaces": [
+    "azsia--orszagok--banglades",
+    "ausztralia-es-oceania--orszagok--ausztralia"
+   ],
+   "related": [
+    "nepessegtomorules"
+   ],
+   "tags": [
+    "népesség",
+    "számolás",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nepessegtomorules",
+   "term": "népességtömörülés (népességkoncentráció)",
+   "aliases": [
+    "népességkoncentráció",
+    "népességtömörülés"
+   ],
+   "sourceLabels": [
+    "népességtömörülés (népességkoncentráció)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "kozep",
+   "definition": "Nagy kiterjedésű, sűrűn lakott térség, ahol kedvező természeti adottságok (síkság, mérsékelt vagy monszun éghajlat, folyók) vagy gazdasági tényezők (ipar, kereskedelem) miatt a népesség tömörül.",
+   "example": "Kelet-Ázsia (Kínai-alföld), Dél-Ázsia (Hindusztáni-alföld), Európa, az USA északkeleti partvidéke.",
+   "examplePlaces": [
+    "azsia--tajak--kinai-alfold",
+    "azsia--tajak--hindusztani-alfold"
+   ],
+   "related": [
+    "nepsuruseg",
+    "megalopolisz"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "idoszakos-es-allando-nepessegmozgas",
+   "term": "időszakos és állandó népességmozgás",
+   "aliases": [],
+   "sourceLabels": [
+    "időszakos és állandó népességmozgás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A népességmozgás típusai időtartam szerint: az időszakos mozgásnál a lakóhely megmarad, az állandónál (vándorlásnál) véglegesen megváltozik.",
+   "example": "Napi ingázás (időszakos) és végleges kivándorlás (állandó).",
+   "related": [
+    "idoszakos-nepessegmozgas",
+    "allando-nepessegmozgas",
+    "migracio"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "idoszakos-nepessegmozgas",
+   "term": "időszakos népességmozgás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "idoszakos-es-allando-nepessegmozgas",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan helyváltoztatás, amely után a résztvevők visszatérnek lakóhelyükre: ingázás, idénymunka, vendégmunka, turizmus, nomád pásztorkodás.",
+   "example": "Ingázás a budapesti agglomerációból Budapestre.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapesti-agglomeracio"
+   ],
+   "related": [
+    "ingazas",
+    "vendegmunkas",
+    "allando-nepessegmozgas"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "allando-nepessegmozgas",
+   "term": "állandó népességmozgás",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "idoszakos-es-allando-nepessegmozgas",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A lakóhely végleges megváltoztatásával járó népességmozgás, vagyis a vándorlás; lehet belföldi vagy nemzetközi.",
+   "example": "Faluról városba költözés, kivándorlás más országba.",
+   "related": [
+    "belfoldi-es-nemzetkozi-vandorlas",
+    "idoszakos-nepessegmozgas"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vandorlasi-egyenleg",
+   "term": "vándorlási egyenleg",
+   "aliases": [],
+   "sourceLabels": [
+    "vándorlási egyenleg"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A bevándorlók és az elvándorlók számának különbsége egy adott területen és időszakban. Ha pozitív, vándorlási nyereségről, ha negatív, vándorlási veszteségről beszélünk; a természetes szaporodással (fogyással) együtt adja a tényleges népességváltozást.",
+   "example": "Ha egy városba 5000-en költöznek be és 3000-en el, a vándorlási egyenleg +2000 fő.",
+   "related": [
+    "termeszetes-szaporodas",
+    "ki-es-bevandorlas",
+    "nepessegfogyas"
+   ],
+   "tags": [
+    "népesség",
+    "számolás",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "interkontinentalis-vandorlas",
+   "term": "interkontinentális vándorlás",
+   "aliases": [],
+   "sourceLabels": [
+    "interkontinentális vándorlás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Földrészek közötti vándorlás. Történelmi példái az európaiak kivándorlása Amerikába és Ausztráliába, valamint az afrikaiak kényszerű elhurcolása Amerikába a rabszolga-kereskedelem idején.",
+   "example": "Ma jelentős az Afrikából és Ázsiából Európába irányuló vándorlás.",
+   "related": [
+    "nemzetkozi-vandorlas",
+    "menekult",
+    "keverekneppek"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ki-es-betelepites",
+   "term": "ki- és betelepítés",
+   "aliases": [],
+   "sourceLabels": [
+    "ki- és betelepítés"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Állami döntés alapján, szervezetten – gyakran kényszerrel – végrehajtott népességmozgás: kitelepítéskor egy csoportot eltávolítanak lakóhelyéről, betelepítéskor egy területre népességet költöztetnek.",
+   "example": "A török hódoltság után német (sváb) telepeseket telepítettek be, a második világháború után sok magyarországi németet kitelepítettek.",
+   "related": [
+    "kitelepites",
+    "betelepites",
+    "menekult"
+   ],
+   "tags": [
+    "népesség",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kitelepites",
+   "term": "kitelepítés",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ki-es-betelepites",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Egy népcsoport állami kényszerrel történő eltávolítása lakóhelyéről, gyakran az országból.",
+   "example": "A magyarországi németek egy részének kitelepítése a második világháború után.",
+   "related": [
+    "betelepites",
+    "menekult"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "betelepites",
+   "term": "betelepítés",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ki-es-betelepites",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Népesség szervezett, állami irányítású letelepítése egy (gyakran elnéptelenedett) területre.",
+   "example": "A 18. században a török hódoltság után elnéptelenedett alföldi és dél-dunántúli területekre németeket, szlovákokat, szerbeket telepítettek.",
+   "related": [
+    "kitelepites",
+    "szabalyos-alaprajzu-falu"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "menekult",
+   "term": "menekült",
+   "aliases": [],
+   "sourceLabels": [
+    "menekült"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Az a személy, aki faji, vallási, nemzeti hovatartozása, politikai meggyőződése miatti üldözés, illetve háború, fegyveres konfliktus elől kényszerül elhagyni hazáját. Védelmét nemzetközi egyezmények és az ENSZ Menekültügyi Főbiztossága (UNHCR) biztosítják.",
+   "example": "A 2022-ben kitört háború elől milliók menekültek el Ukrajnából.",
+   "examplePlaces": [
+    "europa--orszagok--ukrajna"
+   ],
+   "related": [
+    "nemzetkozi-vandorlas",
+    "nemzetkozi-voroskereszt"
+   ],
+   "tags": [
+    "népesség",
+    "globális-problémák",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vendegmunkas",
+   "term": "vendégmunkás",
+   "aliases": [],
+   "sourceLabels": [
+    "vendégmunkás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Más országban időszakosan munkát vállaló személy, aki általában a fogadó ország munkaerőhiányos, kevésbé megbecsült ágazataiban dolgozik, és keresetének egy részét hazaküldi.",
+   "example": "Az 1960-as évektől sok török vendégmunkás érkezett Németországba.",
+   "examplePlaces": [
+    "europa--orszagok--nemetorszag",
+    "azsia--orszagok--torokorszag"
+   ],
+   "related": [
+    "idoszakos-nepessegmozgas",
+    "bevandorlas"
+   ],
+   "tags": [
+    "népesség",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "agyelszivas",
+   "term": "agyelszívás (brain drain)",
+   "aliases": [
+    "brain drain",
+    "agyelszívás"
+   ],
+   "sourceLabels": [
+    "agyelszívás (brain drain)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Magasan képzett szakemberek (kutatók, orvosok, mérnökök) tömeges elvándorlása a kevésbé fejlett országokból a fejlettebbekbe a jobb kereset és munkakörülmények miatt. A kibocsátó ország elveszíti a képzésükbe fektetett tudást és pénzt.",
+   "example": "Indiai informatikusok a kaliforniai Szilícium-völgyben.",
+   "examplePlaces": [
+    "amerika--tajak--szilicium-volgy",
+    "azsia--orszagok--india"
+   ],
+   "related": [
+    "kivandorlas",
+    "nemzetkozi-vandorlas"
+   ],
+   "tags": [
+    "népesség",
+    "gazdaság",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "allamforma",
+   "term": "államforma",
+   "aliases": [],
+   "sourceLabels": [
+    "államforma"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Az állam legfőbb hatalmának megszervezési módja, elsősorban az államfő jogállása szerint. Két fő típusa a köztársaság és a monarchia.",
+   "example": "Magyarország köztársaság, Spanyolország monarchia.",
+   "related": [
+    "koztarsasag",
+    "monarchia",
+    "allam"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "koztarsasag",
+   "term": "köztársaság",
+   "aliases": [],
+   "sourceLabels": [
+    "köztársaság"
+   ],
+   "parent": "allamforma",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan államforma, amelyben az államfő (elnök) választott, és megbízatása meghatározott időre szól. Az államszervezet szerint lehet központi irányítású vagy szövetségi.",
+   "example": "Magyarország, Franciaország, az Egyesült Államok.",
+   "examplePlaces": [
+    "europa--orszagok--franciaorszag"
+   ],
+   "related": [
+    "monarchia",
+    "kozponti-iranyitasu-koztarsasag",
+    "szovetsegi-koztarsasag"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "monarchia",
+   "term": "monarchia",
+   "aliases": [
+    "királyság"
+   ],
+   "sourceLabels": [
+    "monarchia"
+   ],
+   "parent": "allamforma",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan államforma, amelynek élén uralkodó (király, császár, emír, szultán) áll, aki tisztségét általában öröklés útján, élete végéig tölti be. Lehet abszolút vagy alkotmányos.",
+   "example": "Egyesült Királyság, Japán, Szaúd-Arábia.",
+   "related": [
+    "abszolut-monarchia",
+    "alkotmanyos-monarchia",
+    "koztarsasag"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "abszolut-monarchia",
+   "term": "abszolút monarchia",
+   "aliases": [],
+   "sourceLabels": [
+    "abszolút monarchia"
+   ],
+   "parent": "monarchia",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan monarchia, amelyben az uralkodó hatalmát sem alkotmány, sem választott testület nem korlátozza érdemben; kezében összpontosul a törvényhozó és a végrehajtó hatalom.",
+   "example": "Szaúd-Arábia.",
+   "examplePlaces": [
+    "azsia--orszagok--szaud-arabia"
+   ],
+   "related": [
+    "alkotmanyos-monarchia",
+    "monarchia"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "alkotmanyos-monarchia",
+   "term": "alkotmányos monarchia",
+   "aliases": [],
+   "sourceLabels": [
+    "alkotmányos monarchia"
+   ],
+   "parent": "monarchia",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan monarchia, amelyben az uralkodó hatalmát alkotmány korlátozza: az uralkodó főként reprezentatív szerepet tölt be („uralkodik, de nem kormányoz”), a tényleges hatalmat a választott parlament és a kormány gyakorolja.",
+   "example": "Egyesült Királyság, Svédország, Spanyolország, Japán.",
+   "examplePlaces": [
+    "europa--orszagok--nagy-britannia-anglia-skocia-wales-es-eszak-irorszag-egyesult-kiralysaga",
+    "europa--orszagok--svedorszag"
+   ],
+   "related": [
+    "abszolut-monarchia",
+    "monarchia"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kozponti-iranyitasu-koztarsasag",
+   "term": "központi irányítású köztársaság",
+   "aliases": [
+    "egységes köztársaság"
+   ],
+   "sourceLabels": [
+    "központi irányítású köztársaság"
+   ],
+   "parent": "koztarsasag",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan köztársaság, amelyben nincsenek önálló törvényhozással rendelkező tagállamok: a törvényhozás és a kormányzás egy központban összpontosul, a területi egységek a központi hatalomnak alárendeltek.",
+   "example": "Magyarország, Franciaország.",
+   "examplePlaces": [
+    "europa--orszagok--franciaorszag"
+   ],
+   "related": [
+    "szovetsegi-koztarsasag",
+    "koztarsasag"
+   ],
+   "tags": [
+    "társadalom",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szovetsegi-koztarsasag",
+   "term": "szövetségi köztársaság",
+   "aliases": [
+    "föderáció"
+   ],
+   "sourceLabels": [
+    "szövetségi köztársaság"
+   ],
+   "parent": "koztarsasag",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan köztársaság, amely saját alkotmánnyal, törvényhozással és kormánnyal rendelkező tagállamokból (tartományokból) áll; a közös ügyeket (pl. külügy, honvédelem) a szövetségi kormány intézi.",
+   "example": "Egyesült Államok, Németország, Brazília.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "europa--orszagok--nemetorszag"
+   ],
+   "related": [
+    "kozponti-iranyitasu-koztarsasag",
+    "koztarsasag"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nagyrasszok",
+   "term": "nagyrasszok",
+   "aliases": [
+    "nagyrassz",
+    "europid, negrid, mongolid, veddo-ausztralid nagyrassz"
+   ],
+   "sourceLabels": [
+    "europid",
+    "negrid",
+    "mongolid",
+    "veddo-ausztralid nagyrassz"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Az emberiség hagyományos tankönyvi csoportosítása öröklődő külső testi jegyek (bőrszín, hajforma, arcforma) alapján: europid, negrid, mongolid és veddo-ausztralid nagyrassz. A különbségek csak külső, a környezethez való alkalmazkodás során kialakult jegyekre vonatkoznak, értékbeli különbséget nem jelentenek, és a csoportok között nincs éles határ.",
+   "example": "A nagyrasszok elterjedését a gyarmatosítás és a vándorlások jelentősen átrendezték, pl. Amerikában.",
+   "related": [
+    "europid",
+    "negrid",
+    "mongolid",
+    "veddo-ausztralid",
+    "keverekneppek"
+   ],
+   "tags": [
+    "népesség",
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "europid",
+   "term": "europid nagyrassz",
+   "aliases": [
+    "europid"
+   ],
+   "sourceLabels": [
+    "europid"
+   ],
+   "parent": "nagyrasszok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A nagyrasszok egyike, eredeti elterjedési területe Európa, Észak-Afrika, Délnyugat-Ázsia és Dél-Ázsia nagy része. A gyarmatosítás és a kivándorlás révén Amerikában, Ausztráliában és Dél-Afrikában is jelentős.",
+   "example": "Az európai népek, az arabok és Észak-India népeinek nagy része.",
+   "related": [
+    "nagyrasszok",
+    "negrid",
+    "mongolid"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "negrid",
+   "term": "negrid nagyrassz",
+   "aliases": [
+    "negrid"
+   ],
+   "sourceLabels": [
+    "negrid"
+   ],
+   "parent": "nagyrasszok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A nagyrasszok egyike, eredeti elterjedési területe a Szaharától délre fekvő Afrika. A rabszolga-kereskedelem következtében Amerikában (pl. a Karib-térségben, Brazíliában, az USA déli részén) is jelentős.",
+   "example": "Nigéria, Kenya népessége.",
+   "examplePlaces": [
+    "afrika--orszagok--nigeria",
+    "afrika--orszagok--kenya"
+   ],
+   "related": [
+    "nagyrasszok",
+    "europid",
+    "keverekneppek"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "mongolid",
+   "term": "mongolid nagyrassz",
+   "aliases": [
+    "mongolid"
+   ],
+   "sourceLabels": [
+    "mongolid"
+   ],
+   "parent": "nagyrasszok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A nagyrasszok egyike, elterjedési területe Kelet-, Közép-, Észak- és Délkelet-Ázsia; ide sorolják Amerika őslakóit (indiánok, inuitok) is.",
+   "example": "Kína, Japán, Mongólia népessége.",
+   "examplePlaces": [
+    "azsia--orszagok--kina",
+    "azsia--orszagok--japan"
+   ],
+   "related": [
+    "nagyrasszok",
+    "europid",
+    "keverekneppek"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "veddo-ausztralid",
+   "term": "veddo-ausztralid nagyrassz",
+   "aliases": [
+    "ausztralid"
+   ],
+   "sourceLabels": [
+    "veddo-ausztralid nagyrassz"
+   ],
+   "parent": "nagyrasszok",
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A nagyrasszok egyike; ide sorolják Ausztrália őslakóit, Srí Lanka vedda népcsoportját, valamint Dél-India, Délkelet-Ázsia és Melanézia egyes őshonos közösségeit.",
+   "example": "Ausztrália őslakói.",
+   "examplePlaces": [
+    "ausztralia-es-oceania--orszagok--ausztralia"
+   ],
+   "related": [
+    "nagyrasszok",
+    "mongolid"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "keverekneppek",
+   "term": "keveréknépek",
+   "aliases": [
+    "keveréknép"
+   ],
+   "sourceLabels": [
+    "keveréknépek"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Különböző nagyrasszokhoz tartozó népcsoportok keveredéséből kialakult népesség. Latin-Amerikában a tankönyvek a meszticeket (europid–indián), a mulattokat (europid–negrid) és a zambókat (negrid–indián) említik.",
+   "example": "Brazília és Mexikó népességének jelentős része keveredésből származik.",
+   "examplePlaces": [
+    "amerika--orszagok--brazilia",
+    "amerika--orszagok--mexiko"
+   ],
+   "related": [
+    "nagyrasszok",
+    "interkontinentalis-vandorlas"
+   ],
+   "tags": [
+    "népesség",
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "termeszeti-vallas",
+   "term": "természeti vallás",
+   "aliases": [
+    "természeti vallások",
+    "törzsi vallás"
+   ],
+   "sourceLabels": [
+    "természeti vallás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "A természeti jelenségek, erők, élőlények és az ősök szellemeinek tiszteletén alapuló hitvilág (pl. animizmus, totemizmus, sámánizmus). Elsősorban hagyományos életmódú közösségekre jellemző.",
+   "example": "Afrika trópusi területein, az Amazonas-medencében, Óceániában és Szibériában élő egyes népcsoportok.",
+   "related": [
+    "vilagvallasok",
+    "kulturalis-regio"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nyelvcsalad",
+   "term": "nyelvcsalád",
+   "aliases": [],
+   "sourceLabels": [
+    "nyelvcsalád"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Közös alapnyelvből (ősnyelvből) származó, egymással rokon nyelvek csoportja. A legtöbb beszélővel rendelkező az indoeurópai nyelvcsalád; további nagy nyelvcsaládok pl. a sino-tibeti, az afroázsiai és az uráli.",
+   "example": "A magyar az uráli nyelvcsalád finnugor ágához tartozik, rokona a finn és az észt.",
+   "examplePlaces": [
+    "europa--orszagok--finnorszag",
+    "europa--orszagok--esztorszag"
+   ],
+   "related": [
+    "vilagnyelv",
+    "hivatalos-nyelv"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kulturalis-regio",
+   "term": "kulturális régió",
+   "aliases": [
+    "kultúrkör",
+    "kultúrrégió"
+   ],
+   "sourceLabels": [
+    "kulturális régió"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.1 A népesség földrajzi jellemzői",
+   "level": "emelt",
+   "definition": "Olyan nagy térség, amelynek népességét közös vagy hasonló kulturális jegyek – vallás, nyelv, történelmi hagyomány, értékrend, életmód – kapcsolják össze.",
+   "example": "Pl. a nyugati (európai–észak-amerikai), a latin-amerikai, az iszlám, az indiai és a kelet-ázsiai kulturális régió.",
+   "related": [
+    "vilagvallasok",
+    "nyelvcsalad",
+    "iszlam"
+   ],
+   "tags": [
+    "társadalom",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ideiglenes-es-allando-telepules",
+   "term": "ideiglenes és állandó település",
+   "aliases": [],
+   "sourceLabels": [
+    "ideiglenes és állandó település"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A településeket a lakottság tartóssága szerint csoportosítjuk: az ideiglenes települést rövidebb ideig, az állandót folyamatosan lakják.",
+   "example": "Mongol jurtatábor (ideiglenes) és egy alföldi falu (állandó).",
+   "related": [
+    "ideiglenes-telepules",
+    "allando-telepules"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "ideiglenes-telepules",
+   "term": "ideiglenes település",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ideiglenes-es-allando-telepules",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Rövidebb időre, gyakran évszakosan használt, könnyen bontható vagy elhagyható lakóhelyek csoportja; főként vándorló életmódú (nomád pásztor, gyűjtögető) népekre jellemző.",
+   "example": "Nomád pásztorok sátortábora a Szahara peremén vagy jurtái Mongóliában.",
+   "related": [
+    "allando-telepules"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "allando-telepules",
+   "term": "állandó település",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "ideiglenes-es-allando-telepules",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Tartósan, folyamatosan lakott település, amely a letelepült (főként földművelő) életmód kialakulásával jött létre; lehet szórvány- vagy csoportos település.",
+   "example": "Tanyák, falvak, városok.",
+   "related": [
+    "ideiglenes-telepules",
+    "szorvanytelepules",
+    "csoportos-telepules"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "infrastruktura",
+   "term": "infrastruktúra",
+   "aliases": [],
+   "sourceLabels": [
+    "infrastruktúra"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A társadalom és a gazdaság működéséhez szükséges létesítmények és szolgáltatások összessége. Részei a műszaki (út, vasút, víz-, csatorna-, energia- és hírközlési hálózat) és a humán infrastruktúra (oktatás, egészségügy, kultúra).",
+   "example": "Egy falu infrastruktúrájához tartozik a vezetékes víz, a csatornahálózat, az iskola és az orvosi rendelő.",
+   "related": [
+    "varosiasodas",
+    "kozponti-szerepkor"
+   ],
+   "tags": [
+    "település",
+    "gazdaság",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szorvanytelepules",
+   "term": "szórványtelepülés",
+   "aliases": [],
+   "sourceLabels": [
+    "szórványtelepülés"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Egymástól elkülönülten, magányosan álló lakóhelyekből (egy-egy gazdaságból) álló település.",
+   "example": "Az alföldi tanya, az észak-amerikai farm.",
+   "examplePlaces": [
+    "magyarorszag--fo-tajegysegek--alfold"
+   ],
+   "related": [
+    "csoportos-telepules",
+    "tanya",
+    "farm"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "csoportos-telepules",
+   "term": "csoportos település",
+   "aliases": [],
+   "sourceLabels": [
+    "csoportos település"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Olyan település, amelynek lakóházai egymás közelében, tömörülten helyezkednek el.",
+   "example": "A falvak és a városok.",
+   "related": [
+    "szorvanytelepules",
+    "falu",
+    "varos"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tanya",
+   "term": "tanya",
+   "aliases": [],
+   "sourceLabels": [
+    "tanya"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Az Alföldön kialakult, a mezőgazdasági termelést szolgáló szórványtelepülés, amely egy anyatelepülés (falu, mezőváros) határában áll, és igazgatási, szolgáltatási szempontból ahhoz kötődik. Kialakulása főként a török hódoltság utáni időszakhoz köthető.",
+   "example": "Kecskemét és Szeged környéke tanyavilágáról híres.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--kecskemet",
+    "magyarorszag--telepulesek--szeged"
+   ],
+   "related": [
+    "farm",
+    "bokor-sor-es-szort-tanya",
+    "szorvanytelepules"
+   ],
+   "tags": [
+    "település",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "bokor-sor-es-szort-tanya",
+   "term": "bokor-, sor- és szórt tanya",
+   "aliases": [
+    "bokortanya",
+    "sortanya",
+    "szórt tanya"
+   ],
+   "sourceLabels": [
+    "bokor-",
+    "sor- és szórt tanya"
+   ],
+   "parent": "tanya",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A tanyák elrendeződésük szerinti típusai: a bokortanyák kis csoportokba tömörülnek, a sortanyák út vagy csatorna mentén sorakoznak, a szórt tanyák egymástól távol, szétszórtan helyezkednek el.",
+   "example": "Az alföldi tanyavilágban mindhárom típus előfordul.",
+   "examplePlaces": [
+    "magyarorszag--fo-tajegysegek--alfold"
+   ],
+   "related": [
+    "bokortanya",
+    "sortanya",
+    "szort-tanya"
+   ],
+   "tags": [
+    "település",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "bokortanya",
+   "term": "bokortanya",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "bokor-sor-es-szort-tanya",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Egymáshoz közel, kis csoportban (bokorban) álló tanyák együttese, gyakran rokon családoké.",
+   "example": "Alföldi tanyacsoport néhány családi gazdasággal.",
+   "related": [
+    "sortanya",
+    "szort-tanya"
+   ],
+   "tags": [
+    "település",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sortanya",
+   "term": "sortanya",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "bokor-sor-es-szort-tanya",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Egy út, dűlőút vagy csatorna mentén sorban elhelyezkedő tanyák együttese.",
+   "example": "Dűlőút mentén sorakozó alföldi tanyák.",
+   "related": [
+    "bokortanya",
+    "szort-tanya"
+   ],
+   "tags": [
+    "település",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szort-tanya",
+   "term": "szórt tanya",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "bokor-sor-es-szort-tanya",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Egymástól nagyobb távolságra, szétszórtan, a földterületek közepén álló magányos tanyák.",
+   "example": "A Duna–Tisza közének szórt tanyái.",
+   "related": [
+    "bokortanya",
+    "sortanya"
+   ],
+   "tags": [
+    "település",
+    "Magyarország",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "farm",
+   "term": "farm",
+   "aliases": [],
+   "sourceLabels": [
+    "farm"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Észak-Amerikában és Ausztráliában jellemző szórványtelepülés: a gazdálkodó család lakóháza és gazdasági épületei a hozzá tartozó földterületen állnak. A tanyával szemben önálló, nem kötődik anyatelepüléshez, és jellemzően gépesített, piacra termelő gazdaság.",
+   "example": "A préri búzatermelő farmjai az Egyesült Államokban és Kanadában.",
+   "examplePlaces": [
+    "amerika--orszagok--amerikai-egyesult-allamok",
+    "amerika--orszagok--kanada"
+   ],
+   "related": [
+    "tanya",
+    "szorvanytelepules"
+   ],
+   "tags": [
+    "település",
+    "mezőgazdaság",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "falu",
+   "term": "falu",
+   "aliases": [],
+   "sourceLabels": [
+    "falu"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Kisebb népességű csoportos település, amelyben hagyományosan a mezőgazdaság a meghatározó, és a központi szerepkörök (szolgáltatások, intézmények) hiányosak. Alaprajza szerint lehet szabálytalan (halmazfalu), útifalu vagy szabályos alaprajzú.",
+   "example": "Magyarország településeinek többsége falu.",
+   "related": [
+    "halmazfalu",
+    "utifalu",
+    "szabalyos-alaprajzu-falu",
+    "hagyomanyos-atalakult-es-modern-falu"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "halmazfalu",
+   "term": "szabálytalan alaprajzú falu (halmazfalu)",
+   "aliases": [
+    "halmazfalu",
+    "szabálytalan alaprajzú falu"
+   ],
+   "sourceLabels": [
+    "szabálytalan alaprajzú falu (halmazfalu)"
+   ],
+   "parent": "falu",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Tervezés nélkül, fokozatosan kialakult falu, amelynek kanyargó utcái és telkei szabálytalanul, gyakran a domborzathoz igazodva helyezkednek el.",
+   "example": "Sok dombsági és hegyvidéki falu, pl. a Zselicben.",
+   "related": [
+    "utifalu",
+    "szabalyos-alaprajzu-falu"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "utifalu",
+   "term": "útifalu",
+   "aliases": [],
+   "sourceLabels": [
+    "útifalu"
+   ],
+   "parent": "falu",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Egy út (vagy patak, völgy) két oldalán sorakozó házakból álló falu; telkei hosszúak és keskenyek.",
+   "example": "Völgyekben, folyók és utak mentén gyakori falutípus.",
+   "related": [
+    "halmazfalu",
+    "szabalyos-alaprajzu-falu"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szabalyos-alaprajzu-falu",
+   "term": "szabályos alaprajzú falu",
+   "aliases": [
+    "sakktáblás falu"
+   ],
+   "sourceLabels": [
+    "szabályos alaprajzú falu"
+   ],
+   "parent": "falu",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Tervszerűen létrehozott falu, amelynek utcái egymásra merőlegesek (sakktábla-alaprajz), telkei egyforma méretűek.",
+   "example": "A 18. századi betelepítések során alapított alföldi és bácskai falvak.",
+   "examplePlaces": [
+    "magyarorszag--fo-tajegysegek--alfold"
+   ],
+   "related": [
+    "betelepites",
+    "halmazfalu",
+    "utifalu"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hagyomanyos-atalakult-es-modern-falu",
+   "term": "hagyományos, átalakult és városias/modern falu",
+   "aliases": [],
+   "sourceLabels": [
+    "hagyományos",
+    "átalakult és városias/modern falu"
+   ],
+   "parent": "falu",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "A falvak fejlettségük és funkcióik változása szerinti típusai: a hagyományos faluban a mezőgazdaság és a hagyományos életmód meghatározó; az átalakult faluban a lakosság egy része már más ágazatban (gyakran ingázva) dolgozik; a városias (modern) falu infrastruktúrája és életmódja a városokéhoz hasonló.",
+   "example": "A budapesti agglomeráció egykori falvai többnyire városias településsé alakultak.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapesti-agglomeracio"
+   ],
+   "related": [
+    "hagyomanyos-falu",
+    "atalakult-falu",
+    "varosias-falu"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "hagyomanyos-falu",
+   "term": "hagyományos falu",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "hagyomanyos-atalakult-es-modern-falu",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Olyan falu, ahol a lakosság többsége a mezőgazdaságból él, a hagyományos építkezés, életmód és közösségi szokások megmaradtak, az infrastruktúra hiányos.",
+   "example": "A fejlődő országok sok vidéki faluja, pl. Indiában.",
+   "examplePlaces": [
+    "azsia--orszagok--india"
+   ],
+   "related": [
+    "atalakult-falu",
+    "varosias-falu"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "atalakult-falu",
+   "term": "átalakult falu",
+   "aliases": [],
+   "sourceLabels": [],
+   "parent": "hagyomanyos-atalakult-es-modern-falu",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Olyan falu, ahol a mezőgazdaság szerepe csökkent, a lakosság jelentős része iparban, szolgáltatásban dolgozik (gyakran ingázik), az életmód és a lakóházak modernizálódnak.",
+   "example": "Sok magyar falu a 20. század második felében alakult át így.",
+   "related": [
+    "hagyomanyos-falu",
+    "varosias-falu",
+    "ingazas"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "varosias-falu",
+   "term": "városias (modern) falu",
+   "aliases": [
+    "modern falu",
+    "városias falu"
+   ],
+   "sourceLabels": [],
+   "parent": "hagyomanyos-atalakult-es-modern-falu",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Olyan falu, amelynek infrastruktúrája, szolgáltatásai és lakóinak életmódja a városokéhoz hasonló; a mezőgazdaság szerepe csekély, sok lakója a közeli városba ingázik.",
+   "example": "Nagyvárosok elővárosi falvai, pl. a budapesti agglomerációban.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapesti-agglomeracio"
+   ],
+   "related": [
+    "varosiasodas",
+    "szuburbanizacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "varos",
+   "term": "város",
+   "aliases": [],
+   "sourceLabels": [
+    "város"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Nagyobb népességű, sűrűn beépített csoportos település, amelynek lakói többségükben nem a mezőgazdaságban dolgoznak, és amely központi szerepköröket lát el a környező települések számára is. Magyarországon a városi rang jogállás is.",
+   "example": "Debrecen a tiszántúli térség központja.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--debrecen"
+   ],
+   "related": [
+    "kozponti-szerepkor",
+    "falu",
+    "urbanizacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "megapolisz",
+   "term": "óriásváros (megapolisz)",
+   "aliases": [
+    "megapolisz",
+    "óriásváros"
+   ],
+   "sourceLabels": [
+    "óriásváros (megapolisz)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Több millió lakosú nagyváros (agglomerációjával együtt), amely országos vagy nemzetközi jelentőségű központ. Figyelj: ne keverd össze a megalopolisszal, amely több agglomeráció összenövése!",
+   "example": "Tokió, Mexikóváros, Sanghaj, Mumbai.",
+   "examplePlaces": [
+    "azsia--varosok--tokio",
+    "amerika--varosok--mexikovaros",
+    "azsia--varosok--sanghaj"
+   ],
+   "related": [
+    "megalopolisz",
+    "agglomeracio",
+    "vilagvaros"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "agglomeracio",
+   "term": "településhalmaz (agglomeráció)",
+   "aliases": [
+    "agglomeráció",
+    "településhalmaz"
+   ],
+   "sourceLabels": [
+    "településhalmaz (agglomeráció)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Egy nagyváros és a vele szoros funkcionális kapcsolatban (ingázás, közlekedés, szolgáltatások, közös infrastruktúra) álló, gyakran fizikailag is összenövő környező települések együttese.",
+   "example": "A budapesti agglomeráció.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapesti-agglomeracio"
+   ],
+   "related": [
+    "egykozpontu-es-sokkozpontu-agglomeracio",
+    "ingazas",
+    "szuburbanizacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "technopolisz",
+   "term": "technopolisz",
+   "aliases": [],
+   "sourceLabels": [
+    "technopolisz"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A kutatás-fejlesztésre és a csúcstechnológiai iparra szakosodott, gyakran tudatosan tervezett város vagy térség, ahol egyetemek, kutatóintézetek és high-tech vállalatok összpontosulnak.",
+   "example": "A japán Cukuba, az indiai Bengaluru, a kaliforniai Szilícium-völgy.",
+   "examplePlaces": [
+    "azsia--varosok--bengaluru-bangalore",
+    "amerika--tajak--szilicium-volgy"
+   ],
+   "related": [
+    "vilagvaros",
+    "kozponti-szerepkor"
+   ],
+   "tags": [
+    "település",
+    "ipar",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "vilagvaros",
+   "term": "világváros (globális város)",
+   "aliases": [
+    "globális város",
+    "világváros"
+   ],
+   "sourceLabels": [
+    "világváros (globális város)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A világgazdaság irányító központja: itt összpontosulnak a transznacionális vállalatok székházai, a tőzsdék, a pénzügyi és üzleti szolgáltatások, a nemzetközi szervezetek, és kulturális hatása is világméretű.",
+   "example": "New York, London, Tokió.",
+   "examplePlaces": [
+    "amerika--varosok--new-york",
+    "europa--varosok--london",
+    "azsia--varosok--tokio"
+   ],
+   "related": [
+    "megapolisz",
+    "kozponti-szerepkor"
+   ],
+   "tags": [
+    "település",
+    "globalizáció",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "varosodas",
+   "term": "városodás",
+   "aliases": [],
+   "sourceLabels": [
+    "városodás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Az urbanizáció mennyiségi oldala: a városok számának, népességének és a városi népesség arányának növekedése.",
+   "example": "Afrikában és Ázsiában ma gyors a városodás.",
+   "related": [
+    "varosiasodas",
+    "urbanizacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "varosiasodas",
+   "term": "városiasodás",
+   "aliases": [],
+   "sourceLabels": [
+    "városiasodás"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Az urbanizáció minőségi oldala: a városi életmód, infrastruktúra és szolgáltatások terjedése, a falvakban is. Figyelj: a városodás mennyiségi, a városiasodás minőségi változás!",
+   "example": "Egy faluban kiépül a csatornahálózat, megjelennek a városi szolgáltatások.",
+   "related": [
+    "varosodas",
+    "urbanizacio",
+    "infrastruktura"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urbanizacio",
+   "term": "városfejlődés (urbanizáció)",
+   "aliases": [
+    "urbanizáció",
+    "városfejlődés"
+   ],
+   "sourceLabels": [
+    "városfejlődés (urbanizáció)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A városok kialakulásának, növekedésének és átalakulásának folyamata, amely magában foglalja a városodást és a városiasodást. A fejlett országokban szakaszai: városrobbanás (koncentráció), szuburbanizáció, dezurbanizáció, reurbanizáció.",
+   "example": "Nyugat-Európában a 19. századi iparosodás indította el a gyors városfejlődést.",
+   "related": [
+    "varosodas",
+    "varosiasodas",
+    "szuburbanizacio",
+    "dezurbanizacio",
+    "reurbanizacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "varosrehabilitacio",
+   "term": "városrehabilitáció",
+   "aliases": [],
+   "sourceLabels": [
+    "városrehabilitáció"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Leromlott városrészek tervszerű megújítása: épületek felújítása, közterek, infrastruktúra korszerűsítése, gyakran új funkciók (lakás, iroda, kultúra) betelepítése.",
+   "example": "A londoni Docklands egykori kikötői negyedének megújítása.",
+   "examplePlaces": [
+    "europa--varosok--london"
+   ],
+   "related": [
+    "reurbanizacio",
+    "belso-lakohelyov",
+    "urbanizacios-artalmak"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kozponti-szerepkor",
+   "term": "központi szerepkör (központi funkció)",
+   "aliases": [
+    "központi funkció",
+    "központi szerepkör"
+   ],
+   "sourceLabels": [
+    "központi szerepkör (központi funkció)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Olyan szolgáltatás vagy intézmény (közigazgatás, oktatás, egészségügy, kereskedelem, kultúra), amelyet egy település a saját lakóin túl a környező települések (vonzáskörzete) lakóinak is nyújt.",
+   "example": "Egy megyeszékhely kórháza, egyeteme, hivatalai, pl. Pécsen.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--pecs"
+   ],
+   "related": [
+    "varos",
+    "vilagvaros"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "city",
+   "term": "belső munkahelyöv (city)",
+   "aliases": [
+    "city",
+    "belső munkahelyöv"
+   ],
+   "sourceLabels": [
+    "belső munkahelyöv (city)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A nagyváros központi része, ahol az üzleti, pénzügyi, igazgatási és kereskedelmi intézmények összpontosulnak. Nappal zsúfolt, éjjel elnéptelenedik; a magas telekárak miatt jellemzőek a felhőkarcolók.",
+   "example": "London City, New Yorkban Manhattan déli része.",
+   "examplePlaces": [
+    "europa--varosok--london",
+    "amerika--varosok--new-york"
+   ],
+   "related": [
+    "belso-lakohelyov",
+    "kulso-munkahelyov",
+    "kulso-lakohelyov"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "belso-lakohelyov",
+   "term": "belső lakóhelyöv",
+   "aliases": [],
+   "sourceLabels": [
+    "belső lakóhelyöv"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A city körül elhelyezkedő, sűrű beépítésű, régebbi (gyakran 19. századi) bérházakból álló lakóövezet; egyes részei leromlottak, ezért városrehabilitációra szorulnak.",
+   "example": "Budapesten a belső kerületek bérházövezete.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "city",
+    "kulso-munkahelyov",
+    "varosrehabilitacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kulso-munkahelyov",
+   "term": "külső munkahelyöv",
+   "aliases": [],
+   "sourceLabels": [
+    "külső munkahelyöv"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A belső lakóhelyövet övező ipari-raktározási övezet: gyárak, raktárak, logisztikai és bevásárlóközpontok, jellemzően közlekedési csomópontok (vasút, autópálya) mentén.",
+   "example": "Nagyvárosok szélén kiépült ipari parkok és logisztikai központok.",
+   "related": [
+    "belso-lakohelyov",
+    "kulso-lakohelyov",
+    "city"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kulso-lakohelyov",
+   "term": "külső lakóhelyöv",
+   "aliases": [],
+   "sourceLabels": [
+    "külső lakóhelyöv"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A város peremén elhelyezkedő lakóövezet, ahol lakótelepek, illetve kertvárosias, családi házas negyedek találhatók; átmenetet képez az agglomeráció felé.",
+   "example": "Budapest peremkerületeinek kertvárosai és lakótelepei.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "kulso-munkahelyov",
+    "szuburbanizacio",
+    "agglomeracio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "urbanizacios-artalmak",
+   "term": "urbanizációs ártalmak",
+   "aliases": [],
+   "sourceLabels": [
+    "urbanizációs ártalmak"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "A nagyvárosi életmóddal és a városok növekedésével járó környezeti és társadalmi problémák: légszennyezés (szmog), zaj, hulladék, közlekedési zsúfoltság, városklíma, lakáshiány, nyomornegyedek, bűnözés, stressz.",
+   "example": "Mexikóvárosban a medencefekvés miatt gyakori a súlyos szmog.",
+   "examplePlaces": [
+    "amerika--varosok--mexikovaros"
+   ],
+   "related": [
+    "varosklima",
+    "nyomornegyed",
+    "varosrehabilitacio"
+   ],
+   "tags": [
+    "település",
+    "környezetvédelem",
+    "globális-problémák",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nyomornegyed",
+   "term": "nyomornegyed",
+   "aliases": [],
+   "sourceLabels": [
+    "nyomornegyed"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "kozep",
+   "definition": "Nagyvárosok szegény, rossz minőségű, gyakran engedély nélkül, olcsó vagy hulladékanyagokból épült lakóterülete hiányos infrastruktúrával (víz, csatorna, áram). Főként a fejlődő országok gyorsan növő városainak peremén terjed.",
+   "example": "Rio de Janeiro favellái, Mumbai nyomornegyedei.",
+   "examplePlaces": [
+    "amerika--varosok--rio-de-janeiro",
+    "azsia--varosok--mumbai-bombay"
+   ],
+   "related": [
+    "slum",
+    "urbanizacios-artalmak",
+    "getto"
+   ],
+   "tags": [
+    "település",
+    "globális-problémák",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "slum",
+   "term": "slum",
+   "aliases": [],
+   "sourceLabels": [
+    "slum"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Angol eredetű kifejezés a nagyvárosok leromlott, túlzsúfolt, elszegényedett lakónegyedeire. Főként a fejlett országok városainak elhanyagolt belső negyedeire használják, de a fejlődő országok nyomornegyedeit is így nevezik.",
+   "example": "A 19. századi iparvárosok, pl. London munkásnegyedei.",
+   "examplePlaces": [
+    "europa--varosok--london"
+   ],
+   "related": [
+    "nyomornegyed",
+    "getto",
+    "varosrehabilitacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "getto",
+   "term": "gettó",
+   "aliases": [],
+   "sourceLabels": [
+    "gettó"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Egy etnikai, vallási vagy társadalmi csoport által elkülönülten (szegregáltan) lakott, gyakran hátrányos helyzetű városrész. Eredetileg a zsidó lakosság számára kijelölt városnegyedet jelentette.",
+   "example": "A szó a 16. századi velencei zsidónegyed nevéből ered.",
+   "examplePlaces": [
+    "europa--varosok--velence"
+   ],
+   "related": [
+    "slum",
+    "nyomornegyed"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "szuburbanizacio",
+   "term": "elővárosodás (szuburbanizáció)",
+   "aliases": [
+    "szuburbanizáció",
+    "elővárosodás"
+   ],
+   "sourceLabels": [
+    "elővárosodás (szuburbanizáció)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Az urbanizáció szakasza, amelyben a lakosság (később a munkahelyek és szolgáltatások is) a városmagból a jobb környezetet és olcsóbb telket kínáló elővárosokba, agglomerációs településekre költözik. Feltétele a fejlett közlekedés, főként a gépkocsi elterjedése.",
+   "example": "Az 1990-es évektől a budapesti agglomeráció települései gyorsan növekedtek.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapesti-agglomeracio"
+   ],
+   "related": [
+    "urbanizacio",
+    "dezurbanizacio",
+    "agglomeracio",
+    "ingazas"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "dezurbanizacio",
+   "term": "ellenvárosodás (dezurbanizáció)",
+   "aliases": [
+    "dezurbanizáció",
+    "ellenvárosodás"
+   ],
+   "sourceLabels": [
+    "ellenvárosodás (dezurbanizáció)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Az urbanizáció szakasza, amelyben már a nagyvárosi agglomeráció egészének népessége is csökken, mert a lakosság kisebb városokba, vidékre költözik.",
+   "example": "A fejlett országok egyes nagyvárosaiban az 1970–80-as években jelentkezett.",
+   "related": [
+    "szuburbanizacio",
+    "reurbanizacio",
+    "urbanizacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "reurbanizacio",
+   "term": "reurbanizáció",
+   "aliases": [
+    "újravárosodás"
+   ],
+   "sourceLabels": [
+    "reurbanizáció"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Az urbanizáció szakasza, amelyben a városközpont és a belső városrészek újra felértékelődnek, népességük ismét nő; ezt a városrehabilitáció és a szolgáltatások közelsége segíti.",
+   "example": "London és más nyugat-európai nagyvárosok megújult belső negyedei.",
+   "examplePlaces": [
+    "europa--varosok--london"
+   ],
+   "related": [
+    "varosrehabilitacio",
+    "dezurbanizacio",
+    "urbanizacio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "egykozpontu-es-sokkozpontu-agglomeracio",
+   "term": "egyközpontú és sokközpontú agglomeráció",
+   "aliases": [],
+   "sourceLabels": [
+    "egyközpontú és sokközpontú agglomeráció"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Az agglomerációk típusai aszerint, hogy egy meghatározó központ körül vagy több, hasonló súlyú város összenövésével alakultak ki.",
+   "example": "Budapest (egyközpontú) és a Ruhr-vidék (sokközpontú).",
+   "related": [
+    "egykozpontu-agglomeracio",
+    "sokkozpontu-agglomeracio",
+    "agglomeracio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "egykozpontu-agglomeracio",
+   "term": "egyközpontú agglomeráció",
+   "aliases": [
+    "monocentrikus agglomeráció"
+   ],
+   "sourceLabels": [],
+   "parent": "egykozpontu-es-sokkozpontu-agglomeracio",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Egyetlen domináns nagyváros és az attól függő, körülötte elhelyezkedő települések együttese.",
+   "example": "A budapesti, a párizsi és a londoni agglomeráció.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapesti-agglomeracio",
+    "europa--varosok--parizs"
+   ],
+   "related": [
+    "sokkozpontu-agglomeracio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "sokkozpontu-agglomeracio",
+   "term": "sokközpontú agglomeráció",
+   "aliases": [
+    "policentrikus agglomeráció"
+   ],
+   "sourceLabels": [],
+   "parent": "egykozpontu-es-sokkozpontu-agglomeracio",
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Több, közel azonos jelentőségű város és vonzáskörzetük összenövéséből létrejött településegyüttes, amelynek nincs egyetlen kiemelkedő központja.",
+   "example": "A Ruhr-vidék (pl. Dortmund, Duisburg) és a Randstad.",
+   "examplePlaces": [
+    "europa--iparvidekek--ruhr-videk",
+    "europa--varosok--dortmund",
+    "europa--varosok--duisburg"
+   ],
+   "related": [
+    "egykozpontu-agglomeracio",
+    "randstad"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "megalopolisz",
+   "term": "mamutváros (megalopolisz)",
+   "aliases": [
+    "megalopolisz",
+    "mamutváros"
+   ],
+   "sourceLabels": [
+    "mamutváros (megalopolisz)"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Több nagyvárosi agglomeráció összenövéséből kialakult, több száz kilométer hosszan húzódó, összefüggő városias övezet. Figyelj: nem azonos az egyetlen óriásvárost jelentő megapolisszal!",
+   "example": "BosWash az USA-ban, Tokaido Japánban.",
+   "related": [
+    "boswash",
+    "tokaido",
+    "megapolisz",
+    "agglomeracio"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "varosklima",
+   "term": "városklíma",
+   "aliases": [],
+   "sourceLabels": [
+    "városklíma"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "A nagyvárosok sajátos helyi éghajlata: a beépített felszín és az emberi hőtermelés miatt melegebb a környezeténél (városi hősziget), gyengébb a szél, alacsonyabb a páratartalom, a szennyező anyagok miatt gyakoribb a köd és a szmog.",
+   "example": "Nyári estéken Budapest belvárosa jóval melegebb, mint a környező vidék.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "urbanizacios-artalmak"
+   ],
+   "tags": [
+    "település",
+    "éghajlat",
+    "környezetvédelem",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "boswash",
+   "term": "BosWash",
+   "aliases": [],
+   "sourceLabels": [
+    "BosWash"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Az Egyesült Államok északkeleti partvidékén Bostontól Washingtonig húzódó megalopolisz, amely New York, Philadelphia és Baltimore agglomerációját is magába foglalja. Az ország egyik legfontosabb gazdasági, pénzügyi és politikai térsége.",
+   "example": "Neve a két végpont, Boston és Washington nevéből képzett mozaikszó.",
+   "examplePlaces": [
+    "amerika--varosok--boston",
+    "amerika--varosok--new-york",
+    "amerika--varosok--washington"
+   ],
+   "related": [
+    "megalopolisz",
+    "tokaido",
+    "vilagvaros"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "randstad",
+   "term": "Randstad",
+   "aliases": [
+    "Randstad Holland"
+   ],
+   "sourceLabels": [
+    "Randstad"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Hollandia nyugati részén, patkó (gyűrű) alakban elhelyezkedő sokközpontú városegyüttes, amelyet főként Amszterdam, Rotterdam, Hága és Utrecht alkot; közepén a mezőgazdasági hasznosítású „Zöld Szív” található.",
+   "example": "Városai munkamegosztásban működnek: Amszterdam a főváros, Hága a kormányzati, Rotterdam a kikötői központ.",
+   "examplePlaces": [
+    "europa--varosok--amszterdam",
+    "europa--varosok--rotterdam",
+    "europa--varosok--haga"
+   ],
+   "related": [
+    "sokkozpontu-agglomeracio",
+    "megalopolisz"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tokaido",
+   "term": "Tokaido",
+   "aliases": [
+    "Tokaido-megalopolisz"
+   ],
+   "sourceLabels": [
+    "Tokaido"
+   ],
+   "parent": null,
+   "topicNo": 5,
+   "subtopic": "5.2 Településtípusok, urbanizáció",
+   "level": "emelt",
+   "definition": "Japán megalopolisza Honsú szigetének csendes-óceáni partvidékén, amely Tokiótól Jokohamán és Nagoján át Oszakáig (Kóbéig) húzódik. Az ország népességének és gazdaságának jelentős része itt összpontosul.",
+   "example": "Nevét a Tokió és Kiotó közötti egykori Tokaido útról kapta.",
+   "examplePlaces": [
+    "azsia--varosok--tokio",
+    "azsia--varosok--jokohama-yokohama",
+    "azsia--varosok--oszaka-osaka"
+   ],
+   "related": [
+    "megalopolisz",
+    "boswash"
+   ],
+   "tags": [
+    "település",
+    "5-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "fao",
+   "term": "FAO",
+   "aliases": [
+    "ENSZ Élelmezésügyi és Mezőgazdasági Szervezete"
+   ],
+   "sourceLabels": [
+    "FAO"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.3 Élelmezés és egészség",
+   "level": "kozep",
+   "definition": "Az ENSZ Élelmezésügyi és Mezőgazdasági Szervezete, amely 1945-ben alakult. Célja az éhezés felszámolása, az élelmezésbiztonság és a fenntartható mezőgazdaság, halászat és erdőgazdálkodás elősegítése; adatokat gyűjt és fejlesztési programokat támogat.",
+   "example": "Székhelye Rómában van.",
+   "examplePlaces": [
+    "europa--varosok--roma"
+   ],
+   "related": [
+    "wwf",
+    "tulfogyasztas-napja"
+   ],
+   "tags": [
+    "globális-problémák",
+    "mezőgazdaság",
+    "globalizáció",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "tulfogyasztas-napja",
+   "term": "Túlfogyasztás Napja",
+   "aliases": [
+    "Earth Overshoot Day"
+   ],
+   "sourceLabels": [
+    "Túlfogyasztás Napja"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.4 A mind nagyobb méretű fogyasztás és a gazdasági növekedés következményei",
+   "level": "kozep",
+   "definition": "Az a nap, amikor az emberiség adott évi természetierőforrás-felhasználása (ökológiai lábnyoma) eléri azt a mennyiséget, amelyet a Föld abban az évben megújítani képes (biokapacitás). Utána az év végéig „hitelből”, a jövő nemzedékek kárára fogyasztunk.",
+   "example": "Évtizedek óta egyre korábbra kerül; az utóbbi években július végére–augusztus elejére esett.",
+   "related": [
+    "wwf",
+    "fao",
+    "parizsi-egyezmeny"
+   ],
+   "tags": [
+    "fenntarthatóság",
+    "globális-problémák",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "wwf",
+   "term": "WWF",
+   "aliases": [
+    "Természetvédelmi Világalap",
+    "World Wide Fund for Nature"
+   ],
+   "sourceLabels": [
+    "WWF"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.5 A környezet- és a természetvédelem feladatai, a globális béke fenntartása",
+   "level": "kozep",
+   "definition": "A Természetvédelmi Világalap, 1961-ben alapított nemzetközi, nem kormányzati természetvédelmi szervezet. Célja a biológiai sokféleség megőrzése, a veszélyeztetett fajok és élőhelyek védelme, a fenntartható erőforrás-használat elősegítése.",
+   "example": "Jelképe az óriáspanda; ismert kampánya a Föld órája.",
+   "related": [
+    "rioi-egyezmeny",
+    "tulfogyasztas-napja",
+    "fao"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "fenntarthatóság",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "rioi-egyezmeny",
+   "term": "riói egyezmény",
+   "aliases": [
+    "Biológiai Sokféleség Egyezmény",
+    "riói Föld-csúcs"
+   ],
+   "sourceLabels": [
+    "riói egyezmény"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.5 A környezet- és a természetvédelem feladatai, a globális béke fenntartása",
+   "level": "emelt",
+   "definition": "Az 1992-es Rio de Janeiró-i ENSZ Környezet és Fejlődés Konferencián (Föld-csúcs) elfogadott megállapodások, elsősorban a Biológiai Sokféleség Egyezmény; itt nyitották meg aláírásra az ENSZ Éghajlatváltozási Keretegyezményét is. A konferencia a fenntartható fejlődést tette a nemzetközi környezetpolitika alapelvévé.",
+   "example": "Az éghajlatváltozási keretegyezményre épül a későbbi Kiotói Jegyzőkönyv és a párizsi egyezmény.",
+   "examplePlaces": [
+    "amerika--varosok--rio-de-janeiro"
+   ],
+   "related": [
+    "kiotoi-jegyzokonyv",
+    "parizsi-egyezmeny",
+    "wwf"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "fenntarthatóság",
+    "globalizáció",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "kiotoi-jegyzokonyv",
+   "term": "Kiotói Jegyzőkönyv",
+   "aliases": [
+    "kiotói egyezmény"
+   ],
+   "sourceLabels": [
+    "Kiotói Jegyzőkönyv"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.5 A környezet- és a természetvédelem feladatai, a globális béke fenntartása",
+   "level": "emelt",
+   "definition": "Az ENSZ éghajlatváltozási keretegyezményéhez kapcsolódó, 1997-ben elfogadott és 2005-ben hatályba lépett nemzetközi megállapodás. A fejlett országok vállalták, hogy üvegházhatású gáz-kibocsátásukat az 1990-es szinthez képest csökkentik; bevezette a kibocsátási egységek kereskedelmét.",
+   "example": "Gyengítette, hogy az Egyesült Államok nem ratifikálta, a fejlődő országokra pedig nem írt elő kötelező csökkentést.",
+   "examplePlaces": [
+    "azsia--varosok--kioto-kyoto"
+   ],
+   "related": [
+    "parizsi-egyezmeny",
+    "rioi-egyezmeny"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "éghajlat",
+    "globális-problémák",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "parizsi-egyezmeny",
+   "term": "párizsi egyezmény",
+   "aliases": [
+    "Párizsi Megállapodás",
+    "párizsi klímaegyezmény"
+   ],
+   "sourceLabels": [
+    "párizsi egyezmény"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.5 A környezet- és a természetvédelem feladatai, a globális béke fenntartása",
+   "level": "emelt",
+   "definition": "A 2015-ben elfogadott nemzetközi éghajlatvédelmi megállapodás, amelynek célja, hogy a globális felmelegedés az iparosodás előtti szinthez képest jóval 2 °C alatt maradjon, és törekedni kell az 1,5 °C-os határra. Minden részes ország saját nemzeti kibocsátás-csökkentési vállalást tesz.",
+   "example": "A Kiotói Jegyzőkönyvvel szemben már a fejlődő országok is vállalásokat tesznek.",
+   "examplePlaces": [
+    "europa--varosok--parizs"
+   ],
+   "related": [
+    "kiotoi-jegyzokonyv",
+    "rioi-egyezmeny",
+    "tulfogyasztas-napja"
+   ],
+   "tags": [
+    "környezetvédelem",
+    "éghajlat",
+    "globális-problémák",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "nemzetkozi-voroskereszt",
+   "term": "Nemzetközi Vöröskereszt",
+   "aliases": [
+    "Vöröskereszt",
+    "Nemzetközi Vöröskereszt és Vörös Félhold Mozgalom"
+   ],
+   "sourceLabels": [
+    "Nemzetközi Vöröskereszt"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.5 A környezet- és a természetvédelem feladatai, a globális béke fenntartása",
+   "level": "emelt",
+   "definition": "Henry Dunant kezdeményezésére 1863-ban Genfben alapított, semleges és pártatlan nemzetközi humanitárius mozgalom. Segíti a háborúk sebesültjeit, hadifoglyait és polgári áldozatait, a természeti és ipari katasztrófák károsultjait; sok muszlim többségű országban Vörös Félhold néven működik.",
+   "example": "Központja Genfben van; tevékenységének alapjai a genfi egyezmények.",
+   "examplePlaces": [
+    "europa--varosok--genf"
+   ],
+   "related": [
+    "maltai-szeretetszolgalat",
+    "menekult"
+   ],
+   "tags": [
+    "globális-problémák",
+    "globalizáció",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "id": "maltai-szeretetszolgalat",
+   "term": "Máltai Szeretetszolgálat",
+   "aliases": [
+    "Magyar Máltai Szeretetszolgálat"
+   ],
+   "sourceLabels": [
+    "Máltai Szeretetszolgálat"
+   ],
+   "parent": null,
+   "topicNo": 10,
+   "subtopic": "10.5 A környezet- és a természetvédelem feladatai, a globális béke fenntartása",
+   "level": "emelt",
+   "definition": "A Máltai Lovagrend hagyományaihoz kötődő karitatív szervezet; a Magyar Máltai Szeretetszolgálatot 1989-ben alapították. Segíti a szegényeket, hajléktalanokat, fogyatékkal élőket, a hátrányos helyzetű településeken élőket, valamint a katasztrófák és háborúk áldozatait itthon és külföldön.",
+   "example": "1989 nyarán Budapesten több ezer keletnémet menekültet láttak el.",
+   "examplePlaces": [
+    "magyarorszag--telepulesek--budapest"
+   ],
+   "related": [
+    "nemzetkozi-voroskereszt",
+    "menekult"
+   ],
+   "tags": [
+    "globális-problémák",
+    "Magyarország",
+    "10-témakör"
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

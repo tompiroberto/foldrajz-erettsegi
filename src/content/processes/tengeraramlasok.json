@@ -1,0 +1,127 @@
+{
+  "id": "tengeraramlasok",
+  "title": "A tengeráramlások kialakulása",
+  "summary": "A felszíni tengeráramlásokat főként az állandó szelek hozzák létre, irányukat az eltérítő erő és a kontinensek partvonala alakítja. A meleg áramlások az Egyenlítő felől, a hideg áramlások a sarkok felől szállítanak vizet, és jelentősen módosítják a partvidékek éghajlatát.",
+  "causes": [
+    "Az állandó szelek (passzátszelek, nyugatias szelek) súrlódással magukkal sodorják a tenger felszíni vizét.",
+    "A Föld forgásából eredő eltérítő erő az áramlásokat az északi félgömbön jobbra, a déli félgömbön balra téríti el.",
+    "A kontinensek partjai elterelik az áramlásokat; a víz eltérő hőmérséklete és sótartalma miatt sűrűségkülönbségek is kialakulnak."
+  ],
+  "course": [
+    "A passzátszelek az Egyenlítő mentén nyugat felé sodorják a vizet: létrejönnek az egyenlítői áramlások.",
+    "A kontinensek keleti partjainál a víz a sarkok felé fordul: meleg áramlások alakulnak ki.",
+    "A mérsékelt övezetben a nyugatias szelek kelet felé sodorják a vizet az óceánon át.",
+    "A kontinensek nyugati partjainál a víz az Egyenlítő felé áramlik vissza: hideg áramlások alakulnak ki; így az óceánokban nagy körök (az északi félgömbön az óramutató járásával megegyező irányban) jönnek létre."
+  ],
+  "consequences": [
+    "A meleg áramlások melegítik és csapadékosabbá teszik a partvidékeket (pozitív hőmérsékleti anomália).",
+    "A hideg áramlások fölött a levegő alulról lehűl, nem emelkedik fel, ezért a partvidéken kevés a csapadék: partmenti sivatagok alakulhatnak ki.",
+    "A hideg áramlások vize tápanyagban és oxigénben gazdag, ezért gazdag halászterületek.",
+    "A tengeráramlások hőt szállítanak az Egyenlítő felől a sarkok felé, így mérséklik az övezetek közötti hőmérséklet-különbséget."
+  ],
+  "steps": [
+    {
+      "title": "Az állandó szelek sodorják a vizet",
+      "caption": "A passzátszelek és a nyugatias szelek súrlódással magukkal viszik a tenger felszíni vizét.",
+      "icon": "wind"
+    },
+    {
+      "title": "Az eltérítő erő hatása",
+      "caption": "A Föld forgása miatt az áramlások az északi félgömbön jobbra, a délin balra térülnek el.",
+      "icon": "globe"
+    },
+    {
+      "title": "A kontinensek elterelik az áramlást",
+      "caption": "A partvonalakba ütköző víz irányt változtat, így az óceánokban nagy, zárt körök alakulnak ki.",
+      "icon": "arrow-right"
+    },
+    {
+      "title": "Meleg áramlások a sarkok felé",
+      "caption": "Az Egyenlítő felől érkező meleg víz a kontinensek keleti partjai mentén a sarkok felé áramlik.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Hideg áramlások az Egyenlítő felé",
+      "caption": "A magasabb szélességekről érkező hideg víz a kontinensek nyugati partjai mentén az Egyenlítő felé áramlik.",
+      "icon": "snowflake"
+    },
+    {
+      "title": "Éghajlatmódosító hatás",
+      "caption": "A meleg áramlások enyhítik és csapadékosabbá teszik, a hideg áramlások hűtik és szárazabbá teszik a partvidék éghajlatát.",
+      "icon": "cloud-rain"
+    },
+    {
+      "title": "Gazdasági jelentőség",
+      "caption": "A hideg áramlások tápanyagban gazdag vize kiváló halászterület; a meleg áramlások jégmentesen tartják a kikötőket.",
+      "icon": "fish"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Golf-áramlás és folytatása, az Észak-atlanti-áramlás enyhe teleket okoz Nyugat- és Észak-Európában; Norvégia partjai és Murmanszk kikötője télen is jégmentes.",
+      "places": [
+        "fold--tengeraramlasok--golf-aramlas",
+        "fold--tengeraramlasok--eszak-atlanti-aramlas",
+        "europa--orszagok--norvegia",
+        "europa--varosok--murmanszk"
+      ]
+    },
+    {
+      "text": "A hideg Labrador-áramlás miatt a Labrador-félsziget sokkal hidegebb, mint az azonos szélességen fekvő Nyugat-Európa.",
+      "places": [
+        "fold--tengeraramlasok--labrador-aramlas",
+        "amerika--tajak--labrador-felsziget"
+      ]
+    },
+    {
+      "text": "A hideg Humboldt-áramlás hozzájárul az Atacama-sivatag kialakulásához, vize pedig gazdag halászterület.",
+      "places": [
+        "fold--tengeraramlasok--humboldt-aramlas",
+        "amerika--tajak--atacama-sivatag"
+      ]
+    },
+    {
+      "text": "A hideg Benguela-áramlás mentén alakult ki a Namib-sivatag.",
+      "places": [
+        "fold--tengeraramlasok--benguela-aramlas",
+        "afrika--tajak--namib-sivatag"
+      ]
+    }
+  ],
+  "concepts": [
+    "hideg és meleg tengeráramlás",
+    "óceáni vízkörzés",
+    "pozitív és negatív hőmérsékleti anomália",
+    "hűtő-fűtő hatás",
+    "passzátszelek",
+    "nyugatias szelek"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a felszíni tengeráramlások kialakulását és éghajlatmódosító hatását! Hozz egy-egy példát meleg és hideg tengeráramlásra!",
+    "elements": [
+      {
+        "text": "Az állandó szelek (passzát, nyugatias) sodorják a felszíni vizet.",
+        "points": 2
+      },
+      {
+        "text": "Az eltérítő erő és a kontinensek partjai alakítják az áramlások irányát, nagy körök jönnek létre.",
+        "points": 2
+      },
+      {
+        "text": "A meleg áramlás az Egyenlítő felől a sarkok felé halad, melegíti, csapadékosabbá teszi a partvidéket.",
+        "points": 2
+      },
+      {
+        "text": "A hideg áramlás a sarkok felől az Egyenlítő felé halad, hűti, szárítja a partvidéket (partmenti sivatag).",
+        "points": 2
+      },
+      {
+        "text": "Helyes példák: pl. Golf-áramlás (meleg), Humboldt-, Benguela- vagy Labrador-áramlás (hideg).",
+        "points": 2
+      }
+    ],
+    "modelAnswer": "A felszíni tengeráramlásokat főként az állandó szelek, a passzátszelek és a nyugatias szelek hozzák létre, amelyek súrlódással magukkal sodorják a tenger felszíni vizét. Az áramlások irányát a Föld forgásából eredő eltérítő erő és a kontinensek partvonala alakítja, így az óceánokban nagy körök jönnek létre. A meleg áramlások az Egyenlítő felől a sarkok felé szállítják a vizet, és melegítik, csapadékosabbá teszik a partvidéket; ilyen a Golf-áramlás, amely enyhe telet okoz Nyugat- és Észak-Európában. A hideg áramlások a sarkok felől az Egyenlítő felé haladnak, fölöttük a levegő alulról lehűl és nem emelkedik fel, ezért hűtik és szárítják a partvidéket. Ilyen a Humboldt-áramlás, amely hozzájárul az Atacama-sivatag kialakulásához, de tápanyagban gazdag vize kiváló halászterület."
+  },
+  "generated": true,
+  "reviewed": false
+}

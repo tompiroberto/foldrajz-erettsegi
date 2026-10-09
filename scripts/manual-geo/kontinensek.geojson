@@ -1,0 +1,1643 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--tajak--afrikai-arokrendszer",
+    "name": "Afrikai-árokrendszer",
+    "confidence": "medium",
+    "note": "Keleti ág: Afar – Etióp-árok – Turkana – Kenyai-árok; nyugati (Albert-) ág: Albert-tó – Kivu – Tanganyika – Malawi-tó"
+   },
+   "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [
+     [
+      [
+       40.5,
+       11.5
+      ],
+      [
+       39.6,
+       9.2
+      ],
+      [
+       38.6,
+       7.6
+      ],
+      [
+       37.6,
+       6
+      ],
+      [
+       36.4,
+       4.4
+      ],
+      [
+       36.6,
+       2.6
+      ],
+      [
+       36.1,
+       0.6
+      ],
+      [
+       36.4,
+       -0.9
+      ],
+      [
+       36,
+       -2.4
+      ],
+      [
+       35.8,
+       -3.8
+      ],
+      [
+       35.6,
+       -5.8
+      ]
+     ],
+     [
+      [
+       31.4,
+       2.3
+      ],
+      [
+       30.6,
+       1.3
+      ],
+      [
+       29.7,
+       -0.3
+      ],
+      [
+       29.2,
+       -1.8
+      ],
+      [
+       29.2,
+       -3.4
+      ],
+      [
+       29.6,
+       -5.5
+      ],
+      [
+       30.6,
+       -7.4
+      ],
+      [
+       31.2,
+       -8.6
+      ],
+      [
+       33,
+       -9.3
+      ],
+      [
+       34,
+       -9.7
+      ],
+      [
+       34.4,
+       -11.5
+      ],
+      [
+       34.6,
+       -13.4
+      ],
+      [
+       35.3,
+       -14.4
+      ],
+      [
+       35.2,
+       -16.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--tajak--del-afrikai-magasfold",
+    "name": "Dél-afrikai-magasföld",
+    "confidence": "medium",
+    "note": "A Nagy-peremhegység (Drakensberg) által övezett belső fennsík: Highveld, Kalahári-medence, Zimbabwei-magasföld"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       19,
+       -32
+      ],
+      [
+       22,
+       -32.8
+      ],
+      [
+       25.5,
+       -32.5
+      ],
+      [
+       27.5,
+       -31
+      ],
+      [
+       29,
+       -29.5
+      ],
+      [
+       30,
+       -27.5
+      ],
+      [
+       30.8,
+       -25.5
+      ],
+      [
+       31,
+       -22.5
+      ],
+      [
+       32,
+       -19.5
+      ],
+      [
+       31,
+       -17
+      ],
+      [
+       28.5,
+       -16
+      ],
+      [
+       25,
+       -17.5
+      ],
+      [
+       21,
+       -18
+      ],
+      [
+       17.5,
+       -18.5
+      ],
+      [
+       15.3,
+       -19.5
+      ],
+      [
+       15.5,
+       -22.5
+      ],
+      [
+       16,
+       -25.5
+      ],
+      [
+       17,
+       -28.5
+      ],
+      [
+       18,
+       -30.5
+      ],
+      [
+       19,
+       -32
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--tajak--kelet-afrikai-magasfold",
+    "name": "Kelet-afrikai-magasföld",
+    "confidence": "medium",
+    "note": "Uganda, Kenya és Tanzánia magasföldje az árokágak között és mentén; az Etióp-magasföld nélkül"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31,
+       3.5
+      ],
+      [
+       31,
+       2.5
+      ],
+      [
+       30.3,
+       1
+      ],
+      [
+       29.8,
+       -1
+      ],
+      [
+       30.5,
+       -2.5
+      ],
+      [
+       30.5,
+       -5
+      ],
+      [
+       31,
+       -8.5
+      ],
+      [
+       33.5,
+       -9
+      ],
+      [
+       36,
+       -9
+      ],
+      [
+       37.5,
+       -7
+      ],
+      [
+       38,
+       -4.5
+      ],
+      [
+       38.5,
+       -2.5
+      ],
+      [
+       38.5,
+       0
+      ],
+      [
+       38.5,
+       3
+      ],
+      [
+       36.5,
+       4
+      ],
+      [
+       34,
+       4.5
+      ],
+      [
+       31,
+       3.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--tajak--szudan",
+    "name": "Szudán",
+    "confidence": "low",
+    "note": "Szudáni szavannaöv kb. É 8–14° között Szenegáltól Etiópiáig (nem az ország); határa átmeneti"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -13,
+       10.5
+      ],
+      [
+       -10,
+       9
+      ],
+      [
+       -5,
+       8.5
+      ],
+      [
+       0,
+       8.5
+      ],
+      [
+       5,
+       8.5
+      ],
+      [
+       10,
+       7.5
+      ],
+      [
+       15,
+       7.5
+      ],
+      [
+       20,
+       7
+      ],
+      [
+       25,
+       6.5
+      ],
+      [
+       30,
+       7
+      ],
+      [
+       33.5,
+       8
+      ],
+      [
+       35.5,
+       12.5
+      ],
+      [
+       30,
+       13.5
+      ],
+      [
+       25,
+       13
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       15,
+       13
+      ],
+      [
+       10,
+       13.5
+      ],
+      [
+       5,
+       13.5
+      ],
+      [
+       0,
+       13.5
+      ],
+      [
+       -5,
+       13.5
+      ],
+      [
+       -10,
+       13.5
+      ],
+      [
+       -15,
+       13.5
+      ],
+      [
+       -16.6,
+       12.5
+      ],
+      [
+       -15.5,
+       11.5
+      ],
+      [
+       -13,
+       10.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--tajak--szahel-szahel-ov",
+    "name": "Száhel (Száhel-öv)",
+    "confidence": "medium",
+    "note": "Félsivatagi átmeneti öv a Szahara déli peremén, kb. É 12–18°, Szenegáltól Szudánig"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -16.5,
+       14
+      ],
+      [
+       -16,
+       13.5
+      ],
+      [
+       -12,
+       13
+      ],
+      [
+       -8,
+       13
+      ],
+      [
+       -4,
+       13
+      ],
+      [
+       0,
+       13
+      ],
+      [
+       4,
+       13
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       12,
+       13
+      ],
+      [
+       16,
+       12.5
+      ],
+      [
+       20,
+       12.5
+      ],
+      [
+       24,
+       12.5
+      ],
+      [
+       28,
+       12.5
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       36,
+       14
+      ],
+      [
+       35.5,
+       16
+      ],
+      [
+       32,
+       16.5
+      ],
+      [
+       28,
+       16.5
+      ],
+      [
+       24,
+       16.5
+      ],
+      [
+       20,
+       16.5
+      ],
+      [
+       16,
+       16.5
+      ],
+      [
+       12,
+       17
+      ],
+      [
+       8,
+       17.5
+      ],
+      [
+       4,
+       18
+      ],
+      [
+       0,
+       17.5
+      ],
+      [
+       -4,
+       17
+      ],
+      [
+       -8,
+       17
+      ],
+      [
+       -12,
+       17.5
+      ],
+      [
+       -16,
+       17.5
+      ],
+      [
+       -16.4,
+       16
+      ],
+      [
+       -17.1,
+       14.8
+      ],
+      [
+       -16.5,
+       14
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--tajak--teleki-vulkan",
+    "name": "Teleki-vulkán",
+    "confidence": "high",
+    "note": "Teleki-vulkán a Turkana-tó déli végénél, Kenya (Teleki Sámuelről elnevezve)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.6,
+     2.43
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--vizrajz--szuezi-csatorna",
+    "name": "Szuezi-csatorna",
+    "confidence": "high",
+    "note": "Port Saidtól a Timsah-tavon és a Keserű-tavakon át Szuezig"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      32.31,
+      31.26
+     ],
+     [
+      32.32,
+      30.85
+     ],
+     [
+      32.31,
+      30.7
+     ],
+     [
+      32.3,
+      30.57
+     ],
+     [
+      32.37,
+      30.42
+     ],
+     [
+      32.4,
+      30.33
+     ],
+     [
+      32.48,
+      30.22
+     ],
+     [
+      32.55,
+      30.1
+     ],
+     [
+      32.565,
+      29.94
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afrika--vizrajz--asszuani-gat-asszuani-nagy-gat",
+    "name": "Asszuáni-gát (asszuáni Nagy-gát)",
+    "confidence": "high",
+    "note": "Asszuáni Nagy-gát a Níluson, a Nasszer-tó északi végén"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.878,
+     23.97
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--tajak--kordillerak",
+    "name": "Kordillerák",
+    "confidence": "low",
+    "note": "Észak-amerikai Kordillerák Alaszkától Mexikóig (Brooks-hg. – Sziklás-hg. – Sierra Madre), a partvonalon belül"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -162,
+       68
+      ],
+      [
+       -162,
+       64
+      ],
+      [
+       -160,
+       61
+      ],
+      [
+       -153,
+       61.5
+      ],
+      [
+       -146,
+       62
+      ],
+      [
+       -138,
+       60.2
+      ],
+      [
+       -133,
+       58.5
+      ],
+      [
+       -128,
+       54
+      ],
+      [
+       -123,
+       50
+      ],
+      [
+       -123.4,
+       46
+      ],
+      [
+       -123.5,
+       42
+      ],
+      [
+       -122.5,
+       38.5
+      ],
+      [
+       -121,
+       36
+      ],
+      [
+       -118.5,
+       34.4
+      ],
+      [
+       -116,
+       32.6
+      ],
+      [
+       -112,
+       31
+      ],
+      [
+       -109,
+       28
+      ],
+      [
+       -106,
+       24
+      ],
+      [
+       -105,
+       20.5
+      ],
+      [
+       -101,
+       18.5
+      ],
+      [
+       -97.5,
+       17
+      ],
+      [
+       -97,
+       18.5
+      ],
+      [
+       -99,
+       21
+      ],
+      [
+       -102,
+       26
+      ],
+      [
+       -105.5,
+       31
+      ],
+      [
+       -105,
+       36
+      ],
+      [
+       -105,
+       41
+      ],
+      [
+       -112,
+       48
+      ],
+      [
+       -116,
+       52
+      ],
+      [
+       -123,
+       58
+      ],
+      [
+       -128,
+       64
+      ],
+      [
+       -136,
+       67
+      ],
+      [
+       -141,
+       69.3
+      ],
+      [
+       -162,
+       68
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--tajak--mississippi-alfold",
+    "name": "Mississippi-alföld",
+    "confidence": "low",
+    "note": "Az alsó Mississippi hordalékos síksága és a Mexikói-öböl menti parti alföld"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -89.5,
+       37
+      ],
+      [
+       -90,
+       37.2
+      ],
+      [
+       -91,
+       36
+      ],
+      [
+       -91.5,
+       34.5
+      ],
+      [
+       -93,
+       33
+      ],
+      [
+       -94.5,
+       31.8
+      ],
+      [
+       -96.5,
+       30.5
+      ],
+      [
+       -95.3,
+       29.9
+      ],
+      [
+       -93.5,
+       29.9
+      ],
+      [
+       -91.5,
+       29.7
+      ],
+      [
+       -89.8,
+       29.6
+      ],
+      [
+       -89.6,
+       30.4
+      ],
+      [
+       -88.6,
+       30.6
+      ],
+      [
+       -88,
+       31
+      ],
+      [
+       -88.5,
+       33
+      ],
+      [
+       -88.5,
+       35.5
+      ],
+      [
+       -89.5,
+       37
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--tajak--mount-st-helens",
+    "name": "Mount St. Helens",
+    "confidence": "high",
+    "note": "Mount St. Helens rétegvulkán, Washington állam (1980-as kitörés)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18,
+     46.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--tajak--parana-alfold",
+    "name": "Paraná-alföld",
+    "confidence": "low",
+    "note": "Gran Chaco és Pampa a Paraná–Paraguay mentén, az Andok előtere nélkül"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -63.5,
+       -20
+      ],
+      [
+       -64,
+       -22.5
+      ],
+      [
+       -64.5,
+       -26
+      ],
+      [
+       -63.5,
+       -29.5
+      ],
+      [
+       -64.3,
+       -33
+      ],
+      [
+       -65,
+       -36
+      ],
+      [
+       -62,
+       -38.5
+      ],
+      [
+       -58.5,
+       -37.5
+      ],
+      [
+       -57.6,
+       -35.5
+      ],
+      [
+       -58.6,
+       -34.2
+      ],
+      [
+       -58.5,
+       -33
+      ],
+      [
+       -59,
+       -30
+      ],
+      [
+       -58.5,
+       -27.5
+      ],
+      [
+       -57.5,
+       -25
+      ],
+      [
+       -58,
+       -20.5
+      ],
+      [
+       -60,
+       -19.5
+      ],
+      [
+       -63.5,
+       -20
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--tajak--szilicium-volgy",
+    "name": "Szilícium-völgy",
+    "confidence": "medium",
+    "note": "Santa Clara-völgy (Sunnyvale – Santa Clara – San José), Kalifornia; a terület középpontja"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99,
+     37.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--tajak--yellowstone-nemzeti-park",
+    "name": "Yellowstone Nemzeti Park",
+    "confidence": "medium",
+    "note": "Yellowstone NP, főként Wyoming ÉNy-i sarkában (Ny 109,8–111,2°, É 44,1–45,1°)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -111.06,
+       44.13
+      ],
+      [
+       -110.4,
+       44.13
+      ],
+      [
+       -109.83,
+       44.13
+      ],
+      [
+       -109.83,
+       44.6
+      ],
+      [
+       -110,
+       45.11
+      ],
+      [
+       -110.7,
+       45.11
+      ],
+      [
+       -111.06,
+       45.11
+      ],
+      [
+       -111.15,
+       44.6
+      ],
+      [
+       -111.06,
+       44.13
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--vizrajz--panama-csatorna",
+    "name": "Panama-csatorna",
+    "confidence": "high",
+    "note": "Colóntól (Limón-öböl) a Gatún-tavon és a Culebra-átvágáson át Panamaváros (Balboa) felé"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -79.92,
+      9.37
+     ],
+     [
+      -79.92,
+      9.27
+     ],
+     [
+      -79.85,
+      9.18
+     ],
+     [
+      -79.69,
+      9.12
+     ],
+     [
+      -79.65,
+      9.05
+     ],
+     [
+      -79.61,
+      9.02
+     ],
+     [
+      -79.59,
+      9
+     ],
+     [
+      -79.57,
+      8.95
+     ],
+     [
+      -79.53,
+      8.88
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--vizrajz--itaipu-gat",
+    "name": "Itaipu-gát",
+    "confidence": "high",
+    "note": "Itaipu-gát a Paranán, Brazília–Paraguay határán"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -54.588,
+     -25.408
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "amerika--vizrajz--krater-to",
+    "name": "Kráter-tó",
+    "confidence": "high",
+    "note": "Kráter-tó (Crater Lake), Oregon – a Mazama vulkán kalderája"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.108,
+     42.94
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "azsia--a-foldresz-reszei--eszak-azsia",
+    "name": "Észak-Ázsia",
+    "confidence": "medium",
+    "note": "Szibéria: Oroszország az Uráltól keletre; a 180°-on túli csukcs csücsök lehagyva"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       66,
+       68.6
+      ],
+      [
+       59.5,
+       64
+      ],
+      [
+       59,
+       58
+      ],
+      [
+       59.5,
+       54
+      ],
+      [
+       60.5,
+       51
+      ],
+      [
+       69,
+       54.5
+      ],
+      [
+       76,
+       53.5
+      ],
+      [
+       80,
+       51
+      ],
+      [
+       87.5,
+       49.5
+      ],
+      [
+       98,
+       50.5
+      ],
+      [
+       107,
+       50.2
+      ],
+      [
+       116,
+       49.6
+      ],
+      [
+       121,
+       53.3
+      ],
+      [
+       128,
+       49.5
+      ],
+      [
+       135,
+       48.5
+      ],
+      [
+       131.5,
+       43.3
+      ],
+      [
+       136,
+       45
+      ],
+      [
+       140.4,
+       50.5
+      ],
+      [
+       140.7,
+       53.1
+      ],
+      [
+       138.2,
+       56.5
+      ],
+      [
+       143.2,
+       59.4
+      ],
+      [
+       150.8,
+       59.6
+      ],
+      [
+       156.2,
+       57.8
+      ],
+      [
+       156.6,
+       51
+      ],
+      [
+       162.5,
+       56.2
+      ],
+      [
+       170,
+       60.2
+      ],
+      [
+       177.5,
+       64.7
+      ],
+      [
+       180,
+       65
+      ],
+      [
+       180,
+       68.9
+      ],
+      [
+       160,
+       69.7
+      ],
+      [
+       140,
+       72.5
+      ],
+      [
+       113,
+       73.6
+      ],
+      [
+       104,
+       77.7
+      ],
+      [
+       81,
+       73.5
+      ],
+      [
+       73,
+       68
+      ],
+      [
+       66,
+       68.6
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "azsia--a-foldresz-reszei--belso-azsia",
+    "name": "Belső-Ázsia",
+    "confidence": "low",
+    "note": "Mongólia, Tibet, Tarim- és Dzsungáriai-medence; a Himalája és a Pamír határolja"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.5,
+       39.5
+      ],
+      [
+       75,
+       36.5
+      ],
+      [
+       79,
+       32
+      ],
+      [
+       81.5,
+       30
+      ],
+      [
+       85,
+       28.5
+      ],
+      [
+       89,
+       28
+      ],
+      [
+       92,
+       28
+      ],
+      [
+       95,
+       29
+      ],
+      [
+       98,
+       28.5
+      ],
+      [
+       102,
+       30
+      ],
+      [
+       102,
+       34
+      ],
+      [
+       103,
+       36
+      ],
+      [
+       104,
+       38
+      ],
+      [
+       107,
+       40
+      ],
+      [
+       112,
+       42
+      ],
+      [
+       116,
+       43
+      ],
+      [
+       119.5,
+       47
+      ],
+      [
+       116,
+       49.8
+      ],
+      [
+       107,
+       50.3
+      ],
+      [
+       98,
+       50.5
+      ],
+      [
+       90,
+       50.5
+      ],
+      [
+       87.5,
+       49.2
+      ],
+      [
+       85,
+       47.5
+      ],
+      [
+       82.5,
+       45.5
+      ],
+      [
+       80,
+       44.5
+      ],
+      [
+       77,
+       41.5
+      ],
+      [
+       75.5,
+       40.6
+      ],
+      [
+       73.5,
+       39.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "azsia--tajak--del-kinai-hegyvidek",
+    "name": "Dél-kínai-hegyvidék",
+    "confidence": "low",
+    "note": "A Jangce alsó szakaszától délre: Nanling, Vujiszan, Csiangnani-dombság; a Jünnan–Kujcsou-fennsíktól keletre"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.5,
+       30
+      ],
+      [
+       119,
+       30.3
+      ],
+      [
+       118,
+       29.5
+      ],
+      [
+       116.5,
+       28.3
+      ],
+      [
+       115,
+       29.4
+      ],
+      [
+       113.5,
+       28.5
+      ],
+      [
+       111.5,
+       28.8
+      ],
+      [
+       110,
+       27.5
+      ],
+      [
+       108.5,
+       25.5
+      ],
+      [
+       108,
+       23.5
+      ],
+      [
+       109.5,
+       22.5
+      ],
+      [
+       111.5,
+       22.3
+      ],
+      [
+       113.5,
+       23.4
+      ],
+      [
+       115.5,
+       23
+      ],
+      [
+       117.5,
+       24.2
+      ],
+      [
+       119.3,
+       26.3
+      ],
+      [
+       121.3,
+       28.5
+      ],
+      [
+       120.5,
+       30
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "azsia--tajak--irani-felfold",
+    "name": "Iráni-felföld",
+    "confidence": "medium",
+    "note": "Zagrosz, Elburz, Kopet-dag, Hindukus, Szulejmán-hg. és a Makrán-part övezte felföld (Irán, Afganisztán, Beludzsisztán)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       46,
+       36.5
+      ],
+      [
+       46,
+       35
+      ],
+      [
+       47.5,
+       33
+      ],
+      [
+       49.5,
+       30.8
+      ],
+      [
+       51.5,
+       28.8
+      ],
+      [
+       54,
+       27.5
+      ],
+      [
+       57.5,
+       27.2
+      ],
+      [
+       59,
+       25.8
+      ],
+      [
+       63,
+       25.6
+      ],
+      [
+       66.5,
+       25.7
+      ],
+      [
+       67,
+       27.5
+      ],
+      [
+       69,
+       29.5
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       71,
+       34.8
+      ],
+      [
+       69.5,
+       35.8
+      ],
+      [
+       65,
+       36
+      ],
+      [
+       62,
+       36
+      ],
+      [
+       59,
+       37.6
+      ],
+      [
+       56,
+       37.3
+      ],
+      [
+       53,
+       36.2
+      ],
+      [
+       49.5,
+       36.6
+      ],
+      [
+       46,
+       36.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "azsia--vizrajz--bering-szoros",
+    "name": "Bering-szoros",
+    "confidence": "high",
+    "note": "Bering-szoros a Diomédesz-szigeteknél (Dezsnyov-fok és Prince of Wales-fok között)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -168.9,
+     65.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "azsia--vizrajz--harom-szurdok-gat",
+    "name": "Három-szurdok-gát",
+    "confidence": "high",
+    "note": "Három-szurdok-gát a Jangcén, Szandoupingnál (Jicsang mellett)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.003,
+     30.823
+    ]
+   }
+  }
+ ]
+}

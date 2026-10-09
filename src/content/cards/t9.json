@@ -1,0 +1,3144 @@
+{
+ "cards": [
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k1",
+   "explanation": "A topográfiai feladatokban a nagytájat, folyót, országot először a térképen kell megtalálnod, aztán jellemezned is.\n\nÍgy építsd fel a tanulást kontinensenként:\n- Ázsia: Himalája, Tibet, Góbi, Takla-Makán, Hindusztáni-alföld, Kínai-alföld; folyók: Jangce, Sárga-folyó, Gangesz, Indus, Mekong, Ob, Jenyiszej, Léna.\n- Afrika: Szahara, Száhel (Száhel-öv), Kongó-medence, Kelet-afrikai-magasföld, Afrikai-árokrendszer; Nílus, Kongó, Niger, Zambézi; Viktória-tó.\n- Amerika: Kordillerák, Sziklás-hegység, Appalache-hegység, Préri, Mississippi-alföld, Andok, Amazonas-medence, Brazil-felföld; Nagy-tavak.\n- Ausztrália: Nagy-Vízválasztó-hegység, Nagy-Artézi-medence, Murray.\n\nAz országokhoz mindig tanuld meg a fővárost és a gazdasági központot is, mert gyakran nem ugyanaz: Kanada – Ottawa és Toronto, Brazília – Brazíliaváros és São Paulo, Ausztrália – Canberra és Sydney, Nigéria – Abuja és Lagos, Törökország – Ankara és Isztambul.\n\nJellemzésnél mindig kösd össze a fekvést (fokhálózat, szomszédok), a domborzatot, az éghajlatot és a gazdasági szerepet.",
+   "diagram": null,
+   "concepts": [
+    "tényleges és viszonylagos földrajzi fekvés",
+    "gyűrthegység",
+    "ősföld (ősmasszívum)",
+    "jövevényfolyó"
+   ],
+   "processes": [],
+   "examTip": "Gyakori hiba, hogy a legnagyobb várost tartják fővárosnak: Sydney, Toronto, São Paulo, Isztambul, Lagos egyike sem főváros.",
+   "selfCheck": [
+    {
+     "q": "Mi Ausztrália fővárosa és legnagyobb városa?",
+     "a": "Főváros Canberra, legnagyobb város Sydney."
+    },
+    {
+     "q": "Melyik nagy folyó ered a Kelet-afrikai-magasföldről és szeli át a Szaharát?",
+     "a": "A Nílus, amely jövevényfolyóként jut át a sivatagon."
+    },
+    {
+     "q": "Melyik hegység választja el Észak-Amerika keleti partvidékét a belső síkságoktól?",
+     "a": "Az Appalache-hegység."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Nigéria fővárosa Abuja, legnagyobb városa Lagos.",
+     "true": true
+    },
+    {
+     "statement": "Kanada fővárosa Toronto.",
+     "true": false,
+     "correction": "Kanada fővárosa Ottawa; Toronto a legnagyobb város és gazdasági központ."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k2",
+   "explanation": "Az erőforrás lehet természeti (ásványkincs, víz, talaj, erdő, napfény) és társadalmi (munkaerő, tudás, tőke).\n\nPéldák kontinensenként:\n- Ázsia: kőolaj és földgáz a Perzsa (Arab)-öböl térségében és Szibériában; kőszén Kínában és Indiában; óriási munkaerő-tartalék.\n- Afrika: kőolaj Nigériában, Líbiában, Algériában; arany, platina, gyémánt a Dél-afrikai Köztársaságban; trópusi faanyag a Kongó-medencében.\n- Amerika: kőolaj a Mexikói-öbölben és Venezuelában; vasérc Brazíliában; réz Chilében; termékeny préri- és pampatalaj; az Amazonas-medence erdei.\n- Ausztrália: vasérc, bauxit, kőszén, arany; artézi víz a Nagy-Artézi-medencében.\n- Antarktika: hatalmas édesvízkészlet a jégtakaróban, de nemzetközi egyezmény védi.\n\nFontos: az erőforrás akkor válik gazdasági értékké, ha kitermelhető, szállítható és van rá kereslet. Sok fejlődő ország nyersanyagban gazdag, mégis szegény, mert csak a nyersanyagot exportálja, a feldolgozás haszna máshol jelenik meg.",
+   "diagram": null,
+   "concepts": [
+    "természeti erőforrás",
+    "társadalmi (humán) erőforrás",
+    "ásványi nyersanyag",
+    "kőolaj",
+    "vasérc",
+    "bauxit"
+   ],
+   "processes": [],
+   "examTip": "Mindig konkrét ország–nyersanyag párost írj (pl. Chile – réz, Brazília – vasérc), az általános „sok ásványkincs” nem ér pontot.",
+   "selfCheck": [
+    {
+     "q": "Mondj két afrikai kőolajtermelő országot!",
+     "a": "Pl. Nigéria, Líbia, Algéria."
+    },
+    {
+     "q": "Mi a társadalmi (humán) erőforrás?",
+     "a": "A népesség munkaereje, képzettsége, tudása, amelyet a gazdaság hasznosít."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ausztrália jelentős vasérc- és bauxitexportőr.",
+     "true": true
+    },
+    {
+     "statement": "Az Antarktika ásványkincseit ma szabadon bányászhatja bármely állam.",
+     "true": false,
+     "correction": "Az Antarktiszi Szerződés rendszere (környezetvédelmi jegyzőkönyve) tiltja a bányászatot; a kontinens a tudományos kutatásé."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k3",
+   "explanation": "A tematikus térképen a nagyszerkezeti egységek és az ásványkincs-jelek egymásra illeszthetők. Ezt az összefüggést kell felismerned.\n\n- Ősföldek (ősmasszívumok): magmás és átalakult kőzetek, ezért ércekben (vasérc, arany, gyémánt, urán) gazdagok. Példák: Kanadai-ősföld, Brazil-ősföld, Afrikai-ősföld (Dél-afrikai Köztársaság), Nyugat-ausztráliai-ősföld.\n- Fedett ősmasszívumok, táblás vidékek, süllyedékek: vastag üledéktakaró, ezért kőolaj, földgáz, kőszén. Példák: Arab-félsziget és Perzsa (Arab)-öböl, Nyugat-szibériai-alföld, Mexikói-öböl.\n- Fiatal gyűrthegységek a lemezszegélyeken: magmás ércképződés, ezért réz, ezüst, ón. Példa: Andok (chilei réz), Kordillerák.\n- Trópusi mállás: laterites bauxit, pl. Ausztrália északi része, Guinea.\n- Régi hegységek előtere, pl. Appalache-hegység: feketekőszén.\n\nHa az ábrán vegyes szerkezetet látsz, gondold végig: magmás folyamat → érc; üledékes, szerves anyag → szén, szénhidrogén.",
+   "diagram": null,
+   "concepts": [
+    "ősföld (ősmasszívum)",
+    "fedett és fedetlen ősmasszívum",
+    "táblás vidék",
+    "magmás ércképződés",
+    "üledékes ércképződés",
+    "laterit- és karsztbauxit"
+   ],
+   "processes": [
+    "erckepzodes",
+    "szenhidrogen-szenkepzodes"
+   ],
+   "examTip": "Térképelemzésnél nevezd meg a szerkezeti egységet ÉS az ásványkincs keletkezési módját – a kettő összekötése adja a pontot.",
+   "selfCheck": [
+    {
+     "q": "Miért ércgazdagok az ősföldek?",
+     "a": "Mert magmás és átalakult kőzetekből állnak, amelyekben magmás folyamatok során ércek dúsultak fel."
+    },
+    {
+     "q": "Milyen szerkezetű területen várható kőolaj?",
+     "a": "Vastag üledékes rétegsorú süllyedékben, fedett ősmasszívumon, táblás vidéken."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Andok rézérckincse a lemezalábukáshoz kapcsolódó magmás ércképződéssel függ össze.",
+     "true": true
+    },
+    {
+     "statement": "A kőolaj jellemzően fedetlen ősmasszívumok kristályos kőzeteiben halmozódik fel.",
+     "true": false,
+     "correction": "A kőolaj üledékes kőzetekben, süllyedékekben, fedett táblás vidékeken gyűlik össze."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k4",
+   "explanation": "Az éghajlati, növényzeti és talajtérkép egymásra épül: az éghajlat határozza meg a természetes növényzetet, a kettő együtt a talajt (zonális talajok).\n\nÖsszehasonlítási szempontok:\n- Fekvés: melyik szélességeken terül el a kontinens? Afrika szinte szimmetrikus az Egyenlítőhöz képest, ezért az övek tükrösen ismétlődnek.\n- Domborzat: Amerikában az észak–déli Kordillerák és Andok felfogják a nyugati szeleket és a nedvességet; Ázsia belsejét magashegységek zárják el.\n- Tengeráramlások: a hideg Humboldt- és Benguela-áramlás partmenti sivatagot okoz (Atacama-sivatag, Namib-sivatag).\n- Kontinentalitás: Ázsia belsejében szélsőségesen szárazföldi éghajlat, sztyepp és sivatag.\n\nPélda láncolat: egyenlítői éghajlat → trópusi esőerdő → laterittalaj (Kongó-medence, Amazonas-medence); szavannaéghajlat → szavanna → vörös- és sárgaföldek; nedves kontinentális éghajlat → préri → mezőségi talaj.",
+   "diagram": "zonation",
+   "concepts": [
+    "vízszintes földrajzi övezetesség",
+    "zonális és azonális talaj",
+    "laterittalaj",
+    "mezőségi talaj",
+    "hideg és meleg tengeráramlás"
+   ],
+   "processes": [
+    "altalanos-legkorzes",
+    "talajkepzodes"
+   ],
+   "examTip": "Ha térképeket hasonlítasz, mindig ok-okozati láncot írj: éghajlat → növényzet → talaj → mezőgazdaság.",
+   "selfCheck": [
+    {
+     "q": "Miért alakult ki sivatag a Namib-sivatag helyén az óceánpart mellett?",
+     "a": "A hideg Benguela-áramlás lehűti az alsó légréteget, stabil rétegződés alakul ki, nincs csapadékképződés."
+    },
+    {
+     "q": "Milyen talaj alakul ki a préri alatt?",
+     "a": "Humuszban gazdag mezőségi talaj."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Afrikában a földrajzi övezetek az Egyenlítőtől északra és délre közel tükrösen ismétlődnek.",
+     "true": true
+    },
+    {
+     "statement": "A trópusi esőerdő alatt vastag humuszrétegű, rendkívül termékeny talaj képződik.",
+     "true": false,
+     "correction": "Az esőerdő alatti laterittalaj tápanyagszegény; a tápanyag a növényzetben van, a bőséges csapadék kilúgozza a talajt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k5",
+   "explanation": "Képről vagy leírásról kell felismerned, melyik övezetet, tájat látod. Figyeld a kulcsjegyeket!\n\n- Trópusi esőerdő: szintekre tagolt, örökzöld, sűrű növényzet; Amazonas-medence, Kongó-medence, Indonéz-szigetvilág.\n- Szavanna: füves térség elszórt fákkal (akác, majomkenyérfa), nagy növényevő csordák; Kelet-afrikai-magasföld, Szudán.\n- Trópusi sivatag: kő-, kavics- és homoksivatag, dűnék, oázisok; Szahara, Arab-félsziget, Ausztrália belseje.\n- Monszunvidék: teraszos rizsföldek, árvízjárta folyóvölgyek; Gangesz síksága, Indokínai-félsziget.\n- Préri, pampa: füves síkság, nagy gabonaföldek; Préri, Paraná-alföld.\n- Tajga és tundra: fenyőerdő, illetve mohás-zuzmós, fátlan síkság permafroszttal; Szibéria, Kanada északi része.\n- Magashegység függőleges övezetességgel: Andok, Himalája, Kilimandzsáró.\n\nLeírásnál a csapadék évi eloszlása, a hőingás és a jellemző gazdálkodás a legbiztosabb azonosítók.",
+   "diagram": "zonation",
+   "concepts": [
+    "trópusi esőerdő",
+    "szavanna",
+    "monszunerdő (dzsungel)",
+    "tajga",
+    "tundra",
+    "függőleges földrajzi övezetesség"
+   ],
+   "processes": [],
+   "examTip": "Fotón a növényzet szerkezetét (zárt erdő, ligetes, fátlan) és az emberi tevékenységet (rizsterasz, oázis) keresd – ez a legbiztosabb azonosító.",
+   "selfCheck": [
+    {
+     "q": "Milyen övezetre utal a teraszos rizsföld és a nyári áradás?",
+     "a": "A forró övezeti monszunvidékre (pl. Dél- és Délkelet-Ázsia)."
+    },
+    {
+     "q": "Hol figyelhető meg függőleges övezetesség az Egyenlítő közelében?",
+     "a": "Pl. a Kilimandzsárón vagy az Andokban."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Kilimandzsáró csúcsán az Egyenlítő közelsége ellenére hó és jég is található.",
+     "true": true
+    },
+    {
+     "statement": "A tundrán kiterjedt tűlevelű erdők nőnek.",
+     "true": false,
+     "correction": "A tundra fátlan, mohák, zuzmók, törpecserjék jellemzik; a tűlevelű erdő a tajga."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k6",
+   "explanation": "A Föld népessége nagyon egyenlőtlenül oszlik el: a lakosság többsége néhány népességtömörülésben él.\n\nA legnagyobb népességkoncentrációk:\n- Kelet-Ázsia: Kínai-alföld, a Jangce és a Sárga-folyó völgye, Japán-szigetek.\n- Dél-Ázsia: a Gangesz és az Indus síksága, a Bengáli-öböl partvidéke.\n- Délkelet-Ázsia: Jáva, folyódelták.\n- Észak-Amerika keleti partja (BosWash), a Guineai-öböl partja, a Nílus völgye.\n\nOkai:\n- természetiek: termékeny folyami síkság, kedvező éghajlat, monszun adta csapadék, víz;\n- társadalmiak: ősi földművelő kultúrák, iparosodás, városodás, kikötők.\n\nRitkán lakott a sivatag (Szahara, Góbi), a hideg övezet (Szibéria, Grönland), a magashegység (Tibet) és az esőerdő.\n\nKövetkezmények: a sűrűn lakott térségekben földhiány, élelmezési gond, környezetszennyezés, óriásvárosok nyomornegyedekkel; a ritkán lakott, de erőforrásban gazdag területeken munkaerőhiány.",
+   "diagram": null,
+   "concepts": [
+    "népességtömörülés (népességkoncentráció)",
+    "népsűrűség",
+    "túlnépesedés",
+    "nyomornegyed"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Az okoknál válaszd szét a természeti és társadalmi tényezőket – a javítókulcs gyakran mindkettőt kéri.",
+   "selfCheck": [
+    {
+     "q": "Nevezz meg két ázsiai népességtömörülést!",
+     "a": "Pl. a Kínai-alföld és a Gangesz síksága."
+    },
+    {
+     "q": "Miért ritkán lakott Tibet?",
+     "a": "Magashegységi, hideg, száraz éghajlata kedvezőtlen a földművelésnek."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egyiptom népessége szinte teljesen a Nílus völgyében és deltájában tömörül.",
+     "true": true
+    },
+    {
+     "statement": "A trópusi esőerdők a Föld legsűrűbben lakott térségei közé tartoznak.",
+     "true": false,
+     "correction": "Az esőerdők (pl. Amazonas-medence) ritkán lakottak; a sűrű népesség a monszunvidékek folyami síkságain él."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k7",
+   "explanation": "A világgazdaság súlypontja az elmúlt évszázadokban többször áthelyeződött.\n\n- A 19. században Európa volt a centrum, a többi földrész jórészt gyarmatként nyersanyagot adott.\n- A 20. században Észak-Amerika, főleg az Amerikai Egyesült Államok vált vezető hatalommá; kialakult a Triád (Észak-Amerika, Nyugat-Európa, Japán).\n- A 20. század végétől a súlypont a csendes-óceáni térség, Kelet- és Délkelet-Ázsia felé tolódik: az újonnan iparosodott országok (Dél-Korea, Tajvan, Szingapúr, Hongkong), majd Kína és India gyors felemelkedése.\n\nA többi kontinens szerepe:\n- Afrika: elsősorban nyersanyag-exportőr, a világkereskedelemben kis súlyú.\n- Latin-Amerika: nyersanyag és mezőgazdasági termék, de Brazília és Mexikó iparosodott.\n- Ausztrália: fejlett, nyersanyagexportja főleg Ázsiába irányul.\n- Délnyugat-Ázsia: a kőolaj révén meghatározó az energiapiacon.\n\nAz ázsiai előretörést a BRICS országok csoportja is jelzi.",
+   "diagram": null,
+   "concepts": [
+    "Triád",
+    "újonnan iparosodott országok",
+    "BRICS országok",
+    "világgazdasági pólus (centrum térség)",
+    "világgazdasági korszakváltás"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Időrendben írj: gyarmati Európa → USA vezető szerepe → Triád → ázsiai felemelkedés. A tendencia megfogalmazása fontosabb, mint a számadat.",
+   "selfCheck": [
+    {
+     "q": "Mely térségek alkotják a Triádot?",
+     "a": "Észak-Amerika, Nyugat-Európa (EU) és Japán (Kelet-Ázsia)."
+    },
+    {
+     "q": "Merre tolódik a világgazdaság súlypontja?",
+     "a": "Kelet- és Délkelet-Ázsia, a csendes-óceáni térség felé."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Afrika részesedése a világkereskedelemből a népességéhez képest kicsi.",
+     "true": true
+    },
+    {
+     "statement": "Az újonnan iparosodott országok első hulláma Latin-Amerikában jelent meg.",
+     "true": false,
+     "correction": "Az első hullám Kelet- és Délkelet-Ázsiában jelent meg: Dél-Korea, Tajvan, Szingapúr, Hongkong."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k8",
+   "explanation": "Az országcsoportok eltérő ütemben fejlődnek, mert különbözik a kiinduló helyzetük és a fejlődést segítő tényezőik.\n\nGyors fejlődést segítő tényezők:\n- stabil politikai rendszer, képzett munkaerő, exportorientált gazdaságpolitika (pl. Dél-Korea, Szingapúr, Kína tengerparti része);\n- kedvező fekvés a világkereskedelmi útvonalak mellett (Szingapúr, Hongkong);\n- külföldi működőtőke beáramlása.\n\nLassító tényezők:\n- gyarmati múlt, egyoldalú nyersanyag-export, cserearányromlás;\n- eladósodás, korrupció, polgárháborúk (pl. Trópusi-Afrika számos országa);\n- népességrobbanás, alacsony iskolázottság.\n\nOrszágon belül is nagyok a különbségek: Kína keleti partvidéke és nyugati belső területei, Brazília délkeleti része (São Paulo, Rio de Janeiro) és az északkeleti, illetve az amazóniai területek, India nagyvárosai és falvai. A különbség oka a fekvés, a közlekedés, a tőkevonzó képesség és a képzett munkaerő eloszlása.",
+   "diagram": null,
+   "concepts": [
+    "gazdasági fejlettség",
+    "fejlett és fejlődő ország",
+    "cserearányromlás",
+    "eladósodás",
+    "működőtőke-befektetés",
+    "társadalmi-gazdasági egyenlőtlenség"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Mindig adj ellenpéldát is: egy gyorsan fejlődő és egy leszakadó országot ugyanabból a kontinensből.",
+   "selfCheck": [
+    {
+     "q": "Mi a cserearányromlás?",
+     "a": "A nyersanyagok ára a késztermékekhez képest csökken, így ugyanannyi exportért kevesebb importot kap az ország."
+    },
+    {
+     "q": "Mondj példát országon belüli fejlettségi különbségre!",
+     "a": "Kína fejlett tengerparti és elmaradottabb nyugati területei."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A külföldi működőtőke vonzása kulcsszerepet játszott a kelet-ázsiai gazdaságok felzárkózásában.",
+     "true": true
+    },
+    {
+     "statement": "A gazdag ásványkincs-vagyon mindig gyors gazdasági fejlődést eredményez.",
+     "true": false,
+     "correction": "Nyersanyag-gazdagság mellett is lehet elmaradott egy ország (pl. több afrikai állam), ha egyoldalú az export, gyenge az állam és hiányzik a feldolgozóipar."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k9",
+   "explanation": "A kontinensek mezőgazdasága az éghajlathoz és a fejlettséghez igazodik. Tanuld a típust a terménnyel és a példaterülettel együtt!\n\n- Égetéses-talajváltó gazdálkodás: esőerdők (Kongó-medence, Amazonas-medence); manióka, jamgyökér.\n- Ültetvényes gazdálkodás: trópusok, exportra; kakaó (Guineai-öböl), kávé (Brazília, Kolumbia), tea (India, Kenya), banán (Közép-Amerika, Ecuador), cukornád, olajpálma (Malajzia, Indonézia).\n- Nomád pásztorkodás: száraz területek (Száhel, Arab-félsziget, Belső-Ázsia).\n- Oázisgazdálkodás: datolya, zöldség (Szahara, Egyiptom).\n- Monszungazdálkodás: rizs, juta, tea, gyapot (India, Kína, Délkelet-Ázsia).\n- Farmgazdálkodás: gépesített, szakosodott, nagy üzemek; búza, kukorica, szója (USA, Kanada, Argentína, Ausztrália), extenzív juh- és szarvasmarha-tartás (Ausztrália, pampa).\n- Mediterrán gazdálkodás: Kalifornia, Chile középső része, Fokváros környéke.\n\nA fejlődő világban a termelés jórészt önellátó és kézi munkára épül, a fejlett országokban árutermelő és gépesített.",
+   "diagram": null,
+   "concepts": [
+    "égetéses-talajváltó gazdálkodás",
+    "ültetvényes gazdálkodás",
+    "nomád pásztorkodás (vándorló állattenyésztés)",
+    "oázisgazdálkodás",
+    "monszungazdálkodás",
+    "farm"
+   ],
+   "processes": [],
+   "examTip": "Típus + jellemző termény + konkrét terület – ez a hármas kell a teljes pontszámhoz.",
+   "selfCheck": [
+    {
+     "q": "Hol jellemző az égetéses-talajváltó gazdálkodás?",
+     "a": "A trópusi esőerdőkben, pl. a Kongó-medencében és az Amazonas-medencében."
+    },
+    {
+     "q": "Mi a fő különbség az ültetvény és a farm között?",
+     "a": "Az ültetvény trópusi, egy kultúrát termel exportra, sok kézi munkával; a farm gépesített, főleg mérsékelt övezeti árutermelő üzem."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Guineai-öböl partvidékének egyik fontos ültetvényes terménye a kakaó.",
+     "true": true
+    },
+    {
+     "statement": "A monszunvidék fő élelmiszernövénye a búza.",
+     "true": false,
+     "correction": "A monszunvidék fő élelmiszernövénye a rizs, amelyhez a nyári monszunesők adják a vizet."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k10",
+   "explanation": "Ez a követelmény sok ország–ásványkincs–ágazat párosítást kér. Csoportosítva könnyebb megjegyezni!\n\nÁsványkincsek:\n- Szaúd-Arábia, Kuvait, Egyesült Arab Emírségek, Irán, Irak: kőolaj, földgáz.\n- Nigéria, Algéria, Líbia, Venezuela: kőolaj.\n- Kína: kőszén, ritkaföldfémek; India: kőszén, vasérc.\n- Dél-afrikai Köztársaság: arany, platina, gyémánt, kőszén.\n- Brazília: vasérc; Chile: réz; Ausztrália: vasérc, bauxit, kőszén.\n- Kanada: nikkel, urán, kőolaj (olajhomok), fa.\n\nJellemző ágazatok:\n- Japán, Dél-Korea: elektronika, autó-, hajógyártás.\n- Kína: szinte minden ágazat, „a világ gyára”, egyre inkább csúcstechnológia.\n- India: informatikai szolgáltatás, gyógyszeripar, textilipar.\n- USA: csúcstechnológia, repülőgépgyártás, pénzügyi szolgáltatás.\n- Mexikó: autó-összeszerelés; Brazília: repülőgépgyártás, élelmiszeripar.\n- Izrael: high-tech, gyémántcsiszolás; Törökország: textil, autóipar, idegenforgalom.\n- Egyiptom, Kenya: idegenforgalom.",
+   "diagram": null,
+   "concepts": [
+    "ásványi nyersanyag",
+    "húzóágazat",
+    "külkereskedelmi áruszerkezet",
+    "szakosodás (specializáció)"
+   ],
+   "processes": [],
+   "examTip": "Készíts magadnak táblázatot ország – ásványkincs – fő ágazat oszlopokkal; vakteszten a kontúrtérképpel együtt kérdezik.",
+   "selfCheck": [
+    {
+     "q": "Melyik ország a fő rézérctermelő Dél-Amerikában?",
+     "a": "Chile."
+    },
+    {
+     "q": "Milyen ásványkincsek tették gazdaggá a Dél-afrikai Köztársaságot?",
+     "a": "Arany, platina, gyémánt, kőszén."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "India gazdaságában fontos szerepet játszik az informatikai szolgáltatás.",
+     "true": true
+    },
+    {
+     "statement": "Japán jelentős kőolaj-exportőr.",
+     "true": false,
+     "correction": "Japán szinte minden nyersanyagot, köztük a kőolajat is importálja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--k11",
+   "explanation": "Minden kontinensen vannak tipikus környezetkárosítási példák – a vizsgán ok, következmény és megoldás kell.\n\n- Aral-tó (Közép-Ázsia): a befolyó folyók vizét gyapotöntözésre használták, a tó nagy része kiszáradt; sós por, szikesedés, a halászat megszűnése.\n- Száhel-öv: túllegeltetés, erdőirtás → elsivatagosodás, éhínség.\n- Amazonas-medence, Indonéz-szigetvilág: esőerdő-irtás legelőnek, szójának, olajpálmának → biodiverzitás csökkenése, talajpusztulás.\n- Kína: szmog a nagyvárosokban, a Sárga-folyó és a Jangce szennyezése.\n- Nagy-korallzátony: korallfehéredés a tengervíz felmelegedése miatt.\n- Sarkvidékek: jégolvadás, a permafroszt olvadása.\n- Nigéria (Niger-delta): kőolajszennyezés.\n\nMérséklés: fásítás, védett területek és nemzeti parkok, víztakarékos öntözés (csepegtető), megújuló energia, nemzetközi egyezmények (párizsi egyezmény), fenntartható gazdálkodás.",
+   "diagram": null,
+   "concepts": [
+    "környezetkárosítás",
+    "elsivatagosodás",
+    "erdőirtás",
+    "a biológiai sokféleség (biodiverzitás) csökkenése",
+    "szikesedés",
+    "fenntarthatóság"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas",
+    "globalis-felmelegedes"
+   ],
+   "examTip": "Az Aral-tó és a Száhel-öv a két „klasszikus” példa – ezeket ok-következmény láncként tudd!",
+   "selfCheck": [
+    {
+     "q": "Miért zsugorodott az Aral-tó?",
+     "a": "A táplálófolyók vizét gyapotföldek öntözésére vezették el."
+    },
+    {
+     "q": "Hogyan mérsékelhető az esőerdők irtása?",
+     "a": "Védett területekkel, a fakitermelés szabályozásával, tanúsított termékekkel, fenntartható gazdálkodással."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Nagy-korallzátonyt a tengervíz felmelegedése miatti korallfehéredés veszélyezteti.",
+     "true": true
+    },
+    {
+     "statement": "Az Aral-tó kiszáradását elsősorban a csökkenő csapadék okozta.",
+     "true": false,
+     "correction": "Fő oka emberi: a táplálófolyók vizének öntözésre való elvezetése."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e1",
+   "explanation": "A kontinensek mai képe a kőzetlemezek mozgásának eredménye. A Pangea feldarabolódása után a földrészek mai helyükre vándoroltak.\n\n- Ősföldek a kontinensek magjai: Kanadai-ősföld, Brazil-ősföld, Afrikai-ősföld, Dekkán-ősföld, Nyugat-ausztráliai-ősföld – a déliek egykor Gondwana, az északiak Laurázsia részei voltak.\n- Pacifikus-hegységrendszer: a Csendes-óceáni-lemez és a Nazca-lemez alábukik a kontinentális lemezek alá → Kordillerák, Andok, mélytengeri árkok, vulkánok (Popocatépetl); a Japán-szigetek szigetívként.\n- Eurázsiai-hegységrendszer: két kontinentális lemez ütközik → Himalája (Ausztrál–Indiai-lemez és Eurázsiai-lemez).\n- Távolodó lemezszegély: Afrikai-árokrendszer, Vörös-tenger – itt születik új óceán.\n- Forró pont: Hawaii-szigetek, Yellowstone Nemzeti Park.\n\nEzért földrengés- és vulkánveszélyes a Csendes-óceán peremvidéke, míg Ausztrália és Afrika belseje stabil.",
+   "diagram": "plate-boundaries",
+   "concepts": [
+    "kőzetlemez",
+    "alábukás",
+    "hasadékvölgy",
+    "vulkáni szigetív",
+    "Gondwana",
+    "Laurázsia"
+   ],
+   "processes": [
+    "lemezmozgasok",
+    "hegysegkepzodes",
+    "forro-pont"
+   ],
+   "examTip": "Minden hegységnél nevezd meg, mely lemezek és milyen típusú lemezszegély hozta létre.",
+   "selfCheck": [
+    {
+     "q": "Milyen lemezmozgás hozta létre az Andokat?",
+     "a": "Az óceáni Nazca-lemez alábukása a Dél-amerikai-lemez alá."
+    },
+    {
+     "q": "Mi zajlik az Afrikai-árokrendszerben?",
+     "a": "Távolodó lemezmozgás, a kontinens felhasadása."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Himalája két kontinentális kőzetlemez ütközésével jött létre.",
+     "true": true
+    },
+    {
+     "statement": "A Hawaii-szigetek vulkánjai lemezszegélyen, alábukás miatt működnek.",
+     "true": false,
+     "correction": "A Hawaii-szigetek a Csendes-óceáni-lemez belsejében, forró pont fölött keletkeztek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e2",
+   "explanation": "A keresztmetszet (szelvény) egy vonal mentén mutatja a domborzatot, gyakran az éghajlattal, növényzettel, szerkezettel együtt.\n\nÍgy elemezd:\n1. Határozd meg a szelvény irányát és végpontjait (pl. Csendes-óceán – Andok – Amazonas-medence – Brazil-felföld – Atlanti-óceán).\n2. Azonosítsd a nagytájakat a magasság és a forma alapján: meredek, magas lánc = fiatal gyűrthegység; lekerekített, alacsonyabb = régi, lepusztult hegység; sík = alföld, medence.\n3. Kösd össze a szerkezettel: mélytengeri árok + vulkáni lánc = alábukás.\n4. Olvasd le a hatásokat: a hegység szél felőli oldala csapadékos, a szélárnyékos oldala száraz. Észak-Amerikában a Sziklás-hegység keleti előterében ezért füves Préri található.\n5. Figyeld a függőleges övezetességet a magashegységben.\n\nTipikus szelvények: Észak-Amerika a 40. szélességi kör mentén, Afrika az Egyenlítő mentén, Ázsia Indiától Szibériáig.",
+   "diagram": "contour-section",
+   "concepts": [
+    "éghajlatválasztó hegység",
+    "gyűrthegység",
+    "mélytengeri árok",
+    "függőleges földrajzi övezetesség"
+   ],
+   "processes": [
+    "lemezmozgasok",
+    "fonszel"
+   ],
+   "examTip": "A szelvényen a magasság-léptéket ellenőrizd: túlmagasított, ezért a lejtők meredekebbnek látszanak a valóságosnál.",
+   "selfCheck": [
+    {
+     "q": "Mire utal a szelvényen egymás mellett mélytengeri árok és vulkáni hegylánc?",
+     "a": "Óceáni–kontinentális lemezek közeledésére, alábukásra."
+    },
+    {
+     "q": "Miért száraz a magas hegység szélárnyékos oldala?",
+     "a": "A leszálló levegő felmelegszik, telítetlenné válik, nincs csapadék."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egy Észak-Amerikán át kelet–nyugati irányban húzott szelvényen nyugaton magasabbak a hegységek, mint keleten.",
+     "true": true
+    },
+    {
+     "statement": "Az Appalache-hegység fiatal, magas gyűrthegység.",
+     "true": false,
+     "correction": "Az Appalache-hegység régi, lepusztult, alacsonyabb hegység; a fiatal, magas gyűrthegység a nyugati Kordillerák."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e3",
+   "explanation": "Az emelt szintű vizsgán kultúrához kötött értékeket is kérhetnek: vallási központot, építészeti emléket, hagyományt. Tanulj országonként 1-2 biztos példát!\n\n- Kína: a Nagy Fal, a pekingi Tiltott Város, konfucianizmus, buddhizmus.\n- Japán: sintó szentélyek és buddhista templomok Kiotóban, teaszertartás, kertművészet.\n- India: Tádzs Mahal, a szent Gangesz és Váránaszi (Benares) zarándokhelye, hinduizmus, jóga.\n- Délnyugat-Ázsia: Mekka (az iszlám szent helye), Jeruzsálem (három vallás szent városa), Isztambulban a Hagia Szophia.\n- Egyiptom: gízai piramisok, Luxor, Abu Szimbel.\n- Latin-Amerika: maja és azték emlékek (Mexikó), az inka Machu Picchu (Peru), gyarmati barokk városok, a riói karnevál.\n- Ausztrália: az őslakosok (aboriginalok) kultúrája, az Uluru szent szikla.\n\nEzek sokszor a világörökség részei, és jelentős idegenforgalmat vonzanak.",
+   "diagram": null,
+   "concepts": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+    "kulturális régió",
+    "világörökség"
+   ],
+   "processes": [],
+   "examTip": "Az értéket mindig kösd egy hellyel (város, ország) és ha lehet, a gazdasági hatással (zarándok- vagy kulturális turizmus).",
+   "selfCheck": [
+    {
+     "q": "Melyik város szent a zsidó, a keresztény és a muszlim hívők számára?",
+     "a": "Jeruzsálem."
+    },
+    {
+     "q": "Melyik indiai város a hinduk fontos zarándokhelye a Gangesz partján?",
+     "a": "Váránaszi (Benares)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Mekka az iszlám legszentebb városa, ahova évente zarándokok milliói érkeznek.",
+     "true": true
+    },
+    {
+     "statement": "Machu Picchu az azték birodalom fővárosa volt Mexikóban.",
+     "true": false,
+     "correction": "Machu Picchu inka település Peruban; az aztékok fővárosa Tenochtitlán volt, a mai Mexikóváros helyén."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-1-a-kontinensek-altalanos-termeszet-es-tarsadalomfoldrajzi-kepe--e4",
+   "explanation": "A világgazdaság háromszintű rendszer, a szintek szoros, de egyenlőtlen kapcsolatban állnak.\n\n- Centrum térségek: Észak-Amerika, Nyugat-Európa, Japán (Triád). Itt van a tőke, a K+F, a TNC-k központjai, a pénzügyi irányítás (New York, Tokió).\n- Félperiféria: feltörekvő országok, pl. Kína, Brazília, Mexikó, Törökország. Ide települ a tömegtermelés, az összeszerelés.\n- Periféria: a legkevésbé fejlett országok, főleg Trópusi-Afrika, Latin-Amerika és Ázsia legszegényebb államai. Nyersanyagot, mezőgazdasági terméket és olcsó munkaerőt adnak.\n\nA kapcsolat irányai:\n- a centrumból tőke, technológia, késztermék és irányítás áramlik kifelé;\n- a perifériáról nyersanyag, olcsó termék, munkaerő (migráció) és profit áramlik a centrum felé.\n\nA helyzet nem végleges: egy ország feljebb léphet (Dél-Korea a centrum felé), de le is szakadhat. A cserearányromlás és az eladósodás a perifériát függőségben tartja.",
+   "diagram": null,
+   "concepts": [
+    "világgazdasági pólus (centrum térség)",
+    "félperiféria térség",
+    "periféria térség",
+    "transznacionális vállalat (TNC)",
+    "nemzetközi munkamegosztás"
+   ],
+   "processes": [
+    "globalizacio",
+    "toke-aramlasa"
+   ],
+   "examTip": "Írd le mindkét irányú áramlást (tőke és technológia kifelé, nyersanyag és profit befelé) – az egyirányú leírás csak részpont.",
+   "selfCheck": [
+    {
+     "q": "Mondj két félperiféria országot!",
+     "a": "Pl. Brazília, Mexikó, Törökország."
+    },
+    {
+     "q": "Mit ad a periféria a centrumnak?",
+     "a": "Nyersanyagot, mezőgazdasági terméket, olcsó munkaerőt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Dél-Korea példája mutatja, hogy egy ország a perifériáról feljebb léphet a rendszerben.",
+     "true": true
+    },
+    {
+     "statement": "A periféria országaiba irányul a világ K+F-ráfordításainak nagy része.",
+     "true": false,
+     "correction": "A K+F a centrum térségekben koncentrálódik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k1",
+   "explanation": "Ázsiában két típusú nagy sivatag van, eltérő okokkal.\n\n1. Térítői (forró övezeti) sivatagok – Arab-félsziget, Iráni-felföld egy része, Thar-sivatag:\n- a térítők mentén a leszálló légáramlás (térítői magas nyomás) miatt nincs felhőképződés;\n- a passzátszelek szárazföld felől fújnak, nem hoznak nedvességet.\n\n2. Mérsékelt övezeti (belső-ázsiai) sivatagok – Góbi, Takla-Makán, a Turáni-alföld sivatagai:\n- óceántávolság: a kontinens belsejébe nem jut el a tengeri nedvesség;\n- hegységek elzáró hatása: a Himalája, a Tien-san, a Pamír, Tibet felfogja a monszunt és a nyugati szeleket, a medencék esőárnyékban fekszenek;\n- télen a Szibériai-maximum hideg, száraz levegője uralkodik.\n\nKövetkezmény: nagy napi és évi hőingás, szélmarás, homokviharok (a Góbi pora Pekingig eljut), belső lefolyású területek, sós tavak.",
+   "diagram": "circulation",
+   "concepts": [
+    "forró övezeti (trópusi) sivatagi éghajlat",
+    "mérsékelt övezeti sivatagi éghajlat",
+    "passzátszelek",
+    "szélsőségesen szárazföldi terület",
+    "éghajlatválasztó hegység"
+   ],
+   "processes": [
+    "altalanos-legkorzes",
+    "szel-munkaja"
+   ],
+   "examTip": "Ne keverd: a térítői sivatag oka a légkörzés, a belső-ázsiai sivatagé az óceántávolság és a hegységek elzáró hatása.",
+   "selfCheck": [
+    {
+     "q": "Miért sivatag a Takla-Makán?",
+     "a": "Óceántól távol, magas hegységekkel körülzárt medencében fekszik, ahová nem jut csapadék."
+    },
+    {
+     "q": "Milyen légköri ok szárítja az Arab-félszigetet?",
+     "a": "A térítői leszálló légáramlás és a szárazföld felől fújó passzát."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Góbi a mérsékelt övezet sivatagai közé tartozik, ezért tele nagyon hideg lehet.",
+     "true": true
+    },
+    {
+     "statement": "Az Arab-félsziget sivatagját főként a hideg tengeráramlás okozza.",
+     "true": false,
+     "correction": "Az Arab-félsziget sivatagja térítői sivatag: a leszálló légáramlás és a szárazföldi passzát okozza."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k2",
+   "explanation": "A monszun évszakosan irányt váltó szélrendszer, amely Dél-, Délkelet- és Kelet-Ázsia életét meghatározza.\n\n- Nyári monszun: a szárazföld erősen felmelegszik, alacsony nyomás alakul ki; az óceán felől nedves légtömegek áramlanak be → bőséges eső. Indiában júniustól szeptemberig.\n- Téli monszun: a lehűlő szárazföld fölött (Szibériai-maximum) magas nyomás → száraz, szárazföldi szél.\n\nGazdasági szerep:\n- A rizstermesztés a nyári esőkhöz igazodik, a jó évben két-három termés is lehet (öntözéssel). Sűrű népesség él a Gangesz síkságán, a Bengáli-öböl partján, a Mekong és a Jangce mentén.\n- Ha a monszun késik vagy gyenge: aszály, terméskiesés, éhínség.\n- Ha túl erős: árvíz, földcsuszamlás (pl. Banglades).\n- Teaültetvények a csapadékos hegyoldalakon (Assam, Srí Lanka), juta a Gangesz-deltában.\n\nA monszun tehát egyszerre éltető és veszélyforrás, ezért fontos az öntözés és a víztározás.",
+   "diagram": "monsoon",
+   "concepts": [
+    "forró övezeti (trópusi) monszunszélrendszer",
+    "forró övezeti (trópusi) monszunéghajlat",
+    "monszungazdálkodás",
+    "monszunvidék",
+    "aszály"
+   ],
+   "processes": [
+    "monszun"
+   ],
+   "examTip": "Írd le a nyomásviszonyokat is (nyáron alacsony nyomás a szárazföldön), ne csak azt, hogy „nyáron esik”.",
+   "selfCheck": [
+    {
+     "q": "Miért esős a nyári monszun?",
+     "a": "A tenger felől érkező nedves levegő a felmelegedett szárazföld fölött felemelkedik, lehűl, kicsapódik."
+    },
+    {
+     "q": "Mi a következménye egy gyenge monszunnak?",
+     "a": "Aszály, rossz rizstermés, élelmezési gondok."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A téli monszun a szárazföld felől fúj, ezért száraz.",
+     "true": true
+    },
+    {
+     "statement": "A nyári monszun idején a szárazföld fölött magas légnyomás alakul ki.",
+     "true": false,
+     "correction": "Nyáron a felmelegedett szárazföld fölött alacsony nyomás van, ezért áramlik be a tengeri levegő."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k3",
+   "explanation": "Ázsia természeti adottságai sokféle veszélyhelyzetet okoznak, ráadásul sűrűn lakott területeken.\n\n- Földrengés, cunami, vulkánkitörés: a Csendes-óceán peremén (Japán-szigetek, Fülöp-szigetek, Indonéz-szigetvilág, Krakatau) és a Himalája térségében. Az Indiai-óceánon 2004-ben, Japánban 2011-ben pusztított súlyos cunami.\n- Trópusi ciklon (tájfun, ciklon): Fülöp-szigetek, Kína déli partjai, Banglades.\n- Monszunárvíz: Gangesz–Brahmaputra deltája, Jangce, Sárga-folyó.\n- Aszály, homokvihar: belső-ázsiai sivatagok, Góbi.\n- Lavina, földcsuszamlás a magashegységekben.\n\nVédekezés:\n- földrengésbiztos építkezés, rendszeres gyakorlatok (Japán);\n- cunami-előrejelző rendszer, partvédő gátak;\n- gátak, víztározók (Három-szurdok-gát), árvízvédelmi töltések;\n- ciklon-menedékházak Bangladesben, korai riasztás;\n- erdősítés a homokviharok ellen.",
+   "diagram": null,
+   "concepts": [
+    "földrengés",
+    "cunami",
+    "trópusi ciklon (hurrikán, tájfun)",
+    "árvíz",
+    "időjárási veszélyhelyzetek"
+   ],
+   "processes": [
+    "foldrenges-cunami",
+    "vulkani-mukodes",
+    "arviz"
+   ],
+   "examTip": "Kösd a veszélyt a kiváltó okhoz (lemezszegély, monszun, ciklon) és egy konkrét helyhez – így kerek a válasz.",
+   "selfCheck": [
+    {
+     "q": "Miért gyakori a földrengés Japánban?",
+     "a": "Több kőzetlemez találkozásánál, alábukási zónában fekszik."
+    },
+    {
+     "q": "Hogyan védekeznek Bangladesben a ciklonok ellen?",
+     "a": "Korai előrejelzéssel, kiemelt ciklon-menedékházakkal, gátakkal."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Csendes-óceánon a trópusi ciklont tájfunnak nevezik.",
+     "true": true
+    },
+    {
+     "statement": "Mongólia és a Góbi a cunamik által leginkább veszélyeztetett ázsiai terület.",
+     "true": false,
+     "correction": "A cunami a tengerpartokat sújtja, pl. Japánt, Indonéziát; a Góbi szárazföld belseje, ott aszály és homokvihar a veszély."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--k4",
+   "explanation": "Ázsiában él a Föld népességének többsége. A 20. század közepétől népességrobbanás zajlott: a halandóság gyorsan csökkent (orvoslás, oltások, zöld forradalom), a születésszám még sokáig magas maradt.\n\nStatisztikából olvasd le:\n- a népesség meredek növekedését a 20. század második felében;\n- a születési arányszám csökkenését az utóbbi évtizedekben;\n- a korfák eltérését: India még fiatalos, Japán és Kína öregedő.\n\nKövetkezmények:\n- élelmezési gondok, földhiány;\n- túlzsúfolt óriásvárosok nyomornegyedekkel (Mumbai, Kolkata, Manila, Jakarta);\n- munkanélküliség, kivándorlás;\n- környezetterhelés.\n\nMegoldási lépések:\n- állami születésszabályozás: Kína egykepolitikája (1980–2015), Indiában a családtervezési programok;\n- nők iskoláztatása, munkavállalása;\n- élelmiszertermelés növelése (zöld forradalom);\n- városfejlesztés.\n\nA folyamat a népesedési átmenet szakaszaival magyarázható: Kelet-Ázsia már a végén jár, Dél-Ázsia még a közepén.",
+   "diagram": "demographic",
+   "concepts": [
+    "népességrobbanás",
+    "népesedési átmenet (demográfiai átmenet)",
+    "korfa",
+    "születésszabályozás",
+    "túlnépesedés"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Diagramnál ne csak leírd az adatot, hanem nevezd meg a népesedési átmenet szakaszát és indokold.",
+   "selfCheck": [
+    {
+     "q": "Mi okozta a népességrobbanást?",
+     "a": "A halálozás gyors csökkenése mellett a születésszám tartósan magas maradt."
+    },
+    {
+     "q": "Melyik ország vezette be az egykepolitikát?",
+     "a": "Kína."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "India népessége mára meghaladta Kínáét.",
+     "true": true
+    },
+    {
+     "statement": "Japán korfája fiatalos, széles alapú piramis.",
+     "true": false,
+     "correction": "Japán társadalma erősen öregedő, a korfa alapja keskeny, felső része széles."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--e1",
+   "explanation": "Ázsia a nagy ősi kultúrák és az összes világvallás szülőhelye. Ezek ma is formálják a társadalmat, a gazdaságot és a tájat.\n\nŐsi kultúrák:\n- Mezopotámia (Tigris, Eufrátesz), Indus-völgy, Sárga-folyó völgye: öntözéses földművelés, írás, városok.\n- Az öntözéses rizsteraszok és csatornarendszerek ma is a táj része.\n\nVilágvallások hatása:\n- Hinduizmus (India): kasztrendszer, a tehén szent, ezért marhát nem vágnak; a Gangesz szent folyó.\n- Iszlám (Délnyugat-Ázsia, Indonézia, Pakisztán): sertéstilalom, iszlám pénzügyek kamat nélkül, a nők munkavállalásának korlátai egyes országokban; Mekka zarándoklata.\n- Buddhizmus (Délkelet-Ázsia, Japán): kolostorok, Thaiföld templomai – idegenforgalom.\n- Konfuciánus hagyomány (Kína, Japán, Korea): közösség, szorgalom, tanulás tisztelete – a gyors gazdasági fejlődés egyik kulturális háttere.\n- Zsidó vallás, kereszténység: Jeruzsálem.\n\nA vallási ellentétek konfliktusokat is okoznak (India–Pakisztán, Közel-Kelet).",
+   "diagram": null,
+   "concepts": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+    "kulturális régió",
+    "etnikum"
+   ],
+   "processes": [],
+   "examTip": "Minden vallásnál egy gazdasági vagy környezeti hatást írj (pl. tehén – hinduizmus, sertés – iszlám), ne csak a vallás nevét.",
+   "selfCheck": [
+    {
+     "q": "Hogyan befolyásolja a hinduizmus az állattartást?",
+     "a": "A tehén szent állat, nem vágják le, így sok a nem hasznosított szarvasmarha."
+    },
+    {
+     "q": "Melyik folyók mentén alakult ki Mezopotámia kultúrája?",
+     "a": "A Tigris és az Eufrátesz mentén."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Indonézia a legnépesebb muszlim többségű ország.",
+     "true": true
+    },
+    {
+     "statement": "A buddhizmus Délnyugat-Ázsia uralkodó vallása.",
+     "true": false,
+     "correction": "Délnyugat-Ázsiában az iszlám uralkodik; a buddhizmus Délkelet- és Kelet-Ázsiában jellemző."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-2-1-azsia-altalanos-foldrajzi-jellemzoi--e2",
+   "explanation": "Ázsia több térségében máig gond az éhezés, főként Dél-Ázsiában.\n\nOkok:\n- gyors népességnövekedés, kis birtokok, földhiány;\n- a monszun bizonytalansága: aszály vagy árvíz;\n- szegénység: nincs pénz élelmiszerre, gépre, műtrágyára;\n- talajpusztulás, szikesedés, vízhiány;\n- egyoldalú táplálkozás: kevés fehérje (minőségi éhezés);\n- politikai okok, konfliktusok (pl. Afganisztán, Észak-Korea).\n\nMegoldási lépések:\n- Zöld forradalom (1960-as évektől): nagy hozamú rizs- és búzafajták, öntözés, műtrágya – India önellátóvá vált gabonából, de nőtt a vízfelhasználás és a talajterhelés.\n- Öntözőrendszerek, víztározók építése (Indus, Gangesz).\n- Kína földreformja, a termelés ösztönzése.\n- Születésszabályozás.\n- Nemzetközi segély (FAO), élelmiszer-tartalékok.\n\nKülönbséget tegyél: mennyiségi éhezés = kevés kalória; minőségi éhezés = hiányos tápanyag (fehérje, vitamin).",
+   "diagram": null,
+   "concepts": [
+    "mennyiségi és minőségi éhezés",
+    "alultápláltság",
+    "élelmezési válság",
+    "egyoldalú táplálkozás",
+    "éhségövezet",
+    "FAO"
+   ],
+   "processes": [],
+   "examTip": "A zöld forradalomnál az eredmények mellett a hátrányokat is írd le (vízigény, vegyszer, eladósodott kisgazdák).",
+   "selfCheck": [
+    {
+     "q": "Mi volt a zöld forradalom lényege?",
+     "a": "Nagy hozamú fajták, öntözés, műtrágya és növényvédő szerek bevezetése a terméshozam növelésére."
+    },
+    {
+     "q": "Mi a minőségi éhezés?",
+     "a": "Elegendő kalória mellett hiányzik a fehérje, vitamin, ásványi anyag."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A zöld forradalom révén India gabonából önellátóvá vált.",
+     "true": true
+    },
+    {
+     "statement": "Az élelmezési gondok egyetlen oka a kevés megtermelt élelmiszer.",
+     "true": false,
+     "correction": "Fontos ok a szegénység és az egyenlőtlen elosztás is: van élelmiszer, de sokan nem tudják megvenni."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kina--k1",
+   "explanation": "Kína népességének változása jól mutatja a népesedési átmenetet és az állami beavatkozás hatását.\n\nSzakaszok a diagramon:\n- 1949 után: béke, egészségügyi javulás → a halandóság csökken, a népesség gyorsan nő.\n- 1959–61: a „nagy ugrás” utáni éhínség – a görbén látható visszaesés.\n- 1960–70-es évek: népességrobbanás, a születésszám nagyon magas.\n- 1980-tól: egykepolitika, a születésszám erősen csökken, a növekedés lelassul.\n- 2010-es évektől: a természetes szaporodás nullára esik, 2022 óta a népesség csökken; India népesebb lett.\n\nA korfa változása: az alja összeszűkült, középen széles a munkaképes korosztály, felül egyre több idős. Ez öregedő társadalmat jelent.\n\nSajátosság: a fiúgyermek-preferencia miatt a születéskori nemek aránya a fiúk felé tolódott.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "népesedési átmenet (demográfiai átmenet)",
+    "korfa",
+    "természetes fogyás",
+    "öregedő és fiatalodó társadalom",
+    "születésszabályozás"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Diagramelemzésnél az évszámokhoz társíts eseményt (éhínség, egykepolitika) – ezzel bizonyítod, hogy értelmezed a görbét.",
+   "selfCheck": [
+    {
+     "q": "Mi okozott visszaesést a kínai népességben az 1960-as évek elején?",
+     "a": "A „nagy ugrás” politikája utáni éhínség."
+    },
+    {
+     "q": "Milyen ma Kína korfája?",
+     "a": "Öregedő: keskeny alap, széles közép- és felső rész."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Kína népessége az utóbbi években csökkenni kezdett.",
+     "true": true
+    },
+    {
+     "statement": "Kína népességnövekedése az 1980-as évektől gyorsult fel a legjobban.",
+     "true": false,
+     "correction": "Az 1980-as évektől az egykepolitika miatt a növekedés lelassult; a legnagyobb ütem az 1960–70-es években volt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kina--k2",
+   "explanation": "Kína néhány évtized alatt a világ egyik meghatározó gazdaságává vált. Ennek lépései:\n\n- 1978: Teng Hsziao-ping reformjai – nyitás a világ felé, a piacgazdaság elemeinek bevezetése, de a kommunista párt irányítása megmaradt.\n- Különleges gazdasági övezetek a tengerparton (Sencsen Hongkong mellett): adókedvezmény, külföldi tőke, exportra termelés.\n- Óriási, olcsó, szorgalmas munkaerő → „a világ gyára”: textil, játék, elektronika, majd autó, hajó, acél.\n- Hatalmas belső piac, gyors infrastruktúra-fejlesztés (gyorsvasút, kikötők: Sanghaj, Sencsen, Kanton).\n- Csatlakozás a WTO-hoz (2001) – könnyebb export.\n- Mára áttérés a csúcstechnológiára: telekommunikáció, elektromos autók, akkumulátorok, napelem, űrkutatás; nagy K+F-ráfordítás.\n- Új selyemút (Övezet és Út kezdeményezés): befektetések Ázsiában, Afrikában, Európában.\n\nKína a BRICS országok tagja, a világ legnagyobb exportőre és ipari termelője.",
+   "diagram": null,
+   "concepts": [
+    "piacgazdaság",
+    "tervutasításos gazdaság",
+    "működőtőke-befektetés",
+    "BRICS országok",
+    "Világkereskedelmi Szervezet (WTO)",
+    "kutatás-fejlesztés (K+F tevékenység)"
+   ],
+   "processes": [
+    "globalizacio",
+    "toke-aramlasa"
+   ],
+   "examTip": "A „különleges gazdasági övezet” kulcsfogalom: írd le, mit kínált (adókedvezmény, olcsó munkaerő) és hol volt (tengerpart, pl. Sencsen).",
+   "selfCheck": [
+    {
+     "q": "Melyik évben indultak a kínai gazdasági reformok?",
+     "a": "1978-ban."
+    },
+    {
+     "q": "Miért a tengerpartra telepítették a különleges gazdasági övezeteket?",
+     "a": "Jó a kikötői kapcsolat, közel van Hongkong és a világpiac, könnyű az export."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Kína 2001-ben csatlakozott a Világkereskedelmi Szervezethez.",
+     "true": true
+    },
+    {
+     "statement": "Kína gazdasági reformja a kommunista párt hatalmának megszüntetésével kezdődött.",
+     "true": false,
+     "correction": "A párt irányítása megmaradt; a reform a piacgazdaság elemeit vezette be politikai rendszerváltás nélkül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kina--k3",
+   "explanation": "Kína gyors iparosodása súlyos környezeti árat követelt.\n\nFőbb problémák:\n- Légszennyezés: a kőszén-alapú energiatermelés és a forgalom miatt szmog Pekingben és más nagyvárosokban; Kína a legnagyobb szén-dioxid-kibocsátó.\n- Vízszennyezés és vízhiány: a Sárga-folyó alsó szakasza időnként kiszárad, a Jangce és a tavak szennyezettek; Észak-Kína vízhiányos.\n- Talajpusztulás: a löszvidéken erős erózió – innen a Sárga-folyó sárga hordaléka; elsivatagosodás a Góbi peremén, homokviharok.\n- Nagy gátak hatásai: a Három-szurdok-gát áramot ad és szabályozza az árvizeket, de több mint egymillió embert kellett kitelepíteni, változott az ökoszisztéma, nőtt a földcsuszamlás-veszély.\n\nVálaszlépések:\n- „Zöld Nagy Fal” erdősávok telepítése;\n- óriási napelem- és szélerőmű-kapacitás, elektromos autók;\n- dél–észak vízátvezetési projekt;\n- szigorúbb kibocsátási szabályok.",
+   "diagram": null,
+   "concepts": [
+    "környezetkárosítás",
+    "füstköd (szmog)",
+    "talajpusztulás (talajerózió)",
+    "elsivatagosodás",
+    "megújuló és nem megújuló energiaforrások"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas",
+    "savas-eso"
+   ],
+   "examTip": "A Három-szurdok-gátnál mindig mérlegelj: előnyök (energia, árvízvédelem, hajózás) és hátrányok (kitelepítés, ökológiai hatás).",
+   "selfCheck": [
+    {
+     "q": "Miért sárga a Sárga-folyó?",
+     "a": "A löszvidék erős talajeróziója miatt rengeteg finom löszhordalékot szállít."
+    },
+    {
+     "q": "Mi a „Zöld Nagy Fal” célja?",
+     "a": "Erdősávokkal megállítani a sivatag terjedését és a homokviharokat."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Kína a megújuló energiaforrások (nap, szél) legnagyobb fejlesztői közé tartozik.",
+     "true": true
+    },
+    {
+     "statement": "A Három-szurdok-gát a Sárga-folyón épült.",
+     "true": false,
+     "correction": "A Három-szurdok-gát a Jangcén épült."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kina--e1",
+   "explanation": "Kína fejlődésében a történelmi múlt különösen sok sajátos vonást hagyott.\n\n- Ősi, folyamatos civilizáció a Sárga-folyó völgyében: öntözéses földművelés, erős központi hatalom, írásbeliség, konfucianizmus. Fontos találmányok: papír, porcelán, puskapor, iránytű.\n- Évszázados elzárkózás, majd a 19. században a nyugati hatalmak és Japán megalázó beavatkozása („ópiumháborúk”, Hongkong brit gyarmat lett).\n- 1949: a Kínai Népköztársaság kikiáltása, Mao Ce-tung tervutasításos gazdasága: népi kommunák, „nagy ugrás” (éhínség), kulturális forradalom – gazdasági visszaesés.\n- 1978-tól: reform és nyitás, „szocialista piacgazdaság”: a párt politikai egyeduralma mellett piaci verseny, magántulajdon, külföldi tőke.\n- Hongkong (1997) és Makaó (1999) visszakerülése: „egy ország, két rendszer”.\n- Tajvan kérdése ma is feszültségforrás.\n\nA sajátosság lényege: politikai rendszerváltás nélküli gazdasági átalakulás, erős állami tervezés és irányítás.",
+   "diagram": null,
+   "concepts": [
+    "tervutasításos gazdaság",
+    "piacgazdaság",
+    "gazdasági rendszerváltoztatás",
+    "állami",
+    "privatizáció"
+   ],
+   "processes": [],
+   "examTip": "Ha a kínai modellt kell jellemezned, a kulcsszó: gazdasági nyitás politikai nyitás nélkül.",
+   "selfCheck": [
+    {
+     "q": "Mikor került vissza Hongkong Kínához?",
+     "a": "1997-ben."
+    },
+    {
+     "q": "Mi jellemezte a Mao-korszak gazdaságát?",
+     "a": "Tervutasításos rendszer, népi kommunák, a „nagy ugrás” kudarca és éhínség."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Hongkong a 19. században került brit fennhatóság alá.",
+     "true": true
+    },
+    {
+     "statement": "Kínában a gazdasági reformok a többpártrendszer bevezetésével párhuzamosan zajlottak.",
+     "true": false,
+     "correction": "Kínában ma is egypártrendszer van; a reform kizárólag gazdasági jellegű volt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kina--e2",
+   "explanation": "Kína népességpolitikája a világ egyik legerősebb állami beavatkozása volt a népesedésbe.\n\n- 1950–60-as évek: a népességnövekedést még ösztönözték („sok kéz – nagy erő”).\n- 1970-es évek: „később, ritkábban, kevesebbet” kampány.\n- 1980–2015: egykepolitika. A városi családok általában egy gyermeket vállalhattak, a falvakon és a kisebbségeknél kivételek voltak. Szankciók: bírság, hátrány a munkahelyen.\n\nEredmények:\n- a születésszám gyorsan csökkent, a népességnövekedés lelassult, ez segítette a gazdasági felemelkedést (kevesebb eltartott).\n\nNegatív következmények:\n- gyors öregedés, nyugdíjteher, csökkenő munkaerő;\n- a fiúk túlsúlya (szelektív abortusz), házasodási gondok;\n- „kis császár” jelenség: elkényeztetett egykék;\n- emberi jogi sérelmek, kényszer.\n\nFordulat: 2016-tól két gyermek, 2021-től három gyermek is engedélyezett, sőt ösztönzik a gyermekvállalást – a születésszám mégis alacsony maradt, mert a városi életmód és a költségek miatt kevés gyermeket vállalnak.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "születésszabályozás",
+    "öregedő és fiatalodó társadalom",
+    "természetes fogyás",
+    "népességfogyás",
+    "korfa"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Értékelésnél mindig legyen pozitív és negatív oldal, és a fordulat (2016, 2021) is szerepeljen.",
+   "selfCheck": [
+    {
+     "q": "Milyen hosszú távú gondot okozott az egykepolitika?",
+     "a": "Gyors öregedést, munkaerőhiányt, a nemek arányának torzulását."
+    },
+    {
+     "q": "Miért nem nőtt érdemben a születésszám a korlátozás feloldása után?",
+     "a": "A városiasodás, a magas lakhatási és nevelési költségek, a nők munkavállalása miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az egykepolitika idején a falusi családok és egyes nemzetiségek több gyermeket is vállalhattak.",
+     "true": true
+    },
+    {
+     "statement": "Kínában ma is szigorúan tilos egynél több gyermeket vállalni.",
+     "true": false,
+     "correction": "Az egykepolitikát 2015-ben megszüntették; ma három gyermek is engedélyezett, sőt az állam ösztönzi a gyermekvállalást."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kina--e3",
+   "explanation": "Kína mezőgazdasága élesen kettéválik egy keleti és egy nyugati részre.\n\nKelet-Kína (a népesség többsége):\n- monszunéghajlat, termékeny folyami síkságok (Kínai-alföld, Jangce- és Sárga-folyó völgye);\n- intenzív, munkaigényes földművelés;\n- délen (Jangcétól délre): rizs, évi két-három termés, tea, cukornád, citrusfélék, selyemhernyó;\n- északon: búza, kukorica, szója, köles; a löszvidéken teraszos művelés;\n- sertés- és baromfitartás, édesvízi haltenyésztés.\n\nNyugat-Kína (Tibet, Hszincsiang, Belső-Mongólia):\n- száraz, szélsőségesen szárazföldi vagy magashegységi éghajlat (Takla-Makán, Góbi, Tibet);\n- ritka népesség, extenzív legeltető állattartás: juh, kecske, jak, ló – nomád vagy félnomád formában;\n- oázisgazdálkodás (gyapot, gyümölcs) a hegylábaknál.\n\nOk: a monszun csak a keleti részre jut el; a nyugatot hegységek és óceántávolság zárják el.",
+   "diagram": "monsoon",
+   "concepts": [
+    "monszungazdálkodás",
+    "mérsékelt övezeti monszunéghajlat",
+    "nomád pásztorkodás (vándorló állattenyésztés)",
+    "oázisgazdálkodás",
+    "szélsőségesen szárazföldi terület"
+   ],
+   "processes": [
+    "monszun"
+   ],
+   "examTip": "Az összehasonlítás legyen szempontos: éghajlat – népsűrűség – termelési mód – termények – állatok, mindkét országrészre.",
+   "selfCheck": [
+    {
+     "q": "Miért rizstermelő Dél-Kína és búzatermelő Észak-Kína?",
+     "a": "Délen melegebb, csapadékosabb a monszun; északon hűvösebb, szárazabb az éghajlat."
+    },
+    {
+     "q": "Milyen állatot tartanak Tibetben?",
+     "a": "Jakot, juhot, kecskét."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Kína népességének és szántóföldjeinek nagy része a keleti országrészben van.",
+     "true": true
+    },
+    {
+     "statement": "Nyugat-Kínában intenzív öntözéses rizstermesztés a jellemző.",
+     "true": false,
+     "correction": "Nyugaton extenzív legeltetés és oázisgazdálkodás jellemző; a rizs a keleti, déli monszunterületek növénye."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kina--e4",
+   "explanation": "Kína tengerparti és belső területei között óriási a fejlettségi különbség.\n\nTermészeti alapok:\n- Kelet: termékeny alföldek, monszuncsapadék, nagy folyók (Jangce, Sárga-folyó), hajózható vízutak, tengerpart, kikötők.\n- Nyugat: magashegységek (Tibet, Himalája), sivatagok (Takla-Makán, Góbi), hideg vagy száraz éghajlat, nehéz közlekedés.\n\nTársadalmi-gazdasági erősítő tényezők:\n- a tengerparti különleges gazdasági övezetek és nyitott városok (Sencsen, Sanghaj, Kanton, Tiencsin) vonzották a külföldi tőkét;\n- itt a sűrű népesség, képzett munkaerő, piac.\n\nKövetkezmények:\n- jövedelmi és életszínvonalbeli különbség;\n- belső vándorlás: százmilliós vendégmunkás-tömegek költöztek a falvakból a tengerparti városokba;\n- a nyugati országrész természeti erőforrásai (kőolaj, földgáz, vízenergia) keletre áramlanak.\n\nKiegyenlítési kísérletek: „Nyugat-fejlesztési” program, vasútépítés Tibetbe, ipar áttelepítése a belső területekre (pl. Vuhan, Csungking).",
+   "diagram": null,
+   "concepts": [
+    "társadalmi-gazdasági egyenlőtlenség",
+    "belföldi és nemzetközi vándorlás",
+    "regionális politika",
+    "telepítő tényező"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Válaszd szét a természeti alapokat és a társadalmi-gazdasági okokat – a feladat kifejezetten a természeti alapokat kérdezi.",
+   "selfCheck": [
+    {
+     "q": "Mi a fő természeti oka a nyugati területek elmaradásának?",
+     "a": "Magashegységi, sivatagi, száraz éghajlat, nehéz megközelíthetőség."
+    },
+    {
+     "q": "Milyen belső vándorlást okozott a fejlettségkülönbség?",
+     "a": "Falusi vendégmunkások tömeges vándorlását a tengerparti városokba."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A különleges gazdasági övezeteket Kína tengerparti részén hozták létre.",
+     "true": true
+    },
+    {
+     "statement": "Kína népessége egyenletesen oszlik el az ország területén.",
+     "true": false,
+     "correction": "A népesség túlnyomó része a keleti, tengerparti és folyóvölgyi területeken él, a nyugat ritkán lakott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "japan--k1",
+   "explanation": "Japán a természeti hátrányokat a világ egyik legsikeresebb gazdaságává alakította.\n\nTermészeti adottságok:\n- szigetország (Japán-szigetek), területének nagy része hegyvidék, kevés a sík terület;\n- szinte nincs ásványkincse és energiahordozója;\n- földrengés-, cunami-, vulkán- és tájfunveszély.\n\nKövetkezmények a gazdaságban:\n- nyersanyag- és energiaimportra szorul, ezért exportra kell termelnie, hogy fizetni tudjon;\n- az ipar a tengerparton, kikötők mellett települt (Tokió, Jokohama, Oszaka, Nagoja); feltöltött tengerparti területeken épültek gyárak;\n- erős hajóépítés, kereskedelmi flotta;\n- kevés sík terület → zsúfolt városok, a Tokaido mamutváros-sáv;\n- intenzív, kisüzemi rizstermesztés teraszokon, jelentős halászat és tenger gyümölcsei;\n- földrengésbiztos építészet, fejlett mérnöki tudás.\n\nA szigethelyzet előny is: olcsó tengeri szállítás, elérhető világpiac.",
+   "diagram": null,
+   "concepts": [
+    "Tokaido",
+    "mamutváros (megalopolisz)",
+    "telepítő tényező",
+    "külkereskedelmi áruszerkezet",
+    "halászat"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Japánnál a „nyersanyag be – késztermék ki” logika a kulcs: a nyersanyaghiány miatt lett exportorientált.",
+   "selfCheck": [
+    {
+     "q": "Miért települt a japán ipar a tengerpartra?",
+     "a": "Mert a nyersanyag tengeren érkezik és a késztermék tengeren távozik; a belső terület hegyvidéki."
+    },
+    {
+     "q": "Mi a Tokaido?",
+     "a": "A Tokió–Jokohama–Nagoja–Oszaka közötti városövezet, mamutváros."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Japán energiahordozóinak nagy részét importálja.",
+     "true": true
+    },
+    {
+     "statement": "Japán ipara főleg az ország hegyvidéki belső területein koncentrálódik.",
+     "true": false,
+     "correction": "Az ipar a tengerparti síkságokon és kikötők mentén, főleg a Tokaido sávban összpontosul."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "japan--k2",
+   "explanation": "Japán volt Ázsia első ipari nagyhatalma, és máig fontos motorja a térség fejlődésének.\n\nTények:\n- A második világháború után évtizedekig a világ második legnagyobb gazdasága volt; ma is a vezető gazdaságok közé tartozik, a Triád ázsiai pillére.\n- A „repülő vadludak” modell: Japán az elavuló, munkaigényes ágazatokat áttelepítette a szomszédokba (Dél-Korea, Tajvan, majd Délkelet-Ázsia és Kína), ezzel segítve az ő iparosodásukat.\n- Japán TNC-k (Toyota, Honda, Sony, Panasonic) gyárakat építettek Thaiföldön, Malajziában, Indonéziában, Kínában.\n- Japán az ázsiai térség jelentős tőkebefektetője és fejlesztési segélyezője.\n- Tagja az APEC-nek, szoros kereskedelmi kapcsolatban áll az ASEAN-nal.\n- Mintát adott: exportorientált fejlődés, minőségközpontú termelés (just-in-time, karcsúsított gyártás).\n\nPénzügyi központja, Tokió világváros.",
+   "diagram": null,
+   "concepts": [
+    "Triád",
+    "transznacionális vállalat (TNC)",
+    "működőtőke-befektetés",
+    "Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC)",
+    "világváros (globális város)"
+   ],
+   "processes": [
+    "toke-aramlasa",
+    "globalizacio"
+   ],
+   "examTip": "Tényekkel támassz alá: TNC-k és telephelyek, tőkekivitel, modellként szolgáló fejlődési út.",
+   "selfCheck": [
+    {
+     "q": "Mi a „repülő vadludak” modell lényege?",
+     "a": "A vezető ország (Japán) a munkaigényes iparágakat a kevésbé fejlett szomszédokba telepíti, akik követik a fejlődési úton."
+    },
+    {
+     "q": "Nevezz meg két japán TNC-t!",
+     "a": "Pl. Toyota, Sony."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Japán jelentős tőkebefektető Délkelet-Ázsiában.",
+     "true": true
+    },
+    {
+     "statement": "Japán a 21. században vált először jelentős ipari hatalommá.",
+     "true": false,
+     "correction": "Japán már a 19. század végétől iparosodott, a 20. század második felében pedig vezető gazdasági nagyhatalommá vált."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "japan--e1",
+   "explanation": "Japán fejlődésének kulcsa a történelmi fordulópontokban rejlik.\n\n- Évszázados elzárkózás (Tokugava-kor): sajátos, zárt kultúra, de magas szintű kézművesség, írásbeliség.\n- 1868: Meidzsi-restauráció – felülről irányított modernizáció: nyugati technika átvétele, vasútépítés, kötelező oktatás, erős állami iparfejlesztés. Kialakultak a nagy családi konszernek (zaibacuk).\n- 20. század első fele: gyarmatosító terjeszkedés (Korea, Tajvan, Mandzsúria), hadiipar.\n- 1945: vereség, atombomba (Hirosima, Nagaszaki), romos ország.\n- Háború utáni „gazdasági csoda”: amerikai segítség és piac, alacsony katonai kiadások, magas megtakarítás, állami iparpolitika, nagyvállalati csoportok (keirecu), élethosszig tartó foglalkoztatás, szorgalmas, fegyelmezett munkaerő.\n- 1990-es évektől: ingatlan- és tőzsdebuborék kipukkanása, „elveszett évtized”, lassú növekedés, öregedő társadalom.\n\nA közösségi értékek (csoporthoz tartozás, tanulás tisztelete) a fejlődés kulturális hátterét adták.",
+   "diagram": null,
+   "concepts": [
+    "öregedő és fiatalodó társadalom",
+    "gazdasági növekedés",
+    "innováció",
+    "ipari (indusztriális) társadalom"
+   ],
+   "processes": [],
+   "examTip": "Két fordulópontot mindig tudj: Meidzsi-restauráció (1868) és a háború utáni gazdasági csoda okai.",
+   "selfCheck": [
+    {
+     "q": "Mi volt a Meidzsi-restauráció jelentősége?",
+     "a": "Felülről irányított modernizáció, a nyugati technika és intézmények átvétele, az iparosodás kezdete."
+    },
+    {
+     "q": "Mondj két okot a háború utáni gazdasági csodára!",
+     "a": "Pl. amerikai támogatás és piac, alacsony katonai kiadás, magas megtakarítás, fegyelmezett munkaerő."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az 1990-es évektől Japán gazdasági növekedése jelentősen lelassult.",
+     "true": true
+    },
+    {
+     "statement": "Japán modernizációja a 20. század közepén, amerikai megszállás alatt kezdődött.",
+     "true": false,
+     "correction": "A modernizáció 1868-ban, a Meidzsi-restaurációval kezdődött."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "japan--e2",
+   "explanation": "Japán sikerének titka, hogy gazdaságszerkezetét mindig a világpiac változó igényeihez igazította.\n\nA szerkezetváltás szakaszai:\n- 1950-es évek: munkaigényes könnyűipar (textil, játék) – olcsó munkaerőre építve.\n- 1960–70-es évek: nehézipar és tömegtermelés: acél, hajóépítés, petrolkémia.\n- Az 1970-es olajválságok után: energiatakarékos, tudásigényes ágazatok – autóipar (kis fogyasztású autók), szórakoztató elektronika.\n- 1980-as évektől: csúcstechnológia: mikroelektronika, robotika, optika, számítógép-alkatrészek.\n- Ma: robotizáció, hibrid és hidrogénhajtású autók, precíziós gépek, anyagtudomány.\n\nEszközei:\n- állami iparpolitika (MITI), K+F-támogatás;\n- minőség és megbízhatóság, karcsúsított gyártás;\n- a vámkorlátozások kikerülése: gyárak telepítése a célpiacokon (USA, Európa, köztük Magyarország – Suzuki, Esztergom).\n\nÍgy a válságágazatokból mindig időben váltott a húzóágazatok felé.",
+   "diagram": null,
+   "concepts": [
+    "gazdasági szerkezetváltás",
+    "húzóágazat",
+    "válságágazat",
+    "robotizáció",
+    "kőolajár-robbanás",
+    "kutatás-fejlesztés (K+F tevékenység)"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Idővonalon mutasd be: könnyűipar → nehézipar → autó, elektronika → csúcstechnológia, és mondd meg, mi indokolta a váltást.",
+   "selfCheck": [
+    {
+     "q": "Hogyan reagált Japán az 1970-es évek olajválságára?",
+     "a": "Energiatakarékos, tudásigényes ágazatok felé fordult (kis fogyasztású autók, elektronika)."
+    },
+    {
+     "q": "Miért telepítettek japán cégek gyárakat Európába és az USA-ba?",
+     "a": "A vámok és kvóták kikerülésére, a piacok közelsége miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Suzuki esztergomi gyára példa a japán cégek piacközeli telephelyválasztására.",
+     "true": true
+    },
+    {
+     "statement": "Japán a 2000-es évek óta főleg munkaigényes textiliparra specializálódott.",
+     "true": false,
+     "correction": "Japán a csúcstechnológiára (robotika, elektronika, járműipar) szakosodott; a textilipar már az 1960-as évektől háttérbe szorult."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "india--k1",
+   "explanation": "India ma a világ legnépesebb országa. Népesedése a népesedési átmenet középső-késői szakaszában jár.\n\nA folyamat:\n- a függetlenség (1947) után a halandóság gyorsan csökkent, a születésszám magas maradt → népességrobbanás;\n- az állami családtervezési programok (köztük az 1970-es évek kényszersterilizációs kampánya) vegyes eredményt hoztak;\n- ma a születésszám csökken, főleg a városokban és a déli, iskolázottabb államokban (pl. Kerala); az északi, szegényebb államokban még magas;\n- a korfa még fiatalos, nagy a munkaképes korúak aránya (demográfiai osztalék).\n\nÖsszefüggés az élelmezéssel:\n- a népességnövekedéssel versenyt kell futnia az élelmiszer-termelésnek;\n- a zöld forradalom (nagy hozamú búza és rizs, öntözés, műtrágya) megszüntette a nagy éhínségeket, India gabonából önellátó lett;\n- a mennyiségi éhezés csökkent, de a minőségi éhezés, gyermekkori alultápláltság még jelentős, mert sokan szegények;\n- a hindu vallás miatt sokan vegetáriánusok.",
+   "diagram": "demographic",
+   "concepts": [
+    "népességrobbanás",
+    "népesedési átmenet (demográfiai átmenet)",
+    "születésszabályozás",
+    "mennyiségi és minőségi éhezés",
+    "alultápláltság"
+   ],
+   "processes": [
+    "demografiai-atmenet"
+   ],
+   "examTip": "Az élelmezésnél ne állítsd, hogy Indiában ma tömeges éhínség van – a gond a szegénység és a minőségi éhezés.",
+   "selfCheck": [
+    {
+     "q": "Melyik program növelte meg látványosan India gabonatermelését?",
+     "a": "A zöld forradalom."
+    },
+    {
+     "q": "Miért eltérő a születésszám India északi és déli államaiban?",
+     "a": "Délen magasabb az iskolázottság (főleg a nőké) és a fejlettség, ezért kevesebb a gyermek."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "India korfája fiatalosabb, mint Kínáé.",
+     "true": true
+    },
+    {
+     "statement": "Indiában a zöld forradalom után teljesen megszűnt az alultápláltság.",
+     "true": false,
+     "correction": "A mennyiségi éhezés csökkent, de a szegénység miatt a minőségi éhezés és a gyermekkori alultápláltság máig jelentős."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "india--k2",
+   "explanation": "India mezőgazdasága a monszunhoz és a domborzathoz igazodik; a népesség jelentős része ma is ebből él.\n\nTermészeti adottságok:\n- forró övezeti monszunéghajlat: nyári esős, téli száraz évszak;\n- termékeny hordalékos síkságok: Hindusztáni-alföld (Gangesz, Indus); a Dekkán-fennsíkon a bazalton fekete, termékeny talaj.\n\nTérségek és termények:\n- Gangesz-delta és csapadékos keleti part: rizs, juta.\n- Az északnyugati, szárazabb Pandzsáb: öntözéses búza („India magtára”).\n- Dekkán-fennsík: gyapot, köles, cirok, hüvelyesek, olajos magvak.\n- Csapadékos hegyoldalak (Assam, Himalája lábai, Nyugati-Ghatok): teaültetvények, fűszerek, kávé.\n- Cukornád szinte mindenhol.\n\nJellemzők: sok apró, kézi művelésű birtok; a monszun ingadozása aszályt vagy árvizet hoz; nagy az öntözés szerepe. Állatállománya hatalmas (szarvasmarha, bivaly), de a hindu vallás miatt főleg tejtermelésre és igaerőnek tartják.",
+   "diagram": "monsoon",
+   "concepts": [
+    "monszungazdálkodás",
+    "forró övezeti (trópusi) monszunéghajlat",
+    "ültetvényes gazdálkodás",
+    "öntözővíz"
+   ],
+   "processes": [
+    "monszun"
+   ],
+   "examTip": "Térképes feladatnál párosítsd a terményt a területtel: rizs–Gangesz-delta, búza–Pandzsáb, tea–Assam, gyapot–Dekkán.",
+   "selfCheck": [
+    {
+     "q": "Hol termesztenek Indiában öntözéses búzát?",
+     "a": "Az északnyugati, szárazabb Pandzsábban, az Indus mellékfolyói mentén."
+    },
+    {
+     "q": "Milyen ültetvényes terméke híres Assamnak?",
+     "a": "A tea."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A juta a Gangesz-delta csapadékos, árvízjárta területeinek fontos rostnövénye.",
+     "true": true
+    },
+    {
+     "statement": "Indiában a szarvasmarhát elsősorban húsáért tartják.",
+     "true": false,
+     "correction": "A hinduk számára a tehén szent; főleg tejért és igaerőként tartják."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "india--k3",
+   "explanation": "Indiában jól megfigyelhető a duális (kettős) gazdasági szerkezet: egy országon belül egymás mellett él a modern és a hagyományos gazdaság.\n\nModern szektor:\n- informatika és szoftverfejlesztés (Bengaluru), üzleti szolgáltatások, ügyfélszolgálati központok;\n- gyógyszeripar, autóipar, acélipar, űrkutatás, atomenergia;\n- nagyvárosok: Mumbai (pénzügy, Bollywood filmipar), Újdelhi, Csennai, Bengaluru.\n- Itt képzett, angolul beszélő munkaerő dolgozik magas bérért.\n\nHagyományos szektor:\n- kisparaszti, önellátó földművelés, kézi munka;\n- kézműipar, informális (be nem jelentett) munka, utcai árusok;\n- a népesség nagy része, főleg a falvakban.\n\nKövetkezmények:\n- óriási jövedelmi és területi különbségek;\n- a falvakból a városokba áramlás, nyomornegyedek (Mumbai, Kolkata);\n- a modern szektor kevés munkahelyet teremt a hatalmas népességhez képest.\n\nA dualitás jellemző a fejlődő világ sok országára (pl. Brazília, Indonézia).",
+   "diagram": null,
+   "concepts": [
+    "duális gazdasági szerkezet",
+    "társadalmi-gazdasági egyenlőtlenség",
+    "nyomornegyed",
+    "technopolisz"
+   ],
+   "processes": [],
+   "examTip": "A duális szerkezetnél mindig mindkét pólust jellemezd, és mondj rá konkrét várost vagy ágazatot.",
+   "selfCheck": [
+    {
+     "q": "Melyik indiai város az informatikai ipar központja?",
+     "a": "Bengaluru (Bangalore)."
+    },
+    {
+     "q": "Mi a duális gazdasági szerkezet?",
+     "a": "Egy országon belül a modern, fejlett és a hagyományos, elmaradott gazdaság együttélése."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Indiában a modern ágazatok mellett a népesség jelentős része ma is a mezőgazdaságból él.",
+     "true": true
+    },
+    {
+     "statement": "A duális gazdasági szerkezet azt jelenti, hogy az ország két nagy kereskedelmi partnerrel áll kapcsolatban.",
+     "true": false,
+     "correction": "A duális szerkezet a modern és a hagyományos gazdasági szektor egymás melletti létezését jelenti egy országon belül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "india--e1",
+   "explanation": "India fejlődésének sajátos vonásai a történelmében gyökereznek.\n\n- Ősi civilizáció: az Indus-völgyi kultúra, majd a hindu, buddhista birodalmak; a kasztrendszer kialakulása.\n- Muszlim uralom (Mogul Birodalom, Tádzs Mahal) – az iszlám elterjedése északon.\n- Brit gyarmat (a 18. századtól 1947-ig): vasútépítés, angol nyelv és közigazgatás, ültetvények (tea, gyapot, juta), de a hagyományos kézműipar (textil) tönkrement, India nyersanyag-szállítóvá vált.\n- 1947: függetlenség és felosztás: a hindu többségű India és a muszlim Pakisztán (később Banglades is) – tömeges menekülés, máig tartó konfliktus (Kasmír).\n- 1947–1991: zárt, állami tervezésű gazdaság, importhelyettesítés, sok szabályozás – lassú növekedés.\n- 1991-től: liberalizáció, nyitás a külföldi tőke felé, privatizáció – gyors növekedés, az informatika felfutása.\n\nA brit örökség (angol nyelv, egyetemek) ma előny a szolgáltatás-kereskedelemben.",
+   "diagram": null,
+   "concepts": [
+    "piacgazdaság",
+    "protekcionizmus",
+    "privatizáció",
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "processes": [],
+   "examTip": "Két évszámot jegyezz meg: 1947 (függetlenség, felosztás) és 1991 (gazdasági nyitás).",
+   "selfCheck": [
+    {
+     "q": "Milyen gyarmati örökség segíti ma India szolgáltatásexportját?",
+     "a": "Az angol nyelv széles körű ismerete."
+    },
+    {
+     "q": "Mi történt 1991-ben India gazdaságában?",
+     "a": "Liberalizáció: nyitás a külföldi tőke felé, a szabályozás lazítása."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "India függetlenné válásakor elvált tőle a muszlim többségű Pakisztán.",
+     "true": true
+    },
+    {
+     "statement": "A brit gyarmati uralom a hagyományos indiai textil-kézműipar felvirágzását hozta.",
+     "true": false,
+     "correction": "A brit gyáripari textil versenye tönkretette a hagyományos indiai kézműipart, India nyersanyag-szállítóvá vált."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "india--e2",
+   "explanation": "Indiában a vallási, társadalmi hagyományok erősen hatnak a gazdaságra.\n\n- Hinduizmus és a szent tehén: a szarvasmarhák száma óriási, de húsukat a hinduk nem fogyasztják; a tej viszont fontos (tejtermelés). A tehenek szabadon kóborolnak a városokban.\n- Vegetarianizmus: a fehérjeforrás a hüvelyesek (lencse, csicseriborsó) és a tej.\n- Kasztrendszer: hivatalosan tiltott a hátrányos megkülönböztetés, de a születéssel járó társadalmi helyzet máig befolyásolja a foglalkozást, a házasságot, a mobilitást. A modern ágazatok (informatika) új, kasztokhoz nem kötött foglalkozásokat teremtettek.\n- A nagycsaládos hagyomány, a fiúgyermek előnyben részesítése, a hozomány szokása – ez befolyásolja a népesedést és a nők munkavállalását.\n- Vallási zarándoklatok: Váránaszi (Benares) a Gangesz partján, a Kumbh Mela – hatalmas belföldi turizmus.\n- Vallási sokszínűség: hindu többség mellett jelentős muszlim kisebbség, szikhek (Pandzsáb), keresztények – időnként konfliktusok.",
+   "diagram": null,
+   "concepts": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+    "kulturális régió",
+    "etnikai kisebbség",
+    "többnemzetiségű állam"
+   ],
+   "processes": [],
+   "examTip": "Minden hagyományhoz kapcsolj egy kézzelfogható gazdasági következményt – ez a „példákkal alátámasztás”.",
+   "selfCheck": [
+    {
+     "q": "Hogyan hat a hinduizmus az állattenyésztésre?",
+     "a": "A tehén szent, ezért marhahúst nem termelnek, de a tejtermelés jelentős."
+    },
+    {
+     "q": "Melyik város a hindu zarándokok legfontosabb célpontja a Gangesz mentén?",
+     "a": "Váránaszi (Benares)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A kasztrendszer szerinti megkülönböztetést India alkotmánya tiltja, mégis máig hat a társadalomra.",
+     "true": true
+    },
+    {
+     "statement": "Indiában a vallási hagyományok miatt a tejtermelés jelentéktelen.",
+     "true": false,
+     "correction": "Épp ellenkezőleg: a vegetáriánus étrend miatt a tej és a tejtermékek nagyon fontosak; India a világ vezető tejtermelői közé tartozik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "india--e3",
+   "explanation": "India a világ szolgáltatás-kereskedelmének egyik fő szereplője, főleg az informatikai és üzleti szolgáltatások exportjában.\n\nMiért?\n- nagy létszámú, angolul beszélő, képzett munkaerő (mérnökök, informatikusok);\n- a nyugati bérekhez képest alacsony munkabér;\n- időeltolódás: amikor az USA-ban éjszaka van, Indiában dolgoznak – folyamatos szolgáltatás;\n- fejlett távközlés, internet;\n- állami támogatás, technológiai parkok.\n\nTevékenységek:\n- szoftverfejlesztés, informatikai szolgáltatás (Bengaluru, Haidarábád, Puna);\n- kiszervezett (outsourcing) ügyfélszolgálatok, könyvelés, adatfeldolgozás;\n- orvosi turizmus, gyógyszerkutatás;\n- filmipar: Bollywood (Mumbai).\n\nJelentősége: a szolgáltatásexport sok devizát hoz és csökkenti a külkereskedelmi hiányt, de viszonylag kevés embernek ad munkát. Sok indiai informatikus külföldön dolgozik (agyelszívás), hazautalásaik is fontosak.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "áru- és szolgáltatáskereskedelem",
+    "tercier és kvaterner szektor",
+    "agyelszívás (brain drain)",
+    "nemzetközi munkamegosztás",
+    "technopolisz"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Az indokok közül az angol nyelvtudást, a képzett és olcsó munkaerőt és az időeltolódást szinte mindig várják.",
+   "selfCheck": [
+    {
+     "q": "Miért előnyös az időeltolódás India szolgáltatásexportjában?",
+     "a": "Az amerikai éjszaka alatt Indiában dolgoznak, így a munka folyamatos."
+    },
+    {
+     "q": "Melyik város India „Szilícium-völgye”?",
+     "a": "Bengaluru (Bangalore)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "India jelentős informatikai szolgáltatásexportőr.",
+     "true": true
+    },
+    {
+     "statement": "Az indiai szolgáltatásexport a népesség többségének ad munkát.",
+     "true": false,
+     "correction": "A modern szolgáltatások a hatalmas népességhez képest kevés embert foglalkoztatnak; a többség a mezőgazdaságban és az informális szektorban dolgozik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delkelet-azsia--k1",
+   "explanation": "Délkelet-Ázsia az Indokínai-félszigetből és az Indonéz-szigetvilágból (a Maláj-szigetvilágból) áll, Kína és India között, a Csendes- és az Indiai-óceán határán.\n\nA térség országai:\n- Szárazföldi rész (Indokínai-félsziget): Mianmar, Thaiföld (Bangkok), Laosz, Kambodzsa, Vietnám, valamint Malajzia félszigeti része.\n- Szigetvilág: Indonézia (Jakarta; Jáva, Szumátra, Borneó részei), Fülöp-szigetek (Manila), Szingapúr, Brunei, Kelet-Timor és Malajzia Borneó északi részén lévő területe.\n\nA legtöbb állam a Délkelet-ázsiai Nemzetek Szövetségének (ASEAN) tagja.\n\nJó kapaszkodók a térképen:\n- a Mekong folyó Kínából ered, és Vietnám déli részén ömlik a Dél-kínai-tengerbe;\n- a Malakka-szoros Malajzia és Szumátra között, a déli kijáratánál Szingapúr fekszik;\n- az Egyenlítő Indonézián halad át.\n\nVallásilag vegyes: Thaiföldön, Mianmarban buddhizmus, Indonéziában és Malajziában iszlám, a Fülöp-szigeteken katolikus kereszténység az uralkodó.",
+   "diagram": null,
+   "concepts": [
+    "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)",
+    "tényleges és viszonylagos földrajzi fekvés",
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)"
+   ],
+   "processes": [],
+   "examTip": "Kontúrtérképen a Fülöp-szigeteket és Indonéziát gyakran felcserélik: a Fülöp-szigetek északabbra, Tajvantól délre fekszik.",
+   "selfCheck": [
+    {
+     "q": "Melyik délkelet-ázsiai ország vallása túlnyomóan katolikus?",
+     "a": "A Fülöp-szigeteké."
+    },
+    {
+     "q": "Melyik városállam fekszik a Malakka-szoros déli kijáratánál?",
+     "a": "Szingapúr."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Thaiföld a térség buddhista többségű országai közé tartozik.",
+     "true": true
+    },
+    {
+     "statement": "Banglades Délkelet-Ázsia része és az ASEAN tagja.",
+     "true": false,
+     "correction": "Banglades Dél-Ázsiához tartozik és nem tagja az ASEAN-nak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delkelet-azsia--k2",
+   "explanation": "Délkelet-Ázsia országai nagyon eltérő ütemben fejlődtek; a térség a gyarmati múltból indult.\n\nTermészeti háttér:\n- egyenlítői és monszunéghajlat: rizs, trópusi ültetvények (kaucsuk, olajpálma, kókusz, kávé, tea);\n- ásványkincsek: ón (Malajzia), kőolaj, földgáz (Indonézia, Brunei), kőszén;\n- fekvés a világ egyik legforgalmasabb tengeri útvonalán (Malakka-szoros);\n- de földrengés, vulkán, cunami, tájfun veszélye.\n\nTársadalmi háttér:\n- gyarmati múlt (brit, holland, francia, spanyol, majd amerikai) – ültetvények, nyersanyag-export;\n- sok nyelv, vallás, nagy kínai kisebbség a kereskedelemben;\n- nagy és olcsó munkaerő.\n\nFejlődési utak:\n- Szingapúr: kikötő, pénzügyi és csúcstechnológiai központ, újonnan iparosodott ország, fejlett.\n- Malajzia, Thaiföld: a japán és nyugati tőke beáramlásával elektronika, autóipar – „második hullám”.\n- Vietnám, Indonézia, Fülöp-szigetek: újabban gyors iparosodás (textil, elektronika összeszerelés).\n- Mianmar, Laosz, Kambodzsa: elmaradottabbak, mezőgazdasági jellegűek.",
+   "diagram": null,
+   "concepts": [
+    "újonnan iparosodott országok",
+    "ültetvényes gazdálkodás",
+    "működőtőke-befektetés",
+    "monszungazdálkodás"
+   ],
+   "processes": [
+    "toke-aramlasa",
+    "monszun"
+   ],
+   "examTip": "Csoportosítsd az országokat fejlettség szerint (Szingapúr – második hullám – újonnan felzárkózók – elmaradottak), és mindegyikhez írj okot.",
+   "selfCheck": [
+    {
+     "q": "Mi Malajzia hagyományos ásványkincse?",
+     "a": "Az ón (emellett kőolaj, földgáz)."
+    },
+    {
+     "q": "Miért vált Szingapúr fejlett gazdasággá?",
+     "a": "Kiváló fekvés a Malakka-szorosnál, kikötő, pénzügyi szolgáltatások, képzett munkaerő, nyitott gazdaságpolitika."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Szingapúr az első hullám újonnan iparosodott országai közé tartozik.",
+     "true": true
+    },
+    {
+     "statement": "Délkelet-Ázsia országai közül egyik sem volt európai gyarmat.",
+     "true": false,
+     "correction": "Thaiföld kivételével mind gyarmat volt (brit, holland, francia, spanyol, majd amerikai uralom)."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delkelet-azsia--k3",
+   "explanation": "Délkelet-Ázsia jelentősége a világgazdaságban folyamatosan nő.\n\nMiért fontos a térség?\n- Tengeri útvonal: a Malakka-szoroson át halad az Európa, a Közel-Kelet és Kelet-Ázsia közötti kereskedelem jelentős része, köztük a kőolajszállítás. Szingapúr a világ egyik legforgalmasabb kikötője.\n- Gyártóbázis: elektronika, félvezetők, autó-összeszerelés, ruházat, cipő. Sok cég Kínából is ide helyezi át a termelést az alacsonyabb bérek miatt (pl. Vietnám).\n- Nyersanyag és mezőgazdaság: pálmaolaj (Indonézia, Malajzia), természetes kaucsuk, rizsexport (Thaiföld, Vietnám), ón, földgáz.\n- Pénzügy és szolgáltatás: Szingapúr pénzügyi világváros; turizmus (Thaiföld, Bali).\n- Piac: több mint félmilliárdos, egyre gazdagabb népesség.\n\nIntegráció: az ASEAN szabadkereskedelmi övezetet hozott létre; tagjai az APEC-ben is részt vesznek. A térség Kína, Japán és az USA gazdasági versengésének színtere.",
+   "diagram": null,
+   "concepts": [
+    "Délkelet-ázsiai Nemzetek Szövetsége (ASEAN)",
+    "Ázsiai és Csendes-óceáni Gazdasági Együttműködés (APEC)",
+    "szabadkereskedelmi övezet",
+    "világváros (globális város)"
+   ],
+   "processes": [
+    "globalizacio",
+    "telephelyvalasztas"
+   ],
+   "examTip": "A „világgazdasági jelentőség” kérdésre négy szempontot adj: útvonal, gyártóbázis, nyersanyag/termény, piac.",
+   "selfCheck": [
+    {
+     "q": "Melyik tengerszoros a térség legfontosabb kereskedelmi útvonala?",
+     "a": "A Malakka-szoros."
+    },
+    {
+     "q": "Mely két ország a pálmaolaj legnagyobb termelője?",
+     "a": "Indonézia és Malajzia."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Thaiföld és Vietnám jelentős rizsexportőr.",
+     "true": true
+    },
+    {
+     "statement": "Az ASEAN egy katonai szövetség, amely gazdasági együttműködéssel nem foglalkozik.",
+     "true": false,
+     "correction": "Az ASEAN elsősorban gazdasági és politikai együttműködés, szabadkereskedelmi övezetet is létrehozott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delnyugat-azsia--k1",
+   "explanation": "Délnyugat-Ázsiában, főleg a Perzsa (Arab)-öböl környékén található a világ ismert kőolajkészleteinek jelentős része.\n\nFő termelők: Szaúd-Arábia, Irak, Irán, Kuvait, Egyesült Arab Emírségek, Katar (földgáz).\n\nMiért ennyi az olaj? A fedett Arab-ősföld peremén és a Perzsa (Arab)-öböl süllyedékében vastag üledékes rétegek halmozódtak fel, bennük kiváló tároló- és záró kőzetekkel. A kitermelés olcsó, a mezők óriásiak.\n\nVilággazdasági jelentőség:\n- az OPEC alapító tagjai közöttük vannak; az olajár alakításával a világgazdaságot befolyásolják (1973 és 1979: kőolajár-robbanás, világválság);\n- az olajszállítás stratégiai útvonalai: Hormuzi-szoros, Szuezi-csatorna, Báb el-Mandeb-szoros;\n- hatalmas petrodollár-bevételek → befektetések a világ minden táján (állami befektetési alapok);\n- a térség konfliktusai (háborúk, szankciók) azonnal megemelik a világpiaci árat;\n- fő vevők: Kelet- és Dél-Ázsia (Kína, Japán, India, Dél-Korea), Európa.",
+   "diagram": null,
+   "concepts": [
+    "Kőolaj-exportáló Országok Szervezete (OPEC)",
+    "kőolaj",
+    "földgáz",
+    "kőolajár-robbanás",
+    "nyersanyag- és energiaválság"
+   ],
+   "processes": [
+    "szenhidrogen-szenkepzodes"
+   ],
+   "examTip": "Írd le a földtani okot (üledékes süllyedék a fedett ősföld peremén) és a világgazdasági hatást (OPEC, árrobbanás) is.",
+   "selfCheck": [
+    {
+     "q": "Mi történt 1973-ban a világ olajpiacán?",
+     "a": "Az arab olajtermelők korlátozták az exportot, az olaj ára többszörösére nőtt (kőolajár-robbanás)."
+    },
+    {
+     "q": "Melyik szoros az öböl olajszállításának kulcspontja?",
+     "a": "A Hormuzi-szoros."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Szaúd-Arábia az OPEC egyik vezető tagja.",
+     "true": true
+    },
+    {
+     "statement": "A Perzsa (Arab)-öböl kőolaja ősföldek kristályos kőzeteiben található.",
+     "true": false,
+     "correction": "A kőolaj vastag üledékes rétegekben halmozódott fel a fedett ősföld peremén és az öböl süllyedékében."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delnyugat-azsia--k2",
+   "explanation": "A kőolaj átalakította a térség országait, de eltérő módon.\n\nGazdag öbölmenti monarchiák (Szaúd-Arábia, Kuvait, Egyesült Arab Emírségek, Katar):\n- kis népesség, óriási olajbevétel → magas egy főre jutó jövedelem;\n- a bevételből modern infrastruktúra, ingyenes oktatás, egészségügy, adómentesség;\n- tömeges vendégmunkás-bevándorlás (India, Pakisztán, Fülöp-szigetek) – sok helyen a lakosság többsége külföldi;\n- egyoldalú gazdaság: az olajfüggés kockázatos, ezért diverzifikálnak: Dubaj kereskedelmi, pénzügyi, légi és turisztikai központ lett; tengervíz-sótalanítás, petrolkémia, alumíniumkohászat.\n\nNépes olajtermelők (Irán, Irak):\n- a nagy népesség miatt kevesebb jut egy főre;\n- háborúk, szankciók, belső konfliktusok fékezik a fejlődést.\n\nÁltalános hatások: gyors városodás (Rijád, Dubaj), sivatagi óriásberuházások, de a társadalmi szerkezet sokszor hagyományos maradt (vallási törvények, monarchia).",
+   "diagram": null,
+   "concepts": [
+    "vendégmunkás",
+    "abszolút monarchia",
+    "húzóágazat",
+    "szakosodás (specializáció)"
+   ],
+   "processes": [],
+   "examTip": "Hasonlítsd össze a kis népességű gazdag öbölállamokat a népes, konfliktusokkal sújtott olajtermelőkkel – ez a jó válasz kulcsa.",
+   "selfCheck": [
+    {
+     "q": "Honnan érkeznek a vendégmunkások az öbölállamokba?",
+     "a": "Főleg Dél- és Délkelet-Ázsiából (India, Pakisztán, Banglades, Fülöp-szigetek), valamint arab országokból."
+    },
+    {
+     "q": "Miért fejlesztik az öbölállamok az olajon kívüli ágazatokat?",
+     "a": "Mert a készletek végesek, az ár ingadozik, és a jövő energiaátmenete csökkenti az olaj szerepét."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Dubaj sikeresen fejlesztette a kereskedelmet, a pénzügyeket és a turizmust az olaj mellett.",
+     "true": true
+    },
+    {
+     "statement": "Az öbölmenti olajállamok lakossága szinte teljes egészében őshonos állampolgár.",
+     "true": false,
+     "correction": "Több öbölállamban a lakosság nagy része, akár többsége külföldi vendégmunkás."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delnyugat-azsia--k3",
+   "explanation": "Délnyugat-Ázsia idegenforgalmi adottságai nagyon gazdagok, de a kihasználásukat a politikai bizonytalanság korlátozza.\n\nTermészeti adottságok:\n- napsütéses, meleg éghajlat, tengerpartok: a Földközi-tenger (Törökország, Izrael), a Vörös-tenger korallzátonyai, a Holt-tenger gyógyhatású, sós vize;\n- sivatagi tájak, oázisok.\n\nKulturális adottságok:\n- Mezopotámia ősi városai, bibliai helyszínek;\n- vallási központok: Jeruzsálem (zsidó, keresztény, muszlim szent város), Mekka és Medina (muszlim zarándoklat);\n- Isztambul bizánci és oszmán emlékei, Kappadókia, Efezus.\n\nFejlett turisztikai központok:\n- Törökország: tengerparti és kulturális turizmus, az egyik leglátogatottabb ország;\n- Egyesült Arab Emírségek (Dubaj): bevásárló-, üzleti és luxusturizmus, légi csomópont;\n- Szaúd-Arábia: vallási turizmus, újabban szabadidős turizmus fejlesztése.\n\nKorlátok: háborúk, terrorveszély (Szíria, Irak, Jemen), vallási előírások (alkoholtilalom, öltözködés), vízhiány.",
+   "diagram": null,
+   "concepts": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+    "világörökség",
+    "szolgáltatások"
+   ],
+   "processes": [],
+   "examTip": "„Értékeld” típusú feladatnál előnyöket ÉS korlátokat is írj, különben csak a pontok felét kapod.",
+   "selfCheck": [
+    {
+     "q": "Milyen turizmus jellemző Mekkára?",
+     "a": "Vallási (zarándok) turizmus."
+    },
+    {
+     "q": "Mi korlátozza a térség idegenforgalmát?",
+     "a": "Háborúk, terrorveszély, politikai bizonytalanság, vallási előírások."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Törökország a világ leglátogatottabb turisztikai célpontjai közé tartozik.",
+     "true": true
+    },
+    {
+     "statement": "A Holt-tenger vize édesvíz, ezért ivóvízforrásként fontos.",
+     "true": false,
+     "correction": "A Holt-tenger vize rendkívül sós; a gyógyturizmus fontos célpontja, de iváshoz nem alkalmas."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delnyugat-azsia--e1",
+   "explanation": "Délnyugat-Ázsiában a vallás, főleg az iszlám, a társadalmi és gazdasági élet minden területét áthatja.\n\nA vallás szerepe:\n- Jogrendszer: több országban (Szaúd-Arábia, Irán) az iszlám jog, a saría az alapja a törvényeknek.\n- Államforma: vallási vezetők irányította köztársaság (Irán), vallásra hivatkozó abszolút monarchia (Szaúd-Arábia).\n- Gazdaság: az iszlám bankrendszer tiltja a kamatot (nyereségmegosztás helyette); sertéshús és alkohol tilalma; a ramadán idején lassul a gazdasági élet.\n- Nők helyzete: egyes országokban korlátozott munkavállalás, öltözködési előírások – ez csökkenti az aktív keresők arányát.\n- Zarándoklat: Mekka évente milliókat vonz – hatalmas bevétel.\n- Konfliktusok: szunnita–síita ellentét (Szaúd-Arábia–Irán versengése, Irak), az izraeli–palesztin konfliktus, Jeruzsálem státusza.\n\nIzrael zsidó állam, de jelentős arab (muszlim, keresztény) kisebbséggel; Törökország világi (szekuláris) állam muszlim többséggel.",
+   "diagram": null,
+   "concepts": [
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+    "abszolút monarchia",
+    "kulturális régió",
+    "etnikai kisebbség"
+   ],
+   "processes": [],
+   "examTip": "A szunnita–síita megosztottság sok konfliktus kulcsa – ha konfliktusról kérdeznek, ezt is említsd.",
+   "selfCheck": [
+    {
+     "q": "Miben különbözik az iszlám bankrendszer a hagyományostól?",
+     "a": "Tiltja a kamatot, helyette nyereség- és kockázatmegosztást alkalmaz."
+    },
+    {
+     "q": "Melyik délnyugat-ázsiai ország világi állam muszlim többséggel?",
+     "a": "Törökország."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Irán síita, Szaúd-Arábia szunnita többségű ország.",
+     "true": true
+    },
+    {
+     "statement": "Az iszlám előírások semmilyen hatással nincsenek a térség élelmiszer-termelésére.",
+     "true": false,
+     "correction": "Az iszlám tiltja a sertéshúst és az alkoholt, így ezek termelése jelentéktelen; a juh, kecske, baromfi a fő hússzolgáltató."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delnyugat-azsia--e2",
+   "explanation": "Törökország és Izrael a térség két, olajra nem épülő, sokoldalú gazdasága.\n\nTörökország:\n- iparosodott félperiféria ország, vámunióban az Európai Unióval;\n- textil- és ruhaipar, autó- és buszgyártás (sok európai és japán gyár), háztartási gépek, élelmiszeripar, építőipar (külföldi építkezések is);\n- mezőgazdaság: gyapot, dohány, mogyoró, füge, szárított gyümölcs, citrusfélék, zöldség;\n- idegenforgalom: Antalya és az égei-tengeri partvidék, Isztambul;\n- energia: nagy gátak az Eufrátesz és a Tigris felső folyásán.\n\nIzrael:\n- fejlett, tudásalapú gazdaság, „start-up nemzet”;\n- csúcstechnológia: informatika, kiberbiztonság, orvosi műszerek, gyógyszeripar, hadiipar, mezőgazdasági technológia;\n- gyémántcsiszolás és -kereskedelem (Tel Aviv-Jaffa);\n- sivatagi mezőgazdaság csepegtető öntözéssel, tisztított szennyvíz és sótalanított tengervíz felhasználásával: citrusfélék, zöldség, virág exportra;\n- vallási és kulturális turizmus (Jeruzsálem).",
+   "diagram": null,
+   "concepts": [
+    "vámunió",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "innováció",
+    "félperiféria térség",
+    "információs gazdaság"
+   ],
+   "processes": [],
+   "examTip": "Izraelnél a csepegtető öntözés és a high-tech, Törökországnál a textil, autóipar és turizmus a „kötelező” kulcsszavak.",
+   "selfCheck": [
+    {
+     "q": "Milyen öntözési technológiáról híres Izrael?",
+     "a": "A víztakarékos csepegtető öntözésről."
+    },
+    {
+     "q": "Milyen kapcsolatban áll Törökország az EU-val gazdaságilag?",
+     "a": "Vámuniót alkot vele (de nem tagja az EU-nak)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Izrael gyémántcsiszolásáról és -kereskedelméről is ismert.",
+     "true": true
+    },
+    {
+     "statement": "Izrael gazdaságának alapja a kőolajexport.",
+     "true": false,
+     "correction": "Izraelnek nincs jelentős kőolaja; gazdasága tudásalapú, csúcstechnológiára épül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delnyugat-azsia--e3",
+   "explanation": "Törökország két kontinens és több kultúra határán fekszik, ez meghatározza a szerepét.\n\nFöldrajzi híd:\n- területének kis része (Kelet-Trákia) Európában, nagyobb része (Kis-Ázsia, Anatólia) Ázsiában van;\n- a Boszporusz és a Dardanellák (a Márvány-tengerrel) köti össze a Fekete-tengert a Földközi-tengerrel – stratégiai tengeri útvonal;\n- Isztambul két kontinensen fekvő világváros, hidak és alagutak kötik össze a partokat.\n\nKulturális híd:\n- bizánci keresztény és oszmán muszlim örökség (Hagia Szophia);\n- muszlim többségű, de világi alapokon szerveződő állam;\n- kapcsolat a türk nyelvű közép-ázsiai népekkel és az arab világgal.\n\nGazdasági, politikai híd:\n- vámunió az EU-val, NATO-tag;\n- energiatranzit: kőolaj- és földgázvezetékek a Kaszpi-térségből és Oroszországból Európa felé;\n- menekültek és migránsok tranzitországa Európa felé;\n- légi csomópont (isztambuli repülőtér).",
+   "diagram": null,
+   "concepts": [
+    "tényleges és viszonylagos földrajzi fekvés",
+    "Észak-atlanti Szerződés Szervezete (NATO)",
+    "vámunió",
+    "menekült",
+    "világváros (globális város)"
+   ],
+   "processes": [],
+   "examTip": "A „híd szerep” három dimenziója: földrajzi (tengerszorosok), kulturális (kereszténység–iszlám, Európa–Ázsia), gazdasági (tranzit, EU-kapcsolat).",
+   "selfCheck": [
+    {
+     "q": "Melyik két tengerszoros köti össze a Fekete-tengert a Földközi-tengerrel?",
+     "a": "A Boszporusz és a Dardanellák."
+    },
+    {
+     "q": "Melyik nemzetközi katonai szövetség tagja Törökország?",
+     "a": "A NATO-é."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Isztambul két kontinensen, Európában és Ázsiában is elterül.",
+     "true": true
+    },
+    {
+     "statement": "Törökország fővárosa Isztambul.",
+     "true": false,
+     "correction": "Törökország fővárosa Ankara; Isztambul a legnagyobb város és gazdasági központ."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "delnyugat-azsia--e4",
+   "explanation": "Izrael kedvezőtlen természeti adottságok és állandó konfliktusok ellenére fejlett országgá vált.\n\nSajátos vonások:\n- 1948-ban alapították zsidó államként; a népesség nagy része bevándorló vagy azok leszármazottja (Európából, a Közel-Keletről, Észak-Afrikából, a volt Szovjetunióból) – a bevándorlás tudást és képzett munkaerőt hozott.\n- Természeti hátrányok: kis terület, félsivatag és sivatag (Negev), vízhiány, nincs jelentős energiahordozó (újabban tengeri földgáz).\n- Válaszok: víztakarékosság, csepegtető öntözés, szennyvíz-újrahasznosítás, tengervíz-sótalanítás; a sivatag termővé tétele.\n- Különleges közösségi gazdálkodási formák: kibuc (közös tulajdon és munka) és mosáv (szövetkezeti falu).\n- Erős oktatás, egyetemek, K+F; a katonaság technológiai fejlesztései polgári cégekben hasznosulnak.\n- Szoros kapcsolat az USA-val és a zsidó diaszpórával: tőke, segély, piac.\n- Konfliktus: az arab szomszédokkal és a palesztinokkal (Gázai-övezet, Ciszjordánia) – magas védelmi kiadások, biztonsági kockázat.",
+   "diagram": null,
+   "concepts": [
+    "ki- és bevándorlás",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "innováció",
+    "szövetkezeti és magántulajdon",
+    "vízgazdálkodás"
+   ],
+   "processes": [],
+   "examTip": "Írd le, hogyan alakította Izrael a hátrányokat (vízhiány, kis terület) előnnyé technológiával – ez a „sajátos fejlődés” lényege.",
+   "selfCheck": [
+    {
+     "q": "Mi a kibuc?",
+     "a": "Közös tulajdonon és munkán alapuló izraeli mezőgazdasági (ma már ipari) közösség."
+    },
+    {
+     "q": "Hogyan pótolja Izrael a vízhiányt?",
+     "a": "Csepegtető öntözéssel, szennyvíz-újrahasznosítással, tengervíz-sótalanítással."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Izrael népességének gyarapodásában a bevándorlás döntő szerepet játszott.",
+     "true": true
+    },
+    {
+     "statement": "Izrael gazdag vízkészletei miatt vált mezőgazdasági exportőrré.",
+     "true": false,
+     "correction": "Izrael vízszegény; a mezőgazdasági exportot a víztakarékos technológiák (csepegtető öntözés, újrahasznosítás) tették lehetővé."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-3-ausztralia-es-oceania-foldrajza--k1",
+   "explanation": "Ausztrália a legkisebb és – az Antarktika után – a legszárazabb kontinens.\n\nTermészeti adottságok:\n- a Baktérítő szeli át, belsejét térítői sivatag és félsivatag borítja;\n- nyugaton a Nyugat-ausztráliai-ősföld táblája, középen az Ausztráliai-alföld a Nagy-Artézi-medencével, keleten a lepusztult Nagy-Vízválasztó-hegység, amely felfogja a délkeleti passzát csapadékát;\n- északon szavanna, délkeleten és délnyugaton mediterrán és nedves éghajlat; egyedülálló élővilág (erszényesek);\n- a Nagy-korallzátony a keleti parton.\n\nErőforrások: vasérc, bauxit, kőszén, arany, urán, földgáz; legelő; artézi víz.\n\nHatás a társadalmi-gazdasági életre:\n- a népesség a délkeleti és délnyugati partvidéken él (Sydney, Melbourne, Canberra, Brisbane, Perth); a belső terület szinte lakatlan;\n- a Nagy-Artézi-medence artézi kútjai teszik lehetővé a juh- és marhatartást;\n- búzaövezet a délkeleti-délnyugati peremen, öntözés a Murray mentén;\n- bányászati export főleg Kínába és Japánba;\n- veszélyek: aszály, bozóttüzek, áradások.",
+   "diagram": null,
+   "concepts": [
+    "artézi víz",
+    "forró övezeti (trópusi) sivatagi éghajlat",
+    "ősföld (ősmasszívum)",
+    "farm",
+    "vasérc",
+    "bauxit"
+   ],
+   "processes": [],
+   "examTip": "A Nagy-Artézi-medence artézi vize és a juhtenyésztés kapcsolata klasszikus vizsgakérdés – tudd a kút működését is.",
+   "selfCheck": [
+    {
+     "q": "Hol él Ausztrália népességének túlnyomó része?",
+     "a": "A délkeleti és délnyugati tengerparti sávban, a nagyvárosokban."
+    },
+    {
+     "q": "Mire használják a Nagy-Artézi-medence vizét?",
+     "a": "Főleg az állatok (juh, szarvasmarha) itatására."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ausztrália jelentős vasércet exportál Kelet-Ázsiába.",
+     "true": true
+    },
+    {
+     "statement": "Ausztrália fővárosa Sydney.",
+     "true": false,
+     "correction": "Ausztrália fővárosa Canberra; Sydney a legnagyobb város."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-3-ausztralia-es-oceania-foldrajza--e1",
+   "explanation": "Óceánia a Csendes-óceán szigetvilága; három nagy része: Melanézia, Mikronézia, Polinézia. Ide tartozik Új-Zéland és Új-Guinea is.\n\nTermészeti jellemzők:\n- szigettípusok: kontinentális szigetek (Új-Guinea, Új-Zéland); vulkáni szigetek (Hawaii-szigetek, Új-Zéland Északi-szigete); korallszigetek, atollok (Mikronézia, Polinézia része);\n- trópusi óceáni éghajlat, passzátszél, trópusi ciklonok;\n- Új-Zéland mérsékelt övezeti, óceáni éghajlatú, gleccserekkel, fjordokkal, gejzírekkel, földrengésekkel.\n\nTársadalom és gazdaság:\n- kis népességű, elszigetelt szigetállamok; őslakos melanéz, polinéz, mikronéz népek; gyarmati múlt;\n- gazdaság: kókuszpálma (kopra), halászat, turizmus, segélyek, külföldön dolgozók hazautalásai; néhol adóparadicsom;\n- Új-Zéland fejlett: juh- és szarvasmarha-tenyésztés, tejtermékek, gyapjú, gyümölcs, turizmus;\n- Új-Guinea: ásványkincsek (réz, arany).\n\nKörnyezeti fenyegetés: a tengerszint emelkedése az alacsony atollokat (pl. Tuvalu, Kiribati) létükben veszélyezteti.",
+   "diagram": null,
+   "concepts": [
+    "vulkáni szigetív",
+    "trópusi ciklon (hurrikán, tájfun)",
+    "globális felmelegedés",
+    "halászat",
+    "adóparadicsom"
+   ],
+   "processes": [
+    "globalis-felmelegedes",
+    "vulkani-mukodes"
+   ],
+   "examTip": "A szigettípusokat (kontinentális, vulkáni, korall) példákkal tudd – gyakori képfelismerős feladat.",
+   "selfCheck": [
+    {
+     "q": "Mi Óceánia három nagy szigetcsoportja?",
+     "a": "Melanézia, Mikronézia, Polinézia."
+    },
+    {
+     "q": "Miért veszélyezteti a globális felmelegedés a korallszigeteket?",
+     "a": "A tengerszint emelkedése elöntheti az alacsony atollokat, sós víz kerül az ivóvízbe."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Új-Zéland jelentős tejtermék- és gyapjúexportőr.",
+     "true": true
+    },
+    {
+     "statement": "A Hawaii-szigetek korallszigetek, vulkanizmus nincs rajtuk.",
+     "true": false,
+     "correction": "A Hawaii-szigetek forró pont fölött keletkezett vulkáni szigetek, ma is működő vulkánokkal."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-4-a-sarkvidekek-foldrajza--k1",
+   "explanation": "A két sarkvidék sokban hasonlít, de alapvetően különbözik.\n\nÉszaki-sarkvidék (Arktisz):\n- középpontja óceán: a Jeges-óceán, nagyrészt tengeri jéggel (néhány méter vastag, úszó jégtakaró); körülötte szárazföldek: Grönland, Kanada, Alaszka, Szibéria, Skandinávia;\n- a tenger hő-tározó hatása miatt kevésbé hideg;\n- élővilág: jegesmedve, rozmár, fókák; tundra a szárazföldi peremen;\n- állandó lakosság: inuitok, számik és más őslakos népek, bányavárosok (Murmanszk);\n- ásványkincsek: kőolaj, földgáz (Alaszka, Nyugat-Szibéria), érc; az országok felosztják egymás között.\n\nDéli-sarkvidék (Antarktisz):\n- középpontja kontinens: az Antarktika, átlagosan kb. 2 km vastag szárazföldi jégtakaróval; a Föld édesvíz-készletének legnagyobb része itt van;\n- a Föld leghidegebb területe (magasság, szárazföld, jég fényvisszaverése);\n- élővilág: pingvinek, fókák, krill a tengerben;\n- nincs állandó lakosság, csak kutatók;\n- nemzetközi szerződés védi, a bányászat tilos.\n\nKözös: állandóan fagyos éghajlat, sarki nappal és éjszaka, szélsőséges sugárzási viszonyok.",
+   "diagram": null,
+   "concepts": [
+    "sarkvidéki öv",
+    "állandóan fagyos éghajlat",
+    "jégtakaró",
+    "tundra",
+    "„örök fagy” (permafroszt)"
+   ],
+   "processes": [],
+   "examTip": "A legfontosabb különbség egy mondatban: az Arktisz jéggel borított óceán szárazföldi kerettel, az Antarktisz jéggel borított kontinens óceáni kerettel.",
+   "selfCheck": [
+    {
+     "q": "Miért hidegebb az Antarktisz, mint az Arktisz?",
+     "a": "Szárazföld és magasan fekvő jégtakaró borítja, hiányzik a tenger hő-tározó hatása."
+    },
+    {
+     "q": "Melyik sarkvidéken élnek jegesmedvék?",
+     "a": "Az Északi-sarkvidéken."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Antarktika jégtakarója a Föld édesvíz-készletének legnagyobb részét tárolja.",
+     "true": true
+    },
+    {
+     "statement": "Az Északi-sark alatt kontinens van, amelyet vastag jégtakaró borít.",
+     "true": false,
+     "correction": "Az Északi-sark a Jeges-óceánon van, alatta tenger, felszínén úszó tengeri jég."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-4-a-sarkvidekek-foldrajza--k2",
+   "explanation": "A sarkvidékek a globális felmelegedés legérzékenyebb térségei; az Arktisz a Föld átlagánál jóval gyorsabban melegszik.\n\nArktisz:\n- a nyári tengeri jég kiterjedése és vastagsága csökken;\n- pozitív visszacsatolás: a sötét víz kevesebb fényt ver vissza (kisebb albedó), több hőt nyel el → még gyorsabb olvadás;\n- a grönlandi jégtakaró olvadása emeli a tengerszintet;\n- a permafroszt olvadása: épületek, utak, vezetékek megsüllyednek; metán és szén-dioxid szabadul fel, ami tovább fokozza az üvegházhatást;\n- a jegesmedve élőhelye zsugorodik, az őslakosok hagyományos életmódja veszélybe kerül;\n- gazdasági hatás: megnyílnak az északi tengeri útvonalak (Északkeleti- és Északnyugati-átjáró), könnyebbé válik a nyersanyag-kitermelés – új geopolitikai versengés.\n\nAntarktisz:\n- a nyugati részen a jégpajzsok, selfjégmezők felbomlanak, gyorsul a gleccserek áramlása;\n- a jég olvadása tartósan emeli a tengerszintet;\n- fölötte alakult ki az ózonlyuk, amely a tilalmak hatására lassan regenerálódik.",
+   "diagram": "greenhouse",
+   "concepts": [
+    "globális felmelegedés",
+    "éghajlatváltozás (klímaváltozás)",
+    "sugárzás-visszaverő képesség (albedó)",
+    "„örök fagy” (permafroszt)",
+    "ózonréteg-elvékonyodás (ózonritkulás)"
+   ],
+   "processes": [
+    "globalis-felmelegedes",
+    "uveghazhatas"
+   ],
+   "examTip": "Ne keverd: a tengeri jég olvadása önmagában nem emeli a tengerszintet (úszó jég), a szárazföldi jégtakaróké (Grönland, Antarktika) igen.",
+   "selfCheck": [
+    {
+     "q": "Miért gyorsítja a jégolvadás a további felmelegedést?",
+     "a": "A sötétebb víz- és talajfelszín kisebb albedójú, több napsugárzást nyel el."
+    },
+    {
+     "q": "Milyen gazdasági lehetőséget nyit a jégolvadás?",
+     "a": "Új tengeri útvonalakat és könnyebben elérhető nyersanyagokat."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A permafroszt olvadása üvegházgázokat szabadít fel.",
+     "true": true
+    },
+    {
+     "statement": "Az Északi-sarkvidék lassabban melegszik, mint a Föld átlaga.",
+     "true": false,
+     "correction": "Az Arktisz a Föld átlagánál többszörösen gyorsabban melegszik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-4-a-sarkvidekek-foldrajza--e1",
+   "explanation": "Az Antarktika a tudomány kontinense: állandó lakossága nincs, csak kutatóállomások személyzete él itt.\n\nJogi háttér: az 1959-ben aláírt (1961-ben hatályba lépett) Antarktiszi Szerződés szerint a kontinens csak békés célra, tudományos kutatásra használható; a területi igényeket befagyasztották, a katonai tevékenység és a nukleáris robbantás tilos. Későbbi környezetvédelmi jegyzőkönyv tiltja az ásványkincsek bányászatát.\n\nA kutatóállomások jelentősége:\n- Klímakutatás: a jégfuratokból (jégmagokból) több százezer évre visszamenőleg rekonstruálható a légkör összetétele és a hőmérséklet.\n- Ózonkutatás: itt fedezték fel az ózonlyukat az 1980-as években, ez vezetett a freonok betiltásához (montreali jegyzőkönyv).\n- Glaciológia, tengerszint-emelkedés előrejelzése.\n- Csillagászat és űrkutatás: tiszta, száraz légkör, hosszú sarki éjszaka.\n- Biológia: szélsőséges körülményekhez alkalmazkodott élőlények; geológia, meteoritok gyűjtése.\n- Nemzetközi együttműködés mintája.\n\nNéhány ismert állomás: McMurdo (USA), Vosztok (Oroszország), Amundsen–Scott (a Déli-sarkon).",
+   "diagram": null,
+   "concepts": [
+    "ózonréteg-elvékonyodás (ózonritkulás)",
+    "éghajlatváltozás (klímaváltozás)",
+    "jégtakaró",
+    "környezet- és természetvédelem"
+   ],
+   "processes": [
+    "ozonreteg"
+   ],
+   "examTip": "A jégfuratok jelentőségét (múltbeli légkör és éghajlat) és az ózonlyuk felfedezését mindenképp említsd.",
+   "selfCheck": [
+    {
+     "q": "Mit tudnak meg a kutatók a jégfuratokból?",
+     "a": "A múltbeli légkör összetételét, az üvegházgázok mennyiségét és a hőmérséklet változását."
+    },
+    {
+     "q": "Mit rögzít az Antarktiszi Szerződés?",
+     "a": "A kontinens csak békés, tudományos célra használható, a területi igények befagyasztva, katonai tevékenység tilos."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az ózonlyukat az Antarktisz fölött fedezték fel.",
+     "true": true
+    },
+    {
+     "statement": "Az Antarktikát az Egyesült Államok és Oroszország felosztotta egymás között.",
+     "true": false,
+     "correction": "Az Antarktiszi Szerződés befagyasztotta a területi igényeket; a kontinens nemzetközi kutatási terület."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k1",
+   "explanation": "Afrika ma a leggyorsabban növekvő népességű kontinens; a népesedési átmenet második szakaszában jár: a halandóság csökkent, de a születésszám – főleg Trópusi-Afrikában – még nagyon magas.\n\nOkai: korai házasság, a gyermek munkaerő és időskori biztosíték, a nők alacsony iskolázottsága, vallási-kulturális hagyományok, a fogamzásgátlás korlátozott elérhetősége.\n\nKövetkezmények:\n- fiatalos korfa: széles alap, sok eltartott gyermek;\n- élelmezési gondok, alultápláltság, időnként éhínség (pl. Száhel, Afrika szarva);\n- túllegeltetés, erdőirtás, elsivatagosodás;\n- gyors, ellenőrizetlen városodás: nyomornegyedek Lagos, Kairó, Nairobi, Kinshasa körül;\n- munkanélküliség, különösen a fiatalok körében;\n- az oktatási és egészségügyi rendszer túlterhelődése;\n- kivándorlás Európa felé, belső konfliktusok a földért, vízért.\n\nLehetőség is rejlik benne: a fiatal, bővülő munkaerő gyorsíthatja a fejlődést, ha van oktatás és munkahely.",
+   "diagram": "age-pyramid",
+   "concepts": [
+    "népességrobbanás",
+    "népesedési átmenet (demográfiai átmenet)",
+    "korfa",
+    "túlnépesedés",
+    "nyomornegyed",
+    "éhínség"
+   ],
+   "processes": [
+    "demografiai-atmenet",
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "A következményeket csoportosítsd: demográfiai, gazdasági, környezeti, társadalmi – így nem marad ki semmi.",
+   "selfCheck": [
+    {
+     "q": "Milyen alakú Trópusi-Afrika országainak korfája?",
+     "a": "Széles alapú, fiatalos piramis."
+    },
+    {
+     "q": "Hogyan hat a népességrobbanás a környezetre a Száhelben?",
+     "a": "Túllegeltetés, erdőirtás, elsivatagosodás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Afrikában a születésszám a 21. században is jóval magasabb a világátlagnál.",
+     "true": true
+    },
+    {
+     "statement": "Afrika népessége a népesedési átmenet utolsó szakaszában jár, ezért stagnál.",
+     "true": false,
+     "correction": "Afrika nagy része a népesedési átmenet második szakaszában tart: a halandóság csökkent, a születésszám magas, a népesség gyorsan nő."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k2",
+   "explanation": "Afrika a legkevésbé fejlett kontinens. A fejlődést sok tényező nehezíti.\n\nTörténelmi-politikai tényezők:\n- rabszolga-kereskedelem, gyarmatosítás: nyersanyag-kitermelésre épülő gazdaság, mesterséges, népeket szétvágó határok;\n- polgárháborúk, puccsok, korrupció, gyenge állami intézmények.\n\nGazdasági tényezők:\n- egyoldalú, nyersanyag- és mezőgazdasági exportra épülő szerkezet (pl. Nigéria – kőolaj, Zambia – réz, Elefántcsontpart – kakaó) → kiszolgáltatottság az áringadozásnak, cserearányromlás;\n- eladósodás, tőkehiány, gyenge infrastruktúra.\n\nTermészeti és társadalmi tényezők: aszály, elsivatagosodás, trópusi betegségek (malária, AIDS), népességrobbanás, alacsony iskolázottság.\n\nA felzárkózás lehetőségei:\n- a nyersanyagok helyben történő feldolgozása;\n- regionális integrációk (Afrikai Unió, afrikai szabadkereskedelmi övezet);\n- külföldi tőke (Kína, EU) infrastruktúra-építésben;\n- mobiltelefonos fizetés, digitális szolgáltatások (Kenya);\n- turizmus, megújuló energia (napenergia);\n- oktatás, egészségügy fejlesztése, adósságelengedés.",
+   "diagram": null,
+   "concepts": [
+    "periféria térség",
+    "cserearányromlás",
+    "eladósodás",
+    "adósságcsapda",
+    "gazdasági fejlettség"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "A nehezítő tényezők mellett mindig írj felzárkózási lehetőséget konkrét példával (pl. Kenya mobilfizetés, kínai befektetések).",
+   "selfCheck": [
+    {
+     "q": "Miért kiszolgáltatott az egy terményre vagy nyersanyagra épülő gazdaság?",
+     "a": "Mert a világpiaci ár esése azonnal csökkenti az ország bevételeit."
+    },
+    {
+     "q": "Milyen gyarmati örökség okoz máig konfliktusokat?",
+     "a": "A népek területét figyelmen kívül hagyó, mesterséges határok."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Kína jelentős befektető az afrikai infrastruktúra-építésben.",
+     "true": true
+    },
+    {
+     "statement": "Afrika országainak határait főleg a helyi népek települési területei szerint húzták meg.",
+     "true": false,
+     "correction": "A határokat nagyrészt a gyarmatosítók húzták meg, sokszor egyenes vonalakkal, a népek elhelyezkedésére tekintet nélkül."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k3",
+   "explanation": "Afrikán belül is nagy a fejlettségi különbség.\n\nViszonylag fejlett területek, országok:\n- Dél-afrikai Köztársaság: a kontinens legfejlettebb, legsokoldalúbb gazdasága; bányászat (arany, platina, gyémánt, kőszén), kohászat, gépgyártás, autóipar, pénzügy (Johannesburg), turizmus (Fokváros).\n- Észak-Afrika: Egyiptom (idegenforgalom, Szuezi-csatorna, textil, földgáz), Marokkó (foszfát, autóipar, turizmus), Tunézia (turizmus, textil), Algéria és Líbia (kőolaj, földgáz).\n- Nigéria: kőolaj, népes piac, Lagos gazdasági központ.\n- Kenya: tea, vágott virág, szafariturizmus, mobilfizetési szolgáltatások (Nairobi).\n- Seychelle-szigetek: turizmus.\n\nElmaradott területek:\n- a Száhel-öv országai (Niger, Csád, Mali): nomád pásztorkodás, önellátó földművelés, aszály;\n- a Kongó-medence és a háborúktól sújtott országok (Kongói Demokratikus Köztársaság, Dél-Szudán, Szomália): gazdag nyersanyag, de instabilitás, szegénység;\n- tengerparttal nem rendelkező belső országok.\n\nA fejlettebbek többnyire a partvidéken, ásványkincs és stabil intézmények mellett találhatók.",
+   "diagram": null,
+   "concepts": [
+    "gazdasági fejlettség",
+    "fejlett és fejlődő ország",
+    "periféria térség",
+    "nomád pásztorkodás (vándorló állattenyésztés)"
+   ],
+   "processes": [],
+   "examTip": "Fejlett–elmaradott párokat mondj, és mindegyikhez egy tipikus ágazatot – ez a feladat pontos kérése.",
+   "selfCheck": [
+    {
+     "q": "Melyik afrikai ország gazdasága a legsokoldalúbb?",
+     "a": "A Dél-afrikai Köztársaságé."
+    },
+    {
+     "q": "Mondj két jellegzetes kenyai exportterméket!",
+     "a": "Tea és vágott virág."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Marokkó jelentős foszfáttermelő.",
+     "true": true
+    },
+    {
+     "statement": "A Száhel-öv országai a kontinens leggazdagabb, iparosodott államai közé tartoznak.",
+     "true": false,
+     "correction": "A Száhel-öv országai (pl. Niger, Csád) a világ legszegényebbjei közé tartoznak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--k4",
+   "explanation": "A trópusi mezőgazdaság formái az éghajlati övekhez kötődnek, és eltérő életmódot jelentenek.\n\n- Égetéses-talajváltó (vándorló) földművelés – esőerdő, nedves szavanna (Kongó-medence): az erdőt kivágják, felégetik, a hamu adja a tápanyagot; néhány év után a talaj kimerül, továbbállnak. Manióka, jamgyökér, köles. Letelepült vagy félig vándorló falusi közösségek, önellátás.\n- Ültetvényes gazdálkodás – nedves trópusok (Guineai-öböl partja, Kelet-afrikai-magasföld): kakaó, kávé, tea, olajpálma, banán, földimogyoró exportra. Bérmunkások, tőkés vagy állami tulajdon, a világpiachoz kötött.\n- Nomád pásztorkodás – száraz szavanna, Száhel-öv, sivatagperem: szarvasmarha, kecske, juh, teve; a csapadékkal együtt vándorolnak a legelők között. Vándorló életmód, a jószág a vagyon.\n- Oázisgazdálkodás – Szahara: öntözéses datolya, zöldség, gabona; letelepült, sűrű népesség kis területen.\n\nKözös gond: talajpusztulás, túllegeltetés, aszály, alacsony termésátlag.",
+   "diagram": "zonation",
+   "concepts": [
+    "égetéses-talajváltó gazdálkodás",
+    "ültetvényes gazdálkodás",
+    "nomád pásztorkodás (vándorló állattenyésztés)",
+    "oázisgazdálkodás",
+    "felégetés"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "Mindegyik formánál írd le az életmódot is (letelepült, vándorló, bérmunkás) – a követelmény kifejezetten erre kérdez rá.",
+   "selfCheck": [
+    {
+     "q": "Miért kell az égetéses-talajváltó gazdálkodásnál néhány évente továbbállni?",
+     "a": "A tápanyagszegény laterittalaj hamar kimerül, a hamu tápanyaga elfogy."
+    },
+    {
+     "q": "Mit termesztenek az oázisokban?",
+     "a": "Datolyát, zöldséget, gabonát."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A nomád pásztorok a száraz évszakban a vízhez és a legelőkhöz vándorolnak.",
+     "true": true
+    },
+    {
+     "statement": "Az ültetvényes gazdálkodás elsősorban a helyi lakosság önellátását szolgálja.",
+     "true": false,
+     "correction": "Az ültetvények főként exportra termelnek, a világpiacnak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-1-afrika-altalanos-foldrajzi-jellemzoi--e1",
+   "explanation": "Afrikában népek, vallások és kultúrák százai élnek együtt, sokszor feszültségekkel.\n\nForrásai:\n- Mesterséges határok: a gyarmatosítók által húzott határok egy népet több államra vágtak szét, vagy ellenséges népeket kényszerítettek egy államba.\n- Vallási törésvonal: északon iszlám, délen kereszténység és természeti vallások. Nigériában a muszlim észak és a keresztény dél ellentéte; Szudán kettészakadása (2011, Dél-Szudán).\n- Etnikai ellentétek: Ruanda 1994 – a hutuk és tuszik közötti népirtás.\n- Faji megkülönböztetés: Dél-afrikai Köztársaság – az apartheid (1948-tól az 1990-es évek elejéig) a fehér kisebbség uralma; ma „szivárványnemzet”, de nagyok a társadalmi különbségek.\n- Pásztor–földműves konfliktus: a Száhelben a vándorló pásztorok és a letelepült földművesek harca a vízért és földért.\n- Nyelvi sokszínűség: a hivatalos nyelv gyakran a gyarmatosítóé (angol, francia, portugál).\n\nKövetkezmények: polgárháborúk, menekültáradat, éhínség, gazdasági visszaesés.",
+   "diagram": null,
+   "concepts": [
+    "etnikum",
+    "többnemzetiségű állam",
+    "menekült",
+    "hivatalos nyelv",
+    "világvallások (kereszténység, iszlám, hinduizmus, buddhizmus, zsidó vallás)",
+    "természeti vallás"
+   ],
+   "processes": [],
+   "examTip": "Konkrét példa nélkül nem jár pont: Ruanda, Nigéria, Szudán, az apartheid – ezek közül legalább kettőt írj.",
+   "selfCheck": [
+    {
+     "q": "Mi volt az apartheid?",
+     "a": "A Dél-afrikai Köztársaságban a faji elkülönítés rendszere, a fehér kisebbség uralma."
+    },
+    {
+     "q": "Miért vált ketté Szudán?",
+     "a": "A muszlim-arab észak és a keresztény, természeti vallású, fekete afrikai dél tartós ellentéte, polgárháború miatt."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Számos afrikai országban egy európai nyelv a hivatalos nyelv.",
+     "true": true
+    },
+    {
+     "statement": "Afrika államhatárai az etnikai határokat követik, ezért ritkák a nemzetiségi konfliktusok.",
+     "true": false,
+     "correction": "A gyarmati, mesterséges határok gyakran szétvágják vagy összezárják a népeket, ezért gyakoriak az etnikai konfliktusok."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-2-afrika-regionalis-foldrajza--k1",
+   "explanation": "Afrikát a Szahara választja ketté két, nagyon eltérő térségre.\n\nÉszak-Afrika (Egyiptom, Líbia, Tunézia, Algéria, Marokkó):\n- természet: térítői sivatag (Szahara), a partokon mediterrán éghajlat, az Atlasz hegység; vízforrás a Nílus és az oázisok;\n- népesség: arab-berber, iszlám, a népesség a partokon és a Nílus völgyében tömörül;\n- gazdaság: kőolaj, földgáz (Algéria, Líbia), foszfát (Marokkó), öntözéses mezőgazdaság, turizmus, Európához közeli ipar; viszonylag fejlettebb;\n- erős kapcsolat Európával és a Közel-Kelettel.\n\nTrópusi-Afrika (szubszaharai Afrika):\n- természet: egyenlítői esőerdő (Kongó-medence), szavannák, Száhel-öv, Kelet-afrikai-magasföld és az Afrikai-árokrendszer, Kalahári-medence, Namib-sivatag; nagy folyók (Kongó, Niger, Zambézi);\n- népesség: fekete afrikai (negrid) népek, sok nyelv, kereszténység, iszlám, természeti vallások, nagyon gyors népességnövekedés;\n- gazdaság: ültetvények, önellátó földművelés, nomád pásztorkodás, bányászat (réz, kobalt, gyémánt, arany, kőolaj); a legszegényebb térség, kivétel a Dél-afrikai Köztársaság.",
+   "diagram": null,
+   "concepts": [
+    "forró övezeti (trópusi) sivatagi éghajlat",
+    "mediterrán éghajlat",
+    "negrid",
+    "jövevényfolyó",
+    "oázis"
+   ],
+   "processes": [],
+   "examTip": "Szempontos összehasonlítást írj (éghajlat, népesség, vallás, gazdaság) – a táblázatos forma is elfogadott.",
+   "selfCheck": [
+    {
+     "q": "Milyen vallás uralkodó Észak-Afrikában?",
+     "a": "Az iszlám."
+    },
+    {
+     "q": "Mely nagytáj választja el a két térséget?",
+     "a": "A Szahara."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Észak-Afrika partvidékén mediterrán éghajlat uralkodik.",
+     "true": true
+    },
+    {
+     "statement": "Trópusi-Afrika egésze esőerdővel borított.",
+     "true": false,
+     "correction": "Trópusi-Afrikában esőerdő, szavanna, félsivatag és sivatag (Namib, Kalahári) is van."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-2-afrika-regionalis-foldrajza--k2",
+   "explanation": "A Száhel-öv a Szahara déli peremén húzódó átmeneti sáv a sivatag és a szavanna között (Szenegáltól Szudánig).\n\nTermészeti tényezők:\n- száraz szavanna-félsivatag éghajlat, rövid esős évszak;\n- a csapadék évről évre erősen ingadozik, gyakoriak a többéves aszályok (pl. 1970–80-as évek).\n\nTársadalmi tényezők:\n- gyors népességnövekedés → több állat és szántó kell;\n- túllegeltetés: a nagy állatállomány letarolja a növényzetet;\n- erdőirtás tűzifáért, szántóért;\n- a földművelés kiterjesztése a szárazabb területekre;\n- a nomádok letelepítése, kutak körül túlterhelt legelők.\n\nKörnyezeti problémák:\n- elsivatagosodás: a növénytakaró pusztul, a talajt a szél kifújja, a sivatag terjed;\n- a Csád-tó jelentős zsugorodása;\n- vízhiány, éhínség, menekültáradat, konfliktusok a pásztorok és földművesek között.\n\nMegoldások: fásítás (Nagy Zöld Fal kezdeményezés), szárazságtűrő növények, kőgátak, legeltetés szabályozása, víztakarékos öntözés.",
+   "diagram": null,
+   "concepts": [
+    "elsivatagosodás",
+    "túllegeltetés",
+    "erdőirtás",
+    "aszály",
+    "éhínség",
+    "szavanna"
+   ],
+   "processes": [
+    "talajpusztulas-sivatagosodas"
+   ],
+   "examTip": "Az elsivatagosodásnál a természeti okot (aszály) és az emberi okokat (túllegeltetés, erdőirtás) is írd – a kettő együtt hat.",
+   "selfCheck": [
+    {
+     "q": "Hol húzódik a Száhel-öv?",
+     "a": "A Szahara déli peremén, a sivatag és a szavanna között."
+    },
+    {
+     "q": "Mi a Nagy Zöld Fal célja?",
+     "a": "Fásítással megállítani a sivatag terjedését a Száhelben."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Csád-tó felülete a 20. század második felében jelentősen csökkent.",
+     "true": true
+    },
+    {
+     "statement": "A Száhel-öv elsivatagosodását kizárólag természeti okok idézik elő.",
+     "true": false,
+     "correction": "A természeti ok (aszály) mellett a túllegeltetés, az erdőirtás és a népességnövekedés is döntő szerepet játszik."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-2-afrika-regionalis-foldrajza--e1",
+   "explanation": "Egyiptom jól mutatja, hogyan kapcsolódik össze egy ősi kultúra a mai globális gazdasággal.\n\nAz ősi alap:\n- a Nílus völgye és deltája a sivatagban (jövevényfolyó) – a rendszeres áradás termékeny iszapot hozott, erre épült a fáraók öntözéses földművelése;\n- piramisok (Giza), templomok (Luxor, Abu Szimbel), a világ legismertebb régészeti emlékei.\n\nKapcsolódás a globalizációhoz:\n- Turizmus: az ókori emlékek és a Vörös-tenger partja (búvárturizmus) a világ minden tájáról vonzanak látogatókat; fontos devizaforrás, de érzékeny a terrorizmusra, politikai válságokra.\n- Szuezi-csatorna (1869): Európa és Ázsia közötti világkereskedelmi útvonal, jelentős díjbevétel.\n- Asszuáni-gát (asszuáni Nagy-gát): energia, öntözés, árvízvédelem – de az iszap a tározóban rakódik le, a delta pusztul, műtrágya kell, a régészeti emlékeket (Abu Szimbel) át kellett telepíteni.\n- Gyapot exportra, földgáz, külföldön dolgozók hazautalásai.\n- Kairó: a térség egyik legnagyobb városa, kulturális és médiaközpont.",
+   "diagram": null,
+   "concepts": [
+    "jövevényfolyó",
+    "globalizáció",
+    "világörökség",
+    "öntözővíz",
+    "víztározó"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "Az Asszuáni-gátnál előny–hátrány mérleg kell; a Szuezi-csatornánál a világkereskedelmi szerep.",
+   "selfCheck": [
+    {
+     "q": "Miért kellett áthelyezni Abu Szimbel templomait?",
+     "a": "Az Asszuáni-gát tározója, a Nasszer-tó elárasztotta volna őket."
+    },
+    {
+     "q": "Mely tengereket köti össze a Szuezi-csatorna?",
+     "a": "A Földközi-tengert és a Vörös-tengert."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az Asszuáni-gát miatt a Nílus termékeny iszapja nagyrészt a tározóban rakódik le.",
+     "true": true
+    },
+    {
+     "statement": "Egyiptom bevételeiben a turizmusnak nincs jelentős szerepe.",
+     "true": false,
+     "correction": "A turizmus Egyiptom egyik legfontosabb devizaforrása."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-5-2-afrika-regionalis-foldrajza--e2",
+   "explanation": "A Dél-afrikai Köztársaság (fővárosa Pretoria) a kontinens legfejlettebb, legsokoldalúbb gazdasága. Bizonyítékok:\n\n- Ásványkincs-gazdagság az Afrikai-ősföldön: arany (Witwatersrand, Johannesburg környéke), platina, gyémánt, kőszén, króm, mangán, vasérc – számos ásványból a világ vezető termelői közé tartozik.\n- Sokoldalú ipar: kohászat, gépgyártás, autóipar (európai és japán márkák gyárai), vegyipar, élelmiszeripar, szénből előállított üzemanyag.\n- Fejlett szolgáltatások: Johannesburgban van Afrika legnagyobb tőzsdéje, bankok, TNC-központok; Fokváros kikötő és turisztikai központ.\n- Kiépített infrastruktúra: utak, vasutak, kikötők (Durban, Fokváros), áramtermelés – szomszédait is ellátja.\n- A BRICS országok első afrikai tagja (2011 óta), a G20 tagja.\n- Regionális vezető: a szomszéd országok (Lesotho, Szváziföld, Botswana, Namíbia, Mozambik) munkavállalói, kereskedelmi és energetikai függésben vannak tőle.\n\nGondjai: az apartheid öröksége, óriási jövedelmi egyenlőtlenség, munkanélküliség, bűnözés, energiaellátási zavarok.",
+   "diagram": null,
+   "concepts": [
+    "BRICS országok",
+    "ásványi nyersanyag",
+    "félperiféria térség",
+    "társadalmi-gazdasági egyenlőtlenség"
+   ],
+   "processes": [],
+   "examTip": "„Igazold” feladatnál legalább három különböző típusú bizonyítékot adj: ásványkincs, ipar, pénzügy/integráció.",
+   "selfCheck": [
+    {
+     "q": "Melyik város a Dél-afrikai Köztársaság gazdasági és pénzügyi központja?",
+     "a": "Johannesburg."
+    },
+    {
+     "q": "Milyen nemesfémekben gazdag az ország?",
+     "a": "Aranyban és platinában."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Dél-afrikai Köztársaság a BRICS országok csoportjának tagja.",
+     "true": true
+    },
+    {
+     "statement": "A Dél-afrikai Köztársaság fővárosa és legnagyobb városa egyaránt Johannesburg.",
+     "true": false,
+     "correction": "A kormányzati főváros Pretoria; Johannesburg a legnagyobb gazdasági központ."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-6-1-amerika-altalanos-foldrajza--k1",
+   "explanation": "Amerika három része eltérő természeti adottságú.\n\nÉszak-Amerika:\n- szerkezet: nyugaton a fiatal Kordillerák (Sziklás-hegység), középen a Kanadai-ősföld és a táblás belső síkságok (Préri, Mississippi-alföld), keleten a régi Appalache-hegység;\n- éghajlat: a sarkvidékitől a szubtrópusiig; tajga, préri, sivatag;\n- erőforrás: termékeny mezőségi talaj, kőolaj, földgáz (Mexikói-öböl, Alaszka, Kanada olajhomok), kőszén (Appalache), vasérc (Felső-tó), ércek az ősföldön, erdő, vízenergia, Nagy-tavak.\n\nKözép-Amerika és Antillák:\n- vulkanikus, földrengéses földhíd és szigetvilág, trópusi éghajlat, hurrikánok;\n- erőforrás: ültetvényes termények (banán, kávé, cukornád), kőolaj (Mexikó), turizmus.\n\nDél-Amerika:\n- szerkezet: nyugaton a fiatal Andok, keleten a Guyanai- és Brazil-ősföld, köztük az Amazonas-, Orinoco- és Paraná-alföld;\n- éghajlat: túlnyomóan trópusi; esőerdő, szavanna, pampa, Atacama-sivatag;\n- erőforrás: vasérc (Brazília), réz (Chile), kőolaj (Venezuela), lítium (Andok), óriási vízenergia (Itaipu-gát), esőerdő, pampa talaja.",
+   "diagram": null,
+   "concepts": [
+    "gyűrthegység",
+    "ősföld (ősmasszívum)",
+    "táblás vidék",
+    "természeti erőforrás",
+    "pampa",
+    "préri"
+   ],
+   "processes": [
+    "lemezmozgasok"
+   ],
+   "examTip": "Vedd észre a „tükörszerkezetet”: mindkét kontinensen nyugaton fiatal hegység, középen síkság, keleten régi hegység/ősföld.",
+   "selfCheck": [
+    {
+     "q": "Mi a hasonlóság Észak- és Dél-Amerika szerkezetében?",
+     "a": "Nyugaton fiatal gyűrthegység, középen alföld, keleten ősföld vagy régi hegység."
+    },
+    {
+     "q": "Melyik ország Dél-Amerika fő rézértermelője?",
+     "a": "Chile."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Dél-Amerika területének nagy része a forró övezetbe esik.",
+     "true": true
+    },
+    {
+     "statement": "Közép-Amerika földtanilag stabil, földrengés és vulkán nincs.",
+     "true": false,
+     "correction": "Közép-Amerika lemezszegélyen fekszik, gyakori a földrengés és a vulkánkitörés."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-6-1-amerika-altalanos-foldrajza--k2",
+   "explanation": "Észak-Amerikában a hegységek észak–déli irányúak. Ennek következménye a kelet–nyugati zártság és az észak–déli nyitottság.\n\nKelet–nyugati zártság:\n- a nyugati Kordillerák felfogják a Csendes-óceán felől érkező nyugati szeleket;\n- a csapadék a nyugati partra hullik (Seattle, Vancouver környéke nagyon csapadékos), a hegységek közti medencék és a keleti előtér száraz (sivatagok, préri);\n- az óceáni hatás nem jut be a kontinens belsejébe, ezért a belső területek éghajlata szárazföldi.\n\nÉszak–déli nyitottság:\n- a belső síkságokon nincs kelet–nyugati hegygát, így a sarkvidéki hideg levegő akadálytalanul délre, a meleg-nedves trópusi levegő a Mexikói-öböl felől északra áramlik;\n- következmény: nagy és gyors hőmérséklet-változások, hideghullámok, hóviharok (blizzard) még Texasban is; a citrusültetvényeket fagy veszélyezteti Floridában;\n- a két légtömeg találkozásánál tornádók (a Préri középső része, „tornádófolyosó”);\n- a Mexikói-öböl és az Atlanti-óceán felől hurrikánok (New Orleans, Florida).",
+   "diagram": "fronts",
+   "concepts": [
+    "éghajlatválasztó hegység",
+    "tornádó",
+    "trópusi ciklon (hurrikán, tájfun)",
+    "időjárási veszélyhelyzetek",
+    "nyugatias szelek"
+   ],
+   "processes": [
+    "frontok",
+    "ciklon-anticiklon"
+   ],
+   "examTip": "Írd le a „miért”-et: a hegységek iránya miatt jut le a hideg és fel a meleg levegő – és ebből következnek a veszélyhelyzetek.",
+   "selfCheck": [
+    {
+     "q": "Miért alakulnak ki tornádók a préri térségében?",
+     "a": "Az akadálytalanul találkozó hideg sarki és meleg, nedves trópusi légtömegek között heves zivatarok keletkeznek."
+    },
+    {
+     "q": "Miért száraz a Sziklás-hegység keleti előtere?",
+     "a": "Esőárnyékban van, a nyugati szelek csapadéka a hegység nyugati oldalán hullik le."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Floridában a sarkvidéki hideg betörése fagykárt okozhat a citrusültetvényekben.",
+     "true": true
+    },
+    {
+     "statement": "Észak-Amerika hegységei kelet–nyugati irányúak, ezért védik a déli területeket a hideg levegőtől.",
+     "true": false,
+     "correction": "A hegységek észak–déli irányúak, ezért a hideg sarki levegő akadálytalanul délre áramolhat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-6-1-amerika-altalanos-foldrajza--k3",
+   "explanation": "Amerikát társadalmi-kulturális alapon két nagy részre osztjuk.\n\nAngolszász-Amerika (USA, Kanada):\n- főleg angol (Kanadában francia is) gyarmatosítók, protestáns többség;\n- fejlett, iparosodott, városias; az őslakosok (indiánok, inuitok) kisebbségben, rezervátumokban is.\n\nLatin-Amerika (Mexikótól Argentínáig, Antillák):\n- spanyol és portugál (Brazília) gyarmatosítás, latin nyelvek, katolikus vallás;\n- fejlődő vagy feltörekvő országok, nagy társadalmi különbségek.\n\nNépességkeveredés:\n- őslakos indiánok + európai bevándorlók + Afrikából behurcolt rabszolgák + ázsiaiak;\n- keveréknépek: meszticek (indián–európai, pl. Mexikó), mulattok (fekete–európai, pl. Brazília, Antillák), zambók (indián–fekete).\n- A népesség összetétele országonként eltér: Bolívia, Peru – sok indián; Argentína, Uruguay – főleg európai eredetű; Antillák, Brazília – jelentős afrikai eredetű népesség.\n\nKövetkezmények: kulturális sokszínűség (zene, vallás, konyha), de sok helyen a bőrszín és a származás összefügg a társadalmi helyzettel.",
+   "diagram": null,
+   "concepts": [
+    "keveréknépek",
+    "europid",
+    "negrid",
+    "mongolid",
+    "kulturális régió",
+    "interkontinentális vándorlás"
+   ],
+   "processes": [],
+   "examTip": "A keveréknépek nevét (mesztic, mulatt, zambó) pontosan párosítsd az összetevőkkel – gyakori feleletválasztós kérdés.",
+   "selfCheck": [
+    {
+     "q": "Kik a meszticek?",
+     "a": "Indián és európai keveredéséből származó népesség."
+    },
+    {
+     "q": "Melyik Latin-Amerika legnagyobb portugál nyelvű országa?",
+     "a": "Brazília."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Latin-Amerikában a katolikus vallás a legelterjedtebb.",
+     "true": true
+    },
+    {
+     "statement": "A mulattok indián és európai ősök leszármazottai.",
+     "true": false,
+     "correction": "A mulattok fekete afrikai és európai ősöktől származnak; az indián–európai keveredés a mesztic."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-6-1-amerika-altalanos-foldrajza--k4",
+   "explanation": "Amerikában két nagyon eltérő mezőgazdasági üzemforma uralkodik.\n\nFarmok (főleg USA, Kanada, Argentína pampája):\n- családi vagy vállalati, nagy kiterjedésű, magasan gépesített, szakosodott üzemek;\n- kevés munkaerő, nagy termelékenység, tudományos módszerek, agrárvállalatokkal (agrobiznisz) összefonódva;\n- övezetek: búza (Préri, kanadai préri), kukorica és szója (kukoricaöv, a Középnyugat), tejgazdaság (Nagy-tavak környéke), gyapot (délen), extenzív marhatartás (a Sziklás-hegység előtere), gyümölcs és zöldség (Kalifornia, Florida);\n- túltermelés, exportra is (világpiaci hatás).\n\nÜltetvények (Közép-Amerika, Antillák, Brazília, Kolumbia, Ecuador):\n- trópusi, egy terményre szakosodott, exportra termelő nagybirtokok;\n- termények: banán, kávé, cukornád, kakaó, újabban szója;\n- sok olcsó kézi munkaerő, gyakran külföldi (TNC) tulajdon;\n- kiszolgáltatott az áringadozásnak, talajkimerülés, erdőirtás.\n\nMellettük kisparaszti önellátó gazdálkodás is jelen van (pl. Andok, Közép-Amerika).",
+   "diagram": null,
+   "concepts": [
+    "farm",
+    "ültetvényes gazdálkodás",
+    "termelékenység",
+    "szakosodás (specializáció)",
+    "élelmiszer-túltermelés"
+   ],
+   "processes": [],
+   "examTip": "Szempontos összevetés: éghajlat, méret, gépesítés, munkaerő, termény, piac, tulajdon.",
+   "selfCheck": [
+    {
+     "q": "Mit termesztenek az USA kukoricaövében?",
+     "a": "Kukoricát és szóját, amit nagyrészt takarmányként használnak."
+    },
+    {
+     "q": "Miért kiszolgáltatott az ültetvényes gazdaság?",
+     "a": "Egy terményre szakosodik, exportra termel, a világpiaci ár esése nagy veszteséget okoz."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az amerikai farmokon kevés munkaerővel, nagy gépesítéssel termelnek.",
+     "true": true
+    },
+    {
+     "statement": "A banánültetvények főként Kanadában találhatók.",
+     "true": false,
+     "correction": "A banán trópusi növény; ültetvényei Közép-Amerikában, Ecuadorban, Kolumbiában vannak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-6-1-amerika-altalanos-foldrajza--e1",
+   "explanation": "Amerika a világ egyik leginkább urbanizált földrésze, de a városodás eltérő módon zajlik.\n\nAngolszász-Amerika (USA, Kanada):\n- az ipari forradalommal fokozatosan városodott;\n- jellemző a szuburbanizáció: a középosztály kertvárosokba költözött, a belvárosok egy része leromlott (gettók), újabban reurbanizáció;\n- sokközpontú agglomerációk és mamutvárosok: BosWash (Boston–New York–Philadelphia–Baltimore–Washington), ChiPitts (Chicago–Pittsburgh a Nagy-tavak mentén), SanSan (San Francisco–Los Angeles–San Diego); Kanadában Toronto és Montréal.\n\nLatin-Amerika:\n- késői, de rendkívül gyors, ellenőrizetlen városodás a 20. század második felében;\n- túlvárosodás: a városok gyorsabban nőnek, mint ahogy a munkahelyek és a lakások;\n- a népesség egy-egy óriásvárosba tömörül (Mexikóváros, São Paulo, Buenos Aires, Rio de Janeiro, Lima);\n- a peremeken kiterjedt nyomornegyedek (favelák Brazíliában);\n- súlyos urbanizációs ártalmak: légszennyezés, közlekedési dugók, bűnözés.\n\nMindkét térségben a városi népesség aránya magas.",
+   "diagram": "urbanization",
+   "concepts": [
+    "mamutváros (megalopolisz)",
+    "BosWash",
+    "elővárosodás (szuburbanizáció)",
+    "nyomornegyed",
+    "urbanizációs ártalmak",
+    "óriásváros (megapolisz)"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "A legfontosabb különbség: Angolszász-Amerikában szuburbanizáció és reurbanizáció, Latin-Amerikában túlvárosodás nyomornegyedekkel.",
+   "selfCheck": [
+    {
+     "q": "Mely városok alkotják a BosWash mamutvárost?",
+     "a": "Boston, New York, Philadelphia, Baltimore, Washington."
+    },
+    {
+     "q": "Hogyan nevezik Brazíliában a nyomornegyedeket?",
+     "a": "Favelák."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Latin-Amerikában a városok népessége gyorsabban nőtt, mint a városi munkahelyek száma.",
+     "true": true
+    },
+    {
+     "statement": "Az USA-ban a középosztály tömegesen költözött a kertvárosokból a belvárosi gettókba.",
+     "true": false,
+     "correction": "Fordítva: a középosztály a belvárosokból a kertvárosokba költözött (szuburbanizáció), a belső részek egy része leromlott."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-6-1-amerika-altalanos-foldrajza--e2",
+   "explanation": "A városba áramlás okai taszító (falusi) és vonzó (városi) tényezőkre bonthatók.\n\nLatin-amerikai példák (Mexikóváros, São Paulo, Lima):\n- taszító tényezők: a földbirtok egyenlőtlen elosztása (nagybirtokok), földnélküliség, gépesítés miatt csökkenő munkaalkalom, szegénység, aszály, erőszak a vidéki területeken;\n- vonzó tényezők: munkalehetőség (ipar, szolgáltatás, informális szektor), magasabb bérek, iskola, orvosi ellátás, a városi élet reménye.\n\nJellemzők:\n- főleg fiatalok vándorolnak;\n- a bevándorlók a város peremén önkényesen építenek (favela, barrio) – nincs víz, csatorna, áram;\n- informális munka (utcai árusítás, alkalmi munka);\n- a népesség az ország néhány nagyvárosába összpontosul.\n\nAngolszász-amerikai példák:\n- a 19–20. században a gépesítő mezőgazdaságból az iparvárosokba (Detroit, Chicago);\n- a „nagy vándorlás”: a feketék a déli államok mezőgazdaságából az északi ipari városokba költöztek;\n- ma a napfényövezet városai (Houston, Phoenix, Atlanta) vonzzák a népességet.",
+   "diagram": "urbanization",
+   "concepts": [
+    "városfejlődés (urbanizáció)",
+    "népességmozgás (migráció)",
+    "belföldi és nemzetközi vándorlás",
+    "nyomornegyed",
+    "slum"
+   ],
+   "processes": [
+    "varosodas-szakaszai"
+   ],
+   "examTip": "Taszító–vonzó tényezők párosítása a legbiztosabb szerkezet; mindkét oldalról írj legalább két okot.",
+   "selfCheck": [
+    {
+     "q": "Mondj két taszító tényezőt a latin-amerikai vidéken!",
+     "a": "Földnélküliség, munkahelyhiány, szegénység."
+    },
+    {
+     "q": "Hová költöztek a déli fekete népesség tömegei a 20. század első felében?",
+     "a": "Az északi ipari városokba (pl. Chicago, Detroit, New York)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Latin-Amerikában a városba vándorlók nagy része a perifériákon, nyomornegyedekben telepszik le.",
+     "true": true
+    },
+    {
+     "statement": "A latin-amerikai városokba főként idős, nyugdíjas emberek vándorolnak.",
+     "true": false,
+     "correction": "Főleg fiatal, munkaképes korúak vándorolnak a városokba."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "9-6-1-amerika-altalanos-foldrajza--e3",
+   "explanation": "A kvaterner szektor a tudás és információ előállításával, feldolgozásával foglalkozik: kutatás-fejlesztés, informatika, felsőoktatás, tanácsadás, irányítás. Az USA-ban ez a gazdaság húzóereje.\n\nSzerepe a modern amerikai gazdaságban:\n- Innováció: az USA vezet a K+F-ráfordításokban; az új technológiák (internet, mesterséges intelligencia, biotechnológia, űrtechnika) jórészt itt születnek.\n- Technológiai központok: Szilícium-völgy (San Francisco környéke), Seattle (szoftver, internetes kereskedelem), Boston (egyetemek, biotechnológia), Austin, Észak-Karolina kutatási háromszöge.\n- Egyetemek és vállalatok együttműködése (Stanford, MIT, Harvard) – technopoliszok.\n- Globális informatikai TNC-k: Apple, Microsoft, Alphabet (Google), Amazon, Meta – a világ legértékesebb cégei közé tartoznak.\n- Magas hozzáadott érték, jól fizetett munkahelyek, a kreatív és képzett munkaerő vonzása világszerte (agyelszívás).\n\nKövetkezmény: az ipar egy része Ázsiába, Mexikóba települt, az USA az irányítás, tervezés, tudás központja maradt.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "tercier és kvaterner szektor",
+    "kutatás-fejlesztés (K+F tevékenység)",
+    "információs gazdaság",
+    "technopolisz",
+    "innováció",
+    "agyelszívás (brain drain)"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "Ne keverd a tercier (szolgáltatás) és a kvaterner (tudás, K+F, információ) szektort – nevezd meg a különbséget.",
+   "selfCheck": [
+    {
+     "q": "Hol található a Szilícium-völgy?",
+     "a": "Kaliforniában, San Francisco környékén."
+    },
+    {
+     "q": "Mi a kvaterner szektor?",
+     "a": "A tudás- és információalapú tevékenységek: K+F, informatika, oktatás, irányítás."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az USA vezető szerepet tölt be a világ K+F-ráfordításaiban.",
+     "true": true
+    },
+    {
+     "statement": "A kvaterner szektor a nyersanyagok kitermelését jelenti.",
+     "true": false,
+     "correction": "A nyersanyag-kitermelés a primer szektor; a kvaterner szektor a tudás- és információalapú tevékenység."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "amerikai-egyesult-allamok--k1",
+   "explanation": "Az Amerikai Egyesült Államok a 20. század eleje óta a világ vezető gazdasága.\n\nA vezető szerep kialakulásának okai:\n- Természeti adottságok: hatalmas, változatos terület, termékeny talaj (Préri), gazdag ásványkincs (kőszén, kőolaj, vasérc), vízi utak (Mississippi, Nagy-tavak), két óceán partja.\n- Bevándorlás: munkaerő, vállalkozói szellem, tudás.\n- Nagy egységes belső piac, piacgazdaság, magántulajdon tisztelete.\n- A világháborúk: területét nem pusztították, iparát fellendítették; a II. világháború után a dollár lett a világ vezető pénzneme.\n- Folyamatos innováció: tömegtermelés (futószalag), majd csúcstechnológia, internet.\n\nA vezető szerep ma:\n- a világ legnagyobb nemzetgazdasága (GDP), a legtöbb nagy TNC központja;\n- a dollár a világkereskedelem és a tartalékok fő pénzneme;\n- New York (Wall Street) a világ pénzügyi központja;\n- K+F, szórakoztatóipar, hadiipar, repülőgépgyártás, mezőgazdasági export;\n- részvétel a Triádban, az USMCA-ban, a G7-ben; befolyás az IMF-ben és a Világbankban.\n\nKína azonban egyre erősebb kihívója.",
+   "diagram": null,
+   "concepts": [
+    "Triád",
+    "transznacionális vállalat (TNC)",
+    "valuta",
+    "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)",
+    "Nemzetközi Valutaalap (IMF)"
+   ],
+   "processes": [
+    "globalizacio"
+   ],
+   "examTip": "A kialakulás okainál válaszd szét a természeti, társadalmi és történelmi tényezőket.",
+   "selfCheck": [
+    {
+     "q": "Mi a világkereskedelem fő tartalékpénzneme?",
+     "a": "Az amerikai dollár."
+    },
+    {
+     "q": "Hogyan hatottak a világháborúk az USA gazdaságára?",
+     "a": "Területét nem érte pusztítás, ipara fellendült, a háború után vezető hitelező és gazdasági hatalom lett."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "New York a világ egyik vezető pénzügyi központja.",
+     "true": true
+    },
+    {
+     "statement": "Az USA fő gazdasági szövetsége Kanadával és Mexikóval a NAFTA, amely ma is érvényben van.",
+     "true": false,
+     "correction": "A NAFTA-t 2020-ban az USMCA (Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény) váltotta fel."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "amerikai-egyesult-allamok--k2",
+   "explanation": "Az USA gazdasága posztindusztriális: a szolgáltatások adják a GDP és a foglalkoztatás döntő részét, a mezőgazdaság kicsi, de nagyon termelékeny.\n\nTérbeli átrendeződés:\n- Hagyományos ipari öv (Manufacturing Belt): északkeleten és a Nagy-tavak mentén (Detroit autóipar, Pittsburgh kohászat, Chicago). Kőszén, vasérc, vízi út alapozta meg. Az 1970-es évektől válságba került (olcsó ázsiai verseny, elavult üzemek) → rozsdaövezet: munkanélküliség, elnéptelenedő városok.\n- Napfényövezet (Sunbelt): déli és nyugati államok (Kalifornia, Texas, Florida, Georgia). Kellemes éghajlat, olcsóbb munkaerő és telek, gyenge szakszervezetek, kőolaj (Houston), hadiipar, repülőgép- és űripar, csúcstechnológia (Szilícium-völgy), turizmus, nyugdíjasok. Ide áramlik a népesség és a tőke.\n- Csendes-óceáni partvidék: Seattle, San Francisco, Los Angeles – ázsiai kapcsolatok, informatika, filmipar.\n\nSzerkezeti változás: a nehézipar háttérbe szorult, a húzóágazatok a csúcstechnológia, a pénzügy, az egészségügy, a szórakoztatóipar. Az ipari termelés egy része Mexikóba és Ázsiába települt.",
+   "diagram": "economic-sectors",
+   "concepts": [
+    "gazdasági szerkezetváltás",
+    "ipar utáni (posztindusztriális) társadalom",
+    "válságágazat",
+    "húzóágazat",
+    "telepítő tényező"
+   ],
+   "processes": [
+    "telephelyvalasztas"
+   ],
+   "examTip": "A rozsdaövezet és a napfényövezet szembeállítása klasszikus feladat – mindkettőnél írj telepítő tényezőt és várost.",
+   "selfCheck": [
+    {
+     "q": "Miért került válságba az északkeleti ipari öv?",
+     "a": "Elavult nehézipar, olcsó külföldi verseny, magas bérek."
+    },
+    {
+     "q": "Mondj három várost a napfényövezetből!",
+     "a": "Pl. Houston, Los Angeles, Atlanta, Miami, Dallas."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az USA népességének és gazdaságának súlypontja délre és nyugatra tolódott.",
+     "true": true
+    },
+    {
+     "statement": "Detroit a csúcstechnológiai ipar és a Szilícium-völgy központja.",
+     "true": false,
+     "correction": "Detroit a hagyományos autóipar központja a rozsdaövezetben; a Szilícium-völgy Kaliforniában, San Francisco környékén van."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "amerikai-egyesult-allamok--k3",
+   "explanation": "A világ legnagyobb transznacionális vállalatainak jelentős része amerikai. Ezek az egész világgazdaságot befolyásolják.\n\nPéldák ágazatonként:\n- Informatika, internet: Apple, Microsoft, Alphabet (Google), Amazon, Meta, Intel, Nvidia – a világ digitális infrastruktúráját és adatait uralják.\n- Kőolaj, energia: ExxonMobil, Chevron.\n- Élelmiszer és vendéglátás: Coca-Cola, PepsiCo, McDonald's – globális márkák, „amerikanizálódó” fogyasztás.\n- Kereskedelem: Walmart, Amazon.\n- Autó- és repülőgépgyártás: General Motors, Ford, Tesla, Boeing.\n- Pénzügy: nagy befektetési bankok, hitelkártya-társaságok.\n- Szórakoztatóipar: Disney, Netflix – kulturális hatás.\n\nVilággazdasági szerepük:\n- termelésüket a világ számos országába telepítik (leányvállalatok), a profit az anyavállalathoz áramlik;\n- óriási K+F, szabványokat határoznak meg;\n- bevételük nagyobb lehet, mint sok kisebb ország GDP-je;\n- adótervezés, adóparadicsomok használata;\n- Magyarországon is jelen vannak (pl. Ford, GE, IBM, Coca-Cola).",
+   "diagram": null,
+   "concepts": [
+    "transznacionális vállalat (TNC)",
+    "anyavállalat",
+    "leányvállalat",
+    "globalizáció",
+    "világtermék"
+   ],
+   "processes": [
+    "globalizacio",
+    "toke-aramlasa"
+   ],
+   "examTip": "Ágazat szerint csoportosítva mondj példákat, és írd le a hatásukat is (leányvállalatok, profit, kultúra).",
+   "selfCheck": [
+    {
+     "q": "Mi a különbség anyavállalat és leányvállalat között?",
+     "a": "Az anyavállalat a központ, amely irányítja a más országokban működő leányvállalatokat."
+    },
+    {
+     "q": "Mondj két amerikai informatikai TNC-t!",
+     "a": "Pl. Apple, Microsoft."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Egyes amerikai TNC-k éves bevétele meghaladja sok ország GDP-jét.",
+     "true": true
+    },
+    {
+     "statement": "Az amerikai TNC-k kizárólag az USA területén termelnek.",
+     "true": false,
+     "correction": "A TNC-k a világ számos országában működtetnek leányvállalatokat."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "amerikai-egyesult-allamok--e1",
+   "explanation": "Az USA bevándorlók által létrehozott ország; a népesség összetétele folyamatosan változik.\n\nA bevándorlás hullámai:\n- 17–18. század: angol, skót, ír, német telepesek; rabszolgák Afrikából (déli ültetvények).\n- 19. század: ír, német, skandináv, majd dél- és kelet-európai (olasz, lengyel, magyar, zsidó) tömegek; kínai munkások a vasútépítéshez.\n- 20. század második felétől: Latin-Amerikából (főleg Mexikóból) és Ázsiából (Kína, India, Fülöp-szigetek, Vietnám).\n\nA mai összetétel tendenciái:\n- az európai eredetű fehér népesség aránya csökken;\n- a latin-amerikai eredetű (hispán) népesség a legnagyobb kisebbség, aránya gyorsan nő, főleg a déli államokban (Kalifornia, Texas, Florida);\n- jelentős az afroamerikai és az ázsiai népesség;\n- az őslakos indiánok kis kisebbség.\n\nA bevándorlás szerepe:\n- munkaerő az ipar, a mezőgazdaság és a szolgáltatás számára;\n- tudás és vállalkozás (agyelszívás: sok csúcstechnológiai cég alapítója bevándorló);\n- fiatalítja a népességet;\n- de feszültségek: illegális bevándorlás, határvédelem a mexikói határon, társadalmi egyenlőtlenségek.",
+   "diagram": null,
+   "concepts": [
+    "ki- és bevándorlás",
+    "interkontinentális vándorlás",
+    "agyelszívás (brain drain)",
+    "etnikai kisebbség",
+    "többnemzetiségű állam"
+   ],
+   "processes": [],
+   "examTip": "Időrendben írd a hullámokat, és nevezd meg a hispán népesség növekedését mint fő mai tendenciát.",
+   "selfCheck": [
+    {
+     "q": "Melyik a legnagyobb kisebbség ma az USA-ban?",
+     "a": "A latin-amerikai eredetű (hispán) népesség."
+    },
+    {
+     "q": "Honnan érkeztek a 19. század végi nagy bevándorlási hullámok?",
+     "a": "Főleg Dél- és Kelet-Európából (olaszok, lengyelek, magyarok, zsidók)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A bevándorlás fiatalítja az USA népességét.",
+     "true": true
+    },
+    {
+     "statement": "Az USA népességének többsége ma az őslakos indiánok leszármazottja.",
+     "true": false,
+     "correction": "Az őslakos indiánok kis kisebbséget alkotnak; a népesség döntően bevándorlók leszármazottja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "kanada--e1",
+   "explanation": "Kanada és az USA gazdasága szorosan összefonódott; egymás legfontosabb kereskedelmi partnerei közé tartoznak.\n\nFöldrajzi alapok:\n- a világ egyik leghosszabb, nyitott szárazföldi határa;\n- Kanada népessége és gazdasága a déli határ közelében, keskeny sávban él (Toronto, Montréal, Ottawa, Vancouver), mert északon hideg, tajga és tundra uralkodik – így az USA-piac sokkal közelebb van, mint Kanada saját távoli területei;\n- közös vízi utak: Nagy-tavak, Szent Lőrinc-folyó (hajózóút);\n- kiegészítő adottságok: Kanada nyersanyagban gazdag (kőolaj – albertai olajhomok, földgáz, vízenergia, fa, nikkel, urán, búza), az USA nagy fogyasztó és ipari hatalom;\n- közös nyelv (angol), hasonló kultúra és jogrendszer.\n\nGazdasági kapcsolatok: energiaexport (kőolaj- és földgázvezetékek, áram) az USA-ba; integrált autóipar a Nagy-tavak két partján (Ontario – Detroit), amerikai tőke és cégek Kanadában.\n\nUSMCA: 2020 óta (a NAFTA utódjaként) szabadkereskedelmi övezetet alkot az USA-val és Mexikóval; Kanada számára biztosítja az amerikai piacot, de nagy a függése az USA-tól.",
+   "diagram": "integration",
+   "concepts": [
+    "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)",
+    "szabadkereskedelmi övezet",
+    "természeti erőforrás",
+    "megújuló és nem megújuló energiaforrások"
+   ],
+   "processes": [],
+   "examTip": "USMCA, nem NAFTA! Írd le, hogy 2020-ban váltotta fel a NAFTA-t, és hogy szabadkereskedelmi övezet (nem vámunió).",
+   "selfCheck": [
+    {
+     "q": "Miért él Kanada népessége a déli határ mentén?",
+     "a": "Mert északon hideg, tajga- és tundraéghajlat uralkodik, a déli sáv kedvezőbb, és közel van az USA piaca."
+    },
+    {
+     "q": "Milyen energiahordozókat exportál Kanada az USA-ba?",
+     "a": "Kőolajat (olajhomokból is), földgázt, villamos energiát."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az USMCA szabadkereskedelmi övezet Kanada, az USA és Mexikó között.",
+     "true": true
+    },
+    {
+     "statement": "Az USMCA közös pénzt és közös külső vámot vezetett be tagjai számára.",
+     "true": false,
+     "correction": "Az USMCA szabadkereskedelmi övezet: nincs közös valuta és közös külső vám, ezek vámunió, illetve pénzügyi unió jellemzői lennének."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "latin-amerika--k1",
+   "explanation": "Latin-Amerika gazdasági fejlődését számos tényező befolyásolja.\n\nKedvező tényezők:\n- gazdag természeti erőforrások: kőolaj (Venezuela, Mexikó, Brazília), réz (Chile), vasérc (Brazília), lítium (Bolívia, Chile, Argentína), ezüst; óriási vízenergia (Itaipu-gát);\n- mezőgazdasági adottságok: pampa (búza, marha), trópusi ültetvények (kávé, banán, cukornád, szója);\n- nagy belső piac, fiatal munkaerő;\n- közelség az USA-hoz (Mexikó, Közép-Amerika);\n- regionális integrációk: MERCOSUR.\n\nKedvezőtlen tényezők:\n- egyoldalú nyersanyag-export, kiszolgáltatottság a világpiaci áraknak;\n- eladósodás, adósságválságok (1980-as évek), magas infláció;\n- óriási vagyoni és jövedelmi egyenlőtlenség, nagybirtokrendszer;\n- politikai instabilitás, katonai diktatúrák a múltban, korrupció;\n- bűnözés, kábítószer-kereskedelem (Kolumbia, Mexikó);\n- természeti veszélyek: földrengés, vulkán, hurrikán, El Niño;\n- túlvárosodás, nyomornegyedek.\n\nKiemelkedő gazdaságok: Brazília, Mexikó, Argentína, Chile.",
+   "diagram": null,
+   "concepts": [
+    "eladósodás",
+    "adósságválság",
+    "Dél-amerikai Közös Piac (MERCOSUR)",
+    "társadalmi-gazdasági egyenlőtlenség",
+    "El Niño"
+   ],
+   "processes": [],
+   "examTip": "Pozitív és negatív tényezőket külön csoportban sorolj fel, mindegyikhez egy országpéldával.",
+   "selfCheck": [
+    {
+     "q": "Mely országok alapították a MERCOSUR-t?",
+     "a": "Brazília, Argentína, Uruguay és Paraguay."
+    },
+    {
+     "q": "Milyen gazdasági válság sújtotta Latin-Amerikát az 1980-as években?",
+     "a": "Adósságválság."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Latin-Amerikában a jövedelmi egyenlőtlenség a világ legnagyobbjai közé tartozik.",
+     "true": true
+    },
+    {
+     "statement": "Latin-Amerika országai főleg csúcstechnológiai termékeket exportálnak.",
+     "true": false,
+     "correction": "A térség exportjában a nyersanyagok és a mezőgazdasági termékek dominálnak; kivétel részben Mexikó és Brazília iparcikk-exportja."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "latin-amerika--e1",
+   "explanation": "Latin-Amerika mai gazdasági gondjai a történelemben gyökereznek.\n\n- Gyarmati korszak (16–19. század eleje): a spanyolok és portugálok a nemesfémet (ezüst, arany) és a trópusi terményeket (cukornád) vitték Európába. Kialakult a nagybirtok (latifundium) és az afrikai rabszolgamunka. A gazdaság az anyaország igényeit szolgálta, nem a helyi fejlődést.\n- Függetlenség (19. század eleje) után: a hatalom a kreol földbirtokos elité maradt; a gazdaság továbbra is nyersanyag- és terményexportra épült, előbb brit, majd amerikai tőke befolyása alatt („banánköztársaságok”).\n- 20. század közepe: importhelyettesítő iparosítás – vámokkal védett hazai ipar (Brazília, Argentína, Mexikó); államosítások, de a versenyképesség gyenge maradt.\n- 1980-as évek: adósságválság („elveszett évtized”), hiperinfláció; katonai diktatúrák.\n- 1990-es évektől: piaci reformok, privatizáció, nyitás, integrációk (MERCOSUR, NAFTA, majd USMCA), Kína mint új vevő.\n\nA nagybirtokrendszer és az egyoldalú export öröksége máig hat.",
+   "diagram": null,
+   "concepts": [
+    "protekcionizmus",
+    "adósságválság",
+    "privatizáció",
+    "eladósodás",
+    "ültetvényes gazdálkodás"
+   ],
+   "processes": [],
+   "examTip": "Időrendi vázlatot írj (gyarmatosítás – függetlenség – importhelyettesítés – adósságválság – nyitás), és mindegyiknél egy következményt.",
+   "selfCheck": [
+    {
+     "q": "Mi a latifundium?",
+     "a": "A gyarmati időkben kialakult hatalmas nagybirtok, amely máig hat a földtulajdon-szerkezetre."
+    },
+    {
+     "q": "Mi volt az importhelyettesítő iparosítás lényege?",
+     "a": "A behozott ipari termékeket vámvédelem mellett hazai gyártással próbálták pótolni."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az 1980-as évek Latin-Amerikában az adósságválság miatt „elveszett évtizedként” ismert.",
+     "true": true
+    },
+    {
+     "statement": "A függetlenné válás után Latin-Amerikában azonnal felszámolták a nagybirtokrendszert.",
+     "true": false,
+     "correction": "A nagybirtokrendszer a függetlenség után is fennmaradt, a hatalom a földbirtokos eliténél maradt."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "mexiko--e1",
+   "explanation": "Az USA és Mexikó határán sajátos gazdasági övezet jött létre, amely két, nagyon eltérő fejlettségű ország találkozására épül.\n\nA maquiladora-övezet:\n- az 1960-as évektől a határ mexikói oldalán összeszerelő üzemek (maquiladorák) települtek (Tijuana, Ciudad Juárez, Monterrey környéke);\n- az alkatrészek vámmentesen érkeznek az USA-ból, a kész termék visszamegy az USA-ba;\n- ágazatok: autóipar, elektronika, háztartási gépek, orvosi eszközök, ruházat;\n- telepítő tényezők: olcsó munkaerő, közelség az amerikai piachoz, alacsony szállítási költség, kedvezményes szabályozás.\n\nKövetkezmények:\n- munkahelyek, gyors városnövekedés a határ mentén;\n- környezetszennyezés, alacsony bérek, gyenge munkavédelem;\n- belső migráció a határ felé, illegális kivándorlás az USA-ba.\n\nMexikó szerepe az USMCA-ban:\n- 2020 óta tagja (a NAFTA utódjaként);\n- az USA egyik legnagyobb kereskedelmi partnere, autóipari „összeszerelő műhely”; egyre több cég Ázsiából ide telepíti a termelést (nearshoring);\n- az USMCA szigorúbb származási szabályokat és béremelési előírásokat (autóipar) tartalmaz;\n- függ az USA piacától; a kivándorlók hazautalásai jelentős bevételt jelentenek.",
+   "diagram": "integration",
+   "concepts": [
+    "Amerikai Egyesült Államok−Mexikó−Kanada Egyezmény (USMCA)",
+    "szabadkereskedelmi övezet",
+    "telepítő tényező",
+    "működőtőke-befektetés",
+    "népességmozgás (migráció)"
+   ],
+   "processes": [
+    "telephelyvalasztas",
+    "toke-aramlasa"
+   ],
+   "examTip": "A maquiladora fogalmát és telepítő tényezőit (olcsó munkaerő + piacközelség + vámkedvezmény) mindenképp írd le.",
+   "selfCheck": [
+    {
+     "q": "Mi a maquiladora?",
+     "a": "A mexikói határövezetben működő összeszerelő üzem, amely importált alkatrészekből exportra termel."
+    },
+    {
+     "q": "Mi Mexikó szerepe az USMCA-ban?",
+     "a": "Olcsóbb munkaerejű gyártó- és összeszerelő bázis az észak-amerikai piac számára."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A maquiladorák többsége az USA–mexikói határ közelében található.",
+     "true": true
+    },
+    {
+     "statement": "Mexikó az USMCA miatt kilépett a szabadkereskedelemből az USA-val.",
+     "true": false,
+     "correction": "Az USMCA éppen fenntartja és szabályozza a szabadkereskedelmet Mexikó, az USA és Kanada között."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "brazilia--e1",
+   "explanation": "Brazília a feltörekvő nagygazdaságok egyike. Bizonyítékok:\n\n- A BRICS országok egyik alapító tagja, a G20 tagja; Latin-Amerika legnagyobb gazdasága és legnépesebb országa.\n- Hatalmas természeti erőforrások: vasérc (Carajás, Minas Gerais), mélytengeri kőolaj, bauxit, óriási vízenergia (Itaipu-gát a Paranán), termékeny területek, Amazonas-medence.\n- Mezőgazdasági nagyhatalom: a világ vezető szója-, kávé-, cukornád-, narancslé- és marhahúsexportőrei közé tartozik.\n- Sokoldalú ipar: autóipar, repülőgépgyártás (Embraer), acélipar, vegyipar, élelmiszeripar.\n- Bioetanol: cukornádból előállított üzemanyag – energiapolitikai újítás.\n- Gazdasági központok: São Paulo (ipari, pénzügyi), Rio de Janeiro, Brazíliaváros (főváros).\n- Regionális vezető szerep: a MERCOSUR legerősebb tagja.\n\nFeltörekvő, de nem fejlett: nagy a jövedelmi egyenlőtlenség, favelák, bűnözés, az ország északkeleti része elmaradott, az esőerdő irtása súlyos környezeti probléma, a gazdaság érzékeny a nyersanyagárakra.",
+   "diagram": null,
+   "concepts": [
+    "BRICS országok",
+    "Dél-amerikai Közös Piac (MERCOSUR)",
+    "félperiféria térség",
+    "duális gazdasági szerkezet",
+    "erdőirtás"
+   ],
+   "processes": [],
+   "examTip": "„Igazold” feladatnál sorolj tényeket (BRICS, nyersanyag, agrárexport, ipar), de jelezd a fejlett országoktól elválasztó gondokat is.",
+   "selfCheck": [
+    {
+     "q": "Milyen különleges üzemanyagról híres Brazília?",
+     "a": "Cukornádból előállított bioetanolról."
+    },
+    {
+     "q": "Melyik brazil város a legnagyobb ipari és pénzügyi központ?",
+     "a": "São Paulo."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Brazília a világ egyik vezető szója- és kávéexportőre.",
+     "true": true
+    },
+    {
+     "statement": "Brazília fővárosa Rio de Janeiro.",
+     "true": false,
+     "correction": "Brazília fővárosa 1960 óta Brazíliaváros."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "banankoztarsasagok-adoparadicsomok--e1",
+   "explanation": "A „banánköztársaság” gúnyos kifejezés olyan kis, politikailag instabil országra, amelynek gazdasága egy-két exportterményre (eredetileg a banánra) épül, és amelyet külföldi vállalatok erősen befolyásolnak.\n\nA kifejezés a 20. század elején született Közép-Amerikára. Az amerikai gyümölcsvállalatok (leghíresebb a United Fruit Company) hatalmas ültetvényeket, vasutakat, kikötőket birtokoltak, és a helyi politikára is befolyást gyakoroltak.\n\nKlasszikus példák:\n- Honduras – ez a kifejezés eredeti „mintája”;\n- Guatemala – 1954-ben az amerikai érdekeket sértő földreform után puccs döntötte meg a kormányt;\n- Costa Rica, Panama, Nicaragua;\n- Dél-Amerikából Ecuador, amely ma a világ egyik vezető banánexportőre;\n- részben Kolumbia.\n\nMa a kifejezést tágabban, minden olyan országra használják, amely egyoldalú exporttól függ, gyenge az intézményrendszere és korrupt a vezetése.",
+   "diagram": null,
+   "concepts": [
+    "ültetvényes gazdálkodás",
+    "transznacionális vállalat (TNC)",
+    "periféria térség",
+    "szakosodás (specializáció)"
+   ],
+   "processes": [],
+   "examTip": "Elég egy biztos példa, de indokold is: pl. Honduras – banánexport, külföldi vállalati befolyás, politikai instabilitás.",
+   "selfCheck": [
+    {
+     "q": "Melyik ország a „banánköztársaság” kifejezés klasszikus példája?",
+     "a": "Honduras (de Guatemala is gyakori példa)."
+    },
+    {
+     "q": "Melyik amerikai vállalat volt a jelenség fő szereplője?",
+     "a": "A United Fruit Company."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Ecuador a világ jelentős banánexportőrei közé tartozik.",
+     "true": true
+    },
+    {
+     "statement": "A „banánköztársaság” kifejezés a gazdag, sokoldalú gazdaságú országokat jelöli.",
+     "true": false,
+     "correction": "Egyoldalú exportra épülő, külföldi vállalatoktól függő, instabil országokat jelöl."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "banankoztarsasagok-adoparadicsomok--e2",
+   "explanation": "A „banánköztársaságok” gazdasága több okból is nagyon sebezhető.\n\nOkok:\n- monokultúra: egy-két exportterményre (banán, kávé, cukornád) épül a gazdaság;\n- a világpiaci ár ingadozása és a cserearányromlás közvetlenül csökkenti a bevételt;\n- külföldi tulajdon: a profit nagy része a TNC-khez, külföldre áramlik;\n- természeti veszélyek: hurrikánok (pl. a Mitch hurrikán 1998-ban Hondurasban), növénybetegségek (a banán gombás betegségei) egy csapásra tönkretehetik a termést;\n- gyenge intézmények, korrupció, politikai instabilitás;\n- alacsony bérek, kevés hazai feldolgozóipar, eladósodás.\n\nKövetkezmények:\n- szegénység, nagy társadalmi különbségek;\n- kivándorlás (főleg az USA-ba), a hazautalások szerepe;\n- környezeti károk: esőerdő-irtás, vegyszerhasználat, talajkimerülés;\n- függés a külföldi piacoktól és segélyektől.\n\nVilággazdasági szerep: kicsi, de a világ trópusi gyümölcs- és kávéellátásában fontos beszállítók; olcsó munkaerőt és nyersanyagot adnak a centrum országainak – tipikus periféria-szerep.",
+   "diagram": null,
+   "concepts": [
+    "cserearányromlás",
+    "periféria térség",
+    "eladósodás",
+    "trópusi ciklon (hurrikán, tájfun)",
+    "ki- és bevándorlás"
+   ],
+   "processes": [],
+   "examTip": "A „sebezhetőség” okainál a monokultúra, a világpiaci ár, a külföldi tulajdon és a természeti veszély a négy kulcspont.",
+   "selfCheck": [
+    {
+     "q": "Miért veszélyes egy terményre építeni a gazdaságot?",
+     "a": "Az ár esése vagy egy természeti csapás az egész gazdaságot megrendíti."
+    },
+    {
+     "q": "Milyen természeti veszély sújtja gyakran Közép-Amerikát?",
+     "a": "A hurrikán (trópusi ciklon)."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A „banánköztársaságok” a világgazdaságban jellemzően periféria-szerepet töltenek be.",
+     "true": true
+    },
+    {
+     "statement": "A banánültetvények profitja jórészt a helyi kisgazdáknál marad.",
+     "true": false,
+     "correction": "A profit nagy része a külföldi tulajdonú vállalatokhoz áramlik, a helyiek alacsony bért kapnak."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "banankoztarsasagok-adoparadicsomok--e3",
+   "explanation": "A közép-amerikai és karibi térség a világ ismert adóparadicsomainak egyik központja.\n\nPéldák:\n- Kajmán-szigetek (brit tengerentúli terület) – az egyik legismertebb, rengeteg bejegyzett céggel és befektetési alappal;\n- Bahama-szigetek – független állam, nemzetközi bankközpont;\n- Brit Virgin-szigetek – offshore cégek tömeges bejegyzése;\n- Panama – a hajólajstrom (sok hajó Panama zászlaja alatt hajózik), bankok, offshore cégek; a „Panama-iratok” botrány (2016) tette ismertté;\n- Bermuda (az Atlanti-óceánban, de gyakran ide sorolják) – biztosítótársaságok;\n- Holland Antillák egykori szigetei (Curaçao), Turks- és Caicos-szigetek, Barbados.\n\nKözös jellemzők: kis terület és népesség, politikai stabilitás (sokszor brit kötődés), angol nyelv, jó légi és távközlési kapcsolat az USA-val, kedvező időzóna.\n\nA turizmus mellett a pénzügyi szolgáltatás e szigetek fő bevételi forrása.",
+   "diagram": null,
+   "concepts": [
+    "adóparadicsom",
+    "offshore cég",
+    "monetáris világgazdaság"
+   ],
+   "processes": [],
+   "examTip": "Legalább két biztos példát tudj: a Bahama-szigetek és a Kajmán-szigetek a legbiztosabbak, Panama is jó válasz.",
+   "selfCheck": [
+    {
+     "q": "Nevezz meg két karibi adóparadicsomot!",
+     "a": "Pl. Kajmán-szigetek, Bahama-szigetek."
+    },
+    {
+     "q": "Miért vonzó Panama a hajótulajdonosoknak?",
+     "a": "Olcsó, kevés előírással járó hajólajstromozást, alacsony adót kínál."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "A Kajmán-szigetek a világ ismert adóparadicsomai közé tartozik.",
+     "true": true
+    },
+    {
+     "statement": "Az adóparadicsomok jellemzően nagy területű, ipari országok.",
+     "true": false,
+     "correction": "Az adóparadicsomok többnyire kis területű, kis népességű államok vagy függő területek, sokszor szigetek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  },
+  {
+   "objectiveId": "banankoztarsasagok-adoparadicsomok--e4",
+   "explanation": "Az adóparadicsom olyan ország vagy terület, amely nagyon alacsony vagy nulla adóval, szigorú titoktartással vonzza a külföldi tőkét.\n\nGazdasági jellemzők:\n- alacsony vagy nulla társasági és jövedelemadó a külföldi cégeknek;\n- banktitok, a tulajdonosok kiléte nehezen deríthető ki;\n- egyszerű, gyors cégalapítás; offshore cégek – helyben valódi tevékenységet alig végeznek, csak bejegyzésük van ott;\n- fejlett pénzügyi szolgáltatások, ügyvédek, könyvelők;\n- a bevételük a cégbejegyzési díjakból, pénzügyi szolgáltatásokból és a turizmusból származik.\n\nVilággazdasági szerep:\n- a TNC-k ide könyvelik a profitjukat, így a valódi működési helyükön kevesebb adót fizetnek → az államok adóbevétele csökken;\n- a nemzetközi tőkeáramlás jelentős része ezeken a központokon halad át;\n- lehetőséget adhat adóelkerülésre, pénzmosásra, a bűnözői vagy korrupt pénzek elrejtésére;\n- a nemzetközi szervezetek (OECD, EU, G20) a nagyobb átláthatóságért, az információcseréért és a globális minimumadóért lépnek fel.",
+   "diagram": null,
+   "concepts": [
+    "adóparadicsom",
+    "offshore cég",
+    "nemzetközi tőkeáramlás",
+    "adó",
+    "Gazdasági Együttműködési és Fejlesztési Szervezet (OECD)"
+   ],
+   "processes": [
+    "toke-aramlasa"
+   ],
+   "examTip": "Írd le, kinek előnyös (TNC-k, gazdagok, a szigetállam) és kinek hátrányos (a többi állam adóbevétele) – ez a „világgazdasági szerep” lényege.",
+   "selfCheck": [
+    {
+     "q": "Mi az offshore cég?",
+     "a": "Adóparadicsomban bejegyzett cég, amely ott valódi gazdasági tevékenységet alig folytat, főleg adózási céllal jön létre."
+    },
+    {
+     "q": "Miért károsak az adóparadicsomok a többi országnak?",
+     "a": "Mert a vállalatok oda vezetik a profitot, így a valódi működés helyén kevesebb adó folyik be."
+    }
+   ],
+   "trueFalse": [
+    {
+     "statement": "Az adóparadicsomokat pénzmosásra is felhasználhatják.",
+     "true": true
+    },
+    {
+     "statement": "Az offshore cégek az adóparadicsomokban jellemzően nagy gyárakat működtetnek.",
+     "true": false,
+     "correction": "Az offshore cégek ott általában csak bejegyzéssel rendelkeznek, valódi termelő tevékenységet nem végeznek."
+    }
+   ],
+   "generated": true,
+   "reviewed": false
+  }
+ ]
+}

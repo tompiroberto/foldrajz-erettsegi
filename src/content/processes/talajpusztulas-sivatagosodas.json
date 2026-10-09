@@ -1,0 +1,136 @@
+{
+  "id": "talajpusztulas-sivatagosodas",
+  "title": "Talajpusztulás és elsivatagosodás",
+  "summary": "Ha az ember eltávolítja a talajt védő növénytakarót, a víz és a szél lehordja a termékeny feltalajt, a talaj termőképessége csökken. Száraz, félszáraz területeken ez elsivatagosodáshoz vezet, amelyet az aszályok tovább súlyosbítanak.",
+  "causes": [
+    "Az erdőirtás, a túllegeltetés és a füves területek feltörése megszünteti a talajt védő növénytakarót.",
+    "A gyors népességnövekedés miatt nő a megművelt terület, a legeltetett állatállomány és a tűzifaigény.",
+    "A helytelen földművelés (lejtőirányú szántás, monokultúra) és a szakszerűtlen öntözés rontja a talajt.",
+    "A félszáraz területeken az ismétlődő aszályok és a változékony csapadék felerősítik a folyamatot."
+  ],
+  "course": [
+    "A csupasz talajt a csapadékvíz lemossa (felszíni leöblítés, vízmosások), a szél kifújja (szélerózió).",
+    "Elsőként a humuszos feltalaj pusztul le, a talaj elveszíti tápanyag- és víztartó képességét.",
+    "Az öntözött száraz területeken a párolgás miatt a sók a felszín közelében halmozódnak fel (szikesedés).",
+    "A termőképesség csökken, a növényzet ritkul, így a felszín még jobban kiszárad és pusztul: a folyamat önmagát erősíti, a terület elsivatagosodik."
+  ],
+  "consequences": [
+    "Csökken a mezőgazdasági termelés, élelmiszerhiány, éhínség léphet fel.",
+    "A lakosság elvándorol (környezeti menekültek), a városokban nő a nyomornegyedek népessége.",
+    "Porviharok, a folyók és tározók feliszapolódása, a biológiai sokféleség csökkenése kíséri.",
+    "Megelőzés: erdősítés, talajvédő művelés (szintvonalas művelés, teraszok), szakszerű öntözés és legeltetés, szélfogó erdősávok."
+  ],
+  "steps": [
+    {
+      "title": "A növénytakaró eltávolítása",
+      "caption": "Erdőirtás, túllegeltetés, a füves területek feltörése és a tűzifagyűjtés miatt eltűnik a talajt védő növényzet.",
+      "icon": "trees"
+    },
+    {
+      "title": "Csupasz, védtelen talaj",
+      "caption": "A növényzet nélküli talajt nem kötik össze a gyökerek, és közvetlenül éri az eső és a szél.",
+      "icon": "alert-triangle"
+    },
+    {
+      "title": "Víz- és szélerózió",
+      "caption": "A záporok lemossák, a szél kifújja a laza, humuszos feltalajt; vízmosások és porviharok jelentkeznek.",
+      "icon": "wind"
+    },
+    {
+      "title": "Szikesedés öntözés miatt",
+      "caption": "A szakszerűtlen öntözés után a víz elpárolog, a sók a talaj felső részében halmozódnak fel.",
+      "icon": "droplets"
+    },
+    {
+      "title": "Csökkenő termőképesség és aszály",
+      "caption": "A tápanyag- és víztartó képességét vesztett talajon kevesebb növény él meg, aszálykor a felszín teljesen kiszárad.",
+      "icon": "sun"
+    },
+    {
+      "title": "Elsivatagosodás",
+      "caption": "A folyamat önmagát erősíti: a növényzet nélküli terület sivatagszerűvé válik.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Társadalmi következmények",
+      "caption": "Éhínség, elvándorlás és szegénység sújtja a lakosságot, ami a maradék földek további túlhasználatához vezet.",
+      "icon": "users"
+    }
+  ],
+  "examples": [
+    {
+      "text": "A Száhel-övben a népességnövekedés, a túllegeltetés és a tűzifagyűjtés, valamint az ismétlődő aszályok miatt jelentős az elsivatagosodás.",
+      "places": [
+        "afrika--tajak--szahel-szahel-ov"
+      ]
+    },
+    {
+      "text": "Az Aral-tó vízgyűjtőjén a gyapotföldek nagyarányú öntözése miatt a tó nagy része kiszáradt, a környező talajok elszikesedtek, sós porviharok jelentkeznek.",
+      "places": [
+        "azsia--vizrajz--aral-to",
+        "azsia--tajak--turani-alfold"
+      ]
+    },
+    {
+      "text": "Az amerikai Préri füves területeinek feltörése után, az 1930-as évek aszályos időszakában súlyos porviharok hordták el a feltalajt.",
+      "places": [
+        "amerika--tajak--preri"
+      ]
+    },
+    {
+      "text": "A Duna–Tisza közén a talajvízszint süllyedése és a szárazodás miatt az elsivatagosodás veszélye hazánkban is megjelent.",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--duna-tisza-koze"
+      ]
+    }
+  ],
+  "concepts": [
+    "talajpusztulás (talajerózió)",
+    "erdőirtás",
+    "túllegeltetés",
+    "füves területek feltörése",
+    "elsivatagosodás",
+    "szikesedés",
+    "aszály",
+    "termőképesség",
+    "nomád pásztorkodás (vándorló állattenyésztés)",
+    "felszíni leöblítés",
+    "éhínség"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a talajpusztulás és az elsivatagosodás okait, folyamatát és következményeit a Száhel-öv példáján!",
+    "elements": [
+      {
+        "text": "A Száhel-öv félszáraz, változékony csapadékú terület a Szahara déli peremén.",
+        "points": 1
+      },
+      {
+        "text": "Emberi okok: gyors népességnövekedés, túllegeltetés, erdőirtás/tűzifagyűjtés, a művelt területek kiterjesztése.",
+        "points": 2
+      },
+      {
+        "text": "Természeti ok: ismétlődő aszályok.",
+        "points": 1
+      },
+      {
+        "text": "A növénytakaró eltűnésével a talajt a víz lemossa, a szél kifújja (talajpusztulás).",
+        "points": 2
+      },
+      {
+        "text": "A termőképesség csökken, a folyamat önmagát erősíti, a terület elsivatagosodik.",
+        "points": 2
+      },
+      {
+        "text": "Következmények: éhínség, elvándorlás (környezeti menekültek).",
+        "points": 1
+      },
+      {
+        "text": "Megoldás: erdősítés, fenntartható legeltetés és talajvédő gazdálkodás.",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A Száhel-öv a Szahara déli peremén húzódó félszáraz terület, ahol a csapadék kevés és évről évre erősen változik, ezért gyakoriak az aszályok. A gyorsan növekvő népesség egyre több állatot legeltet, egyre több fát vág ki tűzifának, és a művelt területeket a szárazabb vidékekre is kiterjeszti. A növénytakaró eltűnésével a talajt a ritka, de heves záporok lemossák, a szél pedig kifújja, így elpusztul a termékeny feltalaj. A talaj termőképessége csökken, kevesebb növény él meg rajta, a felszín még jobban kiszárad, tehát a folyamat önmagát erősíti, és a terület elsivatagosodik. Ennek következménye az éhínség és a lakosság elvándorlása, ezért erdősítéssel, a legeltetés szabályozásával és talajvédő gazdálkodással kell megállítani a folyamatot."
+  },
+  "generated": true,
+  "reviewed": false
+}

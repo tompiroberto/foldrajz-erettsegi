@@ -1,0 +1,58 @@
+{
+  "id": "evszakok",
+  "title": "A Föld forgása és keringése, az évszakok",
+  "summary": "Az évszakok azért váltakoznak, mert a Föld ferde forgástengellyel kering a Nap körül, így egy év alatt változik a napsugarak hajlásszöge és a nappalok hossza. Nem a Nap–Föld távolság változása okozza őket.",
+  "causes": [
+    "A Föld egy év alatt kerüli meg a Napot, pályája síkja az ekliptika.",
+    "A forgástengely kb. 66,5°-os szöget zár be a keringés síkjával (a merőlegestől kb. 23,5°-kal tér el): ez a tengelyferdeség.",
+    "A tengely keringés közben megtartja irányát a térben (önmagával párhuzamosan mozog), ezért hol az északi, hol a déli félgömb fordul jobban a Nap felé."
+  ],
+  "course": [
+    "A tavaszi és az őszi nap-éj egyenlőségkor a Nap az Egyenlítő fölött delel merőlegesen.",
+    "A nyári napfordulón (június 21–22.) a Ráktérítő, a téli napfordulón (december 21–22.) a Baktérítő fölött delel merőlegesen a Nap.",
+    "A merőleges delelés helye a két térítő között vándorol, közben változik a delelési magasság és a nappalok hossza mindkét félgömbön.",
+    "A két félgömbön az évszakok ellentétesek: amikor nálunk nyár van, a déli félgömbön tél."
+  ],
+  "consequences": [
+    "Kialakulnak a csillagászati évszakok (tavasz, nyár, ősz, tél) és a napfordulók, nap-éj egyenlőségek időpontjai.",
+    "A nagyobb beesési szög és a hosszabb nappal miatt nyáron több hő jut egységnyi felszínre, ezért melegebb van.",
+    "A sarkkörökön túl sarki nappal és sarki éjszaka alakul ki.",
+    "A térítők és a sarkkörök kijelölik a csillagászati (szoláris) övezetek határait."
+  ],
+  "steps": [
+    { "title": "Tavaszi nap-éj egyenlőség (március 20–21.)", "caption": "A Nap az Egyenlítő fölött delel merőlegesen, a Föld minden pontján kb. 12 óra a nappal. Az északi félgömbön ekkor kezdődik a csillagászati tavasz.", "icon": "sun" },
+    { "title": "Nyári napforduló (június 21–22.)", "caption": "Az északi félgömb fordul a Nap felé, a Nap a Ráktérítő fölött delel merőlegesen. Nálunk ez a leghosszabb nappal, az Északi sarkkörtől északra sarki nappal van.", "icon": "sun" },
+    { "title": "Őszi nap-éj egyenlőség (szeptember 22–23.)", "caption": "A Nap ismét az Egyenlítő fölött delel merőlegesen, mindenhol egyenlő a nappal és az éjszaka. Az északi félgömbön a csillagászati ősz kezdődik.", "icon": "sun" },
+    { "title": "Téli napforduló (december 21–22.)", "caption": "A déli félgömb fordul a Nap felé, a Nap a Baktérítő fölött delel merőlegesen. Nálunk ez a legrövidebb nappal, a Déli sarkkörön túl sarki nappal van.", "icon": "snowflake" }
+  ],
+  "examples": [
+    { "text": "A Ráktérítőn a nyári napfordulón, a Baktérítőn a téli napfordulón delel a Nap merőlegesen (90°-os delelési magasság).", "places": ["fold--foldrajzi-fokhalozat--rakterito", "fold--foldrajzi-fokhalozat--bakterito"] },
+    { "text": "Az Egyenlítőn a Nap évente kétszer, a nap-éj egyenlőségek idején delel merőlegesen, ezért ott nincsenek hőmérsékleti évszakok.", "places": ["fold--foldrajzi-fokhalozat--egyenlito"] },
+    { "text": "Ausztráliában karácsonykor nyár van, mert a déli félgömbön az évszakok ellentétesek az északiakkal.", "places": ["ausztralia-es-oceania--orszagok--ausztralia"] }
+  ],
+  "concepts": [
+    "Nap körüli keringés",
+    "tengely körüli forgás",
+    "ekliptika",
+    "tengelyferdeség",
+    "tavaszi és őszi nap-éj egyenlőség",
+    "nyári és téli napforduló",
+    "csillagászati évszakok (tavasz, nyár, ősz, tél)",
+    "delelési magasság"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el az évszakok kialakulását! Térj ki a Föld mozgásaira, a nevezetes időpontokra, és arra, miért nem a Nap–Föld távolság az ok!",
+    "elements": [
+      { "text": "A Föld egy év alatt kering a Nap körül.", "points": 1 },
+      { "text": "A forgástengely ferde: kb. 66,5°-os szöget zár be a pálya síkjával.", "points": 2 },
+      { "text": "A tengely iránya keringés közben nem változik, ezért felváltva az északi, illetve a déli félgömb fordul a Nap felé.", "points": 2 },
+      { "text": "Változik a napsugarak beesési szöge (delelési magasság) és a nappalok hossza, így a felszínt érő energia.", "points": 2 },
+      { "text": "Nevezetes időpontok: nap-éj egyenlőségkor az Egyenlítő, nyári napfordulón a Ráktérítő, téli napfordulón a Baktérítő fölött delel merőlegesen a Nap.", "points": 2 },
+      { "text": "A két félgömbön az évszakok ellentétesek.", "points": 1 },
+      { "text": "Nem a távolság az ok: a Föld januárban van legközelebb a Naphoz, mégis ekkor van nálunk tél.", "points": 1 }
+    ],
+    "modelAnswer": "A Föld egy év alatt kering a Nap körül, forgástengelye pedig kb. 66,5°-os szöget zár be a pálya síkjával. A tengely iránya keringés közben nem változik, ezért az év egyik felében az északi, a másikban a déli félgömb fordul jobban a Nap felé. Emiatt változik a napsugarak beesési szöge (a Nap delelési magassága) és a nappalok hossza, így az egységnyi felszínre jutó energia is. Nap-éj egyenlőségkor (március 20–21., szeptember 22–23.) az Egyenlítő, a nyári napfordulón (június 21–22.) a Ráktérítő, a téli napfordulón (december 21–22.) a Baktérítő fölött delel merőlegesen a Nap. Ezért a két félgömbön az évszakok ellentétesek. Nem a Nap–Föld távolság az ok, hiszen a Föld januárban van legközelebb a Naphoz, mégis ekkor van nálunk tél."
+  },
+  "generated": true,
+  "reviewed": false
+}

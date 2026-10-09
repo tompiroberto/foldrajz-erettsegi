@@ -1,0 +1,109 @@
+{
+  "id": "karsztosodas",
+  "title": "A karsztosodás: oldás és cseppkőképződés",
+  "summary": "A szén-dioxidot tartalmazó csapadékvíz oldja a mészkövet, ezért a karsztvidékeken jellegzetes felszíni és felszín alatti formák jönnek létre. Ahol a szén-dioxid távozik a vízből, a mész újra kiválik, így képződik a cseppkő.",
+  "causes": [
+    "A karsztosodás feltétele a vízben oldható kőzet, elsősorban a mészkő (kalcit), kisebb mértékben a dolomit.",
+    "A csapadékvíz a levegőből és főleg a talajból (a gyökerek és a lebontó szervezetek légzéséből) szén-dioxidot old, így gyenge szénsav keletkezik.",
+    "A mészkő repedései, hasadékai lehetővé teszik, hogy a víz a kőzet belsejébe szivárogjon.",
+    "A nedves, csapadékos éghajlat és a dús növényzet (sok szén-dioxid a talajban) gyorsítja a folyamatot."
+  ],
+  "course": [
+    "A szénsavas víz a kalcium-karbonátot oldható kalcium-hidrogén-karbonáttá alakítja, és elszállítja.",
+    "A felszínen karrok (karrmező), töbrök (dolinák) és víznyelők alakulnak ki.",
+    "A víznyelőkön és a repedéseken lejutó víz a mélyben járatokat, karsztbarlangokat old ki, ezekben barlangi patakok folynak.",
+    "A barlangba érő vízcseppből a szén-dioxid a barlang levegőjébe távozik, ezért a mész kiválik: függő és álló cseppkövek nőnek.",
+    "A karsztvíz a vízzáró réteg felett karsztforrásként bukkan a felszínre."
+  ],
+  "consequences": [
+    "A karsztvidékek felszíne vízszegény, mert a csapadék gyorsan a mélybe szivárog; felszíni vízfolyás kevés.",
+    "Jelentős karsztvízkészlet halmozódik fel, amely fontos ivóvízforrás, de a víznyelőkön át könnyen szennyeződik.",
+    "Látványos barlangok és cseppkőképződmények jönnek létre, amelyek turisztikai vonzerőt és természetvédelmi értéket jelentenek.",
+    "A karsztforrások vizéből forrásmészkő (édesvízi mészkő) válhat ki."
+  ],
+  "steps": [
+    {
+      "title": "A csapadékvíz szén-dioxidot old: szénsavas víz",
+      "caption": "Az esővíz a levegőből, és főleg a talajon átszivárogva a talajlevegőből szén-dioxidot vesz fel. Így gyenge szénsav keletkezik, amely már képes oldani a mészkövet."
+    },
+    {
+      "title": "A szénsavas víz oldja a mészkövet (karr, töbör, víznyelő)",
+      "caption": "A víz a mészkő kalcium-karbonátját oldható kalcium-hidrogén-karbonáttá alakítja. A felszínen barázdák (karrok), tölcsér alakú mélyedések (töbrök) és a vizet a mélybe vezető víznyelők jönnek létre."
+    },
+    {
+      "title": "Barlangok, barlangi patakok alakulnak ki",
+      "caption": "A repedések mentén lejutó víz a kőzet belsejében tágítja a járatokat, így karsztbarlangok alakulnak ki. A barlangokban barlangi patakok folynak, amelyek karsztforrásként lépnek ki."
+    },
+    {
+      "title": "Cseppkőképződés: a szén-dioxid távozik, a mész kiválik",
+      "caption": "A barlang levegőjébe érve a vízcseppből szén-dioxid távozik, és a folyamat megfordul: a kalcium-karbonát kiválik. A mennyezeten függő, az aljzaton álló cseppkövek nőnek, amelyek összenőve cseppkőoszlopot alkotnak."
+    }
+  ],
+  "examples": [
+    {
+      "text": "Az Aggteleki-karszt a magyarországi karsztosodás mintaterülete: felszínén töbrök és víznyelők, mélyében a cseppkövekben gazdag Baradla-barlang és barlangi patak (Styx).",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--aggteleki-karszt",
+        "magyarorszag--egyeb-tajak-teruletek--baradla-barlang"
+      ]
+    },
+    {
+      "text": "A Bükk-fennsík mészkőfelszínén sok töbör, víznyelő és zsomboly található; a karsztvíz a hegység peremén karsztforrásokban tör fel.",
+      "places": [
+        "magyarorszag--egyeb-tajak-teruletek--bukk-fennsik"
+      ]
+    },
+    {
+      "text": "A Dinári-hegység mészkővidéke (a „Karszt” névadója) csupasz karrmezőiről, töbreiről és poljéiről ismert.",
+      "places": [
+        "europa--tajak--dinari-hegyseg"
+      ]
+    }
+  ],
+  "concepts": [
+    "mészkő",
+    "kalcit",
+    "karsztvíz",
+    "víznyelő",
+    "dolina (töbör)",
+    "karrmező",
+    "karsztbarlang",
+    "barlangi patak",
+    "cseppkő",
+    "karsztforrás",
+    "zsomboly",
+    "forrásmészkő (édesvízi mészkő)"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a karsztosodás folyamatát és a cseppkőképződést! Térj ki a felszíni és a felszín alatti karsztformákra, és mutass be egy hazai példát!",
+    "elements": [
+      {
+        "text": "A csapadékvíz a levegőből és a talajból szén-dioxidot old, így szénsavas víz keletkezik.",
+        "points": 2
+      },
+      {
+        "text": "A szénsavas víz a mészkövet (kalcium-karbonát) oldható vegyületté (kalcium-hidrogén-karbonát) alakítja.",
+        "points": 2
+      },
+      {
+        "text": "Felszíni formák: karr (karrmező), töbör (dolina), víznyelő.",
+        "points": 2
+      },
+      {
+        "text": "Felszín alatti formák: karsztbarlang, barlangi patak; a víz karsztforrásként lép ki.",
+        "points": 1
+      },
+      {
+        "text": "Cseppkőképződés: a barlangban a vízből szén-dioxid távozik, ezért a mész kiválik (függő és álló cseppkő).",
+        "points": 2
+      },
+      {
+        "text": "Hazai példa: Aggteleki-karszt, Baradla-barlang (vagy Bükk).",
+        "points": 1
+      }
+    ],
+    "modelAnswer": "A karsztosodás során a csapadékvíz a levegőből és főleg a talajból szén-dioxidot old, így gyenge szénsavas víz keletkezik. Ez a víz a mészkő kalcium-karbonátját oldható kalcium-hidrogén-karbonáttá alakítja és elszállítja. A felszínen így karrok (karrmezők), töbrök (dolinák) és víznyelők alakulnak ki, a mélybe jutó víz pedig karsztbarlangokat old ki, amelyekben barlangi patakok folynak, és a víz karsztforrásként lép a felszínre. A barlang levegőjébe érve a vízcseppekből szén-dioxid távozik, a folyamat megfordul, és a mész kiválik: így nőnek a függő és álló cseppkövek. Hazánkban ennek legszebb példája az Aggteleki-karszt és a Baradla-barlang."
+  },
+  "generated": true,
+  "reviewed": false
+}

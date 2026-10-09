@@ -1,0 +1,66 @@
+{
+  "id": "hegysegkepzodes",
+  "title": "A hegységképződés szakaszai",
+  "summary": "A gyűrthegységek a kőzetlemezek közeledése során, több szakaszban keletkeznek: üledékfelhalmozódás, tektogenezis (gyűrődés, feltorlódás) és orogenezis (kiemelkedés). Később a lepusztult gyűrthegység rögökre töredezhet.",
+  "causes": [
+    "A kőzetlemezek közeledése óriási oldalirányú nyomást fejt ki a lemezszegélyek kőzeteire.",
+    "A lemezek közötti tengeri medencékben hosszú időn át vastag üledéksor halmozódik fel.",
+    "A kőzetburok az asztenoszférán „úszik”, ezért a megvastagodott, könnyebb kéregrész kiemelkedik (izosztázia)."
+  ],
+  "course": [
+    "Üledékfelhalmozódás: a lemezek közötti süllyedő tengeri medencében vastag üledéksor rakódik le.",
+    "Tektogenezis: a közeledő lemezek összenyomják az üledékeket, azok redőkbe gyűrődnek, takarókká torlódnak, közben magmás tevékenység is zajlik.",
+    "Orogenezis: a megvastagodott, összegyűrt kéregrész az izosztázia miatt hegységgé emelkedik.",
+    "A kiemelkedéssel egy időben megindul a lepusztulás, később a merev, lepusztult hegység vetődésekkel rögökre töredezhet."
+  ],
+  "consequences": [
+    "Gyűrthegységek és hegységrendszerek jönnek létre (pl. Eurázsiai- és Pacifikus-hegységrendszer).",
+    "A fiatal gyűrthegységek magasak, éles gerincűek, gyakori bennük a földrengés.",
+    "Az idős, lepusztult gyűrthegységek a későbbi lemezmozgások hatására rögös szerkezetű hegységekké alakulhatnak, ezek megfiatalodhatnak.",
+    "A hegységképződéshez ércesedés, átalakult kőzetek és tektonikus medencék kialakulása kapcsolódik."
+  ],
+  "steps": [
+    { "title": "Üledékfelhalmozódás", "caption": "A közeledő lemezek közötti süllyedő tengeri medencében a folyók hordaléka és a tengeri élőlények vázai vastag üledékrétegekké halmozódnak fel.", "icon": "layers" },
+    { "title": "Lemezek közeledése", "caption": "A kőzetlemezek egymás felé mozognak, az óceáni kéreg alábukik, a medence szűkül. Az üledékekre egyre nagyobb oldalnyomás nehezedik.", "icon": "arrow-right" },
+    { "title": "Tektogenezis: gyűrődés, feltorlódás", "caption": "Az összenyomott rétegek redőkbe gyűrődnek (redőboltozat, redőteknő), áttolt redők, takarók alakulnak ki. Közben magma nyomul be, kőzetek alakulnak át.", "icon": "mountain" },
+    { "title": "Orogenezis: kiemelkedés", "caption": "A megvastagodott, könnyebb kéregrész az izosztázia miatt felemelkedik, így alakul ki a gyűrthegység. A kiemelkedés lassan, sok millió év alatt megy végbe.", "icon": "arrow-up" },
+    { "title": "Lepusztulás", "caption": "A kiemelkedő hegységet a külső erők (víz, jég, szél, hőingás) azonnal pusztítani kezdik. A lepusztult anyag az előtéri medencékbe kerül.", "icon": "mountain-snow" },
+    { "title": "Rögösödés, megfiatalodás", "caption": "Az idős, merev, lepusztult hegység újabb lemezmozgáskor nem gyűrődik, hanem vetődések mentén rögökre töredezik. Így keletkeznek a rögös szerkezetű hegységek, sasbércek és árkok.", "icon": "activity" }
+  ],
+  "examples": [
+    { "text": "A Himalája két kontinentális lemez (az Indiai és az Eurázsiai) ütközésével keletkezett, ma is emelkedő fiatal gyűrthegység.", "places": ["azsia--tajak--himalaja", "fold--kozetlemezek--eurazsiai-lemez"] },
+    { "text": "Az Alpok és a Kárpátok az Eurázsiai-hegységrendszer fiatal gyűrthegységei.", "places": ["europa--tajak--alpok", "europa--tajak--karpatok", "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer"] },
+    { "text": "Az Andok óceáni és kontinentális lemez közeledésével gyűrődött fel, a Pacifikus-hegységrendszer része.", "places": ["amerika--tajak--andok", "fold--nagyszerkezeti-egysegek--pacifikus-hegysegrendszer"] },
+    { "text": "Az Urál és az Appalache idős, erősen lepusztult gyűrthegység.", "places": ["europa--tajak--ural", "amerika--tajak--appalache-hegyseg-appalache"] }
+  ],
+  "concepts": [
+    "a hegységképződés típusai (két kontinentális, két óceáni, illetve egy óceáni és egy kontinentális lemezszegély közeledése)",
+    "hegységképződési szakaszok (üledékfelhalmozódás, tektogenezis, orogenezis)",
+    "hegységrendszer",
+    "szerkezeti mozgások",
+    "gyűrődés",
+    "redő",
+    "redőboltozat",
+    "redőteknő",
+    "áttolt redő",
+    "vetődés",
+    "rög",
+    "izosztázia",
+    "gyűrthegység",
+    "rögös szerkezetű hegység"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a gyűrthegységek kialakulását a hegységképződés szakaszai alapján! Mutasd be a kapcsolatot a lemezmozgásokkal, és mondj példát!",
+    "elements": [
+      { "text": "Ok: kőzetlemezek közeledése, oldalirányú nyomás.", "points": 2 },
+      { "text": "Üledékfelhalmozódás: a lemezek közötti tengeri medencében vastag üledéksor rakódik le.", "points": 2 },
+      { "text": "Tektogenezis: az üledékek gyűrődése, redők, takarók kialakulása.", "points": 2 },
+      { "text": "Orogenezis: a megvastagodott kéregrész kiemelkedése (izosztázia).", "points": 2 },
+      { "text": "A kiemelkedéssel párhuzamosan lepusztulás; később rögösödés.", "points": 1 },
+      { "text": "Helyes példa (pl. Himalája, Alpok, Andok).", "points": 1 }
+    ],
+    "modelAnswer": "A gyűrthegységek a kőzetlemezek közeledése során keletkeznek, amikor a lemezszegélyre óriási oldalirányú nyomás nehezedik. Az első szakasz az üledékfelhalmozódás, amikor a lemezek közötti tengeri medencében vastag üledéksor rakódik le. A tektogenezis során a közeledő lemezek összenyomják ezeket az üledékeket, amelyek redőkbe gyűrődnek és takarókká torlódnak. Az orogenezis szakaszában a megvastagodott, könnyebb kéregrész az izosztázia miatt hegységgé emelkedik. A kiemelkedéssel párhuzamosan megindul a lepusztulás, az idős, merev hegység később vetődésekkel rögökre töredezhet. Példa erre a két kontinentális lemez ütközésével keletkezett Himalája vagy az Alpok."
+  },
+  "generated": true,
+  "reviewed": false
+}

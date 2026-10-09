@@ -1,0 +1,55 @@
+{
+  "id": "forro-pont",
+  "title": "Forró pont feletti vulkánosság",
+  "summary": "A forró pont a köpeny mélyéről feláramló, helyben maradó forró anyagoszlop, amely a fölötte elmozduló kőzetlemezen vulkánokat hoz létre. Így a lemezek belsejében is kialakulhat vulkánosság, és a vulkánok láncot alkotnak.",
+  "causes": [
+    "A köpeny mélyéből forró anyag áramlik fel egy viszonylag szűk oszlopban (köpenycsóva).",
+    "A forró pont helyzete hosszú ideig nem változik, a kőzetlemez viszont elmozdul fölötte.",
+    "A feláramló anyag a nyomás csökkenése miatt részben megolvad, és bázisos magma keletkezik."
+  ],
+  "course": [
+    "A magma átolvasztja, átüti a fölötte lévő lemezt, és a felszínen vulkán épül.",
+    "A híg bazaltláva miatt főleg pajzsvulkánok keletkeznek.",
+    "A lemez továbbmozdul, a vulkán eltávolodik a forró ponttól, elveszti magmautánpótlását és kialszik.",
+    "A forró pont fölött közben új vulkán kezd épülni."
+  ],
+  "consequences": [
+    "Vulkánlánc jön létre, amelyben a vulkánok kora a forró ponttól távolodva nő.",
+    "A kialudt vulkánok lepusztulnak és lesüllyednek, az óceánban tenger alatti hegyekké válhatnak.",
+    "A vulkánlánc iránya megmutatja a kőzetlemez mozgásának irányát.",
+    "Szárazföldön (pl. Yellowstone) a forró pont gejzíreket, hőforrásokat táplál."
+  ],
+  "steps": [
+    { "title": "A köpenyből feláramló forró anyag (forró pont)", "caption": "A köpeny mélyéről forró anyagoszlop emelkedik fel, helyzete hosszú ideig állandó. A felszín közelében részben megolvad, bázisos magma keletkezik.", "icon": "flame" },
+    { "title": "A lemez fölötte vulkánt hoz létre", "caption": "A magma átüti a fölötte lévő kőzetlemezt, és a felszínen vulkán épül. A híg bazaltlávából jellemzően pajzsvulkán lesz.", "icon": "mountain" },
+    { "title": "A lemez továbbcsúszik, a vulkán kialszik", "caption": "A kőzetlemez elmozdul, a vulkán lekerül a forró pontról és elveszti a magmautánpótlását. A forró pont fölött közben új vulkán kezd épülni.", "icon": "arrow-right" },
+    { "title": "Vulkánlánc: a szigetek kora a forró ponttól távolodva nő", "caption": "Egymás után sorakozó vulkánokból lánc alakul ki, a legfiatalabb, működő vulkán a forró pont fölött van. A lánc iránya a lemez mozgásirányát mutatja.", "icon": "layers" }
+  ],
+  "examples": [
+    { "text": "A Hawaii-szigetek a Csendes-óceáni-lemez közepén, forró pont fölött keletkeztek. A délkeleti Hawaii-sziget a legfiatalabb, működő pajzsvulkánokkal, északnyugat felé a szigetek egyre idősebbek.", "places": ["amerika--tajak--hawaii-szigetek", "fold--kozetlemezek--csendes-oceani-lemez"] },
+    { "text": "A Yellowstone Nemzeti Park alatt kontinentális lemez alatti forró pont működik, gejzírek és hőforrások jelzik.", "places": ["amerika--tajak--yellowstone-nemzeti-park", "fold--kozetlemezek--eszak-amerikai-lemez"] },
+    { "text": "Izlandon a forró pont egybeesik a Közép-atlanti-hátsággal, ezért a sziget kiemelkedik a tengerből, és rendkívül élénk a vulkánosság.", "places": ["europa--tajak--izland"] }
+  ],
+  "concepts": [
+    "forrópontos vulkán",
+    "kőzetlemez",
+    "magma",
+    "pajzsvulkán",
+    "felszíni vulkánosság",
+    "gejzír"
+  ],
+  "essay": {
+    "prompt": "Magyarázd el a forró pontok feletti vulkánosság kialakulását egy példán keresztül! Térj ki arra, miért alakul ki vulkánlánc!",
+    "elements": [
+      { "text": "A forró pont a köpenyből feláramló, helyben maradó forró anyag.", "points": 2 },
+      { "text": "A magma átüti a fölötte lévő kőzetlemezt, vulkán (jellemzően bazaltos pajzsvulkán) épül.", "points": 2 },
+      { "text": "A kőzetlemez elmozdul a forró pont fölött, a vulkán eltávolodik és kialszik.", "points": 2 },
+      { "text": "Vulkánlánc alakul ki, a vulkánok kora a forró ponttól távolodva nő.", "points": 2 },
+      { "text": "A lemezek belsejében is lehet vulkánosság.", "points": 1 },
+      { "text": "Példa: Hawaii-szigetek (vagy Yellowstone, Izland).", "points": 1 }
+    ],
+    "modelAnswer": "A forró pont a köpeny mélyéből feláramló, helyzetét hosszú ideig megtartó forró anyagoszlop. Az itt keletkező magma átüti a fölötte lévő kőzetlemezt, és a felszínen vulkán, a híg bazaltláva miatt jellemzően pajzsvulkán épül. Mivel a kőzetlemez elmozdul a forró pont fölött, a vulkán idővel eltávolodik tőle, elveszti magmautánpótlását és kialszik, közben pedig a forró pont fölött új vulkán képződik. Így vulkánlánc alakul ki, amelyben a vulkánok kora a forró ponttól távolodva nő. Ezért a lemezek belsejében is lehet vulkánosság, erre a legismertebb példa a Csendes-óceáni-lemez közepén fekvő Hawaii-szigetek."
+  },
+  "generated": true,
+  "reviewed": false
+}

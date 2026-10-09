@@ -1,0 +1,1402 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--afrikai-osfold",
+    "name": "Afrikai-ősföld",
+    "confidence": "medium",
+    "note": "Afrika belseje (Atlasz és Fok-hegység nélkül); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [-12,24],
+      [-8,18],
+      [-12,12],
+      [-8,7],
+      [0,6],
+      [6,6],
+      [10,4],
+      [12,0],
+      [13,-6],
+      [14,-12],
+      [13,-17],
+      [15,-22],
+      [18,-28],
+      [22,-31],
+      [27,-31],
+      [31,-27],
+      [33,-22],
+      [36,-17],
+      [39,-12],
+      [39,-5],
+      [41,0],
+      [42,5],
+      [38,9],
+      [36,14],
+      [33,19],
+      [31,24],
+      [25,26],
+      [15,26],
+      [5,27],
+      [-5,27],
+      [-12,24]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--angara-osfold",
+    "name": "Angara-ősföld",
+    "confidence": "medium",
+    "note": "Szibériai kraton a Jenyiszej és a Léna között; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [87,60],
+      [90,56],
+      [97,55],
+      [105,54],
+      [112,56],
+      [118,57],
+      [125,58],
+      [132,60],
+      [131,64],
+      [128,68],
+      [126,71],
+      [120,73],
+      [112,74],
+      [104,74.5],
+      [97,73],
+      [90,70],
+      [87,66],
+      [87,60]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--antarktiszi-osfold",
+    "name": "Antarktiszi-ősföld",
+    "confidence": "medium",
+    "note": "Kelet-Antarktisz, a Transzantarktiszi-hegységtől keletre; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [-30,-78],
+      [-40,-80],
+      [-60,-83],
+      [-60,-90],
+      [0,-90],
+      [50,-90],
+      [100,-90],
+      [165,-90],
+      [165,-85],
+      [160,-80],
+      [165,-75],
+      [162,-70],
+      [150,-68],
+      [135,-66.5],
+      [120,-66.5],
+      [105,-66],
+      [90,-66.5],
+      [75,-69],
+      [60,-67],
+      [45,-67.5],
+      [30,-69.5],
+      [15,-70],
+      [0,-70],
+      [-10,-71],
+      [-20,-74],
+      [-30,-78]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--arab-osfold",
+    "name": "Arab-ősföld",
+    "confidence": "medium",
+    "note": "Arab-félsziget nyugati része (Arab–Núbiai-pajzs ázsiai fele); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [35,28],
+      [36.5,26],
+      [38,24],
+      [39.5,21.5],
+      [41,19],
+      [42.5,16.5],
+      [43.5,14],
+      [44.5,13],
+      [45.5,14.5],
+      [45,17],
+      [44.5,20],
+      [44,23],
+      [43,25.5],
+      [41,27.5],
+      [38.5,29],
+      [36,29.5],
+      [35,28]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--balti-osfold",
+    "name": "Balti-ősföld",
+    "confidence": "medium",
+    "note": "Fennoszkandia: Svédország, Finnország, Karélia, Kola; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [11.5,58.5],
+      [14,56.2],
+      [16.5,56.5],
+      [18,59],
+      [19,60.5],
+      [21,60.5],
+      [22.5,60],
+      [25,60.2],
+      [28,60.5],
+      [30,60],
+      [33,61],
+      [36,63],
+      [38,64.5],
+      [41,66.5],
+      [40,68],
+      [35,69.3],
+      [30,69.8],
+      [26,70.3],
+      [22,69.3],
+      [18,68],
+      [16,65],
+      [14,63],
+      [12,60.5],
+      [11.5,58.5]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--brazil-osfold",
+    "name": "Brazil-ősföld",
+    "confidence": "medium",
+    "note": "Brazil-felföld az Amazonastól délre; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [-35.5,-6],
+      [-38,-4],
+      [-42,-3],
+      [-46,-3.5],
+      [-50,-4],
+      [-54,-6],
+      [-58,-9],
+      [-62,-10],
+      [-63,-13],
+      [-60,-17],
+      [-58,-22],
+      [-56,-27],
+      [-53,-29],
+      [-50,-27],
+      [-47,-25],
+      [-43,-23],
+      [-40.5,-20],
+      [-39,-15],
+      [-37,-11],
+      [-35.5,-6]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--dekkan-osfold",
+    "name": "Dekkán-ősföld",
+    "confidence": "medium",
+    "note": "India félszigeti része (Dekkán); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [73,21.5],
+      [74,17],
+      [75,13],
+      [76.5,10],
+      [77.5,8.3],
+      [78.5,9],
+      [79.8,11],
+      [80.1,13.5],
+      [81,16],
+      [83,17.5],
+      [85,19.5],
+      [87,21.5],
+      [85,23.5],
+      [82,24.5],
+      [79,25],
+      [76,24.5],
+      [73.5,23.5],
+      [73,21.5]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--guyanai-osfold",
+    "name": "Guyanai-ősföld",
+    "confidence": "medium",
+    "note": "Guyanai-hegyvidék az Orinoco és az Amazonas között; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [-71,4],
+      [-69.5,2],
+      [-67,1],
+      [-64,0.5],
+      [-61,0.5],
+      [-58,0.5],
+      [-55,1],
+      [-51.5,0.5],
+      [-50.5,2.5],
+      [-52,5],
+      [-55,5.8],
+      [-58,6.8],
+      [-61,8.3],
+      [-64,7.8],
+      [-67,6],
+      [-71,4]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--kanadai-osfold",
+    "name": "Kanadai-ősföld",
+    "confidence": "medium",
+    "note": "Hudson-öböl körüli Kanadai-pajzs (Labrador, Québec, Ontario, Nunavut); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [-125,66],
+      [-115,62],
+      [-110,59],
+      [-105,56],
+      [-100,53],
+      [-96,50],
+      [-93,47.5],
+      [-88,46.5],
+      [-84,46],
+      [-80,44.8],
+      [-76,44.5],
+      [-74,45.5],
+      [-71,46.8],
+      [-67,48.5],
+      [-62,50],
+      [-57,51.5],
+      [-55.7,53],
+      [-60,56],
+      [-64,60],
+      [-70,62.5],
+      [-78,64],
+      [-85,68],
+      [-90,70],
+      [-100,69],
+      [-110,68],
+      [-120,69],
+      [-125,66]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--kinai-osfold",
+    "name": "Kínai-ősföld",
+    "confidence": "medium",
+    "note": "Észak-kínai (Kínai–koreai) kraton: Észak-kínai-alföld, Lösz-fennsík K-i része, Koreai-félsziget; sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [105,36],
+      [108,34],
+      [112,33],
+      [117,33],
+      [120,35],
+      [122,37],
+      [124,37.5],
+      [126.5,34.8],
+      [129,35.2],
+      [129.5,37.5],
+      [129,41],
+      [126,42],
+      [124,41.5],
+      [121,42],
+      [117,42.5],
+      [112,42],
+      [108,41],
+      [105,39],
+      [105,36]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--nyugat-ausztraliai-osfold",
+    "name": "Nyugat-ausztráliai-ősföld",
+    "confidence": "medium",
+    "note": "Nyugat-ausztráliai-ősföld (Yilgarn, Pilbara, Kimberley); sematikus, a prekambriumi kraton tankönyvi (atlasz) kiterjedése"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [114,-22],
+      [113.7,-25],
+      [114.5,-28],
+      [115.3,-31],
+      [115,-34.3],
+      [117,-35],
+      [119,-34.5],
+      [123,-33.8],
+      [126,-32],
+      [129,-30],
+      [130,-25],
+      [129,-20],
+      [129,-15],
+      [126,-15],
+      [124,-17],
+      [121,-19],
+      [119,-20],
+      [116,-20.5],
+      [114,-22]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--eurazsiai-hegysegrendszer",
+    "name": "Eurázsiai-hegységrendszer",
+    "confidence": "medium",
+    "note": "Alpi–himalájai öv: Atlasz, Pireneusok, Alpok, Kárpátok, Dinári- és Balkán-hg., Kaukázus, Zagrosz, Hindukus, Himalája, Indonéz-szigetív; sematikus hegységöv a tankönyvi térkép szerint"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [-10,29.5],
+       [-5,31],
+       [0,33],
+       [5,34.5],
+       [10,35],
+       [11,37],
+       [8,37],
+       [3,36.8],
+       [-2,35.3],
+       [-6,35.8],
+       [-9,33],
+       [-10,31],
+       [-10,29.5]
+      ]
+     ],
+     [
+      [
+       [-2,42.8],
+       [0,42.5],
+       [3,42.3],
+       [3,42.8],
+       [0,43],
+       [-2,43.3],
+       [-2,42.8]
+      ]
+     ],
+     [
+      [
+       [5.5,43.5],
+       [7.5,43.8],
+       [10,45.7],
+       [13,46],
+       [16,47.3],
+       [15.5,48],
+       [12,47.7],
+       [9,47.3],
+       [6.5,46.5],
+       [5.5,45.5],
+       [5.5,43.5]
+      ]
+     ],
+     [
+      [
+       [17,48.3],
+       [17.5,47.9],
+       [19.5,48.7],
+       [22,48.6],
+       [24,47.6],
+       [25.3,46.5],
+       [24.5,45.8],
+       [22.3,45.5],
+       [22,44.5],
+       [24,45],
+       [26.5,45.3],
+       [26.5,46.5],
+       [24.5,48.2],
+       [22,49.5],
+       [19,49.6],
+       [17,48.3]
+      ]
+     ],
+     [
+      [
+       [14,45.5],
+       [17,44],
+       [19.5,42],
+       [20,40],
+       [21,38],
+       [22.5,36.8],
+       [23,38],
+       [22,40],
+       [23,42],
+       [26,42.5],
+       [28,42.7],
+       [27.5,43.5],
+       [23,43.6],
+       [19.5,44.5],
+       [16,45.8],
+       [14,45.5]
+      ]
+     ],
+     [
+      [
+       [28,37],
+       [32,36.3],
+       [36,36.5],
+       [40,37.2],
+       [44,36.5],
+       [46,33.5],
+       [48.5,31],
+       [51,28.5],
+       [54,26.8],
+       [57.5,26],
+       [62,25.5],
+       [66,25.5],
+       [67.5,28],
+       [69,31],
+       [71,33],
+       [74,32.5],
+       [77,30.5],
+       [80,28.5],
+       [84,27.5],
+       [88,26.8],
+       [92,26.8],
+       [95,27.2],
+       [97,25],
+       [98,28],
+       [94,29.5],
+       [90,30],
+       [85,30.5],
+       [80,33],
+       [76,36],
+       [72,37.5],
+       [68,36],
+       [63,36.5],
+       [58,37.8],
+       [54,37.5],
+       [50,38],
+       [49.5,40.5],
+       [46,42.8],
+       [40,43.7],
+       [37.5,44.8],
+       [40,42],
+       [36,41.8],
+       [30,41.2],
+       [27,40.3],
+       [26,39],
+       [28,37]
+      ]
+     ],
+     [
+      [
+       [93.5,24],
+       [93,20],
+       [94,16],
+       [93,12],
+       [95,6],
+       [97,3],
+       [100,-1.5],
+       [103,-5],
+       [106,-7.5],
+       [111,-8.5],
+       [116,-9],
+       [121,-10.5],
+       [127,-9.5],
+       [131,-8],
+       [134,-5],
+       [127,-7.5],
+       [121,-8.5],
+       [116,-7.8],
+       [111,-6.8],
+       [106,-6],
+       [104,-3.5],
+       [101,0],
+       [98.5,3],
+       [97,5.5],
+       [96.5,12],
+       [96,16],
+       [96,20],
+       [95.5,24],
+       [93.5,24]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--kaledoniai-hegysegrendszer",
+    "name": "Kaledóniai-hegységrendszer",
+    "confidence": "medium",
+    "note": "Skandináv-hegység, Skócia–Észak-Írország, Kelet-Grönland; sematikus hegységöv a tankönyvi térkép szerint"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [5,59],
+       [7,58],
+       [9,59.5],
+       [12,61],
+       [13,63],
+       [15.5,65],
+       [18,67.5],
+       [21,69],
+       [26,69.8],
+       [28,71],
+       [24,71],
+       [20,70],
+       [17,69],
+       [14,67.5],
+       [12,65.5],
+       [9,63.5],
+       [6,62],
+       [5,59]
+      ]
+     ],
+     [
+      [
+       [-6.5,54.3],
+       [-5.5,55],
+       [-3,55.8],
+       [-2,57],
+       [-1.8,57.7],
+       [-3,58.7],
+       [-5,58.6],
+       [-7,57.5],
+       [-6.5,56.5],
+       [-8,55.2],
+       [-8,54.5],
+       [-6.5,54.3]
+      ]
+     ],
+     [
+      [
+       [-22,70],
+       [-21,72],
+       [-19,75],
+       [-18,78],
+       [-20,80],
+       [-24,80],
+       [-24,77],
+       [-25,74],
+       [-26,71.5],
+       [-24,70],
+       [-22,70]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--pacifikus-hegysegrendszer",
+    "name": "Pacifikus-hegységrendszer",
+    "confidence": "medium",
+    "note": "Csendes-óceán körüli öv: Andok, Kordillerák, Aleuti-ív, Kamcsatka, Japán, Fülöp-szk., Új-Zéland; az antimeridiánnál kettévágva; sematikus hegységöv a tankönyvi térkép szerint"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [-77.5,8],
+       [-80,1],
+       [-81,-5],
+       [-77,-12],
+       [-71.5,-18],
+       [-70.5,-24],
+       [-71.5,-32],
+       [-73.5,-40],
+       [-75,-48],
+       [-74,-54],
+       [-67,-55.5],
+       [-70,-52],
+       [-71.5,-46],
+       [-71,-38],
+       [-69.5,-30],
+       [-66,-24],
+       [-66.5,-18],
+       [-71,-13],
+       [-75,-6],
+       [-76,0],
+       [-74,5],
+       [-72,9],
+       [-75.5,9.5],
+       [-77.5,8]
+      ]
+     ],
+     [
+      [
+       [-77,8.5],
+       [-82,9.5],
+       [-84,13],
+       [-88,15.5],
+       [-92,16.5],
+       [-96,18.5],
+       [-99,21],
+       [-103,27],
+       [-106,31],
+       [-104.5,35],
+       [-105,40],
+       [-109,45],
+       [-114,50],
+       [-120,54],
+       [-125,58],
+       [-130,63],
+       [-135,64.5],
+       [-142,64],
+       [-150,62.5],
+       [-155,59.5],
+       [-163,56],
+       [-172,53.5],
+       [-180,52.5],
+       [-180,51.5],
+       [-172,52.5],
+       [-166,53.5],
+       [-160,55],
+       [-153,57.5],
+       [-147,60.5],
+       [-140,59.5],
+       [-135,57.5],
+       [-130,54],
+       [-124,48.5],
+       [-124.5,45],
+       [-124,40],
+       [-121,35],
+       [-117,32.5],
+       [-114,29],
+       [-110,23],
+       [-105,19.5],
+       [-97,16],
+       [-92,14],
+       [-86,11],
+       [-83,8],
+       [-77,8.5]
+      ]
+     ],
+     [
+      [
+       [180,52.5],
+       [173,53.5],
+       [166,56],
+       [164,60],
+       [160,61.5],
+       [156.5,57.5],
+       [155.5,52],
+       [150,46.5],
+       [145,43.5],
+       [141.5,42.5],
+       [140,40],
+       [139,37.5],
+       [136.5,36.5],
+       [132,35],
+       [129.5,33.5],
+       [128,31],
+       [126,27],
+       [121.5,25.5],
+       [120,23],
+       [120,18.5],
+       [119.5,14],
+       [120,10],
+       [122,6.5],
+       [125,5.5],
+       [127,6.5],
+       [126.5,10],
+       [124.5,14],
+       [122.5,18],
+       [122,22],
+       [124,24],
+       [129,27.5],
+       [131.5,31],
+       [135,33.5],
+       [140,35],
+       [141.2,37],
+       [142.2,39.5],
+       [145.5,43],
+       [150,45.5],
+       [156.5,50.5],
+       [159,52.5],
+       [162.5,56],
+       [163.5,58.5],
+       [166,55],
+       [173,52.3],
+       [180,51.5],
+       [180,52.5]
+      ]
+     ],
+     [
+      [
+       [166,-46.5],
+       [168,-47],
+       [171,-45.5],
+       [174,-41.8],
+       [176.5,-40],
+       [178.6,-37.6],
+       [178,-37.5],
+       [175.5,-36.5],
+       [173,-34.5],
+       [172.5,-35],
+       [174.5,-38.5],
+       [172.5,-41],
+       [170,-42.5],
+       [167,-44.5],
+       [166,-46.5]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--variszkuszi-hegysegrendszer",
+    "name": "Variszkuszi-hegységrendszer",
+    "confidence": "medium",
+    "note": "Ibériai-rög, Armorikai-, Francia-középhg., Ardennek–Rajnai-palahg., Vogézek–Fekete-erdő, Cseh-medence peremhegységei, Urál, Appalache; sematikus hegységöv a tankönyvi térkép szerint"
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [-9,37],
+       [-6,37.5],
+       [-3.5,38.5],
+       [-2.5,40.5],
+       [-3,42],
+       [-5,43.3],
+       [-8,43.5],
+       [-9.2,42],
+       [-8.8,40],
+       [-9.3,38.8],
+       [-9,37]
+      ]
+     ],
+     [
+      [
+       [-4.7,48.4],
+       [-3,47.5],
+       [-1.5,47],
+       [-0.5,48],
+       [-1.5,48.7],
+       [-3,48.8],
+       [-4.5,48.7],
+       [-4.7,48.4]
+      ]
+     ],
+     [
+      [
+       [2,45],
+       [3.5,44],
+       [4.5,44.5],
+       [4.3,46],
+       [3,46.5],
+       [1.5,45.8],
+       [2,45]
+      ]
+     ],
+     [
+      [
+       [4.5,50],
+       [6,49.6],
+       [8,49.8],
+       [9,50.5],
+       [8,51.3],
+       [6,50.8],
+       [4.8,50.4],
+       [4.5,50]
+      ]
+     ],
+     [
+      [
+       [6.6,47.8],
+       [7.8,47.6],
+       [8.6,48],
+       [8.5,49],
+       [7.5,49],
+       [6.9,48.6],
+       [6.6,47.8]
+      ]
+     ],
+     [
+      [
+       [12,49.5],
+       [13.2,48.6],
+       [15,48.6],
+       [16.5,49.3],
+       [16.8,50.2],
+       [15,50.9],
+       [13,50.5],
+       [12.2,50.2],
+       [12,49.5]
+      ]
+     ],
+     [
+      [
+       [56.5,51],
+       [59,50.5],
+       [60,53],
+       [60.5,57],
+       [61,61],
+       [63,65],
+       [67,68],
+       [66,69],
+       [63,68],
+       [59.5,65],
+       [58.5,62],
+       [58.5,58],
+       [58,55],
+       [56.5,51]
+      ]
+     ],
+     [
+      [
+       [-85.5,33.5],
+       [-83,33.3],
+       [-80,35],
+       [-77.5,37.5],
+       [-75.5,40],
+       [-73,42],
+       [-70,43.8],
+       [-66,45.5],
+       [-64,47],
+       [-66,47.5],
+       [-69,46],
+       [-72,44.5],
+       [-74,42.5],
+       [-76,41],
+       [-78.5,39],
+       [-80.5,37],
+       [-83,35],
+       [-85.5,33.5]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--japan-arok",
+    "name": "Japán-árok",
+    "confidence": "medium",
+    "note": "az árok tengelye Honsú keleti partjai előtt, É→D"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [144.5,41],
+     [144.2,39.5],
+     [144,38],
+     [143.5,36.5],
+     [142.5,35],
+     [141.8,34]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--nagyszerkezeti-egysegek--mariana-arok",
+    "name": "Mariana-árok",
+    "confidence": "medium",
+    "note": "ív alakú árok a Mariana-szigetektől keletre; a Challenger-mélység ~142,2°K 11,35°É"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [139,10],
+     [141,11],
+     [142.5,11.4],
+     [144.5,12.5],
+     [146.5,14.5],
+     [147.6,17],
+     [147.5,19.5],
+     [146.5,21.5],
+     [145,23.5],
+     [143.5,24.5]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--golf-aramlas",
+    "name": "Golf-áramlás",
+    "confidence": "medium",
+    "note": "meleg; Floridai-szoros → USA partja → ~40°É 50°Ny; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [-81,24.3],
+     [-79.8,25.5],
+     [-79.8,27.5],
+     [-79.8,30],
+     [-78.5,32.5],
+     [-75.5,35.3],
+     [-72,37],
+     [-67,38.8],
+     [-60,39.8],
+     [-55,40.3],
+     [-50,41]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--eszak-atlanti-aramlas",
+    "name": "Észak-atlanti-áramlás",
+    "confidence": "medium",
+    "note": "meleg; a Golf-áramlás folytatása ÉNy-Európa és Norvégia felé; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [-50,41],
+     [-45,43.5],
+     [-40,46],
+     [-33,49],
+     [-25,52],
+     [-18,55],
+     [-12,58],
+     [-6,61],
+     [0,63],
+     [6,65],
+     [11,67.5],
+     [15,70],
+     [20,72]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--kanari-aramlas",
+    "name": "Kanári-áramlás",
+    "confidence": "medium",
+    "note": "hideg; Portugália → Kanári-szk. → ~15°É; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [-10.5,43],
+     [-10.5,40],
+     [-10.2,37],
+     [-11,34],
+     [-13,31],
+     [-15.5,28.5],
+     [-17.5,25],
+     [-18.5,21.5],
+     [-18.5,18],
+     [-18,15]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--labrador-aramlas",
+    "name": "Labrador-áramlás",
+    "confidence": "medium",
+    "note": "hideg; Baffin-öböl → Labrador partja → Új-Fundland; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [-70,76],
+     [-66,73],
+     [-62,70],
+     [-59,67],
+     [-61,64],
+     [-60.5,61],
+     [-58,58],
+     [-55,55],
+     [-52.5,51.5],
+     [-51,48.5],
+     [-50,46]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--benguela-aramlas",
+    "name": "Benguela-áramlás",
+    "confidence": "medium",
+    "note": "hideg; Fokföld → Namíbia, Angola partja mentén északra; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [18,-35],
+     [16.5,-33],
+     [15,-30],
+     [13.5,-27],
+     [12.5,-24],
+     [11.5,-21],
+     [11,-18],
+     [11,-15],
+     [10,-12]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--braziliai-aramlas",
+    "name": "Brazíliai-áramlás",
+    "confidence": "medium",
+    "note": "meleg; Brazília partja mentén délre; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [-34.5,-8],
+     [-36.5,-12],
+     [-37.5,-15],
+     [-38.5,-18.5],
+     [-39.5,-21.5],
+     [-42,-24],
+     [-45,-26.5],
+     [-48,-30],
+     [-51,-34],
+     [-53.5,-38]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--humboldt-aramlas",
+    "name": "Humboldt-áramlás",
+    "confidence": "medium",
+    "note": "hideg (Perui-áramlás); Chile és Peru partja mentén északra; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [-75,-45],
+     [-75,-40],
+     [-74,-35],
+     [-73,-30],
+     [-72,-25],
+     [-72,-20],
+     [-75,-16],
+     [-78.5,-12],
+     [-81,-8],
+     [-82.5,-4.5],
+     [-84,-1],
+     [-88,0]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--kuro-shio-aramlas",
+    "name": "Kuro-shio-áramlás",
+    "confidence": "medium",
+    "note": "meleg; Tajvan → Japán déli partja → kelet felé; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [122,22],
+     [122.5,24.5],
+     [124.5,26.5],
+     [127.5,28.5],
+     [130.5,30.5],
+     [133,32.5],
+     [136,33.1],
+     [139,34.2],
+     [141,35.3],
+     [145,36],
+     [150,36.5],
+     [155,37],
+     [160,37.5]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--oja-shio-aramlas",
+    "name": "Oja-shio-áramlás",
+    "confidence": "medium",
+    "note": "hideg; Kamcsatka, Kuril-szk. → Észak-Japán; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [166,58],
+     [164,56],
+     [162.5,53.8],
+     [158.5,51],
+     [155,48.5],
+     [151.5,46],
+     [148,43.5],
+     [145,41.8],
+     [143,40.5],
+     [142.5,38.5]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--eszak-egyenlitoi-aramlas",
+    "name": "Észak-egyenlítői-áramlás",
+    "confidence": "medium",
+    "note": "meleg; kelet→nyugat, csendes-óceáni (az antimeridiánnál kettévágva) és atlanti ág; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [
+     [
+      [-110,12],
+      [-120,12.5],
+      [-130,13],
+      [-140,13.5],
+      [-150,14],
+      [-160,14],
+      [-170,14],
+      [-180,14]
+     ],
+     [
+      [180,14],
+      [170,14],
+      [160,13.5],
+      [150,13],
+      [140,13],
+      [130,13]
+     ],
+     [
+      [-20,15],
+      [-28,15],
+      [-36,15],
+      [-44,15],
+      [-52,15],
+      [-58,15]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--del-egyenlitoi-aramlas",
+    "name": "Dél-egyenlítői-áramlás",
+    "confidence": "medium",
+    "note": "meleg; kelet→nyugat az Egyenlítőtől délre: atlanti, csendes-óceáni (kettévágva) és indiai-óceáni ág; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [
+     [
+      [8,-2],
+      [0,-3],
+      [-10,-4],
+      [-20,-5],
+      [-28,-5.5],
+      [-33,-6]
+     ],
+     [
+      [-82,-3],
+      [-90,-3],
+      [-100,-4],
+      [-110,-5],
+      [-120,-6],
+      [-130,-7],
+      [-140,-7],
+      [-150,-9],
+      [-160,-10],
+      [-170,-11],
+      [-180,-12]
+     ],
+     [
+      [180,-12],
+      [170,-13],
+      [160,-14],
+      [155,-15]
+     ],
+     [
+      [115,-12],
+      [105,-12.5],
+      [95,-13],
+      [85,-14],
+      [75,-14.5],
+      [65,-15],
+      [57,-15],
+      [51,-15]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--tengeraramlasok--nyugati-szel-aramlas",
+    "name": "Nyugati-szél-áramlás",
+    "confidence": "medium",
+    "note": "hideg; nyugat→kelet az Antarktisz körül (Antarktiszi cirkumpoláris áramlás), ±180°-nál végződő szakasz; sematikus útvonal, a folyás irányában"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [-180,-55],
+     [-160,-55],
+     [-140,-55],
+     [-120,-55],
+     [-100,-56],
+     [-80,-57],
+     [-65,-58.5],
+     [-50,-55],
+     [-40,-52],
+     [-20,-50],
+     [0,-50],
+     [20,-46],
+     [40,-47],
+     [60,-48],
+     [80,-48],
+     [100,-48],
+     [120,-49],
+     [140,-51],
+     [160,-54],
+     [180,-55]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--egyeb--eszaki-sarkvidek-arktisz",
+    "name": "Északi-sarkvidék (Arktisz)",
+    "confidence": "high",
+    "note": "az Északi-sarkkörtől (66,56°É) északra eső terület"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [-180,66.56],
+      [-120,66.56],
+      [-60,66.56],
+      [0,66.56],
+      [60,66.56],
+      [120,66.56],
+      [180,66.56],
+      [180,90],
+      [90,90],
+      [0,90],
+      [-90,90],
+      [-180,90],
+      [-180,66.56]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "fold--egyeb--deli-sarkvidek-antarktisz",
+    "name": "Déli-sarkvidék (Antarktisz)",
+    "confidence": "high",
+    "note": "a déli szélesség 60°-tól délre eső terület (Antarktisz és a Déli-óceán)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [-180,-90],
+      [-90,-90],
+      [0,-90],
+      [90,-90],
+      [180,-90],
+      [180,-60],
+      [120,-60],
+      [60,-60],
+      [0,-60],
+      [-60,-60],
+      [-120,-60],
+      [-180,-60],
+      [-180,-90]
+     ]
+    ]
+   }
+  }
+ ]
+}
