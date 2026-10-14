@@ -1,6 +1,6 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
-import { review, startOfDay, type Grade, type SrsState } from '@/lib/srs';
+import { DAY, MASTERED_DAYS, review, startOfDay, type Grade, type SrsState } from '@/lib/srs';
 
 /**
  * Item ids are namespaced: `place:<topography id>`, `concept:<slug>`, `process:<id>`,
@@ -30,6 +30,8 @@ export interface ProgressData {
 
 interface ProgressStore extends ProgressData {
   rate: (id: string, grade: Grade, now?: number) => void;
+  /** Érettségi mode: a correct answer counts the item as learned (mastered) straight away. */
+  markLearned: (id: string, now?: number) => void;
   setReviewed: (contentId: string, value: boolean) => void;
   addNote: (contentId: string, text: string) => void;
   removeNote: (id: string) => void;
@@ -62,6 +64,16 @@ export const useProgress = create<ProgressStore>()(
           const k = dayKey(now);
           return {
             srs: { ...s.srs, [id]: review(s.srs[id], grade, now) },
+            activity: { ...s.activity, [k]: (s.activity[k] ?? 0) + 1 },
+          };
+        }),
+      markLearned: (id, now = Date.now()) =>
+        set((s) => {
+          const k = dayKey(now);
+          const r = review(s.srs[id], 3, now);
+          const interval = Math.max(r.interval, MASTERED_DAYS);
+          return {
+            srs: { ...s.srs, [id]: { ...r, interval, due: startOfDay(now) + interval * DAY } },
             activity: { ...s.activity, [k]: (s.activity[k] ?? 0) + 1 },
           };
         }),

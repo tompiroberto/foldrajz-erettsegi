@@ -6,6 +6,7 @@ Topográfia (802 hivatalos név vaktérképen) és elmélet (10 témakör, 1025 
 
 - **Topográfia:** böngészhető atlasz régiónként, kártyák, felfedező séta, 5-féle kvíz (Hol van?, beírós, választós, feladatlap, fekvés), minden helyhez fekvésleírás és kulcstények.
 - **Elmélet:** tananyag (647 követelmény, mindegyikhez tanulókártya), fogalomtár (1261 szócikk), 41 animált folyamat esszégyakorlóval, 20 számolós feladattípus, vegyes kvíz (9 kérdéstípus).
+- **Érettségi mód** (`/topografia/erettsegi`, `/elmelet/erettsegi`): „Mi ez? Írd be a nevét!” – topográfiából a kontúrtérképen számmal jelölt hely, elméletből a meghatározás alapján a fogalom. Választható földrész / témakör (vagy mind); a pontosan beírt válasz megtanultnak számít, a hibás visszakerül az ismétlésbe.
 - **Vizsga:** 44 korábbi érettségi feladatsor (2005–2026) feladatonként, kattintásra látható megoldással; próbavizsga 240 perces időzítővel.
 - **Mai ismétlés:** az esedékes elemek (SM-2 ütemezés) és új elemek a napi célig; **Haladás:** körök régiónként/témakörönként, aktivitási naptár, gyenge pontok, heti terv a vizsga dátumáig.
 

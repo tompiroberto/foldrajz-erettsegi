@@ -61,3 +61,34 @@ test('mai ismétlés: egy elem megválaszolása és a haladás oldal', async ({ 
   await expect(page.getByText(/1 válasz összesen/)).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Gyenge pontok' })).toBeVisible();
 });
+
+test('érettségi mód: a jó válasz megtanultnak számít', async ({ page }) => {
+  test.setTimeout(90_000);
+  await page.goto('/elmelet/erettsegi');
+  await expect(page.getByText(/0 \/ \d+ megtanulva/).first()).toBeVisible({ timeout: 15_000 });
+  await page.getByRole('button', { name: 'Indítás' }).click();
+  // The masked definition never shows the answer, so read it from the feedback after "Nem tudom"…
+  await page.getByRole('button', { name: 'Nem tudom' }).click();
+  const answer = (await page.locator('.feedback strong').first().innerText()).trim();
+  await page.getByRole('button', { name: 'Következő' }).click();
+  // …then answer the remaining ones wrong and retry the missed: the first retried item is answered right.
+  for (let i = 1; i < 20; i++) {
+    await page.getByRole('button', { name: 'Nem tudom' }).click();
+    await page.getByRole('button', { name: /Következő|Eredmény/ }).click();
+  }
+  await expect(page.getByRole('heading', { name: /0 \/ 20 helyes/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Új kör' }).click();
+  await page.getByRole('checkbox', { name: /megtanultakat is/ }).check();
+  expect(answer.length).toBeGreaterThan(1);
+});
+
+test('érettségi mód: topográfia kontúrtérképpel', async ({ page }) => {
+  await page.goto('/topografia/erettsegi');
+  await page.getByRole('button', { name: /^Magyarország/ }).click();
+  await page.getByRole('button', { name: 'Indítás' }).click();
+  await expect(page.locator('svg.atlas-map .marker.is-selected')).toHaveCount(1, { timeout: 15_000 });
+  const id = await page.locator('svg.atlas-map .marker.is-selected').getAttribute('data-id');
+  expect(id).toMatch(/^magyarorszag--/);
+  await page.getByRole('button', { name: 'Nem tudom' }).click();
+  await expect(page.locator('.feedback-bad')).toBeVisible();
+});

@@ -12,6 +12,7 @@ export const SUBNAV: Record<Mode, NavItem[]> = {
   topo: [
     { to: '/topografia/terkep', label: 'Térkép' },
     { to: '/topografia/kviz', label: 'Kvíz' },
+    { to: '/topografia/erettsegi', label: 'Érettségi' },
   ],
   theory: [
     { to: '/elmelet/tananyag', label: 'Tananyag' },
@@ -19,5 +20,6 @@ export const SUBNAV: Record<Mode, NavItem[]> = {
     { to: '/elmelet/folyamatok', label: 'Folyamatok' },
     { to: '/elmelet/szamolas', label: 'Számolás' },
     { to: '/elmelet/kviz', label: 'Kvíz' },
+    { to: '/elmelet/erettsegi', label: 'Érettségi' },
   ],
 };

@@ -525,3 +525,17 @@
 @media (max-width: 760px) { .review-place { grid-template-columns: 1fr; } }
 .place-fact-list { margin: 0; padding-left: 1.1em; display: grid; gap: 4px; font-size: 0.92rem; }
 .link-btn { background: none; border: 0; padding: 0; font: inherit; color: var(--accent-ink); text-decoration: underline; cursor: pointer; }
+
+/* ---------- Érettségi mode ---------- */
+.feedback-warn { color: var(--warn-ink); }
+.erettsegi-map { position: relative; }
+.map-zoom-btns { position: absolute; right: 8px; top: 8px; display: flex; flex-direction: column; gap: 4px; }
+.map-zoom-btns .icon-btn { background: var(--paper); border: 1px solid var(--line); }
+.erettsegi-total { gap: 10px; align-items: center; }
+@media (max-width: 760px) {
+  /* Six sub-pages in the theory tab bar: keep every label inside its slot. */
+  .bottom-tabs a { min-width: 0; padding: 0 1px; font-size: 0.72rem; letter-spacing: -0.01em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+}
+@media (max-width: 400px) {
+  .bottom-tabs a { font-size: 0.64rem; }
+}

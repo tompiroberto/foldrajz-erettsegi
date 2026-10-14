@@ -17,6 +17,7 @@ const Beallitasok = lazy(() => import('./pages/Beallitasok'));
 const TopoMap = lazy(() => import('./pages/TopoMap'));
 const Szamolas = lazy(() => import('./pages/Szamolas'));
 const TopoQuiz = lazy(() => import('./pages/TopoQuiz'));
+const Erettsegi = lazy(() => import('./pages/Erettsegi'));
 const Abrak = lazy(() => import('./pages/Abrak'));
 const Folyamatok = lazy(() => import('./pages/Folyamatok'));
 const TheoryQuiz = lazy(() => import('./pages/TheoryQuiz'));
@@ -82,6 +83,7 @@ export default function App() {
         <Route path="topografia" element={<TopoHome />} />
         <Route path="topografia/terkep" element={<TopoMap />} />
         <Route path="topografia/kviz" element={<TopoQuiz />} />
+        <Route path="topografia/erettsegi" element={<Erettsegi part="topo" />} />
         <Route path="elmelet" element={<TheoryHome />} />
         <Route path="elmelet/tananyag" element={<Tananyag />} />
         <Route path="elmelet/tananyag/:subId" element={<Tananyag />} />
@@ -92,6 +94,7 @@ export default function App() {
         <Route path="elmelet/szamolas" element={<Szamolas />} />
         <Route path="elmelet/szamolas/:calcId" element={<Szamolas />} />
         <Route path="elmelet/kviz" element={<TheoryQuiz />} />
+        <Route path="elmelet/erettsegi" element={<Erettsegi part="theory" />} />
         <Route path="elmelet/abrak" element={<Abrak />} />
         <Route path="ismetles" element={<Ismetles />} />
         <Route path="haladas" element={<Haladas />} />
